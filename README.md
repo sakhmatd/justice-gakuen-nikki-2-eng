@@ -93,6 +93,7 @@ Both need a PocketStation BIOS, which is not included.
 ## What is tested
 
 Every translated screen was checked in an emulator with scripted runs.
+One full year was manually played.
 Corrections are welcome.
 
 ## Applying the patch
@@ -150,7 +151,7 @@ only the rendered pixels, no font files.
   M PLUS 1p, M PLUS Rounded 1c, Mali, Neucha, Patrick Hand, Potta One,
   Roboto Condensed, Russo One, Source Serif 4, Sriracha, Zen Kurenaido.
 - DejaVu Sans Condensed: Bitstream Vera and DejaVu licence.
-- Microsoft fonts (proprietary, shipped with Windows): Arial, Arial Black,
+- Microsoft fonts: Arial, Arial Black,
   Bahnschrift, Consolas, Georgia, Impact, MS Gothic, Segoe UI Black,
   Tahoma, Times New Roman, Verdana.
 
