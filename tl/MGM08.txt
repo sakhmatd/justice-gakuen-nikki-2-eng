@@ -1,0 +1,896 @@
+## MGM08 g0 s0000
+JP: ひゃあ～!{n}今日も本当に暑いなあ!{p}
+EN: Phew! It's so hot again today!{p}
+
+## MGM08 g0 s0001
+JP: ん!?{n}あれは将馬とその兄貴の修一さん。{n}兄弟で何話してるんだろう。{p}{end}
+EN: Hm!? That's Shoma and his big brother, Shuichi-san. Wonder what they're talking about.{p}{end}
+
+## MGM08 g0 s0002
+JP: 2人に近寄って行く{n}別の場所へ行く{p}
+EN: Go over to them{n}Go somewhere else{p}
+
+## MGM08 g0 s0003
+JP: おーい将馬!{n}2人で何やってるの?{p}
+EN: Hey, Shoma! What are you two up to?{p}
+
+## MGM08 g0 s0004
+JP: おう!{sp}{v3:3}か!{n}今から夏の全国高校野球大会の{n}試合があるんだよ!{p}
+EN: Oh! {v3:3}! There's a game in the national summer baseball tournament on right now!{p}
+
+## MGM08 g0 s0005
+JP: ま、オイラは補欠だから{n}応援団長をやるんだけどな!{p}
+EN: Well, I'm a benchwarmer, so I'm leading the cheering squad instead!{p}
+
+## MGM08 g0 s0006
+JP: 応援だって大事な役割があるんだぞ。{n}それを忘れるな。{p}{end}
+EN: Cheering is an important job too. Don't forget that.{p}{end}
+
+## MGM08 g0 s0007
+JP: そんなことぐらい{n}兄貴に言われなくてもわかってるって!{n}そうだ{v3:3}!{n}暇なら今から一緒に試合見に行かないか?{p}{end}
+EN: I know that, bro, ya don't gotta tell me! Oh yeah, {v3:3}! If you're free, wanna come watch the game with us?{p}{end}
+
+## MGM08 g0 s0008
+JP: 一緒に行く{n}行かない{p}{end}
+EN: Go with them{n}Don't go{p}{end}
+
+## MGM08 g0 s0009
+JP: ちょうど暇だし、{n}一緒に行こう!{p}{end}
+EN: I'm free anyway. Let's go!{p}{end}
+
+## MGM08 g0 s0010
+JP: くそ～!{n}あんだけ応援したのに負けちまったぜ!{n}オイラが出てりゃあなあ。{p}{end}
+EN: Dang it! We cheered our hearts out and still lost! If only I'd been out there...{p}{end}
+
+## MGM08 g0 s0011
+JP: 将馬には来年があるじゃないか!{p}
+EN: You've still got next year, Shoma!{p}
+
+## MGM08 g0 s0012
+JP: そうだな!{n}よーし!{n}来年はオイラがホームランを打って{n}甲子園に出場してやるぜ!{p}{end}
+EN: Yeah, you're right! Alright! Next year I'm hittin' a homer and takin' us to Koshien!{p}{end}
+
+## MGM08 g0 s0013
+JP: そうと決まったらさっそく練習だ!{n}じゃあな!{sp}{v3:3}!{p}{end}
+EN: Now that that's settled, time to practice! See ya, {v3:3}!{p}{end}
+
+## MGM08 g0 s0014
+JP: 相変わらず将馬は{n}気持ちの切り替えが早いなあ。{n}でも、元気になったから{n}よかった、よかった!{p}{end}
+EN: Shoma bounces back fast as always. But he's in good spirits again, so all's well!{p}{end}
+
+## MGM08 g0 s0015
+JP: 暑いから今日はやめとくよ。{p}
+EN: It's too hot. I'll pass today.{p}
+
+## MGM08 g0 s0016
+JP: なにぃ?{n}あついからぁ!?{p}
+EN: Whaaat? 'Cause it's HOT!?{p}
+
+## MGM08 g0 s0017
+JP: 分かったよ!{n}そんな軟弱なこと言うやつと{n}一緒に行ったんじゃ{n}勝つ試合も負けちまうぜ!{p}
+EN: Fine! If we take a softie like you along, we'll lose even a game we shoulda won!{p}
+
+## MGM08 g0 s0018
+JP: 兄貴!{n}行こうぜ!{p}
+EN: C'mon, bro! Let's go!{p}
+
+## MGM08 g0 s0019
+JP: 気にしないでくれよ、{n}口がわるいのは、{n}いつものことだから。{p}{end}
+EN: Don't mind him. He's always had a mouth on him.{p}{end}
+
+## MGM08 g0 s0020
+JP: 気にするなって言われても……{n}やっぱりあの言い方は気になるよなあ。{p}
+EN: Easy for him to say... That still kinda bugs me.{p}
+
+## MGM08 g0 s0021
+JP: グラウンドは暑いから{n}別の場所へ行こう。{n}どこに行こうかなあ?{p}
+EN: The field's too hot. Let's go somewhere else. Where should I go?{p}
+
+## MGM08 g0 s0022
+JP: 夏休み中だからか、校内に人影は少ないな。{n}屋上も、日陰はいい風が吹いて{n}気持ちいいが、日なたは{n}ジリジリ陽がさして、蒸し暑い。{p}
+EN: Maybe because it's summer break, there's hardly anyone at school. The shade on the roof gets a nice breeze, but out in the sun it's baking and muggy.{p}
+
+## MGM08 g0 s0023
+JP: こんな時に屋上には人はいないか……{n}お、あの日陰にいるのは……アキラか?{p}{end}
+EN: Guess nobody comes up to the roof in this heat... Oh, is that... Akira in the shade?{p}{end}
+
+## MGM08 g0 s0024
+JP: やぁ、アキラ。{n}そんな格好で学校にいるなんて{n}珍しいね。{p}{end}
+EN: Hey, Akira. It's rare to see you at school dressed like that.{p}{end}
+
+## MGM08 g0 s0025
+JP: あ、{v5:10}。{n}……今、夏休みだから、{n}普段着で、ちょっと来てみたの……。{p}
+EN: Oh, {v5:10}. ...It's summer break, so... I came in my regular clothes for a bit...{p}
+
+## MGM08 g0 s0026
+JP: そうか、夏休みだからね。{n}……しかし今日は暑いなぁ。{p}{end}
+EN: Right, it's summer break. ...Man, it's hot today.{p}{end}
+
+## MGM08 g0 s0027
+JP: しばらくアキラといる{n}アキラと別れて他の場所へ{p}
+EN: Stay with Akira a while{n}Leave Akira and go elsewhere{p}
+
+## MGM08 g0 s0028
+JP: ちょっと屋上は暑すぎるな。{n}俺は他のトコロへいくよ。{n}じゃな、アキラ。{p}
+EN: It's way too hot up here. I'm gonna go somewhere else. See ya, Akira.{p}
+
+## MGM08 g0 s0029
+JP: さてと、どこにいくかな。{p}{end}
+EN: Now, where should I go?{p}{end}
+
+## MGM08 g0 s0030
+JP: アキラは暑くない?{p}
+EN: Aren't you hot, Akira?{p}
+
+## MGM08 g0 s0031
+JP: うん……日陰にいれば、{n}いい風が吹いてくるよ……。{n}それに……、{p}{end}
+EN: Mm... If you stay in the shade, a nice breeze comes through... And besides...{p}{end}
+
+## MGM08 g0 s0032
+JP: ……今日は、私服だし、ネ。{p}
+EN: ...I'm in my own clothes today, see.{p}
+
+## MGM08 g0 s0033
+JP: そうか、いつもはライダースーツだもんな。{n}アレは暑そうだ。{n}少々暑くても、学校じゃ脱ぐわけには{n}いかないしな。{p}
+EN: Right, you're usually in that rider suit. That looks hot. Even when it's hot, you can't exactly take it off at school.{p}
+
+## MGM08 g0 s0034
+JP: うん……。{n}ホントにね。{n}私も……普通の学生生活が{n}したいな……。{p}
+EN: Yeah... It really is. I wish... I could have a normal school life too...{p}
+
+## MGM08 g0 s0035
+JP: え!?{n}ひょっとして、アキラ、{n}転校するの?{p}{end}
+EN: Huh!? Wait, Akira, are you transferring?{p}{end}
+
+## MGM08 g0 s0036
+JP: え?{n}……そういうワケじゃ{n}……ないけど。{p}
+EN: Huh? ...It's not... like that.{p}
+
+## MGM08 g0 s0037
+JP: ね、もしね、{n}転校するとしたら、{n}どこの高校がいいかな?{p}{end}
+EN: Hey, if... if I did transfer, which school do you think would be good?{p}{end}
+
+## MGM08 g0 s0038
+JP: 太陽学園{n}五輪高校{n}パシフィックハイスクール{n}ジャスティス学園{p}
+EN: Taiyo High{n}Gorin High{n}Pacific High{n}Justice High{p}
+
+## MGM08 g0 s0039
+JP: う～んやっぱり、太陽学園かな。{n}校風も自由だしね。{n}制服もかわいいから似合うと思うよ。{p}
+EN: Hmm, Taiyo High, I guess. It's pretty laid-back. The uniforms are cute too, so I bet you'd look good in one.{p}
+
+## MGM08 g0 s0040
+JP: ふふっ、そうかな?{n}まぁ一番無難よね、あそこが。{p}{end}
+EN: Hee hee, you think so? Well, it's the safest pick, that's for sure.{p}{end}
+
+## MGM08 g0 s0041
+JP: そうだな、五輪高校かな。{n}設備もそろってるし、{n}中国拳法部もあったはずだよ、たしか。{n}いいんじゃないかな。{p}
+EN: Gorin High, maybe. They've got all the facilities, and I'm pretty sure they have a Chinese kenpo club. Could be good.{p}
+
+## MGM08 g0 s0042
+JP: そうかなー?{n}いいところだけど、ね。{n}拳法部……には{n}入らないと思うな、たぶん。{p}{end}
+EN: Hmm... It's a nice place, but... I don't think I'd join... the kenpo club. Probably.{p}{end}
+
+## MGM08 g0 s0043
+JP: パシフィックハイスクールかな。{n}外国人がいっぱいいて、{n}いろいろ勉強できると思うよ。{p}{end}
+EN: Pacific High, maybe. There are lots of foreign students, so you could learn all kinds of stuff.{p}{end}
+
+## MGM08 g0 s0044
+JP: あそこって日本人も、{n}入れるの?{n}ちょっと……どうかな?{p}{end}
+EN: Can Japanese students even get in there? I'm not... so sure.{p}{end}
+
+## MGM08 g0 s0045
+JP: 思い切って、ジャスティス学園って{n}いうのはどうかな?{n}ちょっとかわってるけど。{p}
+EN: How about going all out with Justice High? It's a little strange, though.{p}
+
+## MGM08 g0 s0046
+JP: やだ、ジャスティス学園は……{n}あんまり行きたくないな……。{n}洗脳されちゃいそう。{p}{end}
+EN: Ugh, not Justice High... I really don't want to go there... I'd get brainwashed.{p}{end}
+
+## MGM08 g0 s0047
+JP: フフッ、すぐに転校する{n}つもりはないけど、{n}転校するのも{n}おもしろいかもね。{p}{end}
+EN: Hee hee, I'm not planning to transfer anytime soon, but it might be fun.{p}{end}
+
+## MGM08 g0 s0048
+JP: ゲド高も好きなんだけどな……{n}みんないい人だし……。{n}でも……やっぱり不自由だから……。{p}{end}
+EN: I do like Gedo High... Everyone's nice... But... I just can't be free there...{p}{end}
+
+## MGM08 g0 s0049
+JP: （そりゃそうだよな……{n}{sp}ずっとライダースーツじゃ、{n}{sp}女の子じゃなくてもツライよな……）{p}
+EN: (Makes sense... Wearing a rider suit all the time would be rough even if you weren't a girl...){p}
+
+## MGM08 g0 s0050
+JP: 今日も暑いなあ。{n}ん!?{sp}夏とロベルトが体育館のすみで{n}話し合っている。{n}何話してるんだ?{p}
+EN: Hot again today. Hm!? Natsu and Roberto are talking in a corner of the gym. What about?{p}
+
+## MGM08 g0 s0051
+JP: 2人に話しかける{n}別の場所へ行く{p}{end}
+EN: Talk to them{n}Go somewhere else{p}{end}
+
+## MGM08 g0 s0052
+JP: おーい、夏にロベルト!{n}そんな体育館のすみで{n}一体何を話してるんだ?{p}{end}
+EN: Hey, Natsu, Roberto! What are you two talking about in the corner of the gym?{p}{end}
+
+## MGM08 g0 s0053
+JP: あら、{v6:4}じゃない。{n}今ね、スポーツで汗を流した後の水分補給は{n}何が一番効果的か話し合ってたところなの。{p}{end}
+EN: Oh, it's {v6:4}. We were just discussing the best way to rehydrate after working up a sweat in sports.{p}{end}
+
+## MGM08 g0 s0054
+JP: 俺は、{n}やっぱりスポーツドリンクだと思うな。{n}{v3:5}はどう思う?{p}
+EN: Me, I'd say sports drinks, no question. What do you think, {v3:5}?{p}
+
+## MGM08 g0 s0055
+JP: スポーツドリンク{n}輪切りのレモン{n}ミネラルウォーター{p}{end}
+EN: Sports drink{n}Lemon slices{n}Mineral water{p}{end}
+
+## MGM08 g0 s0056
+JP: やっぱりな!{n}イオン飲料は体の吸収がいいから{n}水分補給にはもってこいだよな!{p}{end}
+EN: I knew it! Your body absorbs ion drinks fast, so they're perfect for rehydrating!{p}{end}
+
+## MGM08 g0 s0057
+JP: よかったら今度一緒に{n}気持ち良い汗をかきにいこうぜ!{p}{end}
+EN: If you want, let's go work up a good sweat together sometime!{p}{end}
+
+## MGM08 g0 s0058
+JP: き、気持ち良い汗!?{p}{end}
+EN: W-work up a good sweat!?{p}{end}
+
+## MGM08 g0 s0059
+JP: バ、バカ!{sp}変な勘違いするなよ!{n}スポーツで気持ち良い汗を{n}かくっていう意味だよ!{n}勘弁してくれ、じゃあな!{p}{end}
+EN: D-dummy! Don't get the wrong idea! I mean a good sweat from sports! Give me a break. See ya!{p}{end}
+
+## MGM08 g0 s0060
+JP: お、おいロベルト!{n}な、なーんだスポーツのことだったのか。{n}そんな風に考える俺って……。{p}{end}
+EN: H-hey, Roberto! Oh, so he meant sports. What does it say about me that I thought...{p}{end}
+
+## MGM08 g0 s0061
+JP: やっぱりそうよね!{n}レモンの皮には{n}ビタミンが豊富だからね!{p}{end}
+EN: I knew it! Lemon peel is packed with vitamins!{p}{end}
+
+## MGM08 g0 s0062
+JP: よかったら今度一緒に{n}気持ち良い汗をかきましょうよ!{p}{end}
+EN: If you want, let's work up a good sweat together sometime!{p}{end}
+
+## MGM08 g0 s0064
+JP: バ、バカ!{sp}変な勘違いしないでよ!{n}スポーツで気持ち良い汗を{n}かくっていう意味なのに!{n}{v6:4}のエッチ!{p}
+EN: D-dummy! Don't get the wrong idea! I meant a good sweat from sports! {v6:4}, you perv!{p}
+
+## MGM08 g0 s0065
+JP: お、おい夏!{n}な、なあんだスポーツのことだったのか。{n}そんな風に考える俺って……。{p}
+EN: H-hey, Natsu! Oh, so she meant sports. What does it say about me that I thought...{p}
+
+## MGM08 g0 s0066
+JP: そうか、そう思ってるのか……。{p}
+EN: I see, so that's what you think...{p}
+
+## MGM08 g0 s0067
+JP: ミネラルウォーターも{n}確かに悪いとは言わないけれど、{n}あまり冷たいものは控えておいた方が{n}いいわよ。{p}{end}
+EN: Mineral water isn't bad, I'll give you that, but you should go easy on really cold drinks.{p}{end}
+
+## MGM08 g0 s0068
+JP: ま、何事も{n}ほどほどが肝心ということだな。{p}
+EN: Well, moderation is key in everything, I guess.{p}
+
+## MGM08 g0 s0069
+JP: 夏場はとかく水分を多くとりがちだけど{n}注意してね。{p}
+EN: People tend to drink a lot in summer, so be careful.{p}
+
+## MGM08 g0 s0070
+JP: うん、ありがとう。{n}なんだか一瞬、{n}夏がすごく優しい顔に見えたなあ。{p}{end}
+EN: Yeah, thanks. For a second there, Natsu's face looked really gentle.{p}{end}
+
+## MGM08 g0 s0071
+JP: なんか体育館の中は暑そうだから{n}中に入るのはやめようっと。{n}どこに行こう?{p}
+EN: It looks hot in the gym, so I won't go in. Where should I go?{p}
+
+## MGM08 g0 s0072
+JP: アツい……こんな暑さじゃ、{n}何もする気が起きないよ……。{n}少し保健室で涼ませてもらおうっと。{n}響子先生、いるかな……?{p}
+EN: So hot... I can't be bothered to do anything in this heat... I'll go cool off in the infirmary for a bit. Is Kyoko-sensei in...?{p}
+
+## MGM08 g0 s0073
+JP: よぉ、{v3:16}!{n}保健室に何か用かぁ?{p}
+EN: Yo, {v3:16}! Got business in the infirmary?{p}
+
+## MGM08 g0 s0074
+JP: （うわ、隼人先生がいるよ……）{p}
+EN: (Ugh, Hayato-sensei's here...){p}
+
+## MGM08 g0 s0075
+JP: とりあえず中に入る{n}別の場所へ行く{p}
+EN: Go in anyway{n}Go somewhere else{p}
+
+## MGM08 g0 s0076
+JP: いえ、特に急ぎの用事じゃないので、{n}また後で来ます。{n}それじゃ。{p}{end}
+EN: No, it's nothing urgent, so I'll come back later. Bye.{p}{end}
+
+## MGM08 g0 s0077
+JP: さてと、今度はどこへ行こうかな……。{p}{end}
+EN: Okay, where should I go now...{p}{end}
+
+## MGM08 g0 s0078
+JP: いえ、特別急ぎの用事じゃないんですけど。{p}{end}
+EN: No, it's nothing all that urgent, but...{p}{end}
+
+## MGM08 g0 s0079
+JP: あぁん?{n}……さてはお前、響子先生が目当てか?{p}
+EN: Huh? ...Don't tell me you're here for Kyoko-sensei?{p}
+
+## MGM08 g0 s0080
+JP: 隼人先生こそ、響子先生目当てですか?{n}実はクーラー目当てなんです{n}実はそうなんです{p}
+EN: Aren't you here for Kyoko-sensei?{n}Actually, I'm here for the AC{n}Actually, yes, I am{p}
+
+## MGM08 g0 s0081
+JP: は、隼人先生こそ……。{n}まめに保健室通ってるじゃないですか。{n}響子先生が目当てなんでしょ?{p}
+EN: Wh-what about you, Hayato-sensei... You're in the infirmary all the time. You're here for Kyoko-sensei, right?{p}
+
+## MGM08 g0 s0082
+JP: ば、ばっかやろぉ!!{n}よぉし、そこに座れ!{n}俺がお前の根性を叩き直してやる!{p}{end}
+EN: Wh-why, you little...!! Alright, sit down! I'm gonna knock some guts back into you!{p}{end}
+
+## MGM08 g0 s0083
+JP: えぇ!?{n}い、いえ、結構です。{n}失礼します!{p}{end}
+EN: Wha!? N-no, I'm good. Excuse me!{p}{end}
+
+## MGM08 g0 s0084
+JP: 待てぃ!{n}俺から逃げられると思ってるのかぁ?{n}よぉし、いくぜ!{p}
+EN: Hold it! Think you can run from me? Alright, here goes!{p}
+
+## MGM08 g0 s0085
+JP: ビシッ!{sp}ビシッ!{p}
+EN: WHACK! WHACK!{p}
+
+## MGM08 g0 s0086
+JP: イテテテテテ!{n}ちょ、ちょっと隼人先生!{n}強すぎますよ!?{p}
+EN: Ow ow ow ow ow! H-hey, Hayato-sensei! That's way too hard!?{p}
+
+## MGM08 g0 s0087
+JP: 何言ってやがる!{n}これぐらい序の口だぜ!{n}それ!!{p}
+EN: What're you talkin' about! This is just the warm-up! Take that!!{p}
+
+## MGM08 g0 s0088
+JP: アタタタタタタタ!!{n}（こ、これはマズイかも……）{p}
+EN: Owowowowowow!! (Th-this could be bad...){p}
+
+## MGM08 g0 s0089
+JP: ちょっと!!{n}いったい何してるの、あなたたち!{p}
+EN: Hey!! What on earth are you two doing!?{p}
+
+## MGM08 g0 s0090
+JP: （きゅ、救世主の登場だぁ……）{p}
+EN: (A-a savior has arrived...){p}
+
+## MGM08 g0 s0091
+JP: あっ……響子先生!{n}いや、これは……。{n}こいつに気合を入れてやろうと……。{p}
+EN: Ah... Kyoko-sensei! No, this is... I was just tryin' to fire this kid up...{p}
+
+## MGM08 g0 s0092
+JP: 隼人先生。{n}あなたの指導方針はすばらしいものだと{n}思いますが、今回はやり過ぎです。{p}
+EN: Hayato-sensei. I think your teaching philosophy is wonderful, but this time you went too far.{p}
+
+## MGM08 g0 s0093
+JP: はぁ……。{p}
+EN: Er... right.{p}
+
+## MGM08 g0 s0094
+JP: {v1}{col:0}クン{col:-}、こっちへいらっしゃい。{n}手当てしてあげるわ。{p}{end}
+EN: {v1}{col:0}-kun{col:-}, come over here. I'll patch you up.{p}{end}
+
+## MGM08 g0 s0095
+JP: は、はい。{p}
+EN: Y-yes, ma'am.{p}
+
+## MGM08 g0 s0096
+JP: きょ、響子先生。{n}俺も少し診てもらいたいんだが……{p}
+EN: K-Kyoko-sensei. I was hopin' you'd take a look at me too...{p}
+
+## MGM08 g0 s0097
+JP: なら、あんな無茶しないで下さい。{n}もう二度と。{n}……いいですね?{p}{end}
+EN: Then don't do anything that reckless. Never again. ...Understood?{p}{end}
+
+## MGM08 g0 s0098
+JP: （炎の体育教師も、響子先生の前じゃ{n}{sp}形無しだなぁ……）{p}{end}
+EN: (Even the fiery PE teacher is helpless in front of Kyoko-sensei...){p}{end}
+
+## MGM08 g0 s0099
+JP: はい、これで大丈夫よ、{v1}{col:0}クン{col:-}。{n}でも、体には気をつけなさいね。{p}
+EN: There, you're all set, {v1}{col:0}-kun{col:-}. But take care of yourself.{p}
+
+## MGM08 g0 s0100
+JP: （結果的にだけど、{n}{sp}響子先生の手厚い治療が{n}{sp}受けられてラッキーだったな。）{p}
+EN: (It just worked out that way, but I got Kyoko-sensei's loving care. Lucky me.){p}
+
+## MGM08 g0 s0101
+JP: よかったじゃねぇか、{v3:16}!{n}響子先生と親密になれてよぉ!{p}{end}
+EN: Good for you, {v3:16}! Gettin' all cozy with Kyoko-sensei!{p}{end}
+
+## MGM08 g0 s0102
+JP: （……隼人先生は、{n}{sp}なんかヤケになってるみたいだぞ……）{p}
+EN: (...Hayato-sensei seems kinda bitter...){p}
+
+## MGM08 g0 s0103
+JP: 実は……外があまりにも暑いので、{n}保健室のクーラーで涼もうかな……と。{p}
+EN: Actually... it's so hot out, I thought I'd cool off in the infirmary's AC...{p}
+
+## MGM08 g0 s0104
+JP: なぁにぃ!!{n}そんな情けない事でどうする!!{p}{end}
+EN: Whaaat!! What kind of wimpy talk is that!!{p}{end}
+
+## MGM08 g0 s0105
+JP: よぉし!!{n}この夏を乗り切るための気合を入れてやる。{n}いくぜぇ!!{p}
+EN: Alright!! I'll fire you up so you can make it through this summer. Here goes!!{p}
+
+## MGM08 g0 s0107
+JP: アイテテテテテテ!!{n}せ、先生!{n}もう少しやさしくお願いしますよ。{p}
+EN: Owowowowow!! S-sensei! A little gentler, please.{p}
+
+## MGM08 g0 s0108
+JP: まぁだそんなこと言ってやがるのか!{n}まだまだ足りねぇようだな。{n}それっ!!{p}
+EN: You're still sayin' that!? Guess you ain't had enough yet. Take that!!{p}
+
+## MGM08 g0 s0109
+JP: ビシッ!{sp}ビシッ!!{n}バシッ!{sp}バシッ!!{n}ドシャッ!{sp}ドシャッ!!{p}{end}
+EN: WHACK! WHACK!! SMACK! SMACK!! THUD! THUD!!{p}{end}
+
+## MGM08 g0 s0110
+JP: よぉーし、こんなもんだろう。{n}どうだ?{sp}{v3:16}!{n}気合いは入ったか!?{p}{end}
+EN: Alright, that oughta do it. Well, {v3:16}? Are you fired up!?{p}{end}
+
+## MGM08 g0 s0111
+JP: ええ……もう十分すぎるほどに。{n}どうも、ありがとうございました……。{p}{end}
+EN: Yes... more than enough. Thank you very much...{p}{end}
+
+## MGM08 g0 s0112
+JP: よぉし!{n}今のその気合、無くすんじゃねぇぞ!!{n}じゃあな!!{p}{end}
+EN: Good! Don't you lose that fire!! See ya!!{p}{end}
+
+## MGM08 g0 s0113
+JP: （隼人先生は上機嫌で出ていった……。{n}{sp}ああでも言わないと、{n}{sp}いつ終わるかわからないからな……）{p}
+EN: (Hayato-sensei left in a great mood... If I hadn't said that, who knows when it would've ended...){p}
+
+## MGM08 g0 s0114
+JP: はぁ…体の具合診てほしいけど、{n}響子先生はどこかへ出かけたままだし。{n}……しかたない、今日は帰るか。{p}{end}
+EN: Sigh... I wanted a checkup, but Kyoko-sensei's still out somewhere. ...Oh well, I'll head home for today.{p}{end}
+
+## MGM08 g0 s0115
+JP: いや～。{n}やっぱり一日一回は響子先生の顔を見ないと{n}落ち着かないですから。{n}それはそうと、隼人先生はどうして?{p}
+EN: Well, y'know. I can't settle down unless I see Kyoko-sensei's face once a day. Anyway, what brings you here, Hayato-sensei?{p}
+
+## MGM08 g0 s0116
+JP: 実は、不覚にもランニング中に、{n}足の筋を伸ばしちまった。{n}響子先生に診てもらおうと{n}思ってきたんだが、あいにくと留守でな。{p}
+EN: Truth is, I got careless and pulled a muscle in my leg while runnin'. Came to have Kyoko-sensei look at it, but she's out.{p}
+
+## MGM08 g0 s0117
+JP: だからといってそのままにしておくのも{n}良くないですよ。{n}じゃあ、僕が簡単に手当てします。{p}{end}
+EN: Still, you shouldn't just leave it like that. I'll do some quick first aid.{p}{end}
+
+## MGM08 g0 s0118
+JP: {v3:16}、お前できるのか?{p}
+EN: {v3:16}, you know how?{p}
+
+## MGM08 g0 s0119
+JP: 難しい事はできないし、やりませんよ。{n}シップ薬を貼っておくだけにします。{p}{end}
+EN: I can't do anything complicated, and I won't try. I'll just put a compress on it.{p}{end}
+
+## MGM08 g0 s0120
+JP: ……これでよし。{n}後の処置は、響子先生を探して{n}お願いしておきます。{p}{end}
+EN: ...There. I'll find Kyoko-sensei and ask her to take care of the rest.{p}{end}
+
+## MGM08 g0 s0121
+JP: すまねぇな、{v3:16}。{n}手間をかけさせちまった。{p}{end}
+EN: Thanks, {v3:16}. Sorry for the trouble.{p}{end}
+
+## MGM08 g0 s0122
+JP: いいですよ、これぐらい。{n}じゃ、くれぐれもその体で{n}無茶なことしないでくださいよ。{p}
+EN: It's no big deal. Just don't do anything crazy in that condition, okay?{p}
+
+## MGM08 g0 s0123
+JP: ああ、サンキュ!!{p}
+EN: Yeah, thanks!!{p}
+
+## MGM08 g0 s0124
+JP: （随分喜んでくれたみたいだったな。）{p}{end}
+EN: (He seemed really happy about it.){p}{end}
+
+## MGM08 g0 s0125
+JP: 部室棟に来てみると、流さんがちょうど{n}部室から出てくるトコロだった。{p}{end}
+EN: When I got to the clubhouse, Nagare-san was just coming out of the club room.{p}{end}
+
+## MGM08 g0 s0126
+JP: …………{v4:18}か……。{p}{end}
+EN: ......{v4:18}...{p}{end}
+
+## MGM08 g0 s0127
+JP: 流さん、こんにちは。{n}今からプールですか?{p}
+EN: Hello, Nagare-san. Heading to the pool?{p}
+
+## MGM08 g0 s0128
+JP: …………ああ……。{n}……クラブは休みだが、{n}ちょっとな……。{p}{end}
+EN: ......Yeah... The club's off today, but... just for a bit...{p}{end}
+
+## MGM08 g0 s0129
+JP: ご一緒していいですか?{n}じゃ、がんばってください{p}{end}
+EN: Mind if I join you?{n}Well, good luck{p}{end}
+
+## MGM08 g0 s0130
+JP: そうですか。{n}じゃ、がんばってください。{n}僕はこれで。{p}
+EN: I see. Well, good luck. I'll be going.{p}
+
+## MGM08 g0 s0131
+JP: 他には誰もいないみたいだな。{n}他の場所にいってみよう……。{p}
+EN: Doesn't look like anyone else is around. Let's try somewhere else...{p}
+
+## MGM08 g0 s0132
+JP: 俺もご一緒していいですか?{n}ご迷惑でなければ、ですけど。{p}{end}
+EN: Mind if I come along? If it's no bother, that is.{p}{end}
+
+## MGM08 g0 s0133
+JP: …………ああ……。{n}……僕はかまわない……。{n}いっしょに行こう……。{p}{end}
+EN: ......Sure... I don't mind... Let's go...{p}{end}
+
+## MGM08 g0 s0134
+JP: ザッパーーーンッ!!{n}バシャバシャ……{n}ふぅ……気持ちいい……。{p}{end}
+EN: SPLAAASH!! Splish splash... Ahh... This feels great...{p}{end}
+
+## MGM08 g0 s0136
+JP: バシャバシャ……{n}{face:15}・・・・・・・・・・{face:255}{n}バシャバシャ……{p}{end}
+EN: Splish splash... {face:15}..........{face:255} Splish splash...{p}{end}
+
+## MGM08 g0 s0137
+JP: ふぅ……一休みしよう……。{n}流さんは……一心に泳いでるな。{n}俺が遊んでる間もずっと往復してたから……{n}何キロ泳いでるんだろう?{p}
+EN: Phew... Break time... Nagare-san's swimming so intently. He's done laps the whole time I've been goofing off... How many kilometers is that?{p}
+
+## MGM08 g0 s0138
+JP: {face:15}・・・・・・・・・・{face:255}{n}まだ泳いでるな……。{n}クロール、平泳ぎ、背泳、バタフライ、{n}またクロール……よく体力がもつなぁ……。{p}
+EN: {face:15}..........{face:255} Still going... Freestyle, breaststroke, backstroke, butterfly, freestyle again... Where does he get the stamina...{p}
+
+## MGM08 g0 s0139
+JP: ザパーッ{p}{end}
+EN: Sploosh{p}{end}
+
+## MGM08 g0 s0140
+JP: …………ふぅ……。{p}
+EN: ......Phew...{p}
+
+## MGM08 g0 s0141
+JP: お、やっと一休みみたいだ。{n}お疲れさまです、流さん。{p}{end}
+EN: Oh, he's finally taking a break. Nice work, Nagare-san.{p}{end}
+
+## MGM08 g0 s0142
+JP: …………ああ……。{p}
+EN: ......Yeah...{p}
+
+## MGM08 g0 s0143
+JP: けっこう長い時間泳ぎましたね。{n}何キロくらい泳いだんですか?{p}{end}
+EN: You swam for quite a while. How many kilometers was that?{p}{end}
+
+## MGM08 g0 s0144
+JP: …………いや、全然数えてなかった。{n}気持ちよかったから、つい、な。{n}……やはり泳ぐのは夏が一番だ。{p}
+EN: ......No, I wasn't counting at all. It felt good, so I just... kept going. ...Summer really is the best for swimming.{p}
+
+## MGM08 g0 s0145
+JP: ふ～ん、なるほど。{n}いろいろな泳ぎ方やってましたけど、{n}どれが一番得意なんですか?{n}やっぱりクロール?{p}
+EN: Huh, I see. You did a bunch of different strokes. Which one are you best at? Freestyle?{p}
+
+## MGM08 g0 s0146
+JP: …………どれが一番とも{n}決めかねるな……。{n}強いていえば……背泳ぎかな。{n}一番楽だし。{p}
+EN: ......Hard to pick one... If I had to say... backstroke. It's the easiest.{p}
+
+## MGM08 g0 s0147
+JP: …………お前は何が得意だ……?{p}
+EN: ......What are you good at...?{p}
+
+## MGM08 g0 s0148
+JP: クロール{n}平泳ぎ{n}背泳ぎ{n}バタフライ{p}{end}
+EN: Freestyle{n}Breaststroke{n}Backstroke{n}Butterfly{p}{end}
+
+## MGM08 g0 s0149
+JP: 俺はやっぱりクロールですね。{n}何といっても一番速く泳げますからね、{n}気持ちいいです。{p}{end}
+EN: Freestyle for me. It's the fastest, after all. It feels great.{p}{end}
+
+## MGM08 g0 s0150
+JP: …………なるほどな……。{n}たしかにそうだ。{n}水を切って泳ぐ、というのに一番{n}イメージが近いのがクロールだろう……。{p}
+EN: ......I see... That's true. Of all the strokes, freestyle is the closest to cutting through the water...{p}
+
+## MGM08 g0 s0151
+JP: 俺はやっぱり平泳ぎですかね。{n}一番長く泳げますし。{n}最初に泳げるようになったのも、{n}平泳ぎだったかな。{p}
+EN: Breaststroke for me, I guess. I can keep it up the longest. I think it was the first stroke I learned, too.{p}
+
+## MGM08 g0 s0152
+JP: …………たしかにな……。{n}平泳ぎは遠泳にはかかせない。{n}息継ぎもしやすい……。{n}脚の動きに少しコツがいるが……。{p}{end}
+EN: ......True... Breaststroke is a must for distance swimming. It's easy to breathe, too... The kick takes a bit of a knack, though...{p}{end}
+
+## MGM08 g0 s0153
+JP: 俺も背泳ぎが一番好きですね。{n}慣れたら一番楽ですよね。{n}息継ぎいらないし。{p}
+EN: I like backstroke best too. Once you're used to it, it's the easiest, right? No coming up for air.{p}
+
+## MGM08 g0 s0154
+JP: …………そうだな……。{n}何より、空を見ながら{n}泳げるのがいい。{n}……気持ちが晴れやかになる……。{p}{end}
+EN: ......Yeah... Best of all, you swim looking up at the sky. ...It clears your head...{p}{end}
+
+## MGM08 g0 s0155
+JP: 俺、実はバタフライが泳げるんですよ。{n}アレって、泳げるようになったら、{n}気持ちいいですよね。{p}{end}
+EN: Actually, I can swim butterfly. Once you get the hang of it, it feels great, doesn't it?{p}{end}
+
+## MGM08 g0 s0156
+JP: …………ほぉ……。{n}珍しいな……、水泳部以外で{n}バタフライが泳げるのは。{n}体力はいるが、俺も好きだな……。{p}
+EN: ......Oh... That's rare... someone outside the swim club who can swim butterfly. It takes stamina, but I like it too...{p}
+
+## MGM08 g0 s0157
+JP: …………まぁ、いろいろ{n}泳いでみることだ……。{n}それぞれの泳ぎに、{n}それぞれの哲学がある……。{p}
+EN: ......Well, try swimming all kinds... Every stroke has its own philosophy...{p}
+
+## MGM08 g0 s0158
+JP: …………泳ぐことで{n}見えてくることも、多い……。{n}……水泳とは、人生そのものだ……。{p}{end}
+EN: ......Swimming shows you a lot of things... ...Swimming is life itself...{p}{end}
+
+## MGM08 g0 s0159
+JP: ……哲学……ですか。{p}{end}
+EN: ...Philosophy... huh.{p}{end}
+
+## MGM08 g0 s0160
+JP: …………さてと、{n}もう一泳ぎするか。{n}……よっと……。{p}
+EN: ......Well then, one more swim. ...Hup...{p}
+
+## MGM08 g0 s0161
+JP: あ、俺も泳ぎます!{n}よっと……{n}ザッパーーーン!{p}{end}
+EN: Oh, I'll swim too! Hup... SPLAAASH!{p}{end}
+
+## MGM08 g0 s0162
+JP: （その後はずっと泳ぎっぱなしだった……{n}{sp}水泳の人生哲学については、{n}{sp}結局わからなかったが、流さんの事は{n}{sp}少しわかった気がした……）{p}{end}
+EN: (We swam nonstop after that... I never did figure out swimming's philosophy of life, but I feel like I understand Nagare-san a little better...){p}{end}
+
+## MGM08 g1 s0000
+JP: ひゃあ～!{n}今日も本当に暑いわぁ!{p}
+EN: Phew! It's so hot again today!{p}
+
+## MGM08 g1 s0001
+JP: ん!?{n}あれは将馬と、お兄さんの修一先輩。{n}兄弟で何話してるのかしら。{p}
+EN: Hm!? That's Shoma and his big brother, Shuichi-senpai. Wonder what they're talking about.{p}
+
+## MGM08 g1 s0009
+JP: ちょうど暇だし、{n}一緒に行きましょ!{p}{end}
+EN: I'm free anyway. Let's go!{p}{end}
+
+## MGM08 g1 s0011
+JP: 将馬には来年があるじゃない!{p}{end}
+EN: You've still got next year, Shoma!{p}{end}
+
+## MGM08 g1 s0015
+JP: 暑いから今日はやめとくわ。{p}
+EN: It's too hot. I'll pass today.{p}
+
+## MGM08 g1 s0020
+JP: 気にするなって言われても……{n}やっぱりあの言い方は気になるなあ。{p}{end}
+EN: Easy for him to say... That still kinda bugs me.{p}{end}
+
+## MGM08 g1 s0022
+JP: 夏休み中だから、校内に人影は少ないわね。{n}屋上も、日陰はいい風が吹いて{n}気持ちいいけど、日なたは{n}ジリジリ陽がさしてて、蒸し暑い。{p}
+EN: It's summer break, so there's hardly anyone at school. The shade on the roof gets a nice breeze, but out in the sun it's baking and muggy.{p}
+
+## MGM08 g1 s0023
+JP: こんなんじゃ屋上に来る人なんていないか…{n}あれ?{n}あの日陰にいるのは……アキラかな?{p}{end}
+EN: Nobody's gonna come up to the roof in this heat... Huh? Is that... Akira in the shade?{p}{end}
+
+## MGM08 g1 s0024
+JP: こんにちわ、アキラ。{n}そんな格好で学校にいるなんて{n}珍しいわね。{p}{end}
+EN: Hi, Akira. It's rare to see you at school dressed like that.{p}{end}
+
+## MGM08 g1 s0025
+JP: あ、{v8:10}。{n}……今、夏休みだから、{n}ちょっと、普段着で来てみたの……。{p}
+EN: Oh, {v8:10}. ...It's summer break, so... I came in my regular clothes for a bit...{p}
+
+## MGM08 g1 s0026
+JP: そうか、夏休みだもんね。{n}……それにしても今日は暑いわぁ。{p}
+EN: Right, it's summer break. ...Still, it's so hot today.{p}
+
+## MGM08 g1 s0028
+JP: ちょっと屋上は暑すぎよ。{n}私は他のトコロへ行ってみるわ。{n}それじゃね、アキラ。{p}
+EN: It's way too hot up here. I'm gonna try somewhere else. See you, Akira.{p}
+
+## MGM08 g1 s0029
+JP: さてと、どこにいったら涼しいかしら。{p}{end}
+EN: Now, where would it be cool?{p}{end}
+
+## MGM08 g1 s0030
+JP: アキラは暑くないの?{p}{end}
+EN: Aren't you hot, Akira?{p}{end}
+
+## MGM08 g1 s0033
+JP: そっか、いつもはライダースーツだっけ。{n}アレは暑そうね。{n}少々暑くても、学校じゃ脱ぐわけには{n}いかないし。{p}
+EN: Oh right, you're usually in that rider suit. That looks hot. Even when it's hot, you can't exactly take it off at school.{p}
+
+## MGM08 g1 s0039
+JP: う～んやっぱり、太陽学園かな。{n}校風も自由だし、{n}制服もかわいいから似合うと思うよ。{p}{end}
+EN: Hmm, Taiyo High, I guess. It's pretty laid-back. The uniforms are cute too, so I bet you'd look good in one.{p}{end}
+
+## MGM08 g1 s0041
+JP: そうね、五輪高校かな。{n}設備もそろってるし、{n}中国拳法部もあったはずよ、たしか。{n}いいんじゃない?{p}
+EN: Gorin High, maybe. They've got all the facilities, and I'm pretty sure they have a Chinese kenpo club. Could be good, right?{p}
+
+## MGM08 g1 s0043
+JP: パシフィックハイスクールとか。{n}外国人がいっぱいいて、{n}いろいろ勉強できると思うよ。{p}{end}
+EN: Pacific High, maybe. There are lots of foreign students, so you could learn all kinds of stuff.{p}{end}
+
+## MGM08 g1 s0045
+JP: 思い切って、ジャスティス学園って{n}いうのはどう?{n}ちょっとかわってるけど。{p}
+EN: How about going all out with Justice High? It's a little strange, though.{p}
+
+## MGM08 g1 s0049
+JP: （そりゃそうよね……{n}{sp}ずっとライダースーツじゃ、{n}{sp}女の子じゃなくてもツライわ……）{p}
+EN: (Makes sense... Wearing a rider suit all the time would be rough even if you weren't a girl...){p}
+
+## MGM08 g1 s0050
+JP: うわぁ……今日も暑いわぁ。{n}ん!?{sp}夏とロベルトが体育館のすみで{n}話し合ってるわ。{n}何話してるのかしら?{p}{end}
+EN: Ugh... Hot again today. Hm!? Natsu and Roberto are talking in a corner of the gym. Wonder what about?{p}{end}
+
+## MGM08 g1 s0052
+JP: はぁい、夏にロベルト!{n}そんな体育館のすみで{n}一体何を話してるの?{p}
+EN: Hiya, Natsu, Roberto! What are you two talking about in the corner of the gym?{p}
+
+## MGM08 g1 s0053
+JP: あら、{v7:4}じゃない。{n}今ね、スポーツで汗を流した後の水分補給は{n}何が一番効果的か話し合ってたところなの。{p}{end}
+EN: Oh, it's {v7:4}. We were just discussing the best way to rehydrate after working up a sweat in sports.{p}{end}
+
+## MGM08 g1 s0054
+JP: 俺は、{n}やっぱりスポーツドリンクだと思うな。{n}{v7:5}はどう思う?{p}
+EN: Me, I'd say sports drinks, no question. What do you think, {v7:5}?{p}
+
+## MGM08 g1 s0060
+JP: ま、待ってロベルト!{n}な、なーんだスポーツのことだったのか。{n}そんな風に考える私って……。{p}
+EN: W-wait, Roberto! Oh, so he meant sports. What does it say about me that I thought...{p}
+
+## MGM08 g1 s0064
+JP: バ、バカ!{sp}変な勘違いしないでよ!{n}スポーツで気持ち良い汗を{n}かくっていう意味なのに!{n}{v7:4}のエッチ!{p}
+EN: D-dummy! Don't get the wrong idea! I meant a good sweat from sports! {v7:4}, you perv!{p}
+
+## MGM08 g1 s0065
+JP: あ、夏!{n}な、なあんだスポーツのことだったのか。{n}そんな風に考える私って……。{p}
+EN: Oh, Natsu! Oh, so she meant sports. What does it say about me that I thought...{p}
+
+## MGM08 g1 s0072
+JP: アツい……こんな暑さじゃ、{n}何もする気が起きないよぅ……。{n}少し保健室で涼ませてもらおうっと。{n}響子先生、いるかな……?{p}{end}
+EN: So hot... I can't be bothered to do anything in this heat... I'll go cool off in the infirmary for a bit. Is Kyoko-sensei in...?{p}{end}
+
+## MGM08 g1 s0074
+JP: （うわ、隼人先生がいる……）{p}{end}
+EN: (Ugh, Hayato-sensei's here...){p}{end}
+
+## MGM08 g1 s0086
+JP: イタタタタタ!{n}ちょ、ちょっと隼人先生!{n}強すぎますよ!?{p}
+EN: Ow ow ow ow ow! H-hey, Hayato-sensei! That's way too hard!?{p}
+
+## MGM08 g1 s0088
+JP: イタタタタタタタ!!{n}（こ、これはマズイかも……）{p}
+EN: Owowowowowow!! (Th-this could be bad...){p}
+
+## MGM08 g1 s0090
+JP: （きゅ、救世主の登場ね……）{p}{end}
+EN: (A savior has arrived...){p}{end}
+
+## MGM08 g1 s0094
+JP: {v1}{col:0}さん{col:-}、こっちへいらっしゃい。{n}手当てしてあげるわ。{p}{end}
+EN: {v1}{col:0}-san{col:-}, come over here. I'll patch you up.{p}{end}
+
+## MGM08 g1 s0098
+JP: （うふふ。炎の体育教師も、{n}{sp}響子先生の前じゃ形無しね……）{p}{end}
+EN: (Hee hee. Even the fiery PE teacher is helpless in front of Kyoko-sensei...){p}{end}
+
+## MGM08 g1 s0099
+JP: はい、これで大丈夫よ、{v1}{col:0}さん{col:-}。{n}女の子なんだから、体には気をつけてね。{p}
+EN: There, you're all set, {v1}{col:0}-san{col:-}. You're a girl, so take care of yourself.{p}
+
+## MGM08 g1 s0100
+JP: （結果的にだけど、{n}{sp}響子先生の手厚い治療が{n}{sp}受けられてラッキーだったかな?）{p}{end}
+EN: (It just worked out that way, but I got Kyoko-sensei's loving care. Lucky me, I guess?){p}{end}
+
+## MGM08 g1 s0102
+JP: （でも、隼人先生は、{n}{sp}なんだかヤケになってるみたい……）{p}
+EN: (But Hayato-sensei seems kinda bitter...){p}
+
+## MGM08 g1 s0107
+JP: アイタタタタタ!!{n}ちょ、ちょっと、先生!{n}もう少しやさしくお願いしますよ。{p}{end}
+EN: Owowowowow!! H-hey, sensei! A little gentler, please.{p}{end}
+
+## MGM08 g1 s0111
+JP: ええ……もう十分すぎるほど。{n}どうも、ありがとうございました……。{p}
+EN: Yes... more than enough. Thank you very much...{p}
+
+## MGM08 g1 s0113
+JP: （隼人先生は上機嫌で出ていった……。{n}{sp}ああでも言わないと、{n}{sp}いつ終わるかわからないもん……）{p}{end}
+EN: (Hayato-sensei left in a great mood... If I hadn't said that, who knows when it would've ended...){p}{end}
+
+## MGM08 g1 s0114
+JP: はぁ…体の具合を診てほしいけど、{n}響子先生はどこかへ出かけたままだし。{n}……しかたない、今日は帰ろうかな。{p}
+EN: Sigh... I wanted a checkup, but Kyoko-sensei's still out somewhere. ...Oh well, maybe I'll head home for today.{p}
+
+## MGM08 g1 s0115
+JP: いや～。{n}やっぱり一日一回は響子先生の顔を見ないと{n}落ち着かないんです。{n}それより、隼人先生はどうして?{p}{end}
+EN: Well, y'know. I just can't settle down unless I see Kyoko-sensei's face once a day. More importantly, what brings you here, Hayato-sensei?{p}{end}
+
+## MGM08 g1 s0117
+JP: だからといってそのままにしておくのも{n}良くないですよ。{n}私でよければ簡単に手当てしますけど。{p}{end}
+EN: Still, you shouldn't just leave it like that. If you don't mind, I can do some quick first aid.{p}{end}
+
+## MGM08 g1 s0119
+JP: 難しい事はできないし、やりませんよ。{n}シップ薬を貼っておくくらいですね。{p}{end}
+EN: I can't do anything complicated, and I won't try. I'll just put a compress on it.{p}{end}
+
+## MGM08 g1 s0120
+JP: ……これでよしと。{n}後の処置は、響子先生を探して{n}お願いしておきますね。{p}{end}
+EN: ...There we go. I'll find Kyoko-sensei and ask her to take care of the rest.{p}{end}
+
+## MGM08 g1 s0122
+JP: いいんですよ、これくらい。{n}それじゃ、くれぐれもその体で{n}無茶なことしないでくださいね。{p}{end}
+EN: It's no big deal. Just don't do anything crazy in that condition, okay?{p}{end}
+
+## MGM08 g1 s0124
+JP: （隼人先生、随分喜んでくれたみたい。）{p}
+EN: (Hayato-sensei seemed really happy about it.){p}
+
+## MGM08 g1 s0125
+JP: 部室棟に来てみると、流先輩がちょうど{n}部室から出てくるトコロだった。{p}{end}
+EN: When I got to the clubhouse, Nagare-senpai was just coming out of the club room.{p}{end}
+
+## MGM08 g1 s0126
+JP: …………{v7:18}か……。{p}{end}
+EN: ......{v7:18}...{p}{end}
+
+## MGM08 g1 s0127
+JP: 流先輩、こんにちは。{n}今からプールですか?{p}
+EN: Hello, Nagare-senpai. Heading to the pool?{p}
+
+## MGM08 g1 s0130
+JP: そうですか。{n}じゃ、がんばってくださいね。{n}それじゃ、私はこれで失礼します。{p}{end}
+EN: I see. Well, good luck. I'll be going, then.{p}{end}
+
+## MGM08 g1 s0131
+JP: 他には誰もいないみたいね。{n}他の場所にもいってみよう……。{p}
+EN: Doesn't look like anyone else is around. Let's try somewhere else too...{p}
+
+## MGM08 g1 s0132
+JP: 私もご一緒していいですか?{n}ご迷惑でなければ、ですけど。{p}{end}
+EN: Mind if I come along? If it's no bother, that is.{p}{end}
+
+## MGM08 g1 s0137
+JP: ふぅ、一休みしようかな……。{n}流先輩は……まだ一心に泳いでる。{n}私が遊んでる間もずっと往復してるわ。{n}何キロぐらい泳いでるのかしら?{p}{end}
+EN: Phew, break time... Nagare-senpai's still swimming so intently. He's done laps the whole time I've been playing. How many kilometers is that?{p}{end}
+
+## MGM08 g1 s0138
+JP: {face:15}・・・・・・・・・・{face:255}{n}あれから、まだ泳いでる……。{n}クロール、平泳ぎ、背泳、バタフライ、{n}またクロール……よく体力がもつなぁ……。{p}
+EN: {face:15}..........{face:255} He's still going... Freestyle, breaststroke, backstroke, butterfly, freestyle again... Where does he get the stamina...{p}
+
+## MGM08 g1 s0141
+JP: あっ、やっと一休みみたい。{n}お疲れさまです、流先輩。{p}{end}
+EN: Oh, he's finally taking a break. Nice work, Nagare-senpai.{p}{end}
+
+## MGM08 g1 s0145
+JP: なるほど、そうですか。{n}いろいろな泳ぎ方やってましたけど、{n}流先輩はどれが一番得意ですか?{n}やっぱりクロール?{p}
+EN: I see. You did a bunch of different strokes. Which one are you best at, Nagare-senpai? Freestyle?{p}
+
+## MGM08 g1 s0149
+JP: 私はやっぱりクロールです。{n}何といっても一番速く泳げますから、{n}気持ちいいですし。{p}
+EN: Freestyle for me. It's the fastest, after all. It feels great.{p}
+
+## MGM08 g1 s0151
+JP: 私はやっぱり平泳ぎです。{n}一番長く泳げますし。{n}確か、最初に泳げるようになったのも、{n}平泳ぎからだったんです。{p}
+EN: Breaststroke for me. I can keep it up the longest. I think it was the first stroke I ever learned, too.{p}
+
+## MGM08 g1 s0153
+JP: 私も背泳ぎが一番です。{n}慣れたら一番楽ですよね。{n}息継ぎもいらないし。{p}
+EN: I like backstroke best too. Once you're used to it, it's the easiest, right? No coming up for air.{p}
+
+## MGM08 g1 s0155
+JP: 私、実はバタフライが泳げるんです。{n}アレって、泳げるようになったら、{n}最高に気持ちいいですよね。{p}{end}
+EN: Actually, I can swim butterfly. Once you get the hang of it, it feels amazing, doesn't it?{p}{end}
+
+## MGM08 g1 s0159
+JP: ……哲学……ですか?{p}{end}
+EN: ...Philosophy... huh?{p}{end}
+
+## MGM08 g1 s0161
+JP: あっ、私も泳ぎます!{n}せぇの……{n}ザッパーーーン!{p}
+EN: Oh, I'll swim too! Here goes... SPLAAASH!{p}
+
+## MGM08 g1 s0162
+JP: （その後はずっと泳ぎっぱなしだった……{n}{sp}水泳の人生哲学については、{n}{sp}結局わからなかったけど、流先輩の事は{n}{sp}少しわかった気がした……）{p}
+EN: (We swam nonstop after that... I never did figure out swimming's philosophy of life, but I feel like I understand Nagare-senpai a little better...){p}
+

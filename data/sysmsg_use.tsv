@@ -1,0 +1,149 @@
+id	where	cols	start
+s000	unused (no code reference)		
+s001	unused (no code reference)		
+s002	options main r4 label (stars c14-21)	11	2
+s003	options main r5 label (stars c18-21)	15	2
+s004	options main r6 label (value c18)	15	2
+s005	options main r7 label after s014 (digit c18); c2 if s014 split	12	5
+s006	options main r8 label after s014 (digit c18); c2 if s014 split	12	5
+s007	options main r12 label (value c18)	15	2
+s008	unused (no code reference)		
+s009	unused in N2 (options Shortcuts row removed)		
+s010	options main r10 label (value c19)	16	2
+s011	options main r11 label (value c20)	17	2
+s012	options main r13 item	20	2
+s013	options main r14 item	20	2
+s014	options main r7/r8 label prefix (s005/s006 at c5); unit r7/r8 c19	3	2
+s015	options main r12 value	5	18
+s016	options main r12 value	6	18
+s017	options main r9/r10 value (c19); records r8 autosave value (c9)	5	
+s018	options main r9/r10 value (c20); records r8 autosave value (c10)	4	
+s019	options main r11 value (c20); game system values (c11/c18)	3	
+s020	options main r11 value (c20); game system values (c11/c18)	3	
+s021	options main r6 value	5	18
+s022	game system r4 c11/c18; key config r4 c3/c14	6	
+s023	game system r4 c11/c18; key config r4 c3/c14	6	
+s024	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s025	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s026	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s027	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s028	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s029	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s030	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s031	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s032	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s033	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s034	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s035	key config r6-9/r11-14 action, P1 c3 / P2 c14 (icon at c2/c13)	9	
+s036	unused (no code reference)		
+s037	unused (no code reference)		
+s038	unused (no code reference)		
+s039	unused (no code reference)		
+s040	unused (no code reference)		
+s041	unused (no code reference)		
+s042	records r1 title (20 px glyphs, centred)	22	centred
+s043	records r4 item	22	2
+s044	records r6 item (22 cols); records r8 c5 after s045 (value at c9)	4	
+s045	records r8 label prefix (s044 follows at c5)	3	2
+s046	card result r18 help, +10px	18	5
+s047	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s048	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s049	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s050	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s051	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s052	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s053	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s054	card dialog r15 (format prompt, c3); also centred card message r15	21	3
+s055	card dialog r16 question (no/yes at c15)	9	6
+s056	card dialog r15/r16 no/yes	9	15
+s057	card dialog r15/r16 no/yes	9	15
+s058	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s059	records, card check notice r8	15	9
+s060	save in progress r15, centred (24-len)/2 (0x8001ea4c; unsure)	24	centred
+s061	options main r16 c2; game system r12 c11/c18; key config r16 c3/c14	6	
+s062	options main r1 title (20 px glyphs, centred)	22	centred
+s063	key config r1 title (20 px glyphs, centred)	22	centred
+s064	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s065	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s066	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s067	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s068	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s069	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s070	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s071	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s072	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s073	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s074	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s075	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s076	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s077	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s078	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s079	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s080	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s081	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s082	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s083	unused (no code reference)		
+s084	unused (no code reference)		
+s085	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s086	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s087	unused (no code reference)		
+s088	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s089	options main r9 label (value c19)	16	2
+s090	game system r1 title (20 px glyphs, centred)	22	centred
+s091	game system r6-10 label (c1, values from c11)	9	1
+s092	game system r6-10 label (c1, values from c11)	9	1
+s093	game system r6-10 label (c1, values from c11)	9	1
+s094	game system r6-10 label (c1, values from c11)	9	1
+s095	game system r6-10 label (c1, values from c11)	9	1
+s096	game system r6-10 value, P1 c11 / P2 c18	6	
+s097	game system r6-10 value, P1 c11 / P2 c18	6	
+s098	game system r6-10 value, P1 c11 / P2 c18	6	
+s099	game system r6-10 value, P1 c11 / P2 c18	6	
+s100	game system r6-10 value, P1 c11 / P2 c18	6	
+s101	game system r6-10 value, P1 c11 / P2 c18	6	
+s102	game system r6-10 value, P1 c11 / P2 c18	6	
+s103	game system r6-10 value, P1 c11 / P2 c18	6	
+s104	game system r6-10 value, P1 c11 / P2 c18	6	
+s105	game system r6-10 value, P1 c11 / P2 c18	6	
+s106	game system r6-10 value, P1 c11 / P2 c18	6	
+s107	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s108	card dialog r15 question (no/yes at c15)	9	6
+s109	card dialog r15 question (no/yes at c15)	9	6
+s110	card dialog r18 help, +10px	18	5
+s111	card save in progress r18, +10px	20	3
+s112	options main r18 c2; game system r14 c11/c18; key config r18 c3/c14; records r10 c2	6	
+s113	unused (no code reference)		
+s114	card result r16 with s053 (card full)	20	4
+s115	card dialog r15 question (no/yes at c15)	9	6
+s116	unused (no code reference)		
+s117	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s118	unused (no code reference)		
+s119	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s120	boot auto-load r18 under the card message, +10px	18	5
+s121	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s122	unused (no code reference)		
+s123	unused (no code reference)		
+s124	unused (no code reference)		
+s125	card result / boot auto-load message r15, centred (24-len)/2, +10px if len odd	24	centred
+s126	unused (no code reference)		
+s127	unused (no code reference)		
+s128	unused (no code reference)		
+s129	unused (no code reference)		
+s130	unused (no code reference)		
+s131	unused (no code reference)		
+s132	unused (no code reference)		
+s133	unused (no code reference)		
+s134	unused (no code reference)		
+s135	unused (no code reference)		
+s136	unused (no code reference)		
+s137	unused (no code reference)		
+s138	unused (no code reference)		
+s139	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s140	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s141	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s142	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s143	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s144	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s145	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s146	unused in N2 (N1 extras screen; N2 extras is the KOUBAI menu)		
+s147	card dialog r15 after format, +10px	15	8

@@ -1,0 +1,37 @@
+# おまけを見る
+title: View Extras
+
+# カード
+cat_card: Cards
+# ポスター
+cat_poster: Posters
+cat_cd: CD
+# ビデオ
+cat_video: Videos
+# イラスト集
+cat_illust: Artwork
+# ポケステ
+cat_pocket: PocketStation
+# 戻る
+back: Back
+
+# 方向キー：選択
+line_select: Select
+# ○ボタン：決定
+line_ok: OK
+# ×ボタン：戻る
+line_back: Back
+# ×ボタン：ストップ・戻る
+line_stop: Stop/Back
+
+# カードを見る：○
+grid_view: View Card: O
+# EXIT：×・START
+grid_exit: EXIT: X/START
+
+# 次ページへ ○
+help_next: Next Page
+# 前ページへ ×
+help_prev: Prev. Page
+# おまけ画面に戻る START
+help_back: Back to Extras

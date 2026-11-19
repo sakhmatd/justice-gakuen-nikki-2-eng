@@ -1,0 +1,48 @@
+# キャラクターセレクト
+heading: CHARACTER SELECT
+# 対戦
+versus: VERSUS
+
+# 主役
+lead: Lead
+# 相棒
+partner: Partner
+
+# バツ, ひなた, 恭介, 将馬, 夏
+name_batsu: BATSU
+name_hinata: HINATA
+name_kyosuke: KYOSUKE
+name_shoma: SHOMA
+name_natsu: NATSU
+# ロベルト, ロイ, ティファニー, ボーマン, エッジ
+name_roberto: ROBERTO
+name_roy: ROY
+name_tiffany: TIFFANY
+name_boman: BOMAN
+name_edge: EDGE
+# アキラ, 岩, 英雄, 響子, 雷蔵
+name_akira: AKIRA
+name_gan: GAN
+name_hideo: HIDEO
+name_kyoko: KYOKO
+name_raizo: RAIZO
+# 雹, さくら, 醍醐, 隼人
+name_hyo: HYO
+name_sakura: SAKURA
+name_daigo: DAIGO
+name_hayato: HAYATO
+# あきら
+name_akira_b: akira
+# ひなた2, 夏2, ティファニー2, 響子2
+name_hinata2: HINATA2
+name_natsu2: NATSU2
+name_tiffany2: TIFFANY2
+name_kyoko2: KYOKO2
+# ラン, 流
+name_ran: RAN
+name_nagare: NAGARE
+
+# '99年度試験
+exam99: '99 Exams
+# 基礎のおさらい
+basics: Basics Review

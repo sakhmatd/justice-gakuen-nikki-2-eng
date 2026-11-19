@@ -1,0 +1,52 @@
+## MGG08P g0 s0001
+JP: グッドモーニン、{v3:7}!{p}
+EN: Good morning, {v3:7}!{p}
+
+## MGG08P g0 s0002
+JP: おはよう、みんな。{n}良い天気になってよかったよ。{p}{end}
+EN: Morning, everyone. Glad we got good weather.{p}{end}
+
+## MGG08P g0 s0003
+JP: ええ、これも神のご加護が{n}あればこそです。{p}
+EN: Yes, this is surely by the grace of God.{p}
+
+## MGG08P g0 s0004
+JP: ニッポンのビーチ、{n}とても楽しみネ!{p}{end}
+EN: I can't wait to see a Japanese beach!{p}{end}
+
+## MGG08P g0 s0005
+JP: ティファニー、{n}あまり期待しすぎない方がいいぞ。{n}日本の海や湖は汚い事で有名だからな。{p}
+EN: Tiffany, don't get your hopes up. Japan's seas and lakes are famous for being dirty.{p}
+
+## MGG08P g0 s0006
+JP: ロイ、否定はしないけど、{n}日本の海全てが汚いわけじゃないぞ。{p}{end}
+EN: Roy, I won't deny it, but not every beach in Japan is dirty.{p}{end}
+
+## MGG08P g0 s0007
+JP: ……まあまあ、二人とも。{n}とりあえずバスに乗りましょう。{n}置いていかれてしまいますよ。{p}
+EN: ...Now, now, you two. Let's just get on the bus, or we'll be left behind.{p}
+
+## MGG08P g1 s0002
+JP: おはよう、みんな。{n}いい天気になってよかったね。{p}{end}
+EN: Morning, everyone. Glad we got good weather, huh?{p}{end}
+
+## MGG08P g1 s0006
+JP: ロイ、否定はしないけど、{n}日本の海全てが汚いわけじゃないわよ。{p}
+EN: Roy, I won't deny it, but not every beach in Japan is dirty.{p}
+
+## MGG08P g1 s0026
+JP: ハァハァ……ハァ……{n}ふふッ、私もやればできるじゃない。{n}あの流先輩を追い抜いちゃった。{p}{end}
+EN: Huff, huff... huff... Hee hee, see? I can do it when I try. I passed Nagare-senpai!{p}{end}
+
+## MGG08P g1 s0142
+JP: （{face:15}・・・・・・・・・・{face:255}{n}{sp}普通って言われても、{n}{sp}目のやり場に困ちゃうな……）{p}
+EN: ({face:15}..........{face:255} He says it's normal, but I don't know where to look...){p}
+
+## MGG08P g1 s0360
+JP: （隼人と{v1}は{n}{sp}教師と生徒を超えた熱い友情の{n}{sp}握手を交わしたのだった……）{p}{end}
+EN: (And so Hayato and {v1} shared a handshake of burning friendship beyond teacher and student...){p}{end}
+
+## MGG08P g1 s0527
+JP: ええ。{n}エッジと岩をコテンパンに{n}やっつけちゃいましょう。{p}
+EN: Yeah. Let's beat Edge and Gan to a pulp.{p}
+

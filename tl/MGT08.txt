@@ -1,0 +1,284 @@
+## MGT08 g0 s0000
+JP: {v4:8}、ちょっといいですか?{p}
+EN: {v4:8}, may I have a moment?{p}
+
+## MGT08 g0 s0001
+JP: なんだボーマンか。{n}びっくりした。{n}一体どうしたんだよ?{p}{end}
+EN: Oh, it's you, Boman. You startled me. What's up?{p}{end}
+
+## MGT08 g0 s0002
+JP: 実は今日生物の授業で{n}カエルの解剖があったのです。{p}
+EN: Today in biology class, we had to dissect frogs.{p}
+
+## MGT08 g0 s0003
+JP: 殺生はたとえ小さな命といえども{n}許されない事なのに……。{n}{v4:8}はどう思いますか?{p}{end}
+EN: Taking a life is never permitted, even a small one... What do you think, {v4:8}?{p}{end}
+
+## MGT08 g0 s0004
+JP: 殺生は許せない{n}授業だから仕方ない{p}
+EN: Taking life is wrong{n}It's for class, can't be helped{p}
+
+## MGT08 g0 s0005
+JP: やっぱり殺生は{n}たとえ授業といえども許せないよな。{p}
+EN: Yeah, killing is wrong, even for a class.{p}
+
+## MGT08 g0 s0006
+JP: そうでしょう、{v4:8}!{n}やはりあなたは{n}私と同じ心を持つ人間ですね。{p}
+EN: I knew it, {v4:8}! You truly have the same heart as I do.{p}
+
+## MGT08 g0 s0007
+JP: あなたの事を益々気に入りました……。{p}{end}
+EN: I like you more and more...{p}{end}
+
+## MGT08 g0 s0008
+JP: ボーマン……。{p}
+EN: Boman...{p}
+
+## MGT08 g0 s0009
+JP: 授業だから仕方ないよ。{p}
+EN: It's for class, so it can't be helped.{p}
+
+## MGT08 g0 s0010
+JP: なんですと!{n}尊い命と授業とどちらが大切か{n}あなたは全然分かっていない!{p}{end}
+EN: What!? You do not understand at all which matters more, a precious life or a class!{p}{end}
+
+## MGT08 g0 s0011
+JP: もう少しあなたは{n}慈愛の心に富んだ人だと{n}思っていたのに……。{n}残念です。{p}
+EN: I thought you were a more compassionate person... I am disappointed.{p}
+
+## MGT08 g0 s0014
+JP: ボーマン!{n}どうしたんだよ?{p}{end}
+EN: Boman! What's up?{p}{end}
+
+## MGT08 g0 s0015
+JP: 今週の日曜日にミサがあるのですが{n}一緒に行きませんか?{p}
+EN: There is a Mass this Sunday. Would you like to go with me?{p}
+
+## MGT08 g0 s0017
+JP: OK!{n}一緒に行こう!{p}
+EN: OK! Let's go together!{p}
+
+## MGT08 g0 s0018
+JP: そうですか!{n}それでは、日曜日に{v4:8}の家まで{n}呼びに行きますので、{n}家で待っていてください。{p}{end}
+EN: Wonderful! Then I will come to your house for you on Sunday, {v4:8}. Please wait for me there.{p}{end}
+
+## MGT08 g0 s0019
+JP: あなたとミサに行ける事を{n}神に感謝します……。{p}
+EN: I thank God that I may go to Mass with you...{p}
+
+## MGT08 g0 s0020
+JP: ボーマンがあんなに喜んでくれるとは……。{n}俺も楽しみ……。{p}
+EN: I never thought Boman would be that happy about it... I'm looking forward to it too...{p}
+
+## MGT08 g0 s0021
+JP: ごめん、{n}今度の日曜は用事が入ってるんだ。{p}
+EN: Sorry, I've got plans this Sunday.{p}
+
+## MGT08 g0 s0022
+JP: そうですか……。{n}仕方ないですね。{n}今度また一緒に行きましょう。{p}{end}
+EN: I see... That cannot be helped. Let us go together another time.{p}{end}
+
+## MGT08 g0 s0023
+JP: なんだかさみしそうだったなあ。{n}今度誘われたら一緒に行ってあげよう。{p}{end}
+EN: He looked kind of lonely. Next time he asks, I'll go with him.{p}{end}
+
+## MGT08 g0 s0024
+JP: {v4:8}、こんな所にいましたか。{n}探してしまいましたよ。{p}{end}
+EN: {v4:8}, here you are. I have been looking all over for you.{p}{end}
+
+## MGT08 g0 s0025
+JP: やあ、ボーマン!{n}ここにいるって、よくわかったな。{n}一体どうしたんだ?{p}
+EN: Hey, Boman! How'd you know I was here? What's up?{p}
+
+## MGT08 g0 s0026
+JP: 実は、あなたに一緒に行ってほしい所が{n}あるのです。{p}
+EN: Actually, there is a place I would like you to go to with me.{p}
+
+## MGT08 g0 s0027
+JP: 一体どこ?{p}
+EN: Where to?{p}
+
+## MGT08 g0 s0028
+JP: 一緒にチャペルへ行って{n}お互いの気持ちを確かめ合いたいのです。{n}いいですか?{p}{end}
+EN: I want us to go to the chapel together and confirm our feelings for each other. Will you?{p}{end}
+
+## MGT08 g0 s0029
+JP: いいよ{n}何考えてるんだ!?{p}
+EN: Sure{n}What are you thinking!?{p}
+
+## MGT08 g0 s0030
+JP: うん、いいよ!{n}一緒に行こう!{p}
+EN: Yeah, sure! Let's go together!{p}
+
+## MGT08 g0 s0031
+JP: いいのですね!{n}本当にいいのですね!{p}{end}
+EN: You will! You truly will!{p}{end}
+
+## MGT08 g0 s0032
+JP: おお神よ!{n}神は本当にいるのですね!{n}アーメン!{p}{end}
+EN: Oh, God! You truly do exist! Amen!{p}{end}
+
+## MGT08 g0 s0033
+JP: それでは、チャペルで二人のこれからの事を{n}じっくり考えましょう。{p}{end}
+EN: Then, in the chapel, let us think carefully about our future together.{p}{end}
+
+## MGT08 g0 s0034
+JP: かわいいなあ、ボーマン……。{p}{end}
+EN: Boman's kinda cute...{p}{end}
+
+## MGT08 g0 s0035
+JP: 一体何考えてるんだ!?{n}俺達男同士だぞ!{p}{end}
+EN: What are you even thinking!? We're both guys!{p}{end}
+
+## MGT08 g0 s0036
+JP: そうでした……。{n}つい私としたことが……。{p}
+EN: You are right... How unlike me...{p}
+
+## MGT08 g0 s0037
+JP: 神に仕える者としてあるまじき言動でした。{n}今の事は忘れてください。{p}
+EN: That was unbecoming of one who serves God. Please forget what I said.{p}
+
+## MGT08 g0 s0038
+JP: ボーマン、ひょっとして俺の事を……。{p}{end}
+EN: Boman, could it be you feel that way about me...?{p}{end}
+
+## MGT08 g0 s0039
+JP: チリン、チリン!{n}チリン、チリン!{p}
+EN: Ding-a-ling! Ding-a-ling!{p}
+
+## MGT08 g0 s0040
+JP: ん!?{n}何か玄関で変な音がするぞ?{n}ちょっと降りてみよう。{p}
+EN: Hm!? What's that weird noise at the front door? I'll go down and check.{p}
+
+## MGT08 g0 s0041
+JP: 生命の宿りし日よ!{n}おめでとう、{v4:8}!{p}
+EN: O day on which life was given! Congratulations, {v4:8}!{p}
+
+## MGT08 g0 s0042
+JP: な、なんだよそれ!{n}ひょっとして誕生日っていいたいの?{p}
+EN: Wh-what's that supposed to mean!? Are you trying to say "happy birthday"?{p}
+
+## MGT08 g0 s0043
+JP: そうです!{n}神が{v4:8}に{n}生命を与えたもうた日を{n}祝わずして何としましょう!{p}
+EN: Yes! How could I not celebrate the day God granted you life, {v4:8}!{p}
+
+## MGT08 g0 s0044
+JP: この日にふさわしいプレゼントを{n}用意しました。{n}ぜひ開けてみてください。{p}{end}
+EN: I have prepared a present fit for this day. Please, open it.{p}{end}
+
+## MGT08 g0 s0045
+JP: {col:0}『スタミナスープ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Stamina Soup"{col:-}!{p}{end}
+
+## MGT08 g0 s0046
+JP: 何、このスープ!{n}色んなものが浮いてるんですけど……。{p}
+EN: What is this soup!? There's all kinds of stuff floating in it...{p}
+
+## MGT08 g0 s0047
+JP: ここにはあらゆる生命の源の{n}エキスが詰まっています。{n}ぜひ賞味してみてください。{p}{end}
+EN: It holds the essence of every source of life. Please, have a taste.{p}{end}
+
+## MGT08 g0 s0048
+JP: うわっ!{n}まずっ!{p}
+EN: Ugh! Gross!{p}
+
+## MGT08 g0 s0049
+JP: 「良薬は口に苦し」というでしょう。{n}体にはとてもいいですよ。{n}一気にいってください。{p}{end}
+EN: As they say, "good medicine tastes bitter." It is very good for you. Drink it all in one go.{p}{end}
+
+## MGT08 g0 s0051
+JP: ゴク、ゴク、ゴク、ゴク……。{p}{end}
+EN: Gulp, gulp, gulp, gulp...{p}{end}
+
+## MGT08 g0 s0052
+JP: 一気にいってくれましたね。{n}これで、私も心をこめて作ったかいが{n}あったというもんです。{p}
+EN: You drank it all in one go. Then my heartfelt effort was worth it.{p}
+
+## MGT08 g0 s0053
+JP: 来年もまた作ってきてあげますからね。{n}それでは、失礼。{p}
+EN: I will make it for you again next year. Now, if you will excuse me.{p}
+
+## MGT08 g0 s0054
+JP: なんか体がゾクゾクしてきた……。{n}大丈夫かなあ……。{p}{end}
+EN: I've got chills all over... Am I gonna be OK...?{p}{end}
+
+## MGT08 g0 s0055
+JP: 少し遅れましたが、生命の宿りし日よ!{n}おめでとう{v4:8}!{p}
+EN: I am a little late, but O day on which life was given! Congratulations, {v4:8}!{p}
+
+## MGT08 g0 s0058
+JP: 本来なら、当日にお渡しすべきでしたが、{n}少し遅くなりまして……あなたに{n}ふさわしいプレゼントを用意しました。{n}ぜひ開けてみてください。{p}
+EN: By rights I should have given this to you on the day itself, but I am a little late... I have prepared a present fit for you. Please, open it.{p}
+
+## MGT08 g1 s0001
+JP: あらボーマンじゃない。{n}びっくりした。{n}一体どうしたの?{p}{end}
+EN: Oh, Boman. You startled me. What's up?{p}{end}
+
+## MGT08 g1 s0005
+JP: やっぱり殺生は{n}たとえ授業といえども許せないわよね。{p}{end}
+EN: Yeah, killing is wrong, even for a class.{p}{end}
+
+## MGT08 g1 s0009
+JP: 授業だから仕方ないわよ。{p}{end}
+EN: It's for class, so it can't be helped.{p}{end}
+
+## MGT08 g1 s0014
+JP: ボーマン!{n}どうしたの?{p}{end}
+EN: Boman! What's up?{p}{end}
+
+## MGT08 g1 s0017
+JP: OK!{n}一緒に行きましょ!{p}
+EN: OK! Let's go together!{p}
+
+## MGT08 g1 s0020
+JP: ボーマンが{n}あんなに喜んでくれるなんて……。{n}私も楽しみ……。{p}
+EN: I never thought Boman would be that happy about it... I'm looking forward to it too...{p}
+
+## MGT08 g1 s0021
+JP: ごめんなさい、{n}今度の日曜は用事が入ってるの。{p}
+EN: Sorry, I've got plans this Sunday.{p}
+
+## MGT08 g1 s0025
+JP: やあ、ボーマン!{n}ここにいるって、よくわかったわね。{n}一体どうしたの?{p}
+EN: Hey, Boman! How'd you know I was here? What's up?{p}
+
+## MGT08 g1 s0027
+JP: 一体どこなの?{p}
+EN: Where to?{p}
+
+## MGT08 g1 s0029
+JP: いいわよ{n}何考えてるの!?{p}
+EN: Sure{n}What are you thinking!?{p}
+
+## MGT08 g1 s0030
+JP: うん、いいわよ!{n}一緒に行きましょ!{p}{end}
+EN: Yeah, sure! Let's go together!{p}{end}
+
+## MGT08 g1 s0034
+JP: かわいいな、ボーマン……。{p}
+EN: Boman's kind of cute...{p}
+
+## MGT08 g1 s0035
+JP: 一体何考えてるの!?{n}私達まだ高校生でしょ!{p}{end}
+EN: What are you even thinking!? We're still in high school!{p}{end}
+
+## MGT08 g1 s0038
+JP: ボーマン、ひょっとして私の事を……。{p}{end}
+EN: Boman, could it be you feel that way about me...?{p}{end}
+
+## MGT08 g1 s0040
+JP: ん!?{n}何か玄関で変な音がするわ?{n}ちょっと降りてみよう。{p}
+EN: Hm!? What's that weird noise at the front door? I'll go down and check.{p}
+
+## MGT08 g1 s0042
+JP: な、なによそれ!{n}ひょっとして誕生日っていいたいわけ?{p}
+EN: Wh-what's that supposed to mean!? Are you trying to say "happy birthday"?{p}
+
+## MGT08 g1 s0048
+JP: うわっ!{n}すごい味ねっ!{p}{end}
+EN: Whoa! That's some flavor!{p}{end}
+
+## MGT08 g1 s0054
+JP: なんか体がゾクゾクしてきた……。{n}大丈夫かしら……。{p}{end}
+EN: I've got chills all over... Am I going to be OK...?{p}{end}
+

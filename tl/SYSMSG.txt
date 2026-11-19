@@ -1,0 +1,591 @@
+## SYSMSG s000
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s001
+JP: スタートボタンでモードメニューに戻ります
+EN: START: Back to Mode Menu
+
+## SYSMSG s002
+JP: CPU難度
+EN: Difficulty
+
+## SYSMSG s003
+JP: 攻撃力
+EN: Attack Power
+
+## SYSMSG s004
+JP: タイマースピード
+EN: Timer Speed
+
+## SYSMSG s005
+JP: 数(CPU)
+EN: Rounds (vs CPU)
+
+## SYSMSG s006
+JP: 数(VS)
+EN: Rounds (2P VS)
+
+## SYSMSG s007
+JP: サウンドモード
+EN: Sound Mode
+
+## SYSMSG s008
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s009
+JP: ショートカット
+EN: Shortcuts
+
+## SYSMSG s010
+JP: コンティニュー時キャラ変更
+EN: Swap on Continue
+
+## SYSMSG s011
+JP: 振動
+EN: Vibration
+
+## SYSMSG s012
+JP: ゲームシステム変更
+EN: Game System Settings
+
+## SYSMSG s013
+JP: キー操作変更
+EN: Button Config
+
+## SYSMSG s014
+JP: マッチ
+EN: {sp}Rnd
+
+## SYSMSG s015
+JP: モノラル
+EN: Mono
+
+## SYSMSG s016
+JP: ステレオ
+EN: Stereo
+
+## SYSMSG s017
+JP: しない
+EN: {sp}Off
+
+## SYSMSG s018
+JP: する
+EN: {sp}On
+
+## SYSMSG s019
+JP: 無し
+EN: Off
+
+## SYSMSG s020
+JP: 有り
+EN: On
+
+## SYSMSG s021
+JP: ストップ
+EN: Stop
+
+## SYSMSG s022
+JP: プレイヤー1
+EN: P1
+
+## SYSMSG s023
+JP: プレイヤー2
+EN: P2
+
+## SYSMSG s024
+JP: 使用しない
+EN: Not Used
+
+## SYSMSG s025
+JP: 弱パンチ
+EN: Lt. Punch
+
+## SYSMSG s026
+JP: 強パンチ
+EN: Hv. Punch
+
+## SYSMSG s027
+JP: 弱キック
+EN: Lt. Kick
+
+## SYSMSG s028
+JP: 強キック
+EN: Hv. Kick
+
+## SYSMSG s029
+JP: 完全燃焼アタック1
+EN: Vigor 1
+
+## SYSMSG s030
+JP: 完全燃焼アタック2
+EN: Vigor 2
+
+## SYSMSG s031
+JP: 完全燃焼アタック3
+EN: Vigor 3
+
+## SYSMSG s032
+JP: 完全燃焼アタック4
+EN: Vigor 4
+
+## SYSMSG s033
+JP: 軸移動
+EN: Sidestep
+
+## SYSMSG s034
+JP: 投げ
+EN: Throw
+
+## SYSMSG s035
+JP: ツープラトン
+EN: Team Up
+
+## SYSMSG s036
+JP: オプションに戻ります
+EN: Back to Options
+
+## SYSMSG s037
+JP: サ{sp}ウ{sp}ン{sp}ド{sp}テ{sp}ス{sp}ト
+EN: Sound Test
+
+## SYSMSG s038
+JP: BGMテスト
+EN: BGM Test
+
+## SYSMSG s039
+JP: SEテスト
+EN: SE Test
+
+## SYSMSG s040
+JP: VOICEテスト
+EN: Voice Test
+
+## SYSMSG s041
+JP: XAテスト
+EN: XA Test
+
+## SYSMSG s042
+JP: 記{sp}録
+EN: Records
+
+## SYSMSG s043
+JP: ロード
+EN: Load
+
+## SYSMSG s044
+JP: セーブ
+EN: Save
+
+## SYSMSG s045
+JP: オート
+EN: A.
+
+## SYSMSG s046
+JP: 何かボタンを押してください
+EN: Press any button
+
+## SYSMSG s047
+JP: セーブしました
+EN: Saved.
+
+## SYSMSG s048
+JP: ロードしました
+EN: Loaded.
+
+## SYSMSG s049
+JP: データエラーです
+EN: Data error.
+
+## SYSMSG s050
+JP: メモリーカードがささっていません
+EN: No Memory Card inserted.
+
+## SYSMSG s051
+JP: メモリーカードが壊れています
+EN: Memory Card is damaged.
+
+## SYSMSG s052
+JP: ファイルがありません
+EN: File not found.
+
+## SYSMSG s053
+JP: メモリーカードがいっぱいです
+EN: Memory Card is full.
+
+## SYSMSG s054
+JP: メモリーカードが初期化されていません
+EN: Card not formatted.
+
+## SYSMSG s055
+JP: 初期化しますか?
+EN: Format?
+
+## SYSMSG s056
+JP: いいえ
+EN: No
+
+## SYSMSG s057
+JP: はい
+EN: Yes
+
+## SYSMSG s058
+JP: セーブできませんでした
+EN: Save failed.
+
+## SYSMSG s059
+JP: メモリーカードのチェック
+EN: Checking Card
+
+## SYSMSG s060
+JP: セーブ中、、、
+EN: Saving...
+
+## SYSMSG s061
+JP: デフォルト
+EN: Reset
+
+## SYSMSG s062
+JP: オ{sp}プ{sp}シ{sp}ョ{sp}ン
+EN: Options
+
+## SYSMSG s063
+JP: キ{sp}ー{sp}操{sp}作{sp}変{sp}更
+EN: Button Config
+
+## SYSMSG s064
+JP: お{sp}ま{sp}け
+EN: Extras
+
+## SYSMSG s065
+JP: ムービー
+EN: Movies
+
+## SYSMSG s066
+JP: ギャラリー集
+EN: Gallery
+
+## SYSMSG s067
+JP: バツ
+EN: Batsu
+
+## SYSMSG s068
+JP: ひなた
+EN: Hinata
+
+## SYSMSG s069
+JP: 恭介
+EN: Kyosuke
+
+## SYSMSG s070
+JP: 将馬
+EN: Shoma
+
+## SYSMSG s071
+JP: 夏
+EN: Natsu
+
+## SYSMSG s072
+JP: ロベルト
+EN: Roberto
+
+## SYSMSG s073
+JP: ロイ
+EN: Roy
+
+## SYSMSG s074
+JP: ティファニー
+EN: Tiffany
+
+## SYSMSG s075
+JP: ボーマン
+EN: Boman
+
+## SYSMSG s076
+JP: エッジ
+EN: Edge
+
+## SYSMSG s077
+JP: アキラ
+EN: Akira
+
+## SYSMSG s078
+JP: 岩
+EN: Gan
+
+## SYSMSG s079
+JP: 英雄
+EN: Hideo
+
+## SYSMSG s080
+JP: 響子
+EN: Kyoko
+
+## SYSMSG s081
+JP: 雷蔵
+EN: Raizo
+
+## SYSMSG s082
+JP: 雹
+EN: Hyo
+
+## SYSMSG s083
+JP: あきら
+EN: Akira
+
+## SYSMSG s084
+JP: さくら
+EN: Sakura
+
+## SYSMSG s085
+JP: 醍醐
+EN: Daigo
+
+## SYSMSG s086
+JP: 熱血隼人
+EN: Hayato
+
+## SYSMSG s087
+JP: 一人称バトル
+EN: First-Person Battle
+
+## SYSMSG s088
+JP: 初期化できませんでした
+EN: Format failed.
+
+## SYSMSG s089
+JP: CPUラウンド間キャラ交代
+EN: CPU Swap Per Rnd
+
+## SYSMSG s090
+JP: ゲ{sp}ー{sp}ム{sp}シ{sp}ス{sp}テ{sp}ム{sp}変{sp}更
+EN: Game System
+
+## SYSMSG s091
+JP: 受け身
+EN: Breakfall
+
+## SYSMSG s092
+JP: 根性ゲージ
+EN: Vigor
+
+## SYSMSG s093
+JP: ガード
+EN: Guard
+
+## SYSMSG s094
+JP: バックダッシュ
+EN: Bk Dash
+
+## SYSMSG s095
+JP: バックジャンプ
+EN: Bk Jump
+
+## SYSMSG s096
+JP: ノーマル
+EN: Normal
+
+## SYSMSG s097
+JP: 条件付き
+EN: Limit
+
+## SYSMSG s098
+JP: 着地のみ
+EN: Land
+
+## SYSMSG s099
+JP: 5スタート
+EN: From 5
+
+## SYSMSG s100
+JP: 9スタート
+EN: From 9
+
+## SYSMSG s101
+JP: 0スタート
+EN: From 0
+
+## SYSMSG s102
+JP: MAX固定
+EN: Full
+
+## SYSMSG s103
+JP: 0固定
+EN: Empty
+
+## SYSMSG s104
+JP: オート
+EN: Auto
+
+## SYSMSG s105
+JP: マニュアル
+EN: Manual
+
+## SYSMSG s106
+JP: SMALL
+EN: Small
+
+## SYSMSG s107
+JP: ????????
+EN: ????????
+
+## SYSMSG s108
+JP: ロードしますか?
+EN: Load?
+
+## SYSMSG s109
+JP: セーブしますか?
+EN: Save?
+
+## SYSMSG s110
+JP: 方向キーの左右で変更します
+EN: ←→ to change
+
+## SYSMSG s111
+JP: メモリーカードを抜かないでください
+EN: Do not remove card.
+
+## SYSMSG s112
+JP: EXIT
+EN: Exit
+
+## SYSMSG s113
+JP: プレイ
+EN: Play
+
+## SYSMSG s114
+JP: セーブするには1ブロック必要です
+EN: 1 free block needed.
+
+## SYSMSG s115
+JP: 上書きしますか?
+EN: Replace?
+
+## SYSMSG s116
+JP: 方向キーの上下で移動
+EN: ↑↓ Move
+
+## SYSMSG s117
+JP: 観戦モード
+EN: Watch Mode
+
+## SYSMSG s118
+JP: エンディング
+EN: Ending
+
+## SYSMSG s119
+JP: スタッフロール
+EN: Credits
+
+## SYSMSG s120
+JP: オートロードしませんでした
+EN: Auto-load skipped.
+
+## SYSMSG s121
+JP: ロードできませんでした
+EN: Load failed.
+
+## SYSMSG s122
+JP: グッド
+EN: Good
+
+## SYSMSG s123
+JP: バッド
+EN: Bad
+
+## SYSMSG s124
+JP: エディット
+EN: Edit
+
+## SYSMSG s125
+JP: データがありません
+EN: No data.
+
+## SYSMSG s126
+JP: ボタン:
+EN: Button:
+
+## SYSMSG s127
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s128
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s129
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s130
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s131
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s132
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s133
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s134
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s135
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s136
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s137
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s138
+JP: 方向キーの左右で変更、上下で移動
+EN: ←→ Change, ↑↓ Move
+
+## SYSMSG s139
+JP: 校歌
+EN: Anthem
+
+## SYSMSG s140
+JP: 太陽学園
+EN: Taiyo High
+
+## SYSMSG s141
+JP: 五輪高校
+EN: Gorin High
+
+## SYSMSG s142
+JP: パシフィックHS
+EN: Pacific High
+
+## SYSMSG s143
+JP: 外道高校
+EN: Gedo High
+
+## SYSMSG s144
+JP: ジャスティス学園
+EN: Justice High
+
+## SYSMSG s145
+JP: 熱血青春日記
+EN: Diary
+
+## SYSMSG s146
+JP: との思い出
+EN: {sp}& Me
+
+## SYSMSG s147
+JP: 初期化しました
+EN: Formatted.

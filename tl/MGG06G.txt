@@ -1,0 +1,440 @@
+## MGG06G g0 s0000
+JP: もう6月か……。{n}梅雨の季節だけど、{n}今日はキレイに晴れてるなぁ。{n}……さてと……。{p}{end}
+EN: June already... It's the rainy season, but today's perfectly clear. ...Okay, then...{p}{end}
+
+## MGG06G g0 s0001
+JP: そういえば今日は太陽学園と{n}パシフィックハイスクールで対抗戦が{n}ある日だったな……。{p}{end}
+EN: Oh right, today's the big match between Taiyo High and Pacific High...{p}{end}
+
+## MGG06G g0 s0002
+JP: 俺には関係ないけど、{n}見に行ってみるのもいいかもな……。{p}{end}
+EN: It's got nothing to do with me, but maybe I'll go take a look...{p}{end}
+
+## MGG06G g0 s0003
+JP: あれ?{sp}あそこにいるのは、ひなただな。{p}
+EN: Huh? That's Hinata over there.{p}
+
+## MGG06G g0 s0004
+JP: もう一人はティファニーか。{p}
+EN: And the other one's Tiffany.{p}
+
+## MGG06G g0 s0005
+JP: は～い、{v6:1}!{n}ちょっとお願いがあるの!{p}{end}
+EN: Hey, {v6:1}! I need a favor!{p}{end}
+
+## MGG06G g0 s0006
+JP: ダメダメ!{n}{v3:7}にお願いするのは、{n}このミーね!{p}{end}
+EN: No, no! I'm the one asking {v3:7} a favor!{p}{end}
+
+## MGG06G g0 s0007
+JP: ちょっとちょっと!{n}二人とも、いったいどうしたの?{p}
+EN: Whoa, whoa! What's going on with you two?{p}
+
+## MGG06G g0 s0008
+JP: {v3:7}、{n}『太P戦』は知ってるか?{n}太陽学園と、ミーの高校が対戦するネ!{p}
+EN: {v3:7}, do you know the "Taiyo-Pacific Match"? Taiyo High against my school!{p}
+
+## MGG06G g0 s0009
+JP: その選手として、{v6:1}に{n}助っ人に来てほしいのよ。{p}{end}
+EN: We want you to come help us out as one of our athletes, {v6:1}.{p}{end}
+
+## MGG06G g0 s0010
+JP: 『太P戦』に?{n}俺が?{p}
+EN: In the Taiyo-Pacific Match? Me?{p}
+
+## MGG06G g0 s0011
+JP: イエ～ス!!{p}{end}
+EN: Yeees!!{p}{end}
+
+## MGG06G g0 s0012
+JP: お願い!{sp}{v6:1}。{n}太陽学園に力を貸してよ!{p}
+EN: Please, {v6:1}. Lend Taiyo High a hand!{p}
+
+## MGG06G g0 s0013
+JP: ノーノー!{n}{v3:7}は、ミーの高校に{n}ソケットにくるネ!{n}そーでしょ?{sp}{v3:7}。{p}
+EN: No, no! {v3:7} is coming to help MY school! Right, {v3:7}?{p}
+
+## MGG06G g0 s0014
+JP: う～ん、『太P戦』に出るのは、{n}いいけど……。{n}どっちかに力を貸すとなると……{p}
+EN: Well, I don't mind entering the match... But if I have to pick a side...{p}
+
+## MGG06G g0 s0015
+JP: 太陽学園の助っ人になる{n}パシフィックHSの助っ人になる{p}
+EN: Help Taiyo High{n}Help Pacific High{p}
+
+## MGG06G g0 s0016
+JP: ティファニーには悪いけど……{n}太陽学園の方にいくよ。{p}{end}
+EN: Sorry, Tiffany... but I'll go with Taiyo High.{p}{end}
+
+## MGG06G g0 s0017
+JP: やったぁ!!{n}アリガトね、{v6:1}。{n}じゃ、さっそく行きましょう!{p}
+EN: Yay!! Thanks, {v6:1}. Okay, let's get going!{p}
+
+## MGG06G g0 s0018
+JP: ひなたには悪いけど……{n}パシフィックの方にいくよ。{p}
+EN: Sorry, Hinata... but I'll go with Pacific.{p}
+
+## MGG06G g0 s0019
+JP: エクセレント!{n}信じてたよ、{v3:7}!{n}じゃ、さっそくレッツゴーね!!{p}
+EN: Excellent! I believed in you, {v3:7}! Okay, let's go!!{p}
+
+## MGG06G g0 s0020
+JP: よぉ、{v3:0}。{n}助っ人に来てくれたんだってな。{n}サンキュー。{p}
+EN: Yo, {v3:0}. Heard you came to help us out. Thanks.{p}
+
+## MGG06G g0 s0021
+JP: キミが来てくれるとは心強いな。{n}向こうからはロイが出てくるはずだ。{n}手強い相手だが、がんばれよ、{n}{v4:2}。{p}{end}
+EN: Having you here is reassuring. They'll probably send out Roy. He's tough, but give it your best, {v4:2}.{p}{end}
+
+## MGG06G g0 s0022
+JP: そうとも!{sp}この一戦に{n}今回の勝敗がかかってるんだ。{n}負けたら承知しねぇぞ。{p}{end}
+EN: Damn right! This race decides the whole meet. You'd better not lose!{p}{end}
+
+## MGG06G g0 s0023
+JP: バツ!{n}せっかく助っ人に来てくれたんだから、{n}そんなこといわないでよ。{p}
+EN: Batsu! He came all this way to help, so don't say stuff like that.{p}
+
+## MGG06G g0 s0024
+JP: {v6:1}、{n}ムリしなくていいからね。{p}{end}
+EN: {v6:1}, don't push yourself, okay?{p}{end}
+
+## MGG06G g0 s0025
+JP: ひなたはやさしいなぁ。{n}よし、ここは一つみんなに{n}いいトコロを見せるかな。{p}
+EN: Hinata's so nice. All right, guess I'll show everyone what I can do.{p}
+
+## MGG06G g0 s0026
+JP: {v4:2}、{n}出場種目が短距離走だってことは、{n}聞いているか?{p}{end}
+EN: {v4:2}, has anyone told you your event is the sprint?{p}{end}
+
+## MGG06G g0 s0027
+JP: いや、今初めて聞いたけど。{p}
+EN: No, this is the first I've heard of it.{p}
+
+## MGG06G g0 s0028
+JP: 短距離走は、タイミングが重要なんだ。{n}くれぐれも熱くならないように。{n}タイミングがズレてもあわてるなよ。{p}{end}
+EN: The sprint is all about timing. Whatever you do, don't get worked up, and don't panic if your timing's off.{p}{end}
+
+## MGG06G g0 s0029
+JP: あとは、気合だ!{sp}気合!!{p}
+EN: And the rest is guts! GUTS!!{p}
+
+## MGG06G g0 s0030
+JP: そろそろ時間みたいよ。{n}がんばってね!{n}{v6:1}!!{p}{end}
+EN: Looks like it's almost time. Good luck, {v6:1}!!{p}{end}
+
+## MGG06G g0 s0031
+JP: ヘイ、{v3:6}!{n}待ってたぞ。{n}キミがヘルプに入ってくれるらしいな。{p}{end}
+EN: Hey, {v3:6}! I've been waiting. Heard you're helping us out.{p}{end}
+
+## MGG06G g0 s0032
+JP: これも神の思し召しでしょう!{n}君の助けがあれば、我々の勝利{n}まちがいなしです。{p}
+EN: This must be the will of the Lord! With your help, our victory is certain.{p}
+
+## MGG06G g0 s0033
+JP: 太陽学園からは、{n}バツが出てくるはずデース。{n}バツは強いよ、{n}油断テンテキね!{p}
+EN: Taiyo High is sending out Batsu. Batsu is strong, so don't get overconfidential!{p}
+
+## MGG06G g0 s0034
+JP: それをいうなら「油断大敵」だ……。{n}現在の得点差だと、君の種目の結果が{n}全体の勝敗を決めることになりそうです。{n}がんばってください。{p}{end}
+EN: You mean "overconfident"... With the score this close, your event will likely decide the whole meet. Please do your best.{p}{end}
+
+## MGG06G g0 s0035
+JP: バツが相手か……。{n}これは本気でやらないと、{n}勝てそうにないな。{p}{end}
+EN: Batsu, huh... I'll have to go all out if I want to win.{p}{end}
+
+## MGG06G g0 s0036
+JP: {v3:6}、{n}出場種目が短距離走だってことは、{n}聞いているか?{p}{end}
+EN: {v3:6}, has anyone told you your event is the sprint?{p}{end}
+
+## MGG06G g0 s0037
+JP: いや、今初めて聞いたよ。{p}{end}
+EN: No, this is the first I've heard of it.{p}{end}
+
+## MGG06G g0 s0038
+JP: 短距離走はタイミングが重要だ。{n}なに、冷静に走れば大丈夫。{n}タイミングが合わなくても{n}あわてないようにな。{p}
+EN: The sprint is all about timing. Just run calmly and you'll be fine. Don't panic if your timing's off.{p}
+
+## MGG06G g0 s0039
+JP: 君の勝利を祈っていますよ!{n}{v4:8}。{p}
+EN: I am praying for your victory, {v4:8}!{p}
+
+## MGG06G g0 s0040
+JP: そろそろ時間みたいでーす。{n}がんばってね!{n}{v3:7}!!{p}{end}
+EN: Looks like it's almost time. Good luck, {v3:7}!!{p}{end}
+
+## MGG06G g0 s0041
+JP: {v6:1}ーーーっ!{p}
+EN: {v6:1}!!!{p}
+
+## MGG06G g0 s0042
+JP: ドーーーンッ!!{p}{end}
+EN: WHAAAM!!{p}{end}
+
+## MGG06G g0 s0043
+JP: あ、ご、ごめん、{v6:1}!{n}突き飛ばしちゃった!!{p}
+EN: Ah, s-sorry, {v6:1}! I knocked you flying!!{p}
+
+## MGG06G g0 s0044
+JP: いてて……頼むよ、ひなた……。{n}うれしいのはわかるけどさ。{p}
+EN: Ow ow... Come on, Hinata... I know you're happy and all.{p}
+
+## MGG06G g0 s0045
+JP: つい感動しちゃって……。{n}でもすごいよね、{n}ロイに勝っちゃうなんて!{n}かっこよかったよ!{p}{end}
+EN: I just got so excited... But that was amazing, beating Roy! You looked so cool!{p}{end}
+
+## MGG06G g0 s0046
+JP: ああ、いたいた。{n}{v3:9}、探したベ?{p}
+EN: Oh, there ya are. {v3:9}, been lookin' all over for ya.{p}
+
+## MGG06G g0 s0047
+JP: エッジ?{sp}みんなも。{n}どうしてここへ?{p}
+EN: Edge? And everyone else. What are you doing here?{p}
+
+## MGG06G g0 s0048
+JP: ひなたに聞いてのぉ。{n}応援に来たというわけじゃ。{p}{end}
+EN: Heard about it from Hinata. So we came to cheer ya on.{p}{end}
+
+## MGG06G g0 s0049
+JP: で、どーよ?{sp}結果は。{n}まさか負けたワケじゃねーよな?{p}
+EN: So, how'd it go? Don't tell me you lost.{p}
+
+## MGG06G g0 s0050
+JP: もちろん楽勝さ!{n}負けちゃったよ{p}{end}
+EN: Of course! It was a breeze!{n}I lost{p}{end}
+
+## MGG06G g0 s0051
+JP: もちろん楽勝さ!{n}ロイには悪いけど、{n}勝たせてもらったよ。{p}
+EN: Of course! It was a breeze! Sorry, Roy, but I took the win.{p}
+
+## MGG06G g0 s0052
+JP: ふふ、さすがだな。{n}{v3:10}。{p}
+EN: Heh, nice work, {v3:10}.{p}
+
+## MGG06G g0 s0053
+JP: おーよ。{n}ゲド高生が、パシフィックに負けちゃ{n}シャレになんねーよな?{p}{end}
+EN: Damn right. A Gedo guy losin' to Pacific? That'd be a joke, right?{p}{end}
+
+## MGG06G g0 s0054
+JP: ウム、ゲド高の力を見せつける{n}チャンスじゃからのぉ。{n}ワシも出たかったんじゃが。{p}{end}
+EN: Mm-hm, a chance to show off Gedo's strength. I wanted to run too, y'know.{p}{end}
+
+## MGG06G g0 s0055
+JP: バーカお前、短距離走で{n}岩を出すわけねぇじゃん?{n}力勝負じゃねぇんだからよ。{p}{end}
+EN: You moron, like they'd put you in a sprint! It ain't a contest of strength.{p}{end}
+
+## MGG06G g0 s0056
+JP: なんじゃと～～～っ!{p}{end}
+EN: Whaddya say?!{p}{end}
+
+## MGG06G g0 s0057
+JP: 二人ともやめないか!{n}まぁ{v3:10}も{n}お疲れだったな。{n}見直したぞ。{p}{end}
+EN: Cut it out, you two! Anyway, good work, {v3:10}. I'm impressed.{p}{end}
+
+## MGG06G g0 s0058
+JP: うん。{v6:1}、{n}アリガトね。{n}じゃ、またね!!{p}{end}
+EN: Yeah. Thanks, {v6:1}. See ya!!{p}{end}
+
+## MGG06G g0 s0059
+JP: 実は負けちゃったんだ。{n}ロイの方が速かったよ。{p}
+EN: Actually, I lost. Roy was faster.{p}
+
+## MGG06G g0 s0060
+JP: …………?{p}
+EN: ..........?{p}
+
+## MGG06G g0 s0061
+JP: なんでそんなウソをつくんじゃ?{n}{v3:11}。{n}ワシには勝ったように見えたがのぉ。{p}
+EN: Why tell a fib like that, {v3:11}? Looked to me like ya won.{p}
+
+## MGG06G g0 s0062
+JP: なんだ、見てたのか。{p}{end}
+EN: Oh, you saw, huh.{p}{end}
+
+## MGG06G g0 s0063
+JP: ケンソンのつもりか?{n}{v3:9}。{n}それともなんか理由があんのか?{p}{end}
+EN: That supposed to be modesty, {v3:9}? Or you got some reason?{p}{end}
+
+## MGG06G g0 s0064
+JP: イヤ……なんとなく。{p}{end}
+EN: Nah... no reason.{p}{end}
+
+## MGG06G g0 s0065
+JP: よくわからないヤツだな、お前も。{n}まぁいい。{n}お前もよくやったよ。{n}ロイに勝つとは、見直した。{p}
+EN: You're a hard one to figure out. Well, whatever. You did good. Beating Roy... I'm impressed.{p}
+
+## MGG06G g0 s0067
+JP: こうして太P戦は、太陽学園の{n}大勝利に終わった。{p}{end}
+EN: And so the Taiyo-Pacific Match ended in a big win for Taiyo High.{p}{end}
+
+## MGG06G g0 s0068
+JP: {v3:7}ーーーっ!{p}
+EN: {v3:7}!!!{p}
+
+## MGG06G g0 s0069
+JP: {v3:7}、やったネ!{n}さすがにミーが、{n}ニコンだだけのことはあるね!!{n}グレイト!!{p}{end}
+EN: {v3:7}, you did it! You lived up to my expectorations!! Great!!{p}{end}
+
+## MGG06G g0 s0070
+JP: それをいうなら「見込んだ」だろ?{p}{end}
+EN: You mean "expectations," right?{p}{end}
+
+## MGG06G g0 s0071
+JP: ごほーびのキスね!{n}チュッ{col:5}♥{col:-}{p}{end}
+EN: Here's your reward kiss! Smooch{col:5}♥{col:-}{p}{end}
+
+## MGG06G g0 s0072
+JP: （キ、キスされちゃった……）{p}{end}
+EN: (Sh-she kissed me...){p}{end}
+
+## MGG06G g0 s0073
+JP: これで、パシフィックの優勝ネ!{n}サンキュー、{v3:7}!{p}
+EN: Now Pacific wins it all! Thank you, {v3:7}!{p}
+
+## MGG06G g0 s0076
+JP: ティファニーに聞いてのぉ。{n}応援に来たというわけじゃ。{p}
+EN: Heard about it from Tiffany. So we came to cheer ya on.{p}
+
+## MGG06G g0 s0079
+JP: もちろん楽勝さ!{n}バツには悪いけど、{n}勝たせてもらったよ。{p}
+EN: Of course! It was a breeze! Sorry, Batsu, but I took the win.{p}
+
+## MGG06G g0 s0081
+JP: おーよ。{n}ゲド高生が、太陽学園に負けちゃ{n}シャレになんねーよな?{p}{end}
+EN: Damn right. A Gedo guy losin' to Taiyo? That'd be a joke, right?{p}{end}
+
+## MGG06G g0 s0086
+JP: {v3:7}、{n}サンキューでーす。{n}感謝してま～ス。{p}{end}
+EN: {v3:7}, thank you sooo much. I'm very grateful.{p}{end}
+
+## MGG06G g0 s0087
+JP: 実は負けちゃったんだ。{n}バツの方が速かったよ。{p}
+EN: Actually, I lost. Batsu was faster.{p}
+
+## MGG06G g0 s0093
+JP: よくわからないヤツだな、お前も。{n}まぁいい。{n}お前もよくやったよ。{n}バツに勝つとは、見直した。{p}
+EN: You're a hard one to figure out. Well, whatever. You did good. Beating Batsu... I'm impressed.{p}
+
+## MGG06G g0 s0095
+JP: こうして太P戦は、パシフィック{n}ハイスクールの大勝利に終わった。{p}{end}
+EN: And so the Taiyo-Pacific Match ended in a big win for Pacific High.{p}{end}
+
+## MGG06G g0 s0096
+JP: あ……、{v6:1}……。{p}
+EN: Oh... {v6:1}...{p}
+
+## MGG06G g0 s0097
+JP: ごめん……負けちゃった。{p}{end}
+EN: Sorry... I lost.{p}{end}
+
+## MGG06G g0 s0098
+JP: ……うん。{n}ゴメンね、こんなことに{n}巻き込んじゃって。{p}
+EN: ...Yeah. Sorry for dragging you into this.{p}
+
+## MGG06G g0 s0099
+JP: 相手がロイだからね……、{n}しかたないよ。{n}だからそんな気を落とさないで。{p}{end}
+EN: You were up against Roy... It couldn't be helped. So don't feel so down.{p}{end}
+
+## MGG06G g0 s0103
+JP: で、どーよ?{sp}結果は。{n}もちろん勝ったんだろーな?{p}
+EN: So, how'd it go? You won, obviously, right?{p}
+
+## MGG06G g0 s0106
+JP: …………!!{p}{end}
+EN: ..........!!{p}{end}
+
+## MGG06G g0 s0107
+JP: {v3:11}よ、{n}ウソは感心せんのう。{n}ワシらはお前が負けたところを{n}見とったんじゃが。{p}{end}
+EN: {v3:11}, lyin' ain't right. We saw ya lose, y'know.{p}{end}
+
+## MGG06G g0 s0108
+JP: ……あ、見てたの?{p}
+EN: ...Oh, you saw?{p}
+
+## MGG06G g0 s0109
+JP: カーッ、{v3:9}、{n}てめぇがそんなヤツだったとはよ!{n}仲間にウソついて楽しいか?{p}{end}
+EN: Tch, {v3:9}, didn't think you were that kinda guy! Fun lyin' to your buddies?{p}{end}
+
+## MGG06G g0 s0110
+JP: ……見損なったぞ、{n}{v3:10}。{p}
+EN: ...I'm disappointed in you, {v3:10}.{p}
+
+## MGG06G g0 s0111
+JP: まったくじゃ。{n}おぬしはそんなヤツじゃあないと{n}思っとったが……{n}ワシらの思い違いだったようじゃのう。{p}
+EN: Ain't that the truth. I figured you weren't that sorta fella... Guess we had ya wrong.{p}
+
+## MGG06G g0 s0112
+JP: いや、違うんだよ。{n}ちょっと、カッコつけたかった{n}だけなんだ……。{p}
+EN: No, it's not like that. I just... wanted to look cool...{p}
+
+## MGG06G g0 s0113
+JP: わかった、わかった。{n}もうウソなんかつくんじゃねぇぞ。{n}今度ウソついたら{n}タダじゃおかねぇからな!{p}
+EN: Okay, okay. Just don't lie to us again. Next time, you're gonna get it!{p}
+
+## MGG06G g0 s0114
+JP: たしかに、その気持ち{n}わからないでもない。{n}どちらにせよ、ここにはもう用はない。{n}引き上げよう。{p}{end}
+EN: I guess I can understand the feeling. Either way, we're done here. Let's go.{p}{end}
+
+## MGG06G g0 s0115
+JP: {v6:1}……、{n}アリガトね……。{p}{end}
+EN: {v6:1}... Thanks...{p}{end}
+
+## MGG06G g0 s0117
+JP: ……そうか。{n}いや、あのロイのスピードでは、{n}負けてもしかたないな。{p}{end}
+EN: ...I see. Well, against Roy's speed, losing can't be helped.{p}{end}
+
+## MGG06G g0 s0118
+JP: あ……、見てたんだ?{p}{end}
+EN: Oh... you were watching?{p}{end}
+
+## MGG06G g0 s0119
+JP: うむ。{n}相手はロイじゃからのぉ、{n}ワシでも勝てたかどうか。{p}
+EN: Mm-hm. Up against Roy... dunno if even I coulda won.{p}
+
+## MGG06G g0 s0120
+JP: バーカ、てめえに勝てるわけ{n}ねーじゃねぇか。{n}てめえがドスドス走っても、倍以上、{n}差をつけられて負けるっつーの。{p}{end}
+EN: Idiot, no way you'd win. You'd go stompin' along and lose by a mile and then some.{p}{end}
+
+## MGG06G g0 s0122
+JP: 二人ともやめないか!{n}まぁ{v3:10}も、{n}がんばったんだ。しかたないさ。{n}そろそろ引き上げよう。{p}
+EN: Cut it out, you two! Anyway, {v3:10} did his best. It can't be helped. Let's head out.{p}
+
+## MGG06G g0 s0124
+JP: ……こうして太P戦は、パシフィック{n}ハイスクールの勝利に終わった。{p}
+EN: ...And so the Taiyo-Pacific Match ended in a win for Pacific High.{p}
+
+## MGG06G g0 s0125
+JP: オゥ……、{v3:7}……。{p}{end}
+EN: Oh... {v3:7}...{p}{end}
+
+## MGG06G g0 s0126
+JP: ごめん、……負けちゃった。{p}
+EN: Sorry... I lost.{p}
+
+## MGG06G g0 s0127
+JP: ノーノー、気にすることないネ、{n}相手が悪すぎたヨ。{n}バツがあんなに速いなんて、{n}ミーは知らなかったよ。{p}
+EN: No, no, don't worry about it. Your opponent was too tough. I didn't know Batsu was so fast.{p}
+
+## MGG06G g0 s0128
+JP: 気にしないでネ、{v3:7}。{n}こんなコトに巻き込んで、{n}ソーリーね……。{p}
+EN: Don't feel bad, {v3:7}. Sorry I dragged you into this...{p}
+
+## MGG06G g0 s0140
+JP: まったくじゃ。{n}おぬしはそんなヤツじゃぁないと{n}思っとったが……{n}ワシらの思い違いだったようじゃのう。{p}
+EN: Ain't that the truth. I figured you weren't that sorta fella... Guess we had ya wrong.{p}
+
+## MGG06G g0 s0144
+JP: {v3:7}……、{n}サンキューね……。{n}気を落としちゃダメよ。{p}
+EN: {v3:7}... thank you... Don't be down, okay?{p}
+
+## MGG06G g0 s0146
+JP: ……そうか。{n}いや、あのバツのスピードでは、{n}負けてもしかたないな。{p}{end}
+EN: ...I see. Well, against Batsu's speed, losing can't be helped.{p}{end}
+
+## MGG06G g0 s0148
+JP: うむ。{n}相手はバツじゃからのぉ、{n}ワシでも勝てたかどうか。{p}
+EN: Mm-hm. Up against Batsu... dunno if even I coulda won.{p}
+
+## MGG06G g0 s0153
+JP: ……こうして太P戦は、{n}太陽学園の勝利に終わった。{p}
+EN: ...And so the Taiyo-Pacific Match ended in a win for Taiyo High.{p}
+

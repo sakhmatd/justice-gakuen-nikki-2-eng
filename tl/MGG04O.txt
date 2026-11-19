@@ -1,0 +1,416 @@
+## MGG04O g0 s0000
+JP: 今日は五輪高校の入学式。{n}気合い入れて、早めに来たんだけど、{n}ちょっと早く来すぎたかな。{p}{end}
+EN: Today's the Gorin High entrance ceremony. I came early to get fired up, but maybe I came a little too early.{p}{end}
+
+## MGG04O g0 s0001
+JP: ふぅ……、早起きは気持ちいいなぁ。{n}お、俺より先に来てるヤツがいるぞ……、{n}あれは将馬だな。{p}{end}
+EN: Phew... Getting up early feels great. Oh, someone got here before me... That's Shoma.{p}{end}
+
+## MGG04O g0 s0002
+JP: よぉ、{v3:3}!{n}オイラも今日から高校球児だからな!{n}のんびりなんかしてらんねぇよ。{p}{end}
+EN: Hey, {v3:3}! I'm a high school ballplayer as of today! I can't afford to slack off.{p}{end}
+
+## MGG04O g0 s0003
+JP: 将馬、飛ばしすぎだよ。{n}もっと身体を暖めてからにしないと。{p}
+EN: Shoma, you're overdoing it. You need to warm up more first.{p}
+
+## MGG04O g0 s0004
+JP: あ、みんな。{n}気合入ってるね。{p}
+EN: Oh, hey, guys. You're all fired up.{p}
+
+## MGG04O g0 s0005
+JP: 将馬が特にな。{n}おかげで朝から練習につきあわされたよ。{p}
+EN: Shoma especially. Thanks to him, I got dragged into practice first thing this morning.{p}
+
+## MGG04O g0 s0006
+JP: 夏、オマエ身体が温まるのが、{n}遅いんじゃないのか?{p}
+EN: Natsu, don't you take forever to warm up?{p}
+
+## MGG04O g0 s0007
+JP: 「大男、総身に“熱”が回りかね」ってな。{n}あ、オマエの場合「大女」か?{p}
+EN: You know what they say: "Big guys are slow to warm up." Oh, I guess in your case it's "big gals"?{p}
+
+## MGG04O g0 s0008
+JP: こらっ!{sp}将馬!!{p}
+EN: Why you...! Shoma!!{p}
+
+## MGG04O g0 s0009
+JP: やれやれ、入学そうそう{n}よくやるねぇ。{p}
+EN: Jeez, at it already on the first day.{p}
+
+## MGG04O g0 s0010
+JP: ……まったくだ。{n}ケンカするほど仲がいいっていうけど。{p}
+EN: ...No kidding. They say people who fight are close, but still.{p}
+
+## MGG04O g0 s0011
+JP: 将馬!{sp}待ちなさい!!{p}
+EN: Shoma! Get back here!!{p}
+
+## MGG04O g0 s0012
+JP: へへ、イヤなこった!!{p}
+EN: Heh, no way!!{p}
+
+## MGG04O g0 s0013
+JP: ……まったくな。{p}{end}
+EN: ...Seriously.{p}{end}
+
+## MGG04O g0 s0014
+JP: さてと……入学式まで、{n}まだ時間があるなぁ。{n}みんなどうする?{p}
+EN: Well... There's still time before the ceremony. What do you guys wanna do?{p}
+
+## MGG04O g0 s0015
+JP: みんなでキャッチボールやろうぜ!{n}時間つぶしには{n}キャッチボールが一番だって。{p}
+EN: Let's all play catch! Catch is the best way to kill time.{p}
+
+## MGG04O g0 s0016
+JP: そりゃ、お前はいいかもしれないが、{n}他の人のことも考えろよ。{n}夏や、{v3:5}もいるんだぞ。{p}
+EN: Sure, that works for you, but think about everyone else. Natsu and {v3:5} are here too.{p}
+
+## MGG04O g0 s0017
+JP: そうねぇ。{n}アタシは野球より、{n}バレーのパス練習がしたいな!{p}{end}
+EN: Yeah. I'd rather do volleyball passing practice than baseball!{p}{end}
+
+## MGG04O g0 s0018
+JP: う……まだ怒ってるな……。{n}そうだ、{v3:3}に{n}決めてもらおう。{n}それでいいだろ?{p}
+EN: Ugh... She's still mad... I know, let's let {v3:3} decide. That okay?{p}
+
+## MGG04O g0 s0019
+JP: キャッチボールと、パス練習と……{n}じゃ俺はPK練習だな。{n}{v3:5}、どれがいい?{p}{end}
+EN: Catch, passing practice... Then I'll go with PK practice. {v3:5}, which one?{p}{end}
+
+## MGG04O g0 s0020
+JP: キャッチボール{n}パス練習{n}PK練習{p}
+EN: Catch{n}Passing practice{n}PK practice{p}
+
+## MGG04O g0 s0021
+JP: どれを選んでもマズイような気がするなぁ。{n}うう……じゃあキャッチボールで、{n}いいかな。{p}
+EN: Feels like whatever I pick is gonna go wrong. Ugh... I guess catch is fine.{p}
+
+## MGG04O g0 s0022
+JP: ヤッホォ!{n}よしっ!{n}じゃ、さっそくやろうぜ!!{p}{end}
+EN: Yahoo! Alright! Let's get going!!{p}{end}
+
+## MGG04O g0 s0024
+JP: よしっ、じゃ行くぞーーーっ!!{p}
+EN: Okay, here it comes!!{p}
+
+## MGG04O g0 s0025
+JP: よしっ!{n}来いっ!!{p}{end}
+EN: Alright! Bring it!!{p}{end}
+
+## MGG04O g0 s0026
+JP: そりゃっ!{n}……あっ!!{p}{end}
+EN: Hyah! ...Ah!!{p}{end}
+
+## MGG04O g0 s0027
+JP: パリーーーン!{p}
+EN: CRASH!{p}
+
+## MGG04O g0 s0028
+JP: やっべぇ、あれ校長室だぞ。{n}まったくどっちに投げてんだよ。{p}
+EN: Crap, that's the principal's office. Where the heck are you throwing!?{p}
+
+## MGG04O g0 s0029
+JP: ごめん、手が滑った……。{n}どうしよう?{p}
+EN: Sorry, my hand slipped... What do we do?{p}
+
+## MGG04O g0 s0030
+JP: どれを選んでもマズイような気がするなぁ。{n}じゃあ……パス練習かな。{p}
+EN: Feels like whatever I pick is gonna go wrong. Then... passing practice, I guess.{p}
+
+## MGG04O g0 s0031
+JP: ふふっ、悪いね、将馬。{n}じゃ、さっそくやろうか。{p}{end}
+EN: Hehe, sorry, Shoma. Let's get started.{p}{end}
+
+## MGG04O g0 s0034
+JP: いつでもいいわよ。{p}
+EN: Ready whenever you are.{p}
+
+## MGG04O g0 s0035
+JP: そーれっと!{n}……あっ!!{p}
+EN: Hup! ...Ah!!{p}
+
+## MGG04O g0 s0037
+JP: やっべぇ、あれ校長室だぞ。{n}まったくどっちに打ってんだよ。{p}
+EN: Crap, that's the principal's office. Where the heck are you hitting it!?{p}
+
+## MGG04O g0 s0039
+JP: どれを選んでもマズイような気がするなぁ。{n}それじゃ……PK戦にしよう。{p}
+EN: Feels like whatever I pick is gonna go wrong. Okay... let's do PK practice.{p}
+
+## MGG04O g0 s0040
+JP: お、お目が高いねぇ。{n}よしよし、じゃさっそくやろうか。{p}
+EN: Oh, you've got a good eye. Alright, let's get started.{p}
+
+## MGG04O g0 s0043
+JP: よしっ、来い!!{p}{end}
+EN: Alright, bring it!!{p}{end}
+
+## MGG04O g0 s0046
+JP: やっべぇ、あれ校長室だぞ。{n}まったくどっちに蹴ってんだよ。{p}
+EN: Crap, that's the principal's office. Where the heck are you kicking it!?{p}
+
+## MGG04O g0 s0047
+JP: ごめん、足が滑った……。{n}どうしよう?{p}
+EN: Sorry, my foot slipped... What do we do?{p}
+
+## MGG04O g0 s0048
+JP: ……謝りにいくしかないな。{p}
+EN: ...We'll just have to go apologize.{p}
+
+## MGG04O g0 s0049
+JP: ……そうだな。{n}ちょっと行ってくるよ……。{p}
+EN: ...Yeah. I'll go do it...{p}
+
+## MGG04O g0 s0050
+JP: {v6:4}だけが{n}いくことないわ。{n}みんなで行きましょう。{p}{end}
+EN: {v6:4}, you don't have to go alone. Let's all go.{p}{end}
+
+## MGG04O g0 s0051
+JP: そうだな。いさぎよく行くか。{p}{end}
+EN: Yeah. Let's go own up to it.{p}{end}
+
+## MGG04O g0 s0052
+JP: みんな……ありがとう。{p}
+EN: Guys... Thanks.{p}
+
+## MGG04O g0 s0055
+JP: ……やれやれ、入学初日から{n}こってりしぼられちゃったよ……。{n}みんながついてきてくれたから{n}よかったけど……。{p}
+EN: ...Man, I got chewed out on my very first day... Good thing everyone came with me, though...{p}
+
+## MGG04O g0 s0056
+JP: 入学式も終わったし、教室にいこう……。{p}
+EN: The entrance ceremony's over. Let's head to class...{p}
+
+## MGG04O g0 s0060
+JP: あ、あなた、さっきの!{n}『新入生、校長室のガラス破壊』ね!?{n}ばっちり撮らせてもらったわよ。{p}{end}
+EN: Oh, you're the one from before! "New Student Smashes Principal's Window," right!? I got a perfect shot of it.{p}{end}
+
+## MGG04O g0 s0064
+JP: へぇ……しかし「破壊」ってのはヒドイな。{n}あれは単なる事故だよ。{p}{end}
+EN: Huh... But "smashes" is harsh. That was just an accident.{p}{end}
+
+## MGG04O g0 s0360
+JP: よう、{v3:5}!{n}はりきってるな。{p}
+EN: Hey, {v3:5}! You're all pumped.{p}
+
+## MGG04O g0 s0361
+JP: そういうロベルトだって、{n}やけに楽しそうじゃないか。{p}{end}
+EN: Look who's talking, Roberto. You seem awfully happy yourself.{p}{end}
+
+## MGG04O g0 s0362
+JP: やっぱりわかるか?{n}実は、この遠足が待ち遠しかった{n}くらいなんだよ。{p}{end}
+EN: You can tell? Truth is, I've been counting the days to this trip.{p}{end}
+
+## MGG04O g0 s0363
+JP: わっかんねぇなあ。{n}オイラは野球でもしてる方がずっと{n}楽しいと思うけどな。{p}
+EN: I don't get it. I'd have way more fun playing baseball.{p}
+
+## MGG04O g0 s0364
+JP: まったく、この歳で遊園地なんて{n}ガキじゃねぇんだからよ。{p}{end}
+EN: Come on, an amusement park at our age? We're not little kids.{p}{end}
+
+## MGG04O g0 s0365
+JP: そんな心にもないこと言っちゃって。{n}本当は楽しみなくせにさ。{p}{end}
+EN: Don't say stuff you don't mean. You're actually looking forward to it.{p}{end}
+
+## MGG04O g0 s0366
+JP: アタシもこの遠足、{n}結構楽しみだったのよ。{p}
+EN: I was looking forward to this trip too, you know.{p}
+
+## MGG04O g0 s0367
+JP: ホラ、アタシたちって{n}いつも練習ばっかりでしょ?{n}遊園地なんて、めったに行けないからね。{p}{end}
+EN: I mean, all we ever do is practice, right? We hardly ever get to go to amusement parks.{p}{end}
+
+## MGG04O g0 s0368
+JP: 言われてみればそうか。{n}五輪高校って、{n}土日も練習ざんまいだもんな。{p}{end}
+EN: Now that you mention it. Gorin's all practice, even on weekends.{p}{end}
+
+## MGG04O g0 s0369
+JP: さあ、今日はおもいっきり{n}羽を伸ばそうぜ!{p}
+EN: Alright, let's cut loose today!{p}
+
+## MGG04O g0 s0370
+JP: なあ、みんな。{n}どこか行きたい所とかあるか?{p}{end}
+EN: Hey, guys. Is there anywhere you wanna go?{p}{end}
+
+## MGG04O g0 s0371
+JP: 俺は、久しぶりにゲームコーナーに{n}行ってみたいんだ。{n}みんなさえ良ければ、{n}つきあってくれないか?{p}
+EN: I'd like to hit the arcade. It's been a while. If you're all okay with it, would you come along?{p}
+
+## MGG04O g0 s0372
+JP: 別に構わないわよ。{n}{v6:4}はどう?{p}{end}
+EN: Fine by me. What about you, {v6:4}?{p}{end}
+
+## MGG04O g0 s0374
+JP: なんだ、まだ決めてねぇのか。{n}じゃあ、オイラたちは先に行ってるから、{n}良かったら後から来いよ。{p}
+EN: What, you still haven't decided? Then we'll go on ahead. Come find us later if you want.{p}
+
+## MGG04O g0 s0375
+JP: そうだね、そうしよう。{p}
+EN: Yeah, let's do that.{p}
+
+## MGG04O g0 s0376
+JP: {v3:5}、じゃあまた後でな!{p}{end}
+EN: {v3:5}, see you later!{p}{end}
+
+## MGG04O g1 s0000
+JP: 今日は五輪高校の入学式。{n}気合い入れて、早めに来たけど、{n}ちょっと早く来すぎたかナ。{p}{end}
+EN: Today's the Gorin High entrance ceremony. I came early to get fired up, but maybe I came a little too early.{p}{end}
+
+## MGG04O g1 s0001
+JP: ふぅ……、早起きは気持ちいいわぁ。{n}あ、私より先に来てる人がいるわ……、{n}あれは将馬ね。{p}{end}
+EN: Phew... Getting up early feels great. Oh, someone got here before me... That's Shoma.{p}{end}
+
+## MGG04O g1 s0010
+JP: ……まったくだわ。{n}ケンカするほど仲がいいっていうけど。{p}{end}
+EN: ...No kidding. They say people who fight are close, but still.{p}{end}
+
+## MGG04O g1 s0014
+JP: さてと……入学式まで、{n}まだ時間があるわ。{n}みんなどうする?{p}{end}
+EN: Well... There's still time before the ceremony. What do you guys wanna do?{p}{end}
+
+## MGG04O g1 s0016
+JP: そりゃ、お前はいいかもしれないが、{n}他の人のことも考えろよ。{n}夏や、{v7:5}もいるんだぞ。{p}
+EN: Sure, that works for you, but think about everyone else. Natsu and {v7:5} are here too.{p}
+
+## MGG04O g1 s0019
+JP: キャッチボールと、パス練習と……{n}じゃ俺はPK練習だな。{n}{v7:5}、どれがいい?{p}{end}
+EN: Catch, passing practice... Then I'll go with PK practice. {v7:5}, which one?{p}{end}
+
+## MGG04O g1 s0021
+JP: どれを選んでもマズイような気がするわぁ。{n}うう……じゃあキャッチボールで、{n}いいかな。{p}
+EN: Feels like whatever I pick is gonna go wrong. Ugh... I guess catch is fine.{p}
+
+## MGG04O g1 s0024
+JP: よしっ、じゃ行くわよーーーっ!!{p}{end}
+EN: Okay, here it comes!!{p}{end}
+
+## MGG04O g1 s0026
+JP: それっ!{n}……あっ!!{p}
+EN: Hup! ...Ah!!{p}
+
+## MGG04O g1 s0029
+JP: ごめん、手が滑っちゃった……。{n}どうしよう?{p}{end}
+EN: Sorry, my hand slipped... What do we do?{p}{end}
+
+## MGG04O g1 s0030
+JP: どれを選んでもマズイような気がするわぁ。{n}じゃあ……パス練習かな。{p}
+EN: Feels like whatever I pick is gonna go wrong. Then... passing practice, I guess.{p}
+
+## MGG04O g1 s0033
+JP: よしっ、じゃあ行くわよーーーっ!!{p}
+EN: Okay, here it comes!!{p}
+
+## MGG04O g1 s0039
+JP: どれを選んでもマズイような気がするわぁ。{n}それじゃ……PK戦にしよう。{p}
+EN: Feels like whatever I pick is gonna go wrong. Okay... let's do PK practice.{p}
+
+## MGG04O g1 s0047
+JP: ごめん、足が滑っちゃった……。{n}どうしよう?{p}{end}
+EN: Sorry, my foot slipped... What do we do?{p}{end}
+
+## MGG04O g1 s0049
+JP: ……そうね。{n}ちょっと行ってくるわ……。{p}{end}
+EN: ...Yeah. I'll go do it...{p}{end}
+
+## MGG04O g1 s0050
+JP: {v7:4}だけが{n}行くことないわ。{n}みんなで行きましょう。{p}{end}
+EN: {v7:4}, you don't have to go alone. Let's all go.{p}{end}
+
+## MGG04O g1 s0054
+JP: （あれ?{n}{sp}今何か光ったような気がしたけど……{n}{sp}気のせいかしら……?）{p}{end}
+EN: (Huh? I thought I saw something flash just now... Just my imagination...?){p}{end}
+
+## MGG04O g1 s0055
+JP: ……やれやれ、入学初日から{n}こってりしぼられちゃったわ……。{n}みんながついてきてくれたから{n}よかったけど……。{p}
+EN: ...Man, I got chewed out on my very first day... Good thing everyone came with me, though...{p}
+
+## MGG04O g1 s0064
+JP: へぇ……しかし「破壊」ってのはヒドイよ。{n}あれは単なる事故なんだから。{p}
+EN: Huh... But "smashes" is harsh. That was just an accident.{p}
+
+## MGG04O g1 s0066
+JP: 入学式も無事に終わった、と……。{n}そういえば、クラブに入らないとね。{p}{end}
+EN: The entrance ceremony went fine... Oh right, I need to join a club.{p}{end}
+
+## MGG04O g1 s0072
+JP: （な、な、何?{n}{sp}この人は……!?）{p}{end}
+EN: (Wh-wh-what? Who is this...!?){p}{end}
+
+## MGG04O g1 s0122
+JP: あ……すみません、先生。{n}こちら化学部の……加瀬先生。{p}
+EN: Oh... Sorry, sensei. This is the chemistry club's... Kase-sensei.{p}
+
+## MGG04O g1 s0220
+JP: 特別練習の日に報告されるだけだから、{n}休むことも、がんばることも{n}できないけど、自分の能力の底上げには{n}役立つらしいわ。{p}{end}
+EN: Since they're only reported on special practice days, you can't skip or try harder, but I hear they help raise your overall abilities.{p}{end}
+
+## MGG04O g1 s0360
+JP: よう、{v7:5}!{n}はりきってるな。{p}
+EN: Hey, {v7:5}! You're all pumped.{p}
+
+## MGG04O g1 s0361
+JP: そういうロベルトも、やけに楽しそうね。{p}
+EN: Look who's talking, Roberto. You seem awfully happy yourself.{p}
+
+## MGG04O g1 s0368
+JP: 言われてみればそうね。{n}五輪高校って、{n}土日も練習ざんまいだもん。{p}
+EN: Now that you mention it. Gorin's all practice, even on weekends.{p}
+
+## MGG04O g1 s0372
+JP: 別に構わないわよ。{n}{v7:4}はどう?{p}{end}
+EN: Fine by me. What about you, {v7:4}?{p}{end}
+
+## MGG04O g1 s0373
+JP: う～ん、どうしようかなぁ……{p}{end}
+EN: Hmm, I don't know...{p}{end}
+
+## MGG04O g1 s0375
+JP: そうね、そうしましょう。{p}{end}
+EN: Yeah, let's do that.{p}{end}
+
+## MGG04O g1 s0376
+JP: {v7:5}、じゃあまた後でな!{p}{end}
+EN: {v7:5}, see you later!{p}{end}
+
+## MGG04O g1 s0405
+JP: 実際に乗ってみたらどう?{n}そうすれば、観覧車の大きさも実感{n}できると思うんだけど。{p}
+EN: Why not ride it? Then you'd really get a feel for how big it is.{p}
+
+## MGG04O g1 s0429
+JP: ここはひとつ、予想外のスポットに{n}行ってみるのも手だと思うけど……{p}
+EN: Maybe it's worth trying somewhere nobody would expect...{p}
+
+## MGG04O g1 s0460
+JP: やはりこうなるか……{n}なんとなく予想はしてたけどな。{p}{end}
+EN: I knew it would come to this... I kind of saw it coming.{p}{end}
+
+## MGG04O g1 s0482
+JP: ……ひどいわ、{v8:10}。{n}私、ジェットコースター苦手だから{n}メットかぶって乗ろうと思ってたのに……{p}
+EN: ...That was mean, {v8:10}. Roller coasters scare me, so I was going to wear my helmet on it...{p}
+
+## MGG04O g1 s0489
+JP: やっぱり駄目かぁ……{n}まったく、ゆうずうのきかない係員ね。{p}
+EN: No luck, huh... Jeez, that attendant won't bend at all.{p}
+
+## MGG04O g1 s0493
+JP: う～ん。{n}それが一番難しい注文なのよねぇ……{p}{end}
+EN: Hmm. That's the hardest request of all...{p}{end}
+
+## MGG04O g1 s0544
+JP: （みんなの行きたい所がバラバラ……）{p}{end}
+EN: (Everyone wants to go somewhere different...){p}{end}
+
+## MGG04O g1 s0546
+JP: （あっ、あそこにいるのは生徒会長の{n}{sp}雹クンだわ……話しかけてみましょ。）{p}
+EN: (Oh, that's the council president, Hyo-kun... Let's go talk to him.){p}
+
+## MGG04O g1 s0549
+JP: もしよかったら……なんだけど、{n}私と一緒にまわってみない?{p}
+EN: If you want... would you like to go around with me?{p}
+
+## MGG04O g1 s0566
+JP: どう?{n}結構静かで、いい所でしょう。{p}{end}
+EN: See? It's nice and quiet here, isn't it?{p}{end}
+

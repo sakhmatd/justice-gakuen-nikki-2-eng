@@ -1,0 +1,184 @@
+## MGC10 g0 s0002
+JP: よし、じゃいつも通り、{n}先月のクラブ活動の成果からだ。{p}
+EN: All right, as usual, we'll start with last month's club results.{p}
+
+## MGC10 g0 s0003
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}好きな練習を選んでくれ。{p}
+EN: All right, next up is this month's special practice. Pick whatever drill you like.{p}
+
+## MGC10 g0 s0004
+JP: うん、なかなかいい調子だ。{n}やっぱりスポーツは秋に限るな。{n}練習してても気持ちがいいよ。{p}{end}
+EN: Yeah, looking good. Fall really is the best season for sports. Even practice feels great.{p}{end}
+
+## MGC10 g0 s0005
+JP: 今月は、2学期の中間試験だな。{n}実技試験じゃないから、{n}予習はできないが、{n}勉強はしておいた方がいいかもな。{p}{end}
+EN: This month is the second-term midterm. It's not a practical exam, so you can't prep for it, but you'd better study anyway.{p}{end}
+
+## MGC10 g0 s0008
+JP: 来たな、{v0}!{n}スポーツの秋!{n}今こそ、ガンガン練習するときだ!{n}気合い入れていけよ!{p}{end}
+EN: There you are, {v0}! Fall is sports season! Now's the time to train hard! Let's get fired up!{p}{end}
+
+## MGC10 g0 s0010
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}好きな練習を選んでくれ!{p}
+EN: All right, next is this month's special practice. Pick whatever drill you like!{p}
+
+## MGC10 g0 s0011
+JP: 練習した後の秋風が心地いいなぁ。{n}やはり、特訓は秋に限るな!{p}{end}
+EN: That autumn breeze after practice feels great. Fall really is the best time for hard training!{p}{end}
+
+## MGC10 g0 s0012
+JP: さてと、今月は2学期の中間試験だ。{n}たまには勉強もしておけよ。{p}
+EN: Now then, this month is the second-term midterm. Hit the books once in a while.{p}
+
+## MGC10 g0 s0015
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、10月の特別練習の日です。{n}がんばっていきましょうね。{p}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is October's special practice day. Let's do our best.{p}
+
+## MGC10 g0 s0017
+JP: いい調子ですね。{n}それでは、次は特別練習です。{n}好きな練習を選んでください。{p}{end}
+EN: You're doing well. Next is special practice. Please pick whichever drill you like.{p}{end}
+
+## MGC10 g0 s0018
+JP: はい、お疲れさまです。{n}秋になると、練習もやりやすいですね。{p}{end}
+EN: Okay, good work. Practice is so much easier once fall comes, isn't it?{p}{end}
+
+## MGC10 g0 s0019
+JP: 今月の伝達事項は……、ええと、{n}2学期の中間試験があるみたいです。{n}筆記試験ですから、勉強しておいた方が{n}いいですね。{p}
+EN: This month's announcements... Um, it seems there's the second-term midterm. It's a written test, so it would be good to study.{p}
+
+## MGC10 g0 s0022
+JP: 来たな、{v1}!{n}今月も特別練習をやるぞ。{n}ガンガンいくから、覚悟しておけよ。{p}
+EN: There you are, {v1}! Special practice again this month. I'm going hard on you, so brace yourself.{p}
+
+## MGC10 g0 s0024
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}好きな練習を選ぶがいい。{p}
+EN: All right, next is this month's special practice. Pick whatever drill you like.{p}
+
+## MGC10 g0 s0025
+JP: よしよし、いいだろう。{n}お前は成長が早い。{n}見てるこっちもわくわくしてくるな。{p}
+EN: Good, good, that'll do. You grow fast. It gets me excited just watching.{p}
+
+## MGC10 g0 s0026
+JP: さてと、おっそうそう、{n}今月は、2学期の中間試験だな。{n}やれやれ、学生は大変だな。{n}ま、勉強はしておいてソンはないぞ。{p}
+EN: Now then... oh, right, this month is the second-term midterm. Good grief, students have it rough. Well, studying never hurt anybody.{p}
+
+## MGC10 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}芸術の秋だからね、{n}張り切ってやっちゃおう!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Special practice day is here again. Fall is the season for art, so let's go all out!{p}{end}
+
+## MGC10 g0 s0032
+JP: はい、おつかれさま。{n}美術なんて、堅く考えちゃダメだよ。{n}もっと柔軟にね。{p}
+EN: Okay, good work. Don't think about art so stiffly. Loosen up a little.{p}
+
+## MGC10 g0 s0033
+JP: ええと、そうそう、{n}今月は2学期の中間試験が{n}あるらしいよ。{n}勉強とか、してる?{p}{end}
+EN: Um, oh right, I hear the second-term midterm is this month. Been studying at all?{p}{end}
+
+## MGC10 g0 s0036
+JP: あ……{v0}{col:0}君{col:-}。{n}そう、今日は特別練習の日でしたね。{n}練習、がんばりましょう……。{p}
+EN: Oh... {v0}{col:0}-kun{col:-}. Right, today is special practice day. Let's... do our best...{p}
+
+## MGC10 g0 s0037
+JP: ではいつも通り、{n}先月のクラブ活動の成果からね……。{p}{end}
+EN: Then, as usual... last month's club results first...{p}{end}
+
+## MGC10 g0 s0039
+JP: おつかれさま。{n}普段からいい音楽を聴いておいた方が{n}いいとおもうわ。{p}{end}
+EN: Good work. I think you should... listen to good music in your everyday life.{p}{end}
+
+## MGC10 g0 s0040
+JP: あ、そうそう……{n}今月は、2学期の中間試験が{n}あるそうよ。勉強、がんばってね……。{p}
+EN: Oh, right... I hear the second-term midterm is this month. Good luck... with your studies...{p}
+
+## MGC10 g0 s0043
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}今はまさに、芸術の秋よ。{n}張り切っていきましょう!{p}
+EN: Hello, {v0}{col:0}-kun{col:-}. Fall is truly the season for art. Let's give it our all!{p}
+
+## MGC10 g0 s0045
+JP: それじゃ、特別練習をしましょうか。{n}いつも通り、好きな練習を{n}選んでちょうだい。{p}{end}
+EN: Now, shall we do special practice? As usual, pick whichever drill you like.{p}{end}
+
+## MGC10 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}だいぶ演技が板に付いてきましたね。{p}
+EN: All right, let's stop here for today. You're really settling into your roles.{p}
+
+## MGC10 g0 s0047
+JP: 今月は2学期の中間試験ね。{n}勉強は、地道にしておかないと、{n}あとで後悔するわよ。{p}{end}
+EN: The second-term midterm is this month. Study steadily, or you'll regret it later.{p}{end}
+
+## MGC10 g0 s0050
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}僕は秋が好きでね、{n}ホントはもっとのんびりしたいんだが……。{n}ま、そんな話はいいか。{p}{end}
+EN: Ah, there you are, {v0}{col:0}-kun{col:-}. I like fall, you know. I'd really rather take it easy... Well, never mind that.{p}{end}
+
+## MGC10 g0 s0051
+JP: ふむふむ、それじゃいつも通り、{n}先月のクラブ活動の成果から{n}みてみよう。{p}{end}
+EN: Mm-hm. As usual, let's take a look at last month's club results.{p}{end}
+
+## MGC10 g0 s0052
+JP: ふむふむ。{n}それじゃ次は、今月の特別練習だな。{n}好きな練習を選んでくれよ。{p}
+EN: Mm-hm. Next is this month's special practice. Pick whatever drill you like.{p}
+
+## MGC10 g0 s0053
+JP: なるほどなるほど。{n}お疲れさん。{n}まぁぼちぼちといい感じではあるね。{p}{end}
+EN: I see, I see. Good work. Well, it's coming along, bit by bit.{p}{end}
+
+## MGC10 g0 s0054
+JP: 今月は2学期の中間試験だな。{n}勉強は若いウチにこそ、{n}やっておくべきだぞ。{p}
+EN: This month is the second-term midterm. Studying is something you should do while you're young.{p}
+
+## MGC10 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}今月も、特別練習の日が来たわよ。{n}さっさとやって、さっさと帰りましょう。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. Special practice day is here again. Let's get it done fast and go home fast.{p}{end}
+
+## MGC10 g0 s0058
+JP: とりあえず、いつも通り{n}先月の成果からみてみましょうか。{p}{end}
+EN: Well, as usual, let's look at last month's results first.{p}{end}
+
+## MGC10 g0 s0059
+JP: ふ～ん……それじゃ次は、{n}今月の特別練習ね。{n}好きな項目を選んでね。{p}{end}
+EN: Hmm... Okay, next is this month's special practice. Pick whatever you like.{p}{end}
+
+## MGC10 g0 s0060
+JP: ま、こんなものかしらね。{n}帰宅部だからね。{p}
+EN: Well, I guess this is about right. It's the Go-Home Club, after all.{p}
+
+## MGC10 g0 s0061
+JP: 今月は、2学期の中間試験ね。{n}試験はマジメに受けないとダメよ。{p}
+EN: The second-term midterm is this month. You have to take your exams seriously.{p}
+
+## MGC10 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今月も特別練習の日が来たな。{n}がんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. Special practice day is here again. Let's give it our all.{p}{end}
+
+## MGC10 g1 s0015
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、10月の特別練習の日ね。{n}がんばっていきましょう。{p}{end}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today is October's special practice day. Let's do our best.{p}{end}
+
+## MGC10 g1 s0017
+JP: いい調子ね。{n}それでは、次は特別練習ね。{n}好きな練習を選んでね。{p}{end}
+EN: You're doing well. Next is special practice. Pick whichever drill you like.{p}{end}
+
+## MGC10 g1 s0018
+JP: はい、お疲れさま。{n}秋になると、練習もやりやすいね。{p}{end}
+EN: Okay, good work. Practice is so much easier once fall comes, huh?{p}{end}
+
+## MGC10 g1 s0019
+JP: 今月の伝達事項は……、ええと、{n}2学期の中間試験があるみたいです。{n}筆記試験だから、勉強しておいた方が{n}いいみたいね。{p}
+EN: This month's announcements... Um, it seems there's the second-term midterm. It's a written test, so studying might be a good idea.{p}
+
+## MGC10 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}芸術の秋だからね、{n}張り切ってやっちゃおう!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Special practice day is here again. Fall is the season for art, so let's go all out!{p}
+
+## MGC10 g1 s0036
+JP: あ……{v1}{col:0}さん{col:-}。{n}そう、今日は特別練習の日でしたね。{n}練習、がんばりましょう……。{p}{end}
+EN: Oh... {v1}{col:0}-san{col:-}. Right, today is special practice day. Let's... do our best...{p}{end}
+
+## MGC10 g1 s0043
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今はまさに、芸術の秋よ。{n}張り切っていきましょう!{p}
+EN: Hello, {v1}{col:0}-san{col:-}. Fall is truly the season for art. Let's give it our all!{p}
+
+## MGC10 g1 s0057
+JP: はーい、{v1}{col:0}さん{col:-}。{n}今月も、特別練習の日が来たわよ。{n}さっさとやって、さっさと帰りましょう。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. Special practice day is here again. Let's get it done fast and go home fast.{p}
+

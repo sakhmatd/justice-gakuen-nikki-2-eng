@@ -1,0 +1,1619 @@
+## EMTBL s0000 Batsu 0
+JP: これからはメ〜ルをおくるから、よろしくな!
+EN: I'M GONNA SEND YOU MAIL FROM NOW ON. LOOKIN' FORWARD TO IT!
+
+## EMTBL s0001 Batsu 1
+JP: きょうはいっしょにかえらないか?
+EN: WANNA WALK HOME TOGETHER TODAY?
+
+## EMTBL s0002 Batsu 2
+JP: どこかにあそびにいこうぜ!
+EN: LET'S GO HANG OUT SOMEWHERE!
+
+## EMTBL s0003 Batsu 3
+JP: あ〜はらへった。なんかたべようぜ!
+EN: MAN, I'M STARVIN'. LET'S GO EAT SOMETHIN'!
+
+## EMTBL s0004 Batsu 4
+JP: きょうはなんかすごくヒマだよなあ。
+EN: MAN, I'M SO BORED TODAY.
+
+## EMTBL s0005 Batsu 5
+JP: こんどふたりで、どこかいかないか?
+EN: WANNA GO SOMEWHERE, JUST THE TWO OF US?
+
+## EMTBL s0006 Batsu 6
+JP: どこか、いきたいところをかんがえておいてくれ。
+EN: THINK OF SOMEPLACE YOU WANNA GO, OK?
+
+## EMTBL s0007 Batsu 7
+JP: いまからデ〜トにいこう。だめならへんじくれ。
+EN: LET'S GO ON A DATE RIGHT NOW. WRITE BACK IF YOU CAN'T.
+
+## EMTBL s0008 Batsu 8
+JP: きょうはホントにたのしかったゼ。またいこうな!
+EN: TODAY WAS A BLAST! LET'S GO AGAIN!
+
+## EMTBL s0009 Batsu 9
+JP: こっちはてんきイイけどそっちはどうだ?
+EN: IT'S NICE WEATHER HERE. HOW ABOUT THERE?
+
+## EMTBL s0010 Batsu 10
+JP: いっイヌがいる! たすけてくれえ〜!!
+EN: TH-THERE'S A DOG! HELP MEEE!!
+
+## EMTBL s0011 Batsu 11
+JP: つぎはどこにいきたい? おれはまつりにいきたいな。
+EN: WHERE TO NEXT? I WANNA GO TO THE FESTIVAL.
+
+## EMTBL s0012 Batsu 12
+JP: きょうはまつりだ! いっしょにいかないか?
+EN: THE FESTIVAL'S TODAY! WANNA GO TOGETHER?
+
+## EMTBL s0013 Batsu 13
+JP: やっぱりまつりはもえるよなあ。おまえはどうだった?
+EN: FESTIVALS GET ME ALL FIRED UP! HOW'D YOU LIKE IT?
+
+## EMTBL s0014 Batsu 14
+JP: きょうすけがちこくしたんだってよ! めずらしいな。
+EN: HEARD KYOSUKE WAS LATE TODAY! THAT'S A FIRST.
+
+## EMTBL s0015 Batsu 15
+JP: きょうはつかれたから、もうねるゼ! おやすみ。
+EN: I'M BEAT, SO I'M HITTIN' THE SACK! NIGHT.
+
+## EMTBL s0016 Batsu 16
+JP: よくねたからきもちがいいぜ。どこかいきたいきぶんだ。
+EN: SLEPT GREAT AND I FEEL AWESOME. I WANNA GO SOMEWHERE!
+
+## EMTBL s0017 Batsu 17
+JP: きょうはおれのうちにこないか?
+EN: WANNA COME OVER TO MY PLACE TODAY?
+
+## EMTBL s0018 Batsu 18
+JP: きのうはオヤジが、へんなこといってごめんな。
+EN: SORRY MY OLD MAN SAID WEIRD STUFF YESTERDAY.
+
+## EMTBL s0019 Batsu 19
+JP: オレのきもちを、カ〜ドにかいたからよんでくれ!
+EN: I WROTE HOW I FEEL ON A CARD. READ IT!
+
+## EMTBL s0020 Hinata 0
+JP: きょうからメ〜ルもおくることにするね! よろしく!
+EN: I'M GONNA SEND YOU MAIL FROM TODAY ON TOO! HI!
+
+## EMTBL s0021 Hinata 1
+JP: おいしいケ〜キやさんしってる?
+EN: KNOW ANY GOOD CAKE SHOPS?
+
+## EMTBL s0022 Hinata 2
+JP: ケ〜キおいしかったね。こんど、てづくりにもちょうせんしようかなぁ。
+EN: THAT CAKE WAS YUMMY! MAYBE I'LL TRY BAKING ONE MYSELF.
+
+## EMTBL s0023 Hinata 3
+JP: キミはよわいものいじめするの?
+EN: DO YOU PICK ON PEOPLE WEAKER THAN YOU?
+
+## EMTBL s0024 Hinata 4
+JP: こんどれんしゅうのあいてしてくれない?
+EN: WILL YOU BE MY SPARRING PARTNER SOMETIME?
+
+## EMTBL s0025 Hinata 5
+JP: きょうは、もんのところでまってるからね♥
+EN: I'LL BE WAITING AT THE GATE TODAY {heart}
+
+## EMTBL s0026 Hinata 6
+JP: あたらしいゆうえんちが、できたんだって。こんどいきたいなぁ・・・。
+EN: A NEW AMUSEMENT PARK OPENED. I WANNA GO SOMETIME...
+
+## EMTBL s0027 Hinata 7
+JP: きょうはふたりで、ゆうえんちにいってみない?
+EN: WANNA GO TO THE AMUSEMENT PARK TODAY, JUST US TWO?
+
+## EMTBL s0028 Hinata 8
+JP: ジェットコ〜スタ〜ってホントにこわかったよ! キミはどう?
+EN: THAT ROLLER COASTER WAS SO SCARY! WHAT ABOUT YOU?
+
+## EMTBL s0029 Hinata 9
+JP: なつったら、しょうまのことホントにすきみたいだよ!
+EN: NATSU-CHAN REALLY LIKES SHOMA, YOU KNOW!
+
+## EMTBL s0030 Hinata 10
+JP: おはよう! きょう、わたしねぼうしちゃった・・・。
+EN: MORNING! I OVERSLEPT TODAY...
+
+## EMTBL s0031 Hinata 11
+JP: つぎのデ〜トどこにいくか、かんがえておいてね!
+EN: THINK ABOUT WHERE WE'LL GO ON OUR NEXT DATE!
+
+## EMTBL s0032 Hinata 12
+JP: あしたデ〜トにいきましょ! かんがえておいてくれたんでしょ?
+EN: LET'S GO ON A DATE TOMORROW! YOU THOUGHT OF A PLACE, RIGHT?
+
+## EMTBL s0033 Hinata 13
+JP: フェイロンかっこよかったね♥ またいこうね!
+EN: FEI LONG WAS SO COOL {heart} LET'S GO AGAIN!
+
+## EMTBL s0034 Hinata 14
+JP: きょうは、ナツとサクラちゃんとケ〜キたべにいくからさきにかえってて。ごめんネ♥
+EN: I'M GOING FOR CAKE WITH NATSU-CHAN AND SAKURA-CHAN, SO GO HOME WITHOUT ME. SORRY {heart}
+
+## EMTBL s0035 Hinata 15
+JP: あしたはバスケぶのすけっとで、しあいなんだ。がんばるからネ!
+EN: TOMORROW I'M FILLING IN FOR THE BASKETBALL CLUB IN A GAME. I'LL DO MY BEST!
+
+## EMTBL s0036 Hinata 16
+JP: ふたりでいくと、ねがいごとがかなうこうえんがあるんだって!
+EN: THERE'S A PARK WHERE WISHES COME TRUE IF TWO PEOPLE GO TOGETHER!
+
+## EMTBL s0037 Hinata 17
+JP: いまかられいのこうえんに、いっしょにいこう! いい?
+EN: LET'S GO TO THAT PARK TOGETHER RIGHT NOW! OK?
+
+## EMTBL s0038 Hinata 18
+JP: どんなねがいごとしたの? わたしは・・・ヒミツ♥
+EN: WHAT DID YOU WISH FOR? ME... THAT'S A SECRET {heart}
+
+## EMTBL s0039 Hinata 19
+JP: キミにつたえたいことがあるんだけど、メ〜ルでははずかしいからてがみをおくるネ♥
+EN: I HAVE SOMETHING TO TELL YOU. IT'S TOO EMBARRASSING FOR MAIL, SO I'LL SEND A LETTER {heart}
+
+## EMTBL s0040 Kyosuke 0
+JP: ちゃんととどいているか? ぼくもメ〜ルははじめてだからな・・・。
+EN: IS THIS GETTING THROUGH? IT'S MY FIRST TIME USING MAIL TOO...
+
+## EMTBL s0041 Kyosuke 1
+JP: とどいたメ〜ルは、すぐよむのがれいぎというモノだろうな。
+EN: IT'S ONLY POLITE TO READ A MAIL AS SOON AS IT ARRIVES.
+
+## EMTBL s0042 Kyosuke 2
+JP: オトコがまいにちかがみをみるのは、おかしいとおもうかい?
+EN: DO YOU THINK IT'S ODD FOR A MAN TO LOOK IN THE MIRROR EVERY DAY?
+
+## EMTBL s0043 Kyosuke 3
+JP: がっこうでメ〜ルこうかんするのは、きそくいはんだとおもうかい?
+EN: DO YOU THINK TRADING MAIL AT SCHOOL IS AGAINST THE RULES?
+
+## EMTBL s0044 Kyosuke 4
+JP: ふつうのこうこうせいは、どういうところであそぶんだろう・・・?
+EN: I WONDER WHERE NORMAL HIGH SCHOOLERS GO TO HAVE FUN...
+
+## EMTBL s0045 Kyosuke 5
+JP: いつもバツにはせわをやかされるよ・・・。
+EN: BATSU IS ALWAYS GIVING ME TROUBLE...
+
+## EMTBL s0046 Kyosuke 6
+JP: たまにはふたりでどこかいってみたいな。
+EN: I'D LIKE TO GO SOMEWHERE WITH YOU NOW AND THEN, JUST US.
+
+## EMTBL s0047 Kyosuke 7
+JP: いまからふたりで、とおいところまでいこうか?
+EN: SHALL WE GO SOMEWHERE FAR AWAY, THE TWO OF US, RIGHT NOW?
+
+## EMTBL s0048 Kyosuke 8
+JP: きのうは、なんだかふしぎなきもちになったよ。
+EN: I FELT RATHER STRANGE YESTERDAY.
+
+## EMTBL s0049 Kyosuke 9
+JP: みんなのまえでメ〜ルをよむのは、すこしはずかしいな・・・。
+EN: READING MAIL IN FRONT OF EVERYONE IS A LITTLE EMBARRASSING...
+
+## EMTBL s0050 Kyosuke 10
+JP: きょうもずっとキミのことをかんがえていたよ。
+EN: I WAS THINKING ABOUT YOU ALL DAY TODAY.
+
+## EMTBL s0051 Kyosuke 11
+JP: こんどのにちようび、なにかようじあるかい?
+EN: ARE YOU BUSY THIS SUNDAY?
+
+## EMTBL s0052 Kyosuke 12
+JP: ちょっとふたりで、でかけようか?
+EN: SHALL WE GO OUT FOR A WHILE, JUST THE TWO OF US?
+
+## EMTBL s0053 Kyosuke 13
+JP: すまない! きのうはあんなにおそくなるとはおもわなかったんだ。
+EN: I'M SORRY! I NEVER THOUGHT WE'D BE OUT SO LATE YESTERDAY.
+
+## EMTBL s0054 Kyosuke 14
+JP: ぼくとしたことがきょうは、ちこくをしてしまった。なんたるしったい・・・。
+EN: I WAS LATE TODAY, OF ALL PEOPLE. WHAT A BLUNDER...
+
+## EMTBL s0055 Kyosuke 15
+JP: きのうはしんぶんのげんこうをかくのに、てつやしてしまったよ。
+EN: I STAYED UP ALL NIGHT WRITING AN ARTICLE FOR THE PAPER.
+
+## EMTBL s0056 Kyosuke 16
+JP: こんどはどこにいこうか? ぼくはふたりいっしょならどこでもいいのだが・・・。
+EN: WHERE SHALL WE GO NEXT? ANYWHERE IS FINE, AS LONG AS WE'RE TOGETHER...
+
+## EMTBL s0057 Kyosuke 17
+JP: あす、こんどはもっととおいところにいこう。いいかい?
+EN: TOMORROW, LET'S GO SOMEWHERE EVEN FARTHER. ALL RIGHT?
+
+## EMTBL s0058 Kyosuke 18
+JP: このままずっと・・・いや、なんでもない。
+EN: I WISH WE COULD STAY LIKE THIS... NO, NEVER MIND.
+
+## EMTBL s0059 Kyosuke 19
+JP: このまえいいそびれたことをてがみにしたよ。よんでおいてくれ。
+EN: I WROTE DOWN WHAT I FAILED TO SAY THE OTHER DAY. PLEASE READ IT.
+
+## EMTBL s0060 Shoma 0
+JP: メ〜ルのつかいかたが、よくわかんないぜ!
+EN: I DON'T REALLY GET HOW TO USE THIS MAIL THING!
+
+## EMTBL s0061 Shoma 1
+JP: きょう、だいだでホ〜ムランうったぜ!!
+EN: I HIT A HOMER AT BAT TODAY!!
+
+## EMTBL s0062 Shoma 2
+JP: オイラのこと、こどもっぽいっておもう?
+EN: YA THINK I'M KINDA CHILDISH?
+
+## EMTBL s0063 Shoma 3
+JP: もうきょうはくたくただぜ。しゅくだいはたのんだからな!
+EN: I'M WIPED OUT TODAY. I'M COUNTIN' ON YA FOR THE HOMEWORK!
+
+## EMTBL s0064 Shoma 4
+JP: きょうはしゅくだいやってもらってゴメンな♥
+EN: SORRY FOR MAKIN' YA DO MY HOMEWORK TODAY {heart}
+
+## EMTBL s0065 Shoma 5
+JP: アニキがもうすこしで、たいいんなんだ!
+EN: MY BRO'S GETTIN' OUT OF THE HOSPITAL SOON!
+
+## EMTBL s0066 Shoma 6
+JP: オマエは、プロやきゅうみるのはすきか?
+EN: YA LIKE WATCHIN' PRO BASEBALL?
+
+## EMTBL s0067 Shoma 7
+JP: ド〜ムのチケットがとれたぜ! いまからみにいこう!
+EN: I GOT DOME TICKETS! LET'S GO WATCH RIGHT NOW!
+
+## EMTBL s0068 Shoma 8
+JP: きのうのしあいスゴかったよなぁ。またいこうな!
+EN: YESTERDAY'S GAME WAS AWESOME, HUH? LET'S GO AGAIN!
+
+## EMTBL s0069 Shoma 9
+JP: きょうはクラブがおそくなるから、まっててくれないか?
+EN: CLUB'S RUNNIN' LATE TODAY. WAIT FOR ME?
+
+## EMTBL s0070 Shoma 10
+JP: オイラぜったい「こうしえん」にいってやるぜ!
+EN: I'M GONNA MAKE IT TO KOSHIEN, NO MATTER WHAT!
+
+## EMTBL s0071 Shoma 11
+JP: こんしゅう、クラブやすみなんだ。そっちはどう?
+EN: CLUB'S OFF THIS WEEK. HOW ABOUT YOU?
+
+## EMTBL s0072 Shoma 12
+JP: たまにはデ〜トにでもいかないか?
+EN: WANNA GO ON A DATE FOR ONCE?
+
+## EMTBL s0073 Shoma 13
+JP: きのうはたのしかったなぁ。またきょうかられんしゅうガンバるぜ!
+EN: YESTERDAY WAS FUN! BACK TO PRACTICE FROM TODAY!
+
+## EMTBL s0074 Shoma 14
+JP: いつもれんしゅうみにきてくれてありがとな!
+EN: THANKS FOR ALWAYS COMIN' TO WATCH PRACTICE!
+
+## EMTBL s0075 Shoma 15
+JP: きょうはアニキのみまいにいくんだ。オマエもくるか?
+EN: I'M VISITIN' MY BRO TODAY. WANNA COME?
+
+## EMTBL s0076 Shoma 16
+JP: アニキがふたりでどっかいってこいっていってたぜ。
+EN: MY BRO TOLD US TO GO OUT SOMEWHERE, JUST THE TWO OF US.
+
+## EMTBL s0077 Shoma 17
+JP: きょうはオマエのいきたいところにいこうか!
+EN: TODAY LET'S GO WHEREVER YOU WANNA GO!
+
+## EMTBL s0078 Shoma 18
+JP: だからっておばけやしきはないだろっ!!
+EN: BUT A HAUNTED HOUSE!? COME ON!!
+
+## EMTBL s0079 Shoma 19
+JP: けっしんしたことがあるんだ。てがみをおくるよ!
+EN: I MADE UP MY MIND ABOUT SOMETHIN'. I'LL SEND YA A LETTER!
+
+## EMTBL s0080 Natsu 0
+JP: メ〜ルこうかんもけっこうたのしそうだネ!
+EN: TRADING MAIL LOOKS LIKE KIND OF A FUN THING!
+
+## EMTBL s0081 Natsu 1
+JP: アンタもおおきいおんなはきらい?
+EN: DO YOU HATE TALL GIRLS TOO?
+
+## EMTBL s0082 Natsu 2
+JP: きょうもいっしょにかえろうよ♥
+EN: LET'S WALK HOME TOGETHER AGAIN TODAY {heart}
+
+## EMTBL s0083 Natsu 3
+JP: こんどおかしつくってあげるね。たのしみにしてて!
+EN: I'LL MAKE YOU SOME SWEETS SOMETIME. LOOK FORWARD TO IT!
+
+## EMTBL s0084 Natsu 4
+JP: どう? アタシのクッキ〜おいしかった?
+EN: WELL? WERE MY COOKIES GOOD?
+
+## EMTBL s0085 Natsu 5
+JP: きょうはこうはいたちにかこまれて、たいへんだったわ。
+EN: I GOT MOBBED BY UNDERCLASSMEN TODAY. WHAT A PAIN.
+
+## EMTBL s0086 Natsu 6
+JP: なんかおいしいモノたべたいなぁ・・・♥
+EN: I WANNA EAT SOMETHING YUMMY... {heart}
+
+## EMTBL s0087 Natsu 7
+JP: いまからおいしいものたべにいかない?
+EN: WANNA GO GET SOMETHING TASTY RIGHT NOW?
+
+## EMTBL s0088 Natsu 8
+JP: きのうのデザ〜トホントにおいしかったわね!
+EN: THAT DESSERT YESTERDAY WAS REALLY GOOD!
+
+## EMTBL s0089 Natsu 9
+JP: へやにおおきなムシがいたのよ! こわかった・・・。
+EN: THERE WAS A HUGE BUG IN MY ROOM! SO SCARY...
+
+## EMTBL s0090 Natsu 10
+JP: またこうはいからラブレタ〜もらっちゃった。
+EN: GOT ANOTHER LOVE LETTER FROM AN UNDERCLASSMAN.
+
+## EMTBL s0091 Natsu 11
+JP: あたらしいりょうりおぼえたんだ、エヘヘ♥
+EN: I LEARNED A NEW DISH. HEHE {heart}
+
+## EMTBL s0092 Natsu 12
+JP: りょうりできたよ! いまからたべにこない?
+EN: THE FOOD'S READY! WANNA COME OVER AND EAT?
+
+## EMTBL s0093 Natsu 13
+JP: りょうりおいしくなかった?
+EN: DIDN'T YOU LIKE MY COOKING?
+
+## EMTBL s0094 Natsu 14
+JP: あしたはバレ〜のしあいなんだ。ガンバルからね!
+EN: TOMORROW'S MY VOLLEYBALL MATCH. I'LL GIVE IT MY ALL!
+
+## EMTBL s0095 Natsu 15
+JP: しあいみにきてくれてたの? ありがとう♥
+EN: YOU CAME TO WATCH MY MATCH? THANKS {heart}
+
+## EMTBL s0096 Natsu 16
+JP: アタシ、ロマンチックなところいってみたいなぁ・・・。
+EN: I WANNA GO SOMEPLACE ROMANTIC...
+
+## EMTBL s0097 Natsu 17
+JP: きょうはどこかデ〜トにつれていってくれない?
+EN: WON'T YOU TAKE ME OUT ON A DATE TODAY?
+
+## EMTBL s0098 Natsu 18
+JP: あのやまからみるやけいキレ〜だったネェ♥
+EN: THAT NIGHT VIEW FROM THE MOUNTAIN WAS SO PRETTY {heart}
+
+## EMTBL s0099 Natsu 19
+JP: アタシのきもちをてがみにかいたんだ。よんどいて♥
+EN: I WROTE HOW I FEEL IN A LETTER. READ IT {heart}
+
+## EMTBL s0100 Roberto 0
+JP: もじではなすのはにがてだな・・・。
+EN: I'M NOT GOOD AT TALKING IN WRITING...
+
+## EMTBL s0101 Roberto 1
+JP: おれ、モデルガンあつめがしゅみだってしってた?
+EN: DID YOU KNOW I COLLECT MODEL GUNS?
+
+## EMTBL s0102 Roberto 2
+JP: Jリ〜グのスカウトがきょうもきてたゼ!
+EN: A J.LEAGUE SCOUT CAME BY AGAIN TODAY!
+
+## EMTBL s0103 Roberto 3
+JP: おとうとたちが、おまえとあそびたいっていってたゼ!
+EN: MY LITTLE BROTHERS SAY THEY WANNA PLAY WITH YOU!
+
+## EMTBL s0104 Roberto 4
+JP: メ〜ルもやってみると、けっこうおもしろいんだな。
+EN: ONCE YOU TRY IT, MAIL'S PRETTY FUN.
+
+## EMTBL s0105 Roberto 5
+JP: きょうのれんしゅうはハ〜ドだったぜ。
+EN: PRACTICE WAS HARD TODAY.
+
+## EMTBL s0106 Roberto 6
+JP: サンバカ〜ニバルってしってるか?
+EN: EVER HEARD OF A SAMBA CARNIVAL?
+
+## EMTBL s0107 Roberto 7
+JP: いまからサンバカ〜ニバルにいこう!
+EN: LET'S GO TO THE SAMBA CARNIVAL RIGHT NOW!
+
+## EMTBL s0108 Roberto 8
+JP: なっ! おもしろかっただろサンバ。
+EN: SEE? SAMBA'S FUN, RIGHT?
+
+## EMTBL s0109 Roberto 9
+JP: しょうまとなつがまたケンカしてたんだ。
+EN: SHOMA AND NATSU WERE FIGHTING AGAIN.
+
+## EMTBL s0110 Roberto 10
+JP: いまからがっしゅくだからへんじはいいよ。ゴメンな。
+EN: I'M OFF TO TRAINING CAMP NOW, SO NO NEED TO REPLY. SORRY.
+
+## EMTBL s0111 Roberto 11
+JP: こんしゅうはクラブやすみなんだ。あそべるぜ!
+EN: CLUB'S OFF THIS WEEK. I'M FREE TO HANG OUT!
+
+## EMTBL s0112 Roberto 12
+JP: よし! ふたりでサッカ〜みにいこう。いいよな?
+EN: ALL RIGHT! LET'S GO WATCH SOCCER TOGETHER. OK?
+
+## EMTBL s0113 Roberto 13
+JP: コ〜フンしちゃったゼ・・・・・サッカ〜。
+EN: THAT GOT ME ALL PUMPED... SOCCER, I MEAN.
+
+## EMTBL s0114 Roberto 14
+JP: キミのハ〜トをファインセ〜ブだ!・・・つまんなかった?
+EN: A FINE SAVE... I CAUGHT YOUR HEART! ...TOO CORNY?
+
+## EMTBL s0115 Roberto 15
+JP: きょうはヒマだったからモデルガンみがいてたよ。
+EN: I HAD NOTHING TO DO TODAY, SO I POLISHED MY MODEL GUNS.
+
+## EMTBL s0116 Roberto 16
+JP: おれのサッカ〜アルバムってみたことある?
+EN: EVER SEEN MY SOCCER ALBUM?
+
+## EMTBL s0117 Roberto 17
+JP: きょうはおれのへやにアルバムみにこないか?
+EN: WANNA COME TO MY ROOM TODAY AND LOOK AT MY ALBUM?
+
+## EMTBL s0118 Roberto 18
+JP: おれとおまえのしゃしんもいれておくゼ♥
+EN: I'LL PUT A PICTURE OF YOU AND ME IN IT TOO {heart}
+
+## EMTBL s0119 Roberto 19
+JP: おれのきもちをはがきにかいた・・・みておいてくれ♥
+EN: I WROTE HOW I FEEL ON A POSTCARD... TAKE A LOOK {heart}
+
+## EMTBL s0120 Roy 0
+JP: メ〜ルでひとのきもちがつたわるかギモンだな。
+EN: I DOUBT MAIL CAN REALLY CARRY HOW SOMEONE FEELS.
+
+## EMTBL s0121 Roy 1
+JP: ニホンのカップルはみんなこういうことをしてるのか?
+EN: DO ALL JAPANESE COUPLES DO THIS KIND OF THING?
+
+## EMTBL s0122 Roy 2
+JP: いまからトレ〜ニングだ。がんばるよ。
+EN: I'VE GOT TRAINING NOW. WISH ME LUCK.
+
+## EMTBL s0123 Roy 3
+JP: あしたはアメフトのしあいなんだ。きてくれないか?
+EN: WE'VE GOT A FOOTBALL GAME TOMORROW. WILL YOU COME?
+
+## EMTBL s0124 Roy 4
+JP: メ〜ルでもきもちは、じゅうぶんつたわるようだな。
+EN: LOOKS LIKE MAIL GETS FEELINGS ACROSS JUST FINE.
+
+## EMTBL s0125 Roy 5
+JP: きょうはキミをむかえにいくよ!
+EN: I'M COMING TO PICK YOU UP TODAY!
+
+## EMTBL s0126 Roy 6
+JP: ニホンではカップルは、どんなところにいくんだい?
+EN: WHERE DO COUPLES GO IN JAPAN?
+
+## EMTBL s0127 Roy 7
+JP: じゃあいまからそこにいこう! いえでまっててくれよ!
+EN: THEN LET'S GO THERE NOW! WAIT FOR ME AT HOME!
+
+## EMTBL s0128 Roy 8
+JP: ニホンのデ〜トもなかなかGOODだな。
+EN: DATES IN JAPAN ARE PRETTY GOOD TOO.
+
+## EMTBL s0129 Roy 9
+JP: ボ〜マンがボクたちのことを、うらやましがってたぜ!
+EN: BOMAN WAS JEALOUS OF US!
+
+## EMTBL s0130 Roy 10
+JP: LOVE LOVEってボクたちのことか?
+EN: LOVEY-DOVEY... THEY MEAN US?
+
+## EMTBL s0131 Roy 11
+JP: がっこうのよこにドライブインシアタ〜があるんだ。
+EN: THERE'S A DRIVE-IN THEATER NEXT TO SCHOOL.
+
+## EMTBL s0132 Roy 12
+JP: こんばんシアタ〜にいかないか?
+EN: WANNA GO TO THE THEATER TONIGHT?
+
+## EMTBL s0133 Roy 13
+JP: ラブロマンスじゃなくてすまなかった・・・。
+EN: SORRY IT WASN'T A LOVE STORY...
+
+## EMTBL s0134 Roy 14
+JP: ティファニ〜のことは、きにしないでくれ!
+EN: DON'T WORRY ABOUT TIFFANY!
+
+## EMTBL s0135 Roy 15
+JP: アメリカじんはきらいかい?
+EN: DO YOU DISLIKE AMERICANS?
+
+## EMTBL s0136 Roy 16
+JP: つぎのデ〜トはきあいいれるゼ! もちろんキミとのだ。
+EN: I'M GOING ALL OUT ON OUR NEXT DATE! WITH YOU, OF COURSE.
+
+## EMTBL s0137 Roy 17
+JP: ダンスパ〜ティ〜にいこう。ステディ〜と、しゅっせきなんだ。
+EN: LET'S GO TO THE DANCE PARTY. YOU'RE SUPPOSED TO GO WITH YOUR STEADY.
+
+## EMTBL s0138 Roy 18
+JP: みんなにキミのことしょうかいしておいたよ♥
+EN: I INTRODUCED YOU TO EVERYONE {heart}
+
+## EMTBL s0139 Roy 19
+JP: もじをかくのはにがてだが、カ〜ドをよんでくれないか♥
+EN: I'M NO GOOD AT WRITING, BUT WILL YOU READ MY CARD? {heart}
+
+## EMTBL s0140 Tiffany 0
+JP: ミ〜はメ〜ルでユ〜とハナしします。イイデスカ?
+EN: I WILL TALK WITH YOU BY MAIL. IS THAT OK?
+
+## EMTBL s0141 Tiffany 1
+JP: I LOVE YOU いみわかりマスか?
+EN: I LOVE YOU. DO YOU KNOW WHAT IT MEANS?
+
+## EMTBL s0142 Tiffany 2
+JP: ミ〜はユ〜のこといつもこ〜えんしてマス♥
+EN: I AM ALWAYS CHAIRING FOR YOU {heart}
+
+## EMTBL s0143 Tiffany 3
+JP: こ〜えんじゃなく「お〜えん」でした。ごめんなさいネ。
+EN: NOT CHAIRING, I MEANT CHEERING. SORRY!
+
+## EMTBL s0144 Tiffany 4
+JP: ミ〜はニホンもユ〜も、だいスキデス♥
+EN: I LOVE JAPAN, AND I LOVE YOU TOO {heart}
+
+## EMTBL s0145 Tiffany 5
+JP: ユ〜はミ〜のことキライですか?
+EN: DO YOU HATE ME?
+
+## EMTBL s0146 Tiffany 6
+JP: ユ〜エンチってどんなところデスか?
+EN: WHAT KIND OF PLACE IS AN AMUSEMENT PARK?
+
+## EMTBL s0147 Tiffany 7
+JP: ユ〜エンチつれていってほしいデス。イイデスカ?
+EN: I WANT YOU TO TAKE ME TO AN AMUSEMENT PARK. IS THAT OK?
+
+## EMTBL s0148 Tiffany 8
+JP: とてもたのしかったデ〜ス。またイキたいナ♥
+EN: THAT WAS SO MUCH FUN! I WANT TO GO AGAIN {heart}
+
+## EMTBL s0149 Tiffany 9
+JP: きょうはあついのでアイスたべマシタ。
+EN: IT WAS HOT TODAY, SO I ATE ICE CREAM.
+
+## EMTBL s0150 Tiffany 10
+JP: スキとLOVEはちがうのデスか?
+EN: IS LIKE DIFFERENT FROM LOVE?
+
+## EMTBL s0151 Tiffany 11
+JP: ミ〜は、あたらしいふくがほしいナァ・・・。
+EN: I WANT SOME NEW CLOTHES...
+
+## EMTBL s0152 Tiffany 12
+JP: ショッピングにイキまショ〜! ふくかいマ〜ス!
+EN: LET'S GO SHOPPING! I WILL BUY CLOTHES!
+
+## EMTBL s0153 Tiffany 13
+JP: きのうはふくかってくれてアリガト♥
+EN: THANK YOU FOR BUYING ME CLOTHES YESTERDAY {heart}
+
+## EMTBL s0154 Tiffany 14
+JP: ユ〜はロイより「らっこイイ」からスキデ〜ス!
+EN: I LIKE YOU, YOU ARE MORE OTTER THAN ROY!
+
+## EMTBL s0155 Tiffany 15
+JP: ゴメンナサイ。「らっこ」はド〜ブツでした。
+EN: SORRY. AN OTTER IS AN ANIMAL.
+
+## EMTBL s0156 Tiffany 16
+JP: つぎデ〜トどこイくか、きめておいてほしいデス。
+EN: PLEASE DECIDE WHERE WE GO ON OUR NEXT DATE.
+
+## EMTBL s0157 Tiffany 17
+JP: いまからユ〜のうちむかえにイキマ〜ス♥ デ〜トいきます!
+EN: I AM COMING TO YOUR HOUSE NOW {heart} WE ARE GOING ON A DATE!
+
+## EMTBL s0158 Tiffany 18
+JP: ユ〜はやさしくてスゴくかんど〜したデス♥
+EN: YOU ARE SO KIND, I AM VERY TOUCHED {heart}
+
+## EMTBL s0159 Tiffany 19
+JP: ミ〜がニホンごで、てがみかきマシタ。ミテください♥
+EN: I WROTE A LETTER IN JAPANESE. PLEASE READ IT {heart}
+
+## EMTBL s0160 Boman 0
+JP: ワタシとメ〜ルでぶんつうしましょう。
+EN: LET US BE PEN PALS BY MAIL.
+
+## EMTBL s0161 Boman 1
+JP: ワタシは、まいにちせいしょをよんでいます。
+EN: I READ THE BIBLE EVERY DAY.
+
+## EMTBL s0162 Boman 2
+JP: ひとをたすけようとしたら、にげられました・・・。
+EN: I TRIED TO HELP SOMEONE, AND THEY RAN AWAY...
+
+## EMTBL s0163 Boman 3
+JP: ワタシのかおはコワいのでしょうか?
+EN: IS MY FACE FRIGHTENING?
+
+## EMTBL s0164 Boman 4
+JP: これも、かみのしれんなのでしょうか?
+EN: IS THIS ANOTHER TRIAL FROM GOD?
+
+## EMTBL s0165 Boman 5
+JP: ワタシのせいふくすがたは、おかしいですか?
+EN: DO I LOOK STRANGE IN MY UNIFORM?
+
+## EMTBL s0166 Boman 6
+JP: みちがゴミだらけです。なんとかしなければ・・・。
+EN: THE STREETS ARE FULL OF LITTER. SOMETHING MUST BE DONE...
+
+## EMTBL s0167 Boman 7
+JP: これからワタシと、ゴミひろいにいきませんか?
+EN: WOULD YOU LIKE TO PICK UP LITTER WITH ME NOW?
+
+## EMTBL s0168 Boman 8
+JP: まちがキレイになるのは、きもちがいいですね。
+EN: IT FEELS GOOD TO SEE THE TOWN CLEAN, DOES IT NOT?
+
+## EMTBL s0169 Boman 9
+JP: ロイとティファニ〜は、あいかわらずですね。
+EN: ROY AND TIFFANY ARE THE SAME AS EVER.
+
+## EMTBL s0170 Boman 10
+JP: おはようございます。きょうもいいひでありますように・・・。
+EN: GOOD MORNING. MAY TODAY BE A GOOD DAY AS WELL...
+
+## EMTBL s0171 Boman 11
+JP: こまっているひとをたすけるのは、とうぜんですよね?
+EN: HELPING PEOPLE IN NEED IS ONLY NATURAL, IS IT NOT?
+
+## EMTBL s0172 Boman 12
+JP: ぼきんかつどうを、てつだってくれますか?
+EN: WILL YOU HELP ME WITH A FUNDRAISING DRIVE?
+
+## EMTBL s0173 Boman 13
+JP: まさか、あんなにあつまるとは、おもいませんでした。
+EN: I NEVER IMAGINED WE WOULD COLLECT SO MUCH.
+
+## EMTBL s0174 Boman 14
+JP: こんど、ワタシのそうだんにのってください。
+EN: PLEASE HEAR ME OUT ABOUT SOMETHING SOMETIME.
+
+## EMTBL s0175 Boman 15
+JP: やっぱり、きみにそうだんしてよかったです。
+EN: I AM GLAD I CAME TO YOU FOR ADVICE AFTER ALL.
+
+## EMTBL s0176 Boman 16
+JP: こんど、きょうかいへいっしょにいきましょう。
+EN: LET US GO TO CHURCH TOGETHER SOMETIME.
+
+## EMTBL s0177 Boman 17
+JP: これから、ミサにさんかしませんか?
+EN: WOULD YOU LIKE TO ATTEND MASS WITH ME NOW?
+
+## EMTBL s0178 Boman 18
+JP: おもいきりうたうと、こころがあらわれるようです。
+EN: SINGING WITH ALL MY HEART SEEMS TO WASH MY SOUL CLEAN.
+
+## EMTBL s0179 Boman 19
+JP: ワタシのきもちを、てがみにしたためました。ぜひよんでください。
+EN: I HAVE PUT MY FEELINGS INTO A LETTER. PLEASE DO READ IT.
+
+## EMTBL s0180 Edge 0
+JP: よぉ! せっかくおれがメ〜ルをだしてやるんだから、ちゃんとよめよ!
+EN: YO! I'M GOIN' OUTTA MY WAY TO MAIL YOU, SO YA BETTER READ IT!
+
+## EMTBL s0181 Edge 1
+JP: メ〜ルって、けっこうべんりだよな。
+EN: MAIL'S PRETTY HANDY, HUH.
+
+## EMTBL s0182 Edge 2
+JP: やきそばパンくいて〜。
+EN: MAN, I WANT A YAKISOBA BUN.
+
+## EMTBL s0183 Edge 3
+JP: あたらしいナイフかったぜ! かっこいいだろ?
+EN: GOT A NEW KNIFE! LOOKS SLICK, RIGHT?
+
+## EMTBL s0184 Edge 4
+JP: ふぁ〜ねむい、ゲ〜ムのやりすぎはよくねぇな!
+EN: YAWN, I'M BEAT. TOO MUCH GAMIN' AIN'T GOOD!
+
+## EMTBL s0185 Edge 5
+JP: がんのやつ、もうめしくってやがるぜ!
+EN: GAN'S ALREADY STUFFIN' HIS FACE!
+
+## EMTBL s0186 Edge 6
+JP: オイ! あしたどっかいこうぜ!
+EN: HEY! LET'S GO SOMEWHERE TOMORROW!
+
+## EMTBL s0187 Edge 7
+JP: おそい! さっさとえきまでこいよ!
+EN: YOU'RE LATE! GET TO THE STATION ALREADY!
+
+## EMTBL s0188 Edge 8
+JP: いや〜、きのうのラ〜メンや、メチャメチャうまかったな!
+EN: MAN, THAT RAMEN PLACE YESTERDAY WAS DAMN GOOD!
+
+## EMTBL s0189 Edge 9
+JP: アキラのやつ、ねこひろったのか?
+EN: AKIRA PICKED UP A CAT?
+
+## EMTBL s0190 Edge 10
+JP: どっかいいバイトしんねぇか? しらないよな!
+EN: KNOW ANY GOOD PART-TIME JOBS? NAH, YA WOULDN'T!
+
+## EMTBL s0191 Edge 11
+JP: ナァ、あしたひまか?
+EN: HEY, YA FREE TOMORROW?
+
+## EMTBL s0192 Edge 12
+JP: ま〜たちこくかよ! さっさときやがれ!
+EN: LATE AGAIN!? HURRY UP AND GET HERE!
+
+## EMTBL s0193 Edge 13
+JP: あのとっこうふくなら、おまえにもピッタリだぜ!
+EN: THAT GANG JACKET WOULD SUIT YA PERFECT!
+
+## EMTBL s0194 Edge 14
+JP: きょうのセット、きまってるだろ?
+EN: MY HAIR'S LOOKIN' SHARP TODAY, RIGHT?
+
+## EMTBL s0195 Edge 15
+JP: おれたち・・・なかまだよな?
+EN: WE'RE... PALS, RIGHT?
+
+## EMTBL s0196 Edge 16
+JP: ヨォ! あしたもでかけるぜ!
+EN: YO! WE'RE GOIN' OUT AGAIN TOMORROW!
+
+## EMTBL s0197 Edge 17
+JP: またまたちこくか! はやくこねぇと、ちをみるぜ!!
+EN: LATE AGAIN!? GET HERE QUICK OR THERE'LL BE BLOOD!!
+
+## EMTBL s0198 Edge 18
+JP: あのけしきをみせたのは、おまえがはじめてだぜ・・・。
+EN: YOU'RE THE FIRST ONE I EVER SHOWED THAT VIEW TO...
+
+## EMTBL s0199 Edge 19
+JP: てがみなんてかいたことねぇけど・・・まぁとりあえずみてくれ!
+EN: NEVER WROTE A LETTER BEFORE, BUT... JUST READ IT, OK!
+
+## EMTBL s0200 Akira 0
+JP: メ〜ル・・・はじめておくるね。ちゃんととどいてるかな・・・。
+EN: MY FIRST MAIL... I HOPE IT REACHES YOU...
+
+## EMTBL s0201 Akira 1
+JP: ふふっ、メ〜ルでおはなしもけっこうおもしろいね。
+EN: HEHE, TALKING BY MAIL IS PRETTY FUN.
+
+## EMTBL s0202 Akira 2
+JP: あれから、ちゃんとからだきたえてる?
+EN: HAVE YOU KEPT UP YOUR TRAINING SINCE THEN?
+
+## EMTBL s0203 Akira 3
+JP: おはよう♥ きょうはこれからバイトなの。
+EN: GOOD MORNING{heart} I'M OFF TO MY PART-TIME JOB NOW.
+
+## EMTBL s0204 Akira 4
+JP: あしたのたいいく・・・イヤだなぁ・・・。
+EN: PE TOMORROW... I HATE IT...
+
+## EMTBL s0205 Akira 5
+JP: だいごにいさんたら、またわたしのケ〜キたべたのよ〜。ひどいとおもわない?
+EN: BIG BROTHER DAIGO ATE MY CAKE AGAIN. ISN'T THAT AWFUL?
+
+## EMTBL s0206 Akira 6
+JP: こんどツ〜リングにいくんだけど、ひまならいっしょにいかない?
+EN: I'M GOING ON A RIDE SOON. WANT TO COME IF YOU'RE FREE?
+
+## EMTBL s0207 Akira 7
+JP: もうすぐいえにつくわよ。よういはできてる?
+EN: I'M ALMOST AT YOUR HOUSE. ARE YOU READY?
+
+## EMTBL s0208 Akira 8
+JP: とってもきもちよかった〜。またいこうね♥
+EN: THAT FELT SO GOOD. LET'S GO AGAIN{heart}
+
+## EMTBL s0209 Akira 9
+JP: きょう、ねこひろったんだ! もうスッゴクかわいいの♥
+EN: I FOUND A CAT TODAY! IT'S SOOO CUTE{heart}
+
+## EMTBL s0210 Akira 10
+JP: ねこのなまえは「アレックス」でいいとおもう?
+EN: DO YOU THINK ALEX IS A GOOD NAME FOR THE CAT?
+
+## EMTBL s0211 Akira 11
+JP: こんど、アレックスにあわせてあげるね。
+EN: I'LL INTRODUCE YOU TO ALEX SOMETIME.
+
+## EMTBL s0212 Akira 12
+JP: これからこうえんにこない? にいさんやアレックスもいるよ。
+EN: WANT TO COME TO THE PARK? BIG BROTHER AND ALEX ARE HERE.
+
+## EMTBL s0213 Akira 13
+JP: どう? かわいかったでしょ?
+EN: WELL? WASN'T HE CUTE?
+
+## EMTBL s0214 Akira 14
+JP: やだもう・・・きょう、あめふるっていってた?
+EN: OH NO... DID THEY SAY IT WOULD RAIN TODAY?
+
+## EMTBL s0215 Akira 15
+JP: あたらしいバイクほしいなぁ。かったらのせてあげるね♥
+EN: I WANT A NEW BIKE. IF I GET ONE, I'LL GIVE YOU A RIDE{heart}
+
+## EMTBL s0216 Akira 16
+JP: バイクのレ〜スって・・・きょうみない?
+EN: ARE YOU INTERESTED IN BIKE RACING?
+
+## EMTBL s0217 Akira 17
+JP: これからウチに、バイクレ〜スのビデオをみにこない?
+EN: WANT TO COME OVER AND WATCH A BIKE RACE VIDEO?
+
+## EMTBL s0218 Akira 18
+JP: つぎは・・・ふたりで、サ〜キットにいこうね♥
+EN: NEXT TIME... LET'S GO TO THE CIRCUIT, JUST US TWO{heart}
+
+## EMTBL s0219 Akira 19
+JP: ・・・これがわたしのきもち。あとで、てがみをよんでね♥
+EN: ...THIS IS HOW I FEEL. READ MY LETTER LATER{heart}
+
+## EMTBL s0220 Gan 0
+JP: わしもメ〜ルをはじめたんじゃ! これからよろしくのう!
+EN: WELL NOW, I TOOK UP MAIL TOO! TREAT ME RIGHT, YA HEAR!
+
+## EMTBL s0221 Gan 1
+JP: わしのゆびには、ボタンがちいさいのう。
+EN: THESE BUTTONS ARE A MITE SMALL FOR MY FINGERS.
+
+## EMTBL s0222 Gan 2
+JP: はらがへっては、いくさはできぬのう!
+EN: CAN'T FIGHT A BATTLE ON AN EMPTY BELLY!
+
+## EMTBL s0223 Gan 3
+JP: このハラマキ、いかすじゃろう?
+EN: AIN'T THIS BELLY WARMER SHARP?
+
+## EMTBL s0224 Gan 4
+JP: べんきょうなんて、いらんとおもうかのう?
+EN: YA RECKON STUDYIN' IS A WASTE OF TIME?
+
+## EMTBL s0225 Gan 5
+JP: やっぱり、やまぶきのおにぎりは、さいこうじゃ!
+EN: YAMABUKI STORE RICE BALLS ARE THE BEST, NO DOUBT!
+
+## EMTBL s0226 Gan 6
+JP: あした、くいほうだいキャンペ〜ンがあるらしいぞ!
+EN: HEARD THERE'S AN ALL-YOU-CAN-EAT DEAL TOMORROW!
+
+## EMTBL s0227 Gan 7
+JP: いまから、くいほうだいにいかんか?
+EN: WANNA HIT THE ALL-YOU-CAN-EAT RIGHT NOW?
+
+## EMTBL s0228 Gan 8
+JP: あれっぽっちではハラのたしにならんのう!
+EN: THAT LITTLE BIT DIDN'T EVEN DENT MY APPETITE!
+
+## EMTBL s0229 Gan 9
+JP: これだけあたたかいと、おくじょうでひるねしたいのぅ!
+EN: WARM AS IT IS, I'D SURE LIKE A NAP UP ON THE ROOF!
+
+## EMTBL s0230 Gan 10
+JP: こんど、べんきょうをおしえてくれんか?
+EN: WOULD YA HELP ME STUDY SOMETIME?
+
+## EMTBL s0231 Gan 11
+JP: こんど、すもうぶのしあいにでることになっての・・・。
+EN: LOOKS LIKE I'LL BE IN A SUMO CLUB MATCH SOON...
+
+## EMTBL s0232 Gan 12
+JP: あした、すもうぶのしあいなんじゃが・・・みにくるか?
+EN: GOT A SUMO MATCH TOMORROW... WANNA COME WATCH?
+
+## EMTBL s0233 Gan 13
+JP: おぬしの、おうえんのおかげでかてたわい!
+EN: WON THANKS TO YOUR CHEERIN'!
+
+## EMTBL s0234 Gan 14
+JP: きょうはいっしょにかえらんか?
+EN: WANNA WALK HOME TOGETHER TODAY?
+
+## EMTBL s0235 Gan 15
+JP: やまぶきの、おばあちゃんのところへ、いってるぞい!
+EN: I'M OVER AT GRANNY'S AT THE YAMABUKI STORE!
+
+## EMTBL s0236 Gan 16
+JP: おぬし、あしたはひまかの?
+EN: YA FREE TOMORROW?
+
+## EMTBL s0237 Gan 17
+JP: いまからワシのひみつのみせへつれていってやるぞい!
+EN: I'M TAKIN' YA TO MY SECRET LITTLE SHOP RIGHT NOW!
+
+## EMTBL s0238 Gan 18
+JP: いつかおぬしを、つれてこようとおもってたんじゃ!
+EN: BEEN MEANIN' TO BRING YA HERE SOMEDAY!
+
+## EMTBL s0239 Gan 19
+JP: ワシのきもちを、せいいっぱいかいたんじゃ! てがみをよんでくれい!
+EN: I WROTE MY FEELIN'S AS BEST I COULD! READ MY LETTER, WILL YA!
+
+## EMTBL s0240 Hideo 0
+JP: きょうからメ〜ルでれんらくします。よろしくおねがいします。
+EN: FROM TODAY I'LL KEEP IN TOUCH BY MAIL. I LOOK FORWARD TO IT.
+
+## EMTBL s0241 Hideo 1
+JP: きょうのじゅぎょうはわかりましたか?
+EN: DID YOU UNDERSTAND TODAY'S LESSON?
+
+## EMTBL s0242 Hideo 2
+JP: よしゅうふくしゅうは、とてもだいじですよ。
+EN: PREPARING AND REVIEWING ARE VERY IMPORTANT.
+
+## EMTBL s0243 Hideo 3
+JP: きょうはせんたくものが、よくかわきそうです。
+EN: THE LAUNDRY SHOULD DRY NICELY TODAY.
+
+## EMTBL s0244 Hideo 4
+JP: きみは、「しょうゆ」をかんじでかけますか?
+EN: CAN YOU WRITE THE KANJI FOR SOY SAUCE?
+
+## EMTBL s0245 Hideo 5
+JP: わからないことがあれば、なんでもきいてください。
+EN: IF THERE'S ANYTHING YOU DON'T UNDERSTAND, JUST ASK.
+
+## EMTBL s0246 Hideo 6
+JP: こんど、かていきょうしをしてあげましょうか?
+EN: SHALL I TUTOR YOU PRIVATELY SOMETIME?
+
+## EMTBL s0247 Hideo 7
+JP: い、いまから、としょかんにいきませんか?
+EN: W-WOULD YOU LIKE TO GO TO THE LIBRARY NOW?
+
+## EMTBL s0248 Hideo 8
+JP: としょかんでは、べんきょうがはかどりましたね。
+EN: WE GOT A LOT OF STUDYING DONE AT THE LIBRARY.
+
+## EMTBL s0249 Hideo 9
+JP: しゅくだいはすませましたか?
+EN: HAVE YOU FINISHED YOUR HOMEWORK?
+
+## EMTBL s0250 Hideo 10
+JP: このまえのかんじテスト、よくできていましたよ。
+EN: YOU DID VERY WELL ON THE LAST KANJI TEST.
+
+## EMTBL s0251 Hideo 11
+JP: そろそろ、あたらしい「かたあて」がほしいです。
+EN: I COULD USE A NEW SHOULDER WARMER SOON.
+
+## EMTBL s0252 Hideo 12
+JP: いっしょに「かたあて」をえらびにいってくれませんか?
+EN: WOULD YOU HELP ME PICK OUT A SHOULDER WARMER?
+
+## EMTBL s0253 Hideo 13
+JP: きみのえらんでくれた「かたあて」つけごこちいいですよ!
+EN: THE SHOULDER WARMER YOU PICKED IS SO COMFORTABLE!
+
+## EMTBL s0254 Hideo 14
+JP: きみはきっと、としうえのだんせいはきらいですよね・・・。
+EN: YOU MUST DISLIKE OLDER MEN, I'M SURE...
+
+## EMTBL s0255 Hideo 15
+JP: わたしは、せいとたちをあいしてます。も、もちろんきみも・・・。
+EN: I LOVE MY STUDENTS. O-OF COURSE, THAT INCLUDES YOU...
+
+## EMTBL s0256 Hideo 16
+JP: こんど、じまんのりょうりをたべてもらいたいですね。
+EN: I'D LIKE YOU TO TRY MY SPECIALTY COOKING SOMETIME.
+
+## EMTBL s0257 Hideo 17
+JP: ほ、ほうかご、わたしのてりょうりを、たべにきませんか?
+EN: W-WOULD YOU COME TRY MY HOME COOKING AFTER SCHOOL?
+
+## EMTBL s0258 Hideo 18
+JP: きのうは、うでをふるったかいがありました。またきてください。
+EN: COOKING MY BEST YESTERDAY WAS WORTH IT. PLEASE COME AGAIN.
+
+## EMTBL s0259 Hideo 19
+JP: わ、わたしのおもいを、はがきにつづりました。よんでください!
+EN: I-I'VE WRITTEN MY FEELINGS ON A POSTCARD. PLEASE READ IT!
+
+## EMTBL s0260 Kyoko 0
+JP: せんせいからのメ〜ル、うけとってくれる?
+EN: WILL YOU TAKE A MAIL FROM YOUR TEACHER?
+
+## EMTBL s0261 Kyoko 1
+JP: ゲ〜ムのやりすぎで、めをわるくしちゃダメよ。
+EN: DON'T RUIN YOUR EYES PLAYING TOO MANY GAMES.
+
+## EMTBL s0262 Kyoko 2
+JP: マッサ〜ジしてあげましょうか?
+EN: SHALL I GIVE YOU A MASSAGE?
+
+## EMTBL s0263 Kyoko 3
+JP: メガネのじょせいは、キライ?
+EN: DO YOU DISLIKE WOMEN WITH GLASSES?
+
+## EMTBL s0264 Kyoko 4
+JP: きのう、のみすぎちゃった・・・。
+EN: I DRANK TOO MUCH LAST NIGHT...
+
+## EMTBL s0265 Kyoko 5
+JP: おはよう、きょうもいいてんきね。
+EN: GOOD MORNING. ANOTHER LOVELY DAY.
+
+## EMTBL s0266 Kyoko 6
+JP: あなたは、けいばにきょうみがあるの?
+EN: ARE YOU INTERESTED IN HORSE RACING?
+
+## EMTBL s0267 Kyoko 7
+JP: あした、けいばじょうにいってみない?
+EN: WANT TO GO TO THE RACETRACK TOMORROW?
+
+## EMTBL s0268 Kyoko 8
+JP: ばけんはかえないけど、おもしろかったでしょ?
+EN: YOU CAN'T BET YET, BUT IT WAS FUN, RIGHT?
+
+## EMTBL s0269 Kyoko 9
+JP: おりょうり、ならいにいこうかな・・・。
+EN: MAYBE I SHOULD TAKE COOKING LESSONS...
+
+## EMTBL s0270 Kyoko 10
+JP: いまから、おくじょうにこない?
+EN: WILL YOU COME UP TO THE ROOF NOW?
+
+## EMTBL s0271 Kyoko 11
+JP: あした、あたらしいメガネ、みにいこうかな・・・。
+EN: MAYBE I'LL GO LOOK AT NEW GLASSES TOMORROW...
+
+## EMTBL s0272 Kyoko 12
+JP: ショッピングにいくから、いっしょにいきましょ?
+EN: I'M GOING SHOPPING. WHY DON'T YOU COME ALONG?
+
+## EMTBL s0273 Kyoko 13
+JP: にもつもちさせてゴメンなさい。こんどなにかおごるわ♥
+EN: SORRY FOR MAKING YOU CARRY MY BAGS. I'LL TREAT YOU NEXT TIME{heart}
+
+## EMTBL s0274 Kyoko 14
+JP: メ〜ルがきたら、ドキドキしちゃうわ♥
+EN: MY HEART RACES WHENEVER A MAIL ARRIVES{heart}
+
+## EMTBL s0275 Kyoko 15
+JP: おとなになったら、いっしょにおさけをのみましょうね♥
+EN: WHEN YOU'RE GROWN UP, LET'S HAVE A DRINK TOGETHER{heart}
+
+## EMTBL s0276 Kyoko 16
+JP: もうすぐロ〜ドショ〜がはじまるみたいね。
+EN: LOOKS LIKE A NEW MOVIE OPENS SOON.
+
+## EMTBL s0277 Kyoko 17
+JP: これから、えいがでもみにいかない?
+EN: HOW ABOUT WE GO SEE A MOVIE NOW?
+
+## EMTBL s0278 Kyoko 18
+JP: もう・・・あんなコトしちゃだめよ♥
+EN: HONESTLY... NO MORE OF THAT SORT OF THING{heart}
+
+## EMTBL s0279 Kyoko 19
+JP: あなたへのメッセ〜ジは、てがみにしておくわ。みておいてね♥
+EN: I PUT MY MESSAGE TO YOU IN A LETTER. DO READ IT{heart}
+
+## EMTBL s0280 Hyo 0
+JP: このわたしのメ〜ルをうけとれるとは、しあわせものだな。
+EN: YOU ARE FORTUNATE TO RECEIVE A MAIL FROM ME.
+
+## EMTBL s0281 Hyo 1
+JP: こういったつうしんしゅだんは、わたしといえどバカにはできないな。
+EN: EVEN I CANNOT SCOFF AT THIS MEANS OF COMMUNICATION.
+
+## EMTBL s0282 Hyo 2
+JP: まいにちの、けんのていれはかかせないものだ。
+EN: DAILY CARE OF ONE'S SWORD MUST NEVER BE NEGLECTED.
+
+## EMTBL s0283 Hyo 3
+JP: かみのながいおとこはキライか?
+EN: DO YOU DISLIKE MEN WITH LONG HAIR?
+
+## EMTBL s0284 Hyo 4
+JP: まさか・・・ねぼうなどしていないだろうな?
+EN: SURELY YOU HAVE NOT OVERSLEPT?
+
+## EMTBL s0285 Hyo 5
+JP: もうすぐかえれる。すこしまっていてくれ。
+EN: I CAN LEAVE SOON. WAIT FOR ME A LITTLE.
+
+## EMTBL s0286 Hyo 6
+JP: ちかごろ、けんがにぶっているようだ・・・。じかんをあけておいてくれ。
+EN: MY SWORD HAS GROWN DULL OF LATE... KEEP SOME TIME FREE FOR ME.
+
+## EMTBL s0287 Hyo 7
+JP: けんのけいこにつきあってくれないか?
+EN: WILL YOU JOIN ME FOR SWORD PRACTICE?
+
+## EMTBL s0288 Hyo 8
+JP: このあいだのれいをいう。おまえにたのむしかなかったのだ。
+EN: MY THANKS FOR THE OTHER DAY. YOU WERE THE ONLY ONE I COULD ASK.
+
+## EMTBL s0289 Hyo 9
+JP: おまえがそばにいると、ふしぎにこころがやすまるのだ。
+EN: WHEN YOU ARE NEAR, MY HEART IS STRANGELY AT EASE.
+
+## EMTBL s0290 Hyo 10
+JP: べんきょうなら、わたしがみてやるが、どうだ?
+EN: IF IT IS STUDY YOU NEED, I WILL TUTOR YOU. WELL?
+
+## EMTBL s0291 Hyo 11
+JP: ちかいうちに、おまえにみせたいものがあるのだ。
+EN: THERE IS SOMETHING I WISH TO SHOW YOU SOON.
+
+## EMTBL s0292 Hyo 12
+JP: いまからでかけるが、よていはだいじょうぶか?
+EN: I AM GOING OUT NOW. ARE YOU FREE?
+
+## EMTBL s0293 Hyo 13
+JP: あのたてものがいずれ、わたしたちのものになるのだ・・・。
+EN: THAT BUILDING WILL ONE DAY BE OURS...
+
+## EMTBL s0294 Hyo 14
+JP: おまえは・・・このがくえんがすきか?
+EN: DO YOU... LIKE THIS SCHOOL?
+
+## EMTBL s0295 Hyo 15
+JP: ときどき・・・わたしがおそろしくならないか?
+EN: DO I... FRIGHTEN YOU AT TIMES?
+
+## EMTBL s0296 Hyo 16
+JP: こんど、おまえといきたいばしょがあるのだ。
+EN: THERE IS A PLACE I WISH TO GO WITH YOU.
+
+## EMTBL s0297 Hyo 17
+JP: いまからむかえにいく。じゅんびはできてるな?
+EN: I WILL COME FOR YOU NOW. YOU ARE READY, I TRUST?
+
+## EMTBL s0298 Hyo 18
+JP: まちのひかりがとどかないところに、ふたりでいきたかった・・・。
+EN: I WANTED TO GO WITH YOU WHERE THE CITY LIGHTS DO NOT REACH...
+
+## EMTBL s0299 Hyo 19
+JP: わたしのこころ・・・カ〜ドにたくしておく。
+EN: MY HEART... I ENTRUST TO THIS CARD.
+
+## EMTBL s0300 Sakura 0
+JP: げんきしてる? わたしもメ〜ルはじめたんだ!
+EN: HOW ARE YOU? I STARTED DOING MAIL TOO!
+
+## EMTBL s0301 Sakura 1
+JP: ふだんあえなくても、こうしてれんらくとれるっていいよね。
+EN: IT'S NICE WE CAN KEEP IN TOUCH LIKE THIS EVEN WHEN WE CAN'T MEET.
+
+## EMTBL s0302 Sakura 2
+JP: ちゃんとトレ〜ニングしてる? サボっちゃダメだよ!
+EN: ARE YOU TRAINING? NO SLACKING OFF!
+
+## EMTBL s0303 Sakura 3
+JP: おはよう! きょうはねぼうしなかった?
+EN: MORNING! YOU DIDN'T OVERSLEEP TODAY, DID YOU?
+
+## EMTBL s0304 Sakura 4
+JP: しろいごはんって、ほんと〜においしいよね!
+EN: PLAIN WHITE RICE IS SOOO GOOD!
+
+## EMTBL s0305 Sakura 5
+JP: またおとうとにゲ〜ムまけたよ〜・・・。
+EN: LOST TO MY LITTLE BROTHER AT GAMES AGAIN...
+
+## EMTBL s0306 Sakura 6
+JP: ウチのがっこうって、きたことあったっけ?
+EN: HAVE YOU EVER BEEN TO MY SCHOOL?
+
+## EMTBL s0307 Sakura 7
+JP: これからがっこうにこない? あんないしたげるよ!
+EN: WANT TO COME TO MY SCHOOL NOW? I'LL SHOW YOU AROUND!
+
+## EMTBL s0308 Sakura 8
+JP: あははっ、あんなコトしちゃダメだよ〜。
+EN: AHAHA, YOU SHOULDN'T DO STUFF LIKE THAT!
+
+## EMTBL s0309 Sakura 9
+JP: テレビゲ〜ムのうまくなるほうほう、おしえてくれる?
+EN: WILL YOU TEACH ME HOW TO GET BETTER AT VIDEO GAMES?
+
+## EMTBL s0310 Sakura 10
+JP: すうがくのしゅくだい、ぜんぜんわかんないよ、たすけて〜!
+EN: I DON'T GET MY MATH HOMEWORK AT ALL, HELP!
+
+## EMTBL s0311 Sakura 11
+JP: またストリ〜トファイトにでるから、じゅんびしといてね!
+EN: I'M ENTERING A STREET FIGHT AGAIN, SO GET READY!
+
+## EMTBL s0312 Sakura 12
+JP: じゃ、こんかいはいっしょにロシアにいくよ!
+EN: OK, THIS TIME WE'RE GOING TO RUSSIA TOGETHER!
+
+## EMTBL s0313 Sakura 13
+JP: あははっ、なげられちゃったね〜。もっときたえないと!
+EN: AHAHA, YOU GOT THROWN! YOU NEED MORE TRAINING!
+
+## EMTBL s0314 Sakura 14
+JP: きょうのごはんはサイコ〜だよ! たべさせてあげたいぐらい!
+EN: TODAY'S MEAL IS AWESOME! I WISH YOU COULD HAVE SOME!
+
+## EMTBL s0315 Sakura 15
+JP: いま、あたらしいわざのれんしゅうちゅうなんだ!
+EN: I'M PRACTICING A NEW MOVE RIGHT NOW!
+
+## EMTBL s0316 Sakura 16
+JP: わたしがおっかけてるひとのこと・・・しりたい?
+EN: WANT TO KNOW ABOUT THE PERSON I'M CHASING?
+
+## EMTBL s0317 Sakura 17
+JP: うちにリュウさんのスクラップがあるから、みにおいでよ!
+EN: I'VE GOT A SCRAPBOOK ON RYU AT HOME. COME SEE IT!
+
+## EMTBL s0318 Sakura 18
+JP: ふたりでいっしょに・・・あのひとをこえるようにがんばろうね!
+EN: LET'S BOTH WORK HARD... AND SURPASS HIM TOGETHER!
+
+## EMTBL s0319 Sakura 19
+JP: キミにつたえたいことがあるんだ。てがみにしておくったから、あとでみてね!
+EN: THERE'S SOMETHING I WANT TO TELL YOU. I SENT IT AS A LETTER, SO READ IT LATER!
+
+## EMTBL s0320 Daigo 0
+JP: よう! おれもメ〜ルをはじめたぜ!
+EN: YO! I STARTED DOING MAIL TOO!
+
+## EMTBL s0321 Daigo 1
+JP: こういうかいわも、おもしろいもんだな!
+EN: TALKING THIS WAY IS PRETTY INTERESTING!
+
+## EMTBL s0322 Daigo 2
+JP: おとこのひみつばなしは、みっともないとおもうか?
+EN: YOU THINK MEN TRADING SECRETS IS SHAMEFUL?
+
+## EMTBL s0323 Daigo 3
+JP: じんぎをわすれちゃいないだろうな!?
+EN: YOU HAVEN'T FORGOTTEN THE CODE OF HONOR, RIGHT!?
+
+## EMTBL s0324 Daigo 4
+JP: からだはきたえつづけてるんだろうな!?
+EN: YOU'RE STILL KEEPING IN SHAPE, RIGHT!?
+
+## EMTBL s0325 Daigo 5
+JP: ついアキラのケ〜キをくっちまった・・・。
+EN: I WENT AND ATE AKIRA'S CAKE...
+
+## EMTBL s0326 Daigo 6
+JP: こんど、ひさしぶりにしあいをやろう!
+EN: LET'S HAVE A MATCH SOMETIME. IT'S BEEN A WHILE!
+
+## EMTBL s0327 Daigo 7
+JP: いまからでてこれるか? しあいをやるぞ!
+EN: CAN YOU COME OUT NOW? WE'RE HAVING A MATCH!
+
+## EMTBL s0328 Daigo 8
+JP: すこしうでがなまってたぞ! ゆだんするなよ!
+EN: YOU'VE GOTTEN A LITTLE RUSTY! DON'T LET YOUR GUARD DOWN!
+
+## EMTBL s0329 Daigo 9
+JP: アキラがねこをひろってきてな・・・いえじゅうおおさわぎだぜ。
+EN: AKIRA BROUGHT HOME A CAT... THE WHOLE HOUSE IS IN AN UPROAR.
+
+## EMTBL s0330 Daigo 10
+JP: ときどき、むしょうにあまいモノがたべたくならないか?
+EN: DON'T YOU EVER GET A WILD CRAVING FOR SOMETHING SWEET?
+
+## EMTBL s0331 Daigo 11
+JP: つぎのにちよう、あけといてくれ!
+EN: KEEP NEXT SUNDAY FREE!
+
+## EMTBL s0332 Daigo 12
+JP: いま、アキラとこうえんにいる。でてこないか?
+EN: I'M AT THE PARK WITH AKIRA. WANT TO COME OUT?
+
+## EMTBL s0333 Daigo 13
+JP: ・・・いきなりけむしがおちてくれば、だれだっておどろくぜ。
+EN: ...ANYBODY WOULD JUMP IF A CATERPILLAR SUDDENLY FELL ON THEM.
+
+## EMTBL s0334 Daigo 14
+JP: このきせつになると、みぎめのきずがいたみだす・・・。
+EN: THIS TIME OF YEAR, THE SCAR ON MY RIGHT EYE STARTS TO ACHE...
+
+## EMTBL s0335 Daigo 15
+JP: おれのめざすみち・・・まちがっているか?
+EN: IS THE PATH I'M FOLLOWING... WRONG?
+
+## EMTBL s0336 Daigo 16
+JP: そうばんちょうのなまえを、せおってくるしいか? すこししんぱいだ。
+EN: IS THE TOP BOSS NAME A HEAVY LOAD? I WORRY A LITTLE.
+
+## EMTBL s0337 Daigo 17
+JP: おまえのつよさ、おれにみせてくれ! いまからこれるか?
+EN: SHOW ME YOUR STRENGTH! CAN YOU COME NOW?
+
+## EMTBL s0338 Daigo 18
+JP: おまえには・・・おれとおなじみちをあるいてほしい・・・。
+EN: I WANT YOU... TO WALK THE SAME PATH AS ME...
+
+## EMTBL s0339 Daigo 19
+JP: おまえにおくることばを、てがみにしておいた! こころしてよんでくれ!
+EN: I PUT MY WORDS FOR YOU IN A LETTER! READ IT AND TAKE IT TO HEART!
+
+## EMTBL s0340 Hayato 0
+JP: きょうから、おれもメ〜ルをはじめるぜ!
+EN: STARTING TODAY, I'M DOING MAIL TOO!
+
+## EMTBL s0341 Hayato 1
+JP: このメ〜ル、ちゃんと、とどいてるんだろうな?
+EN: THIS MAIL'S GETTIN' THROUGH, RIGHT?
+
+## EMTBL s0342 Hayato 2
+JP: あしたはランニングだ! しっかりやすめ!
+EN: TOMORROW WE RUN! GET PLENTY OF REST!
+
+## EMTBL s0343 Hayato 3
+JP: きょうのじゅぎょう、つらかったか?
+EN: WAS TODAY'S CLASS TOUGH?
+
+## EMTBL s0344 Hayato 4
+JP: おまえのこんじょう、みせてみろ!
+EN: SHOW ME YOUR GUTS!
+
+## EMTBL s0345 Hayato 5
+JP: おれのしないは、とくべつせいだぜ!
+EN: MY BAMBOO SWORD IS ONE OF A KIND!
+
+## EMTBL s0346 Hayato 6
+JP: あしたはこじんてきに、たいいくのほしゅうをやるぞ!
+EN: TOMORROW I'M GIVIN' YA A PRIVATE PE MAKEUP CLASS!
+
+## EMTBL s0347 Hayato 7
+JP: おまえも、おれのあいのほしゅうをうけるよな?
+EN: YOU'LL TAKE MY MAKEUP CLASS OF LOVE TOO, RIGHT?
+
+## EMTBL s0348 Hayato 8
+JP: みごとなたたかいっぷりだったぜ!
+EN: THAT WAS ONE FINE FIGHT!
+
+## EMTBL s0349 Hayato 9
+JP: こんどのしけんもガンバレよ!
+EN: GIVE THE NEXT EXAM YOUR ALL TOO!
+
+## EMTBL s0350 Hayato 10
+JP: きあいだ! きあいだ! きあいがたりねぇ!!
+EN: FIGHTING SPIRIT! FIGHTING SPIRIT! YA AIN'T GOT ENOUGH!!
+
+## EMTBL s0351 Hayato 11
+JP: ぎゅうどんが、やすいらしいぜ!
+EN: HEARD BEEF BOWLS ARE CHEAP!
+
+## EMTBL s0352 Hayato 12
+JP: これからめしにいくぜ! いそがしいならメ〜ルをくれ!
+EN: I'M GOIN' TO EAT NOW! IF YOU'RE BUSY, SEND ME A MAIL!
+
+## EMTBL s0353 Hayato 13
+JP: またこんど、たべにいこうぜ!
+EN: LET'S GO EAT AGAIN SOMETIME!
+
+## EMTBL s0354 Hayato 14
+JP: おまえも、あかいジャ〜ジがほしいか!?
+EN: YOU WANT A RED TRACKSUIT TOO!?
+
+## EMTBL s0355 Hayato 15
+JP: おれのとっくんに、ずっとついてくるか!?
+EN: YOU GONNA STICK WITH MY SPECIAL TRAINING ALL THE WAY!?
+
+## EMTBL s0356 Hayato 16
+JP: あした、どこかへいきてぇなぁ!
+EN: I WANNA GO SOMEWHERE TOMORROW!
+
+## EMTBL s0357 Hayato 17
+JP: いまから、おれとでかけねぇか?
+EN: WANNA HEAD OUT WITH ME NOW?
+
+## EMTBL s0358 Hayato 18
+JP: あのゆうひ! なみだがとまらなかったぜ!
+EN: THAT SUNSET! I COULDN'T STOP CRYIN'!
+
+## EMTBL s0359 Hayato 19
+JP: おれのたましいのメッセ〜ジは、てがみでみてくれ!
+EN: READ MY SOUL'S MESSAGE IN MY LETTER!
+
+## EMTBL s0360 Nagare 0
+JP: ・・・メ〜ル・・・おくるぞ。
+EN: ...SENDING... A MAIL.
+
+## EMTBL s0361 Nagare 1
+JP: ・・・・・・・・・やぁ・・・げんきか?
+EN: .........HEY... HOW ARE YOU?
+
+## EMTBL s0362 Nagare 2
+JP: ちゃんと・・・とどいてるのか・・・?
+EN: IS THIS... GETTING THROUGH...?
+
+## EMTBL s0363 Nagare 3
+JP: おはよう・・・いそがないとちこくだな・・・。
+EN: MORNING... BETTER HURRY OR YOU'LL BE LATE...
+
+## EMTBL s0364 Nagare 4
+JP: きょうは・・・あめらしいな・・・クラブはやすみだな・・・。
+EN: LOOKS LIKE RAIN TODAY... NO CLUB, THEN...
+
+## EMTBL s0365 Nagare 5
+JP: ・・・きょうはからだがかるい・・・いいタイムがでそうだ。
+EN: ...MY BODY FEELS LIGHT TODAY... I MIGHT GET A GOOD TIME.
+
+## EMTBL s0366 Nagare 6
+JP: あした・・・つきあってくれないか・・・?
+EN: TOMORROW... WILL YOU COME WITH ME...?
+
+## EMTBL s0367 Nagare 7
+JP: ・・・かいものに・・・いこう。
+EN: ...LET'S GO... SHOPPING.
+
+## EMTBL s0368 Nagare 8
+JP: ・・・いいゴ〜グルがみつかって・・・よかった。
+EN: ...GLAD I FOUND... GOOD GOGGLES.
+
+## EMTBL s0369 Nagare 9
+JP: ・・・きょうのおよぎは、まんぞくだった・・・。
+EN: ...TODAY'S SWIM... FELT GOOD...
+
+## EMTBL s0370 Nagare 10
+JP: いつもゴ〜グルつけてるのは・・・へんか?
+EN: IS IT... WEIRD THAT I ALWAYS WEAR GOGGLES?
+
+## EMTBL s0371 Nagare 11
+JP: ・・・つぎのどようび・・・ようじはあるか?
+EN: ...NEXT SATURDAY... ARE YOU BUSY?
+
+## EMTBL s0372 Nagare 12
+JP: ・・・たいかいにぼくがでるんだが・・・みにくるか?
+EN: ...I'M SWIMMING IN A MEET... WILL YOU COME WATCH?
+
+## EMTBL s0373 Nagare 13
+JP: ・・・おまえのせいえんが・・・いちばんよくきこえたぞ。
+EN: ...YOUR CHEERING... I HEARD IT LOUDEST.
+
+## EMTBL s0374 Nagare 14
+JP: やはり・・・おうえんはスポ〜ツにかかせないな・・・。
+EN: CHEERING... REALLY IS ESSENTIAL TO SPORTS...
+
+## EMTBL s0375 Nagare 15
+JP: ・・・ぼくは、まだのびるとおもうか・・・?
+EN: ...DO YOU THINK... I CAN STILL GET BETTER...?
+
+## EMTBL s0376 Nagare 16
+JP: あしたは・・・クラブがやすみなんだ・・・。
+EN: TOMORROW... THERE'S NO CLUB...
+
+## EMTBL s0377 Nagare 17
+JP: ・・・いまからプ〜ルにこないか?
+EN: ...WILL YOU COME TO THE POOL NOW?
+
+## EMTBL s0378 Nagare 18
+JP: ふたりだけのプ〜ルというのも・・・おもしろいものだな・・・。
+EN: HAVING THE POOL... ALL TO OURSELVES... WAS NICE...
+
+## EMTBL s0379 Nagare 19
+JP: ・・・おおくをしゃべるのはにがてだ・・・てがみをおくる・・・。
+EN: ...I'M BAD AT TALKING MUCH... I'LL SEND A LETTER...
+
+## EMTBL s0380 Ran 0
+JP: へ〜、アンタもメ〜ルはじめたんだ?
+EN: HUH, SO YOU'RE DOING MAIL TOO?
+
+## EMTBL s0381 Ran 1
+JP: メ〜ルにはもうなれた?
+EN: USED TO MAIL YET?
+
+## EMTBL s0382 Ran 2
+JP: なにかすごいニュ〜スしってる?
+EN: KNOW ANY BIG NEWS?
+
+## EMTBL s0383 Ran 3
+JP: いいしゃしんとれたよ!
+EN: I GOT A GREAT PHOTO!
+
+## EMTBL s0384 Ran 4
+JP: あした、はれるとおもう?
+EN: THINK IT'LL BE SUNNY TOMORROW?
+
+## EMTBL s0385 Ran 5
+JP: きょうのしんぶん、おもしろかった?
+EN: WAS TODAY'S PAPER INTERESTING?
+
+## EMTBL s0386 Ran 6
+JP: こんど、さつえいにつきあってくれない?
+EN: COME ALONG ON A PHOTO SHOOT SOMETIME?
+
+## EMTBL s0387 Ran 7
+JP: あした、さつえいかいにいかない?
+EN: WANNA GO TO A PHOTO SESSION TOMORROW?
+
+## EMTBL s0388 Ran 8
+JP: いろいろてつだってくれてアリガト!
+EN: THANKS FOR ALL YOUR HELP!
+
+## EMTBL s0389 Ran 9
+JP: これからスク〜プさがしにいくね!
+EN: I'M OFF TO HUNT FOR A SCOOP!
+
+## EMTBL s0390 Ran 10
+JP: バツったら、いぬにおいかけられてたよ!
+EN: GUESS WHAT, BATSU GOT CHASED BY A DOG!
+
+## EMTBL s0391 Ran 11
+JP: あたらしいカメラほしいな・・・。
+EN: I WANT A NEW CAMERA...
+
+## EMTBL s0392 Ran 12
+JP: カメラかいにいくから、いっしょにいかない?
+EN: I'M GOING CAMERA SHOPPING. WANNA COME?
+
+## EMTBL s0393 Ran 13
+JP: こんど、あたらしいカメラで、しゃしんとってあげるネ!
+EN: I'LL TAKE YOUR PICTURE WITH MY NEW CAMERA SOMETIME!
+
+## EMTBL s0394 Ran 14
+JP: きょうは・・・いっしょにかえろ?
+EN: TODAY... WANNA WALK HOME TOGETHER?
+
+## EMTBL s0395 Ran 15
+JP: おひるごはん、おくじょうでたべよ!
+EN: LET'S EAT LUNCH ON THE ROOF!
+
+## EMTBL s0396 Ran 16
+JP: しゃしんのせいりが、も〜たいへん! おわったらみにくる?
+EN: SORTING MY PHOTOS IS SUCH A PAIN! COME SEE WHEN I'M DONE?
+
+## EMTBL s0397 Ran 17
+JP: いまからアルバム、みにこない?
+EN: WANNA COME LOOK AT MY ALBUM NOW?
+
+## EMTBL s0398 Ran 18
+JP: デ〜トのしゃしん、キレイにとれてたでしょ?
+EN: THE DATE PHOTOS CAME OUT GREAT, RIGHT?
+
+## EMTBL s0399 Ran 19
+JP: ワタシのきもち、しゃしんつきのてがみにしておくね♥
+EN: MY FEELINGS ARE IN A LETTER, PHOTO INCLUDED{heart}
+
+## EMTBL s0400 special 0
+JP: こうかんどアップ!
+EN: AFFECTION UP!
+
+## EMTBL s0401 special 1
+JP: こうかんどダウン!
+EN: AFFECTION DOWN!
+
+## EMTBL s0402 special 2
+JP: デ〜トせいこう! こうかんどおおはばアップ!
+EN: DATE SUCCESS! AFFECTION WAY UP!
+
+## EMTBL s0403 special 3
+JP: おかねがすくなくてデ〜トしっぱい!こうかんどおおはばダウン!
+EN: NOT ENOUGH MONEY, DATE FAILED! AFFECTION WAY DOWN!
+
+## EMTBL s0404 special 4
+JP: キャラクタ〜クリア〜! プレイステ-ションでカ〜ドをみてください♥
+EN: CHARACTER CLEAR! VIEW THE CARD ON THE PLAYSTATION{heart}

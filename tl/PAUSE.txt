@@ -1,0 +1,10 @@
+JP: 1Pポーズ
+EN: 1P PAUSE
+JP: 2Pポーズ
+EN: 2P PAUSE
+JP: つづける
+EN: Continue
+JP: 戻る
+EN: Back
+JP: モードメニューに戻る
+EN: Back to Mode Menu

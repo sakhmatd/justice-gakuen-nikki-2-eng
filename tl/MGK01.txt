@@ -1,0 +1,2344 @@
+## MGK01 g0 s0000
+JP: 元旦の朝って、{n}普段とは違う雰囲気があるよなぁ。{p}{end}
+EN: New Year's morning just feels different from other days.{p}{end}
+
+## MGK01 g0 s0001
+JP: いつになく早起きもできたし、{n}なんだか妙に、{n}すがすがしい気分だ。{p}
+EN: I even got up early for once, and I feel weirdly refreshed.{p}
+
+## MGK01 g0 s0002
+JP: 天気もすごくいいみたいだな。{n}よーし、初詣にでも出かけるとするか。{p}
+EN: The weather looks great too. Alright, maybe I'll go make my first shrine visit of the year.{p}
+
+## MGK01 g0 s0003
+JP: えーっと、近くにあるのは……{n}街外れの丘にある「根性神社」と、{n}学校の裏手の「恋愛神社」のふたつか。{p}{end}
+EN: Let's see, the nearby ones are... the Guts Shrine on the hill at the edge of town, and the Love Shrine behind the school.{p}{end}
+
+## MGK01 g0 s0004
+JP: どっちに、行こうかな?{p}
+EN: Which one should I go to?{p}
+
+## MGK01 g0 s0005
+JP: 根性神社{n}恋愛神社{p}
+EN: Guts Shrine{n}Love Shrine{p}
+
+## MGK01 g0 s0006
+JP: よし、根性神社にいこう。{p}{end}
+EN: Okay, I'll go to the Guts Shrine.{p}{end}
+
+## MGK01 g0 s0007
+JP: ゼエ、ゼエ、ゼエ……。{p}
+EN: Huff, huff, huff......{p}
+
+## MGK01 g0 s0008
+JP: さすがに、ハア、ハア……、{n}石段300段を、い、いっきに登るのは{n}ツライ……。{p}
+EN: Even for me, *pant*... running up 300 stone steps in one go is... r-rough...{p}
+
+## MGK01 g0 s0009
+JP: 賽銭を入れてと……。{n}さて、何をお願いしよう?{p}
+EN: Toss in an offering... Now, what should I wish for?{p}
+
+## MGK01 g0 s0010
+JP: 全体的にレベルアップ{n}部分的にレベルアップ{p}
+EN: Level up overall{n}Level up specific stats{p}
+
+## MGK01 g0 s0011
+JP: （なんとなく……全体的に{n}{sp}強くなった気がする。）{p}
+EN: (Somehow... I feel stronger all around.){p}
+
+## MGK01 g0 s0012
+JP: どこをメインに強化しようかな?{p}
+EN: Which one should I focus on?{p}
+
+## MGK01 g0 s0013
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}防御力{n}体力{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}根性{n}潜在能力{sp}{sp}{sp}{sp}{sp}{sp}知力{p}
+EN: Attack              Defense{n}Stamina             Guts{n}Potential           Smarts{p}
+
+## MGK01 g0 s0014
+JP: これでよしと。{n}ついでにもうひとつ、強化しておこう。{p}{end}
+EN: There we go. While I'm at it, let me boost one more.{p}{end}
+
+## MGK01 g0 s0015
+JP: 防御力{sp}{sp}{sp}{sp}{sp}{sp}{sp}体力{n}根性{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}潜在能力{n}知力{p}{end}
+EN: Defense             Stamina{n}Guts                Potential{n}Smarts{p}{end}
+
+## MGK01 g0 s0017
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}体力{n}根性{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}潜在能力{n}知力{p}{end}
+EN: Attack              Stamina{n}Guts                Potential{n}Smarts{p}{end}
+
+## MGK01 g0 s0019
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}防御力{n}根性{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}潜在能力{n}知力{p}
+EN: Attack              Defense{n}Guts                Potential{n}Smarts{p}
+
+## MGK01 g0 s0021
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}防御力{n}体力{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}潜在能力{n}知力{p}
+EN: Attack              Defense{n}Stamina             Potential{n}Smarts{p}
+
+## MGK01 g0 s0023
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}防御力{n}体力{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}根性{n}知力{p}
+EN: Attack              Defense{n}Stamina             Guts{n}Smarts{p}
+
+## MGK01 g0 s0025
+JP: 攻撃力{sp}{sp}{sp}{sp}{sp}{sp}{sp}防御力{n}体力{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}根性{n}潜在能力{p}
+EN: Attack              Defense{n}Stamina             Guts{n}Potential{p}
+
+## MGK01 g0 s0026
+JP: （なんとなく……集中的に{n}{sp}強くなった気がする。）{p}
+EN: (Somehow... I feel a lot stronger in just those areas.){p}
+
+## MGK01 g0 s0027
+JP: うん……なんだか{n}願い事が届いたような気がするぞ!{n}神様!{sp}俺、今年もガンバります!{p}{end}
+EN: Yeah... I feel like my wish got through! Thank you, gods! I'll give it my all this year too!{p}{end}
+
+## MGK01 g0 s0028
+JP: こうして俺は{n}決意の初詣をすませた。{p}{end}
+EN: And so I made my first shrine visit of the year, full of resolve.{p}{end}
+
+## MGK01 g0 s0029
+JP: よし、恋愛神社に行こう。{p}{end}
+EN: Okay, I'll go to the Love Shrine.{p}{end}
+
+## MGK01 g0 s0030
+JP: ひとりで行くのはさみしいけど、{n}誰かに会えるような気もするな。{p}
+EN: Going alone is kinda lonely, but I've got a feeling I'll run into someone.{p}
+
+## MGK01 g0 s0031
+JP: この予感が当たれば{n}縁起がいいんだけどなあ。{p}{end}
+EN: If that hunch is right, it'd be a lucky start to the year.{p}{end}
+
+## MGK01 g0 s0032
+JP: 誰に会えそうかな……?{p}
+EN: Who might I run into...?{p}
+
+## MGK01 g0 s0033
+JP: バツ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ひなた{n}恭介{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}将馬{n}夏{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ロベルト{n}他の人だと思う{p}
+EN: Batsu               Hinata{n}Kyosuke             Shoma{n}Natsu               Roberto{n}Someone else{p}
+
+## MGK01 g0 s0034
+JP: ロイ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ティファニー{n}ボーマン{sp}{sp}{sp}{sp}{sp}{sp}エッジ{n}アキラ{sp}{sp}{sp}{sp}{sp}{sp}{sp}岩{n}他の人だと思う{p}{end}
+EN: Roy                 Tiffany{n}Boman               Edge{n}Akira               Gan{n}Someone else{p}{end}
+
+## MGK01 g0 s0035
+JP: 英雄{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}響子{n}雹{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}醍醐{n}隼人{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ラン{n}流{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人だと思う{p}{end}
+EN: Hideo-sensei        Kyoko-sensei{n}Hyo                 Daigo-senpai{n}Hayato-sensei       Ran{n}Nagare              Someone else{p}{end}
+
+## MGK01 g0 s0036
+JP: ま、とにかく出かけよう。{p}{end}
+EN: Well, anyway, time to head out.{p}{end}
+
+## MGK01 g0 s0037
+JP: 恋愛神社は{n}参拝客でにぎわっている。{p}{end}
+EN: The Love Shrine is bustling with visitors.{p}{end}
+
+## MGK01 g0 s0038
+JP: 向こうからバツが歩いてきた。{p}{end}
+EN: Batsu came walking my way.{p}{end}
+
+## MGK01 g0 s0039
+JP: よぅ!{sp}{v3:0}!{n}おめでとう!{p}{end}
+EN: Yo! {v3:0}! Happy New Year!{p}{end}
+
+## MGK01 g0 s0040
+JP: おめでとう、バツ。{n}お前もこの神社で初詣か?{p}{end}
+EN: Happy New Year, Batsu. You came to this shrine too?{p}{end}
+
+## MGK01 g0 s0041
+JP: ああ、こっちには{n}毎年恒例のモチつき大会があるからよ。{p}
+EN: Yeah, they hold a mochi-pounding contest here every year.{p}
+
+## MGK01 g0 s0042
+JP: モチつき大会?{p}
+EN: A mochi-pounding contest?{p}
+
+## MGK01 g0 s0043
+JP: どれだけ早く100回「つく」かの{n}勝負なんだ。{n}オレ、毎年入賞してるんだぜ。{p}{end}
+EN: It's a race to see who can pound it 100 times the fastest. I place every year, y'know.{p}{end}
+
+## MGK01 g0 s0044
+JP: そうだ、オマエも出ないか?{p}
+EN: Hey, why don't you enter too?{p}
+
+## MGK01 g0 s0045
+JP: え?{sp}でも俺、{n}モチなんかついたことないけど……。{p}
+EN: Huh? But I've never pounded mochi before...{p}
+
+## MGK01 g0 s0046
+JP: 心配すんな、つくのはオレ、{n}オマエはこねる役。{n}チームワークのいいとこ見せてやろうぜ。{p}
+EN: Don't sweat it. I do the pounding, you do the turning. Let's show 'em some real teamwork!{p}
+
+## MGK01 g0 s0047
+JP: こうして俺たちは{n}モチつき大会に参加した。{n}健闘のかいあってか、{n}3位に入賞することができた。{p}
+EN: And so we entered the mochi-pounding contest. Our hard work paid off, and we took third place.{p}
+
+## MGK01 g0 s0048
+JP: ふーっ、けっこう疲れたな。{n}オマエ、なかなかいいリズムだったぜ。{p}{end}
+EN: Phew, that was pretty tiring. You had a real good rhythm going!{p}{end}
+
+## MGK01 g0 s0049
+JP: 入賞品は半分ずつにしようぜ。{n}オマエ、どっちがいい?{p}{end}
+EN: Let's split the prize. Which one do you want?{p}{end}
+
+## MGK01 g0 s0050
+JP: どっちって……{n}「しょうゆ一升」か「みりん一升」だろ?{n}どっちでも、いいんだけど……。{p}
+EN: Which one...? It's either a big jug of soy sauce or a big jug of mirin, right? Either's fine, really...{p}
+
+## MGK01 g0 s0051
+JP: そうか?{n}じゃオレ、しょうゆもーらい!{p}
+EN: Yeah? Then I'm callin' the soy sauce!{p}
+
+## MGK01 g0 s0052
+JP: あとで、{n}「しょうゆが良かった」なんつっても{n}返さないぞ!{sp}いいよな!?{p}{end}
+EN: And no takin' it back later sayin' "I wanted the soy sauce!" Deal!?{p}{end}
+
+## MGK01 g0 s0053
+JP: あ、ああ。{n}（ていうか別に、みりんもそんなに{n}{sp}欲しくはないけど……）{p}
+EN: Y-yeah. (Not that I really want the mirin either...){p}
+
+## MGK01 g0 s0054
+JP: 賞品を仲良く分け合い、{n}2人は初詣をすませた。{p}
+EN: We split the prizes like good friends and finished our shrine visit.{p}
+
+## MGK01 g0 s0055
+JP: なかなか景気のいい{n}1年にはなりそうだ……。{p}{end}
+EN: Looks like it's gonna be a prosperous year...{p}{end}
+
+## MGK01 g0 s0056
+JP: 恋愛神社に向かう通りは{n}けっこう人が多い。{p}
+EN: The street to the Love Shrine is pretty crowded.{p}
+
+## MGK01 g0 s0057
+JP: あ!{sp}{v6:1}!{n}やっほー!{p}{end}
+EN: Ah! {v6:1}! Yoo-hoo!{p}{end}
+
+## MGK01 g0 s0058
+JP: 新年あけまして、おめでとー!{p}{end}
+EN: Happy New Yeeear!{p}{end}
+
+## MGK01 g0 s0059
+JP: おめでとう、ひなた。{p}{end}
+EN: Happy New Year, Hinata.{p}{end}
+
+## MGK01 g0 s0060
+JP: エヘヘ、一年のはじめくらい{n}キチンとしないとね。{p}{end}
+EN: Hehe, gotta do things properly at the start of the year, right?{p}{end}
+
+## MGK01 g0 s0061
+JP: キチンとね……（じろじろ）。{p}{end}
+EN: Properly, y'know... *stare*{p}{end}
+
+## MGK01 g0 s0062
+JP: ん?{sp}あ、ああそうだね。{n}あ、その晴れ着、すごく決まってるよ。{p}
+EN: Hm? Oh, uh, right. Oh, that kimono looks really great on you.{p}
+
+## MGK01 g0 s0063
+JP: なーんか、とってつけたような感じ。{n}ま、いっか。{p}{end}
+EN: Sounds kinda tacked on. Oh well.{p}{end}
+
+## MGK01 g0 s0064
+JP: {v6:1}も、{n}恋愛神社に行くんでしょ?{n}一緒にお参りしよっ!{p}{end}
+EN: {v6:1}, you're going to the Love Shrine too, right? Let's go pray together!{p}{end}
+
+## MGK01 g0 s0065
+JP: 2人は恋愛神社へ向かい、{n}初詣をすませた。{p}
+EN: We went to the Love Shrine together and made our first visit of the year.{p}
+
+## MGK01 g0 s0066
+JP: ねえ、なにをお願いしたの?{p}
+EN: Hey, what'd you wish for?{p}
+
+## MGK01 g0 s0067
+JP: うん、まあ今年もいいことが{n}ありますように……かな?{p}{end}
+EN: Um, well... that this year goes well too, I guess?{p}{end}
+
+## MGK01 g0 s0068
+JP: なあんだ、平凡ねー。{n}あたしのはもっと具体的で{n}現実的なんだから。{p}
+EN: Aw, how boring. Mine's way more specific and realistic.{p}
+
+## MGK01 g0 s0069
+JP: ズバリ、{n}「甘いものを食べても太りませんように」!{p}
+EN: Straight up: "Let me eat sweets without getting fat!"{p}
+
+## MGK01 g0 s0070
+JP: ……それ、かなり都合よくない?{p}
+EN: ...Isn't that kinda convenient?{p}
+
+## MGK01 g0 s0071
+JP: いーの!{n}神様の都合にあわせたお願いなんて{n}してもしょうがないじゃん。{p}
+EN: It's fine! What's the point of making wishes that are convenient for the gods?{p}
+
+## MGK01 g0 s0072
+JP: それは、たしかに……。{p}
+EN: Well, I guess that's true...{p}
+
+## MGK01 g0 s0073
+JP: あっ!{n}なんかいいニオイがすると思ったら、{n}あそこで甘酒もらえるみたい!{p}{end}
+EN: Ah! I knew I smelled something good! They're giving out amazake over there!{p}{end}
+
+## MGK01 g0 s0074
+JP: ね!{sp}一緒に、飲んでいこ?{p}
+EN: C'mon! Let's go have some together!{p}
+
+## MGK01 g0 s0075
+JP: うん、いいけど……大丈夫かい?{n}いまさっきお願いしたばかりで{n}効果あるのかな?{p}
+EN: Sure, but... you okay? You just made that wish. Will it even work now?{p}
+
+## MGK01 g0 s0076
+JP: 気にしない、気にしない!{n}おばさーん!{sp}甘酒くださーい!{p}{end}
+EN: Never mind, never mind! Ma'am! Amazake, pleeease!{p}{end}
+
+## MGK01 g0 s0077
+JP: はー、やれやれ。{p}{end}
+EN: Haah, geez.{p}{end}
+
+## MGK01 g0 s0078
+JP: 2人は熱い甘酒を{n}一緒にフーフーしながら飲んだ。{n}ひなたはとても楽しそうだった。{n}今年は、いいことがありそうだ……。{p}{end}
+EN: We drank hot amazake together, blowing on it to cool it down. Hinata looked like she was having a great time. This year's gonna be a good one...{p}{end}
+
+## MGK01 g0 s0079
+JP: 恋愛神社への道。{n}参拝客がまばらに歩いている。{p}
+EN: The road to the Love Shrine. A few visitors are scattered along it.{p}
+
+## MGK01 g0 s0080
+JP: 向こうからやってきたのは……{n}恭介だ。{p}
+EN: Coming my way is... Kyosuke.{p}
+
+## MGK01 g0 s0081
+JP: やあ、おめでとう。{p}
+EN: Hey, Happy New Year.{p}
+
+## MGK01 g0 s0082
+JP: {v4:2}もこれから初詣かい?{n}じゃあ一緒に行こう。{p}
+EN: Are you on your way to the shrine too, {v4:2}? Then let's go together.{p}
+
+## MGK01 g0 s0083
+JP: 2人は恋愛神社に向かい、{n}初詣をすませた。{p}
+EN: We went to the Love Shrine together and made our first visit of the year.{p}
+
+## MGK01 g0 s0084
+JP: 境内には小学校低学年らしい{n}子供たちが数人、コマまわしを{n}して遊んでいる。{p}
+EN: In the shrine grounds, a few kids who looked like early grade-schoolers were playing with spinning tops.{p}
+
+## MGK01 g0 s0085
+JP: スケルトンプラスチック製のコマを{n}ぶつけあって闘う、最近はやりの{n}「ジャスティススピナー」という遊びだ。{p}{end}
+EN: It's Justice Spinner, the latest craze, where you smash see-through plastic tops into each other.{p}{end}
+
+## MGK01 g0 s0086
+JP: コマまわしか……なつかしいな。{p}
+EN: Spinning tops, huh... That takes me back.{p}
+
+## MGK01 g0 s0087
+JP: {v4:2}。{n}ああいう正月ならではの遊びって{n}最近減ってきてると思わないか?{p}
+EN: {v4:2}. Don't you think New Year's games like that have been dying out lately?{p}
+
+## MGK01 g0 s0088
+JP: そういえば……。{p}{end}
+EN: Now that you mention it...{p}{end}
+
+## MGK01 g0 s0089
+JP: 闘う相手との、単純だけど奥の深い{n}かけひき。{n}昔から子供たちは、ああやって{n}社交性を身につけてきたんだね。{p}
+EN: A simple but deep battle of wits with your opponent. Kids have always learned how to get along with others that way.{p}
+
+## MGK01 g0 s0090
+JP: と、恭介はふところから{n}ジャスティススピナーを2つ取り出した。{p}
+EN: With that, Kyosuke pulled two Justice Spinners out of his coat.{p}
+
+## MGK01 g0 s0091
+JP: 実は僕も、ちょっとした腕前だぜ。{n}どうだ、いっしょにやらないか?{p}{end}
+EN: Actually, I'm pretty good myself. How about a round?{p}{end}
+
+## MGK01 g0 s0092
+JP: いたずらっぽく目を輝かせる恭介と{n}しばし童心にかえってコマ遊びをした。{n}結構、おもしろかった……。{p}
+EN: Kyosuke's eyes sparkled mischievously, and for a while we played with tops like kids again. It was pretty fun...{p}
+
+## MGK01 g0 s0093
+JP: 恭介もけっこう子供っぽいところが{n}あるんだな。{n}今年もいろんな面白いことが{n}起こりそうな予感がするぞ。{p}
+EN: So Kyosuke has a childish side too. I've got a feeling this year's gonna bring lots of fun stuff.{p}
+
+## MGK01 g0 s0094
+JP: 恋愛神社の境内に入ると、{n}向こうから将馬が歩いてきた。{p}
+EN: As I entered the Love Shrine grounds, Shoma came walking my way.{p}
+
+## MGK01 g0 s0095
+JP: おーい、将馬!{n}おめでとーっ!{p}
+EN: Hey, Shoma! Happy New Year!{p}
+
+## MGK01 g0 s0096
+JP: なんだ、{v3:3}か。{n}おう、おめでとサン!{p}
+EN: Oh, it's {v3:3}. Yeah, Happy New Year to ya!{p}
+
+## MGK01 g0 s0097
+JP: あれ?{sp}その手に持ってるのは{n}絵馬かい?{p}{end}
+EN: Huh? Is that an ema wish plaque you're holding?{p}{end}
+
+## MGK01 g0 s0098
+JP: ああ、そこで買ってきたんだ。{n}今からつるしにいくトコさ。{p}{end}
+EN: Yeah, just bought it over there. I'm about to go hang it up.{p}{end}
+
+## MGK01 g0 s0099
+JP: どんな願い事を書いたんだい?{n}わかった、「背が伸びますように」だろ?{p}{end}
+EN: What'd you wish for? Lemme guess: "Please let me grow taller," right?{p}{end}
+
+## MGK01 g0 s0100
+JP: そんな事かかねえよ!{n}もっと、野球人生において{n}重要な願い事だぜ。{p}
+EN: I ain't writin' that! It's somethin' way more important for my baseball career.{p}
+
+## MGK01 g0 s0101
+JP: 見せてみなよ。{n}どれどれ……。{p}
+EN: Let me see it. Let's see here...{p}
+
+## MGK01 g0 s0102
+JP: 「ひざ下骨格の150%成長!」{n}「背筋倍強化!{sp}強さも長さも2倍に!」{n}「面長スッキリのシャープマスク!」{n}…………。{p}
+EN: "Grow my shinbones 150%!" "Double my back muscles! Twice as strong AND twice as long!" "A sleek, sharp, longer face!" ..........{p}
+
+## MGK01 g0 s0103
+JP: なんか、間接的に「背がほしい」って{n}書いてあるような……。{p}
+EN: Seems like it's all a roundabout way of saying "I want to be taller"...{p}
+
+## MGK01 g0 s0104
+JP: うるせえなあ。{n}ほらもう返してくれよ。{p}
+EN: Shut up. C'mon, give it back already.{p}
+
+## MGK01 g0 s0105
+JP: ところで将馬、もう参拝は済んだのか?{p}{end}
+EN: By the way, Shoma, have you prayed yet?{p}{end}
+
+## MGK01 g0 s0106
+JP: いや、そう言えばまだだった。{n}ヤバイヤバイ、ここにきた目的を{n}忘れるところだったぜ!{n}サンキュ、{v3:3}!{p}
+EN: Nope, now that ya mention it, not yet. Yikes, I almost forgot why I came here! Thanks, {v3:3}!{p}
+
+## MGK01 g0 s0107
+JP: （どうやら絵馬を書くのに夢中だった{n}{sp}ようだ……）{p}
+EN: (Looks like he got too caught up writing his ema...){p}
+
+## MGK01 g0 s0108
+JP: 2人はそろって参拝した。{n}将馬のやたら真剣な横顔が目に入った。{p}
+EN: We prayed together. I caught a glimpse of Shoma's face, oddly serious.{p}
+
+## MGK01 g0 s0109
+JP: お参りを終えて、{n}絵馬を結びつけようとしたとき、{n}将馬は大声をあげた。{p}
+EN: After praying, just as he was about to tie up his ema, Shoma let out a shout.{p}
+
+## MGK01 g0 s0110
+JP: あっ!!{n}もうひとつ大事な願い事が{n}あったんだっけ!!{p}
+EN: Ah!! I had one more important wish!!{p}
+
+## MGK01 g0 s0111
+JP: ちょっと待っててくれ、追加の{n}絵馬を買ってくるから。{p}{end}
+EN: Hang on a sec, I'm gonna go buy another ema.{p}{end}
+
+## MGK01 g0 s0112
+JP: 「牛乳が超大好物になる!」てのを{n}すっかり忘れてたぜ!{p}
+EN: I totally forgot "Make me love milk more than anything!"{p}
+
+## MGK01 g0 s0113
+JP: ……素直に「背がほしい」と{n}書けばいいのになあ。{p}{end}
+EN: ...He should just write "I want to be taller" already.{p}{end}
+
+## MGK01 g0 s0114
+JP: そんなこんなで、恋愛神社をあとにした。{n}なんだか今年は、いいことが起こりそうな{n}予感がするぞ。{p}
+EN: And so I left the Love Shrine. Somehow I've got a feeling good things are coming this year.{p}
+
+## MGK01 g0 s0115
+JP: この先が恋愛神社か。{p}{end}
+EN: So the Love Shrine's up ahead.{p}{end}
+
+## MGK01 g0 s0116
+JP: 何人かの参拝客が歩いている。{n}お、むこうに夏がいるぞ。{p}
+EN: A few visitors are walking around. Oh, there's Natsu over there.{p}
+
+## MGK01 g0 s0117
+JP: 明けましておめでとう。{p}
+EN: Happy New Year.{p}
+
+## MGK01 g0 s0118
+JP: おめでとう、{v6:4}。{n}初詣?{sp}ずいぶん早起きじゃない。{p}{end}
+EN: Happy New Year, {v6:4}. Your first shrine visit? You're up pretty early.{p}{end}
+
+## MGK01 g0 s0119
+JP: うん、たまにはね。{n}……その、手に持ってる風呂敷包みは何?{p}
+EN: Yeah, once in a while. ...What's that cloth-wrapped bundle you're carrying?{p}
+
+## MGK01 g0 s0120
+JP: ああこれ、さっきまでおばさんとこに{n}年始参りにいってたんだ。{n}その、おみやげ。{p}
+EN: Oh, this? I was just at my aunt's for a New Year's visit. It's, um, something she sent home with me.{p}
+
+## MGK01 g0 s0121
+JP: へえ、おせち料理か。{n}5段重ねとは豪勢だね。{p}{end}
+EN: Huh, osechi, the New Year's food. Five tiers, how fancy.{p}{end}
+
+## MGK01 g0 s0122
+JP: 実は俺、こういうまともな料理って{n}あまり縁がないんだ。{n}よかったら、ちょっと見せてよ。{p}
+EN: Truth is, I don't get proper cooking like that much. If you don't mind, let me take a peek.{p}
+
+## MGK01 g0 s0123
+JP: え!?{sp}だ、ダメダメ!{p}
+EN: Wha!? N-no, no way!{p}
+
+## MGK01 g0 s0124
+JP: 別に食べさせてって{n}いってるわけじゃないんだよ。{n}見せてくれるくらい、いいじゃないか。{p}
+EN: I'm not asking you to let me eat any. Just a look, come on.{p}
+
+## MGK01 g0 s0125
+JP: だ、だって……{n}アタシの好物ばっかり、{n}もらってきたんだもん。{p}
+EN: B-because... I only took home the stuff I like...{p}
+
+## MGK01 g0 s0126
+JP: 夏の好物って?{n}はて……何だろ?{p}{end}
+EN: Natsu's favorite? Hmm... what could it be?{p}{end}
+
+## MGK01 g0 s0127
+JP: ……クリキントン。{p}
+EN: ...Kuri kinton.{p}
+
+## MGK01 g0 s0128
+JP: え?{sp}まさかその5重のおせちの{n}全段が、クリキントン?{p}
+EN: Huh? Don't tell me all five tiers of that osechi are sweet chestnut kinton?{p}
+
+## MGK01 g0 s0129
+JP: わ、悪い?{n}だって好きなんだもの……。{p}
+EN: S-so what? I like it, okay...?{p}
+
+## MGK01 g0 s0130
+JP: 悪くはないよ、べつに。{n}俺もクリキントンばっかり{n}腹いっぱい食べたいって思うとき{n}あるもんな。{p}
+EN: Nothing wrong with it. Sometimes I feel like stuffing myself with nothing but kuri kinton, too.{p}
+
+## MGK01 g0 s0131
+JP: でしょ!?{p}
+EN: Right!?{p}
+
+## MGK01 g0 s0132
+JP: さすがに5段は{n}食えないと思うけどね。{p}
+EN: Though I don't think I could eat five tiers of it.{p}
+
+## MGK01 g0 s0133
+JP: あーもー、まだバカにしてるな!?{n}教えるんじゃなかったよう……!{p}{end}
+EN: Ugh, you're still making fun of me!? I shouldn't have told you...!{p}{end}
+
+## MGK01 g0 s0134
+JP: アハハハハ。{p}{end}
+EN: Ahahahaha.{p}{end}
+
+## MGK01 g0 s0135
+JP: そのあと2人でいっしょに初詣をすませ、{n}すこしクリキントンを分けてもらった。{n}うまかった……。{p}
+EN: After that, we made our shrine visit together, and she shared a little kuri kinton with me. It was good...{p}
+
+## MGK01 g0 s0136
+JP: 今年はいいことがありそうだなあ。{p}{end}
+EN: This year's looking good.{p}{end}
+
+## MGK01 g0 s0137
+JP: 恋愛神社の鳥居の近くから、{n}断続的な音が聞こえてきた。{p}
+EN: From near the Love Shrine's torii gate, I heard a steady thumping sound.{p}
+
+## MGK01 g0 s0138
+JP: あれは……ロベルトだ。{n}小気味よくリフティングをしている。{p}
+EN: That's... Roberto. He's juggling a ball with a nice, crisp rhythm.{p}
+
+## MGK01 g0 s0139
+JP: やあロベルト。{n}新年おめでとう。{p}{end}
+EN: Hey, Roberto. Happy New Year.{p}{end}
+
+## MGK01 g0 s0140
+JP: {v3:5}か。{n}今年もよろしくな。{p}{end}
+EN: {v3:5}, huh. Here's to another year!{p}{end}
+
+## MGK01 g0 s0141
+JP: こんなところでサッカーかい?{p}{end}
+EN: Soccer in a place like this?{p}{end}
+
+## MGK01 g0 s0142
+JP: まあ、いつもの習慣だな。{n}それにこの神社の石段は{n}けっこういい練習場なんだ。{p}{end}
+EN: Just my usual habit. Besides, the stone steps here make a pretty good training spot.{p}{end}
+
+## MGK01 g0 s0143
+JP: これから初詣にいくんだけど{n}ロベルトも一緒にお参りしないか?{p}{end}
+EN: I'm about to make my shrine visit. Wanna come pray with me, Roberto?{p}{end}
+
+## MGK01 g0 s0144
+JP: ああ、いいとも。{p}{end}
+EN: Yeah, sure.{p}{end}
+
+## MGK01 g0 s0145
+JP: 2人は恋愛神社の境内に入り、{n}参拝をすませた。{p}
+EN: We entered the Love Shrine grounds and prayed.{p}
+
+## MGK01 g0 s0146
+JP: 帰りがけに、社（やしろ）の売店を{n}のぞいてみた。{p}{end}
+EN: On the way back, we checked out the shrine's stall.{p}{end}
+
+## MGK01 g0 s0147
+JP: ん?{n}あのダーツみたいなものは何だい?{p}
+EN: Hm? What's that dart-looking thing?{p}
+
+## MGK01 g0 s0148
+JP: あれは「破魔矢」だよ。{n}魔除けのお守りみたいなものかな?{p}{end}
+EN: That's a hamaya, a "demon-breaking arrow." It's kind of a charm against evil, I guess?{p}{end}
+
+## MGK01 g0 s0149
+JP: まあ、あんなので{n}本当に災難がふせげるとは{n}思わないけどね。{p}{end}
+EN: Not that I think something like that can really keep bad luck away.{p}{end}
+
+## MGK01 g0 s0150
+JP: いや、お守りというのは{n}意外と馬鹿にできないものだ。{p}{end}
+EN: No, charms are more useful than you'd think.{p}{end}
+
+## MGK01 g0 s0151
+JP: それを持っていることで安心し、{n}暗示効果を得られる。{n}スポーツではしばしば{n}有用な手段だ。{p}
+EN: Having one puts your mind at ease, and the power of suggestion kicks in. In sports, that's often a real help.{p}
+
+## MGK01 g0 s0152
+JP: 俺もあのバイザーのおかげで{n}数々のピンチをしのいできた……。{p}{end}
+EN: My visor has gotten me through plenty of tight spots, too...{p}{end}
+
+## MGK01 g0 s0153
+JP: ふーん、そういうものかあ。{p}
+EN: Huh, so that's how it works.{p}
+
+## MGK01 g0 s0154
+JP: ハマヤ……か。{n}記念にひとつ、買っておくか。{p}{end}
+EN: A hamaya, huh... Guess I'll buy one as a keepsake.{p}{end}
+
+## MGK01 g0 s0155
+JP: これで俺の鉄壁の守りが{n}さらに強固になればもうけものだね。{p}
+EN: If it makes my ironclad defense even tougher, that's a bonus.{p}
+
+## MGK01 g0 s0156
+JP: それから2人で、いろんな話をしながら{n}帰路についた。{n}なかなか楽しい元旦だった。{p}{end}
+EN: Then the two of us headed home, talking about all sorts of things. It was a pretty fun New Year's Day.{p}{end}
+
+## MGK01 g0 s0157
+JP: 今年の俺も{n}ラッキーづくしになりそうな予感だ。{p}
+EN: I've got a feeling this year's gonna be full of luck for me.{p}
+
+## MGK01 g0 s0158
+JP: 神社に向かう途中、ロイと出会った。{p}
+EN: On my way to the shrine, I ran into Roy.{p}
+
+## MGK01 g0 s0159
+JP: やあ、ロイ。{n}新年おめでとう!{p}
+EN: Hey, Roy. Happy New Year!{p}
+
+## MGK01 g0 s0160
+JP: {v3:6}か。{n}まあ何が「めでたい」のかは解らんが{n}とりあえず返事だけはしておこう。{n}「オメデトウ」。{p}{end}
+EN: Oh, {v3:6}. I don't see what's so "happy" about it, but I'll return the greeting anyway. "Happy New Year."{p}{end}
+
+## MGK01 g0 s0161
+JP: とくに用事がないなら、{n}これから一緒に初詣に行かないか?{p}{end}
+EN: If you're not busy, wanna come with me for hatsumode, the New Year's shrine visit?{p}{end}
+
+## MGK01 g0 s0162
+JP: ハツモウデ……。{n}あの、ジンジャで願い事をするという{n}新年の儀式か。{p}{end}
+EN: Hatsumode... That New Year's ritual where you make wishes at a shrine.{p}{end}
+
+## MGK01 g0 s0163
+JP: ジャパンの風習というものは{n}非常に不合理かつ不可解だ。{p}
+EN: Japanese customs are extremely irrational and baffling.{p}
+
+## MGK01 g0 s0164
+JP: 普段信仰を持たない者がほとんどの{n}はずなのに、こと新年になると揃って{n}ジンジャに礼拝に出かける。{p}{end}
+EN: Most people here have no religious faith, yet come New Year's, they all go off to worship at shrines.{p}{end}
+
+## MGK01 g0 s0165
+JP: ボクにはわからんよ。{p}{end}
+EN: I just don't get it.{p}{end}
+
+## MGK01 g0 s0166
+JP: まあ、これはひとつの{n}お祭りみたいなモノだし。{p}
+EN: Well, it's kind of like a festival.{p}
+
+## MGK01 g0 s0167
+JP: この「おめでたい」行事が{n}毎年かならずやってくるのは{n}けっこう素晴らしい事だと思うよ。{p}
+EN: And I think it's pretty great that this "happy" event comes around every year without fail.{p}
+
+## MGK01 g0 s0168
+JP: ……なるほど。{n}そのポジティヴな考え方は{n}けっこう好きだ。{p}
+EN: ...I see. I kinda like that positive way of thinking.{p}
+
+## MGK01 g0 s0169
+JP: 日本人は物事をはっきりさせないのが{n}美徳だとするきらいがあるが、{n}こと正月に関しては{n}そうでもないようだな。{p}{end}
+EN: The Japanese tend to treat vagueness as a virtue, but New Year's seems to be the exception.{p}{end}
+
+## MGK01 g0 s0170
+JP: フム……少し興味が湧いてきた。{n}よし、ハツモウデに付き合おう。{p}
+EN: Hmm... I'm getting a little curious. OK, I'll come along to this hatsumode.{p}
+
+## MGK01 g0 s0171
+JP: （こうしてロイと{n}{sp}初詣をすることになった。）{p}
+EN: (And so I ended up making my shrine visit with Roy.){p}
+
+## MGK01 g0 s0172
+JP: なんだこれは?{n}頼み事をするのに料金が必要なのか?{p}
+EN: What's this? You have to pay a fee to make a request?{p}
+
+## MGK01 g0 s0173
+JP: いや、これは賽銭箱といって{n}自分で好きなぶんだけ善意でお金を{n}入れるんだ。{p}
+EN: No, this is an offering box. You put in however much you want, out of goodwill.{p}
+
+## MGK01 g0 s0174
+JP: 募金箱のようなものか?{p}
+EN: Like a donation box?{p}
+
+## MGK01 g0 s0175
+JP: ちょっと違うけど、まあそんなものかな。{p}
+EN: Not quite, but something like that.{p}
+
+## MGK01 g0 s0176
+JP: こういうところがダメだというんだ。{n}だいたい日本人はだな……。{p}
+EN: This is exactly what's wrong here. Honestly, you Japanese...{p}
+
+## MGK01 g0 s0177
+JP: いつもの調子でまくしたてるが、{n}けっこう初詣は気に入ってるようだ。{n}その証拠に、次々と質問を{n}投げかけてくる。{p}
+EN: He ranted like always, but he seemed to really like the visit. He kept firing off one question after another.{p}
+
+## MGK01 g0 s0178
+JP: 騒々しくも新鮮な初詣を終えて{n}家に戻った。{n}今年はいろんな楽しい事が起こりそうだな。{p}{end}
+EN: After a noisy but refreshing shrine visit, I went home. Looks like this year's gonna bring lots of fun.{p}{end}
+
+## MGK01 g0 s0179
+JP: ええっと、神社に行くには{n}この角を曲がるんだっけ。{p}
+EN: Let's see, to get to the shrine I turn at this corner, right?{p}
+
+## MGK01 g0 s0180
+JP: ガチョーン!!{p}
+EN: GACHOOON!!{p}
+
+## MGK01 g0 s0181
+JP: わっ!!{sp}びっくりした!!{p}
+EN: Whoa!! You scared me!!{p}
+
+## MGK01 g0 s0182
+JP: ……なんだ、ティファニーじゃないか。{n}正月そうそう、驚かさないでくれよ。{p}{end}
+EN: ...Oh, it's just you, Tiffany. Don't scare me like that first thing in the New Year.{p}{end}
+
+## MGK01 g0 s0183
+JP: ジャパニーズのニューイヤーメッセージ、{n}ガチョーンね!{n}ハッピーニューイヤー、{v3:7}!{p}{end}
+EN: It's the Japanese New Year message, "Gachoon"! Happy New Year, {v3:7}!{p}{end}
+
+## MGK01 g0 s0184
+JP: （……もしかして「賀正」のことか?）{p}{end}
+EN: (...Does she mean "Gasho," the New Year's greeting?){p}{end}
+
+## MGK01 g0 s0185
+JP: それはそうとティファニー、{n}これから初詣にいくんだけど{n}一緒に行くかい?{p}{end}
+EN: Anyway, Tiffany, I'm heading out for hatsumode. Wanna come along?{p}{end}
+
+## MGK01 g0 s0186
+JP: OH!{sp}初モーテル!{n}行きまース!{p}
+EN: OH! Hatsu-motel! I will go!{p}
+
+## MGK01 g0 s0187
+JP: いやあの……{n}「はつもうで」なんだけど……。{p}{end}
+EN: Um, no... it's "hatsumode"...{p}{end}
+
+## MGK01 g0 s0188
+JP: はしゃぐ金髪美人をつれて境内に入ると{n}ほかの参拝客がいっせいにこちらを見た。{n}そうとう目立ってるぞ、俺たち……。{p}{end}
+EN: When I entered the shrine grounds with the bubbly blonde beauty, every visitor turned to stare. We really stand out...{p}{end}
+
+## MGK01 g0 s0189
+JP: ジャパニーズハレギ、{n}とってもナイスだけど、{n}困るコトがありマース。{p}{end}
+EN: The Japanese haregi kimono is very nice, but there is one problem.{p}{end}
+
+## MGK01 g0 s0190
+JP: アンダーウェアがノーだから{n}チョット頼りないネ。{n}スースー。{p}{end}
+EN: No underwear, so I feel a little unprotected. So breezy.{p}{end}
+
+## MGK01 g0 s0191
+JP: えっ!?{n}（ってことはいま、晴れ着の下は…!）{p}
+EN: What!? (So that means right now, under that kimono...!){p}
+
+## MGK01 g0 s0192
+JP: 心配いらないネ!{n}かわりに水着を着けてるから{n}寒くないデース!{p}
+EN: No worries! I wear a swimsuit instead, so I am not cold!{p}
+
+## MGK01 g0 s0193
+JP: ……あー、良かった。{n}（って、何がだよ……）{p}{end}
+EN: ...Oh, what a relief. (Wait, relief about what...){p}{end}
+
+## MGK01 g0 s0194
+JP: ユーもノー・トランクスですカ?{n}股間がいつもよりシェイキングな{n}感じでース。{p}{end}
+EN: Are you no trunks too? Your crotch looks more shaky than usual.{p}{end}
+
+## MGK01 g0 s0195
+JP: バ、バカ!{n}俺は普段着だから{n}関係ないだろっ!?{p}{end}
+EN: D-don't be stupid! I'm in regular clothes, so it's got nothing to do with me!{p}{end}
+
+## MGK01 g0 s0196
+JP: 妙な想像したことをさとられないように{n}ドギマギしつつ、ティファニーと{n}参拝をすませた。{p}
+EN: Flustered and trying not to let her guess what I'd imagined, I finished my shrine visit with Tiffany.{p}
+
+## MGK01 g0 s0197
+JP: なんだか今年も{n}オイシイことがありそうだ。{p}
+EN: Something tells me this year's gonna have some nice perks again.{p}
+
+## MGK01 g0 s0198
+JP: 恋愛神社はここだな。{n}あれ?{p}{end}
+EN: This is the Love Shrine. Huh?{p}{end}
+
+## MGK01 g0 s0199
+JP: 鳥居の下にいるのは、{n}ボーマンじゃないか。{p}
+EN: Isn't that Boman under the torii gate?{p}
+
+## MGK01 g0 s0200
+JP: おーい!{p}{end}
+EN: Heeey!{p}{end}
+
+## MGK01 g0 s0201
+JP: やあ、{v4:8}。{n}新年の空気はすがすがしいですね。{n}今年もどうか仲良くしてください。{p}{end}
+EN: Hello, {v4:8}. The New Year's air is so refreshing. I hope we will be good friends again this year.{p}{end}
+
+## MGK01 g0 s0202
+JP: あ、こちらこそ。{n}ところでボーマン、なにをやってるんだ?{n}ペンキの缶なんか持って。{p}
+EN: Oh, same here. By the way, Boman, what are you doing with that paint can?{p}
+
+## MGK01 g0 s0203
+JP: ええ、ここの神主さんのお話を聞いて、{n}ぜひともお手伝いしたいと申し出たのです。{p}
+EN: Well, I heard the shrine priest's story, and I offered to help.{p}
+
+## MGK01 g0 s0204
+JP: この神社の立派な鳥居を{n}粗末にあつかう心なき者がいて、{n}ごらんの通り、塗装がはがれて{n}しまっています。{p}
+EN: Some heartless people have mistreated this shrine's fine torii gate, and as you can see, the paint has come off.{p}
+
+## MGK01 g0 s0205
+JP: 私に手伝えることならばと、{n}こうして修繕しているのですよ。{p}
+EN: Since it is something I can help with, I am repairing it.{p}
+
+## MGK01 g0 s0206
+JP: へえ、さすがはボーマン。{n}宗教の違いも乗り越えた{n}立派な心がけだなあ。{n}……ん?{p}{end}
+EN: Wow, that's Boman for you. Looking past the difference in religion like that is admirable. ...Hm?{p}{end}
+
+## MGK01 g0 s0207
+JP: （あ……思い出したぞ!{n}{sp}あの塗装のはげぐあい、たしかこの前{n}{sp}ここでロイとバツが闘ったときに{n}{sp}ツイスターアッパーでついた傷……）{p}{end}
+EN: (Ah... I remember now! That peeling paint... it's from Roy's Twister Upper, when he fought Batsu here the other day...){p}{end}
+
+## MGK01 g0 s0208
+JP: （あっ!!{sp}あっちのは{n}{sp}ティファニーのグルービーパンチで……）{p}{end}
+EN: (Ah!! And that one's from Tiffany's Groovy Punch...){p}{end}
+
+## MGK01 g0 s0209
+JP: まったく悲しいことです。{n}慈愛の心無きものには、猛省を望みます。{p}{end}
+EN: It is truly sad. I pray that those without compassion will deeply reflect on what they did.{p}{end}
+
+## MGK01 g0 s0210
+JP: それにくらべ、私はなんと幸せなことか。{n}信頼と尊敬のできる友人にかこまれ、{n}神のお手伝いができる喜び……まさに{n}何物にも代え難い。{p}
+EN: But how blessed I am, by comparison. Surrounded by friends I trust and respect, with the joy of helping God... truly, nothing could replace it.{p}
+
+## MGK01 g0 s0211
+JP: （あんなにはりきってるんだから、{n}{sp}真実は教えないほうがいいのかな……）{p}{end}
+EN: (He's so fired up about it... Maybe it's better not to tell him the truth...){p}{end}
+
+## MGK01 g0 s0212
+JP: じゃ、俺はちょっと{n}お参りしてくるよ……。{p}
+EN: Well, I'm gonna go pray now...{p}
+
+## MGK01 g0 s0213
+JP: 君にも神の加護があらんことを……{n}おっと、ここで十字は不適切だったかな。{n}はっはっはっ。{p}{end}
+EN: May God protect you as well... Oh, perhaps making the sign of the cross here was not appropriate. Ha ha ha.{p}{end}
+
+## MGK01 g0 s0214
+JP: （やっぱり、黙っておこう……）{p}
+EN: (Yeah, I'll keep quiet...){p}
+
+## MGK01 g0 s0215
+JP: お参りをすませた俺は{n}恋愛神社をあとにして家に帰った。{n}ボーマンはまだ嬉しそうに{n}鳥居を直していた。{p}{end}
+EN: After praying, I left the Love Shrine and went home. Boman was still happily fixing the torii.{p}{end}
+
+## MGK01 g0 s0216
+JP: ……予想通りボーマンに会えたし、{n}今年の俺はツイてるって事にしとこう。{p}
+EN: ...I ran into Boman just like I expected, so I'll call this my lucky year.{p}
+
+## MGK01 g0 s0217
+JP: 恋愛神社に着いた。{n}境内に、凧上げをしている{n}小学生たちがいる。{p}{end}
+EN: I arrived at the Love Shrine. Some grade-schoolers are flying kites in the grounds.{p}{end}
+
+## MGK01 g0 s0218
+JP: いまどき珍しいな。{p}
+EN: You don't see that much these days.{p}
+
+## MGK01 g0 s0219
+JP: オッス!{sp}{v3:9}!{p}{end}
+EN: Yo! {v3:9}!{p}{end}
+
+## MGK01 g0 s0220
+JP: やあ、エッジじゃないか。{n}明けましておめでとう。{p}{end}
+EN: Hey, it's Edge. Happy New Year.{p}{end}
+
+## MGK01 g0 s0221
+JP: おうヨ!{n}なんだよおめえ、もしかして初詣か?{n}信心深いこったねえ!{p}
+EN: Yeah, yeah! Whaddaya know, you here for a shrine visit? Ain't you the pious type!{p}
+
+## MGK01 g0 s0222
+JP: エッジもお参りにきたんだろ?{p}{end}
+EN: You came to pray too, right, Edge?{p}{end}
+
+## MGK01 g0 s0223
+JP: 違うよ。そこのガキどもが{n}凧上げしてんのが目に入ってよ。{n}あんまりトロくさい飛ばし方だったから{n}凧を改造してやったんだ。{p}{end}
+EN: Nope. Saw those brats flyin' kites over there. They were flyin' 'em so lame, I souped up their kite.{p}{end}
+
+## MGK01 g0 s0224
+JP: へえ、器用なんだな。{p}{end}
+EN: Wow, you're handy.{p}{end}
+
+## MGK01 g0 s0225
+JP: まあガキの頃から刃物の扱いには{n}慣れてるからな。{n}ほら、あの凧だ。{p}
+EN: Well, I've been handlin' blades since I was a kid. Look, that one.{p}
+
+## MGK01 g0 s0226
+JP: 見上げると、ほかの凧に比べて{n}ひときわ高く上がっている凧があった。{n}たしかによく飛んでいる。{p}{end}
+EN: I looked up and saw one kite flying way higher than all the rest. It really was flying well.{p}{end}
+
+## MGK01 g0 s0227
+JP: ……見ていると、そのほかの凧たちが{n}いっせいに落下した。{n}残っているのはエッジ製の凧だけだ。{p}{end}
+EN: ...As I watched, all the other kites dropped at once. Only Edge's kite was left.{p}{end}
+
+## MGK01 g0 s0228
+JP: ヘヘヘ!{n}糸に仕掛けたカッターの刃が効いたな!{p}
+EN: Heh heh heh! That cutter blade I rigged on the string did the trick!{p}
+
+## MGK01 g0 s0229
+JP: ……なんて危ないヤツ。{n}あーあ、ほかの子供たち、泣いちゃったよ。{p}{end}
+EN: ...What a dangerous guy. Aw, the other kids are crying now.{p}{end}
+
+## MGK01 g0 s0230
+JP: あれぐらいで泣いてるようじゃ{n}立派な不良にゃなれねえぜ!{n}へっへっへっ!{p}{end}
+EN: If they cry over somethin' like that, they'll never make decent delinquents! Heh heh heh!{p}{end}
+
+## MGK01 g0 s0231
+JP: 上機嫌のエッジといっしょに参拝を{n}すませ、神社をあとにした。{n}心なしか、今年は運がむいてきたような{n}気がする……。{p}
+EN: I prayed with a cheerful Edge, then left the shrine. Somehow I feel like my luck is turning this year...{p}
+
+## MGK01 g0 s0232
+JP: 恋愛神社は{n}この道でよかったっけ。{p}
+EN: This is the road to the Love Shrine, right?{p}
+
+## MGK01 g0 s0233
+JP: あ!{sp}あれはもしかしたら{n}アキラじゃあ……。{p}{end}
+EN: Ah! Could that be... Akira?{p}{end}
+
+## MGK01 g0 s0234
+JP: ?{sp}!!{p}{end}
+EN: ? !!{p}{end}
+
+## MGK01 g0 s0235
+JP: やあ、あけましておめで……{n}え?{p}{end}
+EN: Hey, Happy New Ye... huh?{p}{end}
+
+## MGK01 g0 s0236
+JP: あ、逃げた!?{n}ちょ、ちょっと待った!{p}
+EN: Ah, she ran off!? H-hey, wait up!{p}
+
+## MGK01 g0 s0237
+JP: 逃げるアキラを追いかけ、{n}神社の境内でようやくつかまえた。{p}
+EN: I chased after Akira and finally caught her in the shrine grounds.{p}
+
+## MGK01 g0 s0238
+JP: ゼエ、ゼエ、ゼエ……。{n}どうして、逃げるのさ!{p}
+EN: Huff, huff, huff... Why'd you run!?{p}
+
+## MGK01 g0 s0239
+JP: だ、だって……。{p}{end}
+EN: B-because...{p}{end}
+
+## MGK01 g0 s0240
+JP: こんなカッコして、笑われたら{n}どうしようかって……。{p}{end}
+EN: Dressed like this... I was scared you'd laugh at me...{p}{end}
+
+## MGK01 g0 s0241
+JP: どこもおかしくなんかないよ。{n}その晴れ着、すごく似合ってると思うけど。{p}
+EN: There's nothing funny about it. I think that kimono looks really good on you.{p}
+
+## MGK01 g0 s0242
+JP: そ……そうかな?{p}{end}
+EN: R... really?{p}{end}
+
+## MGK01 g0 s0243
+JP: 来る途中は恥ずかしいから{n}ヘルメットかぶってきたの。{p}{end}
+EN: It was embarrassing, so I wore my helmet on the way here.{p}{end}
+
+## MGK01 g0 s0244
+JP: （そっちのほうが{n}{sp}恥ずかしいと思うけどな……）{p}{end}
+EN: (I think that's way more embarrassing...){p}{end}
+
+## MGK01 g0 s0245
+JP: まあここで話しててもなんだし、{n}とにかくお参りしよう。{p}
+EN: Well, no use standing around talking. Let's go pray.{p}
+
+## MGK01 g0 s0246
+JP: しきりにあたりを気にするアキラと{n}いっしょにお参りをした。{p}
+EN: I prayed with Akira, who kept glancing around nervously.{p}
+
+## MGK01 g0 s0247
+JP: じゃ、わたし帰るね……{n}新学期にまた会いましょ。{n}じゃあ……。{p}
+EN: Well, I'm going home... See you next term. Bye...{p}
+
+## MGK01 g0 s0248
+JP: そういってアキラは{n}そそくさと走り去った。{p}
+EN: With that, Akira hurried off.{p}
+
+## MGK01 g0 s0249
+JP: 途中、草むらに隠しておいたらしい{n}ヘルメットを拾い、かぶっていった。{n}……絶対、あの姿のほうが恥ずかしいぞ。{p}{end}
+EN: On the way, she picked up a helmet she'd apparently hidden in the grass and put it on. ...That look is way more embarrassing.{p}{end}
+
+## MGK01 g0 s0250
+JP: でもアキラの晴れ着姿、{n}けっこう可愛かったな。{n}今年はいいことが起こりそうだ。{p}
+EN: But Akira looked pretty cute in her kimono. Something good's gonna happen this year.{p}
+
+## MGK01 g0 s0251
+JP: 恋愛神社の手前で{n}岩の姿が見えた。{p}
+EN: Just before the Love Shrine, I spotted Gan.{p}
+
+## MGK01 g0 s0252
+JP: おおぅ!{sp}{v3:11}!{n}謹賀新年じゃあ!{p}
+EN: Ohhh! {v3:11}! A happy New Year to ya!{p}
+
+## MGK01 g0 s0253
+JP: おめでとう、岩。{p}{end}
+EN: Happy New Year, Gan.{p}{end}
+
+## MGK01 g0 s0254
+JP: これからお参りするところなんだ。{n}いっしょに行こうぜ。{p}
+EN: I'm about to go pray. Let's go together.{p}
+
+## MGK01 g0 s0255
+JP: 2人はそろって参拝をすませた。{p}
+EN: We made our shrine visit together.{p}
+
+## MGK01 g0 s0256
+JP: おみくじを売っていたので、{n}買ってみることにした。{p}
+EN: They were selling omikuji fortunes, so we decided to get some.{p}
+
+## MGK01 g0 s0257
+JP: 俺はえーっと、「中吉」か。{n}まあまあってとこかな。{p}
+EN: Mine is, uh... "Middle Blessing." Not bad, I guess.{p}
+
+## MGK01 g0 s0258
+JP: 岩はどうだった?{p}{end}
+EN: How'd yours turn out, Gan?{p}{end}
+
+## MGK01 g0 s0259
+JP: グッフッフッフッ。{n}ホレ、見てみんしゃい!{p}
+EN: Guh-heh-heh-heh. Here, take a look!{p}
+
+## MGK01 g0 s0260
+JP: お、良かったみたいだな。{n}なになに……はぁ!?{n}「大凶」ォ!?{p}
+EN: Oh, looks like you got a good one. Let's see... huh!? "Great Curse"!?{p}
+
+## MGK01 g0 s0261
+JP: メチャメチャ最低じゃないか!{n}なんで嬉しそうなんだ?{p}{end}
+EN: That's the absolute worst! Why do you look so happy?{p}{end}
+
+## MGK01 g0 s0262
+JP: 実はワシ、元旦に「大凶」をひくのは{n}これで5年目なんじゃ。{p}
+EN: Truth is, this makes five years straight I've drawn a "Great Curse" on New Year's Day.{p}
+
+## MGK01 g0 s0263
+JP: 最初は縁起が悪いと思うとったが、{n}こうも連続でつづくのは{n}逆に悪運が強いっちゅう証明じゃ。{p}
+EN: At first I reckoned it was bad luck, but a streak like this just proves I got the devil's own luck.{p}
+
+## MGK01 g0 s0264
+JP: 今年も「大凶」で安心したわい!{n}グフフフフ!{p}{end}
+EN: Drew a "Great Curse" again this year. What a relief! Guh-heh-heh-heh!{p}{end}
+
+## MGK01 g0 s0265
+JP: ……そりゃ、すごいかも。{p}{end}
+EN: ...Well, maybe that is kind of amazing.{p}{end}
+
+## MGK01 g0 s0266
+JP: たしかに「大凶」なんて{n}めったに見れないもんなぁ。{p}
+EN: I mean, you hardly ever see a "Great Curse."{p}
+
+## MGK01 g0 s0267
+JP: 満面に得意そうな笑顔を浮かべた岩と{n}神社をあとにした。{p}
+EN: I left the shrine with Gan, who was beaming with pride.{p}
+
+## MGK01 g0 s0268
+JP: 今年は岩の強運にあやかって{n}いい事がおこりそうな気が……、{n}しないでもない……。{p}{end}
+EN: Maybe with some of Gan's luck rubbing off, good things will happen this year... or, well, maybe not...{p}{end}
+
+## MGK01 g0 s0269
+JP: 恋愛神社の境内は{n}けっこうな人出だ。{p}{end}
+EN: The Love Shrine grounds are pretty crowded.{p}{end}
+
+## MGK01 g0 s0270
+JP: むこうから英雄先生が{n}歩いてきた。{p}
+EN: Hideo-sensei came walking my way.{p}
+
+## MGK01 g0 s0271
+JP: {v0}{col:0}君{col:-}、新年おめでとう。{p}
+EN: {v0}{col:0}-kun{col:-}, Happy New Year.{p}
+
+## MGK01 g0 s0272
+JP: おめでとうございます、先生。{p}{end}
+EN: Happy New Year, Sensei.{p}{end}
+
+## MGK01 g0 s0273
+JP: 君もこの神社にお参りですか?{n}せっかくだから私と一緒に行きましょう。{p}{end}
+EN: Are you visiting this shrine too? Since we are here, let us go together.{p}{end}
+
+## MGK01 g0 s0274
+JP: 先生と並んで参拝をすませた。{n}そのあと、近くの石段に腰をおろし、{n}先生の話を聞いた。{p}{end}
+EN: I prayed alongside Sensei. Afterward, we sat on some nearby stone steps and I listened to his story.{p}{end}
+
+## MGK01 g0 s0275
+JP: そう、あれは私がまだ{n}小学校に上がる前の正月でした。{p}{end}
+EN: Yes, it was New Year's, before I had even started elementary school.{p}{end}
+
+## MGK01 g0 s0276
+JP: いつも父親に連れられていった神社が、{n}不審火で全焼してしまう事件が{n}あったのです。{p}
+EN: The shrine my father always took me to burned to the ground in a suspicious fire.{p}
+
+## MGK01 g0 s0277
+JP: 運悪く、本堂に隠れて遊んでいた{n}いたずら小僧が、{n}炎に取り囲まれてしまった。{p}{end}
+EN: Unluckily, a little rascal who had been hiding and playing in the main hall got trapped by the flames.{p}{end}
+
+## MGK01 g0 s0278
+JP: それを救い出すために、{n}若い教師が全身に水をかぶり、{n}炎に飛び込んでいきました。{p}{end}
+EN: To save him, a young teacher doused himself in water and leapt into the fire.{p}{end}
+
+## MGK01 g0 s0279
+JP: 子供も先生も無事、ことなきを{n}得たのですが、その様子を見ていた私は{n}その若い教師が格好よいなぁ、と{n}幼心に思ったものです。{p}
+EN: The child and the teacher both came out unharmed. Watching it, I thought, in my childish way, how cool that young teacher was.{p}
+
+## MGK01 g0 s0280
+JP: そうなんですか。{n}それで教師になりたいと思って?{p}{end}
+EN: Really? So that's why you wanted to become a teacher?{p}{end}
+
+## MGK01 g0 s0281
+JP: はははは、いや、教師になったのは{n}また別の理由ですがね。{n}毎年、神社にやってくると{n}このことをつい思い出してしまうのです。{p}
+EN: Hahaha, no, I became a teacher for a different reason. But every year when I come to a shrine, I can't help remembering it.{p}
+
+## MGK01 g0 s0282
+JP: 英雄先生と思わず{n}小一時間ほど話し込んでしまった。{p}
+EN: Hideo-sensei and I ended up talking for nearly an hour.{p}
+
+## MGK01 g0 s0283
+JP: たまにはこんな正月もいいかな。{n}先生の子供時代のことも聞けたし。{n}今年はいいことがありそうだ……。{p}
+EN: A New Year's like this is nice once in a while. I even got to hear about Sensei's childhood. This year's gonna be a good one...{p}
+
+## MGK01 g0 s0284
+JP: 恋愛神社の境内に入ると{n}響子先生が来ていた。{p}{end}
+EN: When I entered the Love Shrine grounds, Kyoko-sensei was there.{p}{end}
+
+## MGK01 g0 s0285
+JP: あけましておめでとう、{v1}{col:0}クン{col:-}。{p}
+EN: Happy New Year, {v1}{col:0}-kun{col:-}.{p}
+
+## MGK01 g0 s0286
+JP: おめでとうございます、響子先生。{p}{end}
+EN: Happy New Year, Kyoko-sensei.{p}{end}
+
+## MGK01 g0 s0287
+JP: あれ?{sp}そういえば先生、{n}親戚のひとが住んでる温泉街に{n}旅行するって言ってませんでした?{p}{end}
+EN: Huh? Come to think of it, Sensei, didn't you say you were going to the hot spring town where your relatives live?{p}{end}
+
+## MGK01 g0 s0288
+JP: ああ、あれやめちゃったの。{n}やっぱりお正月は{n}自分の家でゆっくりしようと思って。{p}{end}
+EN: Oh, I called that off. I figured I'd rather relax at home for New Year's after all.{p}{end}
+
+## MGK01 g0 s0289
+JP: あなたも初詣はこれから?{n}じゃ、いっしょにお参りしましょう。{p}{end}
+EN: Are you about to make your shrine visit too? Then let's pray together.{p}{end}
+
+## MGK01 g0 s0290
+JP: 2人は並んで参拝をすませ、{n}しばらく境内を散歩した。{p}{end}
+EN: We prayed side by side, then strolled around the grounds for a while.{p}{end}
+
+## MGK01 g0 s0291
+JP: 実を言うとその親戚のおばさんて{n}大の世話焼きなの。いつ訪ねても{n}お見合い話が山ほど積まれてて、{n}ちょっとカンベンしてって感じなのよ。{p}{end}
+EN: To tell the truth, that aunt of mine is a huge busybody. Every time I visit, she has piles of marriage offers waiting. It's a bit much.{p}{end}
+
+## MGK01 g0 s0292
+JP: （そうか…先生も年頃の女性だもんなあ。）{p}{end}
+EN: (I see... Sensei is a woman of marrying age, after all.){p}{end}
+
+## MGK01 g0 s0293
+JP: 先生は、その……、{n}結婚とか、するつもりなんですか?{p}{end}
+EN: Sensei, um... are you planning to get married or anything?{p}{end}
+
+## MGK01 g0 s0294
+JP: 答えにくい質問を{n}ズバッとするのね、あなたは。{p}
+EN: You sure ask the tough questions straight out, don't you?{p}
+
+## MGK01 g0 s0295
+JP: す、すみません……。{p}{end}
+EN: S-sorry...{p}{end}
+
+## MGK01 g0 s0296
+JP: 別にあやまらなくていいのよ。{n}そうねえ……{n}とりあえず今はまだ、かしら?{p}{end}
+EN: No need to apologize. Let's see... not just yet, I suppose?{p}{end}
+
+## MGK01 g0 s0297
+JP: でもいずれは{n}誰かのお嫁さんになるのも{n}いいかなと思ってるわ。{p}
+EN: But someday, I think becoming someone's bride might be nice.{p}
+
+## MGK01 g0 s0298
+JP: （先生をお嫁さんにする人は{n}{sp}うらやましいよなあ……）{p}
+EN: (I envy whoever gets to marry her...){p}
+
+## MGK01 g0 s0299
+JP: （でも、家事洗濯は苦手そうだから{n}{sp}そういうのが得意じゃないと{n}{sp}つらいかも……）{p}
+EN: (Then again, she doesn't seem great at housework or laundry. He'd better be good at that stuff, or it could be rough...){p}
+
+## MGK01 g0 s0300
+JP: ちょっと?{n}変な想像してない?{p}
+EN: Hey? You're not imagining something weird, are you?{p}
+
+## MGK01 g0 s0301
+JP: い、いえ……してました。{p}{end}
+EN: N-no... Actually, I was.{p}{end}
+
+## MGK01 g0 s0302
+JP: ウフフ、正直でよろしい!{p}{end}
+EN: Hehe, I like that honesty!{p}{end}
+
+## MGK01 g0 s0303
+JP: 響子先生と楽しく雑談しながら{n}神社をあとにした。{n}今年はいいことがありそうだ……。{p}
+EN: I left the shrine chatting happily with Kyoko-sensei. Something tells me this year will be a good one...{p}
+
+## MGK01 g0 s0304
+JP: 元旦だというのに、{n}この神社、妙に静かだな……?{p}{end}
+EN: It's New Year's Day, but this shrine is weirdly quiet...?{p}{end}
+
+## MGK01 g0 s0305
+JP: なにか……ただならぬ気配を感じるぞ。{p}{end}
+EN: Something's off... I can feel it.{p}{end}
+
+## MGK01 g0 s0306
+JP: そのとき!{n}突然何者かが背後に降り立った!{p}
+EN: Just then! Someone suddenly landed right behind me!{p}
+
+## MGK01 g0 s0307
+JP: ……お前か。{p}{end}
+EN: ...It is you.{p}{end}
+
+## MGK01 g0 s0308
+JP: ひ、雹さん!{n}ああ、驚いた……。{p}{end}
+EN: H-Hyo-san! Wow, you scared me...{p}{end}
+
+## MGK01 g0 s0309
+JP: すまなかったな。{p}{end}
+EN: My apologies.{p}{end}
+
+## MGK01 g0 s0310
+JP: （さっきまでの鋭い気配は{n}{sp}やはり雹さんだったみたいだ。）{p}
+EN: (So that sharp presence from before really was Hyo-san.){p}
+
+## MGK01 g0 s0311
+JP: ここで何を……?{p}{end}
+EN: What are you doing here...?{p}{end}
+
+## MGK01 g0 s0312
+JP: 学園の未来を司るものとして{n}ここのところ精神がたるんでいた。{p}{end}
+EN: As one entrusted with the school's future, I have let my spirit grow slack of late.{p}{end}
+
+## MGK01 g0 s0313
+JP: 今日は自戒の念を込めて{n}神前でめい想していたのだ。{p}
+EN: So today I came to meditate before the gods, as a reproach to myself.{p}
+
+## MGK01 g0 s0314
+JP: （なるほど……ほかの参拝客は{n}{sp}雹さんの姿をみて{n}{sp}お参りしにくかったのか……）{p}{end}
+EN: (I see... The other visitors saw Hyo-san here and didn't dare come pray...){p}{end}
+
+## MGK01 g0 s0315
+JP: お前の気配に心乱されるようでは{n}私もまだまだ覚悟が足りないようだ。{p}
+EN: If your mere presence can disturb my mind, my resolve is still far from enough.{p}
+
+## MGK01 g0 s0316
+JP: 先に失礼する。{p}
+EN: I shall take my leave.{p}
+
+## MGK01 g0 s0317
+JP: ……行ってしまった。{p}{end}
+EN: ...He's gone.{p}{end}
+
+## MGK01 g0 s0318
+JP: いつもにもまして{n}雹さんの目は鋭かったな。{n}あれこそ本当の「新年の決意」って感じだ。{p}{end}
+EN: Hyo-san's eyes were even sharper than usual. Now that's what I call a real New Year's resolution.{p}{end}
+
+## MGK01 g0 s0319
+JP: 出会いの予感も当たったし{n}今年も幸先いいぞ……たぶん。{p}
+EN: My hunch about running into someone was right, so this year's off to a good start... probably.{p}
+
+## MGK01 g0 s0320
+JP: 恋愛神社の近くまでくると、{n}醍醐先輩の姿が見えた。{p}
+EN: As I neared the Love Shrine, I spotted Daigo-senpai.{p}
+
+## MGK01 g0 s0321
+JP: 醍醐先輩、おめでとうございます。{p}{end}
+EN: Happy New Year, Daigo-senpai.{p}{end}
+
+## MGK01 g0 s0322
+JP: ああ。{p}
+EN: Yeah.{p}
+
+## MGK01 g0 s0323
+JP: 今年も、いい年になりそうですね。{p}{end}
+EN: Looks like it'll be another good year.{p}{end}
+
+## MGK01 g0 s0324
+JP: ……ああ。{p}
+EN: ...Yeah.{p}
+
+## MGK01 g0 s0325
+JP: 初詣ですか?{n}あの、よかったら一緒に行きませんか?{p}
+EN: Here for your shrine visit? Um, would you like to go together?{p}
+
+## MGK01 g0 s0326
+JP: ……。{p}
+EN: ......{p}
+
+## MGK01 g0 s0328
+JP: じゃ、お参りしましょう。{p}{end}
+EN: Then let's go pray.{p}{end}
+
+## MGK01 g0 s0329
+JP: 賽銭箱の前で、醍醐先輩は{n}サイフを開けて黙ってしまった。{p}{end}
+EN: At the offering box, Daigo-senpai opened his wallet and went silent.{p}{end}
+
+## MGK01 g0 s0331
+JP: どうしたんですか?{p}
+EN: What's wrong?{p}
+
+## MGK01 g0 s0332
+JP: ……いや。{p}
+EN: ...Nothing.{p}
+
+## MGK01 g0 s0333
+JP: 先輩がおもむろに取り出したのは、{n}なんと一万円札!!{n}それを賽銭箱に入れた!{p}{end}
+EN: What he slowly pulled out was a 10,000-yen bill!! And he dropped it in the offering box!{p}{end}
+
+## MGK01 g0 s0334
+JP: さすが先輩……{n}「漢（おとこ）」ですね!{p}{end}
+EN: That's Daigo-senpai for you... A real man!{p}{end}
+
+## MGK01 g0 s0336
+JP: （まてよ?{sp}もしかしたら{n}{sp}手持ちの小銭がなかったから、とか?）{p}{end}
+EN: (Wait... Maybe he just didn't have any small change on him?){p}{end}
+
+## MGK01 g0 s0337
+JP: （いや、違う!{sp}醍醐先輩の男気が、{n}{sp}あの一万円札を出させたんだ!{n}{sp}そうに決まってる!）{p}
+EN: (No, that's not it! Daigo-senpai's manly spirit made him give that 10,000-yen bill! It has to be!){p}
+
+## MGK01 g0 s0338
+JP: ……帰ろう。{p}{end}
+EN: ...Let's head back.{p}{end}
+
+## MGK01 g0 s0339
+JP: やけに醍醐先輩の背中が大きく見える。{n}重いなにかを背負った、{n}むせびなくような背中だ……いかすぜ!{p}
+EN: Daigo-senpai's back looked huge. A back carrying something heavy, a back that seemed to weep... So cool!{p}
+
+## MGK01 g0 s0340
+JP: あの背中を見れただけでも{n}ラッキーだったな。{n}今年も、ビシッとしまった年になりそうだ。{p}
+EN: Just getting to see that back was lucky. This year's shaping up to be a sharp, no-nonsense one.{p}
+
+## MGK01 g0 s0341
+JP: ハハハハハハ!{n}アーッハッハッハッハ!{p}
+EN: Hahahahaha! Ah-hahahaha!{p}
+
+## MGK01 g0 s0342
+JP: 境内にひときわ響く{n}この笑い声……隼人先生だ!{p}
+EN: That laugh ringing across the shrine grounds... It's Hayato-sensei!{p}
+
+## MGK01 g0 s0343
+JP: ハハハハハハ!!{n}いやあ、理由もなくめでたい!{p}
+EN: Hahahahaha!! Man, it's a happy day for no reason at all!{p}
+
+## MGK01 g0 s0344
+JP: それが正月!{sp}正月だからめでたい!{n}……お?{sp}ちゃんと理由があるじゃないか!{n}なんだ、そうか!{n}ハハハハハハ!!{p}{end}
+EN: 'Cause it's New Year's! It's happy 'cause it's New Year's! ...Huh? So there IS a reason! Well, whaddya know! Hahahahaha!!{p}{end}
+
+## MGK01 g0 s0345
+JP: ……いつにもましてハイテンションですね。{n}隼人先生。{p}{end}
+EN: ...You're even more hyper than usual, Hayato-sensei.{p}{end}
+
+## MGK01 g0 s0346
+JP: おう!{sp}{v3:16}じゃないか!{n}どうだ、めでたいか!?{p}{end}
+EN: Hey! If it ain't {v3:16}! Well, ya feelin' festive!?{p}{end}
+
+## MGK01 g0 s0347
+JP: はあ、まあ、それなりには。{p}
+EN: Uh, well, sort of.{p}
+
+## MGK01 g0 s0348
+JP: ハッキリせんなあ!{n}めでたいときは思い切りめでたがる!{n}それがメリハリ、人生を楽しくするコツだ!{p}{end}
+EN: Make up your mind! When it's time to celebrate, ya celebrate with all ya got! Know when to go all out, that's the secret to a fun life!{p}{end}
+
+## MGK01 g0 s0349
+JP: ところで、参拝はすんだのか?{p}{end}
+EN: By the way, done prayin' yet?{p}{end}
+
+## MGK01 g0 s0350
+JP: いえ、これからです。{p}{end}
+EN: No, not yet.{p}{end}
+
+## MGK01 g0 s0351
+JP: じゃあ俺も付き合おう!{n}さっき済ませてきたが、2回参って{n}悪いという法はない!{n}さあ、参りまくろう!{p}{end}
+EN: Then I'll come with ya! I already went, but there's no law against prayin' twice! C'mon, let's pray up a storm!{p}{end}
+
+## MGK01 g0 s0352
+JP: ひっぱられるように{n}賽銭箱の前にやってきた。{p}{end}
+EN: He practically dragged me to the offering box.{p}{end}
+
+## MGK01 g0 s0353
+JP: （えーっと、50円でいいか……）{p}{end}
+EN: (Um, 50 yen should do...){p}{end}
+
+## MGK01 g0 s0354
+JP: ドン!!{p}{end}
+EN: Bam!!{p}{end}
+
+## MGK01 g0 s0355
+JP: わっ!!{sp}サ、サイフが{n}賽銭箱に!!{p}{end}
+EN: Whoa!! M-my wallet fell in the offering box!!{p}{end}
+
+## MGK01 g0 s0356
+JP: なにするんですか先生!?{n}全部、落としちゃったじゃないですか!!{p}{end}
+EN: What are you doing, sensei!? You made me drop the whole thing!!{p}{end}
+
+## MGK01 g0 s0357
+JP: チマチマしてちゃいかん!{n}賽銭をケチっているようじゃ{n}大成はせんぞ!{p}{end}
+EN: Don't be so stingy! Skimp on your offering and you'll never make it big!{p}{end}
+
+## MGK01 g0 s0358
+JP: 心配は要らん。{n}このあと俺が好きなだけおごってやる!{p}{end}
+EN: Don't worry. After this I'll treat ya to all ya can eat!{p}{end}
+
+## MGK01 g0 s0359
+JP: さ、いっしょに初ランニングだ!{n}運動!{sp}空腹!{sp}焼肉!{n}幸せの3段活用だ!{n}レッツGO!!{p}
+EN: Now, let's go for our first run of the year! Exercise! Hunger! Yakiniku! The three steps to happiness! Let's GO!!{p}
+
+## MGK01 g0 s0360
+JP: （新年早々、とんでもない人に{n}{sp}つかまっちゃったなあ。）{p}{end}
+EN: (Barely into the new year and I've been nabbed by a real piece of work.){p}{end}
+
+## MGK01 g0 s0361
+JP: （まあ1000円ぐらいしか{n}{sp}入ってなかったし、焼肉おごって{n}{sp}くれるならよしとするか……）{p}{end}
+EN: (Well, there was only about 1000 yen in it. If he's buying yakiniku, I guess I'll call it even...){p}{end}
+
+## MGK01 g0 s0362
+JP: 今年は運がいい……のかな!?{n}そういうことにしておこう。{p}{end}
+EN: Is my luck good this year...!? Let's just say it is.{p}{end}
+
+## MGK01 g0 s0363
+JP: ここが恋愛神社か。{p}
+EN: So this is the Love Shrine.{p}
+
+## MGK01 g0 s0364
+JP: 境内に誰かいるぞ?{n}あれは……流さんだ。{p}{end}
+EN: Someone's on the grounds? That's... Nagare-san.{p}{end}
+
+## MGK01 g0 s0365
+JP: 神妙な顔で手を合わせている。{n}初詣にしては気合が入ってるな……。{p}{end}
+EN: He's praying with his hands together and a solemn face. That's a lot of focus for a New Year's prayer...{p}{end}
+
+## MGK01 g0 s0366
+JP: おめでとうございます。{n}なにをお願いしてたんですか?{p}{end}
+EN: Happy New Year. What were you praying for?{p}{end}
+
+## MGK01 g0 s0367
+JP: …………安全祈願。{p}
+EN: ..........For safety.{p}
+
+## MGK01 g0 s0368
+JP: え?{sp}な、なんのですか?{p}{end}
+EN: Huh? S-safety from what?{p}{end}
+
+## MGK01 g0 s0369
+JP: …………これから……初泳ぎだ。{p}
+EN: ..........I'm about to... go for my first swim of the year.{p}
+
+## MGK01 g0 s0370
+JP: なるほど。{n}俗に言う寒中水泳ですか。{n}さすが水泳部、気合入ってますね!{p}
+EN: I see. A midwinter swim, huh. That's the swim club for you, so dedicated!{p}
+
+## MGK01 g0 s0371
+JP: それで風邪ひかないように{n}お願いしてたって訳ですね?{p}{end}
+EN: So you were praying not to catch a cold?{p}{end}
+
+## MGK01 g0 s0372
+JP: …………いや……遭難しないようにだ。{p}{end}
+EN: ..........No... Not to get lost at sea.{p}{end}
+
+## MGK01 g0 s0373
+JP: そ、ソウナン!?{p}{end}
+EN: L-lost at sea!?{p}{end}
+
+## MGK01 g0 s0374
+JP: …………八丈島まで……単独遠泳なんだ。{n}…………新学期までには…………{n}帰ってこれると…………思う。{p}{end}
+EN: ..........It's a solo swim... to Hachijojima. ..........I think I'll... be back... ..........by the new term.{p}{end}
+
+## MGK01 g0 s0375
+JP: …………また学校で会おう…………じゃ。{p}
+EN: ..........See you at school.......... Bye.{p}
+
+## MGK01 g0 s0376
+JP: 行ってしまった……。{n}だ、大丈夫かな?{p}
+EN: He's gone... I-is he gonna be OK?{p}
+
+## MGK01 g0 s0377
+JP: 俺もお参りしていくか。{n}えーっと、今年もいいことが{n}ありますように、と。{p}{end}
+EN: Guess I'll pray too. Um... Please let this year be a good one too.{p}{end}
+
+## MGK01 g0 s0378
+JP: おみやげは……、{p}{end}
+EN: And maybe a souvenir...{p}{end}
+
+## MGK01 g0 s0379
+JP: ワッ!!{p}{end}
+EN: BOO!!{p}{end}
+
+## MGK01 g0 s0380
+JP: 期待しないでくれ。{n}…………すまない…………じゃ。{p}
+EN: Don't count on it. ..........Sorry.......... Bye.{p}
+
+## MGK01 g0 s0381
+JP: ……!!{n}ああ、驚いた!!{p}
+EN: ...!! Wow, that scared me!!{p}
+
+## MGK01 g0 s0382
+JP: もしかして流さん、{n}俺と一緒に泳ぎたかったとか?{n}ま、まさかね……。{p}{end}
+EN: Could it be Nagare-san wanted me to swim with him? N-nah, no way...{p}{end}
+
+## MGK01 g0 s0383
+JP: 流さん、無事だといいけど……。{n}しょうがない、ついでに祈っておこう。{p}{end}
+EN: I hope Nagare-san makes it back OK... Oh well, I'll pray for him while I'm at it.{p}{end}
+
+## MGK01 g0 s0384
+JP: なんだかよくわからない初詣だったな。{n}とくに根拠はないけど、今年は{n}楽しい年になりそうな予感がした。{p}{end}
+EN: What a strange shrine visit. No real reason, but I had a feeling this year would be a fun one.{p}{end}
+
+## MGK01 g0 s0385
+JP: なんだか本堂の裏手が{n}みょうに騒がしいな……。{p}
+EN: Something's weirdly noisy behind the main hall...{p}
+
+## MGK01 g0 s0386
+JP: パシャッ!{sp}パシャッ!{p}
+EN: Click! Click!{p}
+
+## MGK01 g0 s0387
+JP: この音は……?{p}
+EN: That sound is...?{p}
+
+## MGK01 g0 s0388
+JP: はー、まいったまいった。{n}あんなに先客がいたなんて。{p}{end}
+EN: Phew, what a nightmare. Who knew so many people would beat me here.{p}{end}
+
+## MGK01 g0 s0389
+JP: あ、{v4:19}!{n}なんでここに……って、初詣よね。{p}{end}
+EN: Oh, {v4:19}! What're you doing here... Oh, your New Year's visit, right?{p}{end}
+
+## MGK01 g0 s0390
+JP: あけましておめでとう!{p}
+EN: Happy New Year!{p}
+
+## MGK01 g0 s0391
+JP: おめでとう、ラン。{n}何やってたの、カメラ持って。{p}{end}
+EN: Happy New Year, Ran. What were you doing with that camera?{p}{end}
+
+## MGK01 g0 s0392
+JP: あら、知らなかった?{n}この神社に奉られてる国宝級の美術品、{n}「黒勾玉」が30年ぶりに公開されたのよ。{p}{end}
+EN: Oh, you didn't know? The Black Magatama, a national treasure-class artwork kept at this shrine, is on display for the first time in 30 years.{p}{end}
+
+## MGK01 g0 s0393
+JP: 元旦の朝の、たった30秒だけしか{n}見せてもらえないの。{n}いい撮影ポイントをとるために{n}昨日、つまり去年から準備してたわけ。{p}
+EN: They only show it for 30 seconds on New Year's morning. To get a good spot, I've been setting up since yesterday. Last year, that is.{p}
+
+## MGK01 g0 s0394
+JP: そしたらさー。{n}思ったよりライバルが多くて。{n}結構ハードだったわ。{p}
+EN: And get this. There were way more rivals than I expected. It was pretty rough.{p}
+
+## MGK01 g0 s0395
+JP: へー。でもランって、{n}そんな国宝とかに興味あったんだ。{p}
+EN: Huh. I didn't know you were into national treasures, Ran.{p}
+
+## MGK01 g0 s0396
+JP: 実はそれほどでもないんだケドね。{n}でも、燃えるじゃない?{n}30年ぶりの30秒よ。{n}記者魂がうずくってもんだわ。{p}
+EN: Not that much, honestly. But doesn't it get you fired up? 30 seconds, after 30 years. My reporter's instincts are tingling.{p}
+
+## MGK01 g0 s0397
+JP: それにしても、なぜ晴れ着で?{p}{end}
+EN: Still, why the fancy kimono?{p}{end}
+
+## MGK01 g0 s0398
+JP: ああ、コレ?{n}ついでに初詣もすまそうと思って。{p}
+EN: Oh, this? I figured I'd make my New Year's visit while I was at it.{p}
+
+## MGK01 g0 s0399
+JP: アンタもお参りにきたんなら{n}いっしょに済ませちゃいましょ。{n}さ、はやく!{p}{end}
+EN: If you're here to pray too, let's get it done together. C'mon, hurry!{p}{end}
+
+## MGK01 g0 s0400
+JP: なんでそんなに急いでるの?{p}
+EN: Why are you in such a rush?{p}
+
+## MGK01 g0 s0401
+JP: このあと根性神社で{n}「神木ナダレ落とし」の儀式があるのよ。{n}急がないとまた{n}いいポイント取られちゃうわ!{p}{end}
+EN: Next there's the "Sacred Tree Avalanche" ritual at the Guts Shrine. If we don't hurry, someone'll grab the good spots again!{p}{end}
+
+## MGK01 g0 s0402
+JP: ……こうしてあわただしく{n}初詣は終わった。{n}そのあともなぜかランにつきあわされ{n}各地のイベントをハシゴした。{p}{end}
+EN: ...And so my shrine visit ended in a rush. Afterwards, for some reason, Ran dragged me to one event after another all over town.{p}{end}
+
+## MGK01 g0 s0403
+JP: 疲れまくったけれど、珍しい経験が{n}できたし、ま、いいか……。{n}今年もツイてるといいけどなあ。{p}{end}
+EN: I was worn out, but I got to see some rare stuff, so... oh well. Hope my luck holds this year.{p}{end}
+
+## MGK01 g0 s0404
+JP: 恋愛神社にやってきた。{p}
+EN: Here I am at the Love Shrine.{p}
+
+## MGK01 g0 s0405
+JP: ……なんだか人が少ないな。{n}不景気のせいだろうか。{p}
+EN: ...Not many people around. Must be the recession.{p}
+
+## MGK01 g0 s0406
+JP: えーっと、賽銭、賽銭……{n}……あ。{p}
+EN: Okay, offering, offering... ...Uh-oh.{p}
+
+## MGK01 g0 s0407
+JP: ポケットに穴があいてる……。{p}{end}
+EN: There's a hole in my pocket...{p}{end}
+
+## MGK01 g0 s0408
+JP: しかたない……{n}とりあえずお参りだけでも{n}済ませるか。{p}
+EN: Oh well... I'll at least go ahead and pray.{p}
+
+## MGK01 g0 s0409
+JP: えー……、{n}落とした財布が、見つかりますように。{n}……トホホ。{p}
+EN: Um... Please let me find the wallet I dropped. ...Sigh.{p}
+
+## MGK01 g0 s0410
+JP: 結局誰にも会わなかったし、{n}なんだか散々な元旦だなあ。{p}
+EN: I didn't run into anyone after all. What a lousy New Year's Day.{p}
+
+## MGK01 g0 s0411
+JP: 今年もあまりいいことはなさそうだ。{n}俺は一人寂しく自宅へと戻った……。{p}
+EN: This year doesn't look like it'll be much good either. I went home, all alone...{p}
+
+## MGK01 g0 s0412
+JP: やれやれ、もう3学期かぁ……。{n}早いなぁ。{p}
+EN: Man, third term already... That was fast.{p}
+
+## MGK01 g0 s0413
+JP: はぁい、{v0}{col:0}君{col:-}。{n}冬休みは楽しかった?{n}いつまでも正月ボケしてちゃダメよ。{p}{end}
+EN: Hiii, {v0}{col:0}-kun{col:-}. Did you enjoy winter break? You can't stay in holiday mode forever, you know.{p}{end}
+
+## MGK01 g0 s0414
+JP: 委員長……、{n}……そうか、{n}今日は3学期の初日だからね。{n}例のクラブ変更だろう?{p}{end}
+EN: Chairperson... Oh, right, today's the first day of third term. It's that club change thing, isn't it?{p}{end}
+
+## MGK01 g0 s0415
+JP: よく覚えてたわね。{n}あと3学期しかないから、{n}それほど大きく変わらないと思うけど、{n}クラブを変わるなら、最後のチャンスよ。{p}
+EN: Good, you remembered. There's only third term left, so it won't change much. But if you're switching clubs, this is your last chance.{p}
+
+## MGK01 g0 s0416
+JP: そうだなぁ。{n}クラブはいろいろやった方が、{n}バランスはよくなりそうだけどなぁ。{p}
+EN: Let's see. Trying a bunch of clubs would probably give me better balance...{p}
+
+## MGK01 g0 s0417
+JP: そうね。{n}どちらにせよ、目的をもって{n}かえた方がいいわよ。{n}どう?{sp}かわってみる?{p}
+EN: Right. Either way, it's best to switch with a goal in mind. So? Want to switch?{p}
+
+## MGK01 g0 s0420
+JP: うん。それもいいと思うわ。{n}それじゃ、私はこれで。{p}
+EN: Sure, I think that's fine too. Well then, I'll be going.{p}
+
+## MGK01 g0 s0446
+JP: やぁ、{v1}{col:0}君{col:-}じゃないか。{n}そうか、最後は野球部、いい選択だな。{p}{end}
+EN: Hey, if it isn't {v1}{col:0}-kun{col:-}. So you're finishing out with baseball. Good choice.{p}{end}
+
+## MGK01 g0 s0449
+JP: うん、じゃ来月の特別練習で。{n}じゃな。{p}
+EN: Right, see you at next month's special practice. Later.{p}
+
+## MGK01 g0 s0450
+JP: よぉ来たな、{v0}!{n}お前は最後には{n}バレー部に来るだろうと思っていた。{p}{end}
+EN: So you came, {v0}! I figured you'd end up in volleyball in the end.{p}{end}
+
+## MGK01 g0 s0453
+JP: うむ、それじゃ来月の特別練習で会おう。{n}気合を入れていけよ!{p}{end}
+EN: Right, see you at next month's special practice. Bring your fighting spirit!{p}{end}
+
+## MGK01 g0 s0457
+JP: それじゃ、来月の特別練習からに{n}なりますけど、よろしくお願いしますね。{p}
+EN: Well then, we'll start from next month's special practice. I look forward to working with you.{p}
+
+## MGK01 g0 s0458
+JP: よぉ来たな、{v1}。{n}この寒い時期に相撲部にくるとは{n}いい度胸だな。{n}がんばれよ。{p}
+EN: So you came, {v1}. Joining the sumo club in this cold weather takes nerve. Hang in there.{p}
+
+## MGK01 g0 s0459
+JP: 監督、よろしくお願いします。{p}{end}
+EN: Coach, I'm in your hands.{p}{end}
+
+## MGK01 g0 s0460
+JP: ふふっ、しかしまぁ、{n}慣れてないかもしれんが、{n}他の部員と同じように扱うからな、{n}特別扱いはせんぞ。{p}{end}
+EN: Heh. Still, you may not be used to it, but I'll treat you like the other members. No special treatment.{p}{end}
+
+## MGK01 g0 s0461
+JP: それじゃ、また来月の特別練習からだな。{n}気合い入れておけよ。{p}{end}
+EN: Well then, starting with next month's special practice. Get fired up for it.{p}{end}
+
+## MGK01 g0 s0462
+JP: あ、来たわね{v0}{col:0}クン{col:-}。{n}美術部へようこそ、{n}部員はいつでも大歓迎よ。{p}
+EN: Oh, there you are, {v0}{col:0}-kun{col:-}. Welcome to the art club. Members are always welcome.{p}
+
+## MGK01 g0 s0465
+JP: それじゃ、来月の特別練習からに{n}なるけど、よろしくね。{p}
+EN: Well then, we'll start from next month's special practice. Glad to have you.{p}
+
+## MGK01 g0 s0466
+JP: ……あ、{v0}{col:0}君{col:-}。{n}ああ、転部ですね。{n}よろしくお願いします。{p}
+EN: ...Oh, {v0}{col:0}-kun{col:-}. Ah, you're transferring in. I look forward to working with you.{p}
+
+## MGK01 g0 s0467
+JP: こちらこそよろしくな、{n}静音さん。{p}
+EN: Likewise, Shizune-san.{p}
+
+## MGK01 g0 s0469
+JP: ……それでは、来月の特別練習からに{n}なりますが、よろしくお願いします。{p}
+EN: ...Well then, we'll start from next month's special practice. I look forward to working with you.{p}
+
+## MGK01 g0 s0470
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}キミは最後にはここに来るって{n}信じてたわ!{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. I always believed you'd come here in the end!{p}
+
+## MGK01 g0 s0473
+JP: それじゃ、次は来月の特別練習ね。{n}よろしくお願いね。{p}{end}
+EN: Well then, next up is next month's special practice. Glad to have you.{p}{end}
+
+## MGK01 g0 s0475
+JP: よろしくお願いします、{n}ハカセ。{p}{end}
+EN: I'm in your hands, Hakase.{p}{end}
+
+## MGK01 g0 s0476
+JP: よしよし、まぁやってることは{n}他と同じだから、説明はいらんだろ。{n}特別扱いしないから、そのつもりでな。{p}
+EN: Good, good. Well, we do the same as everyone else, so you won't need an explanation. No special treatment, mind you.{p}
+
+## MGK01 g0 s0477
+JP: それじゃ、まぁ次は{n}来月の特別練習だな。{n}もうすぐ今年度も終わりだし、{n}ぼちぼちがんばるがいいさ。{p}
+EN: Well then, next up is next month's special practice. The school year's almost over, so just keep plugging away.{p}
+
+## MGK01 g1 s0000
+JP: 元旦の朝って、{n}普段とは違う雰囲気があるわね。{p}
+EN: New Year's morning has a different feel from usual, doesn't it?{p}
+
+## MGK01 g1 s0001
+JP: いつになく早起きもできたし、{n}なんだか妙に、{n}すがすがしい気分だわ。{p}{end}
+EN: I even managed to get up early for once. I feel weirdly refreshed.{p}{end}
+
+## MGK01 g1 s0002
+JP: 天気もすごくいいみたい。{n}よーし、初詣にでも出かけよっと。{p}
+EN: The weather looks great too. Okay, I think I'll go make my New Year's shrine visit.{p}
+
+## MGK01 g1 s0003
+JP: えーっと、近くにあるのは……{n}街外れの丘にある「根性神社」と、{n}学校の裏手の「恋愛神社」のふたつね。{p}{end}
+EN: Let's see, the ones nearby are... the Guts Shrine on the hill at the edge of town, and the Love Shrine behind the school.{p}{end}
+
+## MGK01 g1 s0006
+JP: よーし、根性神社にしよう。{p}
+EN: Okay, the Guts Shrine it is.{p}
+
+## MGK01 g1 s0007
+JP: ハア、ハア、ハア……。{p}
+EN: Huff, huff, huff...{p}
+
+## MGK01 g1 s0008
+JP: さすがに、ハア、ハア……、{n}石段300段を、い、いっきに登るのは{n}ツライわ……。{p}{end}
+EN: Running up, huff, huff... 300 stone steps in one go is r-really tough...{p}{end}
+
+## MGK01 g1 s0011
+JP: なんとなく……全体的に{n}強くなった気がする。{p}{end}
+EN: Somehow... I feel stronger all over.{p}{end}
+
+## MGK01 g1 s0014
+JP: これでいいわね。{n}ついでにもうひとつ、強化しておこうかな。{p}
+EN: That should do it. I might as well power up one more thing.{p}
+
+## MGK01 g1 s0026
+JP: （なんとなく……集中的に{n}{sp}強くなった気がするわ。）{p}{end}
+EN: (Somehow... I feel like one part of me got a lot stronger.){p}{end}
+
+## MGK01 g1 s0027
+JP: うん……なんだか{n}願い事が届いたような感じ!{n}神様!{sp}私、今年もガンバります!{p}
+EN: Yeah... I feel like my wish got through! Dear gods! I'll give it my all again this year!{p}
+
+## MGK01 g1 s0028
+JP: こうして私は{n}決意の初詣をすませた。{p}{end}
+EN: And so I made my New Year's visit, full of resolve.{p}{end}
+
+## MGK01 g1 s0029
+JP: よーし、恋愛神社にしよう。{p}
+EN: Okay, the Love Shrine it is.{p}
+
+## MGK01 g1 s0030
+JP: ひとりで行くのはさみしいけど、{n}誰かに会えるような気もするわ。{p}
+EN: Going alone is kind of lonely, but I have a feeling I'll run into someone.{p}
+
+## MGK01 g1 s0036
+JP: ま、とにかく出かけよっと。{p}
+EN: Well, anyway, off I go.{p}
+
+## MGK01 g1 s0040
+JP: おめでとう、バツ。{n}バツもこの神社で初詣?{p}
+EN: Happy New Year, Batsu. Making your New Year's visit here too?{p}
+
+## MGK01 g1 s0045
+JP: え?{sp}でも私、{n}モチなんかついたことないけど……。{p}
+EN: Huh? But I've never pounded mochi before...{p}
+
+## MGK01 g1 s0047
+JP: こうして私たちは{n}モチつき大会に参加した。{n}健闘のかいあってか、{n}3位に入賞することができた。{p}
+EN: And so we entered the mochi-pounding contest. Our hard work paid off, and we took third place.{p}
+
+## MGK01 g1 s0050
+JP: どっちって……{n}「しょうゆ一升」か「みりん一升」でしょ?{n}どっちでも、いいんだけど……。{p}{end}
+EN: Which one...? It's either a big jug of soy sauce or a big jug of mirin, right? Either's fine, really...{p}{end}
+
+## MGK01 g1 s0053
+JP: え、ええ。{n}（ていうか別に、みりんもそんなに{n}{sp}欲しくはないけど……）{p}
+EN: S-sure. (Not that I really want the mirin all that much either...){p}
+
+## MGK01 g1 s0055
+JP: なかなか景気のいい{n}1年にはなりそうね……。{p}{end}
+EN: Looks like this year's off to a pretty generous start...{p}{end}
+
+## MGK01 g1 s0057
+JP: あ!{sp}{v8:1}!{n}やっほー!{p}{end}
+EN: Ah! {v8:1}! Yoo-hoo!{p}{end}
+
+## MGK01 g1 s0062
+JP: ん?{sp}あ、ああそうね。{n}あ、その晴れ着、すごく決まってるよ。{p}{end}
+EN: Hm? Oh, r-right. Oh, and that kimono looks really great on you.{p}{end}
+
+## MGK01 g1 s0064
+JP: {v8:1}も、{n}恋愛神社に行くんでしょ?{n}一緒にお参りしよっ!{p}{end}
+EN: {v8:1}, you're going to the Love Shrine too, right? Let's go pray together!{p}{end}
+
+## MGK01 g1 s0075
+JP: うん、いいけど……大丈夫なの?{n}いまさっきお願いしたばかりで{n}効果あるのかな?{p}
+EN: Sure, but... are you sure? You only just made that wish. Will it still work?{p}
+
+## MGK01 g1 s0082
+JP: {v7:2}もこれから初詣かい?{n}じゃあ一緒に行こう。{p}
+EN: {v7:2}, are you on your way to the shrine too? Then let's go together.{p}
+
+## MGK01 g1 s0086
+JP: コマまわしか……なつかしいね。{p}
+EN: Spinning tops... that brings back memories.{p}
+
+## MGK01 g1 s0087
+JP: {v7:2}。{n}ああいう正月ならではの遊びって{n}最近減ってきてると思わないか?{p}
+EN: {v7:2}. Don't you think games you only see at New Year's, like that one, are getting rarer?{p}
+
+## MGK01 g1 s0093
+JP: 恭介もけっこう子供っぽいところが{n}あるんだなあ。{n}今年もいろんな面白いことが{n}起こりそうな予感がするわ。{p}{end}
+EN: Who knew Kyosuke had such a kid side to him? I have a feeling all kinds of fun things will happen this year too.{p}{end}
+
+## MGK01 g1 s0095
+JP: はぁい、将馬!{n}おめでとーっ!{p}
+EN: Hiii, Shoma! Happy New Yeeear!{p}
+
+## MGK01 g1 s0097
+JP: あれ?{sp}その手に持ってるのは{n}絵馬ね?{p}
+EN: Huh? Is that an ema wish plaque in your hand?{p}
+
+## MGK01 g1 s0099
+JP: どんな願い事を書いたの?{n}わかった、「背が伸びますように」でしょ?{p}
+EN: What did you wish for? I know, "Please let me grow taller," right?{p}
+
+## MGK01 g1 s0101
+JP: 見せてよ。{n}どれどれ……。{p}
+EN: Let me see. Let's see here...{p}
+
+## MGK01 g1 s0105
+JP: ところで将馬、もう参拝は済んだの?{p}
+EN: By the way, Shoma, have you prayed yet?{p}
+
+## MGK01 g1 s0107
+JP: （どうやら絵馬を書くのに夢中だった{n}{sp}ようね……）{p}
+EN: (Looks like he got so caught up writing his ema he forgot...){p}
+
+## MGK01 g1 s0114
+JP: そんなこんなで、恋愛神社をあとにした。{n}なんだか今年は、いいことが起こりそうな{n}予感がするわ。{p}
+EN: And so I left the Love Shrine. I have a feeling something good will happen this year.{p}
+
+## MGK01 g1 s0115
+JP: この先が恋愛神社ね。{p}{end}
+EN: The Love Shrine's just up ahead.{p}{end}
+
+## MGK01 g1 s0116
+JP: 何人かの参拝客が歩いている。{n}あ、むこうに夏がいるわ。{p}
+EN: A few visitors are walking around. Oh, there's Natsu over there.{p}
+
+## MGK01 g1 s0118
+JP: おめでとう、{v7:4}。{n}初詣?{sp}ずいぶん早起きじゃない。{p}{end}
+EN: Happy New Year, {v7:4}. Here to pray? You're up awfully early.{p}{end}
+
+## MGK01 g1 s0121
+JP: へえ、おせち料理かあ。{n}5段重ねとは豪勢ね。{p}{end}
+EN: Wow, osechi. Five tiers, how fancy.{p}{end}
+
+## MGK01 g1 s0122
+JP: 実は私、こういうまともな料理って{n}あまり縁がないんだ。{n}よかったら、ちょっと見せてよ。{p}
+EN: Honestly, I hardly ever get proper food like this. Mind if I take a peek?{p}
+
+## MGK01 g1 s0124
+JP: 別に食べさせてって{n}いってるわけじゃないわよ。{n}見せてくれるくらい、いいじゃない。{p}
+EN: I'm not asking you to let me eat it. What's the harm in letting me look?{p}
+
+## MGK01 g1 s0126
+JP: 夏の好物って?{n}ん～……何だろ?{p}{end}
+EN: Your favorite? Hmm... What could it be?{p}{end}
+
+## MGK01 g1 s0130
+JP: 悪くはないんじゃない、べつに。{n}私もクリキントンばっかり{n}お腹いっぱい食べたいって思うとき{n}あるもんね。{p}{end}
+EN: Nothing wrong with that. Sometimes I want to stuff myself with nothing but kurikinton too.{p}{end}
+
+## MGK01 g1 s0132
+JP: さすがに5段は{n}食べられないと思うけどさ。{p}
+EN: Though I don't think I could eat five tiers of it.{p}
+
+## MGK01 g1 s0135
+JP: そのあと2人でいっしょに初詣をすませ、{n}すこしクリキントンを分けてもらった。{n}おいしかった……。{p}{end}
+EN: Afterwards we made our visit together, and she shared a little kurikinton with me. It was delicious...{p}{end}
+
+## MGK01 g1 s0136
+JP: 今年はいいことがありそう。{p}
+EN: This year's gonna be a good one.{p}
+
+## MGK01 g1 s0138
+JP: あれは……ロベルトだわ。{n}小気味よくリフティングをしている。{p}{end}
+EN: That's... Roberto. He's juggling the ball with a nice rhythm.{p}{end}
+
+## MGK01 g1 s0139
+JP: ロベルト!{n}新年おめでとう。{p}{end}
+EN: Roberto! Happy New Year.{p}{end}
+
+## MGK01 g1 s0140
+JP: {v7:5}か。{n}今年もよろしくな。{p}{end}
+EN: {v7:5}, huh. Here's to another year.{p}{end}
+
+## MGK01 g1 s0141
+JP: こんなところでサッカー?{p}{end}
+EN: Soccer, here of all places?{p}{end}
+
+## MGK01 g1 s0143
+JP: これから初詣にいくんだけど{n}ロベルトも一緒にお参りしない?{p}
+EN: I'm about to go pray. Want to come with me, Roberto?{p}
+
+## MGK01 g1 s0148
+JP: あれは「破魔矢」よ。{n}魔除けのお守りみたいなものかな?{p}
+EN: That's a hamaya, a "demon-breaking arrow." It's sort of a charm against evil.{p}
+
+## MGK01 g1 s0149
+JP: まあ、あんなので{n}本当に災難がふせげるなんて{n}思わないけどね。{p}
+EN: Not that I think something like that can really ward off bad luck.{p}
+
+## MGK01 g1 s0153
+JP: ふーん、そういうものなのね。{p}{end}
+EN: Hmm, so that's how it works.{p}{end}
+
+## MGK01 g1 s0157
+JP: 今年の私、{n}ラッキーづくしになりそうな予感。{p}{end}
+EN: I have a feeling this year will be nothing but good luck for me.{p}{end}
+
+## MGK01 g1 s0159
+JP: はーい、ロイ!{n}新年おめでとう!{p}{end}
+EN: Hiii, Roy! Happy New Year!{p}{end}
+
+## MGK01 g1 s0161
+JP: とくに用事がないんだったら、{n}これから一緒に初詣に行かない?{p}{end}
+EN: If you're not busy, want to make a New Year's shrine visit with me?{p}{end}
+
+## MGK01 g1 s0166
+JP: まあ、これはひとつの{n}お祭りみたいなモノだからね。{p}
+EN: Well, it's kind of like a festival.{p}
+
+## MGK01 g1 s0167
+JP: この「おめでたい」行事が{n}毎年かならずやってくるのは{n}けっこう素晴らしい事だと思うわ。{p}
+EN: I think it's pretty wonderful that this "happy" event comes around every single year.{p}
+
+## MGK01 g1 s0173
+JP: ううん、これは賽銭箱といって{n}自分で好きなぶんだけ善意でお金を{n}入れるのよ。{p}{end}
+EN: No, this is called an offering box. You put in as much money as you like, out of goodwill.{p}{end}
+
+## MGK01 g1 s0175
+JP: ちょっと違うけど、まあそんなものね。{p}{end}
+EN: Not quite, but something like that.{p}{end}
+
+## MGK01 g1 s0177
+JP: いつもの調子でまくしたてるけど、{n}けっこう初詣は気に入ってるみたい。{n}その証拠に、次々と質問を{n}投げかけてくる。{p}{end}
+EN: He rattles on like always, but he seems to like the shrine visit quite a bit. The proof is how he keeps firing off questions.{p}{end}
+
+## MGK01 g1 s0178
+JP: 騒々しくも新鮮な初詣を終えて{n}家に戻った。{n}今年はいろんな楽しい事が起こりそう。{p}{end}
+EN: After a noisy but refreshing shrine visit, I went home. I bet lots of fun things will happen this year.{p}{end}
+
+## MGK01 g1 s0182
+JP: ……なんだ、ティファニーじゃない。{n}正月そうそう、驚かさないでよ。{p}
+EN: ...Oh, it's just Tiffany. Don't scare me like that first thing in the new year.{p}
+
+## MGK01 g1 s0184
+JP: （……もしかして「賀正」のこと?）{p}
+EN: (...Does she mean "Gasho," the New Year's greeting?){p}
+
+## MGK01 g1 s0185
+JP: それはそうとティファニー、{n}これから初詣にいくんだけど{n}一緒に行く?{p}{end}
+EN: Anyway, Tiffany, I'm off for hatsumode. Want to come?{p}{end}
+
+## MGK01 g1 s0188
+JP: はしゃぐ金髪美人をつれて境内に入ると{n}ほかの参拝客がいっせいにこちらを見た。{n}そうとう目立ってるわ、私たち……。{p}{end}
+EN: When I walked onto the grounds with an excited blonde beauty, every visitor turned to look. We really stand out...{p}{end}
+
+## MGK01 g1 s0193
+JP: ……あー、良かった。{n}（って、何がよ……）{p}
+EN: ...Oh, good. (Wait, good about what...?){p}
+
+## MGK01 g1 s0194
+JP: ユーもノー・ブラジャーですカ?{n}ムネの揺れがいつもより{n}激しい気がしまース。{p}{end}
+EN: Are you no-bra too? Your chest is bouncing more than usual, I think.{p}{end}
+
+## MGK01 g1 s0195
+JP: バ、バカ!{n}私は晴れ着じゃないんだから{n}ブラはつけてるわよっ!!{p}{end}
+EN: Y-you idiot! I'm not in a kimono, so of course I'm wearing a bra!!{p}{end}
+
+## MGK01 g1 s0197
+JP: なんだか今年も{n}オイシイことがありそう。{p}{end}
+EN: I've got a feeling this year will have some sweet perks too.{p}{end}
+
+## MGK01 g1 s0198
+JP: 恋愛神社はここね。{n}あれ?{p}
+EN: So this is the Love Shrine. Huh?{p}
+
+## MGK01 g1 s0199
+JP: 鳥居の下にいるのは、{n}ボーマンだわ。{p}{end}
+EN: That's Boman under the torii.{p}{end}
+
+## MGK01 g1 s0200
+JP: はぁい、ボーマン!{p}
+EN: Hiii, Boman!{p}
+
+## MGK01 g1 s0201
+JP: やあ、{v4:8}。{n}新年の空気はすがすがしいですね。{n}今年もどうか仲良くしてださい。{p}
+EN: Hello, {v4:8}. The air of the new year is so refreshing. I hope we will be good friends this year as well.{p}
+
+## MGK01 g1 s0202
+JP: あ、こちらこそ。{n}ところでボーマン、なにをやってるの?{n}ペンキの缶なんか持って。{p}{end}
+EN: Oh, same here. By the way, Boman, what are you doing with that paint can?{p}{end}
+
+## MGK01 g1 s0206
+JP: へえ、さすがはボーマン。{n}宗教の違いも乗り越えた{n}立派な心がけね。{n}……ん?{p}{end}
+EN: Wow, that's Boman for you. Rising above religious differences, how admirable. ...Hm?{p}{end}
+
+## MGK01 g1 s0207
+JP: （あ……思い出したわ!{n}{sp}あの塗装のはげぐあい、たしかこの前{n}{sp}ここでロイとバツが闘ったときに{n}{sp}ツイスターアッパーでついた傷……）{p}{end}
+EN: (Oh... I remember now! That peeling paint... it's the damage from the Twister Upper when Roy and Batsu fought here the other day...){p}{end}
+
+## MGK01 g1 s0212
+JP: じゃ、私はちょっと{n}お参りしてくるわ……。{p}
+EN: Well, I'm gonna go pray...{p}
+
+## MGK01 g1 s0214
+JP: （やっぱり、黙っとこ……）{p}
+EN: (Yeah, better keep quiet...){p}
+
+## MGK01 g1 s0215
+JP: お参りをすませた私は{n}恋愛神社をあとにして家に帰った。{n}ボーマンはまだ嬉しそうに{n}鳥居を直していた。{p}{end}
+EN: After praying, I left the Love Shrine and went home. Boman was still happily fixing the torii.{p}{end}
+
+## MGK01 g1 s0216
+JP: ……予想通りボーマンに会えたし、{n}今年の私はツイてるって事にしておこう。{p}{end}
+EN: ...I ran into Boman just like I expected, so let's say I'm lucky this year.{p}{end}
+
+## MGK01 g1 s0218
+JP: いまどき珍しいわね。{p}{end}
+EN: You don't see that much these days.{p}{end}
+
+## MGK01 g1 s0220
+JP: あ、エッジじゃない。{n}明けましておめでとう。{p}{end}
+EN: Oh, it's Edge. Happy New Year.{p}{end}
+
+## MGK01 g1 s0222
+JP: エッジもお参りにきたんでしょ?{p}
+EN: You came to pray too, right, Edge?{p}
+
+## MGK01 g1 s0224
+JP: へえ、器用なんだね。{p}{end}
+EN: Wow, you're pretty handy.{p}{end}
+
+## MGK01 g1 s0229
+JP: ……なんて危ないヤツ。{n}あーあ、ほかの子供たち、泣いちゃったわ。{p}{end}
+EN: ...What a dangerous guy. Oh no, now the other kids are crying.{p}{end}
+
+## MGK01 g1 s0235
+JP: アキラー!{sp}あけましておめで……{n}え?{p}
+EN: Akiraaa! Happy New Ye... Huh?{p}
+
+## MGK01 g1 s0236
+JP: あ、逃げた!?{n}ちょ、ちょっと待って!{p}
+EN: Huh, running away!? W-wait a sec!{p}
+
+## MGK01 g1 s0238
+JP: ハア、ハア、ハア……。{n}どうして、逃げるのよ!{p}
+EN: Huff, huff, huff... Why'd you run away!?{p}
+
+## MGK01 g1 s0241
+JP: どこもおかしくなんかないわよ。{n}その晴れ着、すごく似合ってると思うけど。{p}{end}
+EN: There's nothing weird about it. I think that kimono looks great on you.{p}{end}
+
+## MGK01 g1 s0244
+JP: （そっちのほうが{n}{sp}恥ずかしいと思うけど……）{p}
+EN: (I think that's way more embarrassing...){p}
+
+## MGK01 g1 s0245
+JP: まあここで話しててもなんだし、{n}とにかくお参りしましょう。{p}
+EN: Well, no point standing here talking. Let's just go pray.{p}
+
+## MGK01 g1 s0249
+JP: 途中、草むらに隠しておいたらしい{n}ヘルメットを拾い、かぶっていった。{n}……絶対、あの姿のほうが恥ずかしいわ。{p}{end}
+EN: On the way, she picked up the helmet she'd apparently hidden in the grass and put it on. ...That look is way more embarrassing, I swear.{p}{end}
+
+## MGK01 g1 s0250
+JP: でもアキラの晴れ着姿、{n}けっこう可愛かったな。{n}今年はいいことが起こりそうね。{p}
+EN: But Akira in a kimono was pretty cute. I think good things will happen this year.{p}
+
+## MGK01 g1 s0252
+JP: おおぅ!{sp}{v3:11}{col:0}さん{col:-}!{n}謹賀新年じゃあ!{p}
+EN: Ohhh! {v3:11}{col:0}-san{col:-}! A happy New Year to ya!{p}
+
+## MGK01 g1 s0254
+JP: これからお参りするところなの。{n}いっしょに行きましょ。{p}
+EN: I'm just about to go pray. Let's go together.{p}
+
+## MGK01 g1 s0257
+JP: 私はえーっと、「中吉」か。{n}まあまあってとこかな。{p}
+EN: Let's see, mine is... "Middle Blessing." Not bad, I guess.{p}
+
+## MGK01 g1 s0260
+JP: ふふ、良かったみたいね。{n}なになに……えっ!?{n}「大凶」ォ!?{p}
+EN: Hehe, looks like you did well. Let's see... Wha!? "Great Curse"!?{p}
+
+## MGK01 g1 s0261
+JP: メチャメチャ最低じゃない!{n}なんで嬉しそうなの?{p}{end}
+EN: That's the worst there is! Why do you look so happy?{p}{end}
+
+## MGK01 g1 s0265
+JP: ……それは、すごいかも。{p}{end}
+EN: ...That might actually be amazing.{p}{end}
+
+## MGK01 g1 s0266
+JP: たしかに「大凶」なんて{n}めったに見れないもんね。{p}{end}
+EN: You really don't see a "Great Curse" very often.{p}{end}
+
+## MGK01 g1 s0269
+JP: 恋愛神社の境内は{n}けっこうな人出ね。{p}{end}
+EN: The Love Shrine grounds are pretty crowded.{p}{end}
+
+## MGK01 g1 s0283
+JP: たまにはこんな正月もいいかな。{n}先生の子供時代のことも聞けたし。{n}今年はいいことがありそう……。{p}{end}
+EN: A New Year like this is nice once in a while. I even got to hear about when sensei was a kid. This year's gonna be a good one...{p}{end}
+
+## MGK01 g1 s0285
+JP: あけましておめでとう、{v1}{col:0}さん{col:-}。{p}
+EN: Happy New Year, {v1}{col:0}-san{col:-}.{p}
+
+## MGK01 g1 s0292
+JP: （そうか…先生も年頃の女性だもんね。）{p}
+EN: (I see... She's a woman of marrying age, after all.){p}
+
+## MGK01 g1 s0298
+JP: （先生をお嫁さんにする人は{n}{sp}うらやましいわね……）{p}{end}
+EN: (I envy whoever gets to marry her...){p}{end}
+
+## MGK01 g1 s0299
+JP: （でも、家事洗濯は苦手らしいから{n}{sp}そういうのが得意じゃないと{n}{sp}つらいかも……）{p}
+EN: (Then again, I hear she's bad at housework and laundry. They'd better be good at that stuff, or it could be rough...){p}
+
+## MGK01 g1 s0303
+JP: 響子先生と楽しく雑談しながら{n}神社をあとにした。{n}今年はいいことがありそう……。{p}{end}
+EN: I left the shrine chatting happily with Kyoko-sensei. Something tells me this year will be a good one...{p}{end}
+
+## MGK01 g1 s0304
+JP: 元旦だというのに、{n}この神社、妙に静かね……?{p}
+EN: It's New Year's Day, but this shrine is weirdly quiet...?{p}
+
+## MGK01 g1 s0305
+JP: なにか……ただならぬ気配を感じるわ。{p}{end}
+EN: Something's off... I can feel it.{p}{end}
+
+## MGK01 g1 s0308
+JP: ひ、雹クン!{n}ああ、驚いた……。{p}{end}
+EN: H-Hyo-kun! Wow, you scared me...{p}{end}
+
+## MGK01 g1 s0310
+JP: （さっきまでの鋭い気配は{n}{sp}やはり雹クンだったみたいね。）{p}
+EN: (So that sharp presence from before really was Hyo-kun.){p}
+
+## MGK01 g1 s0314
+JP: （なるほど……ほかの参拝客は{n}{sp}雹クンの姿をみて{n}{sp}お参りしにくかったのか……）{p}{end}
+EN: (I see... The other visitors saw Hyo-kun here and didn't dare come pray...){p}{end}
+
+## MGK01 g1 s0318
+JP: いつもにもまして{n}雹クンの目は鋭かったな。{n}あれこそ本当の「新年の決意」って感じね。{p}{end}
+EN: Hyo-kun's eyes were even sharper than usual. Now that's what I call a real New Year's resolution.{p}{end}
+
+## MGK01 g1 s0319
+JP: 出会いの予感も当たったし、{n}今年も幸先いいわ……たぶん。{p}{end}
+EN: My hunch about running into someone was right, so this year's off to a good start... probably.{p}{end}
+
+## MGK01 g1 s0336
+JP: （えっ?{sp}もしかしたら{n}{sp}手持ちの小銭がなかったから、とか?）{p}
+EN: (Huh? Maybe he just didn't have any small change on him?){p}
+
+## MGK01 g1 s0337
+JP: （いえ、違うわ!{sp}醍醐先輩の男気が、{n}{sp}あの一万円札を出させたのよ!{n}{sp}そうに決まってるわ!）{p}
+EN: (No, that's not it! Daigo-senpai's manly spirit made him give that 10,000-yen bill! It has to be!){p}
+
+## MGK01 g1 s0339
+JP: やけに醍醐先輩の背中が大きく見える。{n}重いなにかを背負った、{n}むせびなくような背中……すてきだわ!{p}
+EN: Daigo-senpai's back looked huge. A back carrying something heavy, a back that seemed to weep... How wonderful!{p}
+
+## MGK01 g1 s0340
+JP: あの背中を見れただけでも{n}ラッキーって感じ。{n}今年も、ビシッとしまった年になりそう。{p}{end}
+EN: Just getting to see that back was lucky. This year's shaping up to be a sharp, no-nonsense one.{p}{end}
+
+## MGK01 g1 s0341
+JP: ハハハハハハ!{n}アーッハッハッハ!{p}
+EN: Hahahahaha! Ah-hahaha!{p}
+
+## MGK01 g1 s0353
+JP: （えーっと、50円でいいかナ……）{p}
+EN: (Um, 50 yen should do...){p}
+
+## MGK01 g1 s0355
+JP: きゃっ!!{sp}サ、サイフが{n}賽銭箱に!!{p}
+EN: Eek!! M-my wallet fell in the offering box!!{p}
+
+## MGK01 g1 s0360
+JP: （新年早々、とんでもない人に{n}{sp}つかまっちゃったわ。）{p}
+EN: (Barely into the new year and I've been nabbed by a real piece of work.){p}
+
+## MGK01 g1 s0363
+JP: ここが恋愛神社ね。{p}
+EN: So this is the Love Shrine.{p}
+
+## MGK01 g1 s0364
+JP: 境内に誰かいる?{n}あれは……流先輩だ。{p}
+EN: Someone's on the grounds? That's... Nagare-senpai.{p}
+
+## MGK01 g1 s0365
+JP: 神妙な顔で手を合わせている。{n}初詣にしては気合が入ってるわね……。{p}
+EN: He's praying with his hands together and a solemn face. That's a lot of focus for a New Year's prayer...{p}
+
+## MGK01 g1 s0376
+JP: 行っちゃった……。{n}だ、大丈夫かしら?{p}
+EN: He's gone... I-is he gonna be OK?{p}
+
+## MGK01 g1 s0377
+JP: 私もお参りしていこっと。{n}えーっと、今年もいいことが{n}ありますように、と。{p}
+EN: Guess I'll pray too. Um... Please let this year be a good one too.{p}
+
+## MGK01 g1 s0378
+JP: おみやげは、{p}{end}
+EN: And maybe a souvenir...{p}{end}
+
+## MGK01 g1 s0382
+JP: もしかして流先輩、{n}私と一緒に泳ぎたかったとか?{n}ま、まさかね……。{p}{end}
+EN: Could it be Nagare-senpai wanted me to swim with him? N-nah, no way...{p}{end}
+
+## MGK01 g1 s0383
+JP: 流先輩、無事だといいけど……。{n}しょうがない、ついでに祈っとこ。{p}{end}
+EN: I hope Nagare-senpai makes it back OK... Oh well, I'll pray for him while I'm at it.{p}{end}
+
+## MGK01 g1 s0384
+JP: なんだかよくわからない初詣だったわ。{n}とくに根拠はないけど、今年は{n}楽しい年になりそうな予感がした。{p}{end}
+EN: What a strange shrine visit. No real reason, but I had a feeling this year would be a fun one.{p}{end}
+
+## MGK01 g1 s0385
+JP: なんだか本堂の裏手が{n}みょうに騒がしいわね……。{p}{end}
+EN: Something's weirdly noisy behind the main hall...{p}{end}
+
+## MGK01 g1 s0389
+JP: あ、{v8:19}!{n}なんでここに……って、初詣よね。{p}{end}
+EN: Oh, {v8:19}! What're you doing here... Oh, your New Year's visit, right?{p}{end}
+
+## MGK01 g1 s0391
+JP: おめでとう、ランちゃん。{n}何やってたの、カメラ持って。{p}
+EN: Happy New Year, Ran-chan. What were you doing with that camera?{p}
+
+## MGK01 g1 s0395
+JP: へー。でもランちゃんって、{n}そんな国宝とかに興味あったんだ。{p}{end}
+EN: Huh. I didn't know you were into national treasures, Ran-chan.{p}{end}
+
+## MGK01 g1 s0399
+JP: {v8:19}もお参りにきたんなら{n}いっしょに済ませちゃいましょ。{n}さ、はやく!{p}
+EN: If you're here to pray too, {v8:19}, let's get it done together. C'mon, hurry!{p}
+
+## MGK01 g1 s0402
+JP: ……こうしてあわただしく{n}初詣は終わった。{n}そのあともなぜかランちゃんにつきあわされ{n}各地のイベントをハシゴした。{p}
+EN: ...And so my shrine visit ended in a rush. Afterwards, for some reason, Ran-chan dragged me to one event after another all over town.{p}
+
+## MGK01 g1 s0403
+JP: 疲れまくったけれど、珍しい経験が{n}できたし、ま、いいか……。{n}今年もツイてるといいけど。{p}{end}
+EN: I was worn out, but I got to see some rare stuff, so... oh well. Hope my luck holds this year.{p}{end}
+
+## MGK01 g1 s0405
+JP: ……なんだか人が少ないわ。{n}不景気のせいかな。{p}
+EN: ...Not many people around. Must be the recession.{p}
+
+## MGK01 g1 s0408
+JP: しかたない……{n}とりあえずお参りだけでも{n}済ませよう。{p}
+EN: Oh well... I'll at least go ahead and pray.{p}
+
+## MGK01 g1 s0410
+JP: 結局誰にも会わなかったし、{n}なんだか散々な元旦だったわ。{p}{end}
+EN: I didn't run into anyone after all. What a lousy New Year's Day.{p}{end}
+
+## MGK01 g1 s0411
+JP: 今年もあまりいいことはなさそうね。{n}私は一人寂しく自宅へと戻った……。{p}
+EN: This year doesn't look like it'll be much good either. I went home, all alone...{p}
+
+## MGK01 g1 s0412
+JP: あ～あ、もう3学期ね……。{n}時間が経つのって早いわよねぇ。{p}
+EN: Aww, third term already... Time sure flies, huh.{p}
+
+## MGK01 g1 s0413
+JP: はぁい、{v1}{col:0}さん{col:-}。{n}冬休みは楽しかった?{n}いつまでも正月ボケしてちゃダメよ。{p}
+EN: Hiii, {v1}{col:0}-san{col:-}. Did you enjoy winter break? You can't stay in holiday mode forever, you know.{p}
+
+## MGK01 g1 s0414
+JP: 委員長……、{n}……あ、そういえば、{n}今日は3学期の初日だったわね。{n}例のクラブ変更でしょう?{p}{end}
+EN: Chairperson... Oh, that's right, today's the first day of third term. It's that club change thing, isn't it?{p}{end}
+
+## MGK01 g1 s0416
+JP: そうねぇ。{n}クラブはいろいろやった方が、{n}バランスはよくなりそうだと{n}思うけど……。{p}{end}
+EN: Hmm. Trying a bunch of clubs would probably give me better balance, I think...{p}{end}
+
+## MGK01 g1 s0419
+JP: う～ん、いいわ、やめておく。{n}私は今のクラブのままでいいわ。{p}{end}
+EN: Hmm, no, I'll pass. I'm fine staying in my current club.{p}{end}
+
+## MGK01 g1 s0446
+JP: やぁ、{v1}{col:0}さん{col:-}じゃないか。{n}そうか、最後は野球部、いい選択だな。{p}
+EN: Hey, if it isn't {v1}{col:0}-san{col:-}. So you're finishing out with baseball. Good choice.{p}
+
+## MGK01 g1 s0458
+JP: よぉ来たな、{v1}。{n}この寒い時期に相撲部にくるとは{n}いい度胸だな。{n}女だからといって特別扱いはせんからな。{p}{end}
+EN: So you came, {v1}. Joining the sumo club in this cold weather takes nerve. Being a girl won't get you special treatment.{p}{end}
+
+## MGK01 g1 s0459
+JP: 佐渡先生、よろしくお願いします。{p}{end}
+EN: Sado-sensei, I'm in your hands.{p}{end}
+
+## MGK01 g1 s0462
+JP: あ、来たわね{v1}{col:0}ちゃん{col:-}。{n}美術部へようこそ、{n}部員はいつでも大歓迎よ。{p}{end}
+EN: Oh, there you are, {v1}{col:0}-chan{col:-}. Welcome to the art club. Members are always welcome.{p}{end}
+
+## MGK01 g1 s0466
+JP: ……あ、{v1}{col:0}さん{col:-}。{n}ああ、転部ですね。{n}よろしくお願いします。{p}{end}
+EN: ...Oh, {v1}{col:0}-san{col:-}. Ah, you're transferring in. I look forward to working with you.{p}{end}
+
+## MGK01 g1 s0470
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}キミは最後にはここに来るって{n}信じてたわ!{p}
+EN: Hi, {v1}{col:0}-san{col:-}. I always believed you'd come here in the end!{p}
+

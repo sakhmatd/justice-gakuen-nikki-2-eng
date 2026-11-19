@@ -1,0 +1,50 @@
+JP: 「'９９年度試験」成績表
+EN: '99 Exam Report Card
+
+JP: 試験結果
+EN: Exam Results
+
+JP: 試験
+EN: Exam
+
+JP: 最高記録
+EN: Best Record
+
+JP: 判定
+EN: Result
+
+JP: 記録
+EN: Record
+
+JP: 評価
+EN: Grade
+
+JP: １学期期末試験
+EN: 1st Term Final
+
+JP: ２学期期末試験
+EN: 2nd Term Final
+
+JP: 学年末試験
+EN: Year-End Exam
+
+JP: のこりTIME
+EN: TIME|LEFT
+
+JP: 回
+EN: times
+
+JP: ボタン-戻る
+EN: Back
+
+JP: 合格
+EN: PASSED
+
+JP: 不合格
+EN: FAILED
+
+JP: 合格（小）
+EN: PASS
+
+JP: 不合格（小）
+EN: FAIL

@@ -1,0 +1,1900 @@
+## MGG09G g0 s0000
+JP: 中庭には露店がたちならび、{n}学園中が普段にない活気に包まれている。{n}そう、今日は外道高校の学園祭なのだ!{p}{end}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is the Gedo High school festival!{p}{end}
+
+## MGG09G g0 s0001
+JP: 色々と準備は大変だったけど、{n}この独特の充実感と達成感は、やっぱり{n}学園祭でないと味わえないんだよな。{p}
+EN: Getting ready was a ton of work, but this special sense of fulfillment and accomplishment is something only a school festival gives you.{p}
+
+## MGG09G g0 s0002
+JP: いよいよ始まりやがったなァ。{n}なんだか、体がウズウズするぜ。{p}{end}
+EN: So it's finally startin'. Man, my whole body's itchin' to go.{p}{end}
+
+## MGG09G g0 s0003
+JP: エッジはどこに遊びに行くつもり{n}なんだ?{p}{end}
+EN: Edge, where are you planning to go?{p}{end}
+
+## MGG09G g0 s0004
+JP: 別にこれといって決めてねぇけどよ、{n}学園祭ではいつも{col:0}お化け屋敷{col:-}に{n}行ってんだ。{p}
+EN: Haven't really decided, but at festivals I always hit the {col:0}haunted house{col:-}.{p}
+
+## MGG09G g0 s0005
+JP: 怖がりなくせに、好きだねぇ。{p}{end}
+EN: For a scaredy-cat, you sure love those.{p}{end}
+
+## MGG09G g0 s0006
+JP: よう、おぬしら。{n}そんな所で何をだべっとるんじゃ?{p}
+EN: Hey there, you lot. What're ya jawin' about over there?{p}
+
+## MGG09G g0 s0007
+JP: いよぉ、岩。{n}そういえばお前、何かやるんだったよな。{p}{end}
+EN: Yo, Gan. Come to think of it, you're doin' somethin' today, right?{p}{end}
+
+## MGG09G g0 s0008
+JP: おう、バツに「すかうと」されてのう。{n}{col:0}腕相撲大会{col:-}に出ることになっとるんじゃ。{n}{v3:11}、{n}おぬしも挑戦にくるんじゃぞ!{p}
+EN: Yup, Batsu "scouted" me. I'm in the {col:0}arm wrestling tournament{col:-}. {v3:11}, you come take a crack at it too!{p}
+
+## MGG09G g0 s0009
+JP: ああ、そうさせてもらうよ。{n}……そういえば、アキラを見ないけど{n}どうしたんだ?{p}
+EN: Yeah, I'll do that. ...By the way, I haven't seen Akira. Where is she?{p}
+
+## MGG09G g0 s0010
+JP: ここにいるわよ。{p}{end}
+EN: I'm right here.{p}{end}
+
+## MGG09G g0 s0013
+JP: やだ、みんなどうしたの?{n}変な顔して。{p}
+EN: Geez, what's with everyone? You're all making weird faces.{p}
+
+## MGG09G g0 s0014
+JP: まったく、変なヤツらじゃのう。{n}ところでアキラ、そんなカッコウして{n}どうしたんじゃ?{p}{end}
+EN: Honestly, you're a strange bunch. By the way, Akira, what's with that getup?{p}{end}
+
+## MGG09G g0 s0015
+JP: ああ、これはね、{col:0}喫茶店{col:-}の制服なの。{n}みんなも良かったら遊びに来てね{col:5}♥{col:-}{p}{end}
+EN: Oh, this? It's the {col:0}cafe{col:-} uniform. Come by and visit if you like{col:5}♥{col:-}{p}{end}
+
+## MGG09G g0 s0016
+JP: {face:15}・・・・・・・・・・{face:255}イカスぜ。{p}
+EN: {face:15}..........{face:255}Lookin' hot.{p}
+
+## MGG09G g0 s0017
+JP: {face:15}・・・・・・・・・・{face:255}同感。{p}
+EN: {face:15}..........{face:255}Agreed.{p}
+
+## MGG09G g0 s0018
+JP: ん?{n}あそこにいるのは委員長かな?{p}
+EN: Hm? Is that the Chairperson over there?{p}
+
+## MGG09G g0 s0019
+JP: あら、{v0}{col:0}君{col:-}。{n}学園祭、楽しんでる?{p}
+EN: Oh, {v0}{col:0}-kun{col:-}. Enjoying the festival?{p}
+
+## MGG09G g0 s0020
+JP: もちろん!{n}そうだ、委員長。{n}よかったら、一緒に見て回らないか?{p}{end}
+EN: You bet! Hey, Chairperson. Want to look around together?{p}{end}
+
+## MGG09G g0 s0021
+JP: 私、文化祭の実行委員なのよ。{n}これが結構忙しくって……{n}せっかく誘ってもらって悪いんだけど、{n}ちょっと遊んでる暇はなさそうね。{p}
+EN: I'm on the festival committee, and it keeps me pretty busy... Sorry, since you asked and all, but I don't think I'll have time to have fun.{p}
+
+## MGG09G g0 s0022
+JP: そうか、残念だな。{p}
+EN: I see. Too bad.{p}
+
+## MGG09G g0 s0023
+JP: そうそう、夕方に{col:0}ダンス大会{col:-}が{n}あるから、忘れずに出場してね!{n}私は実行委員だから、{n}これまた参加できないんだけどね。{p}{end}
+EN: Oh right, there's a {col:0}dance contest{col:-} this evening, so don't forget to enter! I'm on the committee, so I can't join that either, though.{p}{end}
+
+## MGG09G g0 s0024
+JP: それじゃ{v0}{col:0}君{col:-}、またね!{p}
+EN: See you, {v0}{col:0}-kun{col:-}!{p}
+
+## MGG09G g0 s0025
+JP: さて、これからどうしようかな?{n}夕方に{col:0}ダンス大会{col:-}があるって話{n}だったけど、それまでに{col:0}3ヶ所{col:-}くらいは{n}まわる時間がありそうだ。{p}{end}
+EN: Now, what should I do? She said there's a {col:0}dance contest{col:-} this evening. Until then I've got time to visit about {col:0}3 places{col:-}.{p}{end}
+
+## MGG09G g0 s0026
+JP: まずはどこに行ってみようか?{p}{end}
+EN: Where should I go first?{p}{end}
+
+## MGG09G g0 s0027
+JP: ここが喫茶店か。{n}客もかなり多いし、{n}繁盛してるみたいだな。{p}{end}
+EN: So this is the cafe. Lots of customers. Looks like business is booming.{p}{end}
+
+## MGG09G g0 s0028
+JP: あっ、{v6:1}。{n}いらっしゃい{col:5}♥{col:-}{p}{end}
+EN: Oh, {v6:1}. Welcome{col:5}♥{col:-}{p}{end}
+
+## MGG09G g0 s0029
+JP: いらっしゃいませ。{n}{v5:10}、ご注文は?{p}{end}
+EN: Welcome. {v5:10}, what would you like?{p}{end}
+
+## MGG09G g0 s0030
+JP: えーと…{n}このお店のおすすめは何なの?{p}
+EN: Um... What do you recommend here?{p}
+
+## MGG09G g0 s0031
+JP: そうですね。{n}どれもおいしいですが、{n}中でもケーキと紅茶は逸品ですよ。{p}
+EN: Let me see. Everything is delicious, but the cake and tea are especially fine.{p}
+
+## MGG09G g0 s0032
+JP: ちなみに、ケーキは{n}私たち3人の手作りなのよ。{p}
+EN: And by the way, the three of us made the cakes ourselves.{p}
+
+## MGG09G g0 s0033
+JP: 手作りとはこってるね。{n}じゃあ、ケーキをもらうよ。{p}
+EN: Homemade? That's fancy. I'll have cake, then.{p}
+
+## MGG09G g0 s0034
+JP: ねぇ、{v6:1}。{n}3種類あるんだけど、どれにする?{p}
+EN: Hey, {v6:1}. There are three kinds. Which one do you want?{p}
+
+## MGG09G g0 s0035
+JP: 見た目の悪いショートケーキ{n}上品そうなモンブラン{n}ボリューム満点チーズケーキ{p}{end}
+EN: The ugly shortcake{n}The elegant Mont Blanc{n}The hearty cheesecake{p}{end}
+
+## MGG09G g0 s0036
+JP: じゃあ、このショートケーキにするよ。{p}{end}
+EN: I'll have this shortcake.{p}{end}
+
+## MGG09G g0 s0037
+JP: ホント!?{sp}それ、私が作ったんだ。{n}見た目はちょっと悪いけど、{n}おいしいはずだから食べてみてよ。{p}{end}
+EN: Really!? I made that one. It looks a little rough, but it should taste good, so give it a try.{p}{end}
+
+## MGG09G g0 s0038
+JP: なんか引っかかる言いまわしだな。{n}まあいいか、いただきまーす!{p}
+EN: Something about the way she said that bugs me. Oh well, dig in!{p}
+
+## MGG09G g0 s0039
+JP: モグモグ{face:15}・・・・・・・・・・{face:255}{p}{end}
+EN: Munch munch{face:15}..........{face:255}{p}{end}
+
+## MGG09G g0 s0040
+JP: ……うまいっ!{n}このケーキおいしいよ。{n}ひなたもやるもんだなぁ。{p}{end}
+EN: ...Delicious! This cake is great. Hinata's got skills.{p}{end}
+
+## MGG09G g0 s0041
+JP: えへへへ{col:5}♥{col:-}{n}ちょっとは見直した?{p}{end}
+EN: Hehehe{col:5}♥{col:-} Bet you're impressed now, huh?{p}{end}
+
+## MGG09G g0 s0042
+JP: ああ!{n}見直した、見直した!{p}{end}
+EN: Yeah! Totally impressed!{p}{end}
+
+## MGG09G g0 s0043
+JP: じゃあ、私のケーキをおいしいって{n}言ってくれたお礼にこれあげるね。{p}
+EN: Then as thanks for saying my cake was good, here's this.{p}
+
+## MGG09G g0 s0044
+JP: {col:0}『根性カード』{col:-}をゲット!{n}なんと、{col:0}根性{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Guts Card"{col:-}! Your {col:0}Guts{col:-} went up a little!{p}
+
+## MGG09G g0 s0045
+JP: このモンブランにするよ。{n}作った人間のセンスの良さがわかるね。{p}
+EN: I'll take this Mont Blanc. You can tell whoever made it has great taste.{p}
+
+## MGG09G g0 s0046
+JP: 実はそのケーキを作ったのは{n}私なんですが、そこまで言われると{n}照れてしまいますね。{p}
+EN: Actually, I made that cake. Hearing you say that much makes me rather shy.{p}
+
+## MGG09G g0 s0047
+JP: しかし、人間と同じようにケーキの{n}価値も見かけだけではわかりませんよ。{n}さあ{v4:8}、{n}まずは味わってみてください。{p}{end}
+EN: However, as with people, you cannot judge a cake by its looks alone. Now, {v4:8}, please taste it first.{p}{end}
+
+## MGG09G g0 s0049
+JP: ……こ、これは!?{n}まったりとして、それでいてしつこくない。{n}まさに、絶妙のバランス!{p}
+EN: ...Wh-what is this!? Rich and mellow, yet not heavy at all. A perfect balance!{p}
+
+## MGG09G g0 s0050
+JP: 喜んでいただけて幸いです。{n}やはり、料理とは作る時よりも{n}食べた人が喜ぶ顔を見る時の方が何倍も{n}楽しく、幸せな気持ちになれますね。{p}
+EN: I am glad you enjoyed it. Cooking makes me far happier when I see the face of the one eating than when I am making it.{p}
+
+## MGG09G g0 s0051
+JP: ボーマン……{n}俺、ケーキで感動したの初めてだよ。{p}{end}
+EN: Boman... That's the first time a cake has ever moved me.{p}{end}
+
+## MGG09G g0 s0052
+JP: それでは、私のケーキをおいしいと{n}言ってくれたお礼に、これを差し上げます。{p}
+EN: Then, as thanks for saying my cake is delicious, please accept this.{p}
+
+## MGG09G g0 s0053
+JP: {col:0}『潜在能力カード』{col:-}をゲット!{n}なんと、{col:0}潜在能力{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Potential Card"{col:-}! Your {col:0}Potential{col:-} went up a little!{p}
+
+## MGG09G g0 s0054
+JP: このチーズケーキ、すごくおいしそうだな。{n}これをもらうよ。{p}
+EN: This cheesecake looks really good. I'll take this one.{p}
+
+## MGG09G g0 s0055
+JP: 本当?{n}そのチーズケーキ、私が作ったの。{n}早く食べてみて。{p}
+EN: Really? I made that cheesecake. Go on, try it.{p}
+
+## MGG09G g0 s0056
+JP: じゃあ、さっそく。{n}モグモグ{face:15}・・・・・・・・・・{face:255}{p}{end}
+EN: OK, here goes. Munch munch{face:15}..........{face:255}{p}{end}
+
+## MGG09G g0 s0057
+JP: どう?{sp}おいしい?{p}
+EN: Well? Is it good?{p}
+
+## MGG09G g0 s0058
+JP: （そんなにじーっと見られてると、{n}{sp}なんだか食べづらいんだけど。）{p}
+EN: (It's kinda hard to eat with her staring at me like that.){p}
+
+## MGG09G g0 s0059
+JP: うん、おいしいよ!{n}味はもちろんだけど、何といっても{n}このボリューム感が最高だね!{p}
+EN: Yeah, it's delicious! The taste, of course, but the best part is how big it is!{p}
+
+## MGG09G g0 s0060
+JP: ホント?{sp}良かった。{n}いつも醍醐兄さんに焼いてあげるんだけど、{n}みんなが気に入ってくれるかどうか自信が{n}なかったの。{p}{end}
+EN: Really? I'm glad. I always bake for my big brother Daigo, but I wasn't sure everyone would like it.{p}{end}
+
+## MGG09G g0 s0061
+JP: （醍醐先輩、いつもこんなにおいしい{n}{sp}ケーキを焼いてもらってるのか。{n}{sp}うらやましいなぁ。）{p}{end}
+EN: (Daigo-senpai gets cakes this good all the time? I'm jealous.){p}{end}
+
+## MGG09G g0 s0062
+JP: 私のケーキ、{n}おいしいって言ってくれてありがとう。{n}お礼に、これをあげるわ。{p}{end}
+EN: Thank you for saying my cake was good. Here, this is for you.{p}{end}
+
+## MGG09G g0 s0063
+JP: {col:0}『防御力カード』{col:-}をゲット!{n}なんと、{col:0}防御力{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Defense Card"{col:-}! Your {col:0}Defense{col:-} went up a little!{p}
+
+## MGG09G g0 s0064
+JP: おっ、そろそろダンス大会の時間だな。{n}それじゃ、会場に移動しようかな。{p}
+EN: Oh, it's almost time for the dance contest. Guess I'll head over.{p}
+
+## MGG09G g0 s0065
+JP: さて、次はどこに行こうかな?{p}{end}
+EN: Now, where to next?{p}{end}
+
+## MGG09G g0 s0066
+JP: おっ、もう応援団のパフォーマンスが{n}始まってるみたいだ。{n}それにしても、すごい人だかりだな。{p}{end}
+EN: Oh, the cheering squad's performance has already started. What a crowd!{p}{end}
+
+## MGG09G g0 s0067
+JP: あっ、先頭にいるのは醍醐先輩だ!{n}醍醐先輩、かっこいいなあ。{p}{end}
+EN: Ah, the one in front is Daigo-senpai! He looks so cool.{p}{end}
+
+## MGG09G g0 s0068
+JP: 燃えるぜぇ!{n}これぞ青春、これぞ男の魂ってやつだ!{p}
+EN: I'm fired up! This is youth! This is a man's soul!{p}
+
+## MGG09G g0 s0069
+JP: （隼人先生、相変わらずの熱血ぶりだな…）{p}{end}
+EN: (Hayato-sensei is as hot-blooded as ever...){p}{end}
+
+## MGG09G g0 s0070
+JP: ワオ、グレイト!{n}これが、ニッポンのチアリーディング{n}ですか?{p}
+EN: Wow, great! Is this Japanese cheerleading?{p}
+
+## MGG09G g0 s0071
+JP: そうだよ、ティファニー。{n}日本では応援団っていうのさ。{p}
+EN: That's right, Tiffany. In Japan we call it a cheering squad.{p}
+
+## MGG09G g0 s0072
+JP: オーエンダン?{n}でも、オーエンダン男の人ばかりネ。{n}ねぇ{v3:7}、どーして?{p}{end}
+EN: Cheering squad? But the cheering squad is all boys. Hey, {v3:7}, why is that?{p}{end}
+
+## MGG09G g0 s0073
+JP: うーん、そう言われてみれば……{n}何でだろう?{p}{end}
+EN: Hmm, now that you mention it... Why is that?{p}{end}
+
+## MGG09G g0 s0074
+JP: ティファニーと考える{n}隼人先生に聞く{n}醍醐先輩に直接聞く{p}{end}
+EN: Think it over with Tiffany{n}Ask Hayato-sensei{n}Ask Daigo-senpai directly{p}{end}
+
+## MGG09G g0 s0075
+JP: やっぱり、異性からの声援だと{n}うわついた気持ちになって、{n}気合が入らないからじゃないかな。{p}
+EN: I guess cheers from girls would make the guys giddy, and they couldn't focus.{p}
+
+## MGG09G g0 s0076
+JP: ノンノン!{n}声援に応えようとして、{n}選手はもっともっと頑張るネ!{p}{end}
+EN: No, no! Players work even harder to live up to the cheers!{p}{end}
+
+## MGG09G g0 s0077
+JP: まあ、アメリカのお国柄だと{n}そうなのかもしれないけどね。{p}{end}
+EN: Well, maybe that's how it is in America.{p}{end}
+
+## MGG09G g0 s0078
+JP: それに、ミーは応援されるなら、{n}やっぱり大好きな人に応援されるのが{n}一番うれしいヨ。{n}ユーは違いますか?{p}{end}
+EN: And when I get cheered on, I am happiest if it is by someone I love. Is it not the same for you?{p}{end}
+
+## MGG09G g0 s0079
+JP: う、うーん。{n}ティファニーの言うことにも一理あるな。{n}それはもっともだ。{p}{end}
+EN: W-well... Tiffany has a point. That makes sense.{p}{end}
+
+## MGG09G g0 s0080
+JP: デショ?{n}{v3:7}、{n}ものわかりが良いから好きネ。{n}友好の印にプレゼントあげまーす!{p}{end}
+EN: Right? {v3:7}, I like how understanding you are. Here is a present, as a sign of friendship!{p}{end}
+
+## MGG09G g0 s0081
+JP: {col:0}『体力カード』{col:-}をゲット!{n}なんと、{col:0}体力{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Stamina Card"{col:-}! Your {col:0}Stamina{col:-} went up a little!{p}
+
+## MGG09G g0 s0082
+JP: なんだ、{v3:16}?{n}そんな神妙なツラしやがって。{p}{end}
+EN: What's up, {v3:16}? Why the long face?{p}{end}
+
+## MGG09G g0 s0083
+JP: あっ、隼人先生。{n}質問なんですが……{n}どうして応援団って男だけなんですか?{p}
+EN: Oh, Hayato-sensei. I have a question... Why is the cheering squad only guys?{p}
+
+## MGG09G g0 s0084
+JP: どうしてだと?{n}{v3:16}、男の魂に火をつけるには{n}どうしたらいいと思う?{p}{end}
+EN: Why, ya say? {v3:16}, how d'ya think you light a fire in a man's soul?{p}{end}
+
+## MGG09G g0 s0085
+JP: 一度しか言わねぇから、よーく聞いとけ!{n}男の魂に火をつける方法はたった一つ!{n}より熱く燃えている男の魂をぶつける、{n}ただそれだけだ!{p}{end}
+EN: I'm only sayin' this once, so listen up! There's only one way to light a fire in a man's soul! Hit it with a man's soul that burns even hotter, that's all!{p}{end}
+
+## MGG09G g0 s0086
+JP: なるほど!{n}そっ、そう言われてみれば確かに{n}そんな気がする!{p}{end}
+EN: I see! N-now that you put it that way, I think you're right!{p}{end}
+
+## MGG09G g0 s0087
+JP: {v3:16}、相変わらずオマエは{n}ものわかりがいいヤツだな。{p}{end}
+EN: {v3:16}, you catch on quick as always.{p}{end}
+
+## MGG09G g0 s0088
+JP: まったく、今時の若者にしとくには{n}もったいねぇくらいだ。{n}こいつを取っときな!{p}
+EN: Honestly, you're too good to be one of today's kids. Here, take this!{p}
+
+## MGG09G g0 s0090
+JP: よし、応援団のパフォーマンスが{n}終わったみたいだから、醍醐先輩に{n}直接聞いてみよう!{p}{end}
+EN: OK, the performance looks like it's over, so I'll ask Daigo-senpai directly!{p}{end}
+
+## MGG09G g0 s0091
+JP: 醍醐センパーイ!!{n}一つ質問があるんですけど、{n}よろしいですか?{p}{end}
+EN: Daigo-senpaaai!! I have a question. Do you have a moment?{p}{end}
+
+## MGG09G g0 s0092
+JP: いいだろう。{n}なんでも言ってみろ。{p}
+EN: All right. Ask me anything.{p}
+
+## MGG09G g0 s0093
+JP: どうして、応援団って男子生徒だけで{n}構成されているんでしょうか?{p}{end}
+EN: Why is the cheering squad made up of only male students?{p}{end}
+
+## MGG09G g0 s0094
+JP: ……フム。{n}{v4:17}、誰かを応援したいという{n}気持ちに男女の違いは関係あるのか?{p}{end}
+EN: ...Hm. {v4:17}, does wanting to cheer someone on have anything to do with being a guy or a girl?{p}{end}
+
+## MGG09G g0 s0095
+JP: たぶん、関係ないと思います。{p}{end}
+EN: I don't think it does.{p}{end}
+
+## MGG09G g0 s0096
+JP: そうだ。{n}男女の違いなどささいな問題にすぎん。{n}事実、応援団にもそんな規定はない。{p}
+EN: Right. Guy or girl is a small matter. In fact, the squad has no such rule.{p}
+
+## MGG09G g0 s0097
+JP: ただ、応援団には俺達の様な{n}荒くれ者ばかり集まっているからな。{n}団に入りたいという女生徒は{n}なかなか現れんよ。{p}
+EN: It's just that the squad is full of roughnecks like us. Not many girls come forward wanting to join.{p}
+
+## MGG09G g0 s0098
+JP: なるほど、そういう事ですか。{p}{end}
+EN: I see, so that's it.{p}{end}
+
+## MGG09G g0 s0099
+JP: 少しは応援団というものを、{n}理解できたようだな。{n}そうだ、これを持って行くがいい。{n}必ずお前の役に立つはずだ。{p}
+EN: Looks like you understand the cheering squad a little better now. Here, take this. It's bound to help you.{p}
+
+## MGG09G g0 s0100
+JP: {col:0}『知力カード』{col:-}をゲット!{n}なんと、{col:0}知力{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Smarts Card"{col:-}! Your {col:0}Smarts{col:-} went up a little!{p}
+
+## MGG09G g0 s0103
+JP: う～ん、かぐわしい香りが……{n}何を食べようか迷っちゃうよなぁ。{p}
+EN: Mmm, what a heavenly smell... I can't decide what to eat.{p}
+
+## MGG09G g0 s0104
+JP: {v6:4}、{n}バレー部特製焼きソバはどう?{n}おいしいわよ～。{p}
+EN: {v6:4}, how about the volleyball club's special yakisoba? It's goood.{p}
+
+## MGG09G g0 s0105
+JP: おおっと、サッカー部特製の{n}サッカーボールたこ焼きも忘れて{n}もらっちゃ困るぜ。{p}
+EN: Whoa, don't forget the soccer club's special "Soccer Ball Takoyaki."{p}
+
+## MGG09G g0 s0106
+JP: 300円でおっきなたこ焼きが{n}12個入り、とってもお買い得よ。{p}
+EN: Twelve big takoyaki for 300 yen. It's a real bargain.{p}
+
+## MGG09G g0 s0107
+JP: ううっ、どっちもおいしそうだなぁ。{n}どっちにしようか?{p}
+EN: Ugh, they both look so good. Which should I get?{p}
+
+## MGG09G g0 s0109
+JP: あれっ?{n}流さん、そんな所で何してるんですか?{p}
+EN: Huh? Nagare-san, what are you doing over there?{p}
+
+## MGG09G g0 s0110
+JP: …………イカ焼き、食べるか?{p}{end}
+EN: ..........Want some grilled squid?{p}{end}
+
+## MGG09G g0 s0111
+JP: な、流さんも売り子か……{n}うーん、どれにしようか迷うぜ。{p}{end}
+EN: N-Nagare-san's selling food too... Man, I can't decide.{p}{end}
+
+## MGG09G g0 s0112
+JP: バレー部の焼きソバ{n}サッカー部のたこ焼き{n}水泳部のイカ焼き{p}
+EN: Volleyball club's yakisoba{n}Soccer club's takoyaki{n}Swim club's grilled squid{p}
+
+## MGG09G g0 s0113
+JP: それじゃ、夏。{n}焼きソバ1つくれないかな。{n}もち、大盛りでね!{p}
+EN: Then, Natsu, can I get one yakisoba? Large, of course!{p}
+
+## MGG09G g0 s0114
+JP: まいどあり{col:5}♥{col:-}{n}はい、どうぞ。{p}{end}
+EN: Thanks a bunch{col:5}♥{col:-} Here you go.{p}{end}
+
+## MGG09G g0 s0115
+JP: うはー。{n}うまそ～!{p}{end}
+EN: Whoa. Looks so good~!{p}{end}
+
+## MGG09G g0 s0116
+JP: モグモグ{face:15}・・・・・・・・・・{face:255}{n}こっ、これはうまい!{n}さすがは夏だな、期待を裏切らないぜ。{p}{end}
+EN: Munch munch{face:15}..........{face:255} Wow, this is great! That's Natsu for you, never disappoints.{p}{end}
+
+## MGG09G g0 s0117
+JP: ウフフッ。その焼きソバは{n}秘伝のソースがおいしさの秘密ね。{n}そのソースを作るの、苦労したのよ。{p}
+EN: Hehe. The secret to this yakisoba is the secret sauce. That sauce took a lot of work.{p}
+
+## MGG09G g0 s0118
+JP: ほうほう、なるほど。{n}そう言われてみれば、普通の焼きソバとは{n}一味もふた味もちがうな。{p}
+EN: Ohh, I see. Now that you mention it, it's a whole other level from normal yakisoba.{p}
+
+## MGG09G g0 s0119
+JP: 焼きソバ買ってくれてありがと。{n}そうだ、お礼にこれをあげるわ。{p}
+EN: Thanks for buying yakisoba. Oh, right, here's something as thanks.{p}
+
+## MGG09G g0 s0121
+JP: じゃあ、{n}たこ焼きひとつちょうだい。{p}{end}
+EN: Then one takoyaki, please.{p}{end}
+
+## MGG09G g0 s0122
+JP: おう、毎度!{p}{end}
+EN: You got it!{p}{end}
+
+## MGG09G g0 s0123
+JP: はい、どうぞ。{n}冷めないうちに食べてね。{p}{end}
+EN: Here you go. Eat it before it gets cold.{p}{end}
+
+## MGG09G g0 s0124
+JP: うん、じゃあ早速いただきまーす!{n}パクッ!{p}
+EN: OK, I'll dig right in! Chomp!{p}
+
+## MGG09G g0 s0125
+JP: {face:15}・・・・・・・・・・{face:255}{n}おおっ、このたこ焼きおいしいな。{p}
+EN: {face:15}..........{face:255} Ooh, this takoyaki is good.{p}
+
+## MGG09G g0 s0126
+JP: 当然さ!{n}サッカー部員の努力の結晶だからな。{p}{end}
+EN: Of course! It's the fruit of the soccer club's hard work.{p}{end}
+
+## MGG09G g0 s0127
+JP: ロベルト君、たこ焼きを焼く特訓とか{n}してたものね。{p}
+EN: Roberto-kun even did special takoyaki-making training.{p}
+
+## MGG09G g0 s0128
+JP: うん、その努力が確実に味に反映{n}されてると思うよ。{p}
+EN: Yeah, I can definitely taste that effort.{p}
+
+## MGG09G g0 s0129
+JP: たこ焼き買ってくれてありがとう。{n}これは特別サービスよ。{p}{end}
+EN: Thank you for buying takoyaki. This is a special bonus.{p}{end}
+
+## MGG09G g0 s0131
+JP: ううっ。{n}この、香ばしくこげたしょうゆの{n}匂いには逆らえないなぁ……{n}流さん、一本ください～。{p}
+EN: Ugh. I can't resist the smell of soy sauce charred just right... Nagare-san, one please~.{p}
+
+## MGG09G g0 s0132
+JP: …………うまいぞ。{p}
+EN: ..........It's good.{p}
+
+## MGG09G g0 s0133
+JP: ん～いい匂い。{n}さて、かんじんの味の方はどうかな?{p}
+EN: Mmm, smells great. Now, how does it taste?{p}
+
+## MGG09G g0 s0134
+JP: モグモグ{face:15}・・・・・・・・・・{face:255}{n}う～ん、おいしい。{n}これは素材の勝利ですね!{p}
+EN: Munch munch{face:15}..........{face:255} Mmm, delicious. The ingredients win this one!{p}
+
+## MGG09G g0 s0135
+JP: …………俺が海で取ってきた{n}ばかりのイカだからな。{p}
+EN: ..........I just caught this squid in the sea.{p}
+
+## MGG09G g0 s0136
+JP: ええっ!?{sp}マジですか?{n}相変わらず、人間業じゃないですね。{p}{end}
+EN: What!? Seriously? You're as superhuman as ever.{p}{end}
+
+## MGG09G g0 s0137
+JP: …………そうか?{n}誰にでもできると思うんだが……{p}{end}
+EN: ..........Am I? I think anyone could do it...{p}{end}
+
+## MGG09G g0 s0138
+JP: （流さん以外の人にできないって……）{p}{end}
+EN: (Nobody but you could do that...){p}{end}
+
+## MGG09G g0 s0139
+JP: …………そうだ、{n}オマエにこれをやろう……{p}
+EN: ..........Oh, right. Take this...{p}
+
+## MGG09G g0 s0143
+JP: 体育館にやってきたぞ。{n}もう演劇は始まってるみたいだ。{p}
+EN: I've made it to the gym. Looks like the play has already started.{p}
+
+## MGG09G g0 s0144
+JP: 恭介とロイと響子先生が助っ人で{n}出演してるらしい。{n}せっかくだし、最後まで見ていくかな。{p}{end}
+EN: I heard Kyosuke, Roy and Kyoko-sensei are helping out in it. Since I'm here, I'll stay till the end.{p}{end}
+
+## MGG09G g0 s0145
+JP: みんな、お疲れ様。{n}すごく良い舞台だったよ。{n}俺、感動しちゃった。{p}
+EN: Great work, everyone. That was a really good show. I was moved.{p}
+
+## MGG09G g0 s0146
+JP: ええ、本当に素晴らしい舞台になりました。{n}みなさん、ありがとうございます。{p}
+EN: Yes, it truly turned out a wonderful show. Thank you all so much.{p}
+
+## MGG09G g0 s0147
+JP: 礼にはおよびませんよ、小百合先輩。{n}僕も良い経験をさせてもらいましたから。{p}
+EN: No need to thank us, Sayuri-senpai. It was a good experience for me too.{p}
+
+## MGG09G g0 s0148
+JP: そうだな、ボクも楽しかったよ。{p}
+EN: Yeah, I had fun too.{p}
+
+## MGG09G g0 s0149
+JP: 結構あっという間だったわ。{n}来年はぜひヒロイン役で出演させてね{col:5}♥{col:-}{p}{end}
+EN: It was over in a flash. Next year, let me play the heroine{col:5}♥{col:-}{p}{end}
+
+## MGG09G g0 s0150
+JP: そういえば……{p}
+EN: By the way...{p}
+
+## MGG09G g0 s0151
+JP: 恭介の演技が素晴らしかった{n}ロイの演技が素晴らしかった{n}響子の演技が素晴らしかった{p}
+EN: Kyosuke's acting was great{n}Roy's acting was great{n}Kyoko-sensei's acting was great{p}
+
+## MGG09G g0 s0152
+JP: やっぱり、恭介の演技が良かったな。{n}その衣装も良く似合ってるしね。{p}
+EN: Kyosuke's acting was the best. That costume really suits you, too.{p}
+
+## MGG09G g0 s0153
+JP: ありがとう、{v4:2}。{n}君にそこまで言ってもらえるなら、{n}努力したかいがあったってものだよ。{p}{end}
+EN: Thanks, {v4:2}. If you say that much, it was worth all the effort.{p}{end}
+
+## MGG09G g0 s0154
+JP: もともと、恭介には{n}演技の才能があったのかもね。{p}{end}
+EN: Maybe you had a talent for acting all along, Kyosuke.{p}{end}
+
+## MGG09G g0 s0155
+JP: ははははは。{n}{v4:2}、いくらなんでも{n}それは誉めすぎだよ。{p}{end}
+EN: Hahahaha. {v4:2}, that's laying the praise on a bit thick.{p}{end}
+
+## MGG09G g0 s0156
+JP: そうだ、舞台を見に来てくれたお礼に{n}キミにこれをあげるよ。{p}
+EN: Oh, right. As thanks for coming to see the show, I'll give you this.{p}
+
+## MGG09G g0 s0158
+JP: ロイの演技、すごく良かったよ。{n}そのヨロイ姿もきまってるし。{p}{end}
+EN: Your acting was really good, Roy. The armor looks sharp, too.{p}{end}
+
+## MGG09G g0 s0159
+JP: ハハハ、サンキュー!{n}本当に頑張ったかいがあったよ。{p}{end}
+EN: Haha, thanks! All that hard work really paid off.{p}{end}
+
+## MGG09G g0 s0160
+JP: 実は、{n}今回の舞台のために演技の練習だけでなく、{n}筋力トレーニングもしてたんだ。{n}さすがのボクでもきつかったよ。{p}{end}
+EN: Actually, for this show I didn't just practice acting. I did strength training too. Even for me, it was tough.{p}{end}
+
+## MGG09G g0 s0161
+JP: えっ、なんで筋力トレーニングなんかを?{p}
+EN: Huh? Why strength training?{p}
+
+## MGG09G g0 s0162
+JP: このヨロイ、総重量が60キロもあるのさ。{n}だから、きちんと演技ができるように{n}筋力もきたえる必要があったんだよ。{p}{end}
+EN: This armor weighs 60 kilos in all. So I had to build muscle to act properly in it.{p}{end}
+
+## MGG09G g0 s0163
+JP: （60キロ?{n}{sp}ロイはそんなもの着込んで、{n}{sp}あれだけ動き回ってたのか。）{p}
+EN: (60 kilos? Roy was moving around that much wearing that thing?){p}
+
+## MGG09G g0 s0164
+JP: これは舞台を見に来てくれたお礼だ。{n}ぜひ受け取ってくれ。{p}{end}
+EN: This is thanks for coming to see the show. Please take it.{p}{end}
+
+## MGG09G g0 s0166
+JP: 演技までこなしちゃうなんて、{n}響子先生って本当にすごいんですね。{p}{end}
+EN: You can even act, Kyoko-sensei. You're really amazing.{p}{end}
+
+## MGG09G g0 s0167
+JP: あら、{v1}{col:0}クン{col:-}、{n}おだてても何もでないわよ{col:5}♥{col:-}{p}
+EN: Oh, {v1}{col:0}-kun{col:-}, flattery won't get you anything{col:5}♥{col:-}{p}
+
+## MGG09G g0 s0168
+JP: でも、みんなに魔女はハマり役だって{n}言われるのよ……{p}{end}
+EN: But everyone tells me the witch role suits me perfectly...{p}{end}
+
+## MGG09G g0 s0169
+JP: 私って、そんなに年増で性格悪そうに{n}見えるのかしら?{p}{end}
+EN: Do I really look that old and mean?{p}{end}
+
+## MGG09G g0 s0170
+JP: そうですねぇ……{n}どちらかというと悪い意味じゃなくって、{n}大人で色っぽい雰囲気だからピッタリって{n}言われるんだと思いますよ。{p}{end}
+EN: Let's see... I don't think they mean it in a bad way. They probably say it fits because you have a grown-up, sexy air.{p}{end}
+
+## MGG09G g0 s0171
+JP: まあ、お上手ね。{n}{v1}{col:0}クン{col:-}にはごほうびに、{n}これをあげるわ。{p}
+EN: My, aren't you a smooth talker. {v1}{col:0}-kun{col:-}, here's a little reward for you.{p}
+
+## MGG09G g0 s0175
+JP: えーと、確か腕相撲大会は屋上で{n}やるって聞いたな。{n}おおっ、やってるやってる!{p}
+EN: Let's see, I heard the arm wrestling tournament was on the roof. Ooh, they're at it!{p}
+
+## MGG09G g0 s0176
+JP: だああああああっ!{n}どうだ、俺の勝ちだぜ!!{p}{end}
+EN: Daaaaaah! How's that? I win!!{p}{end}
+
+## MGG09G g0 s0177
+JP: さあ、次の相手はどいつだ?{p}
+EN: OK, who's next?{p}
+
+## MGG09G g0 s0178
+JP: おぬしたちも男じゃったら{n}ガンガンかかってこんかい!{p}{end}
+EN: If you're men, come at us with everything ya got!{p}{end}
+
+## MGG09G g0 s0179
+JP: オイラたち3人のうちの誰かに勝てば、{n}必ず役に立つアイテムをやるぜ!{p}{end}
+EN: Beat any one of us three and you'll get a useful item, guaranteed!{p}{end}
+
+## MGG09G g0 s0180
+JP: バツたちはこんな事をやってたのか。{n}でも、屋上でやってるってことは、{n}許可取ってないんだろうな、やっぱり。{p}
+EN: So this is what Batsu and the others were up to. But since they're doing it on the roof, they probably don't have permission.{p}
+
+## MGG09G g0 s0181
+JP: おう、{v3:0}。{n}オマエもいっちょ挑戦してみないか?{n}力と力の勝負ってのは燃えるぜ。{p}{end}
+EN: Yo, {v3:0}. Wanna give it a shot? A contest of raw strength gets me all fired up.{p}{end}
+
+## MGG09G g0 s0183
+JP: バツと勝負{n}将馬と勝負{n}岩と勝負{p}{end}
+EN: Take on Batsu{n}Take on Shoma{n}Take on Gan{p}{end}
+
+## MGG09G g0 s0184
+JP: よぉし、バツと勝負だ!{p}
+EN: All right, I'll take on Batsu!{p}
+
+## MGG09G g0 s0185
+JP: おう、手加減はしねぇからな!{p}{end}
+EN: You got it, and I'm not holdin' back!{p}{end}
+
+## MGG09G g0 s0186
+JP: （バツ相手にどう戦う?）{p}{end}
+EN: (How should I fight Batsu?){p}{end}
+
+## MGG09G g0 s0187
+JP: 短期戦で全力を出し切る{n}始めは守りに徹して力を残す{n}心理戦に持ち込む{p}{end}
+EN: Go all out for a quick win{n}Defend first and save strength{n}Play mind games{p}{end}
+
+## MGG09G g0 s0188
+JP: よし、短期決戦だ!{n}はじめから全力を出して、{n}一気に押し切ってやるぜ!{p}
+EN: OK, a quick fight! I'll go all out from the start and push through in one go!{p}
+
+## MGG09G g0 s0189
+JP: レディー、ゴー!!{p}
+EN: Ready, go!!{p}
+
+## MGG09G g0 s0190
+JP: うおおおおおおおおおおおお!!{p}
+EN: Raaaaaaaaaaaaargh!!{p}
+
+## MGG09G g0 s0191
+JP: ぐぬううううううううううう!!{p}
+EN: Grrrnnnnnnnnnngh!!{p}
+
+## MGG09G g0 s0192
+JP: （ううっ、だ、駄目だ。{n}{sp}もうこれ以上は力が出ない…）{p}
+EN: (Ugh, n-no good. I've got nothing left...){p}
+
+## MGG09G g0 s0193
+JP: うわっ!{p}{end}
+EN: Whoa!{p}{end}
+
+## MGG09G g0 s0194
+JP: よっしゃあ!{sp}俺の勝ちだな!{p}{end}
+EN: Yeah! I win!{p}{end}
+
+## MGG09G g0 s0195
+JP: くうっ、{n}力に力で対抗したのがまずかったか。{n}これは作戦失敗だったな。{p}
+EN: Ngh, going strength against strength was a mistake. Bad strategy.{p}
+
+## MGG09G g0 s0196
+JP: まっ、オレ相手にこれだけ{n}持ったんだから十分なんじゃねぇか?{p}{end}
+EN: Eh, you lasted this long against me, so that's pretty good, right?{p}{end}
+
+## MGG09G g0 s0197
+JP: ……悔しいけど、俺の完敗だ。{n}でも、次にやるときは負けないからな。{p}
+EN: ...It's frustrating, but I lost fair and square. Next time, though, I won't lose.{p}
+
+## MGG09G g0 s0198
+JP: おそらく、バツはスタートダッシュ型だ。{n}つまり、いきなり全力で向かってくるはず。{n}それを逆手にとって、{n}はじめは守りに徹するぞ!{p}{end}
+EN: Batsu is probably the fast-start type. So he'll come at me full power right away. I'll use that against him and defend at first!{p}{end}
+
+## MGG09G g0 s0201
+JP: くっ、ぐぐぐ。{n}ふんばれ!{p}
+EN: Ngh, grrr. Hang in there!{p}
+
+## MGG09G g0 s0202
+JP: ぐぬぬぬぬぬぬ……{p}
+EN: Grrrrrrrrr...{p}
+
+## MGG09G g0 s0203
+JP: （ん?{n}{sp}バツの力が段々弱まってきたぞ。{n}{sp}今がチャンスだ!）{p}
+EN: (Hm? Batsu's strength is fading. Now's my chance!){p}
+
+## MGG09G g0 s0204
+JP: でやああああああああっ!{p}{end}
+EN: Haaaaaaaaaaah!{p}{end}
+
+## MGG09G g0 s0206
+JP: よしっ、俺の勝ちだぜ!{n}約束通り、アイテムをもらおうか。{p}{end}
+EN: All right, I win! Hand over the item, like you promised.{p}{end}
+
+## MGG09G g0 s0207
+JP: ちぇ、負けちまったか。{n}ほらよ、これが約束のアイテムだぜ。{p}
+EN: Tch, I lost. Here, the item I promised.{p}
+
+## MGG09G g0 s0208
+JP: {col:0}『攻撃力カード』{col:-}をゲット!{n}なんと、{col:0}攻撃力{col:-}が少し上昇した!{p}
+EN: Got the {col:0}"Attack Card"{col:-}! Your {col:0}Attack{col:-} went up a little!{p}
+
+## MGG09G g0 s0209
+JP: よし、心理戦で勝負だ!{n}バツの集中力を乱して、{n}勝利をもぎ取ってやるぜ!{p}{end}
+EN: OK, mind games! I'll break Batsu's focus and snatch the win!{p}{end}
+
+## MGG09G g0 s0212
+JP: バツ、あそこを見てみろよ!{n}…もしかして、UFOじゃないか!?{p}
+EN: Batsu, look over there! ...Is that a UFO!?{p}
+
+## MGG09G g0 s0216
+JP: くうっ、考えてみれば{n}バツに小細工なんか通用するわけないか。{n}これは作戦失敗だったな。{p}
+EN: Ngh, come to think of it, tricks were never gonna work on Batsu. Bad strategy.{p}
+
+## MGG09G g0 s0219
+JP: よぉし、将馬と勝負だ!{p}
+EN: All right, I'll take on Shoma!{p}
+
+## MGG09G g0 s0220
+JP: オイラをご指名か。{n}{v3:3}、勝負だ!{p}
+EN: You pickin' me, huh? {v3:3}, let's go!{p}
+
+## MGG09G g0 s0221
+JP: （将馬相手にどう戦う?）{p}{end}
+EN: (How should I fight Shoma?){p}{end}
+
+## MGG09G g0 s0225
+JP: でやあああああああああああ!!{p}
+EN: Haaaaaaaaaaaaah!!{p}
+
+## MGG09G g0 s0227
+JP: （よしっ!{n}{sp}全力でいけば、俺の方がパワーは上だ。{n}{sp}この勝負、もらったぜ!!）{p}{end}
+EN: (All right! If I go all out, I'm stronger. This one's mine!!){p}{end}
+
+## MGG09G g0 s0229
+JP: よし、俺の勝ちだな!{p}{end}
+EN: All right, I win!{p}{end}
+
+## MGG09G g0 s0230
+JP: くそっ、{v3:3}のバカ力には{n}かなわないぜ。{p}{end}
+EN: Dang, I can't beat your dumb brute strength, {v3:3}.{p}{end}
+
+## MGG09G g0 s0231
+JP: バカは余計だよ。{n}それより、約束のアイテムをくれよ。{p}{end}
+EN: Leave out the "dumb." Anyway, hand over the item you promised.{p}{end}
+
+## MGG09G g0 s0232
+JP: わかってるよ。{n}ほら、これがそのアイテムだ。{p}{end}
+EN: I know, I know. Here, this is the item.{p}{end}
+
+## MGG09G g0 s0234
+JP: はじめは守りに徹して、{n}長期戦に持ち込んでみるか。{p}
+EN: Maybe I'll defend first and drag it out.{p}
+
+## MGG09G g0 s0239
+JP: （……いつまでたっても、{n}{sp}力が弱まらないぞ?{sp}ヤ、ヤバイ…）{p}
+EN: (...His strength isn't fading at all? Uh-oh...){p}
+
+## MGG09G g0 s0240
+JP: うおりゃああああああっ!{p}{end}
+EN: Hyaaaaaaaah!{p}{end}
+
+## MGG09G g0 s0242
+JP: やったぜ!{n}オイラの勝ちだな!{p}
+EN: Yeah! I win!{p}
+
+## MGG09G g0 s0243
+JP: くうっ。{n}考えてみれば、野球部員の将馬に{n}スタミナ勝負なんか通用するわけないか。{n}これは作戦失敗だったな。{p}
+EN: Ngh. Come to think of it, a stamina contest was never gonna work on Shoma, a baseball player. Bad strategy.{p}
+
+## MGG09G g0 s0244
+JP: まあ、オイラ相手にこれだけ{n}持ったんだから十分だと思うけどな。{p}
+EN: Well, lastin' this long against me is pretty good, I'd say.{p}
+
+## MGG09G g0 s0246
+JP: よし、心理戦で勝負だ!{n}将馬の集中力を乱して、{n}勝利をもぎ取ってやるぜ!{p}{end}
+EN: OK, mind games! I'll break Shoma's focus and snatch the win!{p}{end}
+
+## MGG09G g0 s0249
+JP: 将馬、あそこを見てみろよ!{n}…もしかして、UFOじゃないか!?{p}
+EN: Shoma, look over there! ...Is that a UFO!?{p}
+
+## MGG09G g0 s0253
+JP: くうっ、考えてみれば{n}将馬に小細工なんか通用するわけないか。{n}これは作戦失敗だったな。{p}
+EN: Ngh, come to think of it, tricks were never gonna work on Shoma. Bad strategy.{p}
+
+## MGG09G g0 s0256
+JP: よぉし、岩と勝負だ!{p}{end}
+EN: All right, I'll take on Gan!{p}{end}
+
+## MGG09G g0 s0257
+JP: おう、わしとか?{n}後悔してもしらんぞい!{p}{end}
+EN: Oh, me, is it? Don't come cryin' to me later!{p}{end}
+
+## MGG09G g0 s0258
+JP: （岩相手にどう戦う?）{p}
+EN: (How should I fight Gan?){p}
+
+## MGG09G g0 s0261
+JP: はっけよい!{n}のこった!{p}{end}
+EN: Hakkeyoi! Nokotta!{p}{end}
+
+## MGG09G g0 s0263
+JP: うりゃうりゃうりゃ、うりゃあ!{p}
+EN: Hrah hrah hrah, hraaah!{p}
+
+## MGG09G g0 s0264
+JP: （な、なんて怪力だ!{n}{sp}あと、数秒も持たないぞ!?）{p}{end}
+EN: (Wh-what monster strength! I won't last more than a few seconds!?){p}{end}
+
+## MGG09G g0 s0266
+JP: があっはっはっはっはっは!{n}力くらべではワシの勝ちじゃのう。{p}{end}
+EN: Gahahahahaha! Looks like I win this test o' strength.{p}{end}
+
+## MGG09G g0 s0268
+JP: しかし、ワシ相手にこれだけ{n}善戦した男は久しぶりじゃわい。{n}おぬし、立派じゃったぞ。{p}{end}
+EN: Still, it's been a while since a fella gave me this good a fight. You did yourself proud.{p}{end}
+
+## MGG09G g0 s0274
+JP: うりゃうりゃうりゃ!{p}{end}
+EN: Hrah hrah hrah!{p}{end}
+
+## MGG09G g0 s0276
+JP: どっせーいっ!{p}
+EN: Hyaaah!{p}
+
+## MGG09G g0 s0279
+JP: くうっ。{n}考えてみれば、岩にスタミナ勝負{n}なんか通用するわけないか。{n}これは作戦失敗だったな。{p}
+EN: Ngh. Come to think of it, a stamina contest was never gonna work on Gan. Bad strategy.{p}
+
+## MGG09G g0 s0282
+JP: よし、心理戦で勝負だ!{n}岩の集中力を乱して、{n}勝利をもぎ取ってやるぜ!{p}
+EN: OK, mind games! I'll break Gan's focus and snatch the win!{p}
+
+## MGG09G g0 s0285
+JP: 岩、そこを見てみろよ!{n}…もしかして、UFOじゃないか!?{p}
+EN: Gan, look there! ...Is that a UFO!?{p}
+
+## MGG09G g0 s0286
+JP: な、なに、UFO!?{n}一体どこじゃい?{p}
+EN: Wh-what, a UFO!? Where at?{p}
+
+## MGG09G g0 s0287
+JP: （岩の力がゆるんだぞっ!{n}{sp}今だっ!）{p}
+EN: (Gan's grip loosened! Now!){p}
+
+## MGG09G g0 s0288
+JP: うおおおっ!{p}{end}
+EN: Raaaaah!{p}{end}
+
+## MGG09G g0 s0290
+JP: むうう、油断した。{n}納得はいかんが、{n}これが勝負というものじゃからのう。{n}ほれ、これが約束のアイテムじゃい。{p}{end}
+EN: Hmm, I let my guard down. Don't sit right with me, but that's how contests go. Here, the item I promised.{p}{end}
+
+## MGG09G g0 s0294
+JP: えーと、お化け屋敷は{n}確かこの辺だったと思うけど……{p}{end}
+EN: Let's see, I think the haunted house was around here...{p}{end}
+
+## MGG09G g0 s0295
+JP: ぎえええええええ～～っ!!{p}
+EN: Gyaaaaaaaaah!!{p}
+
+## MGG09G g0 s0296
+JP: で、で、で、でたでた!{n}ほ、本物の幽霊だぁ!{p}{end}
+EN: Th-th-th-there it is! A r-real ghost!{p}{end}
+
+## MGG09G g0 s0297
+JP: いやあ、スマンスマン。{n}少しやり過ぎてしまったようだ。{p}
+EN: Ah, sorry, sorry. It seems I overdid it a bit.{p}
+
+## MGG09G g0 s0298
+JP: な、なんだ……先公かよ。{n}まったく、おどかすんじゃねェよ!!{p}{end}
+EN: Wh-what... It's just a teacher. Geez, don't scare me like that!!{p}{end}
+
+## MGG09G g0 s0299
+JP: ああっ、お化け屋敷のセットが!{n}美術部のみんなが苦労して作ったのに。{p}{end}
+EN: Ah, the haunted house set! The art club worked so hard on it.{p}{end}
+
+## MGG09G g0 s0300
+JP: あ～あ、メチャクチャだ。{n}こりゃあヒドイ……{p}{end}
+EN: Ugh, it's totally wrecked. This is awful...{p}{end}
+
+## MGG09G g0 s0301
+JP: これじゃ、中に人を入れられないわ。{n}そこの、髪の毛が立ってるアナタ、{n}セットを直すのを手伝ってもらうわよ!{p}
+EN: Now we can't let anyone in. You there, with the spiky hair, you're helping me fix the set!{p}
+
+## MGG09G g0 s0302
+JP: 過失とはいえ、実際に壊したのは君だ。{n}申し訳ないが、セットの修理を手伝って{n}あげてくれないかね?{p}{end}
+EN: Accident or not, you are the one who actually broke it. I'm sorry, but would you help her repair the set?{p}{end}
+
+## MGG09G g0 s0303
+JP: アァ?{sp}寝ぼけたこと言うなよ。{n}なんでオレが手伝わなくちゃ{n}なんねーんだよ。{p}{end}
+EN: Huh? Quit talkin' nonsense. Why do I gotta help?{p}{end}
+
+## MGG09G g0 s0304
+JP: うーん、ここはどうしたら{n}いいかな……{p}
+EN: Hmm, what should I do here...{p}
+
+## MGG09G g0 s0305
+JP: エッジに修理させる{n}英雄先生に修理してもらう{p}{end}
+EN: Make Edge fix it{n}Have Hideo-sensei fix it{p}{end}
+
+## MGG09G g0 s0306
+JP: エッジ、やっぱりお前が{n}壊したんだから修理を手伝えよ。{n}それが筋ってもんだろ。{n}もし醍醐先輩にばれたら、怒られるぞ。{p}{end}
+EN: Edge, you broke it, so you should help fix it. That's only right. If Daigo-senpai finds out, you'll get chewed out.{p}{end}
+
+## MGG09G g0 s0307
+JP: ケッ、わかったよ。{n}やりゃあいいんだろ、やりゃあ。{p}
+EN: Tch, fine. I'll do it, OK? I'll do it.{p}
+
+## MGG09G g0 s0308
+JP: いや～、お茶がうまい!{n}実は、ずっとおどかし役をしていて{n}休む暇もなかったんですよ。{p}{end}
+EN: Ahh, this tea is wonderful! I've actually been scaring people nonstop, with no time to rest.{p}{end}
+
+## MGG09G g0 s0309
+JP: それじゃあ、だいぶお疲れですね。{n}響子先生直伝のマッサージなんて{n}いかがですか?{p}{end}
+EN: Then you must be pretty worn out. How about a massage, taught by Kyoko-sensei herself?{p}{end}
+
+## MGG09G g0 s0310
+JP: おお…極楽、極楽。{n}{v0}{col:0}君{col:-}、やりますね～。{p}{end}
+EN: Ohh... Heavenly, heavenly. {v0}{col:0}-kun{col:-}, you're good at this~.{p}{end}
+
+## MGG09G g0 s0311
+JP: （英雄先生、そのリアクションは{n}{sp}おっさんくさすぎ……）{p}{end}
+EN: (Hideo-sensei, that reaction is way too old-man...){p}{end}
+
+## MGG09G g0 s0312
+JP: だいぶリフレッシュできましたよ。{n}{v0}{col:0}君{col:-}、つまらんものだが{n}これを持っていきたまえ。{p}
+EN: I feel quite refreshed. {v0}{col:0}-kun{col:-}, it's only a trifle, but do take this.{p}
+
+## MGG09G g0 s0314
+JP: そうは言っても、エッジがセットを{n}壊してしまうほどに追い込んだのは{n}英雄先生ですよね。{p}
+EN: Still, Hideo-sensei, you're the one who scared Edge so badly that he broke the set.{p}
+
+## MGG09G g0 s0315
+JP: 確かに。{n}私にも、責任の一端はあるな。{p}
+EN: True. I bear part of the blame as well.{p}
+
+## MGG09G g0 s0316
+JP: 相手がエッジだから良かったですけど、{n}これが子どもやお年寄りの方だったら{n}どうなっていたかわかりませんよ。{p}
+EN: Good thing it was Edge, but if it had been a child or an elderly person, who knows what might have happened.{p}
+
+## MGG09G g0 s0317
+JP: うむ、私もいささか調子に{n}乗りすぎていた様だ。{p}
+EN: Hm, it seems I got a little carried away myself.{p}
+
+## MGG09G g0 s0318
+JP: エッジ君、君はもう行ってよろしい。{n}修理の手伝いは、{n}私がやることにしよう。{p}{end}
+EN: Edge-kun, you may go. I will help with the repairs myself.{p}{end}
+
+## MGG09G g0 s0319
+JP: 助かったぜェ、{v3:9}。{n}オマエにはカリができちまったな。{n}そうだ、こいつをオマエにやるよ。{n}とっといてくれ。{p}
+EN: You saved my hide, {v3:9}. Guess I owe ya one. Here, take this. Hang on to it.{p}
+
+## MGG09G g0 s0323
+JP: 生徒会室はこの先だったな。{n}おっ、あそこにいるのは{n}雹さんじゃないか。{n}グッドタイミングだな!{p}
+EN: The council room is up ahead. Oh, isn't that Hyo-san over there? Perfect timing!{p}
+
+## MGG09G g0 s0324
+JP: ん?{n}誰かと話してるみたいだけど、{n}あれはランじゃないか?{p}
+EN: Hm? Looks like he's talking to someone. Isn't that Ran?{p}
+
+## MGG09G g0 s0325
+JP: そう言わずに、何か一言{n}コメントをお願いします!{p}{end}
+EN: Come on, just give me one comment, please!{p}{end}
+
+## MGG09G g0 s0326
+JP: 何度も言うが、話す事は何もない。{n}私は多忙なのだ、そこをどいてもらおう。{p}{end}
+EN: As I have told you many times, I have nothing to say. I am busy. Step aside.{p}{end}
+
+## MGG09G g0 s0327
+JP: そうはいかないわ!{n}今日こそ真相を話してもらいますからね。{p}
+EN: No way! Today you're telling me the truth.{p}
+
+## MGG09G g0 s0328
+JP: まったく……{n}話のわからんやつだ。{p}
+EN: Honestly... You are impossible to reason with.{p}
+
+## MGG09G g0 s0329
+JP: ランの突撃インタビューか。{n}さすがの雹さんも困り果ててる{n}みたいだな。{p}
+EN: Ran's ambush interview, huh. Even Hyo-san looks at his wit's end.{p}
+
+## MGG09G g0 s0330
+JP: そうだな、ここはひとつ……{p}
+EN: Well, in that case...{p}
+
+## MGG09G g0 s0331
+JP: ランを追い払う{n}ランの取材を手伝ってやる{p}{end}
+EN: Chase Ran off{n}Help Ran with her interview{p}{end}
+
+## MGG09G g0 s0332
+JP: 雹さんのために、ランを追い払ってみるか…{n}おーい、ラン。{p}{end}
+EN: Let's try chasing Ran off for Hyo-san's sake... Hey, Ran.{p}{end}
+
+## MGG09G g0 s0333
+JP: うるさいわねっ。{n}今取材中なの、後にしなさいよ!{p}{end}
+EN: Quiet! I'm in the middle of an interview, so come back later!{p}{end}
+
+## MGG09G g0 s0334
+JP: あ、そう。{n}残念だなぁ、せっかくランが泣いて喜ぶ{n}ような特ダネを持ってきたのに。{p}{end}
+EN: Oh, OK. Too bad. And I brought a scoop that would make you cry for joy.{p}{end}
+
+## MGG09G g0 s0335
+JP: なんですって!?{n}もう、ど～してそれを早く言わないのよ!{n}で、特ダネってナニ?{p}
+EN: What!? Geez, why didn't you say so sooner! So, what's the scoop?{p}
+
+## MGG09G g0 s0336
+JP: なんでも、屋台村で不審火があったらしい。{n}某国のスパイのしわざだっていう、{n}もっぱらの噂だよ。{p}
+EN: Apparently there was a suspicious fire at the food stalls. Word is it's the work of a foreign spy.{p}
+
+## MGG09G g0 s0337
+JP: ……うーん、それは何か裏があるわね。{n}さっそく取材よっ!{p}{end}
+EN: ...Hmm, there's something behind that. Time to investigate!{p}{end}
+
+## MGG09G g0 s0338
+JP: {v0}、今の不審火の話は本当か?{p}{end}
+EN: {v0}, is that story about the fire true?{p}{end}
+
+## MGG09G g0 s0339
+JP: ウソですよ、ウソ!{n}この手なら、ランを簡単に{n}追い払えますからね。{p}
+EN: It's a lie, a total lie! That trick gets rid of Ran easy.{p}
+
+## MGG09G g0 s0340
+JP: フッ、フハハハ。考えてみればそうだな。{n}どこの国に、たかが学園祭で騒ぎを起こす{n}スパイがいるというのだ。{n}いや、これはケッサクだ。{p}
+EN: Heh, hahaha. Now that I think of it, of course. What nation would send a spy to cause trouble at a mere school festival? This is priceless.{p}
+
+## MGG09G g0 s0341
+JP: ともかく、あの女を{n}追い払ってくれて感謝する。{n}そうだ、これを持って行くがいい。{n}必ずやお前の力になることだろう。{p}
+EN: In any case, I thank you for driving that woman away. Here, take this. It will surely lend you strength.{p}
+
+## MGG09G g0 s0343
+JP: たまにはランの取材を手伝ってやるか。{n}雹さん、ちょっといいですか?{p}
+EN: Guess I'll help Ran with her interview for once. Hyo-san, do you have a moment?{p}
+
+## MGG09G g0 s0344
+JP: {v4:19}、{n}私が先にインタビューしてたんだから。{n}割り込まないでよね!{p}
+EN: {v4:19}, I was interviewing him first. Don't butt in!{p}
+
+## MGG09G g0 s0345
+JP: 何だ?{p}
+EN: What is it?{p}
+
+## MGG09G g0 s0346
+JP: ここは、ランの質問に一回だけ{n}答えてやるというのはどうでしょう?{p}{end}
+EN: How about answering just one of Ran's questions?{p}{end}
+
+## MGG09G g0 s0347
+JP: 何を言うのかと思えば、くだらん。{n}この私に折れろというのか?{p}{end}
+EN: I wondered what you would say. Nonsense. You expect me to give in?{p}{end}
+
+## MGG09G g0 s0348
+JP: でも、このまま押し問答しているよりは{n}時間の節約になると思うんですけど。{p}{end}
+EN: But I think it'd save more time than going back and forth like this.{p}{end}
+
+## MGG09G g0 s0349
+JP: ふん、それもそうだな。{n}ランとやら、ひとつだけ質問に答えてやる。{p}{end}
+EN: Hmph, that is true. Ran, was it? I will answer one question.{p}{end}
+
+## MGG09G g0 s0350
+JP: ホントですか!?{n}ラッキー!{p}{end}
+EN: Really!? Lucky!{p}{end}
+
+## MGG09G g0 s0351
+JP: {v4:19}、{n}アンタ結構やるじゃない。{n}あの生徒会長を言いくるめるなんてね。{n}おかげで、取材もうまくいったわ。{p}{end}
+EN: {v4:19}, you're pretty good. Talking the council president around like that! Thanks to you, my interview went great.{p}{end}
+
+## MGG09G g0 s0352
+JP: そうだ、せめてものお礼にとっておきの{n}アイテムをあげるわ!{p}
+EN: Oh, right, as thanks, I'll give you a really special item!{p}
+
+## MGG09G g0 s0356
+JP: いよいよ、学園祭最後にして最大のイベント{n}ダンス大会のスタートだ!{p}
+EN: At last, the final and biggest event of the festival, the dance contest, is starting!{p}
+
+## MGG09G g0 s0357
+JP: 一緒にダンスを踊る相手は誰にしようか?{n}まずはどの学校の人を誘うのか決めよう。{p}
+EN: Who should I dance with? First, let's decide which school to ask.{p}
+
+## MGG09G g0 s0358
+JP: 太陽学園{sp}{sp}{sp}{sp}{sp}{sp}五輪高校{sp}{sp}{sp}{sp}{sp}{sp}{n}パシフィックHS{sp}{sp}外道高校{sp}{sp}{sp}{sp}{sp}{sp}{n}ジャスティス学園{p}{end}
+EN: Taiyo High          Gorin High{n}Pacific High        Gedo High{n}Justice High{p}{end}
+
+## MGG09G g0 s0359
+JP: さて、太陽学園の誰にしようかな?{p}{end}
+EN: Now, who from Taiyo High should I ask?{p}{end}
+
+## MGG09G g0 s0360
+JP: バツ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ひなた{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}恭介{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ラン{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}隼人{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}学校を選びなおす{p}{end}
+EN: Batsu               Hinata{n}Kyosuke             Ran{n}Hayato-sensei       Pick another school{p}{end}
+
+## MGG09G g0 s0361
+JP: よし、じゃあバツを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Batsu and jump into the dance contest!{p}
+
+## MGG09G g0 s0362
+JP: よし、じゃあひなたを誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Hinata and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0363
+JP: よし、じゃあ恭介を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Kyosuke and jump into the dance contest!{p}
+
+## MGG09G g0 s0364
+JP: よし、じゃあランを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Ran and jump into the dance contest!{p}
+
+## MGG09G g0 s0365
+JP: よし、じゃあ隼人先生を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Hayato-sensei and jump into the dance contest!{p}
+
+## MGG09G g0 s0366
+JP: さて、五輪高校の誰にしようかな?{p}{end}
+EN: Now, who from Gorin High should I ask?{p}{end}
+
+## MGG09G g0 s0367
+JP: 将馬{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}夏{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}ロベルト{sp}{sp}{sp}{sp}{sp}{sp}流{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}学校を選びなおす{p}{end}
+EN: Shoma               Natsu{n}Roberto             Nagare{n}Pick another school{p}{end}
+
+## MGG09G g0 s0368
+JP: よし、じゃあ将馬を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Shoma and jump into the dance contest!{p}
+
+## MGG09G g0 s0369
+JP: よし、じゃあ夏を誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Natsu and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0370
+JP: よし、じゃあロベルトを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Roberto and jump into the dance contest!{p}
+
+## MGG09G g0 s0371
+JP: よし、じゃあ流さんを誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Nagare-san and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0372
+JP: さて、パシフィックHSの誰にしようかな?{p}{end}
+EN: Now, who from Pacific High should I ask?{p}{end}
+
+## MGG09G g0 s0373
+JP: ロイ{n}ティファニー{n}ボーマン{n}学校を選びなおす{p}
+EN: Roy{n}Tiffany{n}Boman{n}Pick another school{p}
+
+## MGG09G g0 s0374
+JP: よし、じゃあロイを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Roy and jump into the dance contest!{p}
+
+## MGG09G g0 s0375
+JP: よし、じゃあティファニーを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Tiffany and jump into the dance contest!{p}
+
+## MGG09G g0 s0376
+JP: よし、じゃあボーマンを誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Boman and jump into the dance contest!{p}
+
+## MGG09G g0 s0377
+JP: さて、外道高校の誰にしようかな?{p}{end}
+EN: Now, who from Gedo High should I ask?{p}{end}
+
+## MGG09G g0 s0378
+JP: エッジ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}アキラ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}岩{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}醍醐{n}学校を選びなおす{p}{end}
+EN: Edge                  Akira{n}Gan                   Daigo{n}Pick another school{p}{end}
+
+## MGG09G g0 s0379
+JP: よし、じゃあエッジを誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Edge and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0380
+JP: よし、じゃあアキラを誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Akira and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0381
+JP: よし、じゃあ岩を誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Gan and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0382
+JP: よし、じゃあ醍醐先輩を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Daigo-senpai and jump into the dance contest!{p}
+
+## MGG09G g0 s0383
+JP: さて、ジャスティス学園の誰にしようかな?{p}{end}
+EN: Now, who from Justice High should I ask?{p}{end}
+
+## MGG09G g0 s0384
+JP: 英雄{n}響子{n}雹{n}学校を選びなおす{p}{end}
+EN: Hideo-sensei{n}Kyoko-sensei{n}Hyo{n}Pick another school{p}{end}
+
+## MGG09G g0 s0385
+JP: よし、じゃあ英雄先生を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Hideo-sensei and jump into the dance contest!{p}
+
+## MGG09G g0 s0386
+JP: よし、じゃあ響子先生を誘って{n}ダンス大会に飛び入り参加だ!{p}
+EN: All right, I'll ask Kyoko-sensei and jump into the dance contest!{p}
+
+## MGG09G g0 s0387
+JP: よし、じゃあ雹さんを誘って{n}ダンス大会に飛び入り参加だ!{p}{end}
+EN: All right, I'll ask Hyo-san and jump into the dance contest!{p}{end}
+
+## MGG09G g0 s0388
+JP: {v3:0}、オマエやるじゃねぇか!{n}ちょっと見直したぜ。{p}
+EN: {v3:0}, you're pretty good! You just went up in my book.{p}
+
+## MGG09G g0 s0389
+JP: いやぁ、それほどでもないさ。{p}{end}
+EN: Nah, it was nothing.{p}{end}
+
+## MGG09G g0 s0390
+JP: でも、半分はオレのおかげでも{n}あるんだから、感謝してくれよな!{p}
+EN: But half of it's thanks to me, so you'd better be grateful!{p}
+
+## MGG09G g0 s0391
+JP: 今日は最高に楽しかったぜ。{n}また来年も楽しい学園祭にしたいよな!{p}{end}
+EN: Today was a total blast. Let's make next year's festival a blast too!{p}{end}
+
+## MGG09G g0 s0392
+JP: ああ、そうだな。{n}来年の学園祭も頑張ろうぜ!{p}{end}
+EN: Yeah, you said it. Let's give next year's festival everything we've got!{p}{end}
+
+## MGG09G g0 s0393
+JP: まあ、こんなもんだろ。{n}オレもダンスは得意じゃねぇしな。{p}{end}
+EN: Eh, that's about what I figured. I'm not much of a dancer either.{p}{end}
+
+## MGG09G g0 s0394
+JP: 今日は楽しかったぜ、{v3:0}。{n}じゃ、また学校でな!{p}{end}
+EN: Today was fun, {v3:0}. See ya at school!{p}{end}
+
+## MGG09G g0 s0395
+JP: おい{v3:0}、{n}オマエやる気あんのかよ?{n}もう少しマジメにやれよな!{p}{end}
+EN: Hey, {v3:0}, are you even trying? Take it a little more seriously!{p}{end}
+
+## MGG09G g0 s0396
+JP: ゴ、ゴメン……{p}
+EN: S-sorry...{p}
+
+## MGG09G g0 s0397
+JP: なーんかしらけちまったな。{n}さっさと帰ろうぜ。{p}
+EN: Kinda killed the mood. Let's just go home.{p}
+
+## MGG09G g0 s0398
+JP: {v6:1}ってすごいんだね!{n}私、ちょっと見直しちゃった。{p}{end}
+EN: {v6:1}, you're amazing! I'm kinda impressed.{p}{end}
+
+## MGG09G g0 s0399
+JP: ありがと。{n}でも、半分はひなたのおかげさ。{p}
+EN: Thanks. But half of it's thanks to you, Hinata.{p}
+
+## MGG09G g0 s0400
+JP: エヘヘ……{n}なんだか照れちゃうな{col:5}♥{col:-}{p}
+EN: Hehe... You're making me blush{col:5}♥{col:-}{p}
+
+## MGG09G g0 s0401
+JP: 今日はとっても楽しかったな。{n}また来年も、ステキな学園祭に{n}なるといいよね。{p}{end}
+EN: Today was so much fun. I hope next year's festival is just as great.{p}{end}
+
+## MGG09G g0 s0402
+JP: そうだね、なんだか来年の学園祭が{n}楽しみになってきたよ。{p}{end}
+EN: Yeah, I'm already looking forward to next year's festival.{p}{end}
+
+## MGG09G g0 s0403
+JP: ふぅ。{n}ダンス大会、面白かったね。{p}
+EN: Phew. The dance contest was fun, huh?{p}
+
+## MGG09G g0 s0404
+JP: じゃあ、{v6:1}。{n}また学校でね!{p}
+EN: Well, {v6:1}, see you at school!{p}
+
+## MGG09G g0 s0405
+JP: え～?{n}ちょっと、{v6:1}。{n}それ、本気でやってるの?{p}
+EN: Huh? Hey, {v6:1}. Are you seriously trying?{p}
+
+## MGG09G g0 s0407
+JP: なんだか疲れちゃった。{n}私、先に帰るね。{p}{end}
+EN: I'm kinda tired. I'm heading home first.{p}{end}
+
+## MGG09G g0 s0408
+JP: やるじゃないか。{n}正直、キミがここまで僕のダンスに{n}ついて来れるとは思わなかったよ。{p}{end}
+EN: Not bad. Honestly, I never thought you could keep up with my dancing this well.{p}{end}
+
+## MGG09G g0 s0409
+JP: いやぁ、それほどでもないさ。{n}やっぱり恭介にはかなわないよ。{p}{end}
+EN: Nah, it was nothing. I'm still no match for you, Kyosuke.{p}{end}
+
+## MGG09G g0 s0410
+JP: そ、そうかい?{n}キミも結構いいセンいってると思うぞ。{p}{end}
+EN: I-is that so? I think you're pretty good yourself.{p}{end}
+
+## MGG09G g0 s0411
+JP: いろいろあったが、{n}今年の学園祭は楽しかったな。{p}{end}
+EN: A lot happened, but this year's festival was fun.{p}{end}
+
+## MGG09G g0 s0412
+JP: ああ、そうだな。{n}来年の学園祭はもっと楽しく{n}なるように頑張ろうぜ!{p}{end}
+EN: Yeah, it was. Let's work to make next year's festival even more fun!{p}{end}
+
+## MGG09G g0 s0413
+JP: まあ、こんなところだろう。{n}キミもよく頑張ったな。{p}
+EN: Well, I suppose that's about right. You did well too.{p}
+
+## MGG09G g0 s0414
+JP: {v4:2}、お疲れさま。{n}また学校でな。{p}
+EN: Good work, {v4:2}. See you at school.{p}
+
+## MGG09G g0 s0415
+JP: おい、キミはふざけてるのか?{n}パートナーである僕に対して、{n}失礼じゃないのか?{p}
+EN: Hey, are you fooling around? Isn't that rude to me, your partner?{p}
+
+## MGG09G g0 s0416
+JP: ゴ、ゴメン……{n}一応マジメにやったんだけど。{p}{end}
+EN: S-sorry... I really was trying.{p}{end}
+
+## MGG09G g0 s0417
+JP: なんだか気が滅入ってしまったよ。{n}それじゃ、また学校で会おう。{p}
+EN: That's put me in rather a gloomy mood. Well, I'll see you at school.{p}
+
+## MGG09G g0 s0418
+JP: え～、それでは{n}本日のヒーローインタビューです!{n}{v0}選手、現在の心境は?{p}{end}
+EN: And now, it's time for today's hero interview! {v0}, how do you feel right now?{p}{end}
+
+## MGG09G g0 s0419
+JP: いやぁ、たまたまっすよ。{n}たまたま。{p}{end}
+EN: Aw, I just got lucky. Just lucky.{p}{end}
+
+## MGG09G g0 s0420
+JP: あくまでも謙虚な{n}{v0}選手でした!{p}{end}
+EN: Humble to the very end, that's {v0}!{p}{end}
+
+## MGG09G g0 s0421
+JP: お疲れさま、{v4:19}。{n}アンタのおかげで、{n}今日はいいネタばかり手に入ったわ!{n}感謝してるわよ。{p}{end}
+EN: Good work, {v4:19}. Thanks to you, I got nothing but great material today! I owe you one.{p}{end}
+
+## MGG09G g0 s0422
+JP: そうか、そりゃ良かった。{n}面白い記事を書いてくれよな。{n}楽しみにしてるぜ。{p}
+EN: Really? Glad to hear it. Write something fun, OK? I'm looking forward to it.{p}
+
+## MGG09G g0 s0423
+JP: うーん。{n}いまいちパッとしないけど、{n}こんなものかもしれないわね。{p}
+EN: Hmm. Not very flashy, but maybe that's just how it goes.{p}
+
+## MGG09G g0 s0424
+JP: さてと……{n}それじゃ、そろそろ帰るとしますか。{p}
+EN: Well then... Guess it's time to head home.{p}
+
+## MGG09G g0 s0425
+JP: あんたねぇ!{n}そんなサルみたいな踊りで記事が{n}書けると思ってんの?{p}
+EN: Hey, you! You think I can write an article about monkey dancing like that?{p}
+
+## MGG09G g0 s0427
+JP: ……ハァ。{n}こんなんじゃ、記事が書けないわね。{n}ワタシはネタ探しをしてから帰るわ。{n}じゃあね!{p}
+EN: ...Sigh. I can't write an article out of this. I'm gonna hunt for a story before I go home. Bye!{p}
+
+## MGG09G g0 s0428
+JP: {v3:16}、なかなかやるじぇねぇか!{n}正直オマエを見直したぞ。{p}{end}
+EN: {v3:16}, you're not half bad! Honestly, you went up in my book.{p}{end}
+
+## MGG09G g0 s0429
+JP: そんな、俺なんてまだまだですよ。{p}{end}
+EN: Oh no, I've still got a long way to go.{p}{end}
+
+## MGG09G g0 s0430
+JP: いいか、忘れるんじゃないぜ。{n}ダンスは体で踊るもんじゃねぇ、{n}魂で踊るもんだ。{p}
+EN: Listen, don't you forget it. Ya don't dance with your body. Ya dance with your soul.{p}
+
+## MGG09G g0 s0431
+JP: なんだかんだ言っても、{n}学園祭ってぇのはいいもんだな。{p}
+EN: Say what ya want, a school festival's a fine thing.{p}
+
+## MGG09G g0 s0432
+JP: そうですね。{n}来年も今年以上に面白くなるように{n}頑張らないといけませんね。{p}
+EN: Yes. We'll have to work hard to make next year even better than this one.{p}
+
+## MGG09G g0 s0433
+JP: まあ、オマエの実力じゃあ{n}こんなもんだろう。{p}{end}
+EN: Well, with your skills, that's about what I figured.{p}{end}
+
+## MGG09G g0 s0434
+JP: いいか、お祭り気分は今日までだ。{n}また来週からビシバシ行くぞ!{p}
+EN: Listen, the party mood ends today. Starting next week, I'm crackin' the whip again!{p}
+
+## MGG09G g0 s0435
+JP: {v3:16}、真面目にやってんのか?{n}オマエも男なら、ウダウダ考える前に{n}まずは魂で踊りやがれ!{p}{end}
+EN: {v3:16}, are ya takin' this seriously? If you're a man, quit overthinkin' and dance with your soul!{p}{end}
+
+## MGG09G g0 s0436
+JP: すっ、すみません!{n}一応マジメにやったんですけど。{p}
+EN: S-sorry! I really did try.{p}
+
+## MGG09G g0 s0437
+JP: まあいい。{n}この失敗を反省材料にして、{n}せいぜい次回に生かすんだな!{p}{end}
+EN: Fine. Learn from this failure and do better next time!{p}{end}
+
+## MGG09G g0 s0438
+JP: {v3:3}、オマエやるなぁ!{n}オイラ、ダンスは詳しくないけど、{n}かなり良かったと思うぜ。{p}
+EN: {v3:3}, you're good! I don't know much about dancin', but I thought that was great.{p}
+
+## MGG09G g0 s0439
+JP: いやぁ。{n}なんかそこまで言われると照れるな。{n}でも、俺なんてまだまださ。{p}{end}
+EN: Aw. Hearing that much makes me blush. But I've still got a long way to go.{p}{end}
+
+## MGG09G g0 s0440
+JP: 今日はずいぶん控えめじゃねぇか。{n}もしかしたら、明日は雨かもしれねぇな。{p}{end}
+EN: You're awful modest today. Maybe it's gonna rain tomorrow.{p}{end}
+
+## MGG09G g0 s0441
+JP: いろいろあったけど、{n}今年の学園祭は楽しかったよなぁ。{p}
+EN: A lot happened, but this year's festival sure was fun, huh?{p}
+
+## MGG09G g0 s0443
+JP: まあ、オイラの実力なら{n}こんなところだろうな。{n}オマエもよく頑張ったと思うぜ。{p}
+EN: Well, with my skills, that's about right. I think you did pretty good too.{p}
+
+## MGG09G g0 s0444
+JP: {v3:3}、じゃあまた学校でな。{p}
+EN: {v3:3}, see ya at school.{p}
+
+## MGG09G g0 s0445
+JP: おい、オマエふざけてんのか?{n}オイラがダンス苦手だからって、{n}それはねぇだろう?{p}{end}
+EN: Hey, are you messin' with me? Just 'cause I'm bad at dancin', that ain't cool!{p}{end}
+
+## MGG09G g0 s0447
+JP: なんだかしらけちまったぜ。{n}じゃ、また学校で会おうな。{p}
+EN: That kinda killed the mood. See ya at school.{p}
+
+## MGG09G g0 s0448
+JP: {v6:4}、やるじゃない。{n}アンタがここまでアタシのダンスに{n}ついて来れるとは思わなかったわ。{p}{end}
+EN: Not bad, {v6:4}. I never thought you could keep up with my dancing this well.{p}{end}
+
+## MGG09G g0 s0449
+JP: たいしたことないさ。{n}やっぱり夏にはかなわないよ。{p}
+EN: It was nothing. I'm still no match for you, Natsu.{p}
+
+## MGG09G g0 s0450
+JP: そんなことないわよ。{n}アンタも結構いいセンいってると思うわ。{p}{end}
+EN: That's not true. I think you're pretty good yourself.{p}{end}
+
+## MGG09G g0 s0451
+JP: いろいろあったけど、{n}今年の学園祭は楽しかったわね。{p}{end}
+EN: A lot happened, but this year's festival was fun.{p}{end}
+
+## MGG09G g0 s0453
+JP: まあ、こんなところかしらね。{n}アンタもよく頑張ったじゃない。{p}{end}
+EN: Well, that's about right, I guess. You did pretty well.{p}{end}
+
+## MGG09G g0 s0454
+JP: {v6:4}、じゃあまた学校でね。{p}
+EN: {v6:4}, see you at school.{p}
+
+## MGG09G g0 s0455
+JP: ちょっと、アンタふざけてんの?{n}いくら慣れてないからって、{n}それはないんじゃない?{p}
+EN: Hey, are you fooling around? Even if you're not used to it, that's a bit much, isn't it?{p}
+
+## MGG09G g0 s0457
+JP: なんだか、しらけちゃったわね。{n}じゃあ、また学校でね。{p}
+EN: That kinda killed the mood. Well, see you at school.{p}
+
+## MGG09G g0 s0458
+JP: {v3:5}、やるじゃないか。{n}お前がここまで俺のダンスに{n}ついて来れるとは思わなかったぜ。{p}{end}
+EN: Not bad, {v3:5}. I never thought you could keep up with my dancing this well.{p}{end}
+
+## MGG09G g0 s0459
+JP: いやぁ、たいしたことないさ。{n}やっぱりロベルトにはかなわないしね。{p}
+EN: Nah, it was nothing. I'm still no match for you, Roberto.{p}
+
+## MGG09G g0 s0460
+JP: そんなことないぜ。{n}お前のダンスも結構いいセンいってる{n}と思うけどな。{p}
+EN: That's not true. I think your dancing's pretty good too.{p}
+
+## MGG09G g0 s0461
+JP: いろいろあったけど、{n}今年の学園祭は楽しかったな。{p}
+EN: A lot happened, but this year's festival was fun.{p}
+
+## MGG09G g0 s0463
+JP: まあ、こんなところだろう。{n}お前もよく頑張ったよ。{p}
+EN: Well, that's about right. You did well.{p}
+
+## MGG09G g0 s0464
+JP: {v3:5}、じゃあまた学校でな。{p}
+EN: {v3:5}, see you at school.{p}
+
+## MGG09G g0 s0465
+JP: おいおい、お前ふざけてんのか?{n}いくら慣れてないからって、{n}それはないんじゃないのか?{p}
+EN: Hey, hey, are you fooling around? Even if you're not used to it, that's a bit much, isn't it?{p}
+
+## MGG09G g0 s0467
+JP: なんだか、しらけちまったな。{n}じゃあ、また学校でな。{p}{end}
+EN: That kinda killed the mood. Well, see you at school.{p}{end}
+
+## MGG09G g0 s0468
+JP: …………なかなかやるな……{p}
+EN: ..........Not bad...{p}
+
+## MGG09G g0 s0469
+JP: いえ、たいしたことないですよ。{n}やっぱり流さんにはまだまだ{n}かなわないですし。{p}
+EN: No, it was nothing. I'm still no match for you, Nagare-san.{p}
+
+## MGG09G g0 s0470
+JP: …………けんそんするな。{p}{end}
+EN: ..........Don't be modest.{p}{end}
+
+## MGG09G g0 s0471
+JP: いろいろあったけど、{n}今年の学園祭は楽しかったですね。{p}
+EN: A lot happened, but this year's festival was fun.{p}
+
+## MGG09G g0 s0472
+JP: …………そうだな、{n}来年も頑張れよ……{p}
+EN: ..........Yeah. Keep it up next year, too...{p}
+
+## MGG09G g0 s0473
+JP: ……こんなところだろう。{p}{end}
+EN: ...About what I expected.{p}{end}
+
+## MGG09G g0 s0474
+JP: ……{v4:18}、またな。{p}
+EN: ...{v4:18}, see you.{p}
+
+## MGG09G g0 s0476
+JP: す、すみません……{n}一応マジメにやったんですけど。{p}
+EN: S-sorry... I really was trying.{p}
+
+## MGG09G g0 s0478
+JP: やるな、{v3:6}。{n}クールなダンスだったぜ。{p}{end}
+EN: Nice, {v3:6}. That was a cool dance.{p}{end}
+
+## MGG09G g0 s0479
+JP: ロイのお手本が良かったおかげだよ。{n}俺の実力じゃないさ。{p}{end}
+EN: It's thanks to your great example, Roy. It wasn't my own skill.{p}{end}
+
+## MGG09G g0 s0480
+JP: ハハハッ。{n}おだてても、何も出ないぜ。{p}
+EN: Haha. Flattery won't get you anything.{p}
+
+## MGG09G g0 s0482
+JP: ボクもそう思うよ。{n}来年も、こんな楽しい学園祭に{n}なるといいけどな。{p}{end}
+EN: I think so too. I hope next year's festival is this much fun, too.{p}{end}
+
+## MGG09G g0 s0483
+JP: まあ、ボクらの力ではこんなものだろう。{n}キミもよく頑張ったな。{p}
+EN: Well, I guess that's what we could manage. You did well.{p}
+
+## MGG09G g0 s0484
+JP: じゃあ、また学校で会おう。{p}
+EN: Well, see you at school.{p}
+
+## MGG09G g0 s0485
+JP: おいおい、{v3:6}!{n}キミのステップは一体何なんだ?{n}ちっともボクの手本どおりに踊れて{n}いないじゃないか!{p}
+EN: Hey, hey, {v3:6}! What were those steps? You didn't follow my example at all!{p}
+
+## MGG09G g0 s0486
+JP: ゴ、ゴメン……{n}あれでも本気でやったんだけど。{p}
+EN: S-sorry... That really was my best.{p}
+
+## MGG09G g0 s0487
+JP: 過ぎたことを気にしても、仕方ないか。{n}さあ、帰ろうぜ。{p}
+EN: No use worrying about what's done. Come on, let's go home.{p}
+
+## MGG09G g0 s0488
+JP: ヘイ、{v3:7}!{n}ユーのダンス、最高にカッコよかったネ!{p}{end}
+EN: Hey, {v3:7}! Your dance was super cool!{p}{end}
+
+## MGG09G g0 s0489
+JP: サンキュー、ティファニー。{n}そういうティファニーのダンスも{n}カッコ良かったよ。{n}さすがチアリーダー部だね。{p}
+EN: Thanks, Tiffany. Your dancing was cool too. Just what I'd expect from the cheerleading club.{p}
+
+## MGG09G g0 s0490
+JP: ウフフッ。{n}オジョーズね。{p}
+EN: Hehe. You are such a smooth talker.{p}
+
+## MGG09G g0 s0492
+JP: YES!{n}でも、来年はもっともっと楽しい{n}学園祭にするネ!{p}
+EN: YES! But next year we will make the festival even more fun!{p}
+
+## MGG09G g0 s0493
+JP: {v3:7}、お疲れサマ。{n}ユーとのダンス、楽しかったネ!{p}
+EN: {v3:7}, good work. Dancing with you was fun!{p}
+
+## MGG09G g0 s0494
+JP: バーイ、{v3:7}。{n}また学校で会いまショ!{p}
+EN: Bye-bye, {v3:7}. See you at school!{p}
+
+## MGG09G g0 s0495
+JP: ヘイ!{n}ユーのステップメチャメチャね!{n}真面目にやらなきゃダメよ!{p}
+EN: Hey! Your steps were a total mess! You have to take it seriously!{p}
+
+## MGG09G g0 s0497
+JP: ハァ、せっかくの学園祭がダイナシ{n}だったネ…{n}バイバイ、{v3:7}。{p}
+EN: Sigh, the festival is ruined... Bye-bye, {v3:7}.{p}
+
+## MGG09G g0 s0498
+JP: やりますね、{v4:8}。{n}とても素敵なダンスでしたよ。{p}{end}
+EN: Well done, {v4:8}. That was a lovely dance.{p}{end}
+
+## MGG09G g0 s0499
+JP: ボーマンがいいお手本に{n}なってくれたからね。{n}俺の力だけじゃ、{n}ああは行かなかったさ。{p}
+EN: You were a good example, Boman. I couldn't have done that on my own.{p}
+
+## MGG09G g0 s0500
+JP: {v4:8}。{n}どうせですから、もっと自分を{n}ほめてあげてください。{n}あれは紛れもない、あなたの実力です。{p}
+EN: {v4:8}. Please, give yourself more credit. That was without doubt your own skill.{p}
+
+## MGG09G g0 s0502
+JP: 私もそう思います。{n}来年は、さらに楽しい学園祭になると{n}良いですね。{p}{end}
+EN: I think so as well. I hope next year's festival will be even more fun.{p}{end}
+
+## MGG09G g0 s0503
+JP: まあ、私たちの力ではこんなもの{n}かもしれませんね。{p}
+EN: Well, perhaps this is all we could manage.{p}
+
+## MGG09G g0 s0504
+JP: それでは、{n}また学校でお会いしましょう。{p}{end}
+EN: Well then, I will see you at school.{p}{end}
+
+## MGG09G g0 s0505
+JP: {v4:8}、それではいけませんよ。{n}もしかして君は、「たかがダンス」{n}などと考えていませんでしたか?{p}
+EN: {v4:8}, that will not do. Were you perhaps thinking, "It is only a dance"?{p}
+
+## MGG09G g0 s0507
+JP: 何事に対しても、もっと真剣に{n}打ち込まなくてはいけませんよ。{n}いいですか?{p}
+EN: You must give yourself more seriously to everything. Do you understand?{p}
+
+## MGG09G g0 s0508
+JP: ヘッ、オメーにしちゃやるじゃねェか。{n}オレのステップについてこれるヤツは{n}そうそういないぜ。{p}{end}
+EN: Heh, not bad, for you. Not many can keep up with my steps.{p}{end}
+
+## MGG09G g0 s0509
+JP: へへへ。{n}チョロイ、チョロイ!{n}俺にかかればざっとこんなもんさ。{p}{end}
+EN: Heh heh. Easy, easy! That's how it goes when I'm on the job.{p}{end}
+
+## MGG09G g0 s0510
+JP: お～お～。{n}{v3:9}も言うようになったねぇ。{p}{end}
+EN: Ooh, ooh. {v3:9}'s talkin' big now, huh?{p}{end}
+
+## MGG09G g0 s0512
+JP: まったくだぜ、学校が毎日こんななら{n}退屈しねぇですむのによォ。{p}
+EN: Tell me about it. If school was like this every day, I'd never get bored.{p}
+
+## MGG09G g0 s0513
+JP: まあ、てめえの力じゃこんなもんだろ。{n}ここまでやれれば十分じゃねぇか?{p}
+EN: Well, that's about all you can do. Good enough, ain't it?{p}
+
+## MGG09G g0 s0514
+JP: さて、そろそろ帰るとすっか。{n}んじゃ、またな。{p}
+EN: Guess I'll head home. Later.{p}
+
+## MGG09G g0 s0515
+JP: てめぇ、やる気あんのか?{n}そんなサル回しみたいな踊りしやがって!{p}{end}
+EN: You even tryin'? Dancin' around like a trained monkey!{p}{end}
+
+## MGG09G g0 s0517
+JP: あ～あ、{n}なんだかシケた学園祭になっちまったぜ。{n}とっとと帰るとすっかな。{p}
+EN: Ugh, this festival turned out lame. I'm outta here.{p}
+
+## MGG09G g0 s0518
+JP: {v5:10}、お疲れさま。{n}あなたのダンス、カッコよかったわ。{p}
+EN: {v5:10}, good work. Your dancing was cool.{p}
+
+## MGG09G g0 s0519
+JP: そ、そう?{n}アキラにそう言われると、{n}なんだか照れちゃうな。{p}{end}
+EN: R-really? Hearing that from you, Akira, kinda makes me blush.{p}{end}
+
+## MGG09G g0 s0520
+JP: うふふっ。{n}でも私、{v5:10}はもっと{n}自信持っていいとおもうわよ。{p}
+EN: Hehe. But I think you should have more confidence, {v5:10}.{p}
+
+## MGG09G g0 s0522
+JP: ホントに。{n}来年も、こんな楽しい学園祭に{n}なったらいいわね。{p}{end}
+EN: Really. I hope next year's festival is this much fun, too.{p}{end}
+
+## MGG09G g0 s0523
+JP: 私もダンスは得意じゃないし、{n}こんなところだとおもうわ。{n}でも、結構楽しめたわね。{p}
+EN: I'm not good at dancing either, so I guess this is about right. But I had a lot of fun.{p}
+
+## MGG09G g0 s0524
+JP: そろそろ帰りましょう。{n}じゃあ、また学校でね。{p}
+EN: Let's head home. See you at school.{p}
+
+## MGG09G g0 s0525
+JP: ちょっと、{v5:10}。{n}ふざけてないで、マジメにやってよね!{p}
+EN: Hey, {v5:10}. Stop fooling around and take it seriously!{p}
+
+## MGG09G g0 s0527
+JP: それじゃ私、{n}この後バイトがあるから先に帰るわね。{p}
+EN: Well, I have work after this, so I'll head home first.{p}
+
+## MGG09G g0 s0528
+JP: {v3:11}、おぬし男じゃのう。{n}なかなかの踊りっぷりじゃったぞい。{p}{end}
+EN: {v3:11}, you're a real man. That was some mighty fine dancin'.{p}{end}
+
+## MGG09G g0 s0529
+JP: そ、そうかな?{n}そういう岩こそ、そのガタイの割には{n}恐いくらい軽快に踊ってたじゃないか。{p}{end}
+EN: R-really? You're one to talk, Gan. For your size, you were scary light on your feet.{p}{end}
+
+## MGG09G g0 s0530
+JP: ガハハハハ、あたりまえじゃい!{n}ワシはこの日のために、3ヶ月間{n}特訓をしてきたんじゃからな!{p}{end}
+EN: Gahahahaha, 'course I was! I trained three months for this day!{p}{end}
+
+## MGG09G g0 s0532
+JP: うむ、まったく同感じゃい。{n}それにしても、こんなに学校が{n}楽しかったのは久しぶりだのう。{p}{end}
+EN: Mm, I reckon so too. Ain't had this much fun at school in a long while.{p}{end}
+
+## MGG09G g0 s0533
+JP: ワシはダンスなんぞ苦手じゃからのう。{n}それに比べれば、おぬしの踊りは{n}上出来だと思うぞい。{p}
+EN: I ain't much for dancin'. Compared to me, your dancin' was mighty fine.{p}
+
+## MGG09G g0 s0534
+JP: {v3:11}、そろそろ腹も減ったし{n}帰るとするかのう。{p}
+EN: {v3:11}, I'm gettin' hungry. Reckon it's time to head home.{p}
+
+## MGG09G g0 s0535
+JP: {v3:11}、おぬしはワシを{n}変な踊りでおちょくっとるのか?{p}{end}
+EN: {v3:11}, you makin' fun of me with that weird dancin'?{p}{end}
+
+## MGG09G g0 s0536
+JP: ち、ちがうよ……{n}あれでも本気でやってたんだ。{p}
+EN: N-no... That really was me trying.{p}
+
+## MGG09G g0 s0537
+JP: まったく、おぬしのせいで{n}とんだ赤っ恥をかかされてしもうたわい。{n}ワシはもう帰るぞい!{p}
+EN: Dang it, you made a right fool o' me out there. I'm goin' home!{p}
+
+## MGG09G g0 s0538
+JP: {v4:17}、いい踊りっぷりだ。{n}どんな事にも全身全霊を尽くす、{n}それが男ってもんだ。{p}
+EN: {v4:17}, fine dancing. Giving your all to everything. That's what makes a man.{p}
+
+## MGG09G g0 s0539
+JP: ありがとうございます。{n}醍醐先輩の踊りに負けないよう、{n}必死で頑張りました。{p}{end}
+EN: Thank you. I worked my hardest not to fall behind your dancing, Daigo-senpai.{p}{end}
+
+## MGG09G g0 s0540
+JP: うむ、それでこそ俺の見込んだ男だ。{p}
+EN: Hm. That's the man I had my eye on.{p}
+
+## MGG09G g0 s0542
+JP: 俺も、これだけゆっくり楽しめた{n}学園祭は本当に久しぶりだ。{n}来年もこうあってほしいものだ。{p}
+EN: I haven't relaxed and enjoyed a festival like this in a long time. I hope next year is the same.{p}
+
+## MGG09G g0 s0543
+JP: 今のお前の実力なら、こんなものだろう。{n}だが{v4:17}、この程度で満足して{n}ちっぽけな人間になるんじゃないぞ。{p}{end}
+EN: At your current level, that's about right. But, {v4:17}, don't settle for this and end up small.{p}{end}
+
+## MGG09G g0 s0544
+JP: 今日は楽しかったぜ。{n}また学校でな。{p}{end}
+EN: Today was fun. See you at school.{p}{end}
+
+## MGG09G g0 s0545
+JP: {v4:17}!{n}それで全力を発揮したというのか?{n}俺は、お前を男と見込んだからこそ、{n}パートナーになったんだぞ!{p}{end}
+EN: {v4:17}! You call that your best? I partnered with you because I saw a real man in you!{p}{end}
+
+## MGG09G g0 s0546
+JP: す、すみません!!{n}決して、手を抜いていたわけじゃ{n}ないんですよ。{p}
+EN: S-sorry!! I wasn't slacking off, honest.{p}
+
+## MGG09G g0 s0547
+JP: 過ぎたことはもういい。{n}次に同じ過ちを繰り返すんじゃないぞ。{p}{end}
+EN: What's done is done. Just don't make the same mistake again.{p}{end}
+
+## MGG09G g0 s0548
+JP: {v0}{col:0}君{col:-}、よくぞ私の踊りに{n}ついてきてくれた。{n}まったく君はたいしたものだ。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, you kept up with my dancing splendidly. You are really something.{p}{end}
+
+## MGG09G g0 s0549
+JP: いえ、そんな……{n}大したことはないですよ。{n}俺はただ夢中で踊っていただけですし。{p}{end}
+EN: No, not at all... It was nothing. I was just dancing as hard as I could.{p}{end}
+
+## MGG09G g0 s0550
+JP: はっはっは。{n}君は立派な事をしたのだから、{n}もっと胸をはっていいんだよ。{p}{end}
+EN: Ha ha ha. You did a fine thing, so you may hold your head high.{p}{end}
+
+## MGG09G g0 s0552
+JP: 私も教師をして、{n}学園祭はもう何度となく見てきたが、{n}こんなに充実した気分になったのは{n}久しぶりだよ。{p}
+EN: In all my years as a teacher I have seen many school festivals, but it has been a long time since I felt this fulfilled.{p}
+
+## MGG09G g0 s0553
+JP: まあ、私たちの力ではこんなものでしょう。{n}君もよく頑張りましたね。{p}
+EN: Well, this is probably all we could manage. You did well too.{p}
+
+## MGG09G g0 s0554
+JP: いやあ、たまには若者に混じって{n}ダンスというのもいいですね。{n}また機会があったら踊りましょう。{p}
+EN: Well, dancing among young people once in a while is rather nice. Let us dance again if we have the chance.{p}
+
+## MGG09G g0 s0555
+JP: {v0}{col:0}君{col:-}、君らしくないな。{n}ダンスの最中に、足でもひねったかね?{p}{end}
+EN: {v0}{col:0}-kun{col:-}, that is not like you. Did you twist your ankle during the dance?{p}{end}
+
+## MGG09G g0 s0556
+JP: す、すみません……{n}あれでも本気でやってたんですけど。{p}
+EN: S-sorry... I really was trying.{p}
+
+## MGG09G g0 s0557
+JP: たまにダンスなどしたせいか、{n}少々疲れてしまったな。{n}それでは、私は先に失礼させてもらうよ。{p}{end}
+EN: Perhaps it is the unaccustomed dancing, but I am rather tired. I will take my leave first.{p}{end}
+
+## MGG09G g0 s0558
+JP: {v1}{col:0}クン{col:-}、がんばったわね。{n}今のダンス、素敵だったわよ。{p}
+EN: {v1}{col:0}-kun{col:-}, you did great. That dance was lovely.{p}
+
+## MGG09G g0 s0559
+JP: ありがとうございます!{n}響子先生にほめてもらえるなんて{n}感激だなあ……{p}
+EN: Thank you! Getting praise from Kyoko-sensei... I'm so moved...{p}
+
+## MGG09G g0 s0560
+JP: うふふ、おおげさなんだから。{p}{end}
+EN: Hehe, you're exaggerating.{p}{end}
+
+## MGG09G g0 s0562
+JP: そうね。{n}教師をして何回か学園祭を見てきたけど、{n}こんなに楽しかったのは初めてよ。{n}{v1}{col:0}クン{col:-}のおかげかしら。{p}
+EN: Yes. I've seen a few festivals as a teacher, but this is the first one that was this fun. Maybe it's thanks to you, {v1}{col:0}-kun{col:-}.{p}
+
+## MGG09G g0 s0563
+JP: お疲れさま。{n}まあまあの成績ってところかしら。{n}でも、飛び入りにしては上出来よね。{p}
+EN: Good work. A so-so result, I'd say. But not bad for a walk-in.{p}
+
+## MGG09G g0 s0564
+JP: たまには、若い子たちに混じって{n}踊るのも悪くないわね。{n}また機会があったら誘ってちょうだい。{p}{end}
+EN: Dancing with the young ones isn't bad once in a while. Ask me again if you get the chance.{p}{end}
+
+## MGG09G g0 s0565
+JP: {v1}{col:0}君{col:-}、しっかりしなさい。{n}この程度でバテていたら、{n}いざという時に何の役にも立たないわよ。{p}
+EN: {v1}{col:0}-kun{col:-}, pull yourself together. If this much wears you out, you'll be no use when it really counts.{p}
+
+## MGG09G g0 s0567
+JP: {v1}{col:0}クン{col:-}、少し運動不足よ。{n}普段からもっと運動をして、{n}基礎体力をあげるように努めなさい。{p}{end}
+EN: {v1}{col:0}-kun{col:-}, you're out of shape. Exercise more every day and build up your stamina.{p}{end}
+
+## MGG09G g0 s0568
+JP: ほう、私の踊りについてこれたのか。{n}さすがの運動能力だな。{p}
+EN: So, you kept up with my dancing. Your athleticism is impressive.{p}
+
+## MGG09G g0 s0570
+JP: フハハハ。{n}どうもお前は自分を過小評価しすぎる{n}きらいがあるな。{n}つくづくお前らしいとも思うがな。{p}
+EN: Hahaha. You have a habit of underrating yourself. Though I suppose that is very like you.{p}
+
+## MGG09G g0 s0572
+JP: そうだな、生徒会長としては学園祭の{n}成功は喜ばしい限りだ。{n}来年も今年以上の学園祭になることを{n}期待しているよ。{p}{end}
+EN: Indeed. As council president, the festival's success pleases me greatly. I expect next year's to surpass this one.{p}{end}
+
+## MGG09G g0 s0573
+JP: フン、まあこんなものか。{n}私の動きについてこれただけでも{n}たいしたものだ。{p}
+EN: Hmph, I suppose this will do. Merely keeping up with my movements is an accomplishment.{p}
+
+## MGG09G g0 s0574
+JP: フム、比較的楽しめたな。{n}私は生徒会長としての仕事が{n}残っているから、これで失礼する。{p}
+EN: Hm, that was fairly enjoyable. I still have council president duties to attend to, so I will take my leave.{p}
+
+## MGG09G g0 s0575
+JP: {v0}、貴様、どういうつもりだ?{n}まさかあの程度の動きで、{n}全力というのではあるまいな?{n}返答次第では…この場で斬る!{p}
+EN: {v0}, what is the meaning of this? Surely that was not your best? Depending on your answer... I will cut you down here!{p}
+
+## MGG09G g0 s0577
+JP: フン。{n}ダンスなどと、くだらぬ事で貴重な{n}時間を無駄にしてしまったようだ。{p}
+EN: Hmph. It seems I have wasted precious time on something as trivial as dancing.{p}
+

@@ -1,0 +1,79 @@
+# サイフ
+jb_wallet: WALLET
+# 貯金額
+jb_deposit: DEPOSIT
+
+# ポケットジャスティス 操作説明
+hdr: Poke-Jus How to Play
+back: EXIT
+
+# ポケJメール
+p1_title: Poke-J Mail
+# 好きなキャラクターとメール交換をしてもっと仲良くなろう。/熱血青春日記で
+# エンディングを見たキャラクターが/ポケットステーションの中に登場します。/
+# 呼び出したキャラクターと一緒にいると好感度が上昇します。/好感度がいっぱいに
+# なると・・・それはあとのお楽しみ!
+p1_body: Swap mail with the characters you like and get closer! | Characters whose ending you saw in Hot-Blooded Youth Diary appear in your PocketStation. | Stay with a character you called up to raise affection. | When affection is full... that's a surprise for later!
+# キャラクターは『デンワ』モードで選んで決定します。/メールが来ると到着音が鳴ります。
+p1_note: Choose a character in PHONE mode. | A chime plays when mail arrives.
+# 決定ボタン / 上ボタン / 右ボタン / 左ボタン
+p1_b1: Action
+p1_b2: Up
+p1_b3: Right
+p1_b4: Left
+# メールを読む / メール待機モード / カーソルの選択 / メール早送り
+p1_a1: Read mail
+p1_a2: Standby mode
+p1_a3: Move cursor
+p1_a4: Speed up mail
+
+# 将馬のめざせDr.K
+p2_title: Shoma's Road to Dr. K
+# ボールを9球投げて得点を競います。/画面右のゲージが高さ、画面下のゲージが
+# 左右を表しています。/タイミング良く1回決定ボタンを押すと、将馬が投球します。
+p2_body: Throw 9 balls for the best score. | Right gauge: height. Bottom gauge: left and right. | Press Action once with good timing and Shoma pitches.
+# 一度にたくさんのパネルを抜くと得点アップ!/縦横斜め一列そろうとビンゴボーナスが
+# 入ります。/同時に多くのビンゴをそろえるとさらにボーナスがはいります。
+p2_note: Knock out many panels at once for more points! | A full row, column or diagonal gives a Bingo bonus. | Several Bingos at once give an even bigger bonus.
+# 決定ボタン / 投球
+p2_b1: Action
+p2_a1: Pitch
+
+# ランのいただきシャッターチャンス
+p3_title: Ran's Perfect Photo Op
+# 30秒間にどれだけいい写真が撮れるかを競います。いい表情ほど得点が高くなって
+# います。3分割された画面にキャラクターが表示されます。いい表情をねらって
+# シャッターを押してください。フィルムは12枚撮りです。無くなったらフィルム
+# 交換してください。
+p3_body: Take as many good photos as you can in 30 seconds. Better expressions score more. | Characters appear on a screen split in 3. Wait for a good face, then press the shutter. | A roll has 12 shots. When it runs out, change the film.
+# 雷蔵校長や怒った顔を撮影すると減点です。
+p3_note: Shooting Principal Raizo or an angry face loses points.
+# 下ボタン / 決定ボタン, フィルム交換
+p3_b1: Down|Action
+p3_a1: Change film
+# 左ボタン 左画面シャッター / 上ボタン 真ん中画面シャッター / 右ボタン 右画面シャッター
+p3_b2: Left
+p3_a2: Shoot left screen
+p3_b3: Up
+p3_a3: Shoot middle screen
+p3_b4: Right
+p3_a4: Shoot right screen
+
+# 流の飛び込み世界一
+p4_title: Nagare's World-Class Dive
+# 左右ボタン レベルの選択 / 決定ボタン レベルの決定、着水 / 上下左右ボタン 演技
+p4_b1: Left/Right
+p4_a1: Choose level
+p4_b2: Action
+p4_a2: Set level / Entry
+p4_b3: D-pad
+p4_a3: Moves
+# 3回飛び込みをして得点の合計を競います。1回10点満点、合計30点満点です。
+p4_body1: Dive 3 times for the best total. Each dive is out of 10, so 30 is perfect.
+# 始めにレベルを選択します。レベルが高いほど難しく、もらえるポイントも高く
+# なります。まず演技のお手本が出ます。よく覚えてください。
+p4_body2: First choose a level. Higher levels are harder but earn more points. | A model dive is shown first. Watch it closely.
+# 演技…飛び込み中お手本通りにボタンを入力します/正確に押すほど得点が高く
+# なります/着水…水面につくまでに決定ボタンを押します/水面ぎりぎりで押すほど、
+# 得点が高くなります
+p4_note: Moves: in mid-dive, press the buttons as in the model. The more exact, the higher the score. | Entry: press Action before you hit the water. The closer to the water, the higher the score.

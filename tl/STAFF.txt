@@ -1,0 +1,127 @@
+000: ジャスティス学園制作委員会 | Rival Schools Production Committee
+
+001: 企画 | Planning
+002: 伊津野英昭 | Hideaki Itsuno
+003: 中江竜也 | Tatsuya Nakae
+004: 松本裕司 | Yuji Matsumoto
+005: (え) | (E)
+006: 寺田隆良 | Takayoshi Terada
+007: プログラム | Program
+008: 染谷勝彦 | Katsuhiko Sometani
+009: SAILOR | =
+010: いごっそうカツヲ | Igossou Katsuo
+011: キャラクターイラスト | Character Illust.
+012: 黒修 | Kuroshuu
+013: えだやん | Edayan
+014: SENSEI | =
+015: TOGACCHI | =
+016: 渡辺恵美子 | Emiko Watanabe
+
+017: プログラム協力 | Program Support
+018: 香川雄一 | Yuichi Kagawa
+019: こぶた | Kobuta
+020: CHAM | =
+021: 新留義博 | Yoshihiro Shindome
+022: 秋山幸平 | Kohei Akiyama
+023: 池田良磨 | Ryoma Ikeda
+024: 原田康則 | Yasunori Harada
+025: 辻利彦 | Toshihiko Tsuji
+026: 久堀啓次 | Keiji Kubori
+027: 音響効果 | Sound Effects
+028: 鉢迫渉 | Wataru Hachisako
+029: 録音 | Recording
+030: 瀧本和也 | Kazuya Takimoto
+031: 作曲・編曲 | Composition/Arrangement
+032: 山本節生 | Setsuo Yamamoto
+
+033: 3Dモデルデザイン | 3D Model Design
+034: 祐介 | Yusuke
+035: 高坂隆之 | Takayuki Kosaka
+036: DEKAO | =
+037: こうき | Koki
+038: モーションデザイン | Motion Design
+039: 藤沢直紀(EFA) | Naoki Fujisawa (EFA)
+040: KAKO | =
+041: 谷田☆仁子 | Yoshiko Tanida
+042: 山根陽子 | Yoko Yamane
+
+043: スクロールデザイン | Scroll Design
+044: ZIGGY | =
+045: TAMA | =
+046: 山本行史 | Koji Yamamoto
+047: TOKIO. N | =
+048: A. KAMIJI | =
+116: いしかわ たかのり | Takanori Ishikawa
+
+049: オープニングデモ | Opening Demo
+050: 佐藤直人 | Naoto Satou
+051: 藤田元司 | Motoshi Fujita
+052: 三島拓児 | Takuji Mishima
+053: インストデザイン | Manual Design
+054: M. NAGAOKA | =
+
+055: プロジェクトスタッフ | Project Staff
+056: 石田義則 | Yoshinori Ishida
+057: 中谷洋 | Hiroshi Nakaya
+058: 柳口博昭 | Hiroaki Yanagiguchi
+059: 須藤克洋 | Yoshihiro Sudo
+060: 田中徳良 | Noriyoshi Tanaka
+061: 青木美智代 | Michiyo Aoki
+062: スペシャルサンクス | Special Thanks
+117: 村田治生 | Haruo Murata
+063: 岡田浩一 | Koichi Okada
+
+064: 声の出演 | Voice Casting
+065: 檜山修之 | Nobuyuki Hiyama
+066: 半場友恵 | Tomoe Hanba
+067: 千葉一伸 | Isshin Chiba
+068: 上田祐司 | Yuji Ueda
+069: 津野田なるみ | Narumi Tsunoda
+070: 森川智之 | Toshiyuki Morikawa
+071: 置鮎龍太郎 | Ryotaro Okiayu
+072: ならはしみき | Miki Narahashi
+073: 山田義暒 | Yoshiharu Yamada
+074: 手塚ちはる | Chiharu Tezuka
+075: 長嶝高士 | Takashi Nagasako
+
+076: 声の出演 | Voice Casting
+077: 水鳥鉄夫 | Tetsuo Mizutori
+078: 西村知道 | Tomomichi Nishimura
+079: 三石琴乃 | Kotono Mitsuishi
+080: 塩沢兼人 | Kaneto Shiozawa
+081: 笹本優子 | Yuko Sasamoto
+082: 山寺宏一 | Koichi Yamadera
+083: 山崎たくみ | Takumi Yamazaki
+084: 三木眞一郎 | Shinichiro Miki
+085: 平松晶子 | Akiko Hiramatsu
+086: 西村ちなみ | Chinami Nishimura
+087: 高木渉 | Wataru Takagi
+
+088: レア熱血カード | Rare Nekketsu Card
+089: 安西信行 | Nobuyuki Anzai
+090: 桜瀬琥姫 | Kohime Ohse
+091: 大野純二 | Junji Ohno
+092: 島本和彦 | Kazuhiko Shimamoto
+115: (五十音順) | {small}(in kana order)
+093: 熱血隼人デザイン協力 | Nekketsu Hayato Design Support
+094: 島本和彦 | Kazuhiko Shimamoto
+095: SHINSEISHA | =
+
+096: 主題歌 | Theme Song
+097: 「熱き鼓動」 | "Atsuki Kodou"
+098: 「未来(あした)の行方」 | "Ashita no Yukue"
+099: 作詞作曲 | Lyrics & Music
+100: 尾澤拓実 | Takumi Ozawa
+101: 編曲 | Arrangement
+102: 安達隆之 | Takayuki Adachi
+103: 唄 | Vocal
+104: 尾藤イサオ | Isao Bito
+
+105: プロデューサー | Producer
+106: 船水紀孝 | Noritaka Funamizu
+107: 中嶋浩二 | Koji Nakajima
+108: ゼネラルプロデューサー | General Producer
+109: 岡本吉起 | Yoshiki Okamoto
+110: & | =
+111: CAPCOM | =
+112: ALL STAFF | =

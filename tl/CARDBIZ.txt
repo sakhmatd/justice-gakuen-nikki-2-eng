@@ -1,0 +1,207 @@
+# JP: 熱血カード NO.nn
+footer: CARD NO.{nn}
+# JP: (デ) / (企)
+mark_d: Art
+mark_p: Plan
+# JP: お蔵入りキャラ
+shelved: Shelved Character
+
+# JP: 有瀬 祐
+c000_name: Yu Arise
+# JP: 色々な意味で反響を呼んだドラマCDに登場。青の制服が結構好きです。
+c000_d: He was in the drama CD, which caused a stir in more ways than one. I really like the blue uniform.
+# JP: 今回は欠席です。
+c000_p: He's sitting this one out.
+# JP: 音楽教師
+c001_name: Music Teacher
+# JP: もう何が何やらって感じですが、僕は大好きです。髪型がお気に入りです。
+c001_d: I know she's all over the place, but I love her. Her hairstyle is my favorite part.
+# JP: もったいない・・・。
+c001_p: Such a waste...
+# JP: 教育実習生1
+c002_name: Student Teacher 1
+# JP: 元デザインは別の人で、適当に描き直しました。髪型はしず◯ちゃん風です。
+c002_d: Someone else did the original design, and I loosely redrew it. Her hair is Shizu*a-chan style.
+# JP: 戦いそうになかったので使いませんでした。
+c002_p: She didn't look like a fighter, so we didn't use her.
+# JP: 教育実習生2
+c003_name: Student Teacher 2
+# JP: 黒目だけのキャラがほしいなと思って描きました。いいとこのお嬢さん風です。
+c003_d: I wanted a character with plain dark eyes, so I drew her. She has a classy rich-girl look.
+# JP: 黒目キャラはいつか使いたいですね。
+c003_p: I'd like to use a dark-eyed character someday.
+# JP: 教育実習生3
+c004_name: Student Teacher 3
+# JP: 直球勝負がジャスティスの真髄なんですが・・・。
+c004_d: Playing it straight is the heart of Rival Schools, but...
+# JP: 直球過ぎましたね。
+c004_p: That one was too straight.
+# JP: 教育実習生4
+c005_name: Student Teacher 4
+# JP: 着物の方は夏のお姉さんの『冬』といいます。(嘘)
+c005_d: The one in the kimono is Natsu's big sister, "Fuyu." (Kidding.)
+# JP: 他社キャラとかぶりそうだったので・・・。
+c005_p: They looked too much like another company's characters...
+# JP: 教育実習生5
+c006_name: Student Teacher 5
+# JP: オレンジ色のキャラは結構お気に入りでした・・・。
+c006_d: I was pretty fond of the orange one...
+# JP: 軍隊色が強すぎたかもしれません。
+c006_p: Maybe they were a little too military.
+# JP: 実習
+c006_band: (Armband: Trainee)
+# JP: 太陽学園(仮)
+c007_title: Taiyo High (Draft)
+# JP: 正式デザイン決定前に他のデザイナーに描いていただきました。今とイメージがだいぶ違います。
+c007_note: Another designer drew these for us before the final designs were set. They're a far cry from the final look.
+# JP: 五輪高校(仮)
+c008_title: Gorin High (Draft)
+# JP: ジャスティス初期に他のデザイナーが描いた五輪高校三人組です。デザイナーが違えば同じキャラでもかなり変わるのです。
+c008_note: The Gorin High trio, drawn by another designer in the early days of Rival Schools. With a different designer, even the same character changes a lot.
+# JP: 島本 和彦
+ill_shimamoto: Kazuhiko Shimamoto
+# JP: 安西信行
+ill_anzai: Nobuyuki Anzai
+# JP: 桜瀬琥姫
+ill_ohse: Kohime Ohse
+# JP: 大野純二
+ill_ohno: Junji Ohno
+# JP: 響子
+c016_name: Kyoko
+# JP: 少しあいた時間があったので、練習にと思って描いてみました。着彩は別の人にお願いしました。
+c016_note: I had a little free time, so I drew her for practice. Someone else did the coloring.
+# JP: -ラン旧バージョン-
+c017_title: - Ran, Old Version -
+# JP: 一発目に出たデザインがほとんど今のランだったので、服をダウンジャケットにしたり、いろいろ小物を加えたバージョンです。
+c017_note: My very first design was almost the Ran you know now. This version swaps in a down jacket and adds all sorts of accessories.
+# JP: お蔵入りキャラ -新キャラ達-
+c018_label: Shelved Characters - New Faces -
+# JP: 坊主はインパクトあると思ったんですがダメでした。でもバカキャラ大好き!
+c018_d: I thought the shaved head would make an impact, but no luck. Still, I love goofball characters!
+# JP: バカ過ぎました。
+c018_p: He was too much of a goofball.
+# JP: 七瀬まり
+c023_name: Mari Nanase
+# JP: 元は教育実習生でした。気に入ってたので無理矢理部活キャラに廻しました。
+c023_d: She started out as a student teacher. I liked her, so I squeezed her in as a club character.
+# JP: 個人的に気に入ってます。
+c023_p: I'm personally fond of her.
+# JP: 制服あきら
+c026_name: Akira in Uniform
+# JP: 元いた学校の制服ってどんなのだろうと思い、適当に描きました。どうですか?
+c026_d: I wondered what her old school's uniform looked like and sketched this. What do you think?
+# JP: こんなかわいい絵があるなら早く言ってくれれば・・・。
+c026_p: If there was a drawing this cute, you should have told us sooner...
+# JP: みんなの思い出
+c028_title: Our Memories
+# JP: あきら2旧タイプ
+c058_title: Akira 2, Old Type
+# JP: あきらの私服と言うことでいろいろ描いてみたんですが、どれも全然ぱっとしなくて結局決まりませんでした・・・。
+c058_note: These were meant to be Akira's casual clothes. I drew all sorts, but none of them really clicked, so I never settled on one...
+# JP: 響子2旧バージョン
+c059_title: Kyoko 2, Old Version
+# JP: 響子の普段着…これもイマイチ全部パっとしませんが、一応『響子2』の服装にまとまった…と言うべきなんでしょうか?うーん…。
+c059_note: Kyoko's everyday clothes... None of these really click either, but I suppose you could say they came together as the "Kyoko 2" outfit...? Hmm...
+
+# JP: プレイステーション版私立ジャスティス学園
+anime_1: PlayStation Rival Schools
+# JP: オープニング&エンディングアニメーション
+anime_2: Opening & Ending Animation
+# JP: キャラクター設定「A&B」
+anime_3: Character Design: "{pair}"
+# JP: 製作 葦プロダクション
+anime_4: Produced by Ashi Productions
+# JP: 伐&雷蔵 / 響子&英雄 / 雹&恭介 / 将馬&夏 / ロイ&ティファニー
+pair_049: Batsu & Raizo
+pair_050: Kyoko & Hideo
+pair_051: Hyo & Kyosuke
+pair_052: Shoma & Natsu
+pair_053: Roy & Tiffany
+# JP: 岩&ボーマン / アキラ&醍醐 / エッジ&ロベルト / ひなた&さくら
+pair_054: Gan & Boman
+pair_055: Akira & Daigo
+pair_056: Edge & Roberto
+pair_057: Hinata & Sakura
+
+# JP: オマエとメールでいろいろ話をしているのはすごく楽しかったぜ!今度また二人で夏祭りにでも行きたいな。これからもオレのことよろしくな!
+c029: Talking about all kinds of stuff with you by mail was a real blast! Let's hit a summer festival again sometime, just the two of us. Stick with me, partner!
+# JP: 一文字 伐
+c029_sign: Batsu Ichimonji
+# JP: キミとなかよくなれて本当に良かったと思うよ。私、特定のヒトとこんなになかよくした事ってホントになかったから…。これからもずっとなかよしでいてね。
+c030: I'm so glad we became friends. I've never gotten this close to anyone before, you know... Let's always stay friends, okay?
+# JP: from ひなた
+c030_sign: from Hinata
+# JP: 僕はいつも自分の本心は人には見せないんだが、なぜかキミと話しているときには自然になれるんだ。僕はそういうキミを大切にしたいと思っている。
+c031: I never show anyone my true feelings, yet somehow, when I talk with you, I can just be myself. That is why I want to treasure you.
+# JP: 鑑 恭介
+c031_sign: Kyosuke Kagami
+# JP: オイラ野球が一番大切だったけど、オマエとこうしてメール交換やデートしてると… イヤッ、やっぱり野球が一番大切だ!
+c032: Baseball always came first for me, but swappin' mail and goin' on dates with ya like this... Nah, baseball still comes first!
+# JP: 沢村 将馬
+c032_sign: Shoma Sawamura
+# JP: アタシ今アンタといるときが一番楽しいんだ。バレーやっててもアンタがいると思えばつらくてもガンバれるし。心のささえになってくれてありがとう。これからもよろしくね。
+c033: Right now, time with you is the most fun I have. Even when volleyball gets tough, I can hang in there knowing you're around. Thanks for being there for me. Let's keep it going!
+# JP: from 夏
+c033_sign: from Natsu
+# JP: いつもサッカーの試合見に来てくれてサンキューな。オマエの応援があるからこそいつも100%以上の力が出せたんだと思うよ。感謝してるぜ!
+c034: Thanks for always coming to watch my soccer games. Your cheering is what let me give more than 100% every time. I owe you one!
+# JP: by ロベルト
+c034_sign: by Roberto
+# JP: ボクが本気になるのはめずらしいことだとおもうゼ。ニホン語ではうまくいえないんだが・・・キミならボクのきもちをわかってもらえるとおもう。
+c035: It's rare for me to get serious, you know. I can't say it well in Japanese... but I think you'll understand how I feel.
+# JP: ミーはユーといるときはとてもたのしいデス。ユーのことホントにスキデスおもいマス。いつもずっといっしょイタイデス またデートしよーネ!
+c036: When I am with you I am ~~vary~~ very happy. I think I really ~~lik~~ like you. I want to be ~~togeter~~ with you always. Let's go on a date again!
+# JP: ティファニー
+c036_sign: Tiffany
+# JP: 私はあなたに会えたことを大変感謝しています。またふたりで教会に行って永遠に幸せに過ごせるよう神にお祈りしましょう。アーメン。
+c037: I am deeply thankful that I met you. Let us go to church together again and pray to God that we may live happily forever. Amen.
+# JP: ボーマン・デルガドより
+c037_sign: From Boman Delgado
+# JP: なんだかオマエと一緒にいるようになってから、なんつーか…人の気持ちがよくわかるようになった気がするよ。マアこれからもなかよくしてくれよな!
+c038: Ever since I started hangin' out with you, I dunno... I feel like I get people a lot better now. Anyway, keep bein' my pal, ya hear!
+# JP: by エッジ
+c038_sign: by Edge
+# JP: なんて言ったらいいかよくわからないけど…。あなたに会えてよかったと思う。ずっと…なかよくしてね。
+c039: I don't really know what to say... / But I'm glad I met you. / Let's always... be friends.
+# JP: 風間 あきら
+c039_sign: Akira Kazama
+# JP: わらわんで聞いてくれよ。正直いうともうワシは完全におぬしの虜になってしもうたわい。もう はなさんぞぉ～!なんか照れてしまうわい……。
+c040: Don't laugh now, y'hear. Truth is, I've gone and fallen for ya, hook, line and sinker. I ain't never lettin' go~! Aw, now I'm blushin'......
+# JP: ガンより
+c040_sign: From Gan
+# JP: 私みたいなおじさんが言うのは変かもしれないですが、今は本当に君のことを大切に思っています。ははは、年甲斐もなくなんだか照れてしまいますね。
+c041: It may sound strange coming from an old man like me, but right now you truly mean a great deal to me. Ha ha ha, I'm blushing like a boy at my age.
+# JP: 島津 英雄
+c041_sign: Hideo Shimazu
+# JP: あらたまってこんなこと書くのはなんだか照れちゃうわね。でもね、やっぱり私はあなたと一緒にいて良かったと思ってるの。そしてこれからもね。
+c042: Putting this in writing is a little embarrassing. But you know, I really am glad to be with you. Now, and from here on, too.
+# JP: 響子
+c042_sign: Kyoko
+# JP: この私が他人のお前に心を開くなどということはあってはならないはずなのだ。それなのに何故このようなことになってしまったのだ。まぁこれもさだめなのか…。
+c043: That I should open my heart to an outsider like you ought never to have happened. Then why has it come to this? Well... perhaps this too is fate...
+# JP: 忌野 雹
+c043_sign: Hyo Imawano
+# JP: やっぱりキミといるときが一番安心するよ!格闘技のレベルもピッタリだしね!また私の練習相手になってね。頼りにしてるよっ!
+c044: I always feel most at ease when I'm with you! Our fighting levels match perfectly, too! Be my sparring partner again, okay? I'm counting on you!
+# JP: from さくら
+c044_sign: from Sakura
+# JP: これからも黙って俺についてきてくれ。
+c045: Keep on following me, / no questions asked.
+# JP: 醍醐
+c045_sign: Daigo
+# JP: 俺は今海に来ている!!やっぱり海は素晴らしいぞぉ!気合入りまくりだ!ただぁーしっ、できればオマエと来たかったがな。ハァーッハッハッハッハッハッハッ!
+c046: I'm at the beach right now!! The ocean's the best! I'm totally fired up! Buuut, I wish I coulda come with you. Haaah hahahahahaha!
+# JP: 海にて 隼人
+c046_sign: Hayato, at the beach
+# JP: ・・・なんだかよく分からないが、オマエとメール交換している間に頭からオマエのことが離れなくなってるんだ。これは変なことなのか?まぁいいか。気にしないでおこう。
+c047: ...I don't quite get it, but since we started swapping mail, I can't get you out of my head. Is that... strange? ...Well, whatever. I won't let it bother me.
+# JP: 流
+c047_sign: Nagare
+# JP: こんな手紙アンタに出してるのがばれたらホントに大スクープになっちゃうネェ…。でもいいんだ。なんかワタシ今とっても幸せだから何でも許せちゃいそう…。
+c048: If anyone found out I sent you a letter like this, it'd be a huge scoop... But that's okay. I'm so happy right now, I feel like I could forgive anything...
+# JP: 文責 新聞部 ラン
+c048_sign: Written by Ran, Newspaper Club
+anime_051: PlayStation / Rival Schools / Opening & Ending Animation / Character Design / "{pair}" / Produced by / Ashi Productions
+anime_053: PlayStation / Rival Schools / Opening / & / Ending / Animation / Character Design / "{pair}" / Produced by / Ashi Productions
+anime_054: PlayStation / Rival Schools / Opening & / Ending Animation / Character Design / "{pair}" / Produced by / Ashi Productions
+anime_055: PlayStation / Rival Schools / Opening / & / Ending Animation / Character Design / "{pair}" / Produced by / Ashi Productions

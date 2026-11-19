@@ -1,0 +1,548 @@
+## MGG11O g0 s0001
+JP: 本来、我が五輪高校の行事の{n}『五輪祭』だが、最終日には{n}ゲストに他校の生徒を招いて{n}エキシビションマッチを行う。{p}{end}
+EN: The Gorin Festival is our own Gorin High's event, and on the final day, we invite students from other schools as guests for an exhibition match.{p}{end}
+
+## MGG11O g0 s0003
+JP: 今年の参加校は、{n}我が五輪高校と、太陽学園や{n}パシフィックHSなど、合計五校。{n}いつもの顔ぶれだ。{p}
+EN: This year, five schools are taking part, including us at Gorin High, Taiyo High and Pacific High. The usual faces.{p}
+
+## MGG11O g0 s0010
+JP: 今ね、各学校の有力選手の{n}コメントをとってるの。{n}五輪高校は、当然アンタね。{p}{end}
+EN: I'm getting comments from the top athletes of each school. For Gorin High, that's you, obviously.{p}{end}
+
+## MGG11O g0 s0016
+JP: ふむふむ、ホームラン競争の{n}五輪高校代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Gorin High's entry in the Home Run Derby: {v0}. Got it.{p}
+
+## MGG11O g0 s0018
+JP: ふむふむ、PK戦の{n}五輪高校代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Gorin High's entry in the PK Shootout: {v0}. Got it.{p}
+
+## MGG11O g0 s0020
+JP: ふむふむ、サービスエースの{n}五輪高校代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Gorin High's entry in the Service Ace: {v0}. Got it.{p}
+
+## MGG11O g0 s0025
+JP: 待ってたぞ、{v3:3}!{n}準備はいいか!?{p}{end}
+EN: Been waitin' for ya, {v3:3}! You ready!?{p}{end}
+
+## MGG11O g0 s0026
+JP: オマエは五輪高校の{n}代表なんだからな!{n}情けねぇプレイしたら、{n}承知しねぇぞ!{p}
+EN: You're Gorin's rep, y'know! Play like a wimp and you'll answer to me!{p}
+
+## MGG11O g0 s0027
+JP: 将馬……大げさねぇ、{n}アンタは。{p}{end}
+EN: Shoma... You're so dramatic.{p}{end}
+
+## MGG11O g0 s0028
+JP: いやいや、将馬のいうとおりだ。{n}ウチは開催校だからな、{n}他の高校に恥ずかしいトコロは{n}見せられないぞ。{p}
+EN: No, no, Shoma's right. We're the host school, so we can't embarrass ourselves in front of the others.{p}
+
+## MGG11O g0 s0029
+JP: そうね。{n}他はともかく、{n}ウチじゃ成績に響くからね。{n}気合入れた方がいいよ。{p}{end}
+EN: True. Whatever the other schools do, here it affects your grades. You'd better get fired up.{p}{end}
+
+## MGG11O g0 s0030
+JP: なんか緊張してきたなぁ。{p}{end}
+EN: I'm getting kind of nervous.{p}{end}
+
+## MGG11O g0 s0031
+JP: …………まぁそんなに{n}緊張することはない。{n}いつも通りやれば、{n}それで、いい……。{p}
+EN: ..........Well, no need to be... so nervous. Just do what you always do... and that's... enough...{p}
+
+## MGG11O g0 s0032
+JP: 流さん……。{p}{end}
+EN: Nagare-san...{p}{end}
+
+## MGG11O g0 s0033
+JP: ……ま、流兄ちゃんの{n}言うとおりだナ。{n}いつも通りでいいから、{n}がんばってこいよ、{v3:3}。{p}{end}
+EN: ...Yeah, big bro Nagare's right. Just do your usual thing and go get 'em, {v3:3}.{p}{end}
+
+## MGG11O g0 s0034
+JP: 確かに、学校の名誉とか考えると、{n}どうしても堅くなるからな。{n}流さんの言うとおり、{n}気にしない方がいいだろう。{p}
+EN: Yeah, thinking about school honor and all just makes you tense up. Like Nagare-san said, better not to worry about it.{p}
+
+## MGG11O g0 s0035
+JP: まぁね。{n}全力を尽くせるよう、{n}がんばってね。{p}
+EN: Well, yeah. Just go and give it everything you've got.{p}
+
+## MGG11O g0 s0036
+JP: （確かに学校のため、ってのは、{n}{sp}実感がないなぁ……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るよな……）{p}
+EN: (Yeah, "for the school" just doesn't hit home... I'd get way more fired up fighting for something real!){p}
+
+## MGG11O g0 s0038
+JP: 将馬のために!{sp}{sp}{sp}夏のために!{n}ロベルトのために!{sp}流のために!{n}やっぱり学校のため!{p}{end}
+EN: For Shoma!{sp}{sp}{sp}{sp}{sp}For Natsu!{n}For Roberto!{sp}{sp}{sp}{sp}For Nagare!{n}For the school!{p}{end}
+
+## MGG11O g0 s0039
+JP: （よし!{sp}この勝利を将馬に捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Shoma! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11O g0 s0040
+JP: （よし!{sp}この勝利を夏に捧げよう!{n}{sp}うん!{sp}気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Natsu! Yeah! I'm getting fired up!){p}
+
+## MGG11O g0 s0041
+JP: （よし!{sp}この勝利をロベルトに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Roberto! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11O g0 s0042
+JP: （よし!{sp}この勝利を流さんに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}{end}
+EN: (All right! I'll dedicate this win to Nagare-san! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11O g0 s0044
+JP: ん、{v3:5}。{n}そろそろ出番みたいだぞ。{n}がんばってこいよ。{p}{end}
+EN: Hey, {v3:5}. Looks like you're up soon. Go get 'em.{p}{end}
+
+## MGG11O g0 s0045
+JP: しっかりしなさい!{n}応援してるわよ!{p}{end}
+EN: Pull yourself together! I'm rooting for you!{p}{end}
+
+## MGG11O g0 s0046
+JP: 中途半端なこと{n}するんじゃねぇぞ!{p}
+EN: Don't you dare go halfway out there!{p}
+
+## MGG11O g0 s0047
+JP: …………がんばれ……。{p}
+EN: ..........Good luck...{p}
+
+## MGG11O g0 s0048
+JP: （絶好調!{n}{sp}俺の大活躍のおかげで、{n}{sp}五輪高校は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Gorin High won!){p}
+
+## MGG11O g0 s0049
+JP: おめでとう!{sp}{v4:19}!{n}五輪高校が優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v4:19}! Gorin High wins! You were amazing out there!{p}{end}
+
+## MGG11O g0 s0056
+JP: 役員会の決定で、君が本大会の{n}MVPに決まったのだよ。{n}五輪高校の校長もお喜びだ。{p}
+EN: The committee has chosen you as this tournament's MVP. Gorin High's principal is delighted as well.{p}
+
+## MGG11O g0 s0061
+JP: お、MVPのお帰りだ。{n}やったな、{v3:3}。{p}{end}
+EN: Hey, the MVP's back. You did it, {v3:3}.{p}{end}
+
+## MGG11O g0 s0062
+JP: 大活躍じゃない、{n}{v6:4}。{n}見直したわよ。{p}{end}
+EN: You were amazing, {v6:4}. I've gained a new respect for you.{p}{end}
+
+## MGG11O g0 s0063
+JP: まったくだ。{n}お前がそこまでやるとはな、{n}正直びっくりしたぞ。{p}
+EN: No kidding. Honestly, I was surprised you could pull that off.{p}
+
+## MGG11O g0 s0064
+JP: …………がんばったな……。{p}
+EN: ..........You did well...{p}
+
+## MGG11O g0 s0065
+JP: これも、将馬が{n}応援してくれたおかげだよ。{n}ありがとう、将馬……。{p}
+EN: It's all thanks to you cheering me on, Shoma. Thanks, Shoma...{p}
+
+## MGG11O g0 s0066
+JP: いつもどおりやれば、{n}オマエなら楽勝だって{n}オイラは信じてたぜ。{p}{end}
+EN: I knew you'd win easy if ya just did your usual thing.{p}{end}
+
+## MGG11O g0 s0067
+JP: そういってくれると、うれしいよ。{n}ありがとな、将馬。{p}{end}
+EN: Glad to hear you say that. Thanks, Shoma.{p}{end}
+
+## MGG11O g0 s0068
+JP: これも、夏が{n}応援してくれたおかげだよ。{n}ありがとう、夏。{p}
+EN: It's all thanks to you cheering me on, Natsu. Thanks, Natsu.{p}
+
+## MGG11O g0 s0069
+JP: ……ふふ、なんかあらためて{n}言われると、照れちゃうな。{n}でも{v6:4}、{n}勝ったのはアンタの実力だよ。{p}{end}
+EN: ...Hehe, hearing it said like that kind of makes me blush. But {v6:4}, you won on your own ability.{p}{end}
+
+## MGG11O g0 s0070
+JP: 夏……ありがとな。{p}
+EN: Natsu... Thanks.{p}
+
+## MGG11O g0 s0071
+JP: これも、ロベルトが{n}応援してくれたおかげだよ。{n}ありがとう、ロベルト。{p}
+EN: It's all thanks to you cheering me on, Roberto. Thanks, Roberto.{p}
+
+## MGG11O g0 s0072
+JP: 俺は何もしていないさ。{n}勝ったのは、{v3:5}、{n}お前の力だよ。{p}
+EN: I didn't do anything. You won on your own strength, {v3:5}.{p}
+
+## MGG11O g0 s0073
+JP: ロベルト……ありがとな。{p}{end}
+EN: Roberto... Thanks.{p}{end}
+
+## MGG11O g0 s0074
+JP: これも、流さんのアドバイスの{n}おかげです。{n}ありがとうございました。{p}{end}
+EN: It's all thanks to your advice, Nagare-san. Thank you very much.{p}{end}
+
+## MGG11O g0 s0078
+JP: いやいや、すべてオマエの実力だよ。{n}なんせ、MVPだからな!{p}{end}
+EN: No, no, it's all your own skill. You're the MVP, after all!{p}{end}
+
+## MGG11O g0 s0080
+JP: ……こうして、五輪祭の{n}エキシビションマッチは、{n}五輪高校の優勝に終わった。{p}{end}
+EN: ...And so, the Gorin Festival exhibition match ended in victory for Gorin High.{p}{end}
+
+## MGG11O g0 s0081
+JP: （……まぁまぁかな。{n}{sp}とりあえず、これでなんとか{n}{sp}五輪高校は3位を{n}{sp}キープできたみたいだ。）{p}
+EN: (...Not bad, I guess. At least it looks like Gorin High held on to third place.){p}
+
+## MGG11O g0 s0093
+JP: よぉ、{v3:3}。{n}お疲れさん。{n}3位だってな。{p}
+EN: Hey, {v3:3}. Good work. Third place, huh?{p}
+
+## MGG11O g0 s0094
+JP: 五輪高校としては{n}不本意な結果だが……{n}しかたないな。{n}全力は尽くしたんだろ?{p}
+EN: Not the result Gorin was hoping for... but it can't be helped. You gave it your all, right?{p}
+
+## MGG11O g0 s0095
+JP: そうね。{n}エキシビションだし……{n}そんなに成績に影響することは{n}ないと思うわよ。{p}{end}
+EN: Right. It's just an exhibition... I don't think it'll hurt your grades that much.{p}{end}
+
+## MGG11O g0 s0096
+JP: …………残念だったな……。{p}
+EN: ..........Too bad...{p}
+
+## MGG11O g0 s0097
+JP: （将馬のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Shoma... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}
+
+## MGG11O g0 s0098
+JP: まぁ、そう気を落とすなよ。{n}3位だって、オマエにしちゃ{n}上出来だよ。{p}{end}
+EN: Hey, don't be so down. Third's pretty good, for you.{p}{end}
+
+## MGG11O g0 s0099
+JP: 将馬……、{n}それじゃフォローに{n}なってないよ……。{p}
+EN: Shoma... That's not exactly helping...{p}
+
+## MGG11O g0 s0100
+JP: （夏のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Natsu... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}{end}
+
+## MGG11O g0 s0101
+JP: 気を落としちゃダメよ、{n}{v6:4}。{n}アンタもがんばってたじゃない。{p}
+EN: Don't get down, {v6:4}. You tried hard, didn't you?{p}
+
+## MGG11O g0 s0102
+JP: 夏にそういってもらえると{n}助かるよ。{n}ありがとう、夏。{p}
+EN: Hearing that from you helps, Natsu. Thanks.{p}
+
+## MGG11O g0 s0103
+JP: （ロベルトのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Roberto... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}
+
+## MGG11O g0 s0104
+JP: ま、すんだコトを気にしても{n}しかたないさ、{v3:5}。{n}全力でがんばったんなら{n}それでいいさ。だろ?{p}
+EN: Well, no use worrying about what's done, {v3:5}. If you gave it your all, that's fine. Right?{p}
+
+## MGG11O g0 s0105
+JP: ……そうだな、ロベルト。{n}ありがとう。{p}
+EN: ...You're right, Roberto. Thanks.{p}
+
+## MGG11O g0 s0106
+JP: （流さんのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Nagare-san... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}{end}
+
+## MGG11O g0 s0107
+JP: …………オマエはがんばった。{n}それで十分だ……。{p}{end}
+EN: ..........You tried hard. That's enough...{p}{end}
+
+## MGG11O g0 s0108
+JP: 流さん……ありがとうございます。{p}{end}
+EN: Nagare-san... Thank you.{p}{end}
+
+## MGG11O g0 s0109
+JP: せっかくみんなが{n}応援してくれたのにな。{n}ゴメンな、みんな。{p}{end}
+EN: Everyone cheered for me, too. Sorry, everyone.{p}{end}
+
+## MGG11O g0 s0110
+JP: そう気を落とさないで。{n}3位でも、まぁいいじゃない、{n}しかたないよ。{p}{end}
+EN: Don't be so down. Third's not so bad, right? It can't be helped.{p}{end}
+
+## MGG11O g0 s0111
+JP: ……そうだな。{n}ありがとう、みんな。{p}{end}
+EN: ...Yeah. Thanks, everyone.{p}{end}
+
+## MGG11O g0 s0112
+JP: ……こうして、五輪高校は{n}五輪祭のエキシビションマッチ{n}第3位に終わった。{p}
+EN: ...And so, Gorin High finished third in the Gorin Festival exhibition match.{p}
+
+## MGG11O g0 s0113
+JP: （最悪だ……。{n}{sp}俺はがんばったが、結果は振るわず{n}{sp}五輪高校は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Gorin High came in last...){p}{end}
+
+## MGG11O g0 s0124
+JP: オイオイ、{v3:3}、{n}どうしたんだよ、{n}調子でも悪かったのか?{n}オマエらしくもねぇ。{p}{end}
+EN: Hey, hey, {v3:3}, what happened? Were you off your game or somethin'? That ain't like you.{p}{end}
+
+## MGG11O g0 s0125
+JP: まったくだ。{n}お前の実力は{n}そんなモノじゃなかったハズだ。{n}そうだろ?{p}
+EN: No kidding. You're better than that. Right?{p}
+
+## MGG11O g0 s0126
+JP: 本番で実力出せないなんて{n}{v6:4}らしくないね……。{n}それとも練習不足?{p}{end}
+EN: Not showing what you've got when it counts... That's not like you, {v6:4}... Or did you just not practice enough?{p}{end}
+
+## MGG11O g0 s0128
+JP: （将馬のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Shoma... but I totally blew it... That bugs me more than Gorin High coming in last...){p}{end}
+
+## MGG11O g0 s0129
+JP: ま、仕方ねぇよ。{n}オマエの実力が{n}その程度だった、ってことさ。{n}人間、実力以上の力はでねぇからな。{p}
+EN: Eh, can't be helped. That's just how good you are. Nobody does better than they can, y'know.{p}
+
+## MGG11O g0 s0130
+JP: 将馬……ゴメンな。{p}
+EN: Shoma... Sorry.{p}
+
+## MGG11O g0 s0131
+JP: （夏のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Natsu... but I totally blew it... That bugs me more than Gorin High coming in last...){p}
+
+## MGG11O g0 s0132
+JP: {v6:4}も、{n}そんなに気を落としちゃダメだよ。{n}メンタルが弱いみたいだから……{n}ほら、しっかりして!{p}{end}
+EN: {v6:4}, you can't let it get you down so much. Looks like your nerves are weak... Come on, pull yourself together!{p}{end}
+
+## MGG11O g0 s0133
+JP: 夏……。{n}そうかもしれないな。{n}ありがとう。{p}{end}
+EN: Natsu... Maybe you're right. Thanks.{p}{end}
+
+## MGG11O g0 s0134
+JP: （ロベルトのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Roberto... but I totally blew it... That bugs me more than Gorin High coming in last...){p}{end}
+
+## MGG11O g0 s0135
+JP: 失敗は、誰にでもある。{n}俺達が言ったことが{n}プレッシャーになったのかもな。{n}しかたないさ……。{p}
+EN: Everybody slips up. Maybe what we said put pressure on you. Can't be helped...{p}
+
+## MGG11O g0 s0136
+JP: ロベルト……ゴメンな。{p}
+EN: Roberto... Sorry.{p}
+
+## MGG11O g0 s0137
+JP: （流さんのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Nagare-san... but I totally blew it... That bugs me more than Gorin High coming in last...){p}
+
+## MGG11O g0 s0138
+JP: …………誰にでもそういう時はある……{n}気にするな……。{p}
+EN: ..........Everyone has times like that... Don't worry about it...{p}
+
+## MGG11O g0 s0139
+JP: 流さん……スミマセン。{p}
+EN: Nagare-san... I'm sorry.{p}
+
+## MGG11O g0 s0140
+JP: せっかくみんなが{n}応援してくれたのに……。{n}ゴメンな、みんな。{p}
+EN: Everyone cheered for me, too... Sorry, everyone.{p}
+
+## MGG11O g0 s0141
+JP: ま、すんだコトを{n}アレコレいってもしかたないさ。{n}次のチャンスにいかせればいい。{n}次のチャンスがあれば、だが。{p}
+EN: Well, no use going on about what's done. Just make up for it next time. If there is a next time, that is.{p}
+
+## MGG11O g0 s0143
+JP: ……こうして、五輪高校は{n}五輪祭のエキシビションマッチ{n}最下位に終わった。{p}
+EN: ...And so, Gorin High finished last in the Gorin Festival exhibition match.{p}
+
+## MGG11O g1 s0001
+JP: 本来、我が五輪高校の行事の{n}『五輪祭』だけど、最終日には{n}ゲストに他校の生徒を招いて{n}エキシビションマッチを行っている。{p}{end}
+EN: The Gorin Festival is our own Gorin High's event, and on the final day, we invite students from other schools as guests for an exhibition match.{p}{end}
+
+## MGG11O g1 s0003
+JP: 今年の参加校は、{n}我が五輪高校と、太陽学園や{n}パシフィックHSなど、合計五校。{n}いつもの顔ぶれね。{p}
+EN: This year, five schools are taking part, including us at Gorin High, Taiyo High and Pacific High. The usual faces.{p}
+
+## MGG11O g1 s0008
+JP: ……長い挨拶になりそうね。{p}
+EN: ...Looks like this'll be a long speech.{p}
+
+## MGG11O g1 s0029
+JP: そうね。{n}他はともかく、{n}ウチじゃ成績に響くからね、{n}気合入れた方がいいよ。{p}{end}
+EN: True. Whatever the other schools do, here it affects your grades. You'd better get fired up.{p}{end}
+
+## MGG11O g1 s0030
+JP: なんか緊張してきちゃった……。{p}
+EN: I'm getting kind of nervous...{p}
+
+## MGG11O g1 s0032
+JP: 流先輩……。{p}{end}
+EN: Nagare-senpai...{p}{end}
+
+## MGG11O g1 s0036
+JP: （確かに学校のため、ってのは、{n}{sp}実感がないわよね……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るわね……）{p}{end}
+EN: (Yeah, "for the school" just doesn't hit home... I'd get way more fired up fighting for something real...){p}{end}
+
+## MGG11O g1 s0039
+JP: （よし!{sp}この勝利を将馬に捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Shoma! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11O g1 s0040
+JP: （よし!{sp}この勝利を夏に捧げるわ!{n}{sp}うん!{sp}気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Natsu! Yeah! I'm getting fired up!){p}{end}
+
+## MGG11O g1 s0041
+JP: （よし!{sp}この勝利をロベルトに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Roberto! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11O g1 s0042
+JP: （よし!{sp}この勝利を流先輩に捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}
+EN: (All right! I'll dedicate this win to Nagare-senpai! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11O g1 s0043
+JP: （やっぱり学校のためにがんばるわ。{n}{sp}その方が気合が入るし。）{p}
+EN: (I'll do my best for the school after all. That fires me up more.){p}
+
+## MGG11O g1 s0044
+JP: ん、{v7:5}。{n}そろそろ出番みたいだぞ。{n}がんばってこいよ。{p}{end}
+EN: Hey, {v7:5}. Looks like you're up soon. Go get 'em.{p}{end}
+
+## MGG11O g1 s0048
+JP: （絶好調!{n}{sp}私の大活躍のおかげで、{n}{sp}五輪高校は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Gorin High won!){p}
+
+## MGG11O g1 s0049
+JP: おめでとう!{sp}{v8:19}!{n}五輪高校が優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v8:19}! Gorin High wins! You were amazing out there!{p}{end}
+
+## MGG11O g1 s0062
+JP: 大活躍じゃない、{n}{v7:4}。{n}見直したわよ。{p}{end}
+EN: You were amazing, {v7:4}. I've gained a new respect for you.{p}{end}
+
+## MGG11O g1 s0065
+JP: これも、将馬が{n}応援してくれたおかげよ。{n}ありがとう、将馬……。{p}{end}
+EN: It's all thanks to you cheering me on, Shoma. Thanks, Shoma...{p}{end}
+
+## MGG11O g1 s0067
+JP: そういってくれると、うれしいわ。{n}ありがと、将馬。{p}
+EN: Glad to hear you say that. Thanks, Shoma.{p}
+
+## MGG11O g1 s0068
+JP: これも、夏が{n}応援してくれたおかげよ。{n}ありがとう、夏。{p}{end}
+EN: It's all thanks to you cheering me on, Natsu. Thanks, Natsu.{p}{end}
+
+## MGG11O g1 s0069
+JP: ……ふふ、なんかあらためて{n}言われると、照れちゃうな。{n}でも{v7:4}、{n}勝ったのはアンタの実力だよ。{p}{end}
+EN: ...Hehe, hearing it said like that kind of makes me blush. But {v7:4}, you won on your own ability.{p}{end}
+
+## MGG11O g1 s0070
+JP: 夏……ありがと。{p}{end}
+EN: Natsu... Thanks.{p}{end}
+
+## MGG11O g1 s0071
+JP: これも、ロベルトが{n}応援してくれたおかげよ。{n}ありがとう、ロベルト。{p}{end}
+EN: It's all thanks to you cheering me on, Roberto. Thanks, Roberto.{p}{end}
+
+## MGG11O g1 s0072
+JP: 俺は何もしていないさ。{n}勝ったのは、{v7:5}、{n}お前の力だよ。{p}
+EN: I didn't do anything. You won on your own strength, {v7:5}.{p}
+
+## MGG11O g1 s0073
+JP: ロベルト……ありがと。{p}
+EN: Roberto... Thanks.{p}
+
+## MGG11O g1 s0074
+JP: これも、流先輩のアドバイスの{n}おかげです。{n}ありがとうございました。{p}{end}
+EN: It's all thanks to your advice, Nagare-senpai. Thank you very much.{p}{end}
+
+## MGG11O g1 s0077
+JP: これもみんなが{n}応援してくれたおかげよ。{n}ありがと、みんな。{p}{end}
+EN: It's all thanks to everyone cheering me on. Thanks, everybody.{p}{end}
+
+## MGG11O g1 s0079
+JP: ううん、みんなの{n}アドバイスのおかげよ。{n}チームワークの勝利ってヤツよね。{p}
+EN: No, no, it's thanks to everyone's advice. A win for teamwork, right?{p}
+
+## MGG11O g1 s0081
+JP: （……まぁまぁね。{n}{sp}とりあえず、これでなんとか{n}{sp}五輪高校は3位を{n}{sp}キープできたみたいだし。）{p}
+EN: (...Not bad, I guess. At least it looks like Gorin High held on to third place.){p}
+
+## MGG11O g1 s0097
+JP: （将馬のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Shoma... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}
+
+## MGG11O g1 s0100
+JP: （夏のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Natsu... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}{end}
+
+## MGG11O g1 s0101
+JP: 気を落としちゃダメよ、{n}{v7:4}。{n}アンタもがんばってたじゃない。{p}
+EN: Don't get down, {v7:4}. You tried hard, didn't you?{p}
+
+## MGG11O g1 s0102
+JP: 夏にそういってもらえると{n}助かるわ。{n}ありがとう、夏。{p}
+EN: Hearing that from you helps, Natsu. Thanks.{p}
+
+## MGG11O g1 s0103
+JP: （ロベルトのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Roberto... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}
+
+## MGG11O g1 s0104
+JP: ま、すんだコトを気にしても{n}しかたないさ、{v7:5}。{n}全力でがんばったんなら{n}それでいいさ。だろ?{p}
+EN: Well, no use worrying about what's done, {v7:5}. If you gave it your all, that's fine. Right?{p}
+
+## MGG11O g1 s0105
+JP: ……そうね、ロベルト。{n}ありがとう。{p}{end}
+EN: ...You're right, Roberto. Thanks.{p}{end}
+
+## MGG11O g1 s0106
+JP: （流先輩のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}五輪高校が3位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Nagare-senpai... but it wasn't enough... That bugs me more than Gorin High coming in third...){p}{end}
+
+## MGG11O g1 s0108
+JP: 流先輩……ありがとうございます。{p}{end}
+EN: Nagare-senpai... Thank you.{p}{end}
+
+## MGG11O g1 s0109
+JP: せっかくみんなが{n}応援してくれたのに……。{n}ゴメンね、みんな。{p}
+EN: Everyone cheered for me, too... Sorry, everyone.{p}
+
+## MGG11O g1 s0111
+JP: ……そうね。{n}ありがとう、みんな。{p}
+EN: ...Yeah. Thanks, everyone.{p}
+
+## MGG11O g1 s0113
+JP: （最悪……。{n}{sp}私はがんばったけど、結果は振るわず{n}{sp}五輪高校は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Gorin High came in last...){p}{end}
+
+## MGG11O g1 s0126
+JP: 本番で実力出せないなんて{n}{v7:4}らしくないね……。{n}それとも練習不足?{p}{end}
+EN: Not showing what you've got when it counts... That's not like you, {v7:4}... Or did you just not practice enough?{p}{end}
+
+## MGG11O g1 s0128
+JP: （将馬のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Shoma... but I totally blew it... That bugs me more than Gorin High coming in last...){p}{end}
+
+## MGG11O g1 s0130
+JP: 将馬……ゴメンね。{p}
+EN: Shoma... Sorry.{p}
+
+## MGG11O g1 s0131
+JP: （夏のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Natsu... but I totally blew it... That bugs me more than Gorin High coming in last...){p}
+
+## MGG11O g1 s0132
+JP: {v7:4}も、{n}そんなに気を落としちゃダメだよ。{n}メンタルが弱いみたいだから……{n}ほら、しっかりして!{p}{end}
+EN: {v7:4}, you can't let it get you down so much. Looks like your nerves are weak... Come on, pull yourself together!{p}{end}
+
+## MGG11O g1 s0133
+JP: 夏……。{n}そうかもしれないわね。{n}ありがとう。{p}
+EN: Natsu... Maybe you're right. Thanks.{p}
+
+## MGG11O g1 s0134
+JP: （ロベルトのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Roberto... but I totally blew it... That bugs me more than Gorin High coming in last...){p}{end}
+
+## MGG11O g1 s0136
+JP: ロベルト……ゴメンね。{p}
+EN: Roberto... Sorry.{p}
+
+## MGG11O g1 s0137
+JP: （流先輩のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}五輪高校が最下位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Nagare-senpai... but I totally blew it... That bugs me more than Gorin High coming in last...){p}
+
+## MGG11O g1 s0139
+JP: 流先輩……スミマセン。{p}
+EN: Nagare-senpai... I'm sorry.{p}
+
+## MGG11O g1 s0142
+JP: みんな……ゴメンね。{p}{end}
+EN: Everyone... I'm sorry.{p}{end}
+

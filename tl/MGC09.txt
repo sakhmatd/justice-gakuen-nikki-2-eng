@@ -1,0 +1,216 @@
+## MGC09 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}まだまだ暑いが、がんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-kun{col:-}. It's still hot out, but let's give it our all.{p}{end}
+
+## MGC09 g0 s0003
+JP: ふむ、なるほど。{n}いい感じで成長しているな。{n}これからも、この調子でがんばれよ。{p}{end}
+EN: Hmm, I see. You're growing nicely. Keep it up like this.{p}{end}
+
+## MGC09 g0 s0004
+JP: よし、それじゃ次は、特別練習だ。{n}俺が説明するから、自分の伸ばしたい{n}パラメータを考えて、練習を選んでくれ。{p}{end}
+EN: All right, next up is special practice. I'll explain, so think about which stat you want to raise and pick a drill.{p}{end}
+
+## MGC09 g0 s0006
+JP: 今月は、学園祭がある。{n}まぁ遊びすぎないようにな。{p}
+EN: There's the school festival this month. Just don't goof off too much.{p}
+
+## MGC09 g0 s0009
+JP: 来たな、{v0}!{n}今月も特別練習の日が来たぞ。{n}気合い入れていけよ!{p}{end}
+EN: There you are, {v0}! Special practice day is here again. Let's get fired up!{p}{end}
+
+## MGC09 g0 s0011
+JP: なるほど、1学期の成果としては{n}上出来の部類だな。{n}これからもこの調子でがんばれよ。{p}{end}
+EN: I see. As first-term results go, that's pretty good. Keep it up like this.{p}{end}
+
+## MGC09 g0 s0012
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}僕が説明するから、自分の伸ばしたい{n}パラメータを考えて、練習を選んでくれ!{p}{end}
+EN: All right, next is this month's special practice. I'll explain, so think about which stat you want to raise and pick a drill!{p}{end}
+
+## MGC09 g0 s0013
+JP: よし、今日はここまでにしておこう。{p}
+EN: All right, let's call it a day.{p}
+
+## MGC09 g0 s0014
+JP: さてと、今月は学園祭だな。{n}この手の行事は、{n}僕はあんまり好きじゃないが……{n}ま、楽しんでくるといい。{p}
+EN: Now then, it's the school festival this month. I'm not big on this kind of event myself... but go and have fun.{p}
+
+## MGC09 g0 s0017
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、9月の特別練習の日です。{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is September's special practice day. Let's do our best.{p}{end}
+
+## MGC09 g0 s0019
+JP: どうですか?{n}私には、いい調子にみえますけど。{p}
+EN: How does it look? You seem to be doing well, if you ask me.{p}
+
+## MGC09 g0 s0020
+JP: それでは、次は特別練習ですね。{n}私が説明しますので、{n}好きな練習を選んでください。{p}
+EN: Next is special practice. I'll explain it, so please pick whichever drill you like.{p}
+
+## MGC09 g0 s0021
+JP: はい、お疲れさまです。{n}まだまだ暑いですけど、{n}がんばってくださいね。{p}
+EN: Okay, good work. It's still hot, but please keep it up.{p}
+
+## MGC09 g0 s0022
+JP: ええと、今月は学園祭がありますね。{n}サッカー部は屋台を出すんですよ。{n}担当は私と、ロベルト君と……、{n}{v0}{col:0}君{col:-}は、はずれてますね。{p}
+EN: Um, the school festival is this month. The soccer club is running a stall, and I'm on duty with Roberto-kun and... Oh, you're not on it, {v0}{col:0}-kun{col:-}.{p}
+
+## MGC09 g0 s0023
+JP: ヒマがあったら、見に来てください。{n}それでは、また来月に……。{p}
+EN: If you have time, please come by. Well then, see you next month...{p}
+
+## MGC09 g0 s0025
+JP: 来たな、{v1}!{n}特別練習の時間だぞ!{n}気合を入れていけよ。{p}{end}
+EN: There you are, {v1}! Time for special practice! Put some fight into it.{p}{end}
+
+## MGC09 g0 s0027
+JP: なるほど、1学期の成果としては{n}上出来だな。{n}この調子でがんばれよ。{p}{end}
+EN: I see. As first-term results go, not bad. Keep it up.{p}{end}
+
+## MGC09 g0 s0029
+JP: よしよし、いいだろう。{n}どうだ、稽古をするのは楽しいだろう?{p}{end}
+EN: Good, good, that'll do. Well? Training's fun, eh?{p}{end}
+
+## MGC09 g0 s0030
+JP: さてと、おっそうそう、{n}今月は、学園祭があるらしいな。{n}やれやれ、いいな学生さんは。{p}{end}
+EN: Now then... Oh, right. Seems there's a school festival this month. My, must be nice being a student.{p}{end}
+
+## MGC09 g0 s0033
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}新学期も始まったし、{n}張り切っていきましょう!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. The new term's started, so let's get into it!{p}{end}
+
+## MGC09 g0 s0035
+JP: OK、いい感じで{n}成長してるじゃない?{n}この調子でがんばって。{p}
+EN: OK, you're growing nicely, aren't you? Keep it up.{p}
+
+## MGC09 g0 s0036
+JP: ええと。それじゃ次は、{n}今月の特別練習ね。{n}私が説明してあげるから、{n}好きな練習を選んでね。{p}{end}
+EN: Um. Okay, next is this month's special practice. I'll explain it for you, so pick whatever drill you like.{p}{end}
+
+## MGC09 g0 s0037
+JP: はい、おつかれさま。{n}もうすぐ芸術の秋だからねぇ、{n}がんばっていきましょうね!{p}
+EN: Okay, good work. Autumn's the season for art, and it's almost here, so let's give it our all!{p}
+
+## MGC09 g0 s0038
+JP: ええと、そうそう、{n}今月は学園祭ね。{n}ウチのクラスはね、肝試しをするの。{n}楽しみだなぁ。{p}{end}
+EN: Um, oh right, the school festival's this month. My class is doing a test of courage. I can't wait.{p}{end}
+
+## MGC09 g0 s0043
+JP: どう……?{n}成長してる?{p}{end}
+EN: How is it...? Are you growing?{p}{end}
+
+## MGC09 g0 s0044
+JP: それじゃ……特別練習ね。{n}好きな練習を選んでね……。{p}{end}
+EN: Now... special practice. Pick whichever drill you like...{p}{end}
+
+## MGC09 g0 s0045
+JP: おつかれさま。{n}吹奏楽は、日々の努力が大事だから……{n}がんばってね。{p}{end}
+EN: Good work. Brass band is all about daily effort... so keep at it.{p}{end}
+
+## MGC09 g0 s0046
+JP: あ、そうそう……今月は学園祭ね。{n}楽しみだわ……。{p}
+EN: Oh, right... the school festival's this month. I'm looking forward to it...{p}
+
+## MGC09 g0 s0047
+JP: それじゃ、また来月に……。{p}
+EN: Well then, see you next month...{p}
+
+## MGC09 g0 s0050
+JP: さてと、それじゃさっそく、{n}先月のクラブ活動の成果を{n}見てみましょう。{p}
+EN: Now then, let's get right to it and look at last month's club results.{p}
+
+## MGC09 g0 s0051
+JP: なるほどね、いい感じじゃない。{n}この調子でがんばれば、{n}1年が終わる頃には、{n}いい演技ができるようになってるわよ。{p}
+EN: I see, that's looking good. Keep this up, and by the end of the year you'll be able to give a fine performance.{p}
+
+## MGC09 g0 s0053
+JP: はい、今日はここまでにしましょう。{n}演技に重要なのは、観察力よ。{n}がんばってね。{p}{end}
+EN: All right, let's stop here for today. The key to acting is observation. Keep at it.{p}{end}
+
+## MGC09 g0 s0054
+JP: 今月は学園祭ね。{n}演劇部もステージがあるけど、{n}たしかキミは担当からはずれてるから、{n}ヒマがあったら見に来てもいいわよ。{p}{end}
+EN: The school festival is this month. The drama club has a stage show too, but I believe you're not on the crew. Come watch if you have time.{p}{end}
+
+## MGC09 g0 s0055
+JP: それでは、また来月ね。{p}
+EN: See you next month, then.{p}
+
+## MGC09 g0 s0057
+JP: やぁ、{v0}{col:0}君{col:-}。{n}そうか、今日は特別練習の日だな。{n}ま、ぼちぼちやっていこうじゃないか。{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}. Right, today's special practice day. Well, let's take it nice and easy, shall we?{p}{end}
+
+## MGC09 g0 s0059
+JP: なるほど、なるほど。{n}まぁぼちぼちやってるようだな。{n}よしよし。{p}{end}
+EN: I see, I see. Looks like you're taking it nice and easy. Good, good.{p}{end}
+
+## MGC09 g0 s0062
+JP: 今月は学園祭だな。{n}僕は、この手の行事は{n}あんまり好きじゃないから……。{n}ま、キミは楽しんできたまえ。{p}
+EN: It's the school festival this month. I'm not big on this kind of event, so... Well, you go and enjoy yourself.{p}
+
+## MGC09 g0 s0065
+JP: はーい、{v0}{col:0}君{col:-}。{n}覚えてるでしょ、今日は特別練習の日よ。{n}ま、何するでもないけど、{n}帰宅部ならではって活動をやりましょうか。{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. You remember, right? It's special practice day. We don't really do anything, but let's do some true Go-Home Club activities.{p}
+
+## MGC09 g0 s0066
+JP: とりあえず、先月の{n}クラブの成果からね。{p}{end}
+EN: First, last month's club results.{p}{end}
+
+## MGC09 g0 s0067
+JP: どう?{n}この1学期の成果ってでてる?{p}{end}
+EN: Well? Is your first term paying off?{p}{end}
+
+## MGC09 g0 s0068
+JP: それじゃ次は、{n}今月の特別練習ね。{n}まぁ適当にしか上がらないけど、{n}適当にやっちゃいましょう。{p}
+EN: Okay, next is this month's special practice. Stats only go up any old way, so let's do it any old way.{p}
+
+## MGC09 g0 s0069
+JP: ま、こんなものかしらね。{n}成長したかったら、{n}普通のクラブに入った方が{n}いいと思うし。{p}
+EN: Well, that's about it. If you want to grow, I think you'd be better off in a normal club.{p}
+
+## MGC09 g0 s0070
+JP: 今月は学園祭ね。{n}いろいろ出し物があるらしいから、{n}楽しみだわ。{p}{end}
+EN: The school festival's this month. I hear there'll be all kinds of attractions. I can't wait.{p}{end}
+
+## MGC09 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}まだまだ暑いが、がんばっていこう。{p}
+EN: Hey, {v1}{col:0}-san{col:-}. It's still hot out, but let's give it our all.{p}
+
+## MGC09 g1 s0017
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、9月の特別練習の日ね。{n}がんばっていきましょう。{p}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today is September's special practice day. Let's do our best.{p}
+
+## MGC09 g1 s0019
+JP: どう?{n}私には、いい調子にみえるけど。{p}
+EN: How does it look? You seem to be doing well, if you ask me.{p}
+
+## MGC09 g1 s0020
+JP: それでは、次は特別練習ね。{n}私が説明するから、{n}好きな練習を選んでね。{p}
+EN: Next is special practice. I'll explain it, so pick whichever drill you like.{p}
+
+## MGC09 g1 s0021
+JP: はい、お疲れさま。{n}まだまだ暑いけど、{n}がんばってね。{p}
+EN: Okay, good work. It's still hot, but keep it up.{p}
+
+## MGC09 g1 s0022
+JP: ええと、今月は学園祭がありますね。{n}サッカー部は屋台を出すのよ。{n}担当は私と、ロベルト君と……、{n}{v1}{col:0}ちゃん{col:-}は、はずれてるけど。{p}
+EN: Um, the school festival is this month. The soccer club is running a stall, and I'm on duty with Roberto-kun and... Oh, you're not on it, {v1}{col:0}-chan{col:-}.{p}
+
+## MGC09 g1 s0023
+JP: ヒマがあったら、見に来てね。{n}それでは、また来月に……。{p}{end}
+EN: If you have time, come by. Well then, see you next month...{p}{end}
+
+## MGC09 g1 s0025
+JP: 来たな、{v0}!{n}特別練習の時間だぞ!{n}気合を入れていけよ。{p}{end}
+EN: There you are, {v0}! Time for special practice! Put some fight into it.{p}{end}
+
+## MGC09 g1 s0033
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}新学期も始まったし、{n}張り切っていきましょう!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. The new term's started, so let's get into it!{p}
+
+## MGC09 g1 s0057
+JP: やぁ、{v0}{col:0}君{col:-}。{n}そうか、今日は特別練習の日ね。{n}ま、ぼちぼちやっていこうじゃないか。{p}
+EN: Ah, {v0}{col:0}-kun{col:-}. Right, today's special practice day. Well, let's take it nice and easy, shall we?{p}
+
+## MGC09 g1 s0065
+JP: はーい、{v1}{col:0}さん{col:-}。{n}覚えてるでしょ、今日は特別練習の日よ。{n}ま、何するでもないけど、{n}帰宅部ならではって活動をやりましょうか。{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. You remember, right? It's special practice day. We don't really do anything, but let's do some true Go-Home Club activities.{p}{end}
+

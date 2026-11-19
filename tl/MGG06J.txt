@@ -1,0 +1,492 @@
+## MGG06J g0 s0000
+JP: さてと……今日の授業も終わりか……。{p}{end}
+EN: Well... classes are over for today...{p}{end}
+
+## MGG06J g0 s0001
+JP: {v0}、{v0}はいるか。{p}{end}
+EN: {v0}. Is {v0} here?{p}{end}
+
+## MGG06J g0 s0002
+JP: （おや、生徒会長の雹だ。{n}{sp}俺に何か用なのかな?）{p}
+EN: (Oh, it's Hyo, the council president. Does he want something with me?){p}
+
+## MGG06J g0 s0003
+JP: ここにいたか、{v0}。{n}お前を見込んで一つ頼みがある。{n}聞いてくれ。{p}{end}
+EN: There you are, {v0}. I have a request, and I am counting on you. Listen.{p}{end}
+
+## MGG06J g0 s0004
+JP: なんですか?{sp}雹さん。{p}
+EN: What is it, Hyo-san?{p}
+
+## MGG06J g0 s0005
+JP: 今日、太陽学園とパシフィックHSの{n}対抗戦があることは知っているか?{n}例の、『太P戦』とかいうヤツだ。{p}
+EN: Are you aware that Taiyo High and Pacific High hold a match today? That "Taiyo-Pacific Match" thing.{p}
+
+## MGG06J g0 s0006
+JP: その対抗戦で、両校から{n}我がジャスティス学園に{n}助っ人の要請がきている。{n}いってもらえるか。{p}{end}
+EN: Both schools have asked our Justice High to send a helper. Will you go?{p}{end}
+
+## MGG06J g0 s0007
+JP: むろん、我が校としては、{n}どちらの高校の助っ人に行ってもかまわん。{n}お前の好きな方を選ぶがいい。{p}{end}
+EN: Naturally, the school does not care which side you help. Choose whichever you like.{p}{end}
+
+## MGG06J g0 s0008
+JP: むしろ重要なのは、{n}ジャスティス学園の生徒として{n}我々の優秀さを、彼ら愚民に{n}見せつけることだ。{p}{end}
+EN: What matters is that you, as a Justice High student, show the ignorant masses our superiority.{p}{end}
+
+## MGG06J g0 s0009
+JP: したがって、いかなる状況でも{n}敗北は許されん。{n}それ相応の罰があると思え。{p}
+EN: Therefore, defeat will not be tolerated under any circumstances. Expect a fitting punishment.{p}
+
+## MGG06J g0 s0010
+JP: ……マジですか?{n}雹さん。{p}
+EN: ...Are you serious, Hyo-san?{p}
+
+## MGG06J g0 s0011
+JP: 無論だ。{n}場所はわかっているな。{n}すぐに向かってくれ。{p}
+EN: Of course. You know the place. Go at once.{p}
+
+## MGG06J g0 s0012
+JP: いっちゃった……。{n}しかたないな、{n}さてどっちの助っ人にいくかな……。{p}
+EN: He's gone... Oh well. Now, which side should I help...{p}
+
+## MGG06J g0 s0014
+JP: バツと戦うのはイヤだなぁ。{n}やはり、ひなたや恭介もいるし、{n}太陽学園の方につくか。{p}
+EN: I don't wanna fight Batsu. Hinata and Kyosuke are there, so I'll side with Taiyo High.{p}
+
+## MGG06J g0 s0015
+JP: ロイ達と組んだ方がいいかなぁ。{n}よし、ティファニーやボーマンもいるし、{n}パシフィックの方に加勢するとしよう!{p}{end}
+EN: Maybe teaming up with Roy's crew is better. Right, Tiffany and Boman are there too, so I'll go help Pacific!{p}{end}
+
+## MGG06J g0 s0016
+JP: お、来た来た。{n}{v3:0}、お前が{n}ジャスティス学園の助っ人だってな。{n}期待してるぜ!{p}{end}
+EN: Oh, there you are. {v3:0}, heard you're Justice High's helper. Countin' on ya!{p}{end}
+
+## MGG06J g0 s0018
+JP: 大丈夫、{v6:1}なら、{n}きっと勝てるよ!{n}応援してるからね!!{p}
+EN: Don't worry, {v6:1}, I know you can win! I'll be cheering for you!!{p}
+
+## MGG06J g0 s0019
+JP: そうとも!{sp}この一戦に、{n}今回の勝敗がかかってるんだ。{n}気合い入れていけよ!{p}{end}
+EN: Damn right! This race decides the whole meet. So get fired up!{p}{end}
+
+## MGG06J g0 s0020
+JP: ロイが相手か……。{n}これは本気でやらないと、{n}勝てそうにないなぁ。{p}
+EN: Roy, huh... I'll have to go all out if I want to win.{p}
+
+## MGG06J g0 s0026
+JP: ヘイ、{v3:6}!{n}こっちだ。{n}よく来たな。待っていたぞ。{p}{end}
+EN: Hey, {v3:6}! Over here. Glad you came. I've been waiting.{p}{end}
+
+## MGG06J g0 s0027
+JP: ジャスティス学園からの{n}助っ人は君ですか。{n}これは心強いですネ。{p}{end}
+EN: So you are the helper from Justice High. How reassuring.{p}{end}
+
+## MGG06J g0 s0041
+JP: やったな!{sp}{v3:0}!{n}さすがに雹が選んだだけの{n}ことはあるぜ!{p}{end}
+EN: You did it, {v3:0}! No wonder Hyo picked you!{p}{end}
+
+## MGG06J g0 s0042
+JP: ……そうだな。{n}これで、今大会は太陽学園の勝ちだ。{n}感謝するよ、{v4:2}。{p}
+EN: ...Indeed. Now Taiyo High wins the meet. Thank you, {v4:2}.{p}
+
+## MGG06J g0 s0043
+JP: いやぁ、照れるなぁ。{p}{end}
+EN: Aw, you're making me blush.{p}{end}
+
+## MGG06J g0 s0044
+JP: それはそうと、{n}兄さんに報告しないと{n}いけないんじゃないのか?{p}
+EN: By the way, shouldn't you report to my brother?{p}
+
+## MGG06J g0 s0045
+JP: あぁ、そうだ。{n}負けたら殺すとかいってたからなぁ、{n}とりあえず、勝った報告だけでも{n}しておかないと、マズイな。{p}
+EN: Oh, right. He said he'd kill me if I lost. I'd better at least go tell him I won.{p}
+
+## MGG06J g0 s0047
+JP: ま、冗談だと思うけど。{n}それじゃみんな、またな。{p}{end}
+EN: Well, I'm sure he was joking. See you, everyone.{p}{end}
+
+## MGG06J g0 s0048
+JP: よくやったな、{v0}。{n}期待通りだ。{p}{end}
+EN: Well done, {v0}. Just as I expected.{p}{end}
+
+## MGG06J g0 s0049
+JP: あぁ、雹さん。{n}来てたんですか?{p}{end}
+EN: Oh, Hyo-san. You were here?{p}{end}
+
+## MGG06J g0 s0050
+JP: 全てこの目で見せてもらった。{n}やはり私が目をかけただけの{n}ことはあるな。{p}{end}
+EN: I saw it all with my own eyes. You live up to the faith I put in you.{p}{end}
+
+## MGG06J g0 s0051
+JP: 当然ですよ、楽勝です{n}苦戦しましたが、なんとか勝てました{p}{end}
+EN: Of course. It was a breeze{n}It was tough, but I won{p}{end}
+
+## MGG06J g0 s0052
+JP: 当然ですよ、ジャスティス学園の{n}生徒としては当たり前のことです。{n}ロイには悪いけど、楽勝でした。{p}{end}
+EN: Of course. That's only natural for a Justice High student. Sorry, Roy, but it was a breeze.{p}{end}
+
+## MGG06J g0 s0053
+JP: 当然だ。誇るまでもない。{n}まぁ……期待以上のできだった。{n}その点は……ほめてやろう。{p}{end}
+EN: Of course. Nothing worth boasting about. Still... you exceeded my expectations. For that... you have my praise.{p}{end}
+
+## MGG06J g0 s0054
+JP: 雹さん……。{p}{end}
+EN: Hyo-san...{p}{end}
+
+## MGG06J g0 s0055
+JP: しかし、私の右腕になるには{n}まだまだだな。{n}これからも精進するがいい。{n}いいな。{p}{end}
+EN: But you are still far from fit to be my right hand. Keep honing yourself. Understood?{p}{end}
+
+## MGG06J g0 s0056
+JP: は、はい!!{p}{end}
+EN: Y-yes, sir!!{p}{end}
+
+## MGG06J g0 s0057
+JP: 苦戦しましたが、なんとか勝てました。{n}さすがにロイですね、簡単には{n}勝たせてくれません。{p}{end}
+EN: It was tough, but I managed to win. That's Roy for you. He doesn't make it easy.{p}{end}
+
+## MGG06J g0 s0058
+JP: 謙遜のつもりか?{n}そんなことは愚民のすることだ。{n}勝者は勝者らしく誇ればよい。{p}
+EN: Is that meant to be modesty? Modesty is for the ignorant masses. A winner should take pride in winning.{p}
+
+## MGG06J g0 s0059
+JP: （ゲッ……しくじったか?）{p}
+EN: (Yikes... did I blow it?){p}
+
+## MGG06J g0 s0060
+JP: ……しかし、結果は上出来だ。{n}その点はほめてやろう。{n}これからも精進するがいい。{n}いいな。{p}
+EN: ...Still, the result was excellent. For that, you have my praise. Keep honing yourself. Understood?{p}
+
+## MGG06J g0 s0062
+JP: こうして太P戦は、{n}太陽学園の大勝利に終わった。{p}{end}
+EN: And so the Taiyo-Pacific Match ended in a big win for Taiyo High.{p}{end}
+
+## MGG06J g0 s0068
+JP: あのバツに勝つなんて、スゴイね!{n}サンキュー、{v3:7}!{p}{end}
+EN: You beat Batsu, that's amazing! Thank you, {v3:7}!{p}{end}
+
+## MGG06J g0 s0069
+JP: やったな!{sp}{v3:6}!{n}ジャパニーズがここまでやるとは、{n}正直思わなかった。{n}みなおしたぞ。{p}{end}
+EN: You did it, {v3:6}! Honestly, I didn't think a Japanese student could pull that off. I'm impressed.{p}{end}
+
+## MGG06J g0 s0070
+JP: これで、今大会は我がパシフィック{n}ハイスクールの勝利ですネ!{n}これも君が助っ人に来てくれたおかげです。{n}神よ、感謝します。{p}
+EN: Now our Pacific High wins the meet! It is all thanks to you coming to help us. Lord, I thank you.{p}
+
+## MGG06J g0 s0072
+JP: それはそうと、{n}雹に報告しないと{n}いけないんじゃないか?{p}{end}
+EN: By the way, shouldn't you report to Hyo?{p}{end}
+
+## MGG06J g0 s0074
+JP: ははっ、雹はバンコクね!{p}{end}
+EN: Haha, Hyo is so ruthful!{p}{end}
+
+## MGG06J g0 s0075
+JP: それは……「残酷」かな?{n}ま、冗談だと思うけど、とりあえずね。{n}それじゃみんな、またな。{p}{end}
+EN: You mean... "ruthless"? Well, I'm sure he was joking, but still. See you, everyone.{p}{end}
+
+## MGG06J g0 s0076
+JP: よくやったな、{v0}。{n}私の期待通りだ。{p}{end}
+EN: Well done, {v0}. Just as I expected.{p}{end}
+
+## MGG06J g0 s0078
+JP: すべてこの目で見せてもらった。{n}やはり私が目をかけただけの{n}ことはあるな。{p}
+EN: I saw everything with my own eyes. You live up to the faith I put in you.{p}
+
+## MGG06J g0 s0080
+JP: 当然ですよ、ジャスティス学園の{n}生徒としては当たり前のことです。{n}バツには悪いけど、楽勝でした。{p}{end}
+EN: Of course. That's only natural for a Justice High student. Sorry, Batsu, but it was a breeze.{p}{end}
+
+## MGG06J g0 s0085
+JP: 苦戦しましたが、なんとか勝てました。{n}さすがにバツですね、簡単には{n}勝たせてくれません。{p}{end}
+EN: It was tough, but I managed to win. That's Batsu for you. He doesn't make it easy.{p}{end}
+
+## MGG06J g0 s0092
+JP: よぉ、{v3:0}。{n}残念だったな……。{p}{end}
+EN: Yo, {v3:0}. Tough luck...{p}{end}
+
+## MGG06J g0 s0094
+JP: キミはがんばったよ……。{n}ロイの方が一枚上手だっただけだ。{n}気にすることはない。{p}{end}
+EN: You did your best... Roy was just a step ahead. Don't let it get to you.{p}{end}
+
+## MGG06J g0 s0095
+JP: ま、ウチの学校は負けちまったけど、{n}助っ人のお前に責任はないさ。{n}俺達がもっとがんばってれば、な。{p}
+EN: Well, our school lost, but it ain't on you. You were just helpin'. If the rest of us had tried harder, though...{p}
+
+## MGG06J g0 s0096
+JP: うん……、ね、{v6:1}も{n}気を落とさないでね……。{p}
+EN: Yeah... {v6:1}, don't feel too down either, okay...{p}
+
+## MGG06J g0 s0097
+JP: しかし……、{v5:2}、{n}兄さんに報告しないと{n}いけないんじゃないのか?{p}
+EN: But... {v5:2}, shouldn't you report to my brother?{p}
+
+## MGG06J g0 s0098
+JP: ゲッ……、忘れてた……。{n}負けたらタダじゃおかない、{n}みたいなコトいってたな。{p}
+EN: Ugh... I forgot... He said something like I'd pay if I lost.{p}
+
+## MGG06J g0 s0099
+JP: …………!!{n}そうか……ま、{n}ヘタな言い訳はしないことだ。{p}
+EN: ..........!! I see... Well, don't try any clumsy excuses.{p}
+
+## MGG06J g0 s0100
+JP: そうだな……、ちょっと気が重いけど、{n}学校に戻るか……。{n}じゃな、みんな。{p}
+EN: Yeah... I'm dreading it, but I'd better head back to school... See ya, everyone.{p}
+
+## MGG06J g0 s0101
+JP: 全てこの目で見せてもらったぞ、{n}{v0}。{p}{end}
+EN: I saw it all with my own eyes, {v0}.{p}{end}
+
+## MGG06J g0 s0102
+JP: ゲッ!!{sp}雹さん!?{n}来てたんですか?{p}
+EN: Yikes!! Hyo-san!? You were here?{p}
+
+## MGG06J g0 s0103
+JP: 私の言ったことは覚えているか……?{n}よくもジャスティス学園の名に{n}泥を塗ってくれたな。{p}
+EN: Do you remember what I told you...? You have dragged the name of Justice High through the mud.{p}
+
+## MGG06J g0 s0104
+JP: これより、制裁を加える。{n}何か、言い残すことはあるか?{p}
+EN: I will now carry out your punishment. Any last words?{p}
+
+## MGG06J g0 s0105
+JP: 潔く負けをみとめる{n}言い訳をしてみる{p}{end}
+EN: Admit defeat gracefully{n}Try making excuses{p}{end}
+
+## MGG06J g0 s0106
+JP: いえ、負けは負けです。{n}俺の力が未熟だっただけのことです。{p}
+EN: No, a loss is a loss. I just wasn't good enough.{p}
+
+## MGG06J g0 s0107
+JP: ふむ……潔く負けを認める{n}その姿勢は、よしとしよう。{n}だが、私の期待を裏切った罪は重い。{n}覚悟せよ。{p}{end}
+EN: Hmm... Your willingness to admit defeat is commendable. But betraying my expectations is a grave offense. Prepare yourself.{p}{end}
+
+## MGG06J g0 s0108
+JP: {face:15}・・・・・・・・・・{face:255}{n}命には別状ないが、{n}ヒドイ目にあった……。{p}{end}
+EN: {face:15}..........{face:255} I'll live, but that was brutal...{p}{end}
+
+## MGG06J g0 s0109
+JP: いや、違うんですよ、雹さん!{n}ほら、勝負は時の運というじゃないですか!{n}それに、今日俺、調子が良くなかったし、{n}ネ?{sp}ほら、わかるでしょう?{p}{end}
+EN: No, wait, Hyo-san! You know what they say, winning's down to luck! And I wasn't in good shape today, see? Come on, you get it, right?{p}{end}
+
+## MGG06J g0 s0110
+JP: ……見苦しいな。{n}問答無用だ!{n}覚悟せよ!{p}
+EN: ...Pathetic. Enough talk! Prepare yourself!{p}
+
+## MGG06J g0 s0111
+JP: ギャーーーーーッ!!{p}{end}
+EN: GYAAAAAH!!{p}{end}
+
+## MGG06J g0 s0112
+JP: {face:15}・・・・・・・・・・{face:255}{n}なんとか一命はとりとめた……。{p}{end}
+EN: {face:15}..........{face:255} Somehow I survived...{p}{end}
+
+## MGG06J g0 s0113
+JP: ……こうして太P戦は、パシフィック{n}ハイスクールの勝利に終わった……。{p}
+EN: ...And so the Taiyo-Pacific Match ended in a win for Pacific High...{p}
+
+## MGG06J g0 s0117
+JP: ……確かにな。{n}ヘルプのキミに責任はないさ。{n}あるとしたらむしろボクさ。{p}{end}
+EN: ...True. You were only helping, so it's not on you. If anyone's to blame, it's me.{p}{end}
+
+## MGG06J g0 s0118
+JP: そうです、{v4:8}。{n}そして何より、太陽学園の生徒の{n}健闘をこそたたえるべきでしょう。{p}
+EN: That is right, {v4:8}. And above all, we should praise the Taiyo High students for fighting so well.{p}
+
+## MGG06J g0 s0119
+JP: ……しかし、{v3:6}、{n}雹には報告しないと{n}いけないんじゃないのか?{p}{end}
+EN: ...But, {v3:6}, shouldn't you report to Hyo?{p}{end}
+
+## MGG06J g0 s0121
+JP: オオ、君に神の加護がありますように!!{n}くれぐれも、斬られないように……。{p}
+EN: Oh, may the Lord protect you!! Whatever you do, do not get cut down...{p}
+
+## MGG06J g0 s0127
+JP: 潔く負けをみとめる{n}いいわけをしてみる{p}
+EN: Admit defeat gracefully{n}Try making excuses{p}
+
+## MGG06J g0 s0129
+JP: ふむ、潔く負けを認める{n}その姿勢は、よしとしよう。{n}だが、私の期待を裏切った罪は重い。{n}覚悟せよ。{p}
+EN: Hmm... Your willingness to admit defeat is commendable. But betraying my expectations is a grave offense. Prepare yourself.{p}
+
+## MGG06J g0 s0135
+JP: ……こうして太P戦は、{n}太陽学園の勝利に終わった……。{p}
+EN: ...And so the Taiyo-Pacific Match ended in a win for Taiyo High...{p}
+
+## MGG06J g1 s0000
+JP: さてと……今日の授業も終わりかぁ……。{p}
+EN: Well... classes are over for today...{p}
+
+## MGG06J g1 s0002
+JP: （生徒会長の雹クンだわ。{n}{sp}私に何か用なのかな?）{p}
+EN: (It's Hyo-kun, the council president. Does he want something with me?){p}
+
+## MGG06J g1 s0004
+JP: なに?{sp}雹クン。{p}{end}
+EN: What is it, Hyo-kun?{p}{end}
+
+## MGG06J g1 s0010
+JP: ……ホントに?{n}雹クン。{p}{end}
+EN: ...Are you serious, Hyo-kun?{p}{end}
+
+## MGG06J g1 s0012
+JP: 行っちゃった……。{n}しかたないな、{n}さてどっちの助っ人にいこうかな……。{p}{end}
+EN: He's gone... Oh well. Now, which side should I help...{p}{end}
+
+## MGG06J g1 s0014
+JP: バツとは、あんまり戦いたくないなぁ。{n}やっぱり、ひなたや恭介もいるし、{n}太陽学園の方につこうっと。{p}
+EN: I don't really wanna fight Batsu. Hinata and Kyosuke are there, so I'll side with Taiyo High.{p}
+
+## MGG06J g1 s0015
+JP: ロイ達と組んだ方が楽しそうね。{n}うん、ティファニーやボーマンもいるし、{n}パシフィックの方に加勢にいこう!{p}{end}
+EN: Teaming up with Roy's crew sounds more fun. Yeah, Tiffany and Boman are there too, so I'll go help Pacific!{p}{end}
+
+## MGG06J g1 s0017
+JP: キミが来てくれるとは心強いな。{n}向こうからはロイが出てくるはずだ。{n}手強い相手だが、がんばれよ、{n}{v7:2}。{p}{end}
+EN: Having you here is reassuring. They'll probably send out Roy. He's tough, but give it your best, {v7:2}.{p}{end}
+
+## MGG06J g1 s0018
+JP: 大丈夫、{v8:1}なら、{n}きっと勝てるよ!{n}応援してるからね!!{p}
+EN: Don't worry, {v8:1}, I know you can win! I'll be cheering for you!!{p}
+
+## MGG06J g1 s0020
+JP: やっぱりロイが相手なの……。{n}これは本気でやらないと、{n}勝てそうにないわね。{p}{end}
+EN: So it's Roy after all... I'll have to go all out if I want to win.{p}{end}
+
+## MGG06J g1 s0021
+JP: {v7:2}、{n}出場種目が短距離走だってことは、{n}聞いているか?{p}{end}
+EN: {v7:2}, has anyone told you your event is the sprint?{p}{end}
+
+## MGG06J g1 s0022
+JP: ううん、今初めて聞いたわ。{p}
+EN: No, this is the first I've heard of it.{p}
+
+## MGG06J g1 s0025
+JP: そろそろ時間みたいよ。{n}がんばってね!{n}{v8:1}!!{p}{end}
+EN: Looks like it's almost time. Good luck, {v8:1}!!{p}{end}
+
+## MGG06J g1 s0030
+JP: やっぱりバツが相手なのね……。{n}これは本気でやらないと、{n}勝てそうにないわね。{p}
+EN: So it's Batsu after all... I'll have to go all out if I want to win.{p}
+
+## MGG06J g1 s0036
+JP: {v8:1}ーーーっ!{p}
+EN: {v8:1}!!!{p}
+
+## MGG06J g1 s0038
+JP: あ、ご、ごめん、{v8:1}!{n}突き飛ばしちゃった!!{p}
+EN: Ah, s-sorry, {v8:1}! I knocked you flying!!{p}
+
+## MGG06J g1 s0039
+JP: いった～い……もうひなたったら……。{n}うれしいのはわかるけど。{p}
+EN: Owww... Geez, Hinata... I know you're happy and all.{p}
+
+## MGG06J g1 s0042
+JP: ……そうだな。{n}これで、今大会は太陽学園の勝ちだ。{n}感謝するよ、{v7:2}。{p}
+EN: ...Indeed. Now Taiyo High wins the meet. Thank you, {v7:2}.{p}
+
+## MGG06J g1 s0045
+JP: あぁ、そうそう。{n}負けたら殺すとかいってたわ……。{n}とりあえず、勝った報告だけでも{n}しておかないと、マズイわね。{p}{end}
+EN: Oh, right. He said he'd kill me if I lost... I'd better at least go tell him I won.{p}{end}
+
+## MGG06J g1 s0047
+JP: ま、冗談だと思うけど。{n}それじゃみんな、またね。{p}{end}
+EN: Well, I'm sure he was joking. See you, everyone.{p}{end}
+
+## MGG06J g1 s0049
+JP: あぁ、雹クン。{n}来てたの?{p}
+EN: Oh, Hyo-kun. You were here?{p}
+
+## MGG06J g1 s0051
+JP: 当然よ、楽勝ね{n}苦戦したけど、なんとか勝てたわ{p}
+EN: Of course. It was a breeze{n}It was tough, but I won{p}
+
+## MGG06J g1 s0052
+JP: 当然よ、ジャスティス学園の{n}生徒としては当たり前のことよね。{n}ロイには悪いけど、楽勝だったわ。{p}
+EN: Of course. That's only natural for a Justice High student. Sorry, Roy, but it was a breeze.{p}
+
+## MGG06J g1 s0054
+JP: 雹クン……。{p}{end}
+EN: Hyo-kun...{p}{end}
+
+## MGG06J g1 s0057
+JP: 苦戦したけど、なんとか勝てたわ。{n}さすがはロイね、簡単には{n}勝たせてくれないわ。{p}{end}
+EN: It was tough, but I managed to win. That's Roy for you. He doesn't make it easy.{p}{end}
+
+## MGG06J g1 s0059
+JP: （エッ……対応をまちがえたかな?）{p}
+EN: (Eek... did I handle that wrong?){p}
+
+## MGG06J g1 s0065
+JP: それをいうなら「見込んだ」でしょ?{p}
+EN: You mean "expectations," right?{p}
+
+## MGG06J g1 s0071
+JP: ふふっ、照れるわね。{p}{end}
+EN: Heh heh, you're making me blush.{p}{end}
+
+## MGG06J g1 s0075
+JP: それは……「残酷」かな?{n}ま、冗談だと思うけど、とりあえずね。{n}それじゃみんな、またね。{p}{end}
+EN: You mean... "ruthless"? Well, I'm sure he was joking, but still. See you, everyone.{p}{end}
+
+## MGG06J g1 s0078
+JP: すべて見せてもらった。{n}やはり私が目をかけただけの{n}ことはあるな。{p}
+EN: I saw everything. You live up to the faith I put in you.{p}
+
+## MGG06J g1 s0080
+JP: 当然よ、ジャスティス学園の{n}生徒としては当たり前のことよね。{n}バツには悪いけど、楽勝だったわ。{p}
+EN: Of course. That's only natural for a Justice High student. Sorry, Batsu, but it was a breeze.{p}
+
+## MGG06J g1 s0085
+JP: 苦戦したけど、なんとか勝てたわ。{n}さすがはバツね、簡単には{n}勝たせてくれないわ。{p}{end}
+EN: It was tough, but I managed to win. That's Batsu for you. He doesn't make it easy.{p}{end}
+
+## MGG06J g1 s0091
+JP: あ……、{v8:1}……。{p}
+EN: Oh... {v8:1}...{p}
+
+## MGG06J g1 s0096
+JP: うん……、ね、{v8:1}も{n}気を落とさないでね……。{p}
+EN: Yeah... {v8:1}, don't feel too down either, okay...{p}
+
+## MGG06J g1 s0097
+JP: しかし……、{v7:2}、{n}兄さんに報告しないと{n}いけないんじゃないのか?{p}
+EN: But... {v7:2}, shouldn't you report to my brother?{p}
+
+## MGG06J g1 s0098
+JP: アッ……、忘れてたわ……。{n}負けたらタダじゃおかない、{n}みたいなコトいってたし。{p}{end}
+EN: Oh... I forgot... He did say something like I'd pay if I lost.{p}{end}
+
+## MGG06J g1 s0100
+JP: そうね……、ちょっと気が重いけど、{n}学校に戻るわ……。{n}じゃあね、みんな。{p}
+EN: Yeah... I'm dreading it, but I'll head back to school... Bye, everyone.{p}
+
+## MGG06J g1 s0102
+JP: エッ!!{sp}雹クン!?{n}来てたの?{p}{end}
+EN: Eek!! Hyo-kun!? You were here?{p}{end}
+
+## MGG06J g1 s0106
+JP: いえ、負けは負けよ。{n}私の力が未熟だっただけのことだわ。{p}{end}
+EN: No, a loss is a loss. I just wasn't good enough.{p}{end}
+
+## MGG06J g1 s0108
+JP: {face:15}・・・・・・・・・・{face:255}{n}命には別状ないけど、{n}ヒドイ目にあったわ……。{p}{end}
+EN: {face:15}..........{face:255} I'll live, but that was brutal...{p}{end}
+
+## MGG06J g1 s0109
+JP: いや、違うのよ、雹クン!{n}ほら、勝負は時の運というじゃない!{n}それに、今日私、調子が良くなかったし、{n}ネ?{sp}ほら、わかるでしょ?{p}{end}
+EN: No, wait, Hyo-kun! You know what they say, winning's down to luck! And I wasn't in good shape today, see? Come on, you get it, right?{p}{end}
+
+## MGG06J g1 s0111
+JP: キャーーーーーッ!!{p}{end}
+EN: KYAAAAAH!!{p}{end}
+
+## MGG06J g1 s0112
+JP: {face:15}・・・・・・・・・・{face:255}{n}なんとか一命はとりとめたみたい……。{p}
+EN: {face:15}..........{face:255} Looks like I survived, somehow...{p}
+
+## MGG06J g1 s0121
+JP: オオ、君に神の加護がありますように!!{n}くれぐれも、斬られないように。{p}
+EN: Oh, may the Lord protect you!! Whatever you do, do not get cut down.{p}
+

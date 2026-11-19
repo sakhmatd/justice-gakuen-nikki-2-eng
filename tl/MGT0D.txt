@@ -1,0 +1,336 @@
+## MGT0D g0 s0000
+JP: なんか体の調子が悪いなあ……。{n}保健室にでも行ってみよう。{p}
+EN: I'm not feeling so great... Maybe I'll go to the infirmary.{p}
+
+## MGT0D g0 s0001
+JP: あら{v1}{col:0}クン{col:-}、{n}ちょうど良かったわ。{p}
+EN: Oh, {v1}{col:0}-kun{col:-}. Perfect timing.{p}
+
+## MGT0D g0 s0002
+JP: ちょうど今、新しいテーピングの方法を{n}試していたところなの。{p}{end}
+EN: I was just trying out a new taping method.{p}{end}
+
+## MGT0D g0 s0003
+JP: よかったら練習させてくれないかしら?{p}{end}
+EN: Would you mind letting me practice on you?{p}{end}
+
+## MGT0D g0 s0004
+JP: いいですよ{n}遠慮します{p}
+EN: Sure{n}No thanks{p}
+
+## MGT0D g0 s0005
+JP: いいですよ。{p}{end}
+EN: Sure.{p}{end}
+
+## MGT0D g0 s0006
+JP: じゃあ、さっそく{n}服を脱いでみてちょうだい。{p}{end}
+EN: Then go ahead and take your clothes off.{p}{end}
+
+## MGT0D g0 s0007
+JP: ふ、服ですか?{p}
+EN: M-my clothes?{p}
+
+## MGT0D g0 s0008
+JP: そうよ、全部脱いでちょうだい。{p}
+EN: That's right. Take it all off, please.{p}
+
+## MGT0D g0 s0009
+JP: ゴソゴソゴソ……。{p}
+EN: Rustle rustle rustle...{p}
+
+## MGT0D g0 s0010
+JP: 全部脱いだわね。{n}じゃあ、テーピングしてみるわよ。{p}
+EN: All off? Then let's try the taping.{p}
+
+## MGT0D g0 s0011
+JP: どう、全身テーピングの具合は?{p}
+EN: Well? How does full-body taping feel?{p}
+
+## MGT0D g0 s0012
+JP: た、確かにこれなら{n}全身怪我しなさそうですけど……。{p}{end}
+EN: W-well, I sure won't get hurt anywhere like this, but...{p}{end}
+
+## MGT0D g0 s0013
+JP: そう、良かったわ。{n}あなたのおかげで良く分かったわ。{n}ありがと。チュッ{col:5}♥{col:-}{p}{end}
+EN: Good, I'm glad. You really helped me figure it out. Thanks. Smooch{col:5}♥{col:-}{p}{end}
+
+## MGT0D g0 s0014
+JP: ひゃあ、{n}響子先生からキスされちゃった……。{n}練習台になって良かった～。{p}{end}
+EN: Whoa, Kyoko-sensei kissed me... I'm so glad I volunteered~!{p}{end}
+
+## MGT0D g0 s0015
+JP: 悪いんですが、遠慮しておきます。{p}{end}
+EN: Sorry, but I think I'll pass.{p}{end}
+
+## MGT0D g0 s0016
+JP: しょうがないわね。{n}また今度の時は、お願いするわね。{p}{end}
+EN: Oh well. I'll ask you again next time, then.{p}{end}
+
+## MGT0D g0 s0017
+JP: はい。{n}それじゃあ失礼します。{p}
+EN: OK. Excuse me, then.{p}
+
+## MGT0D g0 s0018
+JP: ふ～っ。{n}あぶない、あぶない。{n}今度行く時は誰かと来ようっと。{p}
+EN: Phew. That was close. Next time I come, I'm bringing someone with me.{p}
+
+## MGT0D g0 s0019
+JP: 今日もすっかり遅くなっちゃったなあ。{p}{end}
+EN: I'm late getting home again today.{p}{end}
+
+## MGT0D g0 s0020
+JP: あらっ、{v1}{col:0}クン{col:-}。{n}今、帰りなの?{p}{end}
+EN: Oh, {v1}{col:0}-kun{col:-}. Heading home?{p}{end}
+
+## MGT0D g0 s0021
+JP: そうなんです。{n}今日は少し掃除で{n}遅くなっちゃいました。{p}{end}
+EN: Yes. Cleaning duty ran a little late today.{p}{end}
+
+## MGT0D g0 s0022
+JP: よかったら一緒に帰らない?{p}
+EN: Want to walk home together?{p}
+
+## MGT0D g0 s0023
+JP: オ、俺とですか!{n}ど、どうしよう?{p}
+EN: W-with me!? Wh-what do I do?{p}
+
+## MGT0D g0 s0024
+JP: 一緒に帰る{n}照れる{p}
+EN: Walk together{n}Get flustered{p}
+
+## MGT0D g0 s0025
+JP: い、一緒に帰らさせていただきます!{p}
+EN: I-I'd be honored to walk with you!{p}
+
+## MGT0D g0 s0026
+JP: 帰り道、{n}二人で色んな会話をしながら帰った……。{p}{end}
+EN: On the way home, we talked about all sorts of things...{p}{end}
+
+## MGT0D g0 s0027
+JP: 今日は{v1}{col:0}クン{col:-}と{n}一緒に帰れて楽しかったわ。{n}ありがと。{p}
+EN: That was fun, walking home with you today, {v1}{col:0}-kun{col:-}. Thanks.{p}
+
+## MGT0D g0 s0028
+JP: 響子先生とデートしているみたいで{n}楽しかった～。{p}{end}
+EN: It was like going on a date with Kyoko-sensei. So much fun~!{p}{end}
+
+## MGT0D g0 s0029
+JP: そ、そんな響子先生と{n}一緒に帰るだなんて……。{n}ど、どうしようかなあ……。{p}
+EN: W-walking home with Kyoko-sensei... Wh-what should I do...{p}
+
+## MGT0D g0 s0030
+JP: あやふやな態度をとるならもういいわ!{n}{v1}{col:0}クン{col:-}には{n}もっとハッキリした態度を{n}してほしかったわ……。{p}
+EN: If you're going to be wishy-washy, forget it! I wish you'd been a little more decisive, {v1}{col:0}-kun{col:-}...{p}
+
+## MGT0D g0 s0031
+JP: きょ、響子先生……。{n}ううっ、お、俺のバカ……。{p}{end}
+EN: Ky-Kyoko-sensei... Ugh, I'm such an idiot...{p}{end}
+
+## MGT0D g0 s0032
+JP: 今日は河原でも寄り道して帰ろうっと。{p}{end}
+EN: I think I'll take a detour by the riverbank on the way home.{p}{end}
+
+## MGT0D g0 s0033
+JP: あれっ、あそこにいるのは響子先生!{n}おーい!{sp}響子センセー!{p}{end}
+EN: Huh, that's Kyoko-sensei over there! Heeey! Kyoko-senseiii!{p}{end}
+
+## MGT0D g0 s0034
+JP: ……あら、{v1}{col:0}クン{col:-}。{p}
+EN: ...Oh, {v1}{col:0}-kun{col:-}.{p}
+
+## MGT0D g0 s0035
+JP: 響子先生どうしたんですか?{n}元気ないじゃないですか。{p}{end}
+EN: What's wrong, Kyoko-sensei? You look down.{p}{end}
+
+## MGT0D g0 s0036
+JP: ……ううん、そんなことないわよ。{p}{end}
+EN: ...No, I'm fine.{p}{end}
+
+## MGT0D g0 s0037
+JP: （なんか、目に涙なんか浮かべてるぞ……。{n}{sp}よーし、ここは男らしく……）{p}{end}
+EN: (Are those tears in her eyes...? All right, time to be a man about this...){p}{end}
+
+## MGT0D g0 s0038
+JP: きつく抱きしめる{n}涙の訳を聞く{p}
+EN: Hold her tight{n}Ask why she's crying{p}
+
+## MGT0D g0 s0039
+JP: 先生、もう大丈夫だよ……。{p}
+EN: It's OK now, Sensei...{p}
+
+## MGT0D g0 s0040
+JP: ……ありがとう、{v1}{col:0}クン{col:-}。{p}{end}
+EN: ...Thank you, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MGT0D g0 s0041
+JP: 私が高校生の時にね、{n}初恋の人に告白したんだけど{n}ふられちゃったの。{n}それがこの河原なの……。{p}
+EN: When I was in high school, I confessed to my first love, and he turned me down. Right here by this river...{p}
+
+## MGT0D g0 s0042
+JP: それをちょっと思い出してたら{n}なぜか涙が出てきたみたい……。{p}{end}
+EN: I was thinking back on it, and the tears just came, somehow...{p}{end}
+
+## MGT0D g0 s0043
+JP: でも、{v1}{col:0}クン{col:-}のおかげで{n}元気が出たわ、ありがと!{p}{end}
+EN: But thanks to you, {v1}{col:0}-kun{col:-}, I feel better. Thanks!{p}{end}
+
+## MGT0D g0 s0044
+JP: この初恋の思い出は{n}もう私には必要ないみたいだから、{n}あなたにあげるわ。{p}{end}
+EN: I don't think I need this memory of my first love anymore, so I'll give it to you.{p}{end}
+
+## MGT0D g0 s0045
+JP: {col:0}『響子の初恋の思い出』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Kyoko's First Love"{col:-}!{p}{end}
+
+## MGT0D g0 s0046
+JP: これからは新しい恋に進めそうよ、{n}ね、{v1}{col:0}クン{col:-}!{p}
+EN: Now I think I can move on to a new love. Right, {v1}{col:0}-kun{col:-}?{p}
+
+## MGT0D g0 s0048
+JP: どうして泣いてるんですか?{n}ねえ?{sp}どうして?{p}
+EN: Why are you crying? Hey? Why?{p}
+
+## MGT0D g0 s0049
+JP: {v1}{col:0}クン{col:-}は、{n}もう少し私の事考えてくれていると{n}思っていたのに……。{p}
+EN: I thought you cared about me a little more than that, {v1}{col:0}-kun{col:-}...{p}
+
+## MGT0D g0 s0050
+JP: 女心は難しいなあ……。{p}
+EN: Women are hard to figure out...{p}
+
+## MGT0D g0 s0052
+JP: ん!?{n}誰か来たのかな?{p}{end}
+EN: Hm!? Is someone here?{p}{end}
+
+## MGT0D g0 s0053
+JP: こんにちわ、{v1}{col:0}クン{col:-}。{p}{end}
+EN: Hello, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MGT0D g0 s0054
+JP: 響子先生じゃないですか!{n}どうしたんですか?{p}{end}
+EN: Kyoko-sensei! What brings you here?{p}{end}
+
+## MGT0D g0 s0055
+JP: あなたが今日誕生日だから{n}そのお祝いを持ってきたの。{p}{end}
+EN: It's your birthday today, so I brought you a present.{p}{end}
+
+## MGT0D g0 s0056
+JP: 僕の誕生日を覚えててくれたんですか?{n}うれしいなあ!{p}{end}
+EN: You remembered my birthday? That makes me so happy!{p}{end}
+
+## MGT0D g0 s0057
+JP: 私からの気持ちよ、受け取って。{p}
+EN: It's from the heart. Take it.{p}
+
+## MGT0D g0 s0058
+JP: ありがとうございます。{n}うわ～、うれしいなあ。{n}開けてみていいですか?{p}
+EN: Thank you very much. Wow, I'm so happy. Can I open it?{p}
+
+## MGT0D g0 s0059
+JP: いいわよ、うふふ。{p}
+EN: Go ahead. Hee hee.{p}
+
+## MGT0D g0 s0060
+JP: {col:0}『携帯ツボ押し機』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Pocket Acupressure Tool"{col:-}!{p}{end}
+
+## MGT0D g0 s0061
+JP: 学校ではいつも眠そうな目をしているから、{n}その機械で眠気をとるツボを押して{n}勉強も運動も頑張ってね。{p}{end}
+EN: You always look sleepy at school. Use it on the pressure points that chase sleep away, and give your studies and sports your all.{p}{end}
+
+## MGT0D g0 s0062
+JP: はい、ありがとうございます。{p}{end}
+EN: OK, thank you very much.{p}{end}
+
+## MGT0D g0 s0063
+JP: くれぐれもその機械で、{n}へんな使い方だけはしないようにね。{n}それじゃあ。{p}{end}
+EN: Just make sure you don't use it for anything weird. Bye now.{p}{end}
+
+## MGT0D g0 s0064
+JP: へんな使い方って……{n}そう言われると{n}よけい使ってみたくなるなあ。{p}
+EN: Anything weird... Now that she's said that, I kinda wanna try it even more.{p}
+
+## MGT0D g0 s0067
+JP: あなたがこの前誕生日だった{n}って思い出したから、{n}そのお祝いをしようと思ってきたの。{p}{end}
+EN: I remembered you had a birthday recently, so I came by to celebrate.{p}{end}
+
+## MGT0D g1 s0001
+JP: あら{v1}{col:0}さん{col:-}、{n}ちょうど良かったわ。{p}
+EN: Oh, {v1}{col:0}-san{col:-}. Perfect timing.{p}
+
+## MGT0D g1 s0014
+JP: ひゃあ、{n}響子先生からキスされちゃった……。{n}女の私でもうれし～。{p}
+EN: Whoa, Kyoko-sensei kissed me... Even as a girl, that makes me happy~!{p}
+
+## MGT0D g1 s0020
+JP: あらっ、{v1}{col:0}さん{col:-}。{n}今、帰りなの?{p}{end}
+EN: Oh, {v1}{col:0}-san{col:-}. Heading home?{p}{end}
+
+## MGT0D g1 s0023
+JP: わ、私とですか!{n}ど、どうしよう?{p}
+EN: W-with me!? Wh-what do I do?{p}
+
+## MGT0D g1 s0027
+JP: 今日は{v1}{col:0}さん{col:-}と{n}一緒に帰れて楽しかったわ。{n}ありがと。{p}
+EN: That was fun, walking home with you today, {v1}{col:0}-san{col:-}. Thanks.{p}
+
+## MGT0D g1 s0030
+JP: あやふやな態度をとるならもういいわ!{n}{v1}{col:0}さん{col:-}には{n}もっとハッキリした態度を{n}してほしかったわ……。{p}
+EN: If you're going to be wishy-washy, forget it! I wish you'd been a little more decisive, {v1}{col:0}-san{col:-}...{p}
+
+## MGT0D g1 s0031
+JP: きょ、響子先生……。{n}ううっ、わ、私のバカ……。{p}{end}
+EN: Ky-Kyoko-sensei... Ugh, I'm such an idiot...{p}{end}
+
+## MGT0D g1 s0033
+JP: あれっ、あそこにいるのは響子先生!{n}響子センセー!{p}
+EN: Huh, that's Kyoko-sensei over there! Kyoko-senseiii!{p}
+
+## MGT0D g1 s0034
+JP: ……あら、{v1}{col:0}さん{col:-}。{p}
+EN: ...Oh, {v1}{col:0}-san{col:-}.{p}
+
+## MGT0D g1 s0037
+JP: （なんか、目に涙なんか浮かべてるわ……。{n}{sp}よーし、ここはひとつ……）{p}
+EN: (Are those tears in her eyes...? All right, here goes...){p}
+
+## MGT0D g1 s0039
+JP: 先生、もう大丈夫ですよ……。{p}{end}
+EN: It's OK now, Sensei...{p}{end}
+
+## MGT0D g1 s0040
+JP: ……ありがとう、{v1}{col:0}さん{col:-}。{p}{end}
+EN: ...Thank you, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MGT0D g1 s0043
+JP: でも、{v1}{col:0}さん{col:-}のおかげで{n}元気が出たわ、ありがと!{p}{end}
+EN: But thanks to you, {v1}{col:0}-san{col:-}, I feel better. Thanks!{p}{end}
+
+## MGT0D g1 s0046
+JP: これからは新しい恋に進めそうよ、{n}ね、{v1}{col:0}さん{col:-}!{p}
+EN: Now I think I can move on to a new love. Right, {v1}{col:0}-san{col:-}?{p}
+
+## MGT0D g1 s0049
+JP: {v1}{col:0}さん{col:-}は、{n}もう少し私の事考えてくれていると{n}思っていたのに……。{p}
+EN: I thought you cared about me a little more than that, {v1}{col:0}-san{col:-}...{p}
+
+## MGT0D g1 s0050
+JP: 女心は難しいなあ……。{n}私も女なのに……。{p}
+EN: Women are hard to figure out... And I'm one myself...{p}
+
+## MGT0D g1 s0052
+JP: ん!?{n}誰か来たのかしら?{p}
+EN: Hm!? Is someone here?{p}
+
+## MGT0D g1 s0053
+JP: こんにちわ、{v1}{col:0}さん{col:-}。{p}{end}
+EN: Hello, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MGT0D g1 s0056
+JP: 私の誕生日を覚えててくれたんですか?{n}うれしいなあ!{p}{end}
+EN: You remembered my birthday? That makes me so happy!{p}{end}
+
+## MGT0D g1 s0064
+JP: へんな使い方って……{n}そう言われると{n}よけい使ってみたくなっちゃうなあ。{p}{end}
+EN: Anything weird... Now that she's said that, I kinda wanna try it even more.{p}{end}
+

@@ -1,0 +1,464 @@
+## MGT0B g0 s0000
+JP: 授業も終わったし、{n}そろそろ帰ろうっと。{p}{end}
+EN: Classes are over. Time to head home.{p}{end}
+
+## MGT0B g0 s0001
+JP: おっ!{n}そこにおるのは{v3:11}!{n}ちょうどいいところにおったわい。{p}
+EN: Oh! If it ain't {v3:11}! Ya showed up at just the right time.{p}
+
+## MGT0B g0 s0002
+JP: 岩!{n}一体どうしたんだよ?{p}
+EN: Gan! What's going on?{p}
+
+## MGT0B g0 s0003
+JP: これからおにぎりを{n}食べようと思うんじゃが{n}どのおにぎりから食おうか{n}迷っとるんじゃ。{p}
+EN: I'm fixin' to eat some rice balls, but I can't make up my mind which one to start with.{p}
+
+## MGT0B g0 s0004
+JP: どのおにぎりから食べたらいいかのう?{p}{end}
+EN: Which one oughta I eat first, ya reckon?{p}{end}
+
+## MGT0B g0 s0005
+JP: うめおにぎり{n}たらこおにぎり{n}かつおおにぎり{p}{end}
+EN: Pickled plum{n}Cod roe{n}Bonito{p}{end}
+
+## MGT0B g0 s0006
+JP: う～ん、{n}やっぱり最初は定番の{n}うめおにぎりからかなあ。{p}{end}
+EN: Hmm, I'd start with the classic. Pickled plum.{p}{end}
+
+## MGT0B g0 s0007
+JP: そうかのう。{n}ちょっと酸味がきついものは{n}後に回した方がいいんじゃないかのう。{p}
+EN: Ya think? Seems to me the real sour ones oughta wait till later.{p}
+
+## MGT0B g0 s0008
+JP: どうも{v3:11}とは{n}意見が違うようじゃ。{n}やっぱり好きなものから食うわい。{n}じゃあの。{p}
+EN: Looks like you and me don't see eye to eye, {v3:11}. Reckon I'll just eat my favorite first. See ya.{p}
+
+## MGT0B g0 s0009
+JP: じゃあ最初から聞くなよなあ。{p}{end}
+EN: Then why'd you even ask?{p}{end}
+
+## MGT0B g0 s0010
+JP: まずはたらこおにぎりの{n}あのぷりぷりした食感なんかを楽しむのが{n}いいんじゃないかなあ。{p}
+EN: I'd start with cod roe. You can enjoy that nice poppy texture.{p}
+
+## MGT0B g0 s0011
+JP: なるほどのう。{n}たらこのあのぷりぷり感は{n}確かに魅力あるのう。{p}
+EN: I see. That poppin' texture sure is somethin' special.{p}
+
+## MGT0B g0 s0012
+JP: よっしゃ!{n}たらこおにぎりから食べるぞい!{n}{v3:11}も{n}なかなかのおにぎり博士じゃのう。{p}{end}
+EN: All right! Cod roe first! {v3:11}, you're a regular rice ball professor!{p}{end}
+
+## MGT0B g0 s0013
+JP: お、おにぎり博士って。{n}はずかしい言い方はやめてくれ～。{p}{end}
+EN: R-rice ball professor? Don't call me something so embarrassing~!{p}{end}
+
+## MGT0B g0 s0014
+JP: まずはかつおのおにぎりで{n}磯の風味を楽しむのが{n}いいんじゃないかなあ。{p}
+EN: I'd start with bonito. You get that taste of the sea.{p}
+
+## MGT0B g0 s0015
+JP: う～ん、{n}磯の風味はのりで十分だし、{n}それだけでは{n}ちょっとものたりんのう。{p}{end}
+EN: Hmm, the seaweed gives ya plenty of sea taste already. Bonito on its own's a mite lackin'.{p}{end}
+
+## MGT0B g0 s0016
+JP: ふう、やっと昼休みだーっ!{n}今日は何食べようかなあ。{p}{end}
+EN: Phew, lunch break at last! What should I eat today?{p}{end}
+
+## MGT0B g0 s0017
+JP: {v3:11}!{n}ちょうど良いところにいたぞい!{p}
+EN: {v3:11}! Just the one I was lookin' for!{p}
+
+## MGT0B g0 s0018
+JP: 岩、どうしたんだい?{p}{end}
+EN: Gan, what's up?{p}{end}
+
+## MGT0B g0 s0019
+JP: 一緒に昼飯でも{n}食いに行こうと思っての。{n}{v3:11}を待っておったんじゃい!{p}
+EN: Figured we'd go grab some lunch together. I was waitin' on ya, {v3:11}!{p}
+
+## MGT0B g0 s0020
+JP: どこに行くの?{p}
+EN: Where to?{p}
+
+## MGT0B g0 s0021
+JP: 今、商店街にあるラーメン屋で{n}大盛りラーメン10杯を{n}30分以内に食べると{n}無料になるんじゃ!{p}
+EN: The ramen shop in the shopping district's got a deal. Eat ten large bowls in thirty minutes and it's free!{p}
+
+## MGT0B g0 s0022
+JP: 食べられなかったら?{p}{end}
+EN: And if you can't?{p}{end}
+
+## MGT0B g0 s0023
+JP: 当然、その分の代金を払うんじゃ!{p}{end}
+EN: Then ya pay for 'em, naturally!{p}{end}
+
+## MGT0B g0 s0024
+JP: ええーっ!{n}どうしよう?{p}{end}
+EN: Whaaat! What should I do?{p}{end}
+
+## MGT0B g0 s0025
+JP: 挑戦する{n}断る{p}
+EN: Take the challenge{n}Pass{p}
+
+## MGT0B g0 s0026
+JP: やっぱり、{n}大盛りラーメン10杯、{n}しかも30分以内なんて食べられないよ。{n}今回はパスするよ。{p}
+EN: Nah. Ten large bowls of ramen, in thirty minutes? No way. I'll pass this time.{p}
+
+## MGT0B g0 s0027
+JP: なんじゃい!{n}案外{v3:11}も根性無しじゃのう。{n}がっかりじゃわい。{p}
+EN: What!? Turns out ya ain't got much guts, {v3:11}. I'm plumb disappointed.{p}
+
+## MGT0B g0 s0028
+JP: じゃあ、ワシ一人で{n}寂しく挑戦してくるかのう。{n}じゃあの!{p}
+EN: Reckon I'll go take the challenge all by my lonesome. See ya!{p}
+
+## MGT0B g0 s0029
+JP: なんだ、{n}一人でもやっぱり食べに行くんだ……。{p}
+EN: Huh, so he's going even by himself...{p}
+
+## MGT0B g0 s0030
+JP: 面白そうだな!{n}じゃあ、行ってみようよ!{p}{end}
+EN: Sounds fun! Let's give it a shot!{p}{end}
+
+## MGT0B g0 s0031
+JP: よし!{n}そうでなければのう!{n}さあ、ラーメンを食いに行くぞい!{p}
+EN: All right! That's more like it! Let's go eat us some ramen!{p}
+
+## MGT0B g0 s0032
+JP: ふうう、食った食った。{n}もう明日の分まで食べた感じがする。{p}
+EN: Phew, I'm stuffed. Feels like I ate tomorrow's meals too.{p}
+
+## MGT0B g0 s0033
+JP: まだ、もの足りんのう。{p}
+EN: Still ain't quite full.{p}
+
+## MGT0B g0 s0034
+JP: えーっ?{n}岩、まだ食べられるの?{p}{end}
+EN: Whaaat? Gan, you can still eat?{p}{end}
+
+## MGT0B g0 s0035
+JP: これぐらい朝飯前じゃい!{p}{end}
+EN: This much is a piece of cake!{p}{end}
+
+## MGT0B g0 s0036
+JP: そ、そう。{n}すごいね。{n}また誘ってよ!{p}
+EN: O-oh. That's amazing. Invite me again sometime!{p}
+
+## MGT0B g0 s0037
+JP: また誘うぞい!{n}じゃあのう!{p}{end}
+EN: Sure will! See ya!{p}{end}
+
+## MGT0B g0 s0038
+JP: じゃあな!{n}岩に付き合ってたら太りそう～。{p}
+EN: See ya! Hanging out with Gan is gonna make me fat~.{p}
+
+## MGT0B g0 s0039
+JP: やっと昼休みだよ。{n}さあてと、{n}今日は何食べようかなあ。{p}{end}
+EN: Lunch break at last. Now then, what should I eat today?{p}{end}
+
+## MGT0B g0 s0040
+JP: {v3:11}!{n}ちょっと、いいかのう?{p}
+EN: {v3:11}! Got a minute?{p}
+
+## MGT0B g0 s0041
+JP: 岩、どうしたんだ?{p}
+EN: Gan, what's up?{p}
+
+## MGT0B g0 s0042
+JP: ちょっとこれから河原でも行かんか?{p}
+EN: How 'bout we head down to the riverbank?{p}
+
+## MGT0B g0 s0044
+JP: 悪いな、{n}今日はみんなとご飯食べる{n}約束してるんだ。{p}{end}
+EN: Sorry, I promised to eat with everyone today.{p}{end}
+
+## MGT0B g0 s0045
+JP: 冷たいのう。{n}もういいぞい!{p}{end}
+EN: Cold, ain't ya. Fine, forget it!{p}{end}
+
+## MGT0B g0 s0046
+JP: あーあ、行っちゃった。{n}一体、河原へ行って{n}何するつもりだったんだろう。{p}{end}
+EN: Aw, he left. What was he gonna do at the riverbank, anyway?{p}{end}
+
+## MGT0B g0 s0047
+JP: いいよ。{n}じゃあ、河原に行こうか。{p}
+EN: Sure. Let's go to the riverbank.{p}
+
+## MGT0B g0 s0048
+JP: ほれ、{n}今日は、やまぶき商店の{n}おにぎりとパンを{n}いっぱい買うてきたんじゃ!{p}{end}
+EN: Here! Today I bought a whole heap of rice balls and bread from the Yamabuki Store!{p}{end}
+
+## MGT0B g0 s0049
+JP: すごい!{p}{end}
+EN: Wow!{p}{end}
+
+## MGT0B g0 s0050
+JP: 遠慮せんといっぱい食うてくれよ!{n}どうじゃ?{n}うまいか?{p}{end}
+EN: Don't be shy, eat all ya want! Well? Good?{p}{end}
+
+## MGT0B g0 s0051
+JP: うん!{n}すごくうまいよ!{p}{end}
+EN: Yeah! It's really good!{p}{end}
+
+## MGT0B g0 s0052
+JP: ほ、ほうか!{n}ワシは、{v3:11}の喜んでる顔を見ると{n}すごくうれしいそい。{p}{end}
+EN: R-really!? Seein' ya happy like that makes me real glad, {v3:11}.{p}{end}
+
+## MGT0B g0 s0053
+JP: えっ?{n}（それってひょっとして……）{p}{end}
+EN: Huh? (Wait, does that mean...){p}{end}
+
+## MGT0B g0 s0054
+JP: ご、ごちそうさま。{n}もうお腹いっぱいだよ。{p}
+EN: Th-thanks for the food. I'm full.{p}
+
+## MGT0B g0 s0055
+JP: ほうか、{n}まだいっぱい残っとるのに……。{n}じゃ、じゃあ、また今度も{n}一緒に昼飯を食ってくれるかの?{p}
+EN: That so... and there's still plenty left... W-well, will ya have lunch with me again sometime?{p}
+
+## MGT0B g0 s0056
+JP: いいぜ{n}断る{p}{end}
+EN: Sure{n}No thanks{p}{end}
+
+## MGT0B g0 s0057
+JP: うん、喜んで!{p}
+EN: Yeah, I'd love to!{p}
+
+## MGT0B g0 s0058
+JP: ほうか!{sp}ほうか!{n}じゃったら今度は{n}ワシの手作りおにぎりを持ってくるぞい。{n}楽しみにしとれ!{p}
+EN: That so! That so! Then next time I'll bring my own homemade rice balls. Ya can look forward to it!{p}
+
+## MGT0B g0 s0059
+JP: うん、楽しみにしてるよ。{p}{end}
+EN: Yeah, I'm looking forward to it.{p}{end}
+
+## MGT0B g0 s0060
+JP: それとこれを{v3:11}にやるぞい。{p}{end}
+EN: And here, this is for ya, {v3:11}.{p}{end}
+
+## MGT0B g0 s0061
+JP: {col:0}『岩の腹巻き』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Gan's Belly Warmer"{col:-}!{p}{end}
+
+## MGT0B g0 s0062
+JP: それで、お腹を壊さんようにの!{n}じゃあの!{p}
+EN: That'll keep your stomach from gettin' upset! See ya!{p}
+
+## MGT0B g0 s0063
+JP: ありがとう。{n}じゃあね!{p}{end}
+EN: Thanks. See ya!{p}{end}
+
+## MGT0B g0 s0064
+JP: 今度は{n}違う人でも誘ってみたらどうかなあ。{p}
+EN: Next time, why not ask someone else?{p}
+
+## MGT0B g0 s0065
+JP: なんじゃ!{n}なんかワシの事避けとるようじゃのう、{n}さびしいのう。{p}{end}
+EN: What!? Seems like you're avoidin' me. That's mighty lonesome.{p}{end}
+
+## MGT0B g0 s0066
+JP: わかったわい。{n}もう誘わんわい!{n}じゃあの!{p}{end}
+EN: Fine. I won't ask ya no more! See ya!{p}{end}
+
+## MGT0B g0 s0067
+JP: ちょっときつい言い方だったかなあ。{n}でも、あれぐらいの方が{n}ちょうどいいだろう。{p}{end}
+EN: Maybe that was a little harsh. But that's probably about right.{p}{end}
+
+## MGT0B g0 s0068
+JP: ドン!{n}ドン!{n}ドン!{p}
+EN: BANG! BANG! BANG!{p}
+
+## MGT0B g0 s0069
+JP: 何か玄関からスゴイ大きな音がするぞ!?{n}一体誰なんだ?{p}
+EN: Something's making a huge racket at the front door!? Who could that be?{p}
+
+## MGT0B g0 s0070
+JP: {v3:11}、{n}誕生日おめでとうさん!{p}
+EN: {v3:11}, happy birthday to ya!{p}
+
+## MGT0B g0 s0071
+JP: が、岩!{n}誕生日覚えててくれたんだ。{n}ありがとう。{p}
+EN: G-Gan! You remembered my birthday. Thanks.{p}
+
+## MGT0B g0 s0072
+JP: ワシと{v3:11}の仲じゃ、{n}忘れるわけがないじゃろ!{p}
+EN: Close as you and me are, {v3:11}? Ain't no way I'd forget!{p}
+
+## MGT0B g0 s0073
+JP: ほれ、プレゼントじゃ!{p}
+EN: Here, your present!{p}
+
+## MGT0B g0 s0074
+JP: ありがとう!{n}開けてみてもいい?{p}{end}
+EN: Thanks! Can I open it?{p}{end}
+
+## MGT0B g0 s0075
+JP: いいぞい!{p}
+EN: Go right ahead!{p}
+
+## MGT0B g0 s0076
+JP: ん!?{n}なんだこれ?{p}{end}
+EN: Hm!? What's this?{p}{end}
+
+## MGT0B g0 s0077
+JP: ワシが特製ブレンドした{n}手作りのふりかけじゃ!{p}
+EN: Homemade furikake. My own special blend!{p}
+
+## MGT0B g0 s0078
+JP: {col:0}『岩特製ふりかけ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Gan's Special Furikake"{col:-}!{p}{end}
+
+## MGT0B g0 s0079
+JP: これをにぎりめしにかけると{n}もう何杯でも飯が食えるぞい。{p}{end}
+EN: Sprinkle this on your rice and ya can put away bowl after bowl.{p}{end}
+
+## MGT0B g0 s0081
+JP: またなくなったら{n}いつでも作ってきてやるぞい。{n}じゃあの!{p}
+EN: When it runs out, I'll make ya more anytime. See ya!{p}
+
+## MGT0B g0 s0082
+JP: なんかスゴイ匂いがするけど{n}大丈夫かなあ。{p}
+EN: It smells pretty intense... Is it safe?{p}
+
+## MGT0B g0 s0083
+JP: {v3:11}、少し遅れたが{n}誕生日おめでとうさん!{p}
+EN: {v3:11}, it's a mite late, but happy birthday to ya!{p}
+
+## MGT0B g1 s0000
+JP: 授業も終わったし、{n}そろそろ帰ろうかな。{p}{end}
+EN: Classes are over. Guess I'll head home.{p}{end}
+
+## MGT0B g1 s0001
+JP: おっ!{n}そこにおるのは{v3:11}{col:0}さん{col:-}!{n}ちょうどいいところにおったわい。{p}
+EN: Oh! If it ain't {v3:11}{col:0}-san{col:-}! Ya showed up at just the right time.{p}
+
+## MGT0B g1 s0002
+JP: 岩!{n}一体どうしたの?{p}
+EN: Gan! What's going on?{p}
+
+## MGT0B g1 s0008
+JP: どうも{v3:11}{col:0}さん{col:-}とは{n}意見が違うようじゃ。{n}やっぱり好きなものから食うわい。{n}じゃあの。{p}
+EN: Looks like you and me don't see eye to eye, {v3:11}{col:0}-san{col:-}. Reckon I'll just eat my favorite first. See ya.{p}
+
+## MGT0B g1 s0009
+JP: じゃあ最初から聞かないでよねぇ。{p}{end}
+EN: Then don't ask in the first place!{p}{end}
+
+## MGT0B g1 s0010
+JP: まずはたらこおにぎりの{n}あのぷりぷりした食感なんかを楽しむのが{n}いいんじゃないかしら。{p}
+EN: I'd start with cod roe. You can enjoy that nice poppy texture.{p}
+
+## MGT0B g1 s0012
+JP: よっしゃ!{n}たらこおにぎりから食べるぞい!{n}{v3:11}{col:0}さん{col:-}も{n}なかなかのおにぎり博士じゃのう。{p}{end}
+EN: All right! Cod roe first! {v3:11}{col:0}-san{col:-}, you're a regular rice ball professor!{p}{end}
+
+## MGT0B g1 s0013
+JP: お、おにぎり博士って。{n}はずかしい言い方はやめて～。{p}{end}
+EN: R-rice ball professor? Don't call me something so embarrassing~!{p}{end}
+
+## MGT0B g1 s0014
+JP: まずはかつおのおにぎりで{n}磯の風味を楽しむのが{n}いいんじゃないかしら。{p}
+EN: I'd start with bonito. You get that taste of the sea.{p}
+
+## MGT0B g1 s0017
+JP: {v3:11}{col:0}さん{col:-}!{n}ちょうど良いところにいたぞい!{p}
+EN: {v3:11}{col:0}-san{col:-}! Just the one I was lookin' for!{p}
+
+## MGT0B g1 s0018
+JP: 岩、どうしたの?{p}{end}
+EN: Gan, what's up?{p}{end}
+
+## MGT0B g1 s0019
+JP: 一緒に昼飯でも{n}食いに行こうと思っての。{n}{v3:11}{col:0}さん{col:-}を待っておったんじゃい!{p}
+EN: Figured we'd go grab some lunch together. I was waitin' on ya, {v3:11}{col:0}-san{col:-}!{p}
+
+## MGT0B g1 s0026
+JP: やっぱり、{n}大盛りラーメン10杯、{n}しかも30分以内なんて食べられないよ。{n}今回はパスするわ。{p}
+EN: Nah. Ten large bowls of ramen, in thirty minutes? No way. I'll pass this time.{p}
+
+## MGT0B g1 s0027
+JP: なんじゃい!{n}案外{v3:11}{col:0}さん{col:-}も根性無しじゃのう。{n}がっかりじゃわい。{p}
+EN: What!? Turns out ya ain't got much guts, {v3:11}{col:0}-san{col:-}. I'm plumb disappointed.{p}
+
+## MGT0B g1 s0030
+JP: 面白そうだわ!{n}じゃあ、行ってみましょう!{p}
+EN: Sounds fun! Let's give it a shot!{p}
+
+## MGT0B g1 s0032
+JP: ふうう、食べた食べた。{n}もう明日の分まで食べた感じがするわ。{p}{end}
+EN: Phew, I'm stuffed. Feels like I ate tomorrow's meals too.{p}{end}
+
+## MGT0B g1 s0036
+JP: そ、そう。{n}すごいわね。{n}また誘ってね!{p}{end}
+EN: O-oh. That's amazing. Invite me again sometime!{p}{end}
+
+## MGT0B g1 s0038
+JP: じゃあね!{n}岩に付き合ってたら太りそう～。{p}
+EN: See ya! Hanging out with Gan is gonna make me fat~.{p}
+
+## MGT0B g1 s0040
+JP: {v3:11}{col:0}さん{col:-}!{n}ちょっと、いいかのう?{p}
+EN: {v3:11}{col:0}-san{col:-}! Got a minute?{p}
+
+## MGT0B g1 s0044
+JP: 悪いわね、{n}今日はみんなとご飯食べに行く{n}約束してるんだ。{p}
+EN: Sorry, I promised to go eat with everyone today.{p}
+
+## MGT0B g1 s0046
+JP: あーあ、行っちゃった。{n}一体、河原へ行って{n}何するつもりだったのかしら。{p}{end}
+EN: Aw, he left. What was he gonna do at the riverbank, anyway?{p}{end}
+
+## MGT0B g1 s0047
+JP: いいよ。{n}じゃあ、河原に行きましょ。{p}{end}
+EN: Sure. Let's go to the riverbank.{p}{end}
+
+## MGT0B g1 s0051
+JP: うん!{n}すごくおいしいわ!{p}
+EN: Yeah! It's really good!{p}
+
+## MGT0B g1 s0052
+JP: ほ、ほうか!{n}ワシは、{v3:11}{col:0}さん{col:-}の喜んでる顔を見ると{n}すごくうれしいそい。{p}{end}
+EN: R-really!? Seein' ya happy like that makes me real glad, {v3:11}{col:0}-san{col:-}.{p}{end}
+
+## MGT0B g1 s0054
+JP: ご、ごちそうさま。{n}もうお腹いっぱいです。{p}
+EN: Th-thanks for the food. I'm full.{p}
+
+## MGT0B g1 s0056
+JP: いいわよ{n}断る{p}
+EN: Sure{n}No thanks{p}
+
+## MGT0B g1 s0057
+JP: ええ、喜んで!{p}
+EN: Yes, I'd love to!{p}
+
+## MGT0B g1 s0059
+JP: うん、楽しみにしてるわ。{p}{end}
+EN: Yeah, I'm looking forward to it.{p}{end}
+
+## MGT0B g1 s0060
+JP: それとこれを{v3:11}{col:0}さん{col:-}にやるぞい。{p}{end}
+EN: And here, this is for ya, {v3:11}{col:0}-san{col:-}.{p}{end}
+
+## MGT0B g1 s0064
+JP: でも、今度は{n}違う人でも誘ってみたらどうかしら。{p}{end}
+EN: But next time, why not ask someone else?{p}{end}
+
+## MGT0B g1 s0067
+JP: ちょっときつい言い方だったかなあ。{n}でも、あれぐらいの方が{n}ちょうどいいでしょう。{p}
+EN: Maybe that was a little harsh. But that's probably about right.{p}
+
+## MGT0B g1 s0069
+JP: 何か玄関からスゴイ大きな音がするわ!?{n}一体誰かしら?{p}
+EN: Something's making a huge racket at the front door!? Who could that be?{p}
+
+## MGT0B g1 s0072
+JP: ワシと{v3:11}{col:0}さん{col:-}の仲じゃ、{n}忘れるわけがないじゃろ!{p}
+EN: Close as you and me are, {v3:11}{col:0}-san{col:-}? Ain't no way I'd forget!{p}
+
+## MGT0B g1 s0076
+JP: ん!?{n}なにこれ?{p}
+EN: Hm!? What's this?{p}
+

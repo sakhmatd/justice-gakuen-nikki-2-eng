@@ -1,0 +1,591 @@
+## s000
+JP: ???????
+EN: ???????
+
+## s001
+JP: J学サントラCD
+EN: Rival Schools OST CD
+
+## s002
+JP: スタッフロール
+EN: Staff Credits
+
+## s003
+JP: バツ　ED1
+EN: Batsu Ending 1
+
+## s004
+JP: バツ　ED2
+EN: Batsu Ending 2
+
+## s005
+JP: バツ　日記
+EN: Batsu Diary
+
+## s006
+JP: ひなた　ED1
+EN: Hinata Ending 1
+
+## s007
+JP: ひなた　ED2
+EN: Hinata Ending 2
+
+## s008
+JP: ひなた　日記
+EN: Hinata Diary
+
+## s009
+JP: 恭介　ED1
+EN: Kyosuke Ending 1
+
+## s010
+JP: 恭介　ED2
+EN: Kyosuke Ending 2
+
+## s011
+JP: 恭介　日記
+EN: Kyosuke Diary
+
+## s012
+JP: 将馬　ED1
+EN: Shoma Ending 1
+
+## s013
+JP: 将馬　ED2
+EN: Shoma Ending 2
+
+## s014
+JP: 将馬　日記
+EN: Shoma Diary
+
+## s015
+JP: 夏　ED1
+EN: Natsu Ending 1
+
+## s016
+JP: 夏　ED2
+EN: Natsu Ending 2
+
+## s017
+JP: 夏　日記
+EN: Natsu Diary
+
+## s018
+JP: ロベルト　ED1
+EN: Roberto Ending 1
+
+## s019
+JP: ロベルト　ED2
+EN: Roberto Ending 2
+
+## s020
+JP: ロベルト　日記
+EN: Roberto Diary
+
+## s021
+JP: ロイ　ED1
+EN: Roy Ending 1
+
+## s022
+JP: ロイ　ED2
+EN: Roy Ending 2
+
+## s023
+JP: ロイ　日記
+EN: Roy Diary
+
+## s024
+JP: ティファニーED1
+EN: Tiffany Ending 1
+
+## s025
+JP: ティファニーED2
+EN: Tiffany Ending 2
+
+## s026
+JP: ティファニー日記
+EN: Tiffany Diary
+
+## s027
+JP: ボーマン　ED1
+EN: Boman Ending 1
+
+## s028
+JP: ボーマン　ED2
+EN: Boman Ending 2
+
+## s029
+JP: ボーマン　日記
+EN: Boman Diary
+
+## s030
+JP: エッジ　ED1
+EN: Edge Ending 1
+
+## s031
+JP: エッジ　ED2
+EN: Edge Ending 2
+
+## s032
+JP: エッジ　日記
+EN: Edge Diary
+
+## s033
+JP: 岩　ED1
+EN: Gan Ending 1
+
+## s034
+JP: 岩　ED2
+EN: Gan Ending 2
+
+## s035
+JP: 岩　日記
+EN: Gan Diary
+
+## s036
+JP: アキラ　ED1
+EN: Akira Ending 1
+
+## s037
+JP: アキラ　ED2
+EN: Akira Ending 2
+
+## s038
+JP: アキラ　日記
+EN: Akira Diary
+
+## s039
+JP: あきら　ED1
+EN: Unmasked Akira End 1
+
+## s040
+JP: 醍醐　ED1
+EN: Daigo Ending 1
+
+## s041
+JP: 醍醐　日記
+EN: Daigo Diary
+
+## s042
+JP: 英雄　ED1
+EN: Hideo Ending 1
+
+## s043
+JP: 英雄　ED2
+EN: Hideo Ending 2
+
+## s044
+JP: 英雄　日記
+EN: Hideo Diary
+
+## s045
+JP: 響子　ED1
+EN: Kyoko Ending 1
+
+## s046
+JP: 響子　ED2
+EN: Kyoko Ending 2
+
+## s047
+JP: 響子　日記
+EN: Kyoko Diary
+
+## s048
+JP: 雷蔵　ED1
+EN: Raizo Ending 1
+
+## s049
+JP: 響　ED1
+EN: Hyo Ending 1
+
+## s050
+JP: 響　日記
+EN: Hyo Diary
+
+## s051
+JP: 熱血隼人　ED1
+EN: Hayato Ending 1
+
+## s052
+JP: 熱血隼人　日記
+EN: Hayato Diary
+
+## s053
+JP: さくら　ED1
+EN: Sakura Ending 1
+
+## s054
+JP: さくら　ED2
+EN: Sakura Ending 2
+
+## s055
+JP: さくら　日記
+EN: Sakura Diary
+
+## s056
+JP: 流　ED1
+EN: Nagare Ending 1
+
+## s057
+JP: 流　日記
+EN: Nagare Diary
+
+## s058
+JP: ラン　ED1
+EN: Ran Ending 1
+
+## s059
+JP: ラン　日記
+EN: Ran Diary
+
+## s060
+JP: EDITキャラED1
+EN: EDIT Character End 1
+
+## s061
+JP: EDITキャラED2
+EN: EDIT Character End 2
+
+## s062
+JP: クラブ紹介　1
+EN: Club Intros 1
+
+## s063
+JP: クラブ紹介　2
+EN: Club Intros 2
+
+## s064
+JP: 夏の日の思い出　1
+EN: Summer Memories 1
+
+## s065
+JP: 夏の日の思い出　2
+EN: Summer Memories 2
+
+## s066
+JP: 夏の日の思い出　3
+EN: Summer Memories 3
+
+## s067
+JP: 夏の日の思い出　4
+EN: Summer Memories 4
+
+## s068
+JP: クリスマスの思い出
+EN: Christmas Memories
+
+## s069
+JP: 雷蔵　日記・特別編
+EN: Raizo Diary: Special
+
+## s070
+JP: 熱血ポスター1
+EN: Hot-Blooded Poster 1
+
+## s071
+JP: 熱血ポスター2
+EN: Hot-Blooded Poster 2
+
+## s072
+JP: 熱血ポスター3
+EN: Hot-Blooded Poster 3
+
+## s073
+JP: 熱血ポスター4
+EN: Hot-Blooded Poster 4
+
+## s074
+JP: 太陽学園高等部屋上
+EN: Taiyo High Roof
+
+## s075
+JP: パシフィックHS裏門
+EN: Pacific Back Gate
+
+## s076
+JP: 五輪高校第一体育館
+EN: Gorin High Gym 1
+
+## s077
+JP: 外道高校裏工事現場
+EN: Gedo Building Site
+
+## s078
+JP: 太陽学園中等部
+EN: Taiyo Junior High
+
+## s079
+JP: ドライブインシアター
+EN: Drive-In Theater
+
+## s080
+JP: 五輪高校臨海合宿所前
+EN: Gorin Seaside Camp
+
+## s081
+JP: 外道高校前河川敷
+EN: Gedo High Riverbank
+
+## s082
+JP: 太陽学園高等部教室
+EN: Taiyo High Classroom
+
+## s083
+JP: ジャスティス学園1
+EN: Justice High 1
+
+## s084
+JP: ジャスティス学園2
+EN: Justice High 2
+
+## s085
+JP: ジャスティス学園3
+EN: Justice High 3
+
+## s086
+JP: 五輪高校プールサイド
+EN: Gorin High Poolside
+
+## s087
+JP: カードをみる
+EN: View Cards
+
+## s088
+JP: カードをあげる
+EN: Give Card
+
+## s089
+JP: ダウンロード
+EN: Download
+
+## s090
+JP: 操作説明
+EN: How to Play
+
+## s091
+JP: ダウンロードには10ブロック以上の空きのある{n}ポケットステーションが必要です
+EN: Needs a PocketStation with 11+ free blocks.
+
+## s092
+JP: ダウンロードしますか?
+EN: Download?
+
+## s093
+JP: (スロット1のみ)
+EN: (Slot 1 only)
+
+## s094
+JP: はい　　　いいえ
+EN: Yes       No
+
+## s095
+JP: ダウンロード実行中{n}ポケットステーションを{n}ぬきさししないでください
+EN: Downloading.{n}Don't unplug!
+
+## s096
+JP: ダウンロードに失敗しました
+EN: Download failed.
+
+## s097
+JP: 何かボタンを押して下さい
+EN: Press any button
+
+## s098
+JP: ダウンロードしました
+EN: Download complete.
+
+## s099
+JP: ポケットステーションがささっていません
+EN: No PocketStation inserted.
+
+## s100
+JP: ポケットステーションが{n}フォーマットされていません
+EN: PocketStation{n}not formatted
+
+## s101
+JP: ただしく実行できませんでした
+EN: Could not complete.
+
+## s102
+JP: ポケットステーションがいっぱいです
+EN: PocketStation is full.
+
+## s103
+JP: ポケットステーションを{n}時計画面A/Bにもどしてください
+EN: Return to{n}clock screen A/B.
+
+## s104
+JP: フォーマットしますか?
+EN: Format?
+
+## s105
+JP: フォーマットしています{n}ポケットステーションを{n}ぬきさししないでください
+EN: Formatting.{n}Don't unplug!
+
+## s106
+JP: フォーマットが終了しました
+EN: Format complete.
+
+## s107
+JP: キャラクターのついかをしますか?
+EN: Add a character?
+
+## s108
+JP: ポケットステーションをセットしてください
+EN: Insert the PocketStation.
+
+## s109
+JP: よろしいですか?
+EN: Is that OK?
+
+## s110
+JP: ポケットジャスティスのデータがありません
+EN: No Poke-Jus data.
+
+## s111
+JP: 正しくロードできませんでした
+EN: Data could not be loaded.
+
+## s112
+JP: フォーマットに失敗しました
+EN: Format failed.
+
+## s113
+JP: メモリーカードがささっていません
+EN: No Memory Card inserted.
+
+## s114
+JP: メッセージカードをもらう
+EN: Get Message Card
+
+## s115
+JP: POINTS
+EN: POINTS
+
+## s116
+JP: JーBANK
+EN: J-BANK
+
+## s117
+JP: もどる
+EN: Back
+
+## s118
+JP: ポケットステーションがいれかわっています
+EN: The PocketStation was switched.
+
+## s119
+JP: セーブデータのはいっているメモリーカードを{n}セットしてください
+EN: Insert a Memory Card with save data.
+
+## s120
+JP: ロードしています
+EN: Loading...
+
+## s121
+JP: セーブしています
+EN: Saving...
+
+## s122
+JP: このモードのセーブデータがありません
+EN: No save data for this mode.
+
+## s123
+JP: セーブしました
+EN: Saved.
+
+## s124
+JP: メッセージカードをとりだします
+EN: Retrieving the Message Card.
+
+## s125
+JP: カードをとりだしました
+EN: Card retrieved.
+
+## s126
+JP: あたらしいカードがありませんでした
+EN: There were no new cards.
+
+## s127
+JP: すこしおまちください
+EN: Please wait...
+
+## s128
+JP: ついかされるデータはありませんでした
+EN: There was no data to add.
+
+## s129
+JP: 正しくセーブできませんでした
+EN: Data could not be saved.
+
+## s130
+JP: このカードはもっているようです
+EN: You already have this card.
+
+## s131
+JP: このメモリーカードに
+EN: Copy the data to
+
+## s132
+JP: コピーしてよろしいですか?
+EN: this Memory Card?
+
+## s133
+JP: レア
+EN: Rare
+
+## s134
+JP: 熱血カードNo・
+EN: Card No.
+
+## s135
+JP: を手に入れました
+EN: obtained!
+
+## s136
+JP: 「熱血カードをみる」で{n}カードを見ることができます
+EN: Check it in View Cards.
+
+## s137
+JP: ポケットジャスティスの{n}データがありません
+EN: No Poke-Jus data.
+
+## s138
+JP: ロードに失敗しました
+EN: Load failed.
+
+## s139
+JP: セーブに失敗しました
+EN: Save failed.
+
+## s140
+JP: メモリーカードをさしかえて{n}何かボタンを押してください
+EN: Swap cards.{n}Press a button.
+
+## s141
+JP: もとのメモリーカードにもどして{n}何かボタンを押してください
+EN: Put the original card back{n}and press any button.
+
+## h0
+JP: 所持
+EN: Own
+
+## h1
+JP: ページ
+EN: Page
+
+## h2
+JP: 終了しますか?
+EN: Quit?
+
+## h3
+JP: このカードでよろしいですか?
+EN: Give this card?
+
+## h4a
+JP: はい
+EN: Yes
+
+## h4b
+JP: いいえ
+EN: No

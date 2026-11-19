@@ -1,0 +1,92 @@
+## MGG09O g0 s0000
+JP: 中庭には露店がたちならび、{n}学園中が普段にない活気に包まれている。{n}そう、今日は五輪高校の学園祭なのだ!{p}{end}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is Gorin High's school festival!{p}{end}
+
+## MGG09O g0 s0002
+JP: やあ、将馬。{n}ついに学園祭が始まったな。{n}そういえば、将馬は学園祭で{n}何をやるんだ?{p}{end}
+EN: Hey, Shoma. The festival's finally started. So what are you doing for it?{p}{end}
+
+## MGG09O g0 s0003
+JP: ああ、オイラか?{n}オイラはバツたちと{col:0}腕相撲大会{col:-}を{n}やる事になってんだ。{n}オマエも遊びに来いよな!{p}{end}
+EN: Huh, me? Me and Batsu and the guys are runnin' an {col:0}arm wrestling tournament{col:-}. Come check it out!{p}{end}
+
+## MGG09O g0 s0004
+JP: ホラホラ、どいたどいた!{p}{end}
+EN: Coming through, coming through!{p}{end}
+
+## MGG09O g0 s0005
+JP: ん?{sp}ねぇ、{v6:4}。{n}アタシ、今何かにぶつかった?{p}{end}
+EN: Hm? Hey, {v6:4}. Did I just bump into something?{p}{end}
+
+## MGG09O g0 s0006
+JP: なっ、何しやがる!{n}このガサツ女!{p}
+EN: Wh-what's the big idea!? Ya clumsy brute!{p}
+
+## MGG09O g0 s0007
+JP: あれ、将馬だったの?{n}ゴメンゴメン。{n}ちょっと急いでたからさ。{p}
+EN: Oh, that was you, Shoma? Sorry, sorry. I was in a bit of a hurry.{p}
+
+## MGG09O g0 s0008
+JP: そういえば、エプロンなんかしてるけど、{n}一体どうしたんだ?{p}
+EN: By the way, you're wearing an apron. What's up with that?{p}
+
+## MGG09O g0 s0009
+JP: ああ、これ?{n}バレー部は屋台で{col:0}焼きソバ屋{col:-}をやるのよ。{n}よかったら、後で食べにきてよね。{p}
+EN: Oh, this? The volleyball club's running a {col:0}yakisoba stand{col:-}. Come eat later if you want.{p}
+
+## MGG09O g0 s0010
+JP: 夏のところも屋台か。{n}こりゃあ、強力なライバル{n}出現ってところだな。{p}{end}
+EN: Your club's got a stall too, Natsu? Looks like a tough rival just showed up.{p}{end}
+
+## MGG09O g0 s0011
+JP: ロベルトまでエプロンしてるのか。{n}ちなみに、サッカー部は何屋なんだい?{p}
+EN: Even you're wearing an apron, Roberto? So what's the soccer club selling?{p}
+
+## MGG09O g0 s0012
+JP: {col:0}たこ焼き{col:-}さ。{n}その名も、「サッカーボールたこ焼き」!{n}どうだ、うまそうだろう?{n}もちろん、味は俺が保証するぜ!{p}
+EN: {col:0}Takoyaki{col:-}! We call 'em "Soccer Ball Takoyaki"! Sounds tasty, right? And I guarantee the flavor!{p}
+
+## MGG09O g0 s0013
+JP: へぇ～。{n}みんな、色々考えてるんだな。{p}
+EN: Huh. Everybody's really put some thought into this.{p}
+
+## MGG09O g0 s0302
+JP: エッジ、やっぱりお前が壊した{n}んだから修理を手伝えよ。{n}それが筋ってもんだろ。{n}もし醍醐先輩にばれたら、怒られるぞ。{p}{end}
+EN: Edge, you broke it, so help fix it. That's only fair. If Daigo-senpai finds out, you're in trouble.{p}{end}
+
+## MGG09O g1 s0000
+JP: 中庭には露店がたちならんで、{n}学園中が普段にない活気に包まれてる。{n}そう、今日は五輪高校の学園祭よ!{p}{end}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is Gorin High's school festival!{p}{end}
+
+## MGG09O g1 s0002
+JP: 将馬、ついに学園祭が始まったね。{n}そういえば、将馬は学園祭で何をするの?{p}{end}
+EN: Shoma, the festival's finally started. So what are you doing for it?{p}{end}
+
+## MGG09O g1 s0005
+JP: ん?{sp}ねぇ{v7:4}。{n}アタシ、今何かにぶつかった?{p}
+EN: Hm? Hey, {v7:4}. Did I just bump into something?{p}
+
+## MGG09O g1 s0008
+JP: そういえば、エプロンなんかしてるけど、{n}一体どうしたの?{p}{end}
+EN: By the way, you're wearing an apron. What's up with that?{p}{end}
+
+## MGG09O g1 s0011
+JP: ロベルトまでエプロンしてるのね。{n}ちなみに、サッカー部は何屋さん?{p}
+EN: Even you're wearing an apron, Roberto? So what's the soccer club selling?{p}
+
+## MGG09O g1 s0013
+JP: へぇ～。{n}みんな、色々考えてるのねぇ。{p}
+EN: Huh. Everybody's really put some thought into this.{p}
+
+## MGG09O g1 s0065
+JP: （隼人先生、相変わらずの熱血ぶりね…）{p}
+EN: (Hayato-sensei's as hot-blooded as ever...){p}
+
+## MGG09O g1 s0258
+JP: うぬううううううううううう!!{p}
+EN: Hnnnnnnnnngh!!{p}
+
+## MGG09O g1 s0418
+JP: そう?{sp}それは良かったわ。{n}また面白い記事を書いてよね。{n}楽しみにしてるわよ!{p}
+EN: Really? That's great. Write another fun article, OK? I'm looking forward to it!{p}
+

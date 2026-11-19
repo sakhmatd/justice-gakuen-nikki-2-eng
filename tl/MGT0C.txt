@@ -1,0 +1,276 @@
+## MGT0C g0 s0000
+JP: 今日はゲームセンターにでもよって{n}「ストリートファイターⅢ」{n}でもやろうかなあ。{p}{end}
+EN: Maybe I'll stop by the arcade today and play some "Street Fighter III."{p}{end}
+
+## MGT0C g0 s0001
+JP: {v0}{col:0}君{col:-}、{n}こんな時間に繁華街をふらついて{n}何してるんです?{p}{end}
+EN: {v0}{col:0}-kun{col:-}, what are you doing wandering around downtown at this hour?{p}{end}
+
+## MGT0C g0 s0002
+JP: ひ、英雄先生!{n}ど、どうしよう?{p}{end}
+EN: H-Hideo-sensei! Wh-what do I do?{p}{end}
+
+## MGT0C g0 s0003
+JP: ゲームセンターに行く所です{n}塾に行く所です{p}
+EN: Going to the arcade{n}Going to cram school{p}
+
+## MGT0C g0 s0004
+JP: これからゲームセンターへ行って{n}「ストリートファイターⅢ」をしようと{n}思ってました。{p}{end}
+EN: I was going to the arcade to play "Street Fighter III."{p}{end}
+
+## MGT0C g0 s0005
+JP: 何!?{sp}ゲームセンターですと!{n}勉強もしないでそんな所に{n}行こうとしてたのですか?{p}
+EN: What!? The arcade! You meant to go to a place like that instead of studying?{p}
+
+## MGT0C g0 s0006
+JP: ……しかし、正直に言ってくれたから{n}今回だけは許してあげましょう。{p}
+EN: ...However, you were honest with me, so I will let it go. Just this once.{p}
+
+## MGT0C g0 s0007
+JP: ただし、今回だけですよ!{p}{end}
+EN: But only this once, mind you!{p}{end}
+
+## MGT0C g0 s0008
+JP: なんだか今日の英雄先生{n}優しかったなあ。{p}{end}
+EN: Hideo-sensei was kind of nice today.{p}{end}
+
+## MGT0C g0 s0009
+JP: これから塾に行く所ですけど……。{p}{end}
+EN: I'm on my way to cram school...{p}{end}
+
+## MGT0C g0 s0010
+JP: カバンも持たずに塾に行くのですか?{p}
+EN: To cram school, without your bag?{p}
+
+## MGT0C g0 s0011
+JP: 先生にだけは正直に答えてくれると{n}思っていたのに……。{n}残念です……。{p}
+EN: I thought that you, at least, would be honest with me... What a shame...{p}
+
+## MGT0C g0 s0012
+JP: もっと怒られると思っていたのに……。{n}何だか妙にさびしい顔してたなあ。{p}
+EN: I figured he'd chew me out more than that... He looked strangely lonely.{p}
+
+## MGT0C g0 s0013
+JP: すっかり帰るの遅くなっちゃったなあ。{p}{end}
+EN: Wow, I'm really late getting home.{p}{end}
+
+## MGT0C g0 s0014
+JP: {v0}{col:0}君{col:-}。{n}今、帰りかな?{p}
+EN: {v0}{col:0}-kun{col:-}. On your way home?{p}
+
+## MGT0C g0 s0015
+JP: あっ、英雄先生も、{n}今、帰りですか?{p}{end}
+EN: Oh, Hideo-sensei. Are you heading home too?{p}{end}
+
+## MGT0C g0 s0016
+JP: 今日は補習授業をしていたのですよ。{n}{v0}{col:0}君{col:-}は、{n}最近とてもがんばっているようですね。{p}
+EN: I was teaching a remedial class today. {v0}{col:0}-kun{col:-}, you seem to be working very hard lately.{p}
+
+## MGT0C g0 s0017
+JP: とんでもないです。{n}自分なんて、まだまだですよ。{p}{end}
+EN: Not at all. I've still got a long way to go.{p}{end}
+
+## MGT0C g0 s0018
+JP: そうだ、よかったら今からご飯でも{n}食べに行きませんか?{n}おごりますよ。{p}
+EN: Oh, I know. Would you like to go get something to eat? My treat.{p}
+
+## MGT0C g0 s0019
+JP: 一緒に行く{n}断る{p}{end}
+EN: Go along{n}Decline{p}{end}
+
+## MGT0C g0 s0020
+JP: じゃあ、お言葉に甘えて。{p}{end}
+EN: Then I'll take you up on that.{p}{end}
+
+## MGT0C g0 s0021
+JP: じゃあ、{n}おいしい店を知ってますから{n}そこに行きましょう。{p}
+EN: Then let us go. I know a very good place.{p}
+
+## MGT0C g0 s0022
+JP: ふ～っ、食った食った。{n}英雄先生どうもごちそうさまでした。{p}
+EN: Phew, I'm stuffed. Thank you for the meal, Hideo-sensei.{p}
+
+## MGT0C g0 s0023
+JP: 気に入っていただけましたか?{n}それは良かった。{p}
+EN: Did you enjoy it? I'm glad.{p}
+
+## MGT0C g0 s0024
+JP: {v0}{col:0}君{col:-}の{n}食べている顔を見ていると{n}とても幸せな感じがしますよ。{p}
+EN: Watching you eat, {v0}{col:0}-kun{col:-}, makes me feel very happy.{p}
+
+## MGT0C g0 s0025
+JP: また、一緒に行きましょう……。{p}
+EN: Let us go again sometime...{p}
+
+## MGT0C g0 s0027
+JP: すいません。{n}もうご飯済ませちゃいました。{p}
+EN: Sorry. I already ate.{p}
+
+## MGT0C g0 s0028
+JP: そうですか……。{n}では、また次の機会にしましょう。{n}さようなら。{p}{end}
+EN: I see... Then another time. Goodbye.{p}{end}
+
+## MGT0C g0 s0029
+JP: やけにさびしそうな背中だったなあ。{n}ウソついて断ったのが悪い気がする……。{p}
+EN: His back looked awfully lonely. I feel bad for lying to turn him down...{p}
+
+## MGT0C g0 s0030
+JP: あっ、英雄先生だ。{n}一人で買い物しているぞ。{p}{end}
+EN: Oh, it's Hideo-sensei. He's shopping by himself.{p}{end}
+
+## MGT0C g0 s0031
+JP: {v0}{col:0}君{col:-}ですか。{n}君もお買い物ですか?{p}
+EN: Ah, {v0}{col:0}-kun{col:-}. Are you out shopping too?{p}
+
+## MGT0C g0 s0032
+JP: 母が病気で……{n}母のおつかいで……{p}
+EN: My mom's sick...{n}An errand for my mom...{p}
+
+## MGT0C g0 s0033
+JP: 実は、母が病気になって寝込んでるんで、{n}おかゆでも作ってあげようと{n}思ってるんです……。{p}{end}
+EN: Actually, my mom's sick in bed, so I thought I'd make her some rice porridge...{p}{end}
+
+## MGT0C g0 s0034
+JP: エライ!{n}エライぞ、{v0}{col:0}君{col:-}!{p}
+EN: Well done! Well done, {v0}{col:0}-kun{col:-}!{p}
+
+## MGT0C g0 s0035
+JP: そういう事なら、ぜひこれを使いなさい。{p}
+EN: In that case, you must use this.{p}
+
+## MGT0C g0 s0036
+JP: {col:0}『島津流料理皆伝の書』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Shimazu-Style Cookbook"{col:-}!{p}{end}
+
+## MGT0C g0 s0037
+JP: その中にある料理を作れば{n}君のお母さんもきっと元気になりますよ。{p}{end}
+EN: If you make the dishes in there, I am sure your mother will feel better.{p}{end}
+
+## MGT0C g0 s0038
+JP: しかし、やはり君は{n}私の見込んだ生徒だ……。{n}男同士なのにほれぼれするよ……。{p}
+EN: You truly are the student I believed you to be... We are both men, and yet I am quite smitten...{p}
+
+## MGT0C g0 s0039
+JP: せ、先生……。{p}
+EN: S-sensei...{p}
+
+## MGT0C g0 s0040
+JP: ……しばらく英雄先生と見つめ合った……。{p}{end}
+EN: ...Hideo-sensei and I gazed at each other for a while...{p}{end}
+
+## MGT0C g0 s0041
+JP: 母が買い物で忘れたものがあるから{n}買ってくるように言われて……。{p}{end}
+EN: Mom forgot something when she went shopping, so she asked me to go get it...{p}{end}
+
+## MGT0C g0 s0042
+JP: エライですねえ。{n}親孝行はできるうちに{n}どんどんやるべきです。{p}
+EN: How admirable. You should do all you can for your parents while you still can.{p}
+
+## MGT0C g0 s0043
+JP: その親孝行を考慮して{n}今度のテストは{n}少し甘めに採点しときますからね。{p}
+EN: In light of your devotion, I will grade your next test a little leniently.{p}
+
+## MGT0C g0 s0044
+JP: 神様は見てるんだなあ……。{p}
+EN: God really is watching...{p}
+
+## MGT0C g0 s0046
+JP: ん!?{n}誰か来たのかな?{n}ちょっと降りてみよう。{p}{end}
+EN: Hm!? Is someone here? I'll go downstairs and see.{p}{end}
+
+## MGT0C g0 s0047
+JP: 英雄先生!{n}きょ、今日って家庭訪問でしたっけ?{p}
+EN: Hideo-sensei! W-was there a home visit today?{p}
+
+## MGT0C g0 s0048
+JP: いやいや、そうじゃないんだよ。{n}{v0}{col:0}君{col:-}は{n}確か今日誕生日でしたよね?{p}
+EN: No, no, nothing like that. {v0}{col:0}-kun{col:-}, today is your birthday, if I am not mistaken?{p}
+
+## MGT0C g0 s0049
+JP: そうですけど……。{p}
+EN: Yes, but...{p}
+
+## MGT0C g0 s0050
+JP: 誕生日を祝ってくれる{n}彼女もいませんよねえ……。{p}{end}
+EN: And you have no girlfriend to celebrate it with, I suppose...{p}{end}
+
+## MGT0C g0 s0051
+JP: それがどうかしたんですか!{p}
+EN: What's that got to do with anything!?{p}
+
+## MGT0C g0 s0052
+JP: そう思って、はい!{n}君にぴったりのプレゼントを{n}持って来ましたよ!{p}
+EN: I thought as much, so here! I brought the perfect present for you!{p}
+
+## MGT0C g0 s0053
+JP: {col:0}『島津流恋愛術秘伝の書』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Shimazu-Style Secret Love Manual"{col:-}!{p}
+
+## MGT0C g0 s0054
+JP: これを読んで来年の誕生日までに{n}彼女を作ってください。{p}
+EN: Read this and find yourself a girlfriend before your next birthday.{p}
+
+## MGT0C g0 s0055
+JP: うれしいやら、悲しいやら……。{n}なんか複雑……。{p}{end}
+EN: I don't know whether to be happy or sad... I've got mixed feelings about this...{p}{end}
+
+## MGT0C g0 s0057
+JP: いやいや、そうじゃないんだよ。{n}{v0}{col:0}君{col:-}は{n}確かこの前誕生日でしたよね?{p}{end}
+EN: No, no, nothing like that. {v0}{col:0}-kun{col:-}, you had a birthday recently, if I am not mistaken?{p}{end}
+
+## MGT0C g0 s0059
+JP: その日は誕生日を祝ってくれる{n}彼女はいましたか?{p}{end}
+EN: Did you have a girlfriend to celebrate it with that day?{p}{end}
+
+## MGT0C g0 s0060
+JP: いませんでしたけど……{n}それがどうかしたんですか!{p}
+EN: No, I didn't... What's that got to do with anything!?{p}
+
+## MGT0C g1 s0000
+JP: 今日はゲームセンターにでもよって{n}「Doki―Waku―Dance」{n}でもやろうかなあ。{p}{end}
+EN: Maybe I'll stop by the arcade today and play some "Doki-Waku-Dance."{p}{end}
+
+## MGT0C g1 s0004
+JP: これからゲームセンターへ行って{n}「Doki―Waku―Dance」{n}をしようと思ってました。{p}{end}
+EN: I was going to the arcade to play "Doki-Waku-Dance."{p}{end}
+
+## MGT0C g1 s0015
+JP: あっ、英雄先生も、{n}今、お帰りですか?{p}
+EN: Oh, Hideo-sensei. Are you heading home too?{p}
+
+## MGT0C g1 s0017
+JP: とんでもないです。{n}私なんて、まだまだですよ。{p}
+EN: Not at all. I've still got a long way to go.{p}
+
+## MGT0C g1 s0022
+JP: ふ～っ、食べた食べた。{n}英雄先生どうもごちそうさまでした。{p}
+EN: Phew, I'm stuffed. Thank you for the meal, Hideo-sensei.{p}
+
+## MGT0C g1 s0030
+JP: あっ、英雄先生。{n}一人で買い物しているわ。{p}
+EN: Oh, it's Hideo-sensei. He's shopping by himself.{p}
+
+## MGT0C g1 s0035
+JP: そういう事なら、{n}ぜひこれを使いなさい。{p}{end}
+EN: In that case, you must use this.{p}{end}
+
+## MGT0C g1 s0038
+JP: しかし、やはり君は{n}私の見込んだ生徒だ……。{n}年の差なんか関係なくほれぼれするよ……。{p}
+EN: You truly are the student I believed you to be... Age difference aside, I am quite smitten...{p}
+
+## MGT0C g1 s0046
+JP: ん!?{n}誰か来たのかしら?{n}ちょっと降りてみよう。{p}
+EN: Hm!? Is someone here? I'll go downstairs and see.{p}
+
+## MGT0C g1 s0050
+JP: 誕生日を祝ってくれる{n}彼氏もいませんよねえ……。{p}{end}
+EN: And you have no boyfriend to celebrate it with, I suppose...{p}{end}
+
+## MGT0C g1 s0054
+JP: これを読んで来年の誕生日までに{n}彼氏を作ってください。{p}
+EN: Read this and find yourself a boyfriend before your next birthday.{p}
+
+## MGT0C g1 s0059
+JP: その日は誕生日を祝ってくれる{n}彼氏はいましたか?{p}{end}
+EN: Did you have a boyfriend to celebrate it with that day?{p}{end}
+

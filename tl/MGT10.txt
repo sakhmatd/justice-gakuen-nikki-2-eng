@@ -1,0 +1,328 @@
+## MGT10 g0 s0000
+JP: わわっ!{p}{end}
+EN: Whoa!{p}{end}
+
+## MGT10 g0 s0001
+JP: あいてててて。{p}
+EN: Owowow...{p}
+
+## MGT10 g0 s0002
+JP: 大丈夫か?{p}
+EN: You OK?{p}
+
+## MGT10 g0 s0003
+JP: だ、大丈夫です。{n}あっ、隼人先生!{n}先生こそ大丈夫ですか?{p}
+EN: I-I'm fine. Oh, Hayato-sensei! Are you OK, sir?{p}
+
+## MGT10 g0 s0004
+JP: 俺をなめるんじゃねえぜ!{n}俺は体育教師!{n}生徒のタックルも受け止められねえで、{n}生徒の愛情が受け止められるかってんだ!{p}
+EN: Don't underestimate me! I'm a PE teacher! If I can't take a student's tackle, how could I take a student's love!?{p}
+
+## MGT10 g0 s0005
+JP: なんなら、河原まで競走するか?{p}
+EN: Hey, how 'bout a race to the riverbank?{p}
+
+## MGT10 g0 s0006
+JP: 競走する{n}結構です{p}
+EN: Race him{n}No thanks{p}
+
+## MGT10 g0 s0007
+JP: 結構です。{p}
+EN: No thanks.{p}
+
+## MGT10 g0 s0008
+JP: そうか、{n}しょうがねえなあ。{n}俺は何の勝負でも受けてやるからな!{n}いつでもこいよ!{p}
+EN: That so? Oh well. I'll take on any challenge, y'know! Come at me anytime!{p}
+
+## MGT10 g0 s0009
+JP: は、はい。{n}（なんか隼人先生って{n}{sp}どこでも現れる感じがするなあ。）{p}{end}
+EN: Y-yes. (Hayato-sensei seems to pop up everywhere...){p}{end}
+
+## MGT10 g0 s0010
+JP: 勝負しましょう!{n}先生!{p}{end}
+EN: Let's race, Sensei!{p}{end}
+
+## MGT10 g0 s0011
+JP: おうし!{sp}いくぜ!{n}ヨーイ!{n}ドン!{p}{end}
+EN: All right! Here we go! Ready... go!{p}{end}
+
+## MGT10 g0 s0012
+JP: あれっ?{n}もういなくなってる?{n}急ごう!{sp}それっ!{p}
+EN: Huh? He's already gone? Gotta hurry! Here goes!{p}
+
+## MGT10 g0 s0013
+JP: おせえじゃねえか!{p}
+EN: Took ya long enough!{p}
+
+## MGT10 g0 s0014
+JP: 先生速すぎるよ～。{p}
+EN: Sensei, you're way too fast~.{p}
+
+## MGT10 g0 s0015
+JP: 俺は速い。{n}お前は遅い。{n}それでいいんだ!{p}
+EN: I'm fast. You're slow. That's how it oughta be!{p}
+
+## MGT10 g0 s0016
+JP: 何事も勝者と敗者がいるんだ、{n}それを忘れるな!{p}
+EN: Every contest has a winner and a loser. Don't ya forget it!{p}
+
+## MGT10 g0 s0017
+JP: それって、{n}自分が勝者だって自慢したいのかなあ……。{p}{end}
+EN: Does he just want to brag that he's the winner...?{p}{end}
+
+## MGT10 g0 s0021
+JP: だ、大丈夫です。{n}あっ!{sp}また隼人先生!{p}{end}
+EN: I-I'm fine. Oh! Hayato-sensei again!{p}{end}
+
+## MGT10 g0 s0022
+JP: なんだ?{n}また俺に勝負を挑みにきたのか?{p}{end}
+EN: What? Ya came to challenge me again?{p}{end}
+
+## MGT10 g0 s0023
+JP: 勝負しましょう{n}いえ違います{p}{end}
+EN: Let's have a match{n}No, not really{p}{end}
+
+## MGT10 g0 s0024
+JP: いや、違うんです。{n}俺が廊下を{n}走っていたのがいけなかったんです。{n}ごめんなさい。{p}
+EN: No, it's not that. It was my fault for running in the hall. I'm sorry.{p}
+
+## MGT10 g0 s0025
+JP: そうか、{n}遠慮せずいつでも勝負に来いよ!{n}いつでも待ってるぜ!{sp}じゃあな!{p}
+EN: That so? Don't be shy, come challenge me anytime! I'll be waitin'! See ya!{p}
+
+## MGT10 g0 s0026
+JP: しかし、{n}よく隼人先生ばっかりに当たるなあ。{p}{end}
+EN: Still, why do I keep bumping into Hayato-sensei of all people?{p}{end}
+
+## MGT10 g0 s0027
+JP: 先生!{sp}今日は何の勝負します?{p}
+EN: Sensei! What's the contest today?{p}
+
+## MGT10 g0 s0028
+JP: じゃあ今日は水泳で勝負だ!{n}プールへ行くぞ!{p}{end}
+EN: Then today it's swimming! To the pool!{p}{end}
+
+## MGT10 g0 s0029
+JP: 勝負は先に10キロ泳いだ方が勝ちの{n}簡単ルールだ!{n}じゃあいくぞ!{n}ヨーイ!{sp}ドン!{p}{end}
+EN: The rules are simple: first to swim 10 kilometers wins! Here we go! Ready... go!{p}{end}
+
+## MGT10 g0 s0030
+JP: ちょ、ちょっと準備体操は?{n}も、もうあんなに泳いでる!{n}まずい!{sp}それ!{p}{end}
+EN: W-wait, what about warm-ups? H-he's already that far ahead! Uh-oh! Here goes!{p}{end}
+
+## MGT10 g0 s0032
+JP: 先生、相変わらず速すぎですよー!{p}{end}
+EN: Sensei, you're way too fast, as always!{p}{end}
+
+## MGT10 g0 s0033
+JP: そうだろう、そうだろう。{n}俺は速い。{n}お前は遅い。{n}それでいいんだ!{p}{end}
+EN: That's right, that's right. I'm fast. You're slow. That's how it oughta be!{p}{end}
+
+## MGT10 g0 s0035
+JP: またまた{n}隼人先生の気分だけ良くしてしまった。{n}今度あったら、{n}なにがなんでも勝ってやる!{p}
+EN: Once again, all I did was put Hayato-sensei in a good mood. Next time, I'm winning no matter what!{p}
+
+## MGT10 g0 s0036
+JP: わわわわわっ!{p}
+EN: Whoa-whoa-whoa!{p}
+
+## MGT10 g0 s0039
+JP: だ、大丈夫です。{n}あっ!{sp}またまた隼人先生!{p}{end}
+EN: I-I'm fine. Oh! Hayato-sensei yet again!{p}{end}
+
+## MGT10 g0 s0040
+JP: なんだ?{n}また今日も勝負して欲しいのか?{p}{end}
+EN: What? Lookin' for another match today?{p}{end}
+
+## MGT10 g0 s0041
+JP: 勝負してください{n}そんなつもりじゃ{p}
+EN: Let's have a match{n}That's not why I'm here{p}
+
+## MGT10 g0 s0042
+JP: い、いえそんなつもりじゃないです。{p}
+EN: N-no, that's not why I'm here.{p}
+
+## MGT10 g0 s0043
+JP: そうか……、{n}ちょっと残念だな。{p}{end}
+EN: I see... That's kinda too bad.{p}{end}
+
+## MGT10 g0 s0045
+JP: いや、なんでもねえ。独り言だ。{n}まあ、また遠慮せずいつでも勝負に来な!{n}あばよ!{p}{end}
+EN: Nah, nothin'. Just talkin' to myself. Anyway, don't be shy, come challenge me anytime! Later!{p}{end}
+
+## MGT10 g0 s0046
+JP: 隼人先生……。{p}
+EN: Hayato-sensei...{p}
+
+## MGT10 g0 s0047
+JP: 先生!{sp}勝負してください!{n}今日は負けませんよ!{p}{end}
+EN: Sensei! Let's have a match! I won't lose today!{p}{end}
+
+## MGT10 g0 s0048
+JP: へへっ、そうかい!{n}じゃあ今日は男の格闘技、{n}相撲で勝負だ!{n}土俵へ来な!{p}
+EN: Heh, is that so! Then today we settle it with the martial art of men, sumo! Get over to the ring!{p}
+
+## MGT10 g0 s0049
+JP: これは最後の勝負だ!{n}思いっきりぶつかってこいよ!{p}
+EN: This is our last match! Hit me with everything ya got!{p}
+
+## MGT10 g0 s0050
+JP: いきますよ!{n}はっけよーい……{n}のこった!{p}
+EN: Here I come! Hakkeyoi... nokotta!{p}
+
+## MGT10 g0 s0051
+JP: へん!{n}いい当たりだ、{v3:16}!{p}{end}
+EN: Heh! Nice hit, {v3:16}!{p}{end}
+
+## MGT10 g0 s0052
+JP: まだまだ!{p}
+EN: Not yet!{p}
+
+## MGT10 g0 s0053
+JP: おーし、{n}俺からもいくぜ!{p}
+EN: All right, my turn now!{p}
+
+## MGT10 g0 s0054
+JP: 今だ!{p}
+EN: Now!{p}
+
+## MGT10 g0 s0055
+JP: はあ、はあ、はあ。{n}と、とうとう勝った!{p}{end}
+EN: Huff, huff, huff... I-I finally won!{p}{end}
+
+## MGT10 g0 s0056
+JP: や、やるじゃねえか、{v3:16}!{n}とうとう俺に勝ったな。{p}
+EN: N-not bad, {v3:16}! Ya finally beat me.{p}
+
+## MGT10 g0 s0057
+JP: はい、ありがとうございます。{n}でも、ぎりぎりでした。{p}{end}
+EN: Yes, thank you. But it was close.{p}{end}
+
+## MGT10 g0 s0058
+JP: 俺に勝負事で勝った生徒は{n}お前が初めてだ。{p}
+EN: You're the first student ever to beat me at anything.{p}
+
+## MGT10 g0 s0059
+JP: そうだ、俺に勝った証明に{n}これをお前にやるぜ!{p}
+EN: Right, take this as proof ya beat me!{p}
+
+## MGT10 g0 s0060
+JP: {col:0}『熱血ホイッスル』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Hot-Blooded Whistle"{col:-}!{p}{end}
+
+## MGT10 g0 s0061
+JP: お前が最初でよかったぜ……。{p}{end}
+EN: Glad you were the first...{p}{end}
+
+## MGT10 g0 s0063
+JP: オラ!{sp}オラ!{n}誰もいねえのか!{sp}あっ!{p}{end}
+EN: Hey! Hey! Anybody home!? Oh!{p}{end}
+
+## MGT10 g0 s0064
+JP: 何か玄関から{n}妙に聞き覚えのある声がするぞ!?{p}
+EN: There's a weirdly familiar voice coming from the front door!?{p}
+
+## MGT10 g0 s0065
+JP: なんだいるじゃねえか!{n}{v3:16}、誕生日プレゼントだ!{n}受け取りな!{p}{end}
+EN: So ya are home! {v3:16}, here's your birthday present! Take it!{p}{end}
+
+## MGT10 g0 s0066
+JP: 隼人先生!{n}誕生日覚えててくれたんですか。{n}ありがとうございます。{p}
+EN: Hayato-sensei! You remembered my birthday? Thank you.{p}
+
+## MGT10 g0 s0067
+JP: 何だろう。{n}開けてみていいですか?{p}
+EN: What could it be? Can I open it?{p}
+
+## MGT10 g0 s0068
+JP: ああ、いいぜ。{p}
+EN: Yeah, go ahead.{p}
+
+## MGT10 g0 s0069
+JP: {col:0}『熱血ランニング』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Hot-Blooded Tank Top"{col:-}!{p}{end}
+
+## MGT10 g0 s0070
+JP: それを着てこれからは{n}いつでもこの俺とトレーニングできるぞ!{n}よかったな{v3:16}、あっ!{p}{end}
+EN: Wear that, and from now on ya can train with me anytime! Lucky you, {v3:16}... Oh!{p}{end}
+
+## MGT10 g0 s0071
+JP: じゃあ、早速今から河原まで{n}ランニングでも行くか!{n}もちろんそのランニングシャツを着て!{p}{end}
+EN: Then how 'bout a run down to the riverbank right now! In that tank top, of course!{p}{end}
+
+## MGT10 g0 s0072
+JP: うわ～っ、{n}もらわなきゃよかったかも……。{p}
+EN: Uwaa... Maybe I shouldn't have accepted it...{p}
+
+## MGT10 g0 s0073
+JP: なんだいるじゃねえか!{n}{v3:16}、{n}少し遅れたが誕生日プレゼントだ!{n}受け取りな!{p}
+EN: So ya are home! {v3:16}, it's a little late, but here's your birthday present! Take it!{p}
+
+## MGT10 g1 s0001
+JP: あいたたたた。{p}
+EN: Owowow...{p}
+
+## MGT10 g1 s0009
+JP: は、はい。{n}（なんか隼人先生って{n}{sp}どこでも現れる感じがするわねえ。）{p}
+EN: Y-yes. (Hayato-sensei seems to pop up everywhere, huh.){p}
+
+## MGT10 g1 s0012
+JP: あれっ?{n}もういなくなってるわ?{n}急ぎましょ!{sp}それっ!{p}{end}
+EN: Huh? He's already gone? Gotta hurry! Here goes!{p}{end}
+
+## MGT10 g1 s0017
+JP: それって、{n}自分が勝者だって自慢したいのかしら……。{p}{end}
+EN: Does he just want to brag that he's the winner...?{p}{end}
+
+## MGT10 g1 s0024
+JP: いえ、違うんです。{n}私が廊下を{n}走っていたのがいけなかったんです。{n}ごめんなさい。{p}
+EN: No, it's not that. It was my fault for running in the hall. I'm sorry.{p}
+
+## MGT10 g1 s0026
+JP: しかし、{n}よく隼人先生ばっかりに当たるのは{n}なぜかしら。{p}{end}
+EN: Still, why do I keep bumping into Hayato-sensei of all people?{p}{end}
+
+## MGT10 g1 s0032
+JP: 先生、相変わらず早すぎですよー!{p}{end}
+EN: Sensei, you're way too fast, as always!{p}{end}
+
+## MGT10 g1 s0033
+JP: そうだろう、そうだろう。{n}俺は早い。{n}お前は遅い。{n}それでいいんだ!{p}{end}
+EN: That's right, that's right. I'm fast. You're slow. That's how it oughta be!{p}{end}
+
+## MGT10 g1 s0035
+JP: またまた{n}隼人先生の気分だけ良くしてしまったわ。{n}今度あったら、{n}なにがなんでも勝ってやる!{p}{end}
+EN: Once again, all I did was put Hayato-sensei in a good mood. Next time, I'm winning no matter what!{p}{end}
+
+## MGT10 g1 s0037
+JP: イタタタタタ。{p}
+EN: Ow-ow-ow-ow...{p}
+
+## MGT10 g1 s0048
+JP: へへっ、そうかい!{n}じゃあ今日は日本の格闘技、{n}相撲で勝負だ!{n}土俵へ来な!{p}{end}
+EN: Heh, is that so! Then today we settle it with Japan's martial art, sumo! Get over to the ring!{p}{end}
+
+## MGT10 g1 s0050
+JP: わかりました。{n}いきますよ!{n}はっけよーい……{n}のこった!{p}
+EN: All right. Here I come! Hakkeyoi... nokotta!{p}
+
+## MGT10 g1 s0052
+JP: まだまだよ!{p}{end}
+EN: Not yet!{p}{end}
+
+## MGT10 g1 s0055
+JP: はあ、はあ、はあ。{n}と、とうとう勝ったわ!{p}
+EN: Huff, huff, huff... I-I finally won!{p}
+
+## MGT10 g1 s0057
+JP: はい、ありがとうございます。{n}でも、ぎりぎりでしたけど。{p}{end}
+EN: Yes, thank you. Though it was close.{p}{end}
+
+## MGT10 g1 s0064
+JP: 何か玄関から{n}妙に聞き覚えのある声がするわ!?{p}
+EN: There's a weirdly familiar voice coming from the front door!?{p}
+
+## MGT10 g1 s0067
+JP: 何かしら。{n}開けてみていいですか?{p}
+EN: What could it be? Can I open it?{p}
+

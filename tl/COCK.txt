@@ -1,0 +1,149 @@
+# --- cock_hud
+JP: 日付:月
+EN: /
+JP: 曜日:日
+EN: Sun
+JP: 曜日:月
+EN: Mon
+JP: 曜日:火
+EN: Tue
+JP: 曜日:水
+EN: Wed
+JP: 曜日:木
+EN: Thu
+JP: 曜日:金
+EN: Fri
+JP: 曜日:土
+EN: Sat
+JP: 能力:攻撃力
+EN: Attack
+JP: 能力:防御力
+EN: Defense
+JP: 能力:体力
+EN: Stamina
+JP: 能力:根性
+EN: Guts
+JP: 能力:潜在能力
+EN: Potential
+JP: 能力:知力
+EN: Smarts
+JP: 部:野球部
+EN: Baseball
+JP: 部:バレー部
+EN: Volleyball
+JP: 部:サッカー部
+EN: Soccer
+JP: 部:相撲部
+EN: Sumo
+JP: 部:美術部
+EN: Art
+JP: 部:吹奏楽部
+EN: Brass Band
+JP: 部:演劇部
+EN: Drama
+JP: 部:化学部
+EN: Chemistry
+JP: 部:帰宅部
+EN: Go-Home
+JP: 学校:太陽学園
+EN: Taiyo High
+JP: 学校:五輪高校
+EN: Gorin High
+JP: 学校:パシフィックHS
+EN: Pacific High
+JP: 学校:外道高校
+EN: Gedo High
+JP: 学校:ジャスティス学園
+EN: Justice High
+JP: タブ:ステータス
+EN: Status
+JP: タブ:アイテム
+EN: Items
+JP: タブ:友好度
+EN: Friendship
+JP: 誕生日:月
+EN: /
+JP: 誕生日:日生まれ
+EN: Born
+JP: 性別:男
+EN: Male
+JP: 性別:女
+EN: Female
+JP: 名前:バツ
+EN: Batsu
+JP: 名前:ひなた
+EN: Hinata
+JP: 名前:恭介
+EN: Kyosuke
+JP: 名前:ラン
+EN: Ran
+JP: 名前:将馬
+EN: Shoma
+JP: 名前:夏
+EN: Natsu
+JP: 名前:ロベルト
+EN: Roberto
+JP: 名前:流
+EN: Nagare
+JP: 名前:ロイ
+EN: Roy
+JP: 名前:ティファニー
+EN: Tiffany
+JP: 名前:ボーマン
+EN: Boman
+JP: 名前:隼人
+EN: Hayato
+JP: 名前:エッジ
+EN: Edge
+JP: 名前:アキラ
+EN: Akira
+JP: 名前:岩
+EN: Gan
+JP: 名前:醍醐
+EN: Daigo
+JP: 名前:英雄
+EN: Hideo
+JP: 名前:響子
+EN: Kyoko
+JP: 名前:雹
+EN: Hyo
+
+# --- cock_panels
+JP: パネル:進める
+EN: Advance
+JP: パネル:移動
+EN: Move
+JP: パネル:ステータス
+EN: Status
+JP: パネル:日記
+EN: Diary
+JP: パネル:バックアップ
+EN: Backup
+JP: パネル:メッセージスピード
+EN: Text Speed
+JP: パネル:ミニゲームの練習
+EN: Minigame Practice
+JP: パネル:試験の練習
+EN: Exam Practice
+JP: パネル:終了
+EN: Quit
+JP: パネル:遅い
+EN: Slow
+JP: パネル:普通
+EN: Normal
+JP: パネル:速い
+EN: Fast
+JP: パネル:一括
+EN: Instant
+JP: パネル:決戦! 炎のスプリント
+EN: Showdown! Blazing Sprint
+JP: パネル:Doki―Waku―Dance
+EN: Doki-Waku-Dance
+JP: パネル:PK戦
+EN: PK Shootout
+JP: パネル:爆裂シュート
+EN: Explosive Shot
+JP: パネル:サービスエース
+EN: Service Ace
+JP: パネル:ホームラン競争
+EN: Home Run Derby

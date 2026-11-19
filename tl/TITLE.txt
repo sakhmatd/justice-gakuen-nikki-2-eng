@@ -1,0 +1,31 @@
+label0: Solo Play
+label1: Versus
+label2: Exam Prep '99
+label3: Options
+label4: Data
+label5: Extras
+label6: Hot-Blooded Youth Diary 2
+label7: Co-op
+label8: Team
+label9: Tournament
+label10: League
+label11: Festival
+label12: EDIT Register
+label13: Training
+
+points: Points
+
+desc0: The standard single-player mode. Challengers can cut in for a versus match, of course!
+desc1: A mode just for two-player battles.
+desc2: Practice the skill tests set in Hot-Blooded Youth Diary 2. Learn the basic techniques in "Basics Review" too!!
+desc3: Freely change the button settings, difficulty and game rules.
+desc4: Save or load data on a memory card.
+desc5: Play games and save up points! Buy all kinds of extras at the school store! Download Poke-Jus here!
+desc6: A raising sim where you share school life with the game's characters. Every event is all-new!
+desc7: Two players team up to defeat the enemies. The Chairperson will read your compatibility! Up to 4 can play at once.
+desc8: Pick 2 to 4 characters for a team battle, one fighter at a time.
+desc9: Tournaments with up to 8 players.
+desc10: Pick 2 to 6 characters for a round-robin league.
+desc11: Play the minigames from Hot-Blooded Youth Diary 2.
+desc12: Register EDIT characters from Hot-Blooded Youth Diary 2 save data for use in the game. New features include password registration and CPU tactics settings!!
+desc13: Practice combos and special moves. EDIT characters can be used too!

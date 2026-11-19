@@ -1,0 +1,90 @@
+# パスワード入力
+hdr: PASSWORD
+# 決定
+ok: OK
+# スタートで入力完了
+hint1.0: START
+hint1.1: Done
+# セレクトで入力中止
+hint2.0: SELECT
+hint2.1: Quit
+# パスワードがちがいます
+wrong: Invalid password.
+# 何かボタンを押して下さい
+anykey: Press any button
+conf.name: Name
+conf.add: Add
+conf.quit: Quit
+conf.stats: Info
+# キャラの登録が完了しました
+done1: Registered!
+# 他のキャラもパスワード登録しますか?
+done2: Register another?
+# はい いいえ
+done3.yes: Yes
+done3.no: No
+# 登録しますか
+tconf: Save it?
+# 登録 中止
+tconf.yes: Yes
+tconf.no: No
+
+# 熱血戦術指導
+tac: CPU Tactics
+# 技の使用率
+btn0: Usage
+# 指導書表示
+btn1: Show
+# 指導書入力
+btn2: Enter
+# 戻る
+btn3: Back
+# 各必殺技の使用率を / 設定できます
+help0.1: Set how often the
+help0.2: CPU uses each move.
+# 各必殺技の使用率を / パスワード化して表示します
+help1.1: Show move usage
+help1.2: as a password.
+# 各必殺技の使用率を / パスワードで入力します
+help2.1: Enter move usage
+help2.2: from a password.
+# 体力ゲージ
+lab0: Stamina
+# 根性ゲージ
+lab1: Vigor
+# 根性
+lab2: Guts
+# 攻撃力
+lab3: Attack
+# 防御力
+lab4: Defense
+# 男
+male: Male
+# 女
+female: Female
+# すごく低い
+val0: Very Low
+# 低い
+val1: Low
+# ふつう
+val2: Average
+# 高い
+val3: High
+# すごく高い
+val4: Very High
+# あまり使わない
+use0: Rarely
+# 普通
+use1: Normal
+# よく使う
+use2: Often
+# とてもよく使う
+use3: Very often
+# 遠距離
+rng0: Far
+# 中距離
+rng1: Mid
+# 近距離
+rng2: Close
+# 超近距離
+rng3: Very Close

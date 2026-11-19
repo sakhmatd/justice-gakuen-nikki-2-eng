@@ -1,0 +1,10 @@
+header: Gorin|Festival
+f_hr: Shoma's Home Run Derby
+f_pk: Roberto's PK Shootout
+f_shoot: Roberto's Explosive Shot
+f_ace: Natsu's Service Ace
+f_sprint: Showdown! Blazing Sprint
+f_dance: Doki-Waku-Dance
+f_watch: Watch Mode
+f_back: Back to Mode Menu
+f_record: Best Record

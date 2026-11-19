@@ -1,0 +1,604 @@
+## MGT0F g0 s0000
+JP: （屋上の開放感を味わうために{n}{sp}足を運んでみると、{n}{sp}そこには既に先客がいた。）{p}{end}
+EN: (I came up to the roof to enjoy the open air, but someone had beaten me to it.){p}{end}
+
+## MGT0F g0 s0001
+JP: （個性的な制服の腰には、{n}{sp}一振りの剣が下げられている。{n}{sp}あれが目の前で抜かれた事は{n}{sp}一度や二度ではない。）{p}{end}
+EN: (A sword hangs at the hip of his one-of-a-kind uniform. I've seen him draw it more than once or twice.){p}{end}
+
+## MGT0F g0 s0002
+JP: ん……なんだ、{v0}か。{n}わざわざこんな所に用か?{p}
+EN: Hm... Oh, it is you, {v0}. What brings you all the way up here?{p}
+
+## MGT0F g0 s0003
+JP: いえ……。{n}ただ、風を味わいに来ただけです。{p}{end}
+EN: No... I just came up to feel the breeze.{p}{end}
+
+## MGT0F g0 s0004
+JP: ほう、風を。{n}面白い事を言う。{p}
+EN: Hm, the breeze. An interesting thing to say.{p}
+
+## MGT0F g0 s0005
+JP: 雹さんこそ、{n}ここで何を見ていたんですか?{p}
+EN: What about you, Hyo-san? What were you looking at up here?{p}
+
+## MGT0F g0 s0006
+JP: フ……何を、か。{n}そうだな……、{n}目には見えないモノ、だ。{p}
+EN: Heh... What, you ask. Let me see... Something the eye cannot see.{p}
+
+## MGT0F g0 s0007
+JP: ……{v0}よ。{n}一つ質問してもよいか?{p}
+EN: ...{v0}. May I ask you one question?{p}
+
+## MGT0F g0 s0008
+JP: ええ……どうぞ。{p}{end}
+EN: Sure... go ahead.{p}{end}
+
+## MGT0F g0 s0009
+JP: ……これからの、{n}将来の日本には、{n}一体何が必要となると思う?{p}
+EN: ...What do you think the Japan of the future will need?{p}
+
+## MGT0F g0 s0010
+JP: エリート{n}金銭{n}秩序{p}{end}
+EN: The elite{n}Money{n}Order{p}{end}
+
+## MGT0F g0 s0011
+JP: そうですね……。{n}国家の礎となるエリートが、{n}より重要になっていくのでは{n}ないですか?{p}
+EN: Let's see... Won't the elite who form the nation's foundation matter more and more?{p}
+
+## MGT0F g0 s0012
+JP: ふ……。{n}それは、今の日本がやっている事と{n}まるで変わらん。{n}それでは意味も未来もない。{p}{end}
+EN: Heh... That is no different from what Japan does now. There is no meaning and no future in it.{p}{end}
+
+## MGT0F g0 s0013
+JP: これからは、{n}エリートをあらゆる面で超越した{n}「超エリート」が必要とされるだろう。{p}
+EN: From now on, Japan will need a "super elite" that surpasses the elite in every way.{p}
+
+## MGT0F g0 s0014
+JP: （超エリート……）{p}
+EN: (Super elite...){p}
+
+## MGT0F g0 s0015
+JP: そのための道標として、{n}我々が先頭を歩かねばならん。{n}日本の明日を背負ってな。{p}
+EN: And we must lead the way as its guiding light, carrying the Japan of tomorrow on our backs.{p}
+
+## MGT0F g0 s0016
+JP: （ず、ずいぶんシリアスな{n}{sp}話になってきた。雹さんも、{n}{sp}俺を既に意識してないようだ。）{p}{end}
+EN: (Th-this got awfully serious. Hyo-san doesn't even seem to notice I'm here anymore.){p}{end}
+
+## MGT0F g0 s0017
+JP: （……帰ろっと…………）{p}{end}
+EN: (...Guess I'll head home...){p}{end}
+
+## MGT0F g0 s0018
+JP: やっぱりお金はいりますよ。{n}経済の発展なしに、{n}国家の発展はないですからね。{p}{end}
+EN: You need money, after all. A nation can't grow without a growing economy.{p}{end}
+
+## MGT0F g0 s0019
+JP: 笑止!{n}そのような金銭欲にまみれた時から、{n}日本は堕落し始めた!{n}その事に気付かんか!!{p}{end}
+EN: Absurd! Japan began to decay the moment it gave itself to greed! Do you not see that!?{p}{end}
+
+## MGT0F g0 s0021
+JP: フン……まぁいい。{n}今日の所は帰るんだな!{p}
+EN: Hmph... No matter. You will go home for today!{p}
+
+## MGT0F g0 s0022
+JP: （はぁ……うかつだったかな……）{p}{end}
+EN: (Haah... Guess I spoke too carelessly...){p}{end}
+
+## MGT0F g0 s0023
+JP: やっぱり……秩序かな?{n}今の日本は、{n}どこかしら狂ってきているような{n}印象がありますからね。{p}{end}
+EN: Order, I'd say...? Japan these days seems to have gone a little crazy somehow.{p}{end}
+
+## MGT0F g0 s0024
+JP: ……本当に、そう思うのか?{p}
+EN: ...Do you truly believe that?{p}
+
+## MGT0F g0 s0025
+JP: は、はい……。{p}
+EN: Y-yes...{p}
+
+## MGT0F g0 s0026
+JP: ふむ…………。{n}近い将来、楽しみだな。{p}
+EN: Hm...... I look forward to the near future.{p}
+
+## MGT0F g0 s0027
+JP: （それだけ言い残して、{n}{sp}雹さんは去っていった。{n}{sp}近い将来って、{n}{sp}いったい何の事だろう……?）{p}
+EN: (With just those words, Hyo-san left. The near future...? What did he mean by that...?){p}
+
+## MGT0F g0 s0028
+JP: （屋上に足を運んでみると、{n}{sp}やはりいつもの場所に雹さんはいた。）{p}
+EN: (I came up to the roof, and sure enough, Hyo-san was in his usual spot.){p}
+
+## MGT0F g0 s0029
+JP: （珍しい事に、雹さんの方から{n}{sp}俺に声をかけてきた。{n}{sp}まるで、俺を待ちかねたかのように。）{p}{end}
+EN: (For once, Hyo-san spoke to me first. It was as if he'd been waiting for me.){p}{end}
+
+## MGT0F g0 s0030
+JP: 今日は……、{n}お前の力、見せてもらう!!{p}{end}
+EN: Today... show me your strength!!{p}{end}
+
+## MGT0F g0 s0031
+JP: （今日の雹さんはいつもと少し違う……。{n}{sp}抜き身の剣以上の鋭さを、{n}{sp}雹さん自身からヒシヒシと感じる。）{p}{end}
+EN: (Hyo-san is a little different today... I can feel an edge coming off him, sharper than a drawn sword.){p}{end}
+
+## MGT0F g0 s0032
+JP: 見事、私を倒してみよ!!{n}行くぞ!!!{p}
+EN: Defeat me, if you can!! Here I come!!!{p}
+
+## MGT0F g0 s0034
+JP: （……結局、勝負のほとんどは{n}{sp}雹さんの圧勝だった。）{p}
+EN: (...In the end, Hyo-san won almost every bout by a mile.){p}
+
+## MGT0F g0 s0035
+JP: （何度か剣を封じたが、{n}{sp}拳や脚を交えられると{n}{sp}俺には成す術が無かった。）{p}{end}
+EN: (I blocked his sword a few times, but once he mixed in fists and kicks, I was helpless.){p}{end}
+
+## MGT0F g0 s0036
+JP: ふむ……お前の力、{n}こんなものか?{n}それで全力だというのか?{p}{end}
+EN: Hm... Is this all your strength amounts to? You call this your best?{p}{end}
+
+## MGT0F g0 s0037
+JP: 全力です{n}まだまだこれから{n}次を見てろ{p}
+EN: That's my best{n}I'm just getting started{n}Watch me next time{p}
+
+## MGT0F g0 s0038
+JP: 今の俺には……、{n}これが全力です…………。{p}
+EN: Right now... this is the best I've got......{p}
+
+## MGT0F g0 s0039
+JP: そうか……。{n}自ら、自分の限界を見限る輩に{n}用はないわ!{n}早々に立ち去れ!!{p}{end}
+EN: I see... I have no use for those who decide their own limits! Begone, at once!!{p}{end}
+
+## MGT0F g0 s0040
+JP: （はぁ……。{n}{sp}もっと俺に力があれば……）{p}
+EN: (Haah... If only I were stronger...){p}
+
+## MGT0F g0 s0041
+JP: まだまだ!{n}負け続けじゃ終われませんよ!!{p}
+EN: Not yet! I'm not ending this on a losing streak!!{p}
+
+## MGT0F g0 s0042
+JP: フム……。{n}なら、己の気力のみで{n}何度でも立ち向かってこい!!{p}
+EN: Hm... Then come at me again and again, on willpower alone!!{p}
+
+## MGT0F g0 s0043
+JP: （…………結局、{n}{sp}このトレーニングは、{n}{sp}計1時間以上にも及んだ。）{p}
+EN: (......In the end, the training went on for more than an hour.){p}
+
+## MGT0F g0 s0044
+JP: （最後の一戦で雹さんを止めた動きは{n}{sp}非常によかったと、{n}{sp}珍しく雹さんに褒められた。）{p}{end}
+EN: (For once, Hyo-san praised me. He said the moves I used to stop him in the last bout were very good.){p}{end}
+
+## MGT0F g0 s0045
+JP: （何かの役に立つだろう。{n}{sp}しっかり覚えておこう……）{p}
+EN: (That might come in handy. I'd better remember it...){p}
+
+## MGT0F g0 s0046
+JP: （確か……、{n}{sp}「足」を止め……、{n}{sp}「剣」を落とし……、{n}{sp}「首筋」を狙ったんだったな……）{p}
+EN: (Let's see... I stopped his "legs"... knocked away his "sword"... and went for his "neck"...){p}
+
+## MGT0F g0 s0047
+JP: この次は、遅れをとりません!{n}必ず、勝ってみせます!{p}{end}
+EN: Next time, I won't fall behind! I'll win, I swear!{p}{end}
+
+## MGT0F g0 s0048
+JP: 甘い!{n}今の戦いで命落とせば、{n}次などは永遠に訪れないのだぞ!!{p}{end}
+EN: Naive! Had you lost your life in that fight, there would never be a next time!!{p}{end}
+
+## MGT0F g0 s0050
+JP: ただ一度の戦いに{n}己の全てをつぎ込めぬ輩に、{n}勝利など口にする権利はない!{p}
+EN: One who cannot pour everything into a single fight has no right to speak of victory!{p}
+
+## MGT0F g0 s0051
+JP: （はぁ……俺が甘かったんだな……）{p}
+EN: (Haah... I was naive...){p}
+
+## MGT0F g0 s0052
+JP: （いつものように屋上に来てみると、{n}{sp}いつもの場所に雹さんがいた。{n}{sp}普段どおりの光景だ。）{p}{end}
+EN: (I came up to the roof as always, and Hyo-san was in his usual spot. The same old scene.){p}{end}
+
+## MGT0F g0 s0053
+JP: （ただ一つ。{n}{sp}雹さんが頭を抱え、獣のような{n}{sp}うめき声を発していることを除けば。）{p}{end}
+EN: (Except for one thing. Hyo-san was clutching his head and letting out a groan like a wild beast.){p}{end}
+
+## MGT0F g0 s0054
+JP: 雹さん!!{n}大丈夫で…………!{p}
+EN: Hyo-san!! Are you all ri......!{p}
+
+## MGT0F g0 s0055
+JP: シュパッ!!!{p}
+EN: Shwing!!!{p}
+
+## MGT0F g0 s0056
+JP: （声をかけられた雹さんは、{n}{sp}振り向くよりも前に{n}{sp}腰から刀を振りぬいた!）{p}{end}
+EN: (Before he even turned around, Hyo-san drew the sword at his hip and swung!){p}{end}
+
+## MGT0F g0 s0057
+JP: （いつもと違う加減の無い一撃は、{n}{sp}間一髪というところで、{n}{sp}俺の制服を切り裂いただけで済んだ。）{p}
+EN: (The strike held nothing back, unlike usual. It missed me by a hair and only slashed my uniform.){p}
+
+## MGT0F g0 s0058
+JP: ぐ……グル……オォ……。{p}{end}
+EN: Gh... Grr... Ohhh...{p}{end}
+
+## MGT0F g0 s0059
+JP: （まずい、正気じゃないぞ。{n}{sp}このままじゃ俺も危ないし、{n}{sp}他に怪我人が出るかもしれない。{n}{sp}何とか止めないと!）{p}
+EN: (This is bad, he's lost his mind. At this rate I'm in danger, and others might get hurt too. I've gotta stop him somehow!){p}
+
+## MGT0F g0 s0060
+JP: 首筋を狙う{n}剣を落とす{n}足を止める{p}
+EN: Go for the neck{n}Knock the sword away{n}Stop the legs{p}
+
+## MGT0F g0 s0061
+JP: いってみるぞ!{n}膝の関節に蹴りを!!!{n}……よし、雹さんの動きが止まったぞ!{p}{end}
+EN: Here goes! A kick to the knee joint!!! ...All right, Hyo-san's stopped moving!{p}{end}
+
+## MGT0F g0 s0063
+JP: 手首に手刀を叩き込んで……、{n}よし!{n}剣を手放させたぞ!{p}{end}
+EN: A knife-hand to the wrist... and, yes! He let go of the sword!{p}{end}
+
+## MGT0F g0 s0065
+JP: 最後は首だ!{n}これで正気を取り戻してくれ!!{p}{end}
+EN: Last is the neck! Please, come back to your senses!!{p}{end}
+
+## MGT0F g0 s0066
+JP: （首筋に肘を落とした瞬間、{n}{sp}雹さんの動きは止まった。{n}{sp}そして操り人形の糸が切れたように、{n}{sp}力なく地面にへたり込んだ……）{p}
+EN: (The moment I brought my elbow down on his neck, Hyo-san stopped. Then, like a puppet with its strings cut, he sank limply to the ground...){p}
+
+## MGT0F g0 s0068
+JP: ……ここは?{n}私はいったい……。{p}{end}
+EN: ...Where am I? What have I...?{p}{end}
+
+## MGT0F g0 s0069
+JP: 気がつきましたか、雹さん……。{p}
+EN: You're awake, Hyo-san...{p}
+
+## MGT0F g0 s0070
+JP: {v0}か……、{n}どうした、その傷は?{n}……もしかして、私か!{p}{end}
+EN: {v0}... What happened? That wound... ...Was it me!?{p}{end}
+
+## MGT0F g0 s0072
+JP: 恭介だけでなく、{n}お前まで失うところだった……。{n}……私は一体、どれだけ大切なものを{n}無くせばよいというのだ!?{p}{end}
+EN: Not only Kyosuke... I nearly lost you as well... ...How many precious things must I lose!?{p}{end}
+
+## MGT0F g0 s0073
+JP: ……これ以上側にいては、{n}何時またお前を{n}危険にさらすかもしれない。{n}もう……私に近づくな!{p}{end}
+EN: ...If you stay by my side, I may put you in danger again at any time. Do not... come near me anymore!{p}{end}
+
+## MGT0F g0 s0074
+JP: そうはいきません!!{n}必ず雹さんを助けてみせます。{n}だから……側にいさせてください!{p}{end}
+EN: No way!! I'll save you, Hyo-san, I swear. So... please let me stay by your side!{p}{end}
+
+## MGT0F g0 s0075
+JP: {v0}……本当か?{n}こんな私の側に、{n}いてくれるというのか?{p}{end}
+EN: {v0}... Truly? You would stay by the side of someone like me?{p}{end}
+
+## MGT0F g0 s0076
+JP: 信じてください。{n}そして俺にだけは、悩みや苦しみを{n}全て打ち明けてください!{p}{end}
+EN: Trust me. And tell me, and only me, all your worries and pain!{p}{end}
+
+## MGT0F g0 s0077
+JP: その言葉……信じよう……。{n}{v0}…………。{n}我が暗闇を、取り除いてくれ……。{p}
+EN: I will... trust those words... {v0}...... Take away my darkness...{p}
+
+## MGT0F g0 s0079
+JP: ……さっきはすまなかった。{n}これを羽織るがいい。{p}{end}
+EN: ...Forgive me for earlier. Wear this.{p}{end}
+
+## MGT0F g0 s0080
+JP: {col:0}『スペシャルAの制服』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Special A Uniform"{col:-}!{p}{end}
+
+## MGT0F g0 s0081
+JP: 私を支えてくれる人間が、{n}お前でよかった……。{n}本当に感謝している。{p}{end}
+EN: I am glad the one who supports me is you... I am truly grateful.{p}{end}
+
+## MGT0F g0 s0082
+JP: 雹さん…………。{p}{end}
+EN: Hyo-san......{p}{end}
+
+## MGT0F g0 s0083
+JP: ドガッッッ!!!{p}{end}
+EN: Wham!!!{p}{end}
+
+## MGT0F g0 s0084
+JP: （し、しまった…………、{n}{sp}これじゃ動けない……）{p}
+EN: (D-dang it...... I can't move...){p}
+
+## MGT0F g0 s0085
+JP: 雹さん!!!{p}{end}
+EN: Hyo-san!!!{p}{end}
+
+## MGT0F g0 s0086
+JP: ん……わたしは……、{n}な……ここは……なぜ……。{n}……まさか、私はお前を…………?{p}
+EN: Hn... I... wh... where... why... ...Do not tell me I... did this to you......?{p}
+
+## MGT0F g0 s0087
+JP: また……あの頭痛が……、{n}クウウゥゥゥゥッッッッ!!{p}{end}
+EN: Again... that headache... Grrraaaahhh!!{p}{end}
+
+## MGT0F g0 s0088
+JP: （雹さんは苦しんだまま、{n}{sp}屋上から姿を消した……）{p}{end}
+EN: (Still in agony, Hyo-san vanished from the roof...){p}{end}
+
+## MGT0F g0 s0089
+JP: ピンポーーーン!{p}{end}
+EN: Ding-dooong!{p}{end}
+
+## MGT0F g0 s0090
+JP: ん?{sp}誰か来たみたいだ。{n}こんな時間に誰だろう……。{p}{end}
+EN: Hm? Sounds like someone's here. Who'd come at this hour...{p}{end}
+
+## MGT0F g0 s0091
+JP: ピンポン、ピンポン、ピンポーーーン!!{p}
+EN: Ding-dong, ding-dong, ding-dooong!!{p}
+
+## MGT0F g0 s0092
+JP: なんだ、なんだ?{n}急に激しくなったぞ!?{n}はいはーい、今行きま～す!!{p}
+EN: What the? Now it's frantic all of a sudden!? Coming, coming~!!{p}
+
+## MGT0F g0 s0093
+JP: はぁ～い………。{n}あれ?{sp}誰もいない……。{n}どうなってるんだ?{p}
+EN: Hel~lo...... Huh? Nobody's here... What's going on?{p}
+
+## MGT0F g0 s0094
+JP: 道路まで出てみたが、{n}やはり誰もいない。{n}なんだ、いたずらかな?{p}{end}
+EN: I went out to the street, but there's still nobody. What, a prank?{p}{end}
+
+## MGT0F g0 s0095
+JP: しかたない、部屋に戻ろう……。{p}
+EN: Oh well, back to my room...{p}
+
+## MGT0F g0 s0096
+JP: ……なんだったんだろうな、{n}さっきの……。{p}
+EN: ...What was that about, just now...{p}
+
+## MGT0F g0 s0097
+JP: ……ん?{sp}この包みは……、{n}さっきはこんなモノなかったよな?{p}{end}
+EN: ...Hm? This package... It wasn't here a minute ago, was it?{p}{end}
+
+## MGT0F g0 s0098
+JP: 開けてみよう……、{n}これは、『白い手袋』だ……。{n}こんなモノをつけている人といえば{n}あの人しか……。{p}{end}
+EN: Let's open it... It's... white gloves... There's only one person I know who wears these...{p}{end}
+
+## MGT0F g0 s0099
+JP: カタッ……。{p}{end}
+EN: Clack...{p}{end}
+
+## MGT0F g0 s0100
+JP: 窓の外で何か動いた!?{n}ん、いつの間にかカギが開いてる!{p}{end}
+EN: Something moved outside the window!? Huh, when did the window get unlocked!?{p}{end}
+
+## MGT0F g0 s0101
+JP: あの後ろ姿は……雹さん……。{n}そうか、わざわざ俺に{n}誕生日プレゼントを……。{p}{end}
+EN: That figure from behind... Hyo-san... I see, he went to all that trouble to bring me a birthday present...{p}{end}
+
+## MGT0F g0 s0102
+JP: 直接手渡すのが{n}恥ずかしかったのかな……?{n}それであんな手の込んだコトを……。{p}
+EN: Maybe he was too embarrassed to hand it over in person...? So he did all that elaborate stuff...{p}
+
+## MGT0F g0 s0103
+JP: 雹さん、ありがとうございます……。{p}
+EN: Thank you, Hyo-san...{p}
+
+## MGT0F g0 s0104
+JP: {col:0}『白い手袋』{col:-}を手に入れた!!{p}{end}
+EN: Got {col:0}"White Gloves"{col:-}!!{p}{end}
+
+## MGT0F g0 s0105
+JP: 雹さん、ありがとうございます……。{n}でも……俺の誕生日、{n}もう過ぎちゃったんです……。{p}
+EN: Thank you, Hyo-san... But... my birthday already passed...{p}
+
+## MGT0F g1 s0001
+JP: （個性的な制服の腰には、{n}{sp}一振りの剣が下げられている。{n}{sp}あれが目の前で抜かれた事は{n}{sp}一度や二度じゃない。）{p}{end}
+EN: (A sword hangs at the hip of his one-of-a-kind uniform. I've seen him draw it more than once or twice.){p}{end}
+
+## MGT0F g1 s0003
+JP: ううん……。{n}ちょっと、風を味わいに来ただけ。{p}
+EN: Nah... I just came up to feel the breeze.{p}
+
+## MGT0F g1 s0005
+JP: 雹クンこそ、{n}ここで何を見てたの?{p}
+EN: What about you, Hyo-kun? What were you looking at up here?{p}
+
+## MGT0F g1 s0008
+JP: ええ……いいけど。{p}
+EN: Sure... I guess.{p}
+
+## MGT0F g1 s0011
+JP: そうね……。{n}国家の礎となるエリートが、{n}より重要になっていくんじゃないかな?{p}
+EN: Let's see... Won't the elite who form the nation's foundation matter more and more?{p}
+
+## MGT0F g1 s0016
+JP: （ず、ずいぶんシリアスな{n}{sp}話になってきたわ。雹クンも、{n}{sp}私がいる事を忘れてるみたい。）{p}
+EN: (Th-this got really serious. Hyo-kun seems to have forgotten I'm even here.){p}
+
+## MGT0F g1 s0018
+JP: やっぱりお金はいるでしょ。{n}経済の発展なしに、{n}国家の発展は無理よ。{p}{end}
+EN: Money's a must, obviously. A nation can't grow without a growing economy.{p}{end}
+
+## MGT0F g1 s0020
+JP: !…………。{p}{end}
+EN: !......{p}{end}
+
+## MGT0F g1 s0022
+JP: （はぁ……うかつだったかナ……）{p}{end}
+EN: (Haah... Guess I was careless...){p}{end}
+
+## MGT0F g1 s0023
+JP: やっぱり……秩序かナ?{n}今の日本は、{n}どこかしら狂ってきているような{n}印象があるもの。{p}
+EN: Order, maybe...? I get the feeling Japan has gone a little crazy these days.{p}
+
+## MGT0F g1 s0027
+JP: （それだけ言い残して、{n}{sp}雹クンは去っていった。{n}{sp}近い将来って、{n}{sp}いったい何の事だろ……?）{p}{end}
+EN: (With just those words, Hyo-kun left. The near future...? What could he mean...?){p}{end}
+
+## MGT0F g1 s0028
+JP: （屋上に足を運んでみると、{n}{sp}やはりいつもの場所に雹クンはいた。）{p}
+EN: (I came up to the roof, and sure enough, Hyo-kun was in his usual spot.){p}
+
+## MGT0F g1 s0029
+JP: （珍しい事に、雹クンの方から{n}{sp}私に声をかけてきた。{n}{sp}まるで、私を待ちかねたかのように。）{p}{end}
+EN: (For once, Hyo-kun spoke to me first. It was as if he'd been waiting for me.){p}{end}
+
+## MGT0F g1 s0031
+JP: （今日の雹クンはいつもと少し違う……。{n}{sp}抜き身の剣以上の鋭さを、{n}{sp}雹クン自身からヒシヒシと感じる。）{p}{end}
+EN: (Hyo-kun is a little different today... I can feel an edge coming off him, sharper than a drawn sword.){p}{end}
+
+## MGT0F g1 s0034
+JP: （……結局、勝負のほとんどは{n}{sp}雹クンの圧勝だった。）{p}
+EN: (...In the end, Hyo-kun won almost every bout by a mile.){p}
+
+## MGT0F g1 s0035
+JP: （何度か剣を封じたが、{n}{sp}拳や脚を交えられると{n}{sp}私には成す術が無かった。）{p}{end}
+EN: (I blocked his sword a few times, but once he mixed in fists and kicks, I was helpless.){p}{end}
+
+## MGT0F g1 s0037
+JP: 全力です{n}まだまだこれから{n}次を見てよ{p}
+EN: That's my best{n}I'm just getting started{n}Just watch next time{p}
+
+## MGT0F g1 s0038
+JP: 今の私には……、{n}これが精一杯よ…………。{p}
+EN: Right now... this is all I've got......{p}
+
+## MGT0F g1 s0040
+JP: （はぁ……。{n}{sp}もっと私に力があれば……）{p}
+EN: (Haah... If only I were stronger...){p}
+
+## MGT0F g1 s0041
+JP: まだまだ!{n}負け続けじゃ終われないわ!!{p}{end}
+EN: Not yet! I'm not ending this on a losing streak!!{p}{end}
+
+## MGT0F g1 s0044
+JP: （最後の一戦で雹クンを止めた動きは{n}{sp}非常によかったと、{n}{sp}珍しく雹クンに褒められた。）{p}{end}
+EN: (For once, Hyo-kun praised me. He said the moves I used to stop him in the last bout were very good.){p}{end}
+
+## MGT0F g1 s0045
+JP: （何かの役に立つだろうし、{n}{sp}しっかり覚えておこう……）{p}{end}
+EN: (That might come in handy. I'd better remember it...){p}{end}
+
+## MGT0F g1 s0046
+JP: （確か……、{n}{sp}「足」を止め……、{n}{sp}「剣」を落とし……、{n}{sp}「首筋」を狙ったんだったナ……）{p}
+EN: (Let's see... I stopped his "legs"... knocked away his "sword"... and went for his "neck"...){p}
+
+## MGT0F g1 s0047
+JP: この次は、遅れをとらないわ!{n}必ず、勝ってみせる!{p}
+EN: Next time, I won't fall behind! I'll win, I swear!{p}
+
+## MGT0F g1 s0048
+JP: 甘い!{n}今の戦いで命を落とせば、{n}次など永遠に訪れないのだぞ!!{p}{end}
+EN: Naive! Had you lost your life in that fight, there would never be a next time!!{p}{end}
+
+## MGT0F g1 s0051
+JP: （はぁ……私が甘かったんだな……）{p}
+EN: (Haah... I was naive...){p}
+
+## MGT0F g1 s0052
+JP: （いつものように屋上に来てみると、{n}{sp}いつもの場所に雹クンがいた。{n}{sp}普段どおりの光景だ。）{p}{end}
+EN: (I came up to the roof as always, and Hyo-kun was in his usual spot. The same old scene.){p}{end}
+
+## MGT0F g1 s0053
+JP: （ただ一つ。{n}{sp}雹クンが頭を抱え、獣のような{n}{sp}うめき声を発していることを除けば。）{p}{end}
+EN: (Except for one thing. Hyo-kun was clutching his head and letting out a groan like a wild beast.){p}{end}
+
+## MGT0F g1 s0054
+JP: 雹クン!!{n}大丈夫…………!{p}{end}
+EN: Hyo-kun!! Are you o......!{p}{end}
+
+## MGT0F g1 s0056
+JP: （声をかけられた雹クンは、{n}{sp}振り向くよりも前に{n}{sp}腰から刀を振りぬいた!）{p}{end}
+EN: (Before he even turned around, Hyo-kun drew the sword at his hip and swung!){p}{end}
+
+## MGT0F g1 s0057
+JP: （いつもと違う加減の無い一撃は、{n}{sp}間一髪というところで、{n}{sp}私の制服を切り裂いただけで済んだ。）{p}
+EN: (The strike held nothing back, unlike usual. It missed me by a hair and only slashed my uniform.){p}
+
+## MGT0F g1 s0059
+JP: （まずい、正気じゃないわ!{n}{sp}このままじゃ私も危ないし、{n}{sp}他に怪我人が出るかもしれない。{n}{sp}何とか止めないと!）{p}
+EN: (This is bad, he's lost his mind! At this rate I'm in danger, and others might get hurt too. I've gotta stop him somehow!){p}
+
+## MGT0F g1 s0061
+JP: いってみる!{n}膝の関節に蹴りを!!!{n}……よし、雹クンの動きが止まった!{p}{end}
+EN: Here goes! A kick to the knee joint!!! ...All right, Hyo-kun's stopped moving!{p}{end}
+
+## MGT0F g1 s0063
+JP: 手首に手刀を叩き込んで……、{n}よし!{n}剣を落とした!!{p}
+EN: A knife-hand to the wrist... and, yes! He dropped the sword!!{p}
+
+## MGT0F g1 s0065
+JP: 最後は首!{n}これで正気を取り戻して!!{p}
+EN: Last is the neck! Please, come back to your senses!!{p}
+
+## MGT0F g1 s0066
+JP: （首筋に肘を落とした瞬間、{n}{sp}雹クンの動きは止まった。{n}{sp}そして操り人形の糸が切れたように、{n}{sp}力なく地面にへたり込んだ……）{p}
+EN: (The moment I brought my elbow down on his neck, Hyo-kun stopped. Then, like a puppet with its strings cut, he sank limply to the ground...){p}
+
+## MGT0F g1 s0069
+JP: 気がついた?{sp}雹クン……。{p}
+EN: You're awake, Hyo-kun...?{p}
+
+## MGT0F g1 s0074
+JP: そうはいかないわ!!{n}必ず雹クンを助けてみせる。{n}だから……だから側にいさせて!{p}{end}
+EN: No way!! I'll save you, Hyo-kun, I swear. So... so let me stay by your side!{p}{end}
+
+## MGT0F g1 s0076
+JP: 信じて。{n}そして私にだけは、悩みや苦しみを{n}全て打ち明けて!{p}{end}
+EN: Trust me. And tell me, and only me, all your worries and pain!{p}{end}
+
+## MGT0F g1 s0082
+JP: 雹クン…………。{p}{end}
+EN: Hyo-kun......{p}{end}
+
+## MGT0F g1 s0085
+JP: 雹クン!!!{p}{end}
+EN: Hyo-kun!!!{p}{end}
+
+## MGT0F g1 s0088
+JP: （雹クンは苦しんだまま、{n}{sp}屋上から姿を消した……）{p}{end}
+EN: (Still in agony, Hyo-kun vanished from the roof...){p}{end}
+
+## MGT0F g1 s0090
+JP: ん?{sp}誰か来たみたいね。{n}こんな時間に誰だろう……。{p}{end}
+EN: Hm? Sounds like someone's here. Who'd come at this hour...{p}{end}
+
+## MGT0F g1 s0092
+JP: な、なによ!?{n}急に激しくなったわ!{n}はいはーい、今行きま～す!!{p}
+EN: Wh-what!? Now it's frantic all of a sudden! Coming, coming~!!{p}
+
+## MGT0F g1 s0093
+JP: はぁ～い………。{n}あれ?{sp}誰もいない……。{n}どうなってるの?{p}{end}
+EN: Hel~lo...... Huh? Nobody's here... What's going on?{p}{end}
+
+## MGT0F g1 s0094
+JP: 道路まで出てみたけど、{n}やはり誰もいない。{n}なんだろう、いたずらかな?{p}
+EN: I went out to the street, but there's still nobody. Huh, a prank?{p}
+
+## MGT0F g1 s0095
+JP: しかたない、部屋に戻ろっと……。{p}{end}
+EN: Oh well, back to my room...{p}{end}
+
+## MGT0F g1 s0096
+JP: ……なんだったのかな、{n}さっきの……。{p}
+EN: ...What was that about, just now...{p}
+
+## MGT0F g1 s0097
+JP: ……アレ?{sp}この包みは……、{n}さっきはこんなモノなかったよネ?{p}
+EN: ...Huh? This package... It wasn't here a minute ago, was it?{p}
+
+## MGT0F g1 s0098
+JP: 開けてみよう……、{n}これは、『白い手袋』……。{n}こんなモノをつけている人といえば{n}あの人しか……。{p}
+EN: Let's open it... It's... white gloves... There's only one person I know who wears these...{p}
+
+## MGT0F g1 s0101
+JP: あの後ろ姿は……雹クン……。{n}そうか、わざわざ私に{n}誕生日プレゼントを……。{p}{end}
+EN: That figure from behind... Hyo-kun... I see, he went to all that trouble to bring me a birthday present...{p}{end}
+
+## MGT0F g1 s0103
+JP: 雹クン、ありがとう……。{p}{end}
+EN: Thank you, Hyo-kun...{p}{end}
+
+## MGT0F g1 s0105
+JP: 雹クン、ありがとう……。{n}でも……私の誕生日、{n}もう過ぎちゃったんです……。{p}{end}
+EN: Thank you, Hyo-kun... But... my birthday already passed...{p}{end}
+

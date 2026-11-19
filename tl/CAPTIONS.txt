@@ -1,0 +1,146 @@
+JP: ヨットハーバー
+EN: Yacht Harbor
+
+JP: 教室
+EN: Classroom
+
+JP: 体育館
+EN: Gym
+
+JP: グラウンド
+EN: Field
+
+JP: 保健室
+EN: Infirmary
+
+JP: 屋上
+EN: Roof
+
+JP: 校門前
+EN: School Gate
+
+JP: 2F廊下
+EN: 2F Hallway
+
+JP: 1F廊下
+EN: 1F Hallway
+
+JP: 渡り廊下
+EN: Walkway
+
+JP: 廊下
+EN: Hallway
+
+JP: 正門前
+EN: Main Gate
+
+JP: 部室棟
+EN: Clubhouse
+
+JP: プール
+EN: Pool
+
+JP: プールサイド
+EN: Poolside
+
+JP: 相撲部部室
+EN: Sumo Club Room
+
+JP: 下駄箱前
+EN: Shoe Lockers
+
+JP: 階段
+EN: Stairs
+
+JP: ステージ
+EN: Stage
+
+JP: 中庭
+EN: Courtyard
+
+JP: 喫茶店
+EN: Cafe
+
+JP: 商店街
+EN: Shopping District
+
+JP: 自宅
+EN: Home
+
+JP: 住宅街
+EN: Neighborhood
+
+JP: 公園
+EN: Park
+
+JP: ホテル前
+EN: Hotel Entrance
+
+JP: ビーチ
+EN: Beach
+
+JP: 海の家
+EN: Beach Hut
+
+JP: パラソルビーチ
+EN: Parasol Beach
+
+JP: 部屋
+EN: Room
+
+JP: 繁華街
+EN: Downtown
+
+JP: 広場
+EN: Plaza
+
+JP: 乗り場前
+EN: Boarding Area
+
+JP: 観覧車
+EN: Ferris Wheel
+
+JP: 池
+EN: Pond
+
+JP: パーティ会場
+EN: Party Hall
+
+JP: 根性神社
+EN: Guts Shrine
+
+JP: 恋愛神社
+EN: Love Shrine
+
+JP: 河原
+EN: Riverbank
+
+JP: 街
+EN: Town
+
+JP: 縁日
+EN: Fair
+
+JP: パーティ会場中庭
+EN: Party Courtyard
+
+JP: ゲームセンター
+EN: Arcade
+
+JP: デパート
+EN: Department Store
+
+JP: ロビー
+EN: Lobby
+
+JP: 遊戯場
+EN: Amusement Hall
+
+JP: 入場口
+EN: Entrance
+
+JP: 中央広場
+EN: Central Plaza
+
+JP: 高台
+EN: Hilltop

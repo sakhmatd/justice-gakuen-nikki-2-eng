@@ -1,0 +1,740 @@
+## MGT07 g0 s0000
+JP: 放課後。{n}ちょっと買い物に、繁華街に来てみたが、{n}この辺はあいかわらず、人出が多いなぁ。{p}{end}
+EN: After school. I came downtown to do a little shopping, but it's as crowded around here as ever.{p}{end}
+
+## MGT07 g0 s0001
+JP: 「ハ～イ!{sp}{v3:7}!{n}{sp}ユーも買い物ですか?」{p}{end}
+EN: "Hiii! {v3:7}! Are you shopping too?"{p}{end}
+
+## MGT07 g0 s0002
+JP: お、ティファニーじゃないか。{n}ティファニーも買い物?{p}{end}
+EN: Oh, hey, Tiffany. You're shopping too?{p}{end}
+
+## MGT07 g0 s0003
+JP: イエ～ス!!{n}今日はミーのパパの{n}バースデープレゼントを{n}買いに来たね!{p}{end}
+EN: Yeees!! Today I came to buy a birthday present for my papa!{p}{end}
+
+## MGT07 g0 s0004
+JP: ティファニーのパパって……、{n}たしか大企業の会長だっけ?{n}アメリカにいるんだよね。{p}
+EN: Your papa, Tiffany... he's the chairman of some big company, right? He's in America, isn't he?{p}
+
+## MGT07 g0 s0005
+JP: そうデース。{n}ミーはニッポンに来てからも、{n}バースデープレゼントは{n}欠かしたことがないデース。{p}
+EN: That's right. Even since I came to Japan, I have never missed his birthday present.{p}
+
+## MGT07 g0 s0006
+JP: へぇ、親孝行なんだね、{n}ティファニー。{p}
+EN: Wow, you're a good daughter, Tiffany.{p}
+
+## MGT07 g0 s0007
+JP: フフッ、サンキュね、{n}{v3:7}。{p}{end}
+EN: Hehe, thank you, {v3:7}.{p}{end}
+
+## MGT07 g0 s0008
+JP: ところで、{v3:7}。{n}プレゼント、選ぶのに{n}何かアイデアないですか?{n}ちょっと、悩んでたよ。{p}{end}
+EN: By the way, {v3:7}. Do you have any ideas for a present? I was a little stuck.{p}{end}
+
+## MGT07 g0 s0009
+JP: ああ、それくらい、{n}おやすいご用さ。{n}会長さんのお気に召すかどうかは{n}わからないけどね。{p}{end}
+EN: Sure, that's easy. Can't promise the chairman will like it, though.{p}{end}
+
+## MGT07 g0 s0010
+JP: サンキューです、{v3:7}{col:5}♥{col:-}{n}何がイーですかネー?{p}{end}
+EN: Thank you, {v3:7}{col:5}♥{col:-} What would be good?{p}{end}
+
+## MGT07 g0 s0011
+JP: う～ん、年輩の男性のプレゼントって、{n}難しいんだよなぁ……。{n}しかも、相手は外人で、{n}お金持ちだからなぁ。{p}
+EN: Hmm, presents for older men are tough... And he's a foreigner, and rich on top of that.{p}
+
+## MGT07 g0 s0012
+JP: ミーの予算はそれほど、高くないね!{n}安いモノの方がイーよ。{p}
+EN: My budget is not so big! Something cheap is better.{p}
+
+## MGT07 g0 s0013
+JP: それじゃ……。{p}
+EN: Well then...{p}
+
+## MGT07 g0 s0014
+JP: セーターとかカジュアルウェア{n}日本酒とかお酒{n}ネクタイとかアクセサリー{p}
+EN: A sweater or casual clothes{n}Sake or some other drink{n}A tie or accessories{p}
+
+## MGT07 g0 s0015
+JP: そうだな、セーターとか{n}カジュアルウェアはどう?{n}値段も手頃だし。{p}
+EN: Let's see, how about a sweater or some casual clothes? They're not too pricey.{p}
+
+## MGT07 g0 s0016
+JP: {v3:7}、ソーリーね。{n}ミーのパパの服はキングサイズね。{n}ニッポンにはあんまり売ってないよ。{p}{end}
+EN: Sorry, {v3:7}. My papa's clothes are king size. Japan doesn't sell many.{p}{end}
+
+## MGT07 g0 s0017
+JP: う……そうなんだ。{n}それじゃ、しかたないな。{p}{end}
+EN: Oh... I see. Well, can't be helped.{p}{end}
+
+## MGT07 g0 s0018
+JP: ううん、イってなかったミーが悪いね。{n}ゴメンね、つきあわせて。{n}ミーももうちょっと考えてみまーす。{p}
+EN: No, it's my fault for not telling you. Sorry for dragging you along. I will think about it a little more.{p}
+
+## MGT07 g0 s0019
+JP: 結局ティファニーは、{n}自分でプレゼントを決めた……。{n}う～ん、あんまり役に立てなかったなぁ。{p}{end}
+EN: In the end, Tiffany picked the present herself... Hmm, I wasn't much help.{p}{end}
+
+## MGT07 g0 s0020
+JP: そうだな、日本酒とか{n}お酒はどうだろう。{n}日本的なものだし、{n}喜ばれるんじゃないかな。{p}
+EN: Let's see, how about sake or something? It's very Japanese, so I bet he'd like it.{p}
+
+## MGT07 g0 s0021
+JP: {v3:7}、ソーリーね。{n}ミーのパパ、ドクターに{n}お酒止められてまーす……。{p}
+EN: Sorry, {v3:7}. My papa's doctor told him to stop drinking...{p}
+
+## MGT07 g0 s0022
+JP: う……そうなんだ。{n}それじゃ、しかたないね。{p}{end}
+EN: Oh... I see. Well, can't be helped.{p}{end}
+
+## MGT07 g0 s0025
+JP: やっぱり、スタンダードに{n}ネクタイとかアクセサリーが{n}いいんじゃないかな。{n}いくつあっても困らないし。{p}
+EN: I'd go with a classic, like a tie or accessories. You can never have too many.{p}
+
+## MGT07 g0 s0026
+JP: オー!{sp}なるほどネ!{n}GOOD{sp}IDEA!{n}さっそく買いにいきましょー!!{p}
+EN: Ooh! I see! GOOD IDEA! Let's go buy it right away!!{p}
+
+## MGT07 g0 s0027
+JP: あ、見て見て、{v3:7}、{n}あのクマさんのネクタイ、{n}カワイイでーす!{n}あれにしましょー!!{p}
+EN: Oh, look, look, {v3:7}! That teddy bear tie is so cute! Let's get that one!!{p}
+
+## MGT07 g0 s0028
+JP: え!?{sp}いくらなんでも、{n}大企業の会長がクマのネクタイなんて……{n}あ、ティファニー!{n}……レジに持ってっちゃった。{p}
+EN: Huh!? Come on, the chairman of a big company in a bear tie... Ah, Tiffany! ...She took it to the register.{p}
+
+## MGT07 g0 s0029
+JP: {v3:7}、サンキュね。{n}おかげで、いいプレゼント、{n}買えました!{n}アリガト{col:5}♥{col:-}{p}{end}
+EN: Thank you, {v3:7}. Thanks to you, I bought a nice present! Thanks so much{col:5}♥{col:-}{p}{end}
+
+## MGT07 g0 s0030
+JP: ど、どういたしまして……。{n}（なんだか気がひけるなぁ……）{p}
+EN: Y-you're welcome... (Somehow I feel kinda guilty...){p}
+
+## MGT07 g0 s0031
+JP: 昼休み。ちょっと用事を済ましていたら、{n}すっかり遅くなってしまった。{n}今からじゃ、カツサンド、{n}売り切れてるだろうなぁ……。{p}{end}
+EN: Lunch break. I was taking care of something and now it's really late. The cutlet sandwiches are probably sold out by now...{p}{end}
+
+## MGT07 g0 s0032
+JP: とりあえず、急いでいってみよう!{n}ダーッシュ!{p}
+EN: Well, I'll hurry over anyway! Dash!{p}
+
+## MGT07 g0 s0033
+JP: 「キャッ!」{p}{end}
+EN: "Eek!"{p}{end}
+
+## MGT07 g0 s0034
+JP: ボヨン!{p}{end}
+EN: Boing!{p}{end}
+
+## MGT07 g0 s0035
+JP: イタタ……何するデスカ!{p}{end}
+EN: Ow ow... What are you doing!?{p}{end}
+
+## MGT07 g0 s0036
+JP: あ、ティファニーか。{n}ゴ、ゴメン、{n}急いでたもんで、つい……。{p}
+EN: Oh, Tiffany. S-sorry, I was in a hurry and...{p}
+
+## MGT07 g0 s0037
+JP: {v3:7}……{n}いつまで触ってるデスカ?{p}
+EN: {v3:7}... How long are you going to keep touching?{p}
+
+## MGT07 g0 s0038
+JP: え?{n}……って、うわーーっ!{n}ご、ご、ごめん!!{p}{end}
+EN: Huh? ...Wh-whoa! S-s-sorry!!{p}{end}
+
+## MGT07 g0 s0039
+JP: ……クスン……ヒドイです。{n}{v3:7}が、こんなことする人{n}だったなんて……。{p}{end}
+EN: ...Sniff... That's mean. I never knew {v3:7} was that kind of person...{p}{end}
+
+## MGT07 g0 s0040
+JP: ご、誤解だよ。{n}これは偶然が重なり合った{n}単なる事故で……。{p}{end}
+EN: Y-you've got it wrong. It was just an accident, a bunch of coincidences piling up...{p}{end}
+
+## MGT07 g0 s0041
+JP: ……セキニンとってくれますカ?{p}
+EN: ...Will you take responsibility?{p}
+
+## MGT07 g0 s0042
+JP: せ、せ、責任!?{n}（ど、ど、どうしよう……）{p}{end}
+EN: R-r-responsibility!? (Wh-wh-what do I do...?){p}{end}
+
+## MGT07 g0 s0043
+JP: よーし、俺も男だ!{n}そんなこと言われたって……{p}
+EN: All right, I'll man up!{n}You can't just spring that on me...{p}
+
+## MGT07 g0 s0044
+JP: よーし、俺も男だ!{n}どんなことでもいってくれ!{p}
+EN: All right, I'll man up! Ask me anything!{p}
+
+## MGT07 g0 s0045
+JP: ……ホントですか?{p}
+EN: ...Really?{p}
+
+## MGT07 g0 s0046
+JP: う、うん……。{n}できれば、俺にできる範囲で……。{p}{end}
+EN: Y-yeah... Within reason, if possible...{p}{end}
+
+## MGT07 g0 s0047
+JP: じゃあネ……、{n}今日、ショッピングにつきあうコト!!{p}{end}
+EN: Then... today, you go shopping with me!!{p}{end}
+
+## MGT07 g0 s0048
+JP: へ?{n}そんなことでいいの?{p}
+EN: Huh? That's all?{p}
+
+## MGT07 g0 s0049
+JP: そのかわり、荷物持ちしてもらいマス!{n}覚悟しておいてネ!{p}{end}
+EN: But you have to carry the bags! Be ready!{p}{end}
+
+## MGT07 g0 s0050
+JP: ……わかったよ。{n}それくらい、まかせといて!!{p}
+EN: ...Got it. Leave that to me!!{p}
+
+## MGT07 g0 s0051
+JP: オーケー!{n}じゃあ、放課後に校門前で待ち合わせね!{n}……それじゃ、早く行かないと、{n}お昼ご飯、食べられないヨ!{p}
+EN: OK! Then let's meet in front of the school gate after school! ...Now, if you don't hurry, you won't get any lunch!{p}
+
+## MGT07 g0 s0052
+JP: あっ、そうだった!{n}それじゃ、急がなきゃ。{n}うん、じゃ、放課後にな!!{p}
+EN: Oh, right! I'd better hurry. OK, see you after school!!{p}
+
+## MGT07 g0 s0053
+JP: （この日は、山ほど買い物に{n}{sp}つきあわされた……。{n}{sp}荷物は重かったけど、楽しかったな……）{p}{end}
+EN: (That day she dragged me through a mountain of shopping... The bags were heavy, but it was fun...){p}{end}
+
+## MGT07 g0 s0054
+JP: きゅ、急にそんなこと言われたって……、{n}どうすればいいか、わかんないよ。{p}{end}
+EN: Y-you can't just spring that on me... I don't know what to do.{p}{end}
+
+## MGT07 g0 s0055
+JP: ヒドイよ、{v3:7}……。{n}オトメをキズモノにして、{n}ムセキニンに逃げる気か?{p}{end}
+EN: That's mean, {v3:7}... You ruin a maiden and then you run away irresponsibly?{p}{end}
+
+## MGT07 g0 s0056
+JP: い、いやそういうわけじゃ……。{p}
+EN: N-no, it's not that...{p}
+
+## MGT07 g0 s0057
+JP: ……{v3:7}……{n}ミウシナッタよ……じゃあね!{p}
+EN: ...{v3:7}... I overlooked you... Goodbye!{p}
+
+## MGT07 g0 s0058
+JP: それは「見そこなった」……って、{n}ティファニー?{n}ティファニーーー!{p}{end}
+EN: You mean "misjudged"... wait, Tiffany? Tiffanyyy!{p}{end}
+
+## MGT07 g0 s0059
+JP: （うう……キラわれちゃったかなぁ……{n}{sp}今度もう一度謝っておこう……）{p}
+EN: (Ugh... I think she hates me now... I'll apologize again next time...){p}
+
+## MGT07 g0 s0060
+JP: 放課後……。{n}ふぅ……やっと帰れるな。{p}
+EN: After school... Phew... I can finally go home.{p}
+
+## MGT07 g0 s0061
+JP: ……あれ、ティファニーじゃないか。{n}あんなトコロで何やってるんだろ?{p}{end}
+EN: ...Hey, isn't that Tiffany? What's she doing over there?{p}{end}
+
+## MGT07 g0 s0063
+JP: アッ、{v3:7}!{n}これを見てくだサ～イ。{p}{end}
+EN: Ah, {v3:7}! Please look at thiiis.{p}{end}
+
+## MGT07 g0 s0064
+JP: {col:3}子犬{col:-}{n}「キャンキャン!!」{p}
+EN: {col:3}Puppy{col:-}{n}"Yip yip!!"{p}
+
+## MGT07 g0 s0065
+JP: わっ、子犬じゃないか。{n}いったいどうしたの?{p}{end}
+EN: Whoa, a puppy. What happened?{p}{end}
+
+## MGT07 g0 s0066
+JP: そこの箱の中で、鳴いてました。{n}おなか空かせてるみたいデ～ス。{p}
+EN: It was crying in that box there. It looks hungryyy.{p}
+
+## MGT07 g0 s0067
+JP: 捨て犬か……。{n}かわいそうなコトするよなぁ。{p}{end}
+EN: Abandoned, huh... What a cruel thing to do.{p}{end}
+
+## MGT07 g0 s0068
+JP: このコ、ひとりぼっちデスか?{n}それじゃあ、ミーと同じね……。{p}{end}
+EN: This little one is all alone? Then it is the same as me...{p}{end}
+
+## MGT07 g0 s0069
+JP: （ティファニー……。{n}{sp}どうすればいいだろう?）{p}{end}
+EN: (Tiffany... What should I do?){p}{end}
+
+## MGT07 g0 s0070
+JP: 飼ってくれる人を探す{n}ティファニーに飼うようにすすめる{n}あきらめる{p}
+EN: Find someone to adopt it{n}Tell Tiffany to keep it{n}Give up{p}
+
+## MGT07 g0 s0071
+JP: よし!{sp}それじゃ、今から俺達で、{n}飼ってくれる人を探しに行こう!{p}{end}
+EN: All right! Then let's go find someone to take it, right now!{p}{end}
+
+## MGT07 g0 s0072
+JP: それがいいネ!{n}そうと決まれば「ゼニはいそげ」ネ!!{p}{end}
+EN: Good idea! Then, as they say, "strike while the money is hot"!!{p}{end}
+
+## MGT07 g0 s0073
+JP: ティファニー……、{n}それは「善は急げ」だよ……。{p}{end}
+EN: Tiffany... it's "strike while the iron is hot"...{p}{end}
+
+## MGT07 g0 s0074
+JP: ……なかなか見つからないネ……。{p}{end}
+EN: ...We can't find anyone...{p}{end}
+
+## MGT07 g0 s0076
+JP: {v3:7}……{n}このコ、どうしまショウ?{p}
+EN: {v3:7}... What should we do with this little one?{p}
+
+## MGT07 g0 s0077
+JP: 明日、学校で探してみよう{n}……俺が飼うよ{p}{end}
+EN: Ask around at school tomorrow{n}...I'll keep it{p}{end}
+
+## MGT07 g0 s0078
+JP: じゃあ……明日学校で{n}みんなに聞いてみよう。{n}今日は俺があずかるよ。{p}{end}
+EN: Then... let's ask everyone at school tomorrow. I'll look after it tonight.{p}{end}
+
+## MGT07 g0 s0079
+JP: そうネ……、それがベストかもネ……。{p}{end}
+EN: Yes... Maybe that is best...{p}{end}
+
+## MGT07 g0 s0080
+JP: それじゃこのコのコト、よろしくネ。{n}子犬ちゃん、いい飼い主が{n}見つかるといいネ{col:5}♥{col:-}{n}じゃ、また明日、学校で会いまショー!{p}
+EN: Then please take care of this little one. Little puppy, I hope you find a nice owner{col:5}♥{col:-} See you at school tomorrow!{p}
+
+## MGT07 g0 s0081
+JP: （次の日、学校でなんとか{n}{sp}飼ってくれる人が見つかったが、{n}{sp}ティファニーはちょっと{n}{sp}淋しそうだったな……）{p}
+EN: (The next day we managed to find someone at school to take it, but Tiffany seemed a little lonely...){p}
+
+## MGT07 g0 s0082
+JP: ……それじゃ、{n}コイツは俺が飼うよ。{p}{end}
+EN: ...Then I'll keep this little guy.{p}{end}
+
+## MGT07 g0 s0083
+JP: リアリー?{n}ホントですか?{p}
+EN: Really? You mean it?{p}
+
+## MGT07 g0 s0084
+JP: うん……。{n}ホントはウチでは飼えないんだけど、{n}両親を説得してみるよ。{n}それで、いいだろ?{p}
+EN: Yeah... We're not really allowed pets at home, but I'll try to talk my parents into it. That OK?{p}
+
+## MGT07 g0 s0085
+JP: アリガト、{v3:7}!{n}「チュッ{col:5}♥{col:-}」{p}
+EN: Thank you, {v3:7}! "Smooch{col:5}♥{col:-}"{p}
+
+## MGT07 g0 s0086
+JP: （う、うわっ……熱烈なキスだ……）{p}
+EN: (Wh-whoa... What a passionate kiss...){p}
+
+## MGT07 g0 s0087
+JP: よかったね、子犬ちゃん……。{n}これで淋しくないヨ……。{p}
+EN: Lucky you, puppy... Now you will not be lonely...{p}
+
+## MGT07 g0 s0088
+JP: （ティファニー……。{n}{sp}きっと家族を離れて一人暮らしを{n}{sp}している自分と、捨てられた子犬を{n}{sp}ダブらせていたんだな……）{p}{end}
+EN: (Tiffany... She must have seen herself in that abandoned puppy, living alone away from her family...){p}{end}
+
+## MGT07 g0 s0089
+JP: ティファニー……。{n}何なら、キミもウチに来るかい?{p}
+EN: Tiffany... If you want, you could come live at my place too.{p}
+
+## MGT07 g0 s0090
+JP: ……!!{n}もう、{v3:7}、何いってるデスか!{n}からかわないでくだサイ!{p}
+EN: ...!! Geez, {v3:7}, what are you saying! Do not tease me!{p}
+
+## MGT07 g0 s0091
+JP: （あながち、冗談でも{n}{sp}なかったんだけどな……）{p}{end}
+EN: (I wasn't entirely joking, though...){p}{end}
+
+## MGT07 g0 s0092
+JP: {v3:7}……{n}アリガトね……。{p}
+EN: {v3:7}... Thank you...{p}
+
+## MGT07 g0 s0093
+JP: {col:0}『ティファニーの子犬』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Tiffany's Puppy"{col:-}!{p}{end}
+
+## MGT07 g0 s0094
+JP: う～ん、ティファニーが{n}飼ってあげたらどう?{n}コイツも喜ぶと思うよ。{p}{end}
+EN: Hmm, why don't you keep it, Tiffany? I think it'd like that too.{p}{end}
+
+## MGT07 g0 s0095
+JP: ……でも、ミーのマンション、{n}ペット飼っちゃダメなんデス……。{p}
+EN: ...But my apartment building does not allow pets...{p}
+
+## MGT07 g0 s0096
+JP: そうなんだ……。{n}無責任なコト、いっちゃったな……。{p}{end}
+EN: I see... That was irresponsible of me...{p}{end}
+
+## MGT07 g0 s0097
+JP: ミー、このコ飼ってくれる人、{n}探しに行ってきマス!{p}
+EN: I will go find someone to keep this little one!{p}
+
+## MGT07 g0 s0098
+JP: えっ、あ、ちょっと!{n}……いっちゃった。{p}{end}
+EN: Huh, oh, wait! ...She's gone.{p}{end}
+
+## MGT07 g0 s0099
+JP: ティファニーも家族と離れて{n}一人暮らしだもんな……。{n}あの子犬のこと、{n}放っておけなかったんだろう……。{p}{end}
+EN: Tiffany lives alone, away from her family, too... She probably couldn't just leave that puppy...{p}{end}
+
+## MGT07 g0 s0100
+JP: 残念だけど、どうしようもないよ。{n}みんなそれぞれ事情があるんだし。{p}
+EN: Too bad, but there's nothing we can do. Everyone has their own situation.{p}
+
+## MGT07 g0 s0101
+JP: ……{v3:7}、冷たいネ……。{n}このコに、ここで独りで{n}飢え死にしろっていうカ?{p}
+EN: ...{v3:7}, you are cold... You want this little one to starve here all alone?{p}
+
+## MGT07 g0 s0102
+JP: いや、そんなつもりじゃ……。{p}{end}
+EN: No, that's not what I meant...{p}{end}
+
+## MGT07 g0 s0103
+JP: ミーのマンション、{n}ペットは飼えないね……、{n}ゴメンね、子犬ちゃん……。{p}{end}
+EN: My apartment does not allow pets... I'm sorry, little puppy...{p}{end}
+
+## MGT07 g0 s0104
+JP: ティファニー……。{p}
+EN: Tiffany...{p}
+
+## MGT07 g0 s0105
+JP: オーケー、ミーだけで{n}このコの飼い主探してみせマス!{p}{end}
+EN: OK, then I will find this little one an owner all by myself!{p}{end}
+
+## MGT07 g0 s0106
+JP: あっ、ティファニー……。{n}……いっちゃった。{n}そんなつもりじゃなかったのになぁ……。{p}{end}
+EN: Ah, Tiffany... ...She's gone. That's not what I meant...{p}{end}
+
+## MGT07 g0 s0108
+JP: ん!?{n}誰か来たな。誰だろう?{p}
+EN: Hm!? Someone's here. Who could it be?{p}
+
+## MGT07 g0 s0109
+JP: ハァイ、{v3:7}。{n}ハッピーバースデーーー!!{p}
+EN: Hiii, {v3:7}. Happy birthdaaay!!{p}
+
+## MGT07 g0 s0110
+JP: ティ、ティファニーじゃないか!?{n}ハッピーバースデーって……{n}俺の?{p}{end}
+EN: T-Tiffany!? Happy birthday... to me?{p}{end}
+
+## MGT07 g0 s0111
+JP: イエース!!{n}ユーのバースデーね。{p}
+EN: Yeees!! It's your birthday.{p}
+
+## MGT07 g0 s0112
+JP: ティファニー、{n}俺の誕生日、覚えててくれたんだ……{n}何かうれしいな。{p}{end}
+EN: Tiffany, you remembered my birthday... That makes me kinda happy.{p}{end}
+
+## MGT07 g0 s0113
+JP: もちろんデース!{n}はい、これプレゼント、フォーユー!!{p}
+EN: Of course! Here, a present for you!!{p}
+
+## MGT07 g0 s0114
+JP: あ、ありがとう……。{n}開けてみてもいい?{p}{end}
+EN: Th-thanks... Can I open it?{p}{end}
+
+## MGT07 g0 s0115
+JP: もちろんデース。{n}プレゼントは、本人の目の前で{n}開けるのがレーギね!{p}{end}
+EN: Of course. Opening a present in front of the giver is good manners!{p}{end}
+
+## MGT07 g0 s0116
+JP: じゃ、遠慮なく……。{n}……お、これはバンダナだね。{n}しかもこれは……{n}ティファニーとおそろいのデザインだ。{p}
+EN: Don't mind if I do, then... ...Oh, it's a bandana. And this... it's the same design as Tiffany's.{p}
+
+## MGT07 g0 s0117
+JP: そうで～す。{n}ステイツの象徴、星のマークね!{p}{end}
+EN: That's riiight. The star, symbol of the States!{p}{end}
+
+## MGT07 g0 s0118
+JP: ティファニー……、{n}ありがとう!!{p}
+EN: Tiffany... thanks!!{p}
+
+## MGT07 g0 s0119
+JP: ユー{sp}アー{sp}ウェルカム!!{p}
+EN: You're welcome!!{p}
+
+## MGT07 g0 s0120
+JP: じゃ、ミーは帰るね!{n}グッナイ!{sp}{v3:7}{col:5}♥{col:-}{n}……チュッ{col:5}♥{col:-}{p}
+EN: Now I am going home! Good night, {v3:7}{col:5}♥{col:-} ...Smooch{col:5}♥{col:-}{p}
+
+## MGT07 g0 s0121
+JP: ……キスされちゃった……!{n}ティファニーには挨拶代わりかも{n}しれないけど、プレゼントより{n}こっちの方がショッキングだ……!!{p}{end}
+EN: ...She kissed me...! For Tiffany it might just be a greeting, but that was more of a shock than the present...!!{p}{end}
+
+## MGT07 g0 s0122
+JP: {col:0}『星印のバンダナ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Star Bandana"{col:-}!{p}{end}
+
+## MGT07 g0 s0126
+JP: ティファニー、{n}お祝いしてくれるのはうれしいんだけど、{n}俺の誕生日、もう過ぎちゃったんだ。{p}
+EN: Tiffany, I'm glad you want to celebrate, but my birthday already passed.{p}
+
+## MGT07 g0 s0127
+JP: そーデスか?{n}そんなコトはノープロブレムでーす!{n}はい、これプレゼント、フォーユー!!{p}
+EN: Is that so? That is no problem! Here, a present for you!!{p}
+
+## MGT07 g0 s0128
+JP: そうだよな、{n}あ、ありがとう……。{n}開けてみてもいい?{p}
+EN: Yeah, you're right. Th-thanks... Can I open it?{p}
+
+## MGT07 g1 s0000
+JP: 放課後。{n}ちょっと買い物に、繁華街に来てみたけど、{n}この辺はあいかわらず、人出が多いわ。{p}{end}
+EN: After school. I came downtown to do a little shopping, but it's as crowded around here as ever.{p}{end}
+
+## MGT07 g1 s0002
+JP: あら、ティファニーじゃない。{n}ティファニーも買い物?{p}{end}
+EN: Oh, Tiffany. You're shopping too?{p}{end}
+
+## MGT07 g1 s0004
+JP: ティファニーのパパって……、{n}たしか大企業の会長?{n}アメリカにいるのよね。{p}
+EN: Your papa, Tiffany... he's the chairman of some big company, right? He's in America, isn't he?{p}
+
+## MGT07 g1 s0006
+JP: へぇ、親孝行ね、{n}ティファニー。{p}{end}
+EN: Wow, you're a good daughter, Tiffany.{p}{end}
+
+## MGT07 g1 s0009
+JP: ふふ、いいわ、{n}ちょっと考えてみるね。{n}会長さんのお気に召すかどうかは{n}わからないけどね。{p}
+EN: Hehe, sure, let me think. Can't promise the chairman will like it, though.{p}
+
+## MGT07 g1 s0011
+JP: そうね……年輩の男性のプレゼントって、{n}難しいのよねぇ……。{n}しかも、相手は外人で、{n}お金持ちでしょ?{sp}わかるかなぁ。{p}
+EN: Let's see... presents for older men are tough... And he's a foreigner, and rich, right? I wonder if I can figure it out.{p}
+
+## MGT07 g1 s0015
+JP: そうね、セーターとか{n}カジュアルウェアはどう?{n}値段も手頃だし。{p}{end}
+EN: Let's see, how about a sweater or some casual clothes? They're not too pricey.{p}{end}
+
+## MGT07 g1 s0017
+JP: ふうん……そうなんだ。{n}それじゃ、しかたないわね。{p}
+EN: Hmm... I see. Well, can't be helped.{p}
+
+## MGT07 g1 s0019
+JP: 結局ティファニーは、{n}自分でプレゼントを決めちゃった……。{n}う～ん、あんまり役に立てなかったなぁ。{p}
+EN: In the end, Tiffany picked the present herself... Hmm, I wasn't much help.{p}
+
+## MGT07 g1 s0020
+JP: そうだな、日本酒とか{n}お酒はどう?{n}日本的なものだし、{n}喜ばれるんじゃない?{p}{end}
+EN: Let's see, how about sake or something? It's very Japanese, so I bet he'd like it.{p}{end}
+
+## MGT07 g1 s0025
+JP: やっぱり、スタンダードに{n}ネクタイとかアクセサリーが{n}いいんじゃない。{n}いくつあっても困らないし。{p}
+EN: I'd go with a classic, like a tie or accessories. You can never have too many.{p}
+
+## MGT07 g1 s0028
+JP: え!?{sp}いくらなんでも、大企業の会長が{n}クマのネクタイはちょっと……、{n}あ、ティファニー!{n}……レジに持ってっちゃった。{p}{end}
+EN: Huh!? Come on, a big company's chairman in a bear tie is a bit... Ah, Tiffany! ...She took it to the register.{p}{end}
+
+## MGT07 g1 s0030
+JP: ど、どういたしまして……。{n}（なんだか気がひけるわ……）{p}{end}
+EN: Y-you're welcome... (Somehow I feel kind of guilty...){p}{end}
+
+## MGT07 g1 s0031
+JP: 昼休み。ちょっと用事を済ましてたら、{n}すっかり遅くなっちゃった。{n}今からじゃ、カツサンド、{n}売り切れてるかなぁ……。{p}{end}
+EN: Lunch break. I was taking care of something and now it's really late. I bet the cutlet sandwiches are sold out by now...{p}{end}
+
+## MGT07 g1 s0032
+JP: とりあえず、急いでいってみよっと!{n}そーれ!{p}{end}
+EN: Well, I'll hurry over anyway! Here goes!{p}{end}
+
+## MGT07 g1 s0036
+JP: あ、ティファニー……。{n}ゴ、ゴメンね、{n}急いでたから、つい……。{p}{end}
+EN: Oh, Tiffany... S-sorry, I was in a hurry and...{p}{end}
+
+## MGT07 g1 s0038
+JP: え?{n}……って、きゃっ!{n}ごめん!!{p}{end}
+EN: Huh? ...Eek! Sorry!!{p}{end}
+
+## MGT07 g1 s0039
+JP: ……クスン……ヒドイです。{n}女同士だからって、{n}{v3:7}が、こんなことする人{n}だったなんて……。{p}{end}
+EN: ...Sniff... That's mean. Even if we are both girls... I never knew {v3:7} was that kind of person...{p}{end}
+
+## MGT07 g1 s0040
+JP: ご、誤解よ。{n}これは偶然が重なり合った{n}単なる事故で……。{p}
+EN: Y-you've got it wrong. It was just an accident, a bunch of coincidences piling up...{p}
+
+## MGT07 g1 s0042
+JP: え!?{n}せ、せ、責任!?{n}（そ、そ、そんなぁ……）{p}
+EN: Huh!? R-r-responsibility!? (N-n-no way...){p}
+
+## MGT07 g1 s0043
+JP: いいわよ、なんでもするわ!{n}そんなこと言われても……{p}{end}
+EN: Fine, I'll do anything!{n}You can't just spring that on me...{p}{end}
+
+## MGT07 g1 s0044
+JP: いいわよ、なんでもするわ!{n}こんなトコロで、はずかしい思い、{n}させちゃったんだもんね!{p}
+EN: Fine, I'll do anything! I did embarrass you in front of everyone!{p}
+
+## MGT07 g1 s0046
+JP: う、うん……。{n}できれば、私にできる範囲がいいな……。{p}
+EN: Y-yeah... Within reason would be nice...{p}
+
+## MGT07 g1 s0048
+JP: え?{sp}なに、{n}そんなことでいいの?{p}
+EN: Huh? What, that's all?{p}
+
+## MGT07 g1 s0050
+JP: ……わかったわ。{n}それくらい、まかせといて!!{p}
+EN: ...Got it. Leave that to me!!{p}
+
+## MGT07 g1 s0052
+JP: あっ、そうね!{n}それじゃ、急がなきゃ。{n}うん、じゃ、放課後にね!!{p}
+EN: Oh, right! I'd better hurry. OK, see you after school!!{p}
+
+## MGT07 g1 s0053
+JP: （この日は、山ほど買い物に{n}{sp}つきあわされた……。{n}{sp}荷物は重かったけど、{n}{sp}楽しかったナァ……）{p}
+EN: (That day she dragged me through a mountain of shopping... The bags were heavy, but it was fun...){p}
+
+## MGT07 g1 s0054
+JP: きゅ、急にそんなこと言われても……、{n}だってホラ、私も女だし……ね?{p}{end}
+EN: Y-you can't just spring that on me... I mean, look, I'm a girl too... right?{p}{end}
+
+## MGT07 g1 s0055
+JP: ヒドイよ、{v3:7}……。{n}こんなトコロではずかしい思いさせて、{n}ムセキニンに逃げる気か?{p}{end}
+EN: That's mean, {v3:7}... You embarrass me in front of everyone and then run away irresponsibly?{p}{end}
+
+## MGT07 g1 s0056
+JP: ううん、そういうわけじゃ……。{p}
+EN: N-no, it's not that...{p}
+
+## MGT07 g1 s0058
+JP: それは「見そこなった」……って、{n}あ、ティファニー?{n}ティファニーーー!{p}{end}
+EN: You mean "misjudged"... wait, Tiffany? Tiffanyyy!{p}{end}
+
+## MGT07 g1 s0059
+JP: （ううん……キラわれちゃったかなぁ……{n}{sp}今度もう一度謝っておこう……）{p}{end}
+EN: (Ugh... I think she hates me now... I'll apologize again next time...){p}{end}
+
+## MGT07 g1 s0060
+JP: 放課後……。{n}ふぅ……やっと帰れるわ。{p}
+EN: After school... Phew... I can finally go home.{p}
+
+## MGT07 g1 s0061
+JP: ……あれ、あそこにいるの、{n}ティファニーね。{n}あんなトコロで何やってるのかしら?{p}{end}
+EN: ...Huh, that's Tiffany over there. What's she doing there?{p}{end}
+
+## MGT07 g1 s0062
+JP: はぁい、ティファニー!{p}
+EN: Hiii, Tiffany!{p}
+
+## MGT07 g1 s0065
+JP: あら、子犬じゃない。{n}いったいどうしたの?{p}
+EN: Oh, a puppy. What happened?{p}
+
+## MGT07 g1 s0067
+JP: 捨て犬ね……。{n}かわいそうなコトするわねぇ。{p}{end}
+EN: Abandoned, huh... What a cruel thing to do.{p}{end}
+
+## MGT07 g1 s0069
+JP: （ティファニー……。{n}{sp}どうすればいいのかな?）{p}{end}
+EN: (Tiffany... What should I do?){p}{end}
+
+## MGT07 g1 s0071
+JP: よし!{sp}それじゃ、今から私達で、{n}飼ってくれる人を探しに行きましょ!{p}{end}
+EN: All right! Then let's go find someone to take it, right now!{p}{end}
+
+## MGT07 g1 s0073
+JP: ティファニー……、{n}それは「善は急げ」よ……。{p}
+EN: Tiffany... it's "strike while the iron is hot"...{p}
+
+## MGT07 g1 s0077
+JP: 明日、学校で探してみよ?{n}……私が飼うわ{p}{end}
+EN: Ask around at school tomorrow?{n}...I'll keep it{p}{end}
+
+## MGT07 g1 s0078
+JP: じゃあ……明日学校で{n}みんなに聞いてみよ?{n}今日は私があずかるわ。{p}
+EN: Then... let's ask everyone at school tomorrow, OK? I'll look after it tonight.{p}
+
+## MGT07 g1 s0081
+JP: （次の日、学校でなんとか{n}{sp}飼ってくれる人が見つかったけど、{n}{sp}ティファニーはちょっと{n}{sp}淋しそうだったみたい……）{p}{end}
+EN: (The next day we managed to find someone at school to take it, but Tiffany seemed a little lonely...){p}{end}
+
+## MGT07 g1 s0082
+JP: ……それじゃ、{n}この子は私が飼うわ。{p}{end}
+EN: ...Then I'll keep this little one.{p}{end}
+
+## MGT07 g1 s0084
+JP: うん……。{n}ホントはウチでは飼えないけど、{n}両親を説得してみるわ。{n}それで、いい?{p}
+EN: Yeah... We're not really allowed pets at home, but I'll try to talk my parents into it. Is that OK?{p}
+
+## MGT07 g1 s0086
+JP: （わっ……熱烈なキスねぇ……）{p}
+EN: (Whoa... What a passionate kiss...){p}
+
+## MGT07 g1 s0088
+JP: （ティファニー……。{n}{sp}きっと家族を離れて一人暮らしを{n}{sp}している自分と、捨てられた子犬を{n}{sp}ダブらせていたのね……）{p}
+EN: (Tiffany... She must have seen herself in that abandoned puppy, living alone away from her family...){p}
+
+## MGT07 g1 s0089
+JP: ティファニー……。{n}何なら、ティファニーもウチに来る?{p}
+EN: Tiffany... If you want, you could come live at my place too.{p}
+
+## MGT07 g1 s0091
+JP: （それほど、冗談でも{n}{sp}なかったのに……）{p}
+EN: (I wasn't really joking, though...){p}
+
+## MGT07 g1 s0094
+JP: う～ん、ティファニーが{n}飼ってあげたら?{n}この子も喜ぶと思うわ。{p}{end}
+EN: Hmm, why don't you keep it, Tiffany? I think it'd like that too.{p}{end}
+
+## MGT07 g1 s0096
+JP: そうなの……。{n}無責任なコト、いっちゃったね……。{p}
+EN: I see... That was irresponsible of me...{p}
+
+## MGT07 g1 s0099
+JP: ティファニーも家族と離れて{n}一人暮らしだしね……。{n}あの子犬のこと、{n}放っておけなかったのかナ……。{p}{end}
+EN: Tiffany lives alone, away from her family, too... Maybe she just couldn't leave that puppy...{p}{end}
+
+## MGT07 g1 s0100
+JP: 残念だけど、どうしようもないわ。{n}みんなそれぞれ事情があるし。{p}
+EN: Too bad, but there's nothing we can do. Everyone has their own situation.{p}
+
+## MGT07 g1 s0106
+JP: あっ、ティファニー……。{n}……いっちゃった。{n}そんなつもりじゃなかったのに……。{p}{end}
+EN: Ah, Tiffany... ...She's gone. That's not what I meant...{p}{end}
+
+## MGT07 g1 s0108
+JP: あら?{n}誰か来たみたいね。誰かナ?{p}
+EN: Oh? Looks like someone's here. Who could it be?{p}
+
+## MGT07 g1 s0110
+JP: ティ、ティファニー!?{n}ハッピーバースデーって……{n}私の?{p}
+EN: T-Tiffany!? Happy birthday... to me?{p}
+
+## MGT07 g1 s0112
+JP: ティファニー、{n}私の誕生日、覚えててくれたんだ……{n}何かうれしいな。{p}{end}
+EN: Tiffany, you remembered my birthday... That makes me kind of happy.{p}{end}
+
+## MGT07 g1 s0114
+JP: あ、ありがと……。{n}開けてみてもいい?{p}
+EN: Th-thanks... Can I open it?{p}
+
+## MGT07 g1 s0116
+JP: じゃ、開けるね……。{n}……あ、これはバンダナね。{n}しかもこれは……{n}ティファニーとおそろいのデザインだわ。{p}
+EN: I'll open it, then... ...Oh, it's a bandana. And this... it's the same design as Tiffany's.{p}
+
+## MGT07 g1 s0118
+JP: ティファニー……、{n}ありがと!!{p}{end}
+EN: Tiffany... thanks!!{p}{end}
+
+## MGT07 g1 s0121
+JP: ……キスされちゃった……!{n}ティファニーには挨拶代わりかも{n}しれないけど、プレゼントより{n}こっちの方がショッキングね……!!{p}{end}
+EN: ...She kissed me...! For Tiffany it might just be a greeting, but that was more of a shock than the present...!!{p}{end}
+
+## MGT07 g1 s0126
+JP: ティファニー、{n}お祝いしてくれるのはうれしいけど、{n}私の誕生日、もう過ぎちゃったの。{p}{end}
+EN: Tiffany, I'm glad you want to celebrate, but my birthday already passed.{p}{end}
+
+## MGT07 g1 s0128
+JP: そうね、{n}あ、ありがと……。{n}開けてみてもいい?{p}{end}
+EN: Yeah, you're right. Th-thanks... Can I open it?{p}{end}
+
+## MGT07 g1 s0130
+JP: じゃ、開けるね……。{n}……あ、これはバンダナだね。{n}しかもこれは……{n}ティファニーとおそろいのデザインだわ。{p}{end}
+EN: I'll open it, then... ...Oh, it's a bandana. And this... it's the same design as Tiffany's.{p}{end}
+

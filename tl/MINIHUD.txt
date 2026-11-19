@@ -1,0 +1,28 @@
+hud_konjo: Guts
+hud_ato_kyu: Balls|
+hud_genzai: Now
+hud_saiko: Best
+hud_ten: pt
+hud_geijutsu: Art
+hud_frame: Frame
+hud_again: Play again?
+hud_yes: Yes
+hud_no: No
+
+ceft_start: READY|GO!
+ceft_end: ALL|DONE!
+ceft_subject: Subj
+
+dance_l0: Hey, brother!
+dance_l1: The groovy
+dance_l2: Doki-Waku-Dance starts now!
+dance_l3a: You ready?
+dance_l3b: Here we go!
+
+title_start: Game Start
+title_back: Back
+title_1p: 1P Play Start
+title_vs: VS Play Start
+title_rules: Rules & Controls
+title_record: Best Record
+unit_pt: pt

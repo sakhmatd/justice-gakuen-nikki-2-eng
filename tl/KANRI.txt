@@ -1,0 +1,251 @@
+## KANRI hdr
+JP: キャラデータ
+EN: Character Data
+
+## KANRI s19
+JP: 体力ゲージ
+EN: Stamina
+
+## KANRI s20
+JP: 根性ゲージ
+EN: Vigor
+
+## KANRI s21
+JP: 攻撃力
+EN: Attack
+
+## KANRI s22
+JP: 防御力
+EN: Defense
+
+## KANRI s23
+JP: 根性
+EN: Guts
+
+## KANRI s24
+JP: なかよしキャラ
+EN: Friend
+
+## KANRI s25
+JP: 苦手キャラ
+EN: Rival
+
+## KANRI v0
+JP: すごく低い
+EN: Very Low
+
+## KANRI v1
+JP: 低い
+EN: Low
+
+## KANRI v2
+JP: ふつう
+EN: Average
+
+## KANRI v3
+JP: 高い
+EN: High
+
+## KANRI v4
+JP: すごく高い
+EN: Very High
+
+## KANRI a0
+JP: キャラデータ
+EN: Characters
+
+## KANRI s0
+JP: ロード
+EN: Load
+
+## KANRI s1
+JP: 登録
+EN: Add
+
+## KANRI a3
+JP: パスワード入力
+EN: Password
+
+## KANRI s5
+JP: 終了
+EN: Exit
+
+## KANRI a30
+JP: CPUエディット
+EN: CPU Edit
+
+## KANRI s3
+JP: ステータス
+EN: Status
+
+## KANRI s4
+JP: コマンド
+EN: Moves
+
+## KANRI a33
+JP: パスワード表示
+EN: Get Password
+
+## KANRI r34
+JP: 登録抹消
+EN: Delete
+
+## KANRI r35
+JP: 戻る
+EN: Back
+
+## KANRI r6
+JP: ロードされていません
+EN: Nothing loaded
+
+## KANRI s9
+JP: ボタンを押せば終了します。
+EN: Press to exit.
+
+## KANRI s10
+JP: ロード中、、、
+EN: Loading...
+
+## KANRI s11
+JP: ロードできませんでした
+EN: Load failed.
+
+## KANRI s12
+JP: メモリーカードが
+EN: Memory Card
+
+## KANRI r11
+JP: ささっていません
+EN: not inserted
+
+## KANRI s14
+JP: 初期化されていません
+EN: not formatted
+
+## KANRI s15
+JP: 壊れています
+EN: is damaged
+
+## KANRI s16
+JP: 何かボタンを押してください
+EN: Press any button
+
+## KANRI s17
+JP: ロードしますか?
+EN: Load data?
+
+## KANRI s18.yes
+JP: はい
+EN: Yes
+
+## KANRI s18.no
+JP: いいえ
+EN: No
+
+## KANRI r26
+JP: EDITデータがありません
+EN: No EDIT data
+
+## KANRI s29
+JP: そめちぇっくエラー
+EN: Checksum error
+
+## KANRI r28
+JP: このモードのセーブデータが
+EN: No save data
+
+## KANRI r29
+JP: ありません
+EN: for this mode.
+
+## KANRI r37
+JP: データを見たいEDITキャラを
+EN: Choose the EDIT
+
+## KANRI r38
+JP: 選んで下さい
+EN: character to view.
+
+## KANRI r52
+JP: 名前
+EN: Name
+
+## KANRI r53
+JP: 学校
+EN: School
+
+## KANRI r54
+JP: 性別
+EN: Gender
+
+## KANRI r56
+JP: 男
+EN: Male
+
+## KANRI r57
+JP: 女
+EN: Female
+
+## KANRI r36.ok
+JP: 決定
+EN: OK
+
+## KANRI r36.cancel
+JP: 中止
+EN: Cancel
+
+## KANRI r51
+JP: ほんとうによろしいですか?
+EN: Are you sure?
+
+## KANRI help.cpu
+JP: CPUエディットモードで、/EDITキャラの性能を/設定できます
+EN: Set how the CPU / plays this EDIT / character.
+
+## KANRI help.status
+JP: EDITキャラのステータスが/確認できます
+EN: Check the stats / of this fighter.
+
+## KANRI help.moves
+JP: 必殺技コマンド表を見ることが/できます
+EN: View the list of / special moves.
+
+## KANRI help.pass
+JP: EDITキャラのデータを/パスワード化して表示します
+EN: Shows the data / as a password.
+
+## KANRI help.delete
+JP: 登録されているEDITキャラの/データを削除します
+EN: Deletes this / EDIT character.
+
+## KANRI help.back
+JP: メインコマンド画面に戻ります
+EN: Return to menu.
+
+## KANRI reghdr
+JP: EDITキャラクター登録
+EN: EDIT Character Register
+
+## KANRI tab
+JP: 登録キャラ一覧
+EN: Character List
+
+## KANRI sch0
+JP: 太陽学園
+EN: Taiyo High
+
+## KANRI sch1
+JP: 五輪高校
+EN: Gorin High
+
+## KANRI sch2
+JP: パシフィックHS
+EN: Pacific High
+
+## KANRI sch3
+JP: 外道高校
+EN: Gedo High
+
+## KANRI sch4
+JP: ジャスティス学園
+EN: Justice High

@@ -1,0 +1,400 @@
+## MGT11 g0 s0000
+JP: 土手ぞいに生える木の上で{n}子供が泣いているみたいだ……{n}一体どうしたんだろう?{p}
+EN: Looks like a kid is crying up in a tree by the riverbank... What's going on?{p}
+
+## MGT11 g0 s0001
+JP: {col:3}男の子{col:-}{n}「うえ～ん!{n}{sp}降りられないよぅ……」{p}
+EN: {col:3}Little Boy{col:-}{n}"Waaah! I can't get dooown..."{p}
+
+## MGT11 g0 s0002
+JP: あんな高い所まで登ったのかよ。{n}これはちょっとヤバイな。{n}どうする?{p}{end}
+EN: He climbed all the way up there? This is kinda bad. What should I do?{p}{end}
+
+## MGT11 g0 s0003
+JP: 助ける{n}応援する{p}{end}
+EN: Help him{n}Cheer him on{p}{end}
+
+## MGT11 g0 s0004
+JP: 泣くな、男の子だろ!{n}ゆっくりでいいから、{n}勇気を出して少しずつ降りてごらん。{p}
+EN: Don't cry, you're a boy, aren't you! Take it slow. Be brave and climb down bit by bit.{p}
+
+## MGT11 g0 s0005
+JP: よく言ったぜ、{v4:17}!{p}{end}
+EN: Well said, {v4:17}!{p}{end}
+
+## MGT11 g0 s0006
+JP: 醍醐先輩、{n}いつからそこに!?{p}
+EN: Daigo-senpai, how long have you been there!?{p}
+
+## MGT11 g0 s0007
+JP: 小さな子供でも、自分の力だけで{n}切り抜けなきゃならん時もある。{n}だが、どうしても無理そうな時は、{n}黙って手を差し伸べてやるんだぜ。{p}
+EN: Sometimes even a little kid has to pull through on his own. But when he really can't, you lend a hand and say nothing.{p}
+
+## MGT11 g0 s0008
+JP: ……自分の力だけで{n}切り抜けないといけない時……か。{n}さすが、醍醐先輩の言葉には重みがあるな。{p}
+EN: ...Times you have to pull through on your own, huh. Daigo-senpai's words really carry weight.{p}
+
+## MGT11 g0 s0009
+JP: 足をすべらせて落ちたりしたら大変だな。{n}お～い、そのままじっとしてろよ!{n}今助けに行ってやるからな!{p}{end}
+EN: It'd be bad if he slipped and fell. Hey, stay right there! I'm coming to get you!{p}{end}
+
+## MGT11 g0 s0010
+JP: 男の子にケガはなかったみたいだ。{n}よかったな……{p}{end}
+EN: Looks like the boy didn't get hurt. Thank goodness...{p}{end}
+
+## MGT11 g0 s0011
+JP: 見させてもらったぜ、{v4:17}。{p}
+EN: I saw what you did, {v4:17}.{p}
+
+## MGT11 g0 s0012
+JP: だ、醍醐先輩。{p}
+EN: D-Daigo-senpai.{p}
+
+## MGT11 g0 s0013
+JP: ああ、しっかりとな。{p}{end}
+EN: Yeah, every bit of it.{p}{end}
+
+## MGT11 g0 s0014
+JP: だが、お前がとった行動は{n}あの子にとって{n}はたして良かったのかな?{p}
+EN: But was what you did really good for that kid?{p}
+
+## MGT11 g0 s0015
+JP: と、いうと?{p}{end}
+EN: What do you mean?{p}{end}
+
+## MGT11 g0 s0016
+JP: 困った時は誰かが助けてくれると{n}信じてしまって、{n}自分の力では{n}抜け出せなくなるんじゃねえか?{p}
+EN: Won't he start thinking somebody'll always bail him out, and never learn to get out of a jam on his own?{p}
+
+## MGT11 g0 s0017
+JP: そこん所をよぉく考えるんだな。{p}
+EN: Think that one over real hard.{p}
+
+## MGT11 g0 s0019
+JP: 授業も終わったし、{n}今日はちょっと遠回りして帰ろう。{p}{end}
+EN: Classes are over. I'll take the long way home today.{p}{end}
+
+## MGT11 g0 s0020
+JP: {col:3}女の子{col:-}{n}「え～ん!{sp}え～ん!」{p}
+EN: {col:3}Little Girl{col:-}{n}"Waah! Waaah!"{p}
+
+## MGT11 g0 s0021
+JP: 女の子が一人で泣いているぞ。{n}どうしたんだろう?{p}{end}
+EN: A little girl is crying all by herself. What's wrong?{p}{end}
+
+## MGT11 g0 s0022
+JP: 女の子に話しかける{n}女の子におかしをあげる{p}
+EN: Talk to her{n}Give her some candy{p}
+
+## MGT11 g0 s0023
+JP: ほら、泣くんじゃないよ。{n}これでも食べな!{p}
+EN: Here, don't cry. Have some of this!{p}
+
+## MGT11 g0 s0025
+JP: う～ん、全然泣き止まないや。{n}どうしよう?{p}
+EN: Hmm, she won't stop crying at all. What do I do?{p}
+
+## MGT11 g0 s0026
+JP: 物だけで人の心をつかめると{n}思ったら大間違いだぜ。{p}
+EN: If you think things alone can win someone's heart, you're dead wrong.{p}
+
+## MGT11 g0 s0027
+JP: だ、醍醐先輩!{n}見てたんですか?{p}{end}
+EN: D-Daigo-senpai! Were you watching?{p}{end}
+
+## MGT11 g0 s0028
+JP: 相手の立場に立って{n}何がして欲しいかを考える。{n}それが、思いやりにるながる……。{n}たとえ相手が子供だとしてもな……。{p}{end}
+EN: Put yourself in their shoes and think about what they want. That's where real kindness starts... Even if it's just a kid...{p}{end}
+
+## MGT11 g0 s0029
+JP: その辺をもう少し考えるんだな……。{p}
+EN: Give that a little more thought...{p}
+
+## MGT11 g0 s0030
+JP: たとえ相手が子供でもか……。{p}{end}
+EN: Even if it's just a kid, huh...{p}{end}
+
+## MGT11 g0 s0031
+JP: どうして泣いてるんだい?{p}{end}
+EN: Why are you crying?{p}{end}
+
+## MGT11 g0 s0032
+JP: {col:3}女の子{col:-}{n}「あのね、あの犬にね、{n}{sp}帽子をとられちゃったの。」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Um, that doggy, um... it took my hat."{p}{end}
+
+## MGT11 g0 s0033
+JP: そうか、じゃあ、お兄ちゃんが{n}帽子を取ってきてやる。{p}{end}
+EN: I see. Then big brother will go get your hat back.{p}{end}
+
+## MGT11 g0 s0034
+JP: {col:3}女の子{col:-}{n}「本当!」{p}
+EN: {col:3}Little Girl{col:-}{n}"Really!?"{p}
+
+## MGT11 g0 s0035
+JP: ああ、まかせときな。{n}ちょっと待ってろよ!{p}
+EN: Yeah, leave it to me. Wait right here!{p}
+
+## MGT11 g0 s0036
+JP: {face:15}・・・・・・・・・・{face:255}{n}はい、どうぞ!{p}{end}
+EN: {face:15}..........{face:255} Here you go!{p}{end}
+
+## MGT11 g0 s0037
+JP: {col:3}女の子{col:-}{n}「ありがとう、おにいちゃん!{n}{sp}ワーイ!{sp}ワーイ!」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Thank you, big brother! Yay! Yay!"{p}{end}
+
+## MGT11 g0 s0038
+JP: わかってるじゃねえか、{v4:17}。{p}{end}
+EN: You get it, {v4:17}.{p}{end}
+
+## MGT11 g0 s0041
+JP: やっぱり、{n}お前はどこか他の奴とは違うぜ、{n}俺が見てもほれぼれするぜ。{p}
+EN: I knew it. There's something about you that sets you apart from the rest. Even I've gotta admire it.{p}
+
+## MGT11 g0 s0042
+JP: 俺はいつでもお前を見てるからな。{p}{end}
+EN: I'll always be keeping an eye on you.{p}{end}
+
+## MGT11 g0 s0044
+JP: じゃあ、またな。{n}あばよ。{p}
+EN: Well, see ya. Later.{p}
+
+## MGT11 g0 s0046
+JP: 授業も終わったし、{n}ちょっと寄り道して帰ろう。{p}
+EN: Classes are over. I'll make a little detour on the way home.{p}
+
+## MGT11 g0 s0047
+JP: {col:3}不良風の集団の一人{col:-}{n}「おら!{n}{sp}こっちこいよ!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Hey! Get over here!"{p}{end}
+
+## MGT11 g0 s0048
+JP: {col:3}中学生{col:-}{n}「やめろよ～!」{p}{end}
+EN: {col:3}Middle Schooler{col:-}{n}"Cut it out~!"{p}{end}
+
+## MGT11 g0 s0049
+JP: あっ!{n}あんな所で中学生がいじめられている!{p}{end}
+EN: Ah! Some middle schooler's getting picked on over there!{p}{end}
+
+## MGT11 g0 s0050
+JP: なんか強そうだぞ、{n}どうしよう?{p}{end}
+EN: They look kinda tough. What do I do?{p}{end}
+
+## MGT11 g0 s0051
+JP: 話し合いで解決する{n}力づくで助ける{p}
+EN: Talk it out{n}Save him by force{p}
+
+## MGT11 g0 s0052
+JP: おい、お前ら!{n}弱い者いじめなんかするな!{n}俺が相手してやる!{n}かかってこい!{p}
+EN: Hey, you guys! Quit picking on the weak! I'll take you on! Come at me!{p}
+
+## MGT11 g0 s0053
+JP: {col:3}不良風の集団の一人{col:-}{n}「面白えじゃねえか!{n}{sp}みんな!{sp}やっちまおうぜ!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Ha, that's a laugh! Guys! Let's get 'em!"{p}{end}
+
+## MGT11 g0 s0054
+JP: {col:3}不良風の集団の一人{col:-}{n}「ちっ!{sp}てんで弱えでやんの!{n}{sp}みんな!{sp}行こうぜ!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Tch! What a weakling! Come on, guys!"{p}{end}
+
+## MGT11 g0 s0055
+JP: 大丈夫か、{v4:17}……。{p}{end}
+EN: You OK, {v4:17}...{p}{end}
+
+## MGT11 g0 s0056
+JP: だ、醍醐先輩……。{n}見ていたんですか……。{p}
+EN: D-Daigo-senpai... You were watching...{p}
+
+## MGT11 g0 s0058
+JP: {v4:17}、{n}世の中には力だけでは{n}解決できない問題が{n}たくさんあることがわかったか?{p}{end}
+EN: {v4:17}, now do you see? Plenty of problems in this world can't be solved by strength alone.{p}{end}
+
+## MGT11 g0 s0059
+JP: それをお前自身の糧として{n}生きていくんだぜ。{p}{end}
+EN: Take that lesson and carry it with you.{p}{end}
+
+## MGT11 g0 s0060
+JP: 力だけでは解決できない問題か……。{n}確かにあるかもなあ……。{p}{end}
+EN: Problems strength alone can't solve... Maybe there really are some...{p}{end}
+
+## MGT11 g0 s0061
+JP: 一体どうしたんだよ、{n}大勢で一人を囲んで、{n}ちゃんと話し合おうぜ!{p}
+EN: What's going on here? A whole gang against one kid? Let's talk this out properly!{p}
+
+## MGT11 g0 s0062
+JP: {col:3}不良風の集団の一人{col:-}{n}「うるせえ!{n}{sp}関係ない奴は{n}{sp}あっち行ってろ!」{p}
+EN: {col:3}Delinquent{col:-}{n}"Shut up! This ain't your business, get lost!"{p}
+
+## MGT11 g0 s0064
+JP: やめな!{p}{end}
+EN: Knock it off!{p}{end}
+
+## MGT11 g0 s0065
+JP: {col:3}不良風の集団の一人{col:-}{n}「わっ!{n}{sp}だ、醍醐だ!{n}{sp}みんな逃げろ!」{p}{end}
+EN: {col:3}Delinquent{col:-}{n}"Whoa! I-it's Daigo! Run for it!"{p}{end}
+
+## MGT11 g0 s0066
+JP: ……醍醐先輩!{n}どうしてここに?{p}{end}
+EN: ...Daigo-senpai! What are you doing here?{p}{end}
+
+## MGT11 g0 s0067
+JP: ああ、{n}たまたま通りかかったらな……。{n}男だったぜ。{p}{end}
+EN: Yeah, I just happened to be passing by... That was a real man's move.{p}{end}
+
+## MGT11 g0 s0069
+JP: お前を見てると{n}俺まで燃えてくるのがよーく分かるぜ。{n}ありがとよ。{p}
+EN: Watching you gets even me fired up. Thanks.{p}
+
+## MGT11 g0 s0070
+JP: そ、そんなにあらたまらないで下さい。{p}{end}
+EN: Y-you don't have to be so formal about it.{p}{end}
+
+## MGT11 g0 s0071
+JP: お前には{n}後輩以上の何かを感じる気がするぜ。{p}{end}
+EN: I feel like you're more than just an underclassman to me.{p}{end}
+
+## MGT11 g0 s0073
+JP: これは俺からの気持ちだ。{n}とっといてくれ。{p}
+EN: This is a token from me. Keep it.{p}
+
+## MGT11 g0 s0074
+JP: {col:0}『醍醐の学ラン』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Daigo's School Coat"{col:-}!{p}
+
+## MGT11 g0 s0075
+JP: じゃあ、またな……。{n}あばよ……。{p}
+EN: Well, see ya... Later...{p}
+
+## MGT11 g0 s0077
+JP: 邪魔するぜ。{p}{end}
+EN: Mind if I come in?{p}{end}
+
+## MGT11 g0 s0078
+JP: わっ!{n}だ、醍醐先輩!{n}どうしたんですか急に。{p}
+EN: Whoa! D-Daigo-senpai! What brings you here all of a sudden?{p}
+
+## MGT11 g0 s0079
+JP: {v4:17}が今日誕生日だって{n}聞いたんでな。{n}一人の男として祝わせてくれ。{p}{end}
+EN: I heard today's your birthday, {v4:17}. As a man, let me wish you a happy one.{p}{end}
+
+## MGT11 g0 s0080
+JP: ありがとうございます。{p}
+EN: Thank you.{p}
+
+## MGT11 g0 s0081
+JP: これは俺からのプレゼントだ。{n}受け取ってくれるな。{p}
+EN: Here's a present from me. You'll take it, right?{p}
+
+## MGT11 g0 s0082
+JP: はい、喜んで。{n}何だろう?{n}開けていいですか?{p}
+EN: Yes, gladly. What could it be? Can I open it?{p}
+
+## MGT11 g0 s0084
+JP: {col:0}『男の十ヶ条』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Ten Rules of Manhood"{col:-}!{p}{end}
+
+## MGT11 g0 s0085
+JP: この十ヶ条を守り通して真の男になるんだ。{n}その時俺はお前を迎えに来るぜ。{n}じゃあな。{p}{end}
+EN: Live by these ten rules to the end and become a real man. When that day comes, I'll come for you. Later.{p}{end}
+
+## MGT11 g0 s0087
+JP: {v4:17}が{n}この前が誕生日だったって{n}聞いたんでな。{n}一人の男として祝わせてくれ。{p}
+EN: I heard your birthday was a little while back, {v4:17}. As a man, let me wish you a happy one.{p}
+
+## MGT11 g1 s0000
+JP: 土手ぞいに生える木の上で、{n}子供が泣いてるみたい……{n}一体どうしたのかな?{p}
+EN: Looks like a kid is crying up in a tree by the riverbank... What's wrong?{p}
+
+## MGT11 g1 s0002
+JP: うわぁ、あんな高い所に……{n}これは大変だわ!{n}でも、どうしよう?{p}{end}
+EN: Whoa, way up there... This is bad! But what should I do?{p}{end}
+
+## MGT11 g1 s0004
+JP: 泣かないの、男の子でしょ!{n}ゆっくりでいいから、{n}勇気を出して少しずつ降りてみて。{p}
+EN: No crying, you're a boy, aren't you! Take it slow. Be brave and climb down bit by bit.{p}
+
+## MGT11 g1 s0005
+JP: よぉく言ったぜ、{v4:17}!{p}
+EN: Well said, {v4:17}!{p}
+
+## MGT11 g1 s0008
+JP: ……自分の力だけで{n}切り抜けないといけない時……か。{n}醍醐先輩の言葉って、{n}すごく重みがあるわね。{p}
+EN: ...Times you have to pull through on your own, huh. Daigo-senpai's words really carry weight.{p}
+
+## MGT11 g1 s0009
+JP: 足をすべらせて落ちたりしたら大変だわ。{n}そのままじっとしてるのよ～!{n}今、助けに行ってあげるからね!{p}{end}
+EN: It'd be awful if he slipped and fell. Stay right there~! I'm coming to get you!{p}{end}
+
+## MGT11 g1 s0010
+JP: 男の子にケガはなかったみたい。{n}よかった……{p}{end}
+EN: Looks like the boy didn't get hurt. Thank goodness...{p}{end}
+
+## MGT11 g1 s0015
+JP: えっ、どういう意味ですか?{p}
+EN: Huh? What do you mean?{p}
+
+## MGT11 g1 s0021
+JP: 女の子が一人で泣いているわ。{n}どうしたのかしら?{p}{end}
+EN: A little girl is crying all by herself. I wonder what's wrong?{p}{end}
+
+## MGT11 g1 s0023
+JP: ほら、泣くんじゃないの。{n}これでもどうぞ!{p}
+EN: Here, no crying. Have some of this!{p}
+
+## MGT11 g1 s0025
+JP: う～ん、全然泣き止まないわ。{n}どうしてかしら?{p}
+EN: Hmm, she won't stop crying at all. Why not?{p}
+
+## MGT11 g1 s0031
+JP: どうして泣いてるの?{p}{end}
+EN: Why are you crying?{p}{end}
+
+## MGT11 g1 s0033
+JP: そうか、じゃあ、お姉ちゃんが{n}帽子を取ってきてあげるわ。{p}{end}
+EN: I see. Then big sister will go get your hat back.{p}{end}
+
+## MGT11 g1 s0035
+JP: ええ、まかせといて。{n}ちょっと待っててね!{p}
+EN: Sure, leave it to me. Wait right here, OK?{p}
+
+## MGT11 g1 s0037
+JP: {col:3}女の子{col:-}{n}「ありがとう、おねえちゃん!{n}{sp}ワーイ!{sp}ワーイ!」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Thank you, big sister! Yay! Yay!"{p}{end}
+
+## MGT11 g1 s0046
+JP: 授業も終わったし、{n}ちょっと寄り道して帰ろうかな。{p}
+EN: Classes are over. Maybe I'll make a little detour on the way home.{p}
+
+## MGT11 g1 s0050
+JP: なんか強そうだわ、{n}どうしよう?{p}{end}
+EN: They look kinda tough. What should I do?{p}{end}
+
+## MGT11 g1 s0052
+JP: ねえ、あなたたち!{n}弱い者いじめなんかして卑怯よ!{p}
+EN: Hey, you guys! Picking on someone weaker is cowardly!{p}
+
+## MGT11 g1 s0053
+JP: {col:3}不良風の集団の一人{col:-}{n}「女のくせに面白えじゃねえか!{n}{sp}みんな!{sp}やっちまおうぜ!」{p}
+EN: {col:3}Delinquent{col:-}{n}"A girl, huh? That's a laugh! Guys! Let's get her!"{p}
+
+## MGT11 g1 s0054
+JP: {col:3}不良風の集団の一人{col:-}{n}「ちっ!{n}{sp}女相手に本気出すのはばかばかしいぜ!{n}{sp}みんな!{sp}行こうぜ!」{p}
+EN: {col:3}Delinquent{col:-}{n}"Tch! Going all out on a girl is stupid! Come on, guys!"{p}
+
+## MGT11 g1 s0060
+JP: 力だけでは解決できない問題……。{n}確かにそうかも……。{p}
+EN: Problems strength alone can't solve... Maybe that's true...{p}
+
+## MGT11 g1 s0061
+JP: 一体どうしたの、{n}大勢で一人を囲んで、{n}ちゃんと話し合いましょうよ!{p}{end}
+EN: What's going on here? A whole gang against one kid? Let's talk this out properly!{p}{end}
+
+## MGT11 g1 s0067
+JP: ああ、{n}たまたま通りかかったらな……。{n}立派だったぜ。{p}
+EN: Yeah, I just happened to be passing by... You did good.{p}
+
+## MGT11 g1 s0085
+JP: 女といえども{n}この十ヶ条を守り通してみろ。{n}その時俺はお前を迎えに来るぜ。{n}じゃあな。{p}
+EN: Girl or not, see if you can live by these ten rules to the end. When that day comes, I'll come for you. Later.{p}
+
+## MGT11 g1 s0087
+JP: {v4:17}がこの前が誕生日だったって{n}聞いたんでな。{n}一人の男として祝わせてくれ。{p}{end}
+EN: I heard your birthday was a little while back, {v4:17}. As a man, let me wish you a happy one.{p}{end}
+

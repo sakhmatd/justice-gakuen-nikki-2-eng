@@ -1,0 +1,3032 @@
+## MGF02 g0 s0000
+JP: 今日は修一さんに、大事な用があるから、{n}早めに部活にでるようにいわれている。{n}さっそくいってみよう。{p}{end}
+EN: Shuichi-san told me to come to practice early today. He's got something important for me. Better head over.{p}{end}
+
+## MGF02 g0 s0001
+JP: よぉ来た来た。{n}遅いじゃねぇか、{v3:3}。{p}
+EN: Hey, there ya are! You're late, {v3:3}.{p}
+
+## MGF02 g0 s0002
+JP: 来たな、{v1}{col:0}君{col:-}。{n}待ってたぞ。{p}{end}
+EN: There you are, {v1}{col:0}-kun{col:-}. I've been waiting.{p}{end}
+
+## MGF02 g0 s0003
+JP: 修一さんに将馬……。{n}将馬も早く来るようにいわれたの?{p}
+EN: Shuichi-san and Shoma... Shoma, did they tell you to come early too?{p}
+
+## MGF02 g0 s0004
+JP: おお!{n}なんだオマエ、理由を聞いてないのか?{p}{end}
+EN: Yup! What, nobody told ya why?{p}{end}
+
+## MGF02 g0 s0005
+JP: 実はな……。{n}一軍メンバーが一人ケガをして、{n}在学中の現役復帰が絶望的になったんだ。{p}{end}
+EN: Here's the thing... One of our first-string players got hurt. There's no way he'll be back on the field before he graduates.{p}{end}
+
+## MGF02 g0 s0006
+JP: そこで、俺はお前ら二人のどちらかを、{n}一軍にあげようと思っている。{n}そこで、二人に勝負して{n}もらおうと思うんだ。{p}{end}
+EN: So I'm thinking of moving one of you two up to the first string. And I want you to settle it with a match.{p}{end}
+
+## MGF02 g0 s0007
+JP: 一軍入りをかけて、将馬と勝負か……。{n}いいですよ、やりましょう!{p}{end}
+EN: A match with Shoma for a first-string spot... All right, let's do it!{p}{end}
+
+## MGF02 g0 s0008
+JP: お、強気だな!{n}オイラもいいぜ!{n}この際、私情もはさまねえぞ。{n}勝っても負けても恨みっこなしだ!{p}{end}
+EN: Ooh, confident! I'm in too! And I ain't lettin' friendship get in the way. Win or lose, no hard feelings!{p}{end}
+
+## MGF02 g0 s0009
+JP: よしっ!{n}で、修一さん、勝負の方法は?{p}
+EN: All right! So, Shuichi-san, how do we settle it?{p}
+
+## MGF02 g0 s0010
+JP: うむ、それなんだが……、{n}将馬が投げて、{n}{v1}{col:0}君{col:-}が打つ。{n}これでどうだ?{p}
+EN: Right, about that... Shoma pitches, and {v1}{col:0}-kun{col:-} bats. How's that sound?{p}
+
+## MGF02 g0 s0011
+JP: 単純でいいじゃん!{n}打てれば、{v3:3}の勝ち、{n}打ちとればオイラの勝ち、{n}ってことだな!{p}{end}
+EN: Nice and simple! If ya get a hit, you win, {v3:3}. If I get ya out, I win. Right?{p}{end}
+
+## MGF02 g0 s0012
+JP: まぁそういうことだ。{n}じゃ、準備ができ次第始めよう。{p}{end}
+EN: That's about it. We'll start as soon as you're ready.{p}{end}
+
+## MGF02 g0 s0014
+JP: よしっ!{n}いつでも来い!!{p}
+EN: All right! Bring it on!!{p}
+
+## MGF02 g0 s0015
+JP: いくぞ!{n}手加減しねぇからな!!{p}{end}
+EN: Here I come! I ain't holdin' back!!{p}{end}
+
+## MGF02 g0 s0016
+JP: よし、3球勝負だ。{n}気合を入れていけ!{p}
+EN: OK, three pitches. Give it everything you've got!{p}
+
+## MGF02 g0 s0017
+JP: よしっ!{n}そぉりゃーーーっ!{n}分身魔球!!{p}
+EN: All right! Hyaaaah! Hundred Balls!!{p}
+
+## MGF02 g0 s0018
+JP: スパーーーーーン!!{p}{end}
+EN: SMAAAAACK!!{p}{end}
+
+## MGF02 g0 s0019
+JP: （しまった、将馬にはコレがあった……。{n}{sp}たぶん将馬は残り2球も、分身魔球で{n}{sp}来るだろう……。{n}{sp}何としても見極めないと!）{p}
+EN: (Dang, I forgot Shoma has that one... He'll probably throw Hundred Balls for the last two pitches too... I have to see through it somehow!){p}
+
+## MGF02 g0 s0020
+JP: よーーーし、次いくぞ!{n}そぉりゃーーーっ!!{n}分身魔球ッ!!{p}{end}
+EN: Okaaay, next one! Hyaaaah!! Hundred Balls!!{p}{end}
+
+## MGF02 g0 s0021
+JP: {face:1}（来たっ!{n}{sp}集中してホンモノの球を{n}{sp}見極めないと!!）{face:255}{p}
+EN: {face:1}(Here it comes! I have to focus and spot the real ball!!){face:255}{p}
+
+## MGF02 g0 s0023
+JP: どうしたどうした!{n}バットは振らないと、{n}当たらないぜ!!{p}
+EN: What's the matter, huh? Ya gotta swing the bat if ya wanna hit anything!!{p}
+
+## MGF02 g0 s0024
+JP: （それはわかってるんだけど……、{n}{sp}初めは10球くらいに見えた{n}{sp}分身魔球も、今回は6球くらいまで{n}{sp}見極めることができた……）{p}{end}
+EN: (I know that, but... At first Hundred Balls looked like ten balls. This time I got it down to about six...){p}{end}
+
+## MGF02 g0 s0025
+JP: （しかし、それじゃ全然ダメだ。{n}{sp}こうなったらカンに{n}{sp}頼るしかないか……）{p}{end}
+EN: (But that's no good at all. Looks like I'll have to trust my gut...){p}{end}
+
+## MGF02 g0 s0026
+JP: へへっ、一軍の座はもらったぜ!{n}いくぞっ!{n}分身魔球っっっ!!{p}
+EN: Heh, that first-string spot's mine! Here goes! Hundred Baaalls!!{p}
+
+## MGF02 g0 s0027
+JP: （カッ!!{n}{sp}3球まで絞って見える!!{n}{sp}こうなったら、カンで勝負だ!!）{p}
+EN: (There!! I can narrow it down to three!! Now it's all on my gut!!){p}
+
+## MGF02 g0 s0028
+JP: 高めの球{n}内角の球{n}外角の球{p}{end}
+EN: The high one{n}The inside one{n}The outside one{p}{end}
+
+## MGF02 g0 s0029
+JP: そこだーーーっ!{p}{end}
+EN: Right theeere!{p}{end}
+
+## MGF02 g0 s0030
+JP: カキーーーーーン!!{p}{end}
+EN: CRAAAAACK!!{p}{end}
+
+## MGF02 g0 s0031
+JP: グハァッ!{p}
+EN: Gwaah!{p}
+
+## MGF02 g0 s0032
+JP: ……う、打たれた……。{n}文句ないホームランだぜ……、{n}{v3:3}……。{p}{end}
+EN: ...Y-ya hit it... A home run, no question... {v3:3}...{p}{end}
+
+## MGF02 g0 s0033
+JP: オイラの最高の一球だったのに……。{n}いや、アレを打たれちゃしょうがねぇな。{n}オイラの負けだよ。{p}
+EN: That was the best pitch I ever threw... Nah, if ya can hit that, there's nothin' I can do. I lose.{p}
+
+## MGF02 g0 s0034
+JP: 将馬……。{p}
+EN: Shoma...{p}
+
+## MGF02 g0 s0035
+JP: そんな顔すんなって。{n}恨みっこなしの約束だろ?{p}
+EN: Don't make that face. We said no hard feelings, right?{p}
+
+## MGF02 g0 s0036
+JP: オイラだって、{n}もうチャンスがないワケじゃないんだ。{n}すぐオイラも一軍にいくから、{n}先にいって待っときなって。{p}
+EN: It ain't like this was my last chance, y'know. I'll make the first string soon too, so go on ahead and wait for me.{p}
+
+## MGF02 g0 s0037
+JP: うん、将馬の言うとおりだ。{n}すばらしいバッティングだったぞ。{n}まさか、あの分身魔球が打てるとはな。{p}
+EN: Yeah, Shoma's right. That was great batting. I never thought anyone could hit Hundred Balls.{p}
+
+## MGF02 g0 s0038
+JP: これも、一年間の努力の成果だ、{n}もっと胸を張れよ、{n}{v1}{col:0}君{col:-}。{p}
+EN: That's what a year of hard work gets you. Hold your head high, {v1}{col:0}-kun{col:-}.{p}
+
+## MGF02 g0 s0039
+JP: ありがとうございます、修一さん。{n}将馬も……ありがとう。{p}{end}
+EN: Thank you, Shuichi-san. And Shoma... thanks.{p}{end}
+
+## MGF02 g0 s0040
+JP: そこだーーーっ!?{p}
+EN: Right theeere!?{p}
+
+## MGF02 g0 s0041
+JP: スカッ!{n}パスンッ!!{p}
+EN: Whiff! Thwap!!{p}
+
+## MGF02 g0 s0042
+JP: しまった、読みはあたったのに!{n}間に合わなかった……。{p}
+EN: Dang, I read it right, but I was too slow...{p}
+
+## MGF02 g0 s0045
+JP: しまった……{n}全然、読みがはずれちまった……。{p}
+EN: Dang... I guessed totally wrong...{p}
+
+## MGF02 g0 s0046
+JP: へへ～ン、{n}悪いな{v3:3}!{n}オイラの勝ちだ!{p}
+EN: Heh heh~! Sorry, {v3:3}! I win!{p}
+
+## MGF02 g0 s0047
+JP: ……残念だったな、{v1}{col:0}君{col:-}。{n}お前の実力は決して将馬には{n}劣っていないんだが……。{p}
+EN: ...Too bad, {v1}{col:0}-kun{col:-}. You're every bit as good as Shoma, though...{p}
+
+## MGF02 g0 s0048
+JP: 実際、今のは一瞬ヒヤッとしたぜ。{n}でも、ま、お互い恨みっこなしだからな。{p}{end}
+EN: Honestly, that one gave me a scare for a second. But hey, no hard feelings either way.{p}{end}
+
+## MGF02 g0 s0049
+JP: ああ……おめでとう将馬。{n}俺もすぐ追いついてやるからな!{p}{end}
+EN: Yeah... Congrats, Shoma. I'll catch up with you soon!{p}{end}
+
+## MGF02 g0 s0050
+JP: その意気だ!{n}将馬もお前も、{n}まだまだこれからだからな!{p}{end}
+EN: That's the spirit! You and Shoma both, you're just getting started!{p}{end}
+
+## MGF02 g0 s0051
+JP: 二人とも{n}早くレギュラーになれるように、{n}がんばれよ!{p}
+EN: Work hard, both of you, so you can make the starting lineup soon!{p}
+
+## MGF02 g0 s0052
+JP: 修一さん……、{n}ありがとうございます。{n}将馬も……がんばれよ。{p}
+EN: Shuichi-san... Thank you. Good luck, Shoma.{p}
+
+## MGF02 g0 s0053
+JP: もうすぐ2月もおわり、{n}春が近いなぁ。{p}
+EN: February's almost over. Spring's on the way.{p}
+
+## MGF02 g0 s0054
+JP: そういえば、沖田先生、今日は{n}特別な練習をするとかいってたな。{n}あの人も特訓が好きだからなぁ。{p}
+EN: Come to think of it, Okita-sensei said we'd do some special training today. He sure loves his special training.{p}
+
+## MGF02 g0 s0055
+JP: 遅いぞ、{v0}!{n}春はバレーの季節だぞ!{n}そして今日の練習は{n}スペシャルコースだ!{p}
+EN: You're late, {v0}! Spring is volleyball season! And today's practice is the special course!{p}
+
+## MGF02 g0 s0056
+JP: かつて全日本で鍛えた、{n}この僕の過去の経験に基づく{n}スペシャルな特訓を{n}お前に伝授しよう!{p}
+EN: I'll pass on to you a special training regimen, based on my own experience on the All-Japan team!{p}
+
+## MGF02 g0 s0057
+JP: というわけで、特訓の場所を{n}3ヶ所用意している。{n}どこも僕が必殺技をあみだした場所だ!{n}お前はどこがいいかな!?{p}{end}
+EN: So I've prepared three training spots. Each is a place where I came up with a special move! Which one do you want!?{p}{end}
+
+## MGF02 g0 s0058
+JP: 階段{n}遊園地{n}海{p}{end}
+EN: The stairs{n}The amusement park{n}The beach{p}{end}
+
+## MGF02 g0 s0059
+JP: ……じゃ、一番近場で……{n}階段ではどうですか?{n}階段って学校の階段ですか?{p}
+EN: ...Then the closest one... How about the stairs? Do you mean the school stairs?{p}
+
+## MGF02 g0 s0060
+JP: 階段か!{n}その通り、学校の階段だ!{n}よしっさっそくいくぞ!{p}
+EN: The stairs! That's right, the school stairs! OK, let's go!{p}
+
+## MGF02 g0 s0061
+JP: ……僕ら全日本は、かつて高角度の{n}スパイクに悩まされていた。{n}当時世界には、ものすごい巨人が{n}ゴロゴロいたんだな。{p}
+EN: ...Back then, we on the All-Japan team were plagued by high-angle spikes. The world was full of giants back then.{p}
+
+## MGF02 g0 s0062
+JP: しかし、当時日本にはそんな{n}高いところからスパイクが打てる{n}選手がいなかった……そこで、{n}この僕が考えたのが……、{p}
+EN: But Japan had no players who could spike from that high up... So what I came up with was...{p}
+
+## MGF02 g0 s0063
+JP: この階段を使ったレシーブ練習さ!{n}見たまえ、この高低差!{n}しかも足場は狭いから、{n}正確な動きが要求される!!{p}{end}
+EN: Receiving practice on these stairs! Look at this height difference! And the footing's narrow, so you need precise movement!!{p}{end}
+
+## MGF02 g0 s0064
+JP: この特訓で生み出したのが、{n}僕の17の必殺技の一つ、{n}「階段レシーブ」だ!!{p}{end}
+EN: And what I created with this training was one of my seventeen special moves, the "Staircase Receive"!!{p}{end}
+
+## MGF02 g0 s0065
+JP: （ウソだろ……?{n}{sp}こんな狭いところで練習できるのか?{n}{sp}しかも「階段レシーブ」って{n}{sp}いったい……?）{p}{end}
+EN: (You're kidding...? Can you even practice in a cramped spot like this? And what the heck is a "Staircase Receive"...?){p}{end}
+
+## MGF02 g0 s0066
+JP: それじゃ、特訓開始だ!{n}夏!{sp}思い切り頼むぞ!!{p}{end}
+EN: Now, let the training begin! Natsu! Give it all you've got!!{p}{end}
+
+## MGF02 g0 s0067
+JP: はい!{sp}先生!!{n}ファイヤーーーッ!!{n}いっけぇーー!!{p}{end}
+EN: Yes, sensei!! Fiiiire!! Take thaaat!!{p}{end}
+
+## MGF02 g0 s0068
+JP: う、うわぁぁぁ!!{p}
+EN: Wh-whoaaa!!{p}
+
+## MGF02 g0 s0070
+JP: （なんとかケガしなくてすんだが、{n}{sp}ボールが壁や階段にヘンな風に{n}{sp}跳ね返るから、全然とれなかった……。{n}{sp}ヒドイ目にあった……）{p}
+EN: (I managed not to get hurt, but the ball bounced off the walls and stairs all weird, and I couldn't get a single one... That was awful...){p}
+
+## MGF02 g0 s0071
+JP: そうか、必殺技は{n}会得できなかったか……。{n}やはりこの練習は、僕という天才で{n}初めて成功できるものかもしれないな。{p}
+EN: I see, so you couldn't master the special move... Maybe this training only works for a genius like me.{p}
+
+## MGF02 g0 s0072
+JP: 先生……ホントにこの練習、{n}全日本でやってたんですか?{p}
+EN: Sensei... Did the All-Japan team really do this practice?{p}
+
+## MGF02 g0 s0073
+JP: いや、採用される予定だったが、{n}ネットの側に高い足場を置くという{n}アイデアに紙一重で破れてね、{n}僕も一回しかやってない。{p}{end}
+EN: No. It was going to be adopted, but it lost by a hair to the idea of putting a tall platform by the net. I only did it once myself.{p}{end}
+
+## MGF02 g0 s0074
+JP: ……あ……やっぱり……。{p}{end}
+EN: ...Ah... I figured...{p}{end}
+
+## MGF02 g0 s0075
+JP: （……まったく効果がなかった{n}{sp}わけじゃないけど、{n}{sp}……この練習はないよなぁ……）{p}{end}
+EN: (...It's not like it did nothing, but... this practice is just wrong...){p}{end}
+
+## MGF02 g0 s0076
+JP: じゃ……、一番楽しそうな遊園地で、{n}お願いします。{p}
+EN: Then... the amusement park, since it sounds the most fun.{p}
+
+## MGF02 g0 s0077
+JP: 遊園地か!{n}いいだろう!{n}覚悟しておけよ!{p}
+EN: The amusement park! Very well! Brace yourself!{p}
+
+## MGF02 g0 s0078
+JP: かつて僕は、この2回宙返りの{n}ジェットコースターに乗っている時に{n}気づいたんだ……このコースターの{n}回転を身につけることができれば、{p}{end}
+EN: Once, while riding this double-loop roller coaster, I realized... If I could make the coaster's spin my own,{p}{end}
+
+## MGF02 g0 s0079
+JP: 必ず驚異的な力を出すことができる。{n}そこで僕はこいつに乗り続けた。{n}一日に30回以上、それを一ヶ月間{n}それこそ血ヘドをはくくらいね。{p}{end}
+EN: I could unleash incredible power. So I kept riding it. Over thirty times a day, for a whole month, until I practically coughed up blood.{p}{end}
+
+## MGF02 g0 s0080
+JP: この特訓の末、編み出したのが、{n}僕の17の必殺技の一つ、{n}「2回宙返りジェットスパイク」だ!!{p}
+EN: What I came up with after that training was one of my seventeen special moves, the "Double-Loop Jet Spike"!!{p}
+
+## MGF02 g0 s0081
+JP: （……おおっ!{sp}技の内容は{n}{sp}わからないが、とにかくすごい名前だ!{n}{sp}しかし……効果あるのか?{n}{sp}ホントに。）{p}
+EN: (...Whoa! No idea what the move does, but what a name! But... does it actually work?){p}
+
+## MGF02 g0 s0082
+JP: それじゃ、特訓開始だ!{n}さぁ!{sp}さっそくこのコースターに{n}乗るんだ!!{p}
+EN: Now, let the training begin! Come on! Get on this coaster right now!!{p}
+
+## MGF02 g0 s0083
+JP: 今日のノルマは30回だ!{n}気合い入れていけ!!{p}
+EN: Today's quota is thirty rides! Give it your all!!{p}
+
+## MGF02 g0 s0084
+JP: （30回?{n}{sp}一回や二回なら平気だけど、{n}{sp}いきなり30回連続で乗るのか?）{p}{end}
+EN: (Thirty? One or two is fine, but thirty in a row, just like that?){p}{end}
+
+## MGF02 g0 s0085
+JP: あわわ……うわぁぁぁ……!!{p}{end}
+EN: Wh-wh-whoa... Waaaaah...!!{p}{end}
+
+## MGF02 g0 s0087
+JP: （ウ……ウプ、気分悪い……。{n}{sp}さすがに15回でギブアップして{n}{sp}しまった……。{n}{sp}アタマの中がグルングルンしてるよ……）{p}
+EN: (Urp... I feel sick... Fifteen was all I could take... My head's spinning round and round...){p}
+
+## MGF02 g0 s0088
+JP: そうか……お前でも{n}「2回宙返りジェットスパイク」の{n}伝承者にはなれないか……。{n}残念だ……。{p}
+EN: I see... So even you can't be heir to the "Double-Loop Jet Spike"... What a shame...{p}
+
+## MGF02 g0 s0089
+JP: 先生……そのスパイクって、{n}どんな技なんですか?{p}{end}
+EN: Sensei... What kind of move is that spike, anyway?{p}{end}
+
+## MGF02 g0 s0090
+JP: うむ……この技は幻の技でな。{n}例の特訓を終えた次の日の試合で、{n}一度だけ……僕は打った後、気を失ったから{n}どんな球かはわからないんだ。{p}
+EN: Hm... It's a phantom move. I hit it just once, in a match the day after that training. I passed out right after, so I never saw what it did.{p}
+
+## MGF02 g0 s0091
+JP: ……先生……それって夢だったんじゃ……。{p}{end}
+EN: ...Sensei... Wasn't that just a dream...?{p}{end}
+
+## MGF02 g0 s0092
+JP: （……ジェットコースターにただで{n}{sp}乗れたのはいいが……それ以上に{n}{sp}気分が悪くなった……）{p}{end}
+EN: (...Riding a roller coaster for free was nice, but... it made me way sicker than it was worth...){p}{end}
+
+## MGF02 g0 s0093
+JP: じゃ……一番まともそうな、海で……。{p}{end}
+EN: Then... the beach, since it sounds the most normal...{p}{end}
+
+## MGF02 g0 s0094
+JP: 海か!!{n}いいだろう!{n}春の海は冷たいぞ!!{p}{end}
+EN: The beach!! Very well! The sea in spring is cold!!{p}{end}
+
+## MGF02 g0 s0095
+JP: かつて僕は、ある事情から服を{n}着たまま海に入る機会があったんだが、{n}その時、僕は気づいたんだ。{n}水の中では、身体が動かしにくい、とね!{p}
+EN: Once, for certain reasons, I ended up in the sea with my clothes on, and that's when I realized something. It's hard to move in the water!{p}
+
+## MGF02 g0 s0096
+JP: これはきっと、下半身を鍛える効果が{n}あるに違いない!!{sp}それ以来、僕は{n}秘密特訓として、腰まで水に入って、{n}練習したものさ!{p}{end}
+EN: This had to be great for training the lower body!! Ever since, I've trained in secret, standing waist-deep in the water!{p}{end}
+
+## MGF02 g0 s0097
+JP: その特訓で身につけたのが、{n}僕の17の必殺技の一つ、{n}「大津波ブロック」だ!!{p}
+EN: What I mastered in that training was one of my seventeen special moves, the "Great Tsunami Block"!!{p}
+
+## MGF02 g0 s0098
+JP: 先生……その練習法って、{n}わりと一般的だと思うんですが。{p}{end}
+EN: Sensei... I think that kind of training is pretty common.{p}{end}
+
+## MGF02 g0 s0099
+JP: おおかた、僕の特訓を盗み見たんだろう。{n}ま、僕は寛大だからね、{n}スポーツの発展の前には、{n}僕の著作権なんて、ちっぽけな問題さ。{p}
+EN: Most likely they spied on my training. Well, I'm a generous man. Next to the progress of sports, my copyright is a tiny issue.{p}
+
+## MGF02 g0 s0100
+JP: （……自信たっぷりだな。{n}{sp}なんかいろいろ間違ってる気もするが……{n}{sp}まぁいいか。）{p}{end}
+EN: (...He's so sure of himself. I feel like he's wrong about a lot of things... but whatever.){p}{end}
+
+## MGF02 g0 s0101
+JP: よし、それじゃ特訓開始だ!{n}夏!{sp}思いっきり頼むぞ!{p}{end}
+EN: All right, let the training begin! Natsu! Give it all you've got!{p}{end}
+
+## MGF02 g0 s0105
+JP: ……ふぅ、先生のいってることは{n}メチャクチャだったけど、{n}練習自体は効果があったな。{p}{end}
+EN: ...Phew. What sensei says is nuts, but the practice itself actually worked.{p}{end}
+
+## MGF02 g0 s0106
+JP: グーッだ!!{n}お前はスジがいい!!{n}これならきっと、「大津波ブロック」の{n}伝承者になれるぞ!!{p}
+EN: Great stuff!! You've got a knack for this!! At this rate you can be heir to the "Great Tsunami Block"!!{p}
+
+## MGF02 g0 s0107
+JP: （あんまりなりたくないような……）{p}
+EN: (Not sure I want to be...){p}
+
+## MGF02 g0 s0108
+JP: さすがだな、僕の期待通りだ。{n}一年間努力してきた甲斐があったな。{n}お前なら来年には、{n}チームのエースになれるぞ。{p}{end}
+EN: Just what I'd expect, just as I hoped. A year of hard work paid off. You could be the team's ace by next year.{p}{end}
+
+## MGF02 g0 s0109
+JP: は、はい!{n}ありがとうございます!{p}
+EN: Y-yes! Thank you!{p}
+
+## MGF02 g0 s0110
+JP: ……たしかに理論は正しそうだが、{n}服がびしょ濡れになってしまった。{n}練習はそこそこ効果が{n}あったみたいだけど……。{p}
+EN: ...The theory seems right, but my clothes got soaked. The practice seemed to work somewhat, though...{p}
+
+## MGF02 g0 s0111
+JP: そうか……お前でも{n}「大津波ブロック」はマスターできないか。{n}しかし、気を落とすなよ、{n}それができなくても生きていける!!{p}
+EN: I see... So even you can't master the "Great Tsunami Block". But don't lose heart. You can live without it!!{p}
+
+## MGF02 g0 s0112
+JP: さぁ!{sp}あの夕陽に向かって走るぞ!{n}オーーーッ!{p}{end}
+EN: Come on! Let's run toward that sunset! Ohhhh!{p}{end}
+
+## MGF02 g0 s0113
+JP: 一人で盛り上がって{n}行ってしまった……。{n}……寒ッ、このままじゃカゼひくな……。{n}さっさと家に帰ろう……。{p}
+EN: He got all fired up on his own and ran off... Brr, I'll catch a cold like this... Better hurry home...{p}
+
+## MGF02 g0 s0114
+JP: もう2月も終わり、{n}春が近いなぁ。{p}
+EN: February's almost over. Spring's on the way.{p}
+
+## MGF02 g0 s0115
+JP: サッカー部では、冬の大会も終わり、{n}新入生が入ってくる春に向けて、{n}毎年恒例のちょっとした{n}イベントがあるらしい。{p}
+EN: Now that the winter tournament is over, the soccer club has a little yearly event before spring, when the new members join.{p}
+
+## MGF02 g0 s0116
+JP: 遅いぞ、{v3:5}。{n}もうそろそろ、競技が始まるぞ。{p}
+EN: You're late, {v3:5}. The contest's about to start.{p}
+
+## MGF02 g0 s0117
+JP: やぁ、ロベルト。{n}すまん、すまん。{n}ところで、{n}競技って何をやるんだ?{p}
+EN: Hey, Roberto. Sorry, sorry. So what's the contest, anyway?{p}
+
+## MGF02 g0 s0118
+JP: すみません、{n}連絡してませんでしたね。{n}今日のイベントって、{n}リフティング大会なんです。{p}{end}
+EN: I'm sorry, I didn't tell you, did I? Today's event is a juggling contest.{p}{end}
+
+## MGF02 g0 s0119
+JP: リフティングのやり方、{n}ご存じですか?{n}一応説明しておきますね。{p}{end}
+EN: Do you know how to juggle? I'll explain it just in case.{p}{end}
+
+## MGF02 g0 s0120
+JP: ようは、的確に{n}蹴れればいいんですが、{n}ちょっとコツがあるんです。{p}
+EN: Basically, you just need to kick it accurately, but there's a little trick to it.{p}
+
+## MGF02 g0 s0121
+JP: ボールが前にいったら「ヒザ」で{n}ボールが上にいったら「アタマ」で{n}ボールが後ろにいったら「カカト」で{n}蹴るとうまくいきます。{p}{end}
+EN: If the ball goes forward, use your knee. If it goes up, use your head. If it goes behind you, use your heel. Kick it like that and it works.{p}{end}
+
+## MGF02 g0 s0122
+JP: そして、当然それを{n}すばやくしないとダメだ。{p}{end}
+EN: And of course, you have to do it fast.{p}{end}
+
+## MGF02 g0 s0123
+JP: もう一度説明をきく{n}説明はもういい{p}
+EN: Hear it again{n}That's enough{p}
+
+## MGF02 g0 s0124
+JP: なるほど、わかったよ。{n}ようはリフティングを長く続けれれば{n}いいんだな。{p}{end}
+EN: Got it, makes sense. Basically I just have to keep juggling as long as I can.{p}{end}
+
+## MGF02 g0 s0125
+JP: そうだな。{n}ま、みんなサッカー部だから{n}長くできて当たり前だがな。{p}
+EN: Right. Well, everyone here's in the soccer club, so of course they can go for a long time.{p}
+
+## MGF02 g0 s0126
+JP: で、ノルマ達成できなければ、{n}来年度の雑用委員に任命というワケだ。{n}新入部員への雑用の指導と実践、{n}不備があったときの責任もとると。{p}{end}
+EN: Miss the quota and you're on next year's chore committee. That means teaching new members the chores, doing them, and taking the blame for slip-ups.{p}{end}
+
+## MGF02 g0 s0127
+JP: あんまり、やりたくない委員だなぁ。{p}
+EN: That's not a committee I want to be on...{p}
+
+## MGF02 g0 s0128
+JP: そういうことだ。{n}ノルマは100回だが、{n}お前の実力なら、楽勝だろ?{p}{end}
+EN: That's the idea. The quota's 100, but with your skills, it's a cinch, right?{p}{end}
+
+## MGF02 g0 s0129
+JP: あ、そろそろ開始みたいですよ。{n}準備してください。{n}二人ともがんばってくださいね。{p}
+EN: Oh, looks like it's about to start. Please get ready. Good luck, both of you.{p}
+
+## MGF02 g0 s0130
+JP: よし、気合をいれていこう!{p}
+EN: All right, let's do this!{p}
+
+## MGF02 g0 s0131
+JP: {face:15}・・・・・・・・・・{face:255}{n}それでは、みなさん準備してくださ～い。{n}いきま～す、よ～い、スタート!!{p}
+EN: {face:15}..........{face:255} Everyone, please get ready~. Here we go~, ready, start!!{p}
+
+## MGF02 g0 s0132
+JP: ヨッ、ヨッ、ヨッっと。{n}しばらくは続けられそうだな……。{n}{face:15}・・・・・・・・・・{face:255}{n}……48、49、50、とまだまだいける!{p}{end}
+EN: Hup, hup, hup. I can keep this going for a while... {face:15}..........{face:255} ...48, 49, 50, still going strong!{p}{end}
+
+## MGF02 g0 s0133
+JP: {face:15}・・・・・・・・・・{face:255}{n}何人か脱落者がでてきてるな。{n}……ヨッ、ヨッ、ヨッと。{n}78、79、80っと。{p}{end}
+EN: {face:15}..........{face:255} A few people are dropping out. ...Hup, hup, hup. 78, 79, 80.{p}{end}
+
+## MGF02 g0 s0134
+JP: {v0}{col:0}君{col:-}、{n}がんばってくださいね!{p}
+EN: {v0}{col:0}-kun{col:-}, good luck!{p}
+
+## MGF02 g0 s0135
+JP: ……97、と。{n}よし、あと少しで100回だ、{n}そろそろ慎重に……。{p}
+EN: ...97. OK, almost at 100. Time to be careful...{p}
+
+## MGF02 g0 s0136
+JP: 前にいきましたよ!{p}
+EN: It went forward!{p}
+
+## MGF02 g0 s0137
+JP: アタマ{n}カカト{n}ヒザ{p}{end}
+EN: Head{n}Heel{n}Knee{p}{end}
+
+## MGF02 g0 s0138
+JP: 98、いい調子です!{p}{end}
+EN: 98, nice going!{p}{end}
+
+## MGF02 g0 s0139
+JP: ああっ、ちょっと{n}遅かったみたいです……!{p}
+EN: Oh no, looks like you were a little late...!{p}
+
+## MGF02 g0 s0140
+JP: ああっ、落ちちゃった……。{p}
+EN: Oh no, it dropped...{p}
+
+## MGF02 g0 s0141
+JP: 次は、後ろです!{p}{end}
+EN: Next, it's behind you!{p}{end}
+
+## MGF02 g0 s0142
+JP: ヒザ{n}アタマ{n}カカト{p}{end}
+EN: Knee{n}Head{n}Heel{p}{end}
+
+## MGF02 g0 s0143
+JP: 99、あと一回です!{p}{end}
+EN: 99, just one more!{p}{end}
+
+## MGF02 g0 s0146
+JP: はい、上です!{p}
+EN: OK, it's up!{p}
+
+## MGF02 g0 s0147
+JP: アタマ{n}メダマ{n}キモッタマ{p}
+EN: Head{n}Eyeball{n}Guts{p}
+
+## MGF02 g0 s0148
+JP: 100!{n}ノルマ達成です!{n}……あっ!{p}
+EN: 100! You made the quota! ...Oh!{p}
+
+## MGF02 g0 s0150
+JP: ああっ、落ちちゃった……。{n}そんなムチャしちゃダメですよ。{p}
+EN: Oh no, it dropped... You shouldn't try anything that crazy.{p}
+
+## MGF02 g0 s0151
+JP: ああっ、落ちちゃった……。{n}今の、どこで蹴ろうとしたんですか?{p}
+EN: Oh no, it dropped... What were you trying to kick it with just now?{p}
+
+## MGF02 g0 s0152
+JP: しまった、{n}前に飛ばしすぎた!!{p}{end}
+EN: Dang, I sent it too far forward!!{p}{end}
+
+## MGF02 g0 s0153
+JP: 空中でとらえてライジングキック!{n}地表すれすれをスライディングキック!{p}
+EN: Rising kick in midair!{n}Sliding kick along the ground!{p}
+
+## MGF02 g0 s0154
+JP: ここは、落ちる前にライジングキックで{n}真上に蹴り上げる!!{p}
+EN: I'll catch it with a rising kick before it drops and send it straight up!!{p}
+
+## MGF02 g0 s0155
+JP: 「スカッ!」{n}あ、あら!?{p}
+EN: "Whiff!" Wh-whoa!?{p}
+
+## MGF02 g0 s0156
+JP: しまった、さすがに{n}前に蹴ったボールには{n}届かないか……。{n}しかたないな。{p}
+EN: Dang, I can't reach a ball I kicked that far forward... Oh well.{p}
+
+## MGF02 g0 s0157
+JP: 間に合うか!?{n}スライディング!!{p}
+EN: Will I make it!? Slide!!{p}
+
+## MGF02 g0 s0158
+JP: バシュッ!{p}
+EN: Thwack!{p}
+
+## MGF02 g0 s0159
+JP: よしっ、気合のスライディングが届いた!{n}真上に高くあげたから、{n}これで持ち直せるぞ!{p}{end}
+EN: All right, my gutsy slide reached it! I sent it high, straight up, so I can recover from this!{p}{end}
+
+## MGF02 g0 s0160
+JP: （……結局、ここで体勢を持ち直して、{n}{sp}順調に記録を伸ばし、{n}{sp}最終的にロベルトと優勝を争ったが、{n}{sp}おしくも負けてしまった……）{p}
+EN: (...In the end, I recovered there and kept racking up kicks. I fought Roberto for first place, but lost by a hair...){p}
+
+## MGF02 g0 s0162
+JP: ザザーッ……。{n}ポーンポーン……。{p}
+EN: Shhhhk... Boing... boing...{p}
+
+## MGF02 g0 s0163
+JP: 残念、紙一重で届かなかった……。{p}{end}
+EN: Darn, missed it by a hair...{p}{end}
+
+## MGF02 g0 s0164
+JP: さすがですね、{v0}{col:0}君{col:-}。{n}ロベルト君には負けたけど、{n}あそこまでできるなんて……。{p}
+EN: Amazing, {v0}{col:0}-kun{col:-}. You lost to Roberto-kun, but to get that far...{p}
+
+## MGF02 g0 s0165
+JP: まったくだ。{n}俺とここまで張りあったのは、{n}お前が初めてだぜ。{p}
+EN: No kidding. You're the first one who ever pushed me that hard.{p}
+
+## MGF02 g0 s0166
+JP: ありがとな、ロベルト、まり。{p}{end}
+EN: Thanks, Roberto, Mari.{p}{end}
+
+## MGF02 g0 s0167
+JP: 4月にはとてもここまでなるとは{n}思えなかったが……、{n}まさに1年間の努力の成果だな。{n}すごいヤツだよ、お前は。{p}
+EN: Back in April I never thought you'd get this good... That's a whole year of hard work. You're something else, you know that?{p}
+
+## MGF02 g0 s0168
+JP: お疲れさま……。{n}ゆっくり休んでくださいね……{p}
+EN: Good work today... Get some good rest...{p}
+
+## MGF02 g0 s0169
+JP: おしかったですね。{n}最後でヘンな方に飛んじゃったから……。{p}
+EN: So close. It flew off in a weird direction at the end...{p}
+
+## MGF02 g0 s0170
+JP: いやぁ、最後のは、もう少し{n}俺に実力があればとれたんだけどね……。{n}まぁしかたないか、100回の{n}ノルマは達成したし。{p}
+EN: Yeah, I could've gotten that last one if I were a bit better... Oh well. At least I made the 100 quota.{p}
+
+## MGF02 g0 s0171
+JP: そうだな。{n}ノルマクリアできなかった部員もいるし。{n}お前にしては上出来だろう。{p}
+EN: Yeah. Some members didn't even clear the quota. Not bad, for you.{p}
+
+## MGF02 g0 s0172
+JP: そうだなぁ。{n}もう少し、いけると思ったんだが……。{p}
+EN: Yeah... I thought I could go a little further, though...{p}
+
+## MGF02 g0 s0173
+JP: ともかく、お疲れさまでした。{p}{end}
+EN: Anyway, good work today.{p}{end}
+
+## MGF02 g0 s0174
+JP: 残念でしたね、ノルマ越えられなくって。{n}私の応援が悪かったのでしょうか?{p}{end}
+EN: Too bad about the quota. Maybe my cheering wasn't good enough?{p}{end}
+
+## MGF02 g0 s0175
+JP: いや、まりは悪くないよ。{n}俺の判断力の問題かな。{p}{end}
+EN: No, it's not your fault, Mari. It's my judgment, I guess.{p}{end}
+
+## MGF02 g0 s0176
+JP: サッカー選手には、技術と共に、{n}一瞬の判断力も要求されるからな。{n}重要だぞ、それは。{p}{end}
+EN: A soccer player needs split-second judgment as well as technique. That's important.{p}{end}
+
+## MGF02 g0 s0177
+JP: ロベルト……。{n}そうだな。{n}俺もまだまだ修行が足りないや。{p}
+EN: Roberto... Yeah. I still need a lot more training.{p}
+
+## MGF02 g0 s0178
+JP: ともかく、お疲れさまでした。{n}雑用委員、がんばってくださいね。{p}
+EN: Anyway, good work today. Good luck on the chore committee.{p}
+
+## MGF02 g0 s0179
+JP: 今日は、大事な用があるとかで、{n}監督に呼ばれたのだが、{n}いったい何の用だろう?{p}
+EN: The coach called me in today, saying it's something important. I wonder what it is?{p}
+
+## MGF02 g0 s0180
+JP: よぉ、来たな。{n}今日来てもらったのは他ではない、{n}勝負してやって欲しい相手がおるんだ。{p}
+EN: Hey, you made it. I called you here for one reason. There's someone I want you to take on.{p}
+
+## MGF02 g0 s0181
+JP: 勝負……って、試合ですか?{p}
+EN: Take on... You mean a match?{p}
+
+## MGF02 g0 s0182
+JP: まぁそんなところか。{n}な～に、お前の実力なら、大丈夫。{n}わしが保証するさ。{p}
+EN: Something like that. Don't worry, with your skills you'll be fine. I guarantee it.{p}
+
+## MGF02 g0 s0183
+JP: ガッハッハ、誰かと思えば{n}{v3:11}ではないか。{n}これは楽勝じゃい!{p}
+EN: Gahaha, look who it is, {v3:11}! This'll be a cinch!{p}
+
+## MGF02 g0 s0184
+JP: 岩……っていうことは、{n}相手は岩なんですか?{p}{end}
+EN: Gan... Wait, so my opponent is Gan?{p}{end}
+
+## MGF02 g0 s0185
+JP: おうよ。{n}コイツがあまりにも{n}タルんでおるから、ちょっと{n}お灸をすえてやろうと思ってな。{p}{end}
+EN: That's right. This one's gotten way too slack, so I figured I'd teach him a lesson.{p}{end}
+
+## MGF02 g0 s0186
+JP: ガッハッハ。{n}ルール無用のケンカならともかく、{n}相撲でなら負けはせんわい。{p}
+EN: Gahaha. A no-rules brawl is one thing, but in sumo I ain't losin'.{p}
+
+## MGF02 g0 s0187
+JP: たいした自信だな。{n}しかし、わしはコイツが1年間、{n}どれだけがんばってきたか、{n}よく見ておる。{p}
+EN: Quite the confidence. But I've watched closely how hard this one has worked all year.{p}
+
+## MGF02 g0 s0188
+JP: 練習もせずに、悪い仲間と{n}つきあっておったお前に、{n}勝ち目があるとは、{n}わしには思えんがな。{p}{end}
+EN: You skipped practice and ran around with bad company. I don't see you having a chance.{p}{end}
+
+## MGF02 g0 s0189
+JP: ほほぉ、たいした自信じゃのぉ。{n}ええじゃろう、勝負しちゃるわい!{p}{end}
+EN: Ohoho, mighty confident, ain't ya. All right, I'll take ya on!{p}{end}
+
+## MGF02 g0 s0190
+JP: か、監督……!{n}そんな岩と勝負なんて……。{p}
+EN: C-Coach...! A match against Gan...?{p}
+
+## MGF02 g0 s0191
+JP: なんだ、自信がないのか?{p}{end}
+EN: What, not confident?{p}{end}
+
+## MGF02 g0 s0192
+JP: いや、そういうわけじゃ……。{p}{end}
+EN: No, it's not that...{p}{end}
+
+## MGF02 g0 s0193
+JP: なら、ドーーーンとぶつかってこい!{n}1年間の努力を思い出せ!{p}{end}
+EN: Then hit him head-on! Remember a whole year of training!{p}{end}
+
+## MGF02 g0 s0194
+JP: オスッ!{p}{end}
+EN: Osu!{p}{end}
+
+## MGF02 g0 s0195
+JP: 準備はいいかのぉ?{n}そろそろいくぞい!{p}
+EN: Ya ready? Time to get goin'!{p}
+
+## MGF02 g0 s0196
+JP: よぉし!!{n}いくぞ!{p}{end}
+EN: All right!! Let's go!{p}{end}
+
+## MGF02 g0 s0197
+JP: 気合が入ったか?{n}よし、それじゃそろそろやるか。{p}{end}
+EN: Fired up? Good, let's get started.{p}{end}
+
+## MGF02 g0 s0198
+JP: （土俵に入り、岩と向き合う。{n}{sp}さすがにでかいな……）{p}
+EN: (I step into the ring and face Gan. He's huge up close...){p}
+
+## MGF02 g0 s0199
+JP: この際、私情は抜きじゃ。{n}本気でいくから、覚悟しておけよ。{p}
+EN: No friendship in this one. I'm goin' all out, so get ready.{p}
+
+## MGF02 g0 s0200
+JP: 見合って見合って……{n}はっけよい……!{p}
+EN: Face off, face off... Hakkeyoi...!{p}
+
+## MGF02 g0 s0201
+JP: のこった!!{p}{end}
+EN: Nokotta!!{p}{end}
+
+## MGF02 g0 s0202
+JP: {face:2}いくぞいっっ!!{face:255}{p}{end}
+EN: {face:2}Here I cooome!!{face:255}{p}{end}
+
+## MGF02 g0 s0203
+JP: {face:2}（岩が正面から突っ込んできた!{n}{sp}体重はゆうに1{77}5倍以上!{n}{sp}どうする……!!）{face:255}{p}
+EN: {face:2}(Gan's charging straight at me! He's easily 1{77}5 times my weight! What do I do...!?){face:255}{p}
+
+## MGF02 g0 s0204
+JP: こちらも正面からぶちかます!{n}とりあえずかわす!{n}ここは一発、猫だまし!{p}{end}
+EN: Hit him head-on!{n}Dodge for now!{n}Try a nekodamashi clap!{p}{end}
+
+## MGF02 g0 s0205
+JP: （ここは逃げちゃダメだ!!{n}{sp}真正面から……どすこいっっ!!）{p}
+EN: (I can't run from this!! Head-on... Dosukoi!!){p}
+
+## MGF02 g0 s0206
+JP: ドオオオーーーン!!{p}{end}
+EN: BOOOOOM!!{p}{end}
+
+## MGF02 g0 s0207
+JP: ムォッ………ムムム!{p}{end}
+EN: Mmph...... Nnngh!{p}{end}
+
+## MGF02 g0 s0208
+JP: （信じられない!{n}{sp}岩を正面から{n}{sp}受け止められるなんて……!）{p}{end}
+EN: (I can't believe it! I'm holding Gan back head-on...!){p}{end}
+
+## MGF02 g0 s0209
+JP: よしっ、{v1}!!{n}それがお前の1年間の力よ!{n}一気に押し切れ!{p}{end}
+EN: Yes, {v1}!! That's the strength of your year! Push him out in one go!{p}{end}
+
+## MGF02 g0 s0210
+JP: オッス!!{n}うりゃあああぁぁぁーーー!!{p}{end}
+EN: Osu!! Hyaaaaaah!!{p}{end}
+
+## MGF02 g0 s0211
+JP: ぬおっ!?{p}
+EN: Nuoh!?{p}
+
+## MGF02 g0 s0212
+JP: ダダーーーーーンッ!{p}{end}
+EN: WHAAAAAM!{p}{end}
+
+## MGF02 g0 s0213
+JP: よしっ!{n}{v1}の勝ち!!{p}
+EN: That's it! {v1} wins!!{p}
+
+## MGF02 g0 s0214
+JP: ハァッ!{sp}ハァッ!{n}やった……!{sp}信じられない!{n}岩を正面から倒せるなんて……!!{p}
+EN: Hah! Hah! I did it...! I can't believe it! I beat Gan head-on...!!{p}
+
+## MGF02 g0 s0215
+JP: やったな、{v1}!{n}それがお前の力よ。{p}
+EN: Well done, {v1}! That's your strength.{p}
+
+## MGF02 g0 s0216
+JP: 岩のヤツ、のびてやがる。{n}よし、コイツの目が覚めたら、{n}わしがきっちり絞ってやろう。{n}{v1}、すまなかったな。{p}
+EN: Gan's out cold. Fine, once he comes to, I'll put him through the wringer. Sorry about this, {v1}.{p}
+
+## MGF02 g0 s0217
+JP: 岩……大丈夫ですか?{p}{end}
+EN: Gan... Is he OK?{p}{end}
+
+## MGF02 g0 s0218
+JP: 何、軽い脳しんとうよ。{n}それとも、アレだ、{n}お前に力で負けたのがショックで、{n}気を失ったのかもしれんな。{p}{end}
+EN: Just a mild concussion. Or maybe he fainted from the shock of losing to you in strength.{p}{end}
+
+## MGF02 g0 s0219
+JP: お前の実力、{n}しっかり見せてもらったぜ。{n}来年もこの調子で、がんばれよ。{p}{end}
+EN: I saw what you can do, all right. Keep it up next year.{p}{end}
+
+## MGF02 g0 s0221
+JP: （ふぅ……まさか岩を正面から{n}{sp}倒せるとは思わなかったな……。{n}{sp}俺も強くなってるんだ!）{p}
+EN: (Phew... Never thought I'd beat Gan head-on... I really am getting stronger!){p}
+
+## MGF02 g0 s0222
+JP: （ここは逃げちゃダメだ!!{n}{sp}真正面から……うわあぁぁ!?）{p}{end}
+EN: (I can't run from this!! Head-on... Whoaaa!?){p}{end}
+
+## MGF02 g0 s0223
+JP: ガスゥッ!!{n}ドドーーーン!!{p}
+EN: WHUMP!! KA-BOOOM!!{p}
+
+## MGF02 g0 s0224
+JP: ガッハッハッ!!{n}このワシに正面からぶつかってくる{n}度胸は認めてやるが、少々身の程知らず{n}だったようじゃのう!!{p}{end}
+EN: Gahahaha!! I'll give ya credit for the guts to hit me head-on, but looks like ya didn't know your place!!{p}{end}
+
+## MGF02 g0 s0225
+JP: 佐渡先生、{n}予定が狂ってしまったようですのぉ。{n}悪いが、ワシはこれで失礼しますぞい!{p}{end}
+EN: Sado-sensei, looks like your plans went sideways. Sorry, but I'll be takin' my leave!{p}{end}
+
+## MGF02 g0 s0226
+JP: ……いっちゃった。{n}力の差がここまであるとは……。{n}やはり、かわして勝負するべきだったか?{p}
+EN: ...He left. I didn't think the gap in strength was that big... Should I have dodged instead?{p}
+
+## MGF02 g0 s0227
+JP: ……いや、仕方ないさ。{n}お前の選択は間違っちゃぁいない。{n}わしでもそうしただろう……が、{n}少し力不足だったな……。{p}
+EN: ...No, it couldn't be helped. Your choice wasn't wrong. I'd have done the same... but you were a little short on power...{p}
+
+## MGF02 g0 s0228
+JP: 監督……すみませんでした。{n}ご期待に応えられなくて……。{p}{end}
+EN: Coach... I'm sorry. I couldn't live up to your expectations...{p}{end}
+
+## MGF02 g0 s0229
+JP: いや、わしの方こそ悪かったな。{n}今日は帰って、ゆっくり休め。{p}{end}
+EN: No, I'm the one who should be sorry. Go home and rest up today.{p}{end}
+
+## MGF02 g0 s0230
+JP: ……すみません。{p}{end}
+EN: ...I'm sorry.{p}{end}
+
+## MGF02 g0 s0231
+JP: （まともにぶつかったらダメだ!!{n}{sp}とりあえず、かわす!!）{p}{end}
+EN: (Taking him head-on is no good!! Dodge for now!!){p}{end}
+
+## MGF02 g0 s0232
+JP: ひょい!!{p}
+EN: Hop!!{p}
+
+## MGF02 g0 s0233
+JP: グハッ!{sp}なんじゃと!{p}
+EN: Gwah! What the!?{p}
+
+## MGF02 g0 s0234
+JP: （なんとかかわせた!!{n}{sp}岩が体勢を崩した今がチャンス!{n}{sp}一気に送り出してやる!）{p}{end}
+EN: (I dodged him!! Now's my chance, while he's off balance! I'll push him right out!){p}{end}
+
+## MGF02 g0 s0235
+JP: うりゃああぁぁぁーーー!!{p}
+EN: Hyaaaaah!!{p}
+
+## MGF02 g0 s0236
+JP: う、うおっとぉっっ!?{p}
+EN: Wh-whoa there!?{p}
+
+## MGF02 g0 s0237
+JP: ダダーーーン!!{p}{end}
+EN: WHAAAM!!{p}{end}
+
+## MGF02 g0 s0239
+JP: フウ～～……。{n}勝てた……。{n}なんとか勝てた。{p}
+EN: Phewww... I won... I actually won.{p}
+
+## MGF02 g0 s0240
+JP: やったな、{v1}。{n}それがお前の力よ。{n}ま、岩が足腰を鍛えてなかった、{n}ってのもあるがな。{p}
+EN: Well done, {v1}. That's your strength. Then again, Gan hadn't been training his legs and hips either.{p}
+
+## MGF02 g0 s0246
+JP: （ふぅ……まさか岩に相撲で{n}{sp}勝てるとは思わなかったな……。{n}{sp}俺も強くなってるんだ!）{p}{end}
+EN: (Phew... Never thought I'd beat Gan at sumo... I really am getting stronger!){p}{end}
+
+## MGF02 g0 s0247
+JP: （まともにぶつかったらダメだ!!{n}{sp}とりあえず、かわ……せない!?）{p}{end}
+EN: (Taking him head-on is no good!! Dodge for no... I can't!?){p}{end}
+
+## MGF02 g0 s0248
+JP: ぬぅ!{sp}そっちか!!{p}{end}
+EN: Hmph! That way, eh!!{p}{end}
+
+## MGF02 g0 s0249
+JP: ガバァッ!{n}ダダーーーン!!{p}{end}
+EN: GRAB! WHAAAM!!{p}{end}
+
+## MGF02 g0 s0250
+JP: ガッハッハ!!{n}その程度のスピードでは{n}ワシはかわせんわい!!{n}出直して来るんじゃの!!{p}{end}
+EN: Gahaha!! Ya can't dodge me with speed like that!! Go back and try again!!{p}{end}
+
+## MGF02 g0 s0252
+JP: ……いっちゃった。{n}スピードの差がここまであるとは……。{n}やはり、正面から勝負するべきだったか?{p}{end}
+EN: ...He left. I didn't think the gap in speed was that big... Should I have faced him head-on?{p}{end}
+
+## MGF02 g0 s0253
+JP: ……そうかもしれん……。{n}相手の力をおそれるあまり、{n}今日はおまえのいいトコロが{n}まったくみれなかったな……。{p}
+EN: ...Maybe so... You were so scared of his strength that I didn't get to see any of your good points today...{p}
+
+## MGF02 g0 s0257
+JP: （ここは奇策しかない……!{n}{sp}猫だましで動きを止めてやる!{n}{sp}来い!{sp}猫だま……ブオッ!?）{p}{end}
+EN: (Only a trick will work here...! I'll freeze him with a nekodamashi clap! Come on! Nekoda... Bwoh!?){p}{end}
+
+## MGF02 g0 s0259
+JP: ガハハ!!{n}あまいわ!!{p}{end}
+EN: Gahaha!! Not a chance!!{p}{end}
+
+## MGF02 g0 s0260
+JP: ドーン!{n}ダダーーーンッ!!{p}{end}
+EN: BAM! WHAAAM!!{p}{end}
+
+## MGF02 g0 s0261
+JP: ガッハッハ!{n}少しは考えたようだが、{n}ワシにはそんな小細工は通用せんぞい!!{p}{end}
+EN: Gahaha! Ya did some thinkin', I'll give ya that, but cheap tricks like that won't work on me!!{p}{end}
+
+## MGF02 g0 s0263
+JP: ……いっちゃった。{n}もっと正面から相撲をとっていれば……{n}まだましな取り組みになったのに……。{p}
+EN: ...He left. If I'd just wrestled him straight... it would've been a better bout...{p}
+
+## MGF02 g0 s0264
+JP: ……あんな奇策に走るとはな……。{n}もっと自分の力を信じることだ。{n}お前は自分が思っているより、{n}強くなっているぞ……。{p}
+EN: ...Resorting to a trick like that... Have more faith in your own strength. You're stronger than you think...{p}
+
+## MGF02 g0 s0268
+JP: 早いもので、もう2月も終わりか……。{n}今日は土曜日の午後なので、{n}校内にも人がまばらだ。{p}{end}
+EN: Time flies. February's almost over... It's Saturday afternoon, so the school's pretty empty.{p}{end}
+
+## MGF02 g0 s0269
+JP: そういえば、今日は何かイベントが{n}あるって、こずえ先輩がいってたな。{n}いつもの教室にいってみよう。{p}
+EN: Come to think of it, Kozue-senpai said there's some event today. I'll check the usual classroom.{p}
+
+## MGF02 g0 s0270
+JP: 来たわね、{v0}{col:0}クン{col:-}。{n}これでメンバーは全員そろったわね。{p}
+EN: You made it, {v0}{col:0}-kun{col:-}. That makes everyone.{p}
+
+## MGF02 g0 s0271
+JP: こずえ先輩……なんか今日は人が{n}多いですね……。{n}2、4、6、……20人以上いるじゃ{n}ないですか、いつもは3、4人なのに。{p}
+EN: Kozue-senpai... There's a lot of people today... 2, 4, 6... There's over twenty! Usually it's just three or four.{p}
+
+## MGF02 g0 s0272
+JP: それはねぇ……じつはこれ、{n}全員、部員なのよ。{n}ほとんど幽霊部員だけど。{p}{end}
+EN: Well... actually, they're all members. Mostly no-show members, though.{p}{end}
+
+## MGF02 g0 s0273
+JP: そうか……多いとは聞いてましたけど、{n}見るのは初めてです。{n}で、こんなに集まって{n}何のイベントなんですか?{p}
+EN: I see... I'd heard we had a lot, but this is the first time I've seen them. So what's the event that brought everyone here?{p}
+
+## MGF02 g0 s0274
+JP: あら、言ってなかったっけ?{n}今日は、恒例の{n}人体デッサンをやる日なの。{p}
+EN: Oh, didn't I tell you? Today's our yearly figure drawing day.{p}
+
+## MGF02 g0 s0275
+JP: 人体デッサン……!{n}ヌ、ヌードですか!?{p}{end}
+EN: Figure drawing...! N-nude!?{p}{end}
+
+## MGF02 g0 s0276
+JP: まさか。{n}モデルは生徒だし。{n}水着よ、水着。{n}しかも今回は男だし。{p}
+EN: As if. The models are students. Swimsuits, swimsuits. And this time they're guys.{p}
+
+## MGF02 g0 s0277
+JP: 男……ガッカリ……。{n}それで、幽霊部員も女の子が多いのか。{n}しかし、生徒がよく引き受けましたね、{n}水着のモデルなんて。{p}
+EN: Guys... What a letdown... So that's why most of the no-shows are girls. But I can't believe students agreed to model in swimsuits.{p}
+
+## MGF02 g0 s0278
+JP: 一人は、学食一週間食べ放題、{n}もう一人は、ボランティアっていったら{n}喜んで協力してくれたわ。{p}{end}
+EN: One of them got a week of all-you-can-eat at the cafeteria. The other one happily agreed when I said it was volunteer work.{p}{end}
+
+## MGF02 g0 s0279
+JP: 二人ですか……。{n}……なんかだいたい{n}誰かわかったような気が……。{p}
+EN: Two of them... I think I have a pretty good idea who...{p}
+
+## MGF02 g0 s0280
+JP: それじゃ、そろそろはじめるわよ。{n}モデルは二人いるから、{n}AかBか、どちらかを選んでね。{n}ただし、誰かはあとのお楽しみ。{p}{end}
+EN: OK, let's get started. There are two models, so pick A or B. Who they are is a surprise for later.{p}{end}
+
+## MGF02 g0 s0281
+JP: 学食食べ放題につられた“A”{n}ボランティア好きの“B”{p}
+EN: "A", lured by free cafeteria food{n}"B", who loves volunteer work{p}
+
+## MGF02 g0 s0282
+JP: それじゃ俺は……Aクンで。{n}ん、なんかAの方が人気があるなぁ。{n}やっぱりみんな、Aが誰か、{n}わかってるのかな。{p}
+EN: Then I'll go with A. Hm, A seems more popular. I guess everyone knows who A is.{p}
+
+## MGF02 g0 s0283
+JP: みんな決めたわね。{n}それじゃ、モデルの登場です。{p}{end}
+EN: Everyone's decided? Then here come our models.{p}{end}
+
+## MGF02 g0 s0284
+JP: ……やっぱりバツか。{n}アイツは食べ物には熱心だからなぁ。{p}{end}
+EN: ...Batsu, I knew it. He's always serious about food.{p}{end}
+
+## MGF02 g0 s0285
+JP: お……なんでこんなトコロに{n}{v3:0}がいるんだ?{p}{end}
+EN: Huh... What are you doin' here, {v3:0}?{p}{end}
+
+## MGF02 g0 s0286
+JP: だって俺、美術部だし。{p}
+EN: Well, I'm in the art club.{p}
+
+## MGF02 g0 s0287
+JP: そ、そうか。{n}そうだったっけ?{n}なんか照れるなぁ。{p}
+EN: R-right. Were ya? Man, this is embarrassin'.{p}
+
+## MGF02 g0 s0288
+JP: もう一人はやっぱりボーマンだな。{n}ボランティアっていえば、{n}ボーマンだもんな。{p}
+EN: And the other one's Boman, I bet. Volunteer work means Boman.{p}
+
+## MGF02 g0 s0289
+JP: はいはい、それじゃ、{n}自分の場所を決めて、{n}デッサンを始めてね!{n}そこそこ!{sp}モデルには触らないで!{p}{end}
+EN: OK, OK, pick your spots and start drawing! Hey, you there! No touching the models!{p}{end}
+
+## MGF02 g0 s0290
+JP: 近くに座る{n}遠くに座る{p}
+EN: Sit close{n}Sit far away{p}
+
+## MGF02 g0 s0291
+JP: それじゃ、バツの真ん前に……と。{n}なんか、描いてる方も照れるな。{p}{end}
+EN: Then I'll sit right in front of Batsu... Even drawing this is kind of embarrassing.{p}{end}
+
+## MGF02 g0 s0292
+JP: お前な、もうちょっと見えない{n}トコロに座れよ。{n}ちぇっ、仕方ないなぁ。{p}
+EN: Come on, sit somewhere I can't see ya. Tch, fine, whatever.{p}
+
+## MGF02 g0 s0294
+JP: ……チェッ、食いモンにつられた{n}俺がバカだった……。{n}これ、けっこうつらいぜ……。{p}
+EN: ...Tch, I was an idiot to get lured in by food... This is pretty rough...{p}
+
+## MGF02 g0 s0296
+JP: ……うう、身体を動かさないのって、{n}逆につらいなぁ……。{p}{end}
+EN: ...Ugh, not movin' is actually harder...{p}{end}
+
+## MGF02 g0 s0297
+JP: ……バツ……我慢しろって。{n}もう少しだから。{p}{end}
+EN: ...Batsu... hang in there. Almost done.{p}{end}
+
+## MGF02 g0 s0298
+JP: ……俺は身体を動かしてる方が{n}いいんだよなぁ……。{p}
+EN: ...I'd way rather be movin' around...{p}
+
+## MGF02 g0 s0299
+JP: ……バツ……あとでたこ焼き{n}おごってやるから、じっとしてろって。{p}{end}
+EN: ...Batsu... I'll buy you takoyaki later, so hold still.{p}{end}
+
+## MGF02 g0 s0300
+JP: ホントか?{n}よし!{sp}約束だぞ!!{p}{end}
+EN: For real? All right! It's a promise!!{p}{end}
+
+## MGF02 g0 s0302
+JP: はい、終了～～!{n}みんなちゃんとできた?{p}{end}
+EN: OK, time's up~! Everyone get it done?{p}{end}
+
+## MGF02 g0 s0303
+JP: ふぅ……できた。{n}序盤は集中力を乱されたけど、{n}バツが食べ物に熱心なおかげで、{n}うまくできたぞ。{p}{end}
+EN: Phew... done. He threw off my focus early on, but thanks to Batsu's love of food, it came out well.{p}{end}
+
+## MGF02 g0 s0304
+JP: お、どれどれ……、{n}なんだうまいじゃないか。{n}さすが、美術部だな、{n}{v3:0}。{p}
+EN: Oh, lemme see... Hey, that's good! You really are in the art club, {v3:0}.{p}
+
+## MGF02 g0 s0305
+JP: ホント、さすがね。{n}この1年がんばってきた{n}だけのことはあるわ。{p}{end}
+EN: It really is. That's what a year of hard work gets you.{p}{end}
+
+## MGF02 g0 s0306
+JP: うんうん、みんな{n}あなたくらいマジメだったら、{n}いいんだけどね。{n}これからもがんばってね。{p}
+EN: Yep, if only everyone were as serious as you. Keep it up.{p}
+
+## MGF02 g0 s0307
+JP: はい、こずえ先輩!{n}バツ、アリガトな。{p}
+EN: Yes, Kozue-senpai! Thanks, Batsu.{p}
+
+## MGF02 g0 s0308
+JP: ……へへ、{n}じゃ約束通り、たこ焼き、{n}おごってもらおうかな。{p}{end}
+EN: ...Heh heh, then I'll take that takoyaki you promised.{p}{end}
+
+## MGF02 g0 s0309
+JP: （こうして、この日は{n}{sp}こずえ先輩とバツと3人で、{n}{sp}たこ焼きを食べにいった……）{p}
+EN: (And so that day, Kozue-senpai, Batsu and I went out for takoyaki...){p}
+
+## MGF02 g0 s0310
+JP: それじゃ、恥ずかしいから{n}ちょっと遠めに座るかな。{n}……なんか他の人が多くて、{n}バツがよく見えないな。{p}
+EN: Then I'll sit a bit farther back, since it's embarrassing. ...There's so many people I can hardly see Batsu.{p}
+
+## MGF02 g0 s0312
+JP: ちょっと、すみません、{n}あんまりアタマ動かさないで{n}もらえますか……?{n}……すみません。{p}{end}
+EN: Um, excuse me, could you not move your head so much...? ...Sorry.{p}{end}
+
+## MGF02 g0 s0314
+JP: やっぱり見えにくいなぁ。{n}バツの方が人気だから{n}しかたないのか……。{p}{end}
+EN: Still hard to see. Batsu's the popular one, so I guess it can't be helped...{p}{end}
+
+## MGF02 g0 s0315
+JP: なんだかバツも、{n}気分が悪そうだな。{n}なんか顔が引きつってる。{p}
+EN: Batsu doesn't look so good, either. His face is all tense.{p}
+
+## MGF02 g0 s0317
+JP: ………………ガクッ……。{p}{end}
+EN: ..................*slump*...{p}{end}
+
+## MGF02 g0 s0318
+JP: あ、バツ……!?{p}{end}
+EN: Huh, Batsu...!?{p}{end}
+
+## MGF02 g0 s0319
+JP: あらあら、倒れちゃった……。{n}う～ん、緊張しすぎみたいね。{n}しかたないか、こんなに女の子に、{n}水着姿見られちゃね……。{p}
+EN: Oh dear, he collapsed... Hmm, looks like he was too nervous. Can't blame him, with all these girls looking at him in a swimsuit...{p}
+
+## MGF02 g0 s0320
+JP: バツ!{n}大丈夫か!?{p}{end}
+EN: Batsu! You OK!?{p}{end}
+
+## MGF02 g0 s0321
+JP: ……ああ、悪い、倒れちまった。{n}なんか、動かないのって、逆に疲れるな。{n}俺はやっぱり身体を{n}動かしてる方がいいや。{p}
+EN: ...Yeah, sorry, I keeled over. Stayin' still actually wears ya out. I'm better off movin' around.{p}
+
+## MGF02 g0 s0322
+JP: よかった、大丈夫みたいね。{n}……今日はもうモデルはムリね。{n}帰ってゆっくり休んだ方がいいわ。{n}ゴメンね、ムリさせちゃって。{p}
+EN: Good, he seems OK. ...No more modeling for today. You should go home and rest. Sorry for pushing you so hard.{p}
+
+## MGF02 g0 s0323
+JP: そうさせてもらうッス、先輩。{n}学食の件、お願いしますよ!{p}{end}
+EN: I'll do that, senpai. Don't forget about the cafeteria deal!{p}{end}
+
+## MGF02 g0 s0324
+JP: ううっ、初めはちゃんと見えなかったし、{n}途中で倒れちゃったから、{n}全然できてないや。{n}これは大失敗だな。{p}{end}
+EN: Ugh, I couldn't see properly at first, and then he collapsed halfway, so I barely got anything done. Total failure.{p}{end}
+
+## MGF02 g0 s0325
+JP: そうねぇ……バツ君描いてた部員も{n}帰っちゃったし……。{n}私たちも帰りましょうか……。{p}{end}
+EN: Yeah... The members drawing Batsu-kun went home too... Let's head home too...{p}{end}
+
+## MGF02 g0 s0326
+JP: （こうして、美術部恒例人体デッサン{n}{sp}大会は終了した……）{p}
+EN: (And so the art club's yearly figure drawing session came to an end...){p}
+
+## MGF02 g0 s0327
+JP: ……それで私は、いつまで{n}動いてはいけないのですか?{n}……ミスこずえ?{n}……ム?{sp}ミスこずえは?{p}{end}
+EN: ...And so, how long must I remain still? ...Miss Kozue? ...Hm? Where is Miss Kozue?{p}{end}
+
+## MGF02 g0 s0328
+JP: それじゃ俺は……Bクンで。{n}ん、なんかAの方が人気があるなぁ。{n}ふ～ん、みんなAの方が好きなのか?{p}
+EN: Then I'll go with B. Hm, A seems more popular. Huh, does everyone like A better?{p}
+
+## MGF02 g0 s0330
+JP: ……やっぱりボーマンか。{n}ボランティアっていわれたら{n}断れなかったんだろうな。{p}
+EN: ...Boman, I knew it. He probably couldn't say no once he heard it was volunteer work.{p}
+
+## MGF02 g0 s0331
+JP: これは……{v4:8}ではないですか。{n}そういえば、{v4:8}は{n}美術部でしたね。{p}{end}
+EN: Why, it is {v4:8}. That is right, you are in the art club, {v4:8}.{p}{end}
+
+## MGF02 g0 s0332
+JP: そうそう。{n}しかし、ボーマンも{n}ボランティアが好きだねぇ。{p}
+EN: Yep. You sure love volunteer work, Boman.{p}
+
+## MGF02 g0 s0333
+JP: 恵まれない美術部を助けることも、{n}神の御心にそうコト……{n}と思ったのですが、{n}思ったより人が多いですね。{p}{end}
+EN: Helping the less fortunate art club is also God's will, or so I thought... But there are more people than I expected.{p}{end}
+
+## MGF02 g0 s0334
+JP: みんな幽霊部員だって。{n}お、あっちはバツか。{n}食べ放題につられるなんて、{n}バツくらいだもんな。{p}
+EN: Apparently they're all no-show members. Oh, Batsu's over there. Only Batsu would get lured in by free food.{p}
+
+## MGF02 g0 s0335
+JP: はいはい、それじゃ、{n}自分の場所を決めて、{n}デッサンを始めてね!{n}そこそこ!{sp}モデルに触らないで!{p}
+EN: OK, OK, pick your spots and start drawing! Hey, you there! No touching the models!{p}
+
+## MGF02 g0 s0337
+JP: それじゃ、ボーマンの近くに……と。{n}なんか、描いてる方も照れるな。{p}
+EN: Then I'll sit close to Boman... Even drawing this is kind of embarrassing.{p}
+
+## MGF02 g0 s0338
+JP: う～む、けっこう照れますね……。{n}{v4:8}、あまりこちらを{n}見ないでください。{p}
+EN: Hmm, this is rather embarrassing... {v4:8}, please do not look at me too much.{p}
+
+## MGF02 g0 s0339
+JP: 見なきゃ描けないって。{n}それじゃ、描くぞ。{p}
+EN: I can't draw you if I don't look. OK, here goes.{p}
+
+## MGF02 g0 s0341
+JP: しかし、バツの方が人も多いし、{n}騒がしいな。{n}もう少し静かにならないかな。{p}
+EN: But Batsu's side has more people, and it's noisy. I wish it'd quiet down a bit.{p}
+
+## MGF02 g0 s0342
+JP: たしかに……。{n}しかし、みななぜバツ君なのでしょう。{n}肉体美では、私の方が上のハズ……。{p}{end}
+EN: Indeed... But why does everyone choose Batsu-kun? In physique, I should be the superior one...{p}{end}
+
+## MGF02 g0 s0343
+JP: 見てください、{n}バルクもカットも、{n}明らかに私の方が……。{p}
+EN: Look. In both mass and definition, I am clearly...{p}
+
+## MGF02 g0 s0344
+JP: モデルさん、少し静かにね。{p}
+EN: Model, keep it down a little, OK?{p}
+
+## MGF02 g0 s0345
+JP: こ、これは失礼。{n}では……。{p}{end}
+EN: Ah, p-pardon me. Well then...{p}{end}
+
+## MGF02 g0 s0346
+JP: （う～ん、たしかにボーマンの方が、{n}{sp}いい身体してるけど、{n}{sp}そういう問題じゃないよな……）{p}{end}
+EN: (Hmm, Boman does have the better body, but that's not really the point...){p}{end}
+
+## MGF02 g0 s0349
+JP: ふぅ……できた。{n}なんとかできたけど、{n}ボーマンの独り言のせいで{n}集中できなかったなぁ。{p}{end}
+EN: Phew... done. I managed, but Boman's muttering kept me from focusing.{p}{end}
+
+## MGF02 g0 s0350
+JP: どう?{sp}{v0}{col:0}クン{col:-}。{n}なるほど……筋肉の迫力に圧倒されて、{n}全体のバランスが悪いわねぇ。{n}もっと全体を見た方がいいわよ。{p}{end}
+EN: Let's see, {v0}{col:0}-kun{col:-}. I see... the muscles overwhelmed you, and the overall balance is off. Try to look at the whole figure.{p}{end}
+
+## MGF02 g0 s0351
+JP: そうですか?{n}ふむ……私はむしろ、{n}この上腕二頭筋のボリュームなど{n}もう少し欲しいところですね。{p}{end}
+EN: Is that so? Hmm... If anything, I would like a bit more volume here, in the biceps.{p}{end}
+
+## MGF02 g0 s0352
+JP: ……うん、ま、悪くないわよ。{n}これからも、この調子でがんばってね。{p}
+EN: ...Well, it's not bad. Keep it up.{p}
+
+## MGF02 g0 s0353
+JP: あ、はい、こずえ先輩。{n}ボーマン、ありがとう。{p}
+EN: Oh, yes, Kozue-senpai. Thanks, Boman.{p}
+
+## MGF02 g0 s0354
+JP: いえいえ、これも神の思し召しです。{n}それでは……。{p}
+EN: Not at all. This too is God's will. Farewell...{p}
+
+## MGF02 g0 s0355
+JP: （こうして、この日の{n}{sp}人体デッサン大会は無事終了した……）{p}{end}
+EN: (And so the figure drawing session ended without a hitch...){p}{end}
+
+## MGF02 g0 s0356
+JP: それじゃ、恥ずかしいから{n}ちょっと遠めに座るかな……。{n}バツの方に人が集まってるせいか、{n}こっちはすいてて、やりやすいな。{p}
+EN: Then I'll sit a bit farther back, since it's embarrassing... Everyone's crowding around Batsu, so it's empty over here. Nice and easy.{p}
+
+## MGF02 g0 s0358
+JP: う～ん、さすがボーマン、{n}すごい筋肉だなぁ。{n}ギリシャ彫刻みたいだ……。{p}{end}
+EN: Hmm, Boman sure has some muscles. He's like a Greek statue...{p}{end}
+
+## MGF02 g0 s0360
+JP: ……これでオイルが塗ってあれば、{n}ボディビルダーでも通用するなぁ。{p}
+EN: ...If he were oiled up, he could pass for a bodybuilder.{p}
+
+## MGF02 g0 s0363
+JP: ふぅ……。{n}集中してできたから、{n}かなりいいモノができたぞ。{n}我ながら力作だな。{p}{end}
+EN: Phew... I could focus, so this came out pretty good. A masterpiece, if I do say so myself.{p}{end}
+
+## MGF02 g0 s0364
+JP: お、すごい迫力ね!{n}筋肉の付き方も自然だし、{n}バランスもいいし……、{n}さすがね、{v0}{col:0}クン{col:-}。{p}{end}
+EN: Oh, this is powerful! The muscles look natural and the balance is good... Nice work, {v0}{col:0}-kun{col:-}.{p}{end}
+
+## MGF02 g0 s0365
+JP: どれどれ……{n}なるほど、これはすばらしい。{n}こんな風に描いてもらえて{n}感謝しますよ、{v4:8}。{p}
+EN: Let me see... Yes, this is splendid. I thank you for drawing me like this, {v4:8}.{p}
+
+## MGF02 g0 s0366
+JP: ホント。{n}他のみんなも、あなたくらい{n}マジメだったらいいんだけどね。{n}これからもがんばってね。{p}
+EN: Really. If only everyone else were as serious as you. Keep it up.{p}
+
+## MGF02 g0 s0367
+JP: ありがとうございます、こずえ先輩。{n}ボーマンもありがとな。{p}
+EN: Thank you, Kozue-senpai. Thanks, Boman.{p}
+
+## MGF02 g0 s0368
+JP: 私は何もしていませんよ。{n}すべてキミの実力です!{p}{end}
+EN: I did nothing. It is all your own skill!{p}{end}
+
+## MGF02 g0 s0369
+JP: （こうして、美術部恒例{n}{sp}人体デッサン大会は無事終了した……）{p}
+EN: (And so the art club's yearly figure drawing session ended without a hitch...){p}
+
+## MGF02 g0 s0370
+JP: 早いもので、もう2月も終わり。{n}吹奏楽部に入って、もうすぐ1年だな……。{p}{end}
+EN: Time flies. February's almost over. It's been almost a year since I joined the brass band...{p}{end}
+
+## MGF02 g0 s0371
+JP: 今日は近隣の吹奏楽部の{n}合同発表会の日だ……。{n}もっとも俺が出場するわけじゃ{n}ないけど。{p}{end}
+EN: Today is the joint recital for brass bands in the area... Not that I'm performing.{p}{end}
+
+## MGF02 g0 s0372
+JP: ウチの部では、代表で静音さんが{n}一人で出ることになっている。{p}{end}
+EN: Shizune-san is going alone to represent our club.{p}{end}
+
+## MGF02 g0 s0373
+JP: それで、応援に来たのだが……{n}あ、静音さん。{p}{end}
+EN: So I came to cheer her on... Oh, Shizune-san.{p}{end}
+
+## MGF02 g0 s0374
+JP: ……あ……{v0}{col:0}君{col:-}、{n}応援に来てくれたのね……。{n}ありがと……。{p}{end}
+EN: ...Oh... {v0}{col:0}-kun{col:-}, you came to cheer for me... Thank you...{p}{end}
+
+## MGF02 g0 s0375
+JP: 静音さん。{n}緊張してるかと思ったけど、{n}全然平気そうだね。{p}
+EN: Shizune-san. I thought you'd be nervous, but you look totally fine.{p}
+
+## MGF02 g0 s0376
+JP: ……そ……そう?{n}こうみえても……緊張……{n}してるんだけど……。{p}{end}
+EN: ...R-really? I'm... nervous, you know. It just doesn't show...{p}{end}
+
+## MGF02 g0 s0377
+JP: （……?{n}{sp}無表情だからわからないけど、{n}{sp}どうやら彼女なりに{n}{sp}緊張しているらしい……）{p}
+EN: (...? She's so expressionless I can't tell, but apparently she's nervous in her own way...){p}
+
+## MGF02 g0 s0378
+JP: 緊張してるの?{n}この手の発表会なんて{n}慣れてるのかと思った。{p}{end}
+EN: You're nervous? I figured you were used to recitals like this.{p}{end}
+
+## MGF02 g0 s0379
+JP: ……だって、わたくし1年生なのに、{n}がっ学校の……だ、代表だなんて……。{p}{end}
+EN: ...But I'm only a first-year... and I'm r-representing the s-school...{p}{end}
+
+## MGF02 g0 s0380
+JP: ……も……もうすぐ出番ね……。{n}あ……またちょっと……{n}緊張して……。{p}
+EN: ...I-it's almost my turn... Oh... I'm getting... a little nervous again...{p}
+
+## MGF02 g0 s0381
+JP: なんだ、まるっきり{n}ガチガチじゃないか。{n}落ち着いて、落ち着いて。{p}
+EN: Wow, you're totally stiff. Calm down, calm down.{p}
+
+## MGF02 g0 s0382
+JP: 大丈夫、いつも通りやれば、{n}うまくいくって!{p}{end}
+EN: Don't worry, just do it like always and it'll go fine!{p}{end}
+
+## MGF02 g0 s0383
+JP: ……そ……そうね。{n}いつも通り……いつも通り……{n}いつも通り……ね。{p}{end}
+EN: ...R... right. Like always... like always... like always...{p}{end}
+
+## MGF02 g0 s0384
+JP: 全然ダメだな。{n}見た目は、いつも通りなのになぁ。{p}{end}
+EN: That's not working at all. She looks the same as always, though...{p}{end}
+
+## MGF02 g0 s0385
+JP: そうだ、アレは?{n}緊張をほぐすおまじないってヤツ。{n}手のひらに「人」という字を、{n}3回書いて……、{p}
+EN: Oh, how about that? The charm for calming nerves. You write the character for "person" on your palm three times, and...{p}
+
+## MGF02 g0 s0386
+JP: ……さっきから……やってるけど、{n}効果ないみたい……。{p}
+EN: ...I've been... doing it for a while, but... it doesn't seem to work...{p}
+
+## MGF02 g0 s0387
+JP: じゃ、ホラ、{n}お客なんてお地蔵さんだと{n}思えっていうだろ、{n}お地蔵さんが並んでるだけだよ。{p}
+EN: Then, um, you know how they say to think of the audience as Jizo statues? It's just rows of little stone Jizos.{p}
+
+## MGF02 g0 s0388
+JP: ……そ……そっちの方が……{n}恐いわ……。{p}{end}
+EN: ...Th... that's... even scarier...{p}{end}
+
+## MGF02 g0 s0389
+JP: しかし、もう時間がないぞ。{n}う～ん……、{n}がんばれ!{sp}大丈夫だって!{p}{end}
+EN: But we're out of time. Hmm... Hang in there! You'll be fine!{p}{end}
+
+## MGF02 g0 s0390
+JP: ……大丈夫、大丈夫ね……{n}だだだ大丈夫……。{p}{end}
+EN: ...Fine, I'll be fine... I'm f-f-fine...{p}{end}
+
+## MGF02 g0 s0391
+JP: ダメだ……。{n}俺って応援の仕方がヘタなのかな?{p}
+EN: It's no use... Am I just bad at cheering people on?{p}
+
+## MGF02 g0 s0392
+JP: そうだ、応援といえば、{n}ツープラトン。{n}他のみんなのやり方を{n}マネしてみよう。{p}
+EN: Oh, speaking of cheering, there's the Team Up techniques. I'll copy how the others do it.{p}
+
+## MGF02 g0 s0393
+JP: ひなたのように「ガッツ百倍」{n}夏のように「ファイト百倍」{n}ティファニーのように「ラブ&ピース」{p}
+EN: Hinata's "Guts & Power"{n}Natsu's "Praise & Spirit"{n}Tiffany's "Love & Peace"{p}
+
+## MGF02 g0 s0394
+JP: （……励ますといえば、ひなただな。{n}{sp}よし!）{p}
+EN: (...For encouragement, it's gotta be Hinata. All right!){p}
+
+## MGF02 g0 s0395
+JP: しっかりしろよ!{n}（グッ、グッ）{n}がんばって!!{n}（で、ガッツポーズ、と）{p}
+EN: Pull yourself together! (Squeeze, squeeze) You can do it!! (And a fist pump.){p}
+
+## MGF02 g0 s0396
+JP: ……どどどどうしたの、{n}{v0}{col:0}君{col:-}……?{n}……だだだ大丈夫?{p}
+EN: ...Wh-wh-wh-what's wrong, {v0}{col:0}-kun{col:-}...? ...A-a-are you OK?{p}
+
+## MGF02 g0 s0397
+JP: 効果……なしか。{n}やっぱりひなたのようには{n}いかないなぁ……。{p}
+EN: No effect... huh. I guess I can't pull it off like Hinata...{p}
+
+## MGF02 g0 s0398
+JP: ……ももももう出番だわ。{n}ああありがとね、{v0}{col:0}君{col:-}。{n}……すすす少し落ち着いたわ……。{p}
+EN: ...I-i-i-it's my turn now. Th-th-thank you, {v0}{col:0}-kun{col:-}. ...I f-f-feel a little calmer...{p}
+
+## MGF02 g0 s0399
+JP: あんまり落ち着いてるようには{n}みえないけど……。{p}{end}
+EN: You don't really look calm...{p}{end}
+
+## MGF02 g0 s0400
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局、静音さんは大きなミスこそ{n}しなかったが、あまりいいできじゃ{n}なかったな……。{p}{end}
+EN: {face:15}..........{face:255} In the end, Shizune-san didn't make any big mistakes, but it wasn't her best performance...{p}{end}
+
+## MGF02 g0 s0401
+JP: ……{v0}{col:0}君{col:-}。{n}さっきはごめんね、{n}見苦しいところ見せちゃって……。{p}{end}
+EN: ...{v0}{col:0}-kun{col:-}. I'm sorry about earlier... You had to see me like that...{p}{end}
+
+## MGF02 g0 s0402
+JP: 俺の方こそ……{n}お役に立てないで、ゴメン……。{p}
+EN: No, I'm the one who should be sorry... I wasn't any help...{p}
+
+## MGF02 g0 s0403
+JP: （こうして、発表会は終了した……）{p}
+EN: (And so the recital came to an end...){p}
+
+## MGF02 g0 s0404
+JP: （……気合をいれるには、{n}{sp}やっぱり体育会系の夏だな……。{n}{sp}よし!）{p}
+EN: (...To fire someone up, it's gotta be sporty Natsu... All right!){p}
+
+## MGF02 g0 s0405
+JP: 相手をよく見て!{n}（バン!{sp}バン!）{n}一本決めよっ!{n}（バン!!）{p}
+EN: Watch your opponent! (Slap! Slap!) Go score one! (SLAP!!){p}
+
+## MGF02 g0 s0406
+JP: ……はっ……こふっ……、{n}もう、{v0}{col:0}君{col:-}、{n}強くたたきすぎ!!{p}
+EN: ...Hah... koff... Geez, {v0}{col:0}-kun{col:-}, you hit too hard!!{p}
+
+## MGF02 g0 s0407
+JP: どうだ、少しは落ち着いた?{p}
+EN: Well? Feel a bit calmer?{p}
+
+## MGF02 g0 s0408
+JP: ……えっ?{n}……ああ、なんだか、{n}少し楽になったわ。{n}ありがと……。{p}{end}
+EN: ...Huh? ...Oh, somehow I feel a little better. Thank you...{p}{end}
+
+## MGF02 g0 s0409
+JP: ……そろそろ出番……。{n}それじゃ、いってくるね……。{p}{end}
+EN: ...It's almost my turn... Well, here I go...{p}{end}
+
+## MGF02 g0 s0410
+JP: よかった、なんとか{n}落ち着いたみたいだ。{n}このままいつもの実力が出せれば、{n}安心だな。{p}
+EN: Good, she seems to have calmed down. If she can play like she usually does, she'll be fine.{p}
+
+## MGF02 g0 s0411
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局、静音さんはいつも通りの実力を{n}披露して、優秀賞に輝いた。{p}{end}
+EN: {face:15}..........{face:255} In the end, Shizune-san played as well as she always does and won an Award of Excellence.{p}{end}
+
+## MGF02 g0 s0412
+JP: 同じクラブの部員として、{n}俺も鼻が高いな。{n}いつか俺も、あんな風に{n}発表できたらいいけど。{p}
+EN: As a member of the same club, I'm proud of her. I hope someday I can perform like that too.{p}
+
+## MGF02 g0 s0413
+JP: ……{v0}{col:0}君{col:-}……、{n}さっきはアリガト。{n}おかげで、うまくできたわ。{p}
+EN: ...{v0}{col:0}-kun{col:-}... Thanks for earlier. Thanks to you, it went well.{p}
+
+## MGF02 g0 s0414
+JP: いやいや……静音さんの{n}普段の実力が出ただけだよ。{n}優秀賞、おめでとう!{p}{end}
+EN: No, no... You just played like you always do, Shizune-san. Congrats on the award!{p}{end}
+
+## MGF02 g0 s0415
+JP: （こうして、発表会は{n}{sp}盛況の内に閉幕した……）{p}{end}
+EN: (And so the recital closed to a full house...){p}{end}
+
+## MGF02 g0 s0416
+JP: （……ここはやっぱり!{n}{sp}アメリカンテイストな{n}{sp}ティファニーの応援で!!）{p}{end}
+EN: (...This calls for Tiffany's American-style cheering!!){p}{end}
+
+## MGF02 g0 s0417
+JP: （ガバッ!!）{n}チュッ{col:5}♥{col:-}{n}Let’s{sp}Begin!{p}
+EN: (Glomp!!) Smooch{col:5}♥{col:-} Let's Begin!{p}
+
+## MGF02 g0 s0418
+JP: {face:15}・・・・・・・・・・{face:255}{n}……なっ、な、な、ななななにを……!?{p}{end}
+EN: {face:15}..........{face:255} ...Wh-wh-wh-wh-what are you...!?{p}{end}
+
+## MGF02 g0 s0419
+JP: ……やりすぎたかな、{n}やっぱり?{p}{end}
+EN: ...I guess I overdid it, huh?{p}{end}
+
+## MGF02 g0 s0420
+JP: ……フッ……{p}{end}
+EN: ...Hhh...{p}{end}
+
+## MGF02 g0 s0421
+JP: バタッ!!{p}
+EN: THUD!!{p}
+
+## MGF02 g0 s0422
+JP: あわわわわ、静音さん!?{n}大丈夫!?{p}{end}
+EN: Aaah, Shizune-san!? Are you OK!?{p}{end}
+
+## MGF02 g0 s0423
+JP: {face:15}・・・・・・・・・・{face:255}{n}必死の介抱にもかかわらず、{n}静音さんは気がつかず、結局発表会は{n}棄権になってしまった……。{p}{end}
+EN: {face:15}..........{face:255} Despite my frantic first aid, Shizune-san never came to, and she had to drop out of the recital...{p}{end}
+
+## MGF02 g0 s0424
+JP: 静音さんは、その時のことを{n}よく覚えてないらしいので、{n}よかったが、ちょっと調子に{n}乗りすぎたかな……。{p}{end}
+EN: Luckily, Shizune-san doesn't seem to remember much of it, but maybe I got a little carried away...{p}{end}
+
+## MGF02 g0 s0425
+JP: もうすぐ春だな……。{n}演劇部では、毎年春に新入生歓迎の、{n}発表会をおこなうことになっている。{p}{end}
+EN: Spring's almost here... Every spring, the drama club puts on a show to welcome the new students.{p}{end}
+
+## MGF02 g0 s0426
+JP: で、今日はその主役のオーディションな{n}ワケだが……。{p}{end}
+EN: And today's the audition for the lead role...{p}{end}
+
+## MGF02 g0 s0427
+JP: みなさん、そろいましたか?{n}そろそろ始めますよ!{p}{end}
+EN: Is everyone here? We'll be starting soon!{p}{end}
+
+## MGF02 g0 s0428
+JP: オーディションか……。{n}たしか課題は、事前に渡された{n}脚本通りに演技できるか?{n}だったな……。{p}
+EN: An audition, huh... The test was to act out the script we got beforehand exactly as written, right?{p}
+
+## MGF02 g0 s0429
+JP: 俺の番まで、まだしばらくある。{n}もう一度、脚本を確認しておこう。{p}{end}
+EN: My turn's still a while off. I'll go over the script one more time.{p}{end}
+
+## MGF02 g0 s0430
+JP: まず最初のセリフはコレだ。{n}「それでは、私をさがしておられたか?」{n}ふむ……大丈夫かな。{p}{end}
+EN: The first line is this one. "So it was me you were seeking?" Hmm... I think I've got it.{p}{end}
+
+## MGF02 g0 s0431
+JP: で、次がこれ。{n}「彼は数を数えていたのだ」{n}……なんだか、{n}よくわからないセリフだな。{p}
+EN: Then this one. "He was counting, you see." ...I don't really get this line.{p}
+
+## MGF02 g0 s0432
+JP: 3つ目がこれだ。{n}「電話帳を読まされたみたいだ」{n}これは簡単だな……。{p}
+EN: The third is this. "Like being made to read a phone book." That one's easy...{p}
+
+## MGF02 g0 s0433
+JP: 最後はこれ。{n}「りっぱな男だよ、すぐれた、教養のある」{n}……ふむふむ、なるほどな。{p}
+EN: And last, this. "A fine man. Excellent, cultured." ...Uh-huh, I see.{p}
+
+## MGF02 g0 s0434
+JP: ちゃんと覚えておこう……。{n}そろそろ俺の番だな。{p}{end}
+EN: Better get these memorized... My turn's coming up.{p}{end}
+
+## MGF02 g0 s0435
+JP: では、次!{n}{v0}{col:0}クン{col:-}!{n}壇上にあがって!{p}
+EN: Next! {v0}{col:0}-kun{col:-}! Up on stage, please!{p}
+
+## MGF02 g0 s0436
+JP: （お、俺だ。）{n}はいっ!{p}{end}
+EN: (Oh, that's me.) Yes!{p}{end}
+
+## MGF02 g0 s0437
+JP: よしっ、準備はいいかな。{n}……では、はじめよう。{p}{end}
+EN: All right, ready? ...Then let's begin.{p}{end}
+
+## MGF02 g0 s0438
+JP: （よし……、{n}{sp}セリフをいうタイミングは{n}{sp}バッチリだ……ちゃんといえるか{n}{sp}どうかだな、問題は……）{p}
+EN: (OK... I've got the timing for my lines down. The question is whether I can say them right...){p}
+
+## MGF02 g0 s0439
+JP: 「……うむ、たいへんご立腹の{n}{sp}様子だったよ!」{p}{end}
+EN: "...Yes, he seemed most furious!"{p}{end}
+
+## MGF02 g0 s0440
+JP: （よし!{sp}この次だ!）{p}
+EN: (OK! I'm next!){p}
+
+## MGF02 g0 s0441
+JP: 彼は数を数えていたのだ{n}りっぱな男だよ、すぐれた、教養のある{n}それでは、私をさがしておられたか?{n}電話帳を読まされたみたいだ{p}{end}
+EN: He was counting, you see{n}A fine man. Excellent, cultured{n}So it was me you were seeking?{n}Like being made to read a phone book{p}{end}
+
+## MGF02 g0 s0442
+JP: 「彼は数を数えていたのだ!」{p}{end}
+EN: "He was counting, you see!"{p}{end}
+
+## MGF02 g0 s0443
+JP: 「りっぱな男だよ、すぐれた、{n}{sp}教養のある……」{p}{end}
+EN: "A fine man. Excellent, cultured..."{p}{end}
+
+## MGF02 g0 s0444
+JP: 「それでは、私をさがしておられたか?」{p}
+EN: "So it was me you were seeking?"{p}
+
+## MGF02 g0 s0445
+JP: 「電話帳を読まされたみたいだ!」{p}{end}
+EN: "Like being made to read a phone book!"{p}{end}
+
+## MGF02 g0 s0446
+JP: （とりあえず一つ……{n}{sp}次はもうすぐだな。{n}{sp}{face:15}・・・・・・・・・・{face:255}{n}{sp}よし、ここだ!）{p}
+EN: (That's one down... The next one's coming up. {face:15}..........{face:255} OK, here!){p}
+
+## MGF02 g0 s0447
+JP: それでは、私をさがしておられたか?{n}りっぱな男だよ、すぐれた、教養のある{n}電話帳を読まされたみたいだ{n}彼は数を数えていたのだ{p}{end}
+EN: So it was me you were seeking?{n}A fine man. Excellent, cultured{n}Like being made to read a phone book{n}He was counting, you see{p}{end}
+
+## MGF02 g0 s0452
+JP: （うまくいったかな……?{n}{sp}{face:15}・・・・・・・・・・{face:255}{n}{sp}ん、次の先輩のセリフの後だな……）{p}
+EN: (Did that go OK...? {face:15}..........{face:255} Right, mine comes after the senpai's next line...){p}
+
+## MGF02 g0 s0453
+JP: 「……で、どうだった?」{p}{end}
+EN: "...So, how was it?"{p}{end}
+
+## MGF02 g0 s0454
+JP: 「勧進帳を見せられたみたいだ」{n}「住所録を書かされたみたいだ」{n}「伝書鳩を飲まされたみたいだ」{n}「電話帳を読まされたみたいだ」{p}
+EN: "Like being made to watch kabuki"{n}"Like being made to write addresses"{n}"Like being made to swallow a pigeon"{n}"Like being made to read a phone book"{p}
+
+## MGF02 g0 s0455
+JP: 「勧進帳を見せられたみたいだ!」{n}…………あれ?{p}{end}
+EN: "Like being made to watch kabuki!" ............Huh?{p}{end}
+
+## MGF02 g0 s0456
+JP: 「住所録を書かされたみたいだ!」{n}…………あれ?{p}{end}
+EN: "Like being made to write addresses!" ............Huh?{p}{end}
+
+## MGF02 g0 s0457
+JP: 「伝書鳩を飲まされたみたいだ!」{n}…………なんだそりゃ?{p}{end}
+EN: "Like being made to swallow a pigeon!" ............What the heck?{p}{end}
+
+## MGF02 g0 s0458
+JP: 「電話帳を読まされたみたいだ!」{n}…………ふむふむ。{p}{end}
+EN: "Like being made to read a phone book!" ............Mm-hm.{p}{end}
+
+## MGF02 g0 s0459
+JP: （……大丈夫かなぁ。{n}{sp}演技には自信はあるんだけど、{n}{sp}セリフがなぁ……、{n}{sp}あと、一つだな……）{p}
+EN: (...Will I be OK? I'm confident in my acting, but these lines... Just one more to go...){p}
+
+## MGF02 g0 s0460
+JP: 「……なんてご立派な方でしょう!」{p}
+EN: "...What a splendid gentleman!"{p}
+
+## MGF02 g0 s0461
+JP: （よし、最後のセリフだ!）{p}
+EN: (OK, last line!){p}
+
+## MGF02 g0 s0462
+JP: りっぱな男だよ、教養ある、聡明な{n}りっぱな男だよ、すぐれた、教養のある{n}りっぱな男だよ、教養ある、明敏な{n}りっぱな男だよ、すぐれた、教育のある{p}
+EN: A fine man. Cultured, wise{n}A fine man. Excellent, cultured{n}A fine man. Cultured, astute{n}A fine man. Excellent, educated{p}
+
+## MGF02 g0 s0463
+JP: 「りっぱな男だよ、教養ある、{n}{sp}聡明な……」{p}{end}
+EN: "A fine man. Cultured, wise..."{p}{end}
+
+## MGF02 g0 s0465
+JP: 「りっぱな男だよ、教養ある、{n}{sp}明敏な……」{p}{end}
+EN: "A fine man. Cultured, astute..."{p}{end}
+
+## MGF02 g0 s0466
+JP: 「りっぱな男だよ、すぐれた、{n}{sp}教育のある……」{p}{end}
+EN: "A fine man. Excellent, educated..."{p}{end}
+
+## MGF02 g0 s0467
+JP: （ふぅ……これで終わりか。{n}{sp}あとは演技を完璧にこなして……{n}{sp}おしまい、と。）{p}{end}
+EN: (Phew... That's the end. Now I just nail the acting... and done.){p}{end}
+
+## MGF02 g0 s0468
+JP: なんとか、終わったな。{n}ちゃんとセリフ、言えてたかな。{n}オーディションの結果を聞いてみよう。{p}{end}
+EN: Made it through somehow. Did I get my lines right? Let's hear the audition results.{p}{end}
+
+## MGF02 g0 s0469
+JP: ……それでは、オーディションの{n}結果を発表します!{n}今回、主役の座を獲得したのは……、{p}
+EN: ...And now, the audition results! The lead role this time goes to...{p}
+
+## MGF02 g0 s0470
+JP: {v0}{sp}{v1}君!{n}はい、みんな拍手!!{p}{end}
+EN: {v1} {v0}-kun! Everyone, a round of applause!!{p}{end}
+
+## MGF02 g0 s0471
+JP: よしっ!{n}やった、完璧だったみたいだ!!{p}{end}
+EN: Yes! I did it! Looks like I nailed it!!{p}{end}
+
+## MGF02 g0 s0472
+JP: おめでとう、{v0}{col:0}君{col:-}。{n}よくがんばったね。{n}演技も、セリフも、完璧だったわよ。{p}
+EN: Congratulations, {v0}{col:0}-kun{col:-}. You worked hard. Your acting and your lines were both perfect.{p}
+
+## MGF02 g0 s0473
+JP: キミが1年間、どれだけ努力して{n}きたか、ワタシはよく知ってるわ。{n}その努力が実を結んだようね。{p}
+EN: I know well how hard you've worked all year. Looks like that effort has paid off.{p}
+
+## MGF02 g0 s0474
+JP: それじゃ、春の発表会、{n}がんばってね。{n}キミなら大丈夫。{p}{end}
+EN: Good luck with the spring show, then. I know you'll do fine.{p}{end}
+
+## MGF02 g0 s0475
+JP: 小百合先輩……、{n}ありがとうございます!{p}{end}
+EN: Sayuri-senpai... Thank you so much!{p}{end}
+
+## MGF02 g0 s0476
+JP: うん!{sp}がんばってね!{p}
+EN: Yes! Go for it!{p}
+
+## MGF02 g0 s0477
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局……主役の座は、{n}他の部員の手に渡った。{n}やっぱり、俺では力不足だったか……。{p}{end}
+EN: {face:15}..........{face:255} In the end... the lead went to another member. I guess I just wasn't good enough...{p}{end}
+
+## MGF02 g0 s0478
+JP: {v0}{col:0}クン{col:-}!{n}実に残念です!{n}キミの演技は完璧だったのに……。{n}セリフさえ間違えなければ、きっと!{p}
+EN: {v0}{col:0}-kun{col:-}! What a shame! Your acting was perfect... If only you hadn't flubbed your lines, I'm sure of it!{p}
+
+## MGF02 g0 s0479
+JP: 小百合先輩……。{p}{end}
+EN: Sayuri-senpai...{p}{end}
+
+## MGF02 g0 s0480
+JP: キミには期待してたのに……{n}キミが1年間、どれだけ努力したか、{n}ワタシが一番、知ってるからね……。{p}
+EN: I had such high hopes for you... I know better than anyone how hard you've worked this year...{p}
+
+## MGF02 g0 s0481
+JP: すみません、期待に応えられなくて……。{p}
+EN: I'm sorry I couldn't live up to your expectations...{p}
+
+## MGF02 g0 s0482
+JP: ……うん、この失敗をバネに、{n}がんばってね。{p}{end}
+EN: ...It's all right. Use this setback as a springboard and keep at it.{p}{end}
+
+## MGF02 g0 s0483
+JP: 土曜日なのに、ちょっと用事を{n}済ませていたら、けっこう遅くなったな。{n}今日はクラブに一回{n}顔見せたら帰ろう……。{p}{end}
+EN: It's Saturday, but running some errands made me pretty late. I'll just show my face at the club and head home...{p}{end}
+
+## MGF02 g0 s0484
+JP: やぁ、{v0}{col:0}君{col:-}じゃないか。{n}いいトコロに来たねぇ。{n}ちょっとよっていかないか?{p}
+EN: Well, if it isn't {v0}{col:0}-kun{col:-}. You came at just the right time. Why don't you stop in for a bit?{p}
+
+## MGF02 g0 s0485
+JP: あ、せんせ……ハカセ。{n}土曜日なのに、けっこう遅くまで{n}残ってるんですね。{n}仕事ですか?{p}{end}
+EN: Oh, Sense... Hakase. You're here pretty late for a Saturday. Working?{p}{end}
+
+## MGF02 g0 s0486
+JP: いやぁ、教師ってのは、{n}君たちが思ってるほど{n}休みはないモノなんだよ。{n}ま、それはいいんだがね。{p}{end}
+EN: Ah, teachers don't get nearly as much time off as you kids think. Well, never mind that.{p}{end}
+
+## MGF02 g0 s0487
+JP: ちょっと手伝って{n}欲しいことがあるんだ、{n}あいにく他に手がなくてね。{p}{end}
+EN: There's something I'd like a hand with. Unfortunately, there's no one else around.{p}{end}
+
+## MGF02 g0 s0488
+JP: 俺にできることなら手伝いますよ。{n}何すればいいんですか?{p}{end}
+EN: If it's something I can do, sure. What do you need?{p}{end}
+
+## MGF02 g0 s0489
+JP: いやいや、ちょっとクスリをね、{n}飲んでみてくれないかな。{p}{end}
+EN: Oh, nothing much. I'd just like you to try drinking a little medicine.{p}{end}
+
+## MGF02 g0 s0490
+JP: クスリ?{n}怪しいクスリじゃないでしょうね?{p}
+EN: Medicine? It's not anything shady, is it?{p}
+
+## MGF02 g0 s0491
+JP: 僕が生徒にそんなモノを{n}飲ませるわけないじゃないか。{n}安心しなさいって。{p}{end}
+EN: Would I ever give a student something like that? Relax, relax.{p}{end}
+
+## MGF02 g0 s0492
+JP: はぁ……クスリって{n}何のクスリですか。{p}
+EN: Um... So what kind of medicine is it?{p}
+
+## MGF02 g0 s0493
+JP: それは飲んでからの、{n}お楽しみさ。{n}よしよし、それでこの3種類の{n}クスリなんだけどね……。{p}
+EN: That's a surprise for after you drink it. Good, good. Now, about these three medicines...{p}
+
+## MGF02 g0 s0494
+JP: どれがいい?{n}どれでもいいんだけど、{n}一人一個だけだよ。{p}{end}
+EN: Which one do you want? Any of them is fine, but only one per person.{p}{end}
+
+## MGF02 g0 s0495
+JP: （見ると、赤、青、緑色の鮮やかな色の{n}{sp}クスリが並んでいる。{n}{sp}頼まれても二個も飲みたくはないなぁ。{n}{sp}どれにしてみるかな……）{p}{end}
+EN: (There are bright red, blue and green medicines lined up. Even if he asked, I wouldn't want to drink two. Which one should I try...){p}{end}
+
+## MGF02 g0 s0496
+JP: 赤のクスリ{n}青のクスリ{n}緑のクスリ{p}
+EN: Red medicine{n}Blue medicine{n}Green medicine{p}
+
+## MGF02 g0 s0497
+JP: ……それじゃ、この赤いクスリを。{p}{end}
+EN: ...OK, I'll take this red one.{p}{end}
+
+## MGF02 g0 s0498
+JP: お、さすが{v0}{col:0}君{col:-}、{n}度胸があるねぇ!{p}
+EN: Ooh, just what I'd expect from {v0}{col:0}-kun{col:-}. You've got nerve!{p}
+
+## MGF02 g0 s0499
+JP: ……ハ!?{p}
+EN: ...Huh!?{p}
+
+## MGF02 g0 s0500
+JP: いやいや、何でもない何でもない。{n}じゃ、さっそく飲んでみようじゃないか、{n}ホラ、気が変わらないうちに。{n}ささ。{p}
+EN: No, no, it's nothing, nothing. Well then, let's have you drink it right away. Come on, before you change your mind. Go on.{p}
+
+## MGF02 g0 s0501
+JP: それじゃ……ングングング……{n}プハッ。{p}
+EN: Here goes... Glug glug glug... Pwah.{p}
+
+## MGF02 g0 s0502
+JP: 全部飲みましたけど……{n}ちょっと甘いだけで、{n}ヘンな味もしないし。{n}なんか期待はずれですね。{p}{end}
+EN: I drank it all... It's just a little sweet, and it doesn't taste weird. Kind of a letdown.{p}{end}
+
+## MGF02 g0 s0503
+JP: ……そうかい?{n}おかしいな、そんなはずは。{n}もっとこう、めまいとか幻覚とか……、{p}{end}
+EN: ...Is that so? Odd, that shouldn't be. There ought to be dizziness, or hallucinations...{p}{end}
+
+## MGF02 g0 s0504
+JP: ……ハ!?{n}ハハ?{sp}アレ?{n}……ガクッ!{p}{end}
+EN: ...Huh!? Ha ha? Wha? ...*thud*!{p}{end}
+
+## MGF02 g0 s0505
+JP: {v0}{col:0}君{col:-}?{n}どうした……?{n}めま…でも……たの……ね?{n}ふ～む、また…メかな……?{p}
+EN: {v0}{col:0}-kun{col:-}? What's the... matter...? Feeling... dizz...? Hmm, another... dud...?{p}
+
+## MGF02 g0 s0507
+JP: ん……うん…………。{n}ここは?{p}
+EN: Mm... ugh...... Where am I?{p}
+
+## MGF02 g0 s0508
+JP: ああ、気がついたかね。{n}どうだ身体の調子は……?{p}{end}
+EN: Ah, you're awake. How are you feeling...?{p}{end}
+
+## MGF02 g0 s0509
+JP: あ……ハカセ!{n}そんなの、悪いに決まって……{n}あれ?{sp}全然悪くない?{n}むしろイイくらいだぞ?{p}{end}
+EN: Oh... Hakase! Terrible, obviously... Huh? I don't feel bad at all? Actually, I feel kind of great?{p}{end}
+
+## MGF02 g0 s0510
+JP: そ、そうか。{n}それはよかった……。{n}悪いコトしたな、{n}今日は帰って休んだ方がいいよ。{p}{end}
+EN: I-is that so. Well, good... Sorry about that. You should go home and rest today.{p}{end}
+
+## MGF02 g0 s0511
+JP: そうですか?{n}体調が悪いどころか、{n}なんか身体から力が{n}みなぎってるんですけど。{p}{end}
+EN: You think? Far from feeling sick, I feel like I'm bursting with energy.{p}{end}
+
+## MGF02 g0 s0512
+JP: もちろん、危ないクスリじゃないから、{n}安心だけど、ホラ、{n}万が一ってことがあるから。{p}{end}
+EN: It's not dangerous medicine, of course, so you're safe. But, you know, just in case.{p}{end}
+
+## MGF02 g0 s0513
+JP: そうですか、{n}それじゃ失礼します……。{p}
+EN: If you say so. Well, I'll be going, then...{p}
+
+## MGF02 g0 s0514
+JP: {face:15}・・・・・・・・・・{face:255}{n}……やれやれまた失敗か……。{p}
+EN: {face:15}..........{face:255} ...Oh dear, another failure...{p}
+
+## MGF02 g0 s0515
+JP: それじゃ、この青いクスリを……。{p}{end}
+EN: Then I'll take this blue one...{p}{end}
+
+## MGF02 g0 s0516
+JP: 青いクスリね。{n}ふむふむ、いいとも。{n}じゃさっそく飲んでみようか。{p}
+EN: The blue one. Mm-hm, all right. Let's have you try it right away.{p}
+
+## MGF02 g0 s0517
+JP: はぁ……それじゃ……{n}ングング……ンブッ!!{n}マ、マズイ!!{p}{end}
+EN: Um... here goes... Glug glug... Blegh!! G-gross!!{p}{end}
+
+## MGF02 g0 s0518
+JP: ハカセ、これは何ですか?{n}ヒドイ味ですよ!?{p}{end}
+EN: Hakase, what is this? It tastes horrible!{p}{end}
+
+## MGF02 g0 s0519
+JP: え……?{n}そうかな……どれ……。{p}{end}
+EN: Eh...? Does it? Let me see...{p}{end}
+
+## MGF02 g0 s0520
+JP: ンン、これはマズイや。{n}悪いコトしたね。{p}{end}
+EN: Mm, this is awful. Sorry about that.{p}{end}
+
+## MGF02 g0 s0521
+JP: ヒドイな、ハカセ。{n}こんなの飲んで、{n}身体に異常は出ないんでしょうね?{n}うう、まだ気分悪いや。{p}
+EN: That's mean, Hakase. Drinking this won't do anything weird to my body, will it? Ugh, I still feel sick.{p}
+
+## MGF02 g0 s0522
+JP: 大丈夫大丈夫。{n}ほら、僕も今飲んだだろ?{n}身体には影響ないから、安心して。{p}
+EN: It's fine, it's fine. See, I just drank some too, right? It won't affect your body, so relax.{p}
+
+## MGF02 g0 s0523
+JP: それならイイですけど……、{n}今日はもう帰ります、{n}なんか気分悪いし……ううっ。{p}
+EN: If you say so... I'm going home for today. I feel kind of sick... Ugh.{p}
+
+## MGF02 g0 s0524
+JP: （たしかに身体に変化はなかったが、{n}{sp}あまりのマズさに、2、3日、{n}{sp}ご飯が食べられなかった……）{p}
+EN: (Sure enough, nothing happened to my body, but it tasted so bad I couldn't eat for two or three days...){p}
+
+## MGF02 g0 s0525
+JP: それじゃ……この緑のクスリを。{p}
+EN: Then... I'll take this green one.{p}
+
+## MGF02 g0 s0526
+JP: うんうん、緑のクスリね。{n}いいと思うよ、{n}じゃさっそく飲んでみようか。{p}
+EN: Mm-hm, the green one. Good choice, I think. Let's have you try it right away.{p}
+
+## MGF02 g0 s0527
+JP: なんか……うれしそうですね?{n}それじゃ、飲みますよ……{n}ングングング……プハッ。{p}{end}
+EN: You look... kind of happy about that? Well, here goes... Glug glug glug... Pwah.{p}{end}
+
+## MGF02 g0 s0528
+JP: ……なんともないですね。{n}味もないですし。{n}これ何ですか?{p}
+EN: ...Nothing's happening. It doesn't taste like anything, either. What is this?{p}
+
+## MGF02 g0 s0529
+JP: 何ともない?{n}ふ～ん、体温もかわらない?{n}クラクラとかも……しないか。{n}なるほどなるほど、わかりました。{p}{end}
+EN: Nothing at all? Hmm, no change in temperature? No dizziness... either, huh. I see, I see. Got it.{p}{end}
+
+## MGF02 g0 s0530
+JP: ありがとう、いろいろわかったよ。{n}悪かったね、こんなコトさせて。{p}{end}
+EN: Thanks, I learned a lot. Sorry for making you do this.{p}{end}
+
+## MGF02 g0 s0531
+JP: いいですけど……、{n}コレ飲んだら、{n}どうなる予定だったんですか?{p}{end}
+EN: It's fine, but... what was supposed to happen when I drank it?{p}{end}
+
+## MGF02 g0 s0532
+JP: イヤイヤ、気にしない気にしない。{n}今日はもう帰って休みなさい。{n}ね、ホラ。{p}
+EN: No, no, don't worry about it, don't worry. Go home and rest for today. There, off you go.{p}
+
+## MGF02 g0 s0533
+JP: はぁ……。{n}それじゃ、失礼します……。{p}
+EN: Uh... Well, excuse me, then...{p}
+
+## MGF02 g0 s0534
+JP: （なんだったんだろ、いったい?{n}{sp}これは運がよかったのかなぁ?）{p}{end}
+EN: (What was that all about? Did I get lucky, or what?){p}{end}
+
+## MGF02 g0 s0535
+JP: さぁてと……、{n}今日もそろそろ帰るとするか……。{p}{end}
+EN: Well then... Time to head home for today...{p}{end}
+
+## MGF02 g0 s0536
+JP: あ、委員長。{n}どうしたんだ、こんなトコロで。{p}{end}
+EN: Oh, Chairperson. What are you doing here?{p}{end}
+
+## MGF02 g0 s0537
+JP: もうすぐ1年が経つね。{n}どう、満足できるクラブ活動ができた?{p}{end}
+EN: It's been almost a year. So, did your club activities turn out the way you wanted?{p}{end}
+
+## MGF02 g0 s0538
+JP: 予定通り!{n}まぁまぁ{n}全然ダメ{p}
+EN: Right on plan!{n}So-so{n}A total flop{p}
+
+## MGF02 g0 s0539
+JP: ま、予定通りかな。{n}バランスが悪いところがあるかも{n}しれないけど、それも計算済みだし。{p}
+EN: Well, pretty much as planned. I might be a bit unbalanced in places, but I factored that in.{p}
+
+## MGF02 g0 s0540
+JP: ふふっ、それは何よりね。{n}今年もあと少ししかないから、{n}がんばってね。{p}
+EN: Heh, glad to hear it. There's not much of the year left, so keep it up.{p}
+
+## MGF02 g0 s0541
+JP: う～ん、まぁまぁってトコかな。{n}特に悪くもないし、{n}こんなものじゃない。{p}{end}
+EN: Hmm, I'd say so-so. Nothing's especially bad. It's about what you'd expect.{p}{end}
+
+## MGF02 g0 s0542
+JP: ふ～ん……。{n}ま、人にはいろいろ{n}価値観があるからね……。{p}
+EN: Hmm... Well, everyone has their own values, I guess...{p}
+
+## MGF02 g0 s0543
+JP: う～ん、全然ダメだねぇ。{n}もう少し別の成長を期待してたんだけど。{n}これじゃ、全然予定と違うよ。{p}
+EN: Hmm, a total flop. I was hoping to grow in a different way. This isn't what I planned at all.{p}
+
+## MGF02 g0 s0544
+JP: ……ま、目的もなく帰宅部だったり{n}他のクラブをプラプラしてたら、{n}そんなものだと思うわ。{p}{end}
+EN: ...Well, if you sit in the Go-Home Club with no goal or drift between clubs, that's what you get.{p}{end}
+
+## MGF02 g0 s0545
+JP: 自分のバランスのコトを考えたら、{n}いろいろなクラブを試した方が{n}いいと思うけど……、{p}{end}
+EN: If you think about your balance, trying out lots of clubs is probably good, but...{p}{end}
+
+## MGF02 g0 s0546
+JP: 一つのクラブをやり続けないと{n}得られないモノも、あると思うわ。{n}来年はそれを考えて、生活しても{n}いいかもね。{p}{end}
+EN: there are things you only get by sticking with one club. Maybe keep that in mind next year.{p}{end}
+
+## MGF02 g0 s0547
+JP: それじゃ、またね。{p}
+EN: Well, see you.{p}
+
+## MGF02 g0 s0548
+JP: ……いっちゃった。{n}何だったんだろ、いったい。{p}
+EN: ...She's gone. What was that all about?{p}
+
+## MGF02 g1 s0000
+JP: 今日は修一先輩に、大事な用があるから、{n}早めに部活にでるようにいわれている。{n}さっそく行ってみようっと。{p}{end}
+EN: Shuichi-senpai told me to come to practice early today because he has something important to tell me. Let's go see.{p}{end}
+
+## MGF02 g1 s0002
+JP: 来たな、{v1}{col:0}さん{col:-}。{n}待ってたぞ。{p}
+EN: There you are, {v1}{col:0}-san{col:-}. I've been waiting.{p}
+
+## MGF02 g1 s0003
+JP: 修一先輩に将馬……。{n}将馬も早く来るようにいわれたの?{p}
+EN: Shuichi-senpai, and Shoma... Did they tell you to come early too, Shoma?{p}
+
+## MGF02 g1 s0005
+JP: 実はな……。{n}女子野球部の一軍メンバーが{n}一人ケガをして、在学中の{n}現役復帰が絶望的になったんだ。{p}
+EN: Here's the thing... One of the girls' baseball team's first-string players got hurt, and there's no hope she'll play again before she graduates.{p}
+
+## MGF02 g1 s0006
+JP: そこで、俺はキミを{n}一軍にあげたいと思っているんだが、{n}そのための試験として、{n}この将馬と勝負してもらいたい。{p}
+EN: So I'd like to move you up to the first string. As the test for that, I want you to face off against Shoma here.{p}
+
+## MGF02 g1 s0007
+JP: 一軍入りの試験として、将馬と勝負……。{n}わかりました、やります!{p}{end}
+EN: A showdown with Shoma as my first-string test... Got it, I'll do it!{p}{end}
+
+## MGF02 g1 s0008
+JP: お、強気だな!{n}でも、オイラも兄貴の頼みだからな、{n}女だからって手加減しねぇぞ!{n}全力で勝負だ!{p}{end}
+EN: Whoa, feelin' confident, huh! But Bro asked me to do this, so girl or not, I ain't holdin' back! Full power!{p}{end}
+
+## MGF02 g1 s0009
+JP: 望むところよ!{n}それじゃ、修一先輩、勝負の試験は{n}どうするんですか?{p}{end}
+EN: Bring it on! So, Shuichi-senpai, how's the test going to work?{p}{end}
+
+## MGF02 g1 s0010
+JP: うむ、それなんだが……、{n}将馬が投げる球を、{n}{v1}{col:0}さん{col:-}が打つ。{n}これでどうだ?{p}{end}
+EN: Right, about that... Shoma pitches, and {v1}{col:0}-san{col:-} hits. How's that?{p}{end}
+
+## MGF02 g1 s0011
+JP: 単純でいいじゃん!{n}打てれば、{v3:3}の勝ち、{n}試験は合格ってことだな!{p}{end}
+EN: Simple, I like it! If ya hit it, {v3:3} wins and passes the test!{p}{end}
+
+## MGF02 g1 s0014
+JP: はいっ!{n}いつでもいいわよ!!{p}
+EN: Right! Ready whenever you are!!{p}
+
+## MGF02 g1 s0019
+JP: （しまったわ……、将馬にはコレが{n}{sp}あったわね。たぶん将馬は残り2球も、{n}{sp}分身魔球で来るかな……。{n}{sp}何としてもこの球を見極めないと!）{p}
+EN: (Oh no... I forgot Shoma has this. He'll probably throw Hundred Balls for the last two as well... I have to see through it no matter what!){p}
+
+## MGF02 g1 s0024
+JP: （それはわかってるけど……、{n}{sp}初めは10球くらいに見えた{n}{sp}分身魔球も、今回は6球くらいまで{n}{sp}見極めることができた……）{p}{end}
+EN: (I know that, but... At first Hundred Balls looked like ten balls, and this time I could narrow it to about six...){p}{end}
+
+## MGF02 g1 s0025
+JP: （しかし、それじゃ全然ダメね。{n}{sp}こうなったらカンに{n}{sp}頼るしかないわ……）{p}{end}
+EN: (But that's nowhere near enough. Now I'll just have to trust my gut...){p}{end}
+
+## MGF02 g1 s0026
+JP: へへっそんなことじゃ、{n}一軍には上がれねぇぞ!{n}いくぞっ!{n}分身魔球っっっ!!{p}
+EN: Heh, ya won't make the first string like that! Here it comes! Hundred Baaalls!!{p}
+
+## MGF02 g1 s0027
+JP: （!!{n}{sp}3球まで絞って見えるわ!!{n}{sp}こうなったら、カンで勝負!!）{p}
+EN: (!! I can narrow it down to three!! Now it's all on my gut!!){p}
+
+## MGF02 g1 s0029
+JP: そこっ!{p}{end}
+EN: There!{p}{end}
+
+## MGF02 g1 s0033
+JP: オイラの最高の一球だったのに……。{n}男でもどうかって球だぜ……?{n}アレを打ち返したんだ、お前の勝ちだよ。{p}{end}
+EN: That was my best pitch ever... Even a guy'd have trouble with that one, y'know? Ya hit it back, so ya win.{p}{end}
+
+## MGF02 g1 s0034
+JP: 将馬……ありがとう。{p}{end}
+EN: Shoma... thanks.{p}{end}
+
+## MGF02 g1 s0035
+JP: 礼はいらねぇよ。{n}こっちだって、{n}手加減抜きだったんだからな。{p}
+EN: Don't thank me. I wasn't holdin' back either, y'know.{p}
+
+## MGF02 g1 s0036
+JP: 正直、今の球を打たれたのは、{n}ショックだったけど……。{n}オマエが相手じゃしょうがねぇか。{p}{end}
+EN: Honestly, gettin' that pitch hit was a shock... But against you, I guess there's nothin' I can do.{p}{end}
+
+## MGF02 g1 s0038
+JP: これも、一年間の努力の成果だ、{n}もっと胸を張れよ、{n}{v1}{col:0}さん{col:-}。{p}{end}
+EN: This is the fruit of a whole year's hard work. Hold your head up, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MGF02 g1 s0039
+JP: ありがとうございます、修一先輩。{n}将馬も……ありがとう。{p}{end}
+EN: Thank you, Shuichi-senpai. And you too, Shoma... thanks.{p}{end}
+
+## MGF02 g1 s0040
+JP: そこっ!?{p}
+EN: There!?{p}
+
+## MGF02 g1 s0042
+JP: やっちゃった……、{n}読みはあたってたのに!{n}間に合わなかったわ……。{p}{end}
+EN: Oh no... I read it right, but I was too late!{p}{end}
+
+## MGF02 g1 s0045
+JP: やっちゃった……{n}全然、読みがはずれちゃったわ……。{p}{end}
+EN: Oh no... I read it completely wrong...{p}{end}
+
+## MGF02 g1 s0047
+JP: ……惜しかったな、{n}{v1}{col:0}さん{col:-}。{n}キミなら、将馬に勝って一軍に{n}入れると思っていたのだが……。{p}
+EN: ...So close, {v1}{col:0}-san{col:-}. I really thought you'd beat Shoma and make the first string...{p}
+
+## MGF02 g1 s0048
+JP: 実際、今のは一瞬ヒヤッとしたぜ。{n}スイングだけなら、男の野球部でも{n}通用するくらいだな。{p}{end}
+EN: Honestly, that one gave me a scare for a sec. Your swing alone's good enough for the boys' team.{p}{end}
+
+## MGF02 g1 s0049
+JP: うん……ありがとう将馬。{n}全力で勝負してくれて……。{n}でも次のチャンスには絶対負けないわよ!{p}{end}
+EN: Yeah... thanks, Shoma. For giving it everything... But next time, I'm definitely not losing!{p}{end}
+
+## MGF02 g1 s0051
+JP: 二人とも{n}早く一軍のレギュラーになれるように、{n}がんばれよ!{p}{end}
+EN: Both of you, keep at it so you can be first-string regulars soon!{p}{end}
+
+## MGF02 g1 s0052
+JP: 修一先輩……、{n}ありがとうございます。{n}将馬も……ありがと。{p}{end}
+EN: Shuichi-senpai... thank you. And Shoma... thanks.{p}{end}
+
+## MGF02 g1 s0053
+JP: もうすぐ2月もおわり……、{n}春も近いわぁ。{p}
+EN: February's almost over... Spring's getting close.{p}
+
+## MGF02 g1 s0054
+JP: そういえば、沖田先生、今日は{n}特別な練習をするとかいってたわね。{n}あの人、ホント特訓好きよね。{p}
+EN: Come to think of it, Okita-sensei said we'd do some special practice today. That man really loves special training.{p}
+
+## MGF02 g1 s0059
+JP: ……じゃ、一番近いトコロで……{n}階段ではどうですか?{n}階段って学校の階段ですか?{p}{end}
+EN: ...Then the closest one... How about the stairs? By stairs, do you mean the school stairs?{p}{end}
+
+## MGF02 g1 s0065
+JP: （ウソでしょ……?{n}{sp}こんな狭いところで練習するの……?{n}{sp}しかも「階段レシーブ」って{n}{sp}何……?）{p}{end}
+EN: (You're kidding...? We're practicing in a cramped place like this...? And what's a "Staircase Receive" supposed to be...?){p}{end}
+
+## MGF02 g1 s0068
+JP: きゃぁぁっ!!{p}
+EN: Eeeek!!{p}
+
+## MGF02 g1 s0070
+JP: （なんとかケガしなくてすんだけど、{n}{sp}ボールが壁や階段にヘンな風に{n}{sp}跳ね返るから、全然とれなかったわ……。{n}{sp}ヒドイ目にあったわ……）{p}{end}
+EN: (At least I didn't get hurt, but the ball bounced off the walls and stairs in weird ways, so I couldn't catch a thing... That was awful...){p}{end}
+
+## MGF02 g1 s0075
+JP: （……まったく効果がなかった{n}{sp}わけじゃないけど、{n}{sp}……この練習はないわよねぇ……）{p}
+EN: (...It wasn't totally useless, but... this kind of practice is just ridiculous...){p}
+
+## MGF02 g1 s0076
+JP: それじゃ……、{n}一番楽しそうな遊園地で、{n}お願いします。{p}{end}
+EN: Then... the amusement park, since it sounds like the most fun, please.{p}{end}
+
+## MGF02 g1 s0081
+JP: （……ふふっ、技の内容は{n}{sp}わからないけど、とにかくすごい名前ね!{n}{sp}でも……効果あるのかしら?{n}{sp}ホントに。）{p}{end}
+EN: (...Hehe, I have no idea what the move does, but it sure has an amazing name! But... does it really work? Seriously?){p}{end}
+
+## MGF02 g1 s0084
+JP: （30回?{n}{sp}一回や二回なら平気だけど、{n}{sp}いきなり30回連続で乗るの?）{p}
+EN: (Thirty times? Once or twice is fine, but thirty times in a row, just like that?){p}
+
+## MGF02 g1 s0085
+JP: ううう……きゃああぁぁ……!!{p}
+EN: Uuugh... Eeeeek...!!{p}
+
+## MGF02 g1 s0087
+JP: （ウ……ウウ、気分悪い……。{n}{sp}さすがに15回で{n}{sp}ギブアップしちゃった……。{n}{sp}アタマの中がグルングルンしてるよ……）{p}{end}
+EN: (Ugh... I feel sick... I gave up after 15 rides... My head's spinning round and round...){p}{end}
+
+## MGF02 g1 s0092
+JP: （……ジェットコースターにただで{n}{sp}乗れたのはいいけど……それ以上に{n}{sp}気分が悪くなった……）{p}
+EN: (...Free roller coaster rides were nice, but... feeling this sick more than cancels that out...){p}
+
+## MGF02 g1 s0100
+JP: （……自信たっぷりね。{n}{sp}なんかいろいろ間違ってる気も{n}{sp}するけど……ま、いいわ。）{p}{end}
+EN: (...He sure is confident. I feel like a lot of that is wrong, but... whatever.){p}{end}
+
+## MGF02 g1 s0103
+JP: よぉしっ、いつでもいいわよ!!{p}
+EN: All right, ready whenever you are!!{p}
+
+## MGF02 g1 s0105
+JP: ……ふぅ、先生のいってることは{n}メチャクチャだったけど、{n}練習自体は効果があったみたいね。{p}
+EN: ...Phew. Sensei's talk was total nonsense, but the practice itself seems to have worked.{p}
+
+## MGF02 g1 s0107
+JP: （あんまりなりたくないけど……）{p}{end}
+EN: (Not sure I want to be one, though...){p}{end}
+
+## MGF02 g1 s0110
+JP: ……たしかに理論は正しそうだけど、{n}服がびしょ濡れになっちゃった。{n}練習はそこそこ効果が{n}あったみたいだけど……。{p}
+EN: ...The theory does sound right, but my clothes got soaked. The practice worked fairly well, though...{p}
+
+## MGF02 g1 s0113
+JP: 一人で盛り上がって{n}行っちゃった……。{n}……寒ッ、このままじゃカゼひいちゃうわ。{n}もう家に帰ろう……。{p}
+EN: He got all fired up and ran off by himself... Brr, I'm going to catch a cold like this. I'll just go home...{p}
+
+## MGF02 g1 s0114
+JP: もう2月も終わり、{n}春が近いわぁ。{p}
+EN: It's the end of February already. Spring's getting close.{p}
+
+## MGF02 g1 s0115
+JP: サッカー部では、冬の大会も終わり、{n}新入生が入ってくる春に向けて、{n}毎年恒例のちょっとした{n}イベントがあるみたい。{p}
+EN: The soccer club's winter tournament is over, and it sounds like there's a little yearly event ahead of spring, when the new members join.{p}
+
+## MGF02 g1 s0116
+JP: 遅いぞ、{v7:5}。{n}もうそろそろ、競技が始まるぞ。{p}
+EN: You're late, {v7:5}. The event's about to start.{p}
+
+## MGF02 g1 s0117
+JP: はぁい、ロベルト。{n}ゴメンね。{n}ところで、{n}競技って何をやるの?{p}{end}
+EN: Hi-i, Roberto. Sorry. So, what's the event?{p}{end}
+
+## MGF02 g1 s0118
+JP: ごめんね、{n}連絡してなかったわね。{n}今日のイベントって、{n}リフティング大会なの。{p}{end}
+EN: Sorry, I didn't tell you, did I? Today's event is a juggling contest.{p}{end}
+
+## MGF02 g1 s0119
+JP: リフティングのやり方って、{n}知ってる?{n}一応説明しておくわね。{p}
+EN: Do you know how to juggle? I'll explain just in case.{p}
+
+## MGF02 g1 s0120
+JP: ようは、的確に{n}蹴れればいいんだけど、{n}ちょっとコツがあるの。{p}
+EN: Basically, you just need to kick it accurately, but there's a trick to it.{p}
+
+## MGF02 g1 s0121
+JP: ボールが前にいったら「ヒザ」で{n}ボールが上にいったら「アタマ」で{n}ボールが後ろにいったら「カカト」で{n}蹴るとうまくいくわ。{p}
+EN: If the ball goes forward, use your "Knee." If it goes up, your "Head." If it goes behind you, your "Heel." Do that and you'll be fine.{p}
+
+## MGF02 g1 s0124
+JP: なるほど、わかったわ。{n}ようはリフティングを長く続けれれば{n}いいのね。{p}
+EN: I see, got it. So basically, I just have to keep juggling as long as I can.{p}
+
+## MGF02 g1 s0127
+JP: あんまり、やりたくない委員ねぇ。{p}{end}
+EN: Not a committee I'd want to be on...{p}{end}
+
+## MGF02 g1 s0129
+JP: あ、そろそろ開始みたいですよ。{n}準備してください。{n}二人ともがんばってね。{p}
+EN: Oh, looks like it's about to start. Get ready. Good luck, both of you.{p}
+
+## MGF02 g1 s0130
+JP: よし、がんばるわよ!{p}{end}
+EN: OK, here I go!{p}{end}
+
+## MGF02 g1 s0132
+JP: ンッ、ンッ、ンッっと。{n}しばらくは続けられそうね……。{n}{face:15}・・・・・・・・・・{face:255}{n}……48、49、50、まだまだいけそう!{p}
+EN: Hup, hup, hup. I can keep this going for a while... {face:15}..........{face:255} ...48, 49, 50, still going strong!{p}
+
+## MGF02 g1 s0133
+JP: {face:15}・・・・・・・・・・{face:255}{n}何人か脱落者がでてきてるみたいね。{n}……フッ、フッ、フッと。{n}78、79、80。{p}
+EN: {face:15}..........{face:255} Looks like a few people are dropping out. ...Hup, hup, hup. 78, 79, 80.{p}
+
+## MGF02 g1 s0134
+JP: {v1}{col:0}ちゃん{col:-}、{n}がんばってね!{p}
+EN: {v1}{col:0}-chan{col:-}, good luck!{p}
+
+## MGF02 g1 s0135
+JP: ……97、と。{n}さて、あと少しで100回ね、{n}そろそろ慎重に……。{p}
+EN: ...97. Now, just a bit more to 100. Time to be careful...{p}
+
+## MGF02 g1 s0136
+JP: 前にいったわよ!{p}{end}
+EN: It went forward!{p}{end}
+
+## MGF02 g1 s0138
+JP: 98、いい調子!{p}{end}
+EN: 98, looking good!{p}{end}
+
+## MGF02 g1 s0139
+JP: ああっ、ちょっと{n}遅かったみたい……!{p}
+EN: Oh no, a little too late...!{p}
+
+## MGF02 g1 s0141
+JP: 次は、後ろよ!{p}
+EN: Next, it's behind you!{p}
+
+## MGF02 g1 s0143
+JP: 99、あと一回よ!{p}
+EN: 99, one more!{p}
+
+## MGF02 g1 s0146
+JP: はい、上よ!{p}{end}
+EN: Here, it's up!{p}{end}
+
+## MGF02 g1 s0148
+JP: 100!{n}ノルマ達成ね!{n}……あっ!{p}{end}
+EN: 100! You made the quota! ...Oh!{p}{end}
+
+## MGF02 g1 s0150
+JP: ああっ、落ちちゃった……。{n}そんなムチャしちゃダメよ。{p}
+EN: Oh no, it dropped... You shouldn't try something so reckless.{p}
+
+## MGF02 g1 s0151
+JP: ああっ、落ちちゃった……。{n}今の、どこで蹴ろうとしたの?{p}{end}
+EN: Oh no, it dropped... Where were you trying to kick it just now?{p}{end}
+
+## MGF02 g1 s0152
+JP: やっちゃった、{n}前に飛ばしすぎちゃった!!{p}
+EN: Oops, I sent it too far forward!!{p}
+
+## MGF02 g1 s0154
+JP: ここは、落ちる前にライジングキックで{n}真上に蹴り上げるわよ!!{p}
+EN: I'll kick it straight up with a rising kick before it drops!!{p}
+
+## MGF02 g1 s0155
+JP: 「スカッ!」{n}あ、あれ!?{p}
+EN: "Whiff!" Wh-what!?{p}
+
+## MGF02 g1 s0156
+JP: ダメだわ……、さすがに{n}前に蹴ったボールには{n}届かないわよね……。{n}しかたないわ。{p}
+EN: No good... Of course I can't reach a ball I kicked forward... Oh well.{p}
+
+## MGF02 g1 s0157
+JP: 間に合うかしら!?{n}スライディング!!{p}
+EN: Can I make it!? Slide!!{p}
+
+## MGF02 g1 s0159
+JP: やったわっ、{n}気合のスライディングが届いた!{n}真上に高くあげたから、{n}これで持ち直せるわ!{p}
+EN: Yes, my all-out slide reached it! I sent it high, straight up, so I can recover from this!{p}
+
+## MGF02 g1 s0160
+JP: （……結局、ここで体勢を持ち直して、{n}{sp}順調に記録を伸ばし、{n}{sp}最終的にロベルトと優勝を争ったけど、{n}{sp}おしくも負けちゃった……）{p}
+EN: (...In the end, I recovered there, kept building my count and fought Roberto for first place, but lost by a hair...){p}
+
+## MGF02 g1 s0163
+JP: 残念だわ、{n}紙一重で届かなかった……。{p}
+EN: Too bad, I missed it by a hair...{p}
+
+## MGF02 g1 s0164
+JP: さすがね、{v1}{col:0}ちゃん{col:-}。{n}ロベルト君には負けたけど、{n}女の子であそこまでできるなんて……。{p}
+EN: That was amazing, {v1}{col:0}-chan{col:-}. You lost to Roberto-kun, but for a girl to get that far...{p}
+
+## MGF02 g1 s0165
+JP: まったくだ。{n}俺とここまで張りあったのは、{n}男でも女でもお前が初めてだぜ。{p}
+EN: No kidding. You're the first person, guy or girl, who's ever kept up with me like that.{p}
+
+## MGF02 g1 s0166
+JP: ありがとうね、ロベルト、まりちゃん。{p}{end}
+EN: Thanks, Roberto, Mari-chan.{p}{end}
+
+## MGF02 g1 s0168
+JP: お疲れさま……。{n}ゆっくり休んでね……{p}
+EN: Good work... Get some rest, OK...{p}
+
+## MGF02 g1 s0169
+JP: おしかったね。{n}最後でヘンな方に飛んじゃったから……。{p}
+EN: So close. It flew off in a weird direction at the end...{p}
+
+## MGF02 g1 s0170
+JP: 最後のは、もう少し{n}私に実力があればとれたけどね……。{n}まぁしかたないわ、100回の{n}ノルマは達成できたしね。{p}
+EN: I could've gotten that last one if I were a little better... Oh well, I still made the 100 quota.{p}
+
+## MGF02 g1 s0172
+JP: そうねぇ。{n}もう少し、いけると思ったけど……。{p}
+EN: Yeah. I thought I could go a little further...{p}
+
+## MGF02 g1 s0174
+JP: 残念だったね、ノルマ越えられなくって。{n}私の応援が悪かったのかな?{p}
+EN: Too bad you didn't make the quota. Maybe my cheering wasn't good enough?{p}
+
+## MGF02 g1 s0175
+JP: ううん、まりちゃんは悪くないよ。{n}私の判断力の問題かな。{p}{end}
+EN: No, it's not your fault, Mari-chan. It's my judgment that's the problem.{p}{end}
+
+## MGF02 g1 s0177
+JP: ロベルト……。{n}そうね。{n}私もまだまだ修行が足りないわ。{p}{end}
+EN: Roberto... You're right. I still need more training.{p}{end}
+
+## MGF02 g1 s0178
+JP: ともかく、お疲れさま。{n}雑用委員、がんばってね。{p}{end}
+EN: Anyway, good work. Good luck on the chore committee.{p}{end}
+
+## MGF02 g1 s0179
+JP: 今日は、大事な用があるとかで、{n}監督に呼ばれたけど、{n}いったい何の用かしら?{p}{end}
+EN: Coach called me in today, saying he had something important. What could it be?{p}{end}
+
+## MGF02 g1 s0183
+JP: ガッハッハ、誰かと思えば{n}{v3:11}{col:0}さん{col:-}ではないか。{n}これは楽勝じゃい!{p}
+EN: Gahaha, look who it is, {v3:11}{col:0}-san{col:-}! This'll be a cinch!{p}
+
+## MGF02 g1 s0186
+JP: ガッハッハ。{n}男相手ならともかく、{n}女の子相手に相撲では{n}負けはせんわい。{p}
+EN: Gahaha. Against a fella, maybe, but I ain't about to lose at sumo to a little lady.{p}
+
+## MGF02 g1 s0190
+JP: さ、佐渡先生……!{n}そんな岩と勝負なんて……。{p}
+EN: S-Sado-sensei...! A bout with Gan, of all people...{p}
+
+## MGF02 g1 s0192
+JP: いえ、そういうわけでは……。{n}でも私、女ですよ!?{p}
+EN: No, it's not that... But I'm a girl, you know!?{p}
+
+## MGF02 g1 s0193
+JP: 女だからって実力は負けちゃいない。{n}ドーーーンとぶつかってこい!{n}1年間の努力を思い出せ!{p}
+EN: Being a girl doesn't make you any weaker. Slam into him, full force! Remember a whole year of training!{p}
+
+## MGF02 g1 s0194
+JP: オ、オスッ!{p}{end}
+EN: O-osu!{p}{end}
+
+## MGF02 g1 s0196
+JP: よぉし!!{n}いくわよ!{p}
+EN: All right!! Here I go!{p}
+
+## MGF02 g1 s0198
+JP: （土俵に入り、岩と向き合う。{n}{sp}さすがにおおきいな……）{p}{end}
+EN: (I step into the ring and face Gan. He really is huge...){p}{end}
+
+## MGF02 g1 s0199
+JP: この際、私情は抜きじゃ。{n}女じゃからといって手加減はせん、{n}本気でいくから、覚悟しておけよ。{p}{end}
+EN: No personal feelin's this time. Girl or not, I ain't holdin' back. I'm comin' at ya for real, so brace yerself.{p}{end}
+
+## MGF02 g1 s0203
+JP: {face:2}（岩が正面から突っ込んできたわ!{n}{sp}体重はゆうに2倍近い!{n}{sp}どうしよう……!!）{face:255}{p}
+EN: {face:2}(Gan's charging straight at me! He's nearly twice my weight! What do I do...!!){face:255}{p}
+
+## MGF02 g1 s0205
+JP: （ここは逃げちゃダメよ!!{n}{sp}真正面から……ええいっっ!!）{p}{end}
+EN: (I can't run away here!! Head-on... Hyaaah!!){p}{end}
+
+## MGF02 g1 s0209
+JP: よしっ、{v0}!!{n}それがお前の1年間の力よ!{n}一気に押し切れ!{p}{end}
+EN: Good, {v0}!! That's a whole year of strength! Push him all the way out!{p}{end}
+
+## MGF02 g1 s0210
+JP: オッス!!{n}えええーーーーーい!!{p}
+EN: Osu!! Eeeeyaaah!!{p}
+
+## MGF02 g1 s0213
+JP: よしっ!{n}{v0}の勝ち!!{p}
+EN: That's it! {v0} wins!!{p}
+
+## MGF02 g1 s0214
+JP: ハァッ!{sp}ハァッ!{n}勝った……!{sp}信じられないわ!{n}岩を正面から倒せるなんて……!!{p}{end}
+EN: Huff! Huff! I won...! I can't believe it! I beat Gan head-on...!!{p}{end}
+
+## MGF02 g1 s0215
+JP: やったな、{v0}。{n}それがお前の力よ。{p}
+EN: Well done, {v0}. That's your strength.{p}
+
+## MGF02 g1 s0216
+JP: 岩のヤツ、のびてやがる。{n}よし、コイツの目が覚めたら、{n}わしがきっちり絞ってやろう。{n}{v0}、すまなかったな。{p}
+EN: Gan's out cold. Right, once he wakes up, I'll give him a proper grilling. {v0}, sorry about all this.{p}
+
+## MGF02 g1 s0219
+JP: お前の実力、{n}しっかり見せてもらったぜ。{n}入ってきたときはどうなるかと思ったが、{n}来年もこの調子で、がんばれよ。{p}{end}
+EN: I got a good look at what you can do. When you first came in, I wondered how you'd turn out. Keep it up next year, too.{p}{end}
+
+## MGF02 g1 s0221
+JP: （ふぅ……まさか岩を正面から{n}{sp}倒せるとは思わなかったわ……。{n}{sp}私も強くなってるのね!）{p}
+EN: (Phew... I never thought I'd beat Gan head-on... I really am getting stronger!){p}
+
+## MGF02 g1 s0222
+JP: （ここは逃げちゃダメよ!!{n}{sp}真正面から……きゃあぁぁ!?）{p}{end}
+EN: (I can't run away here!! Head-on... Kyaaah!?){p}{end}
+
+## MGF02 g1 s0226
+JP: ……いっちゃった。{n}力の差がここまであるとはね……。{n}やっぱり、かわして勝負した方が{n}よかったかな?{p}{end}
+EN: ...He left. I didn't think the gap in strength was this big... Maybe I should've dodged and fought him that way?{p}{end}
+
+## MGF02 g1 s0227
+JP: ……いや、仕方ないさ。{n}お前の選択は間違っちゃぁいない。{n}わしでもそうしただろう……が、{n}さすがに少し力不足だったな……。{p}
+EN: ...No, it couldn't be helped. Your choice wasn't wrong. I'd have done the same... but you were a bit short on strength this time...{p}
+
+## MGF02 g1 s0228
+JP: 佐渡先生……ごめんなさい。{n}ご期待に応えられなくて……。{p}{end}
+EN: Sado-sensei... I'm sorry. I couldn't live up to your expectations...{p}{end}
+
+## MGF02 g1 s0231
+JP: （まともにぶつかったらダメね!!{n}{sp}とりあえず、かわして!!）{p}
+EN: (Crashing into him head-on won't work!! I'll dodge for now!!){p}
+
+## MGF02 g1 s0234
+JP: （なんとかかわせたわ!!{n}{sp}岩が体勢を崩した今がチャンス!{n}{sp}一気に送り出してやるわよ!）{p}
+EN: (I dodged him!! Gan's off balance, now's my chance! I'll push him out from behind in one go!){p}
+
+## MGF02 g1 s0239
+JP: フウ～～……。{n}勝てたわ……。{n}なんとか勝てた。{p}{end}
+EN: Phewww... I won... I actually won.{p}{end}
+
+## MGF02 g1 s0240
+JP: やったな、{v0}。{n}それがお前の力よ。{n}ま、岩が足腰を鍛えてなかった、{n}ってのもあるがな。{p}
+EN: Well done, {v0}. That's your strength. Well, it helped that Gan never trained his legs.{p}
+
+## MGF02 g1 s0246
+JP: （ふぅ……まさか岩に相撲で{n}{sp}勝てるとは思わなかったわ……。{n}{sp}私も強くなってるのね!）{p}{end}
+EN: (Phew... I never thought I'd beat Gan at sumo... I really am getting stronger!){p}{end}
+
+## MGF02 g1 s0247
+JP: （まともにぶつかったらダメね!!{n}{sp}とりあえず、かわ……せない!?）{p}{end}
+EN: (Crashing into him head-on won't work!! I'll dodge for n... I can't!?){p}{end}
+
+## MGF02 g1 s0252
+JP: ……いっちゃった。{n}スピードの差がここまであるなんて……。{n}やはり、正面から勝負した方が{n}よかったかしら?{p}
+EN: ...He left. I didn't think the gap in speed was this big... Maybe I should've taken him on head-on?{p}
+
+## MGF02 g1 s0257
+JP: （ここは奇策しかないわ……!{n}{sp}猫だましで動きを止めてっ!{n}{sp}さぁ!{sp}猫だま……キャアッ!?）{p}
+EN: (Only a trick will work here...! I'll freeze him with a nekodamashi clap! Now! Nekoda... Kyaah!?){p}
+
+## MGF02 g1 s0263
+JP: ……いっちゃった。{n}もっと正面から相撲をとっていれば……{n}まだまともな取り組みになったのに……。{p}{end}
+EN: ...He left. If I'd just wrestled him head-on... it would at least have been a real bout...{p}{end}
+
+## MGF02 g1 s0268
+JP: 早いもので、もう2月も終わりね……。{n}今日は土曜日の午後だから、{n}校内にも人がまばらだわ。{p}
+EN: Time flies. February's almost over... It's Saturday afternoon, so there aren't many people around the school.{p}
+
+## MGF02 g1 s0269
+JP: そういえば、今日は何かイベントが{n}あるって、こずえ先輩がいってたわね。{n}いつもの教室にいってみよう。{p}{end}
+EN: Come to think of it, Kozue-senpai said there's some event today. Let's check the usual classroom.{p}{end}
+
+## MGF02 g1 s0270
+JP: 来たわね、{v1}{col:0}ちゃん{col:-}。{n}これでメンバーは全員そろったわね。{p}{end}
+EN: There you are, {v1}{col:0}-chan{col:-}. Now everyone's here.{p}{end}
+
+## MGF02 g1 s0273
+JP: そうなんですか……多いとは聞いて{n}ましたけど、見るのは初めてですね。{n}それで、こんなに集まって{n}何のイベントなんですか?{p}{end}
+EN: Really... I'd heard there were a lot of us, but this is the first time I've seen them all. So what's the event, with everyone here?{p}{end}
+
+## MGF02 g1 s0275
+JP: 人体デッサン……?{n}ひょっとしてヌードですか?{p}
+EN: Figure drawing...? Is it nude, by any chance?{p}
+
+## MGF02 g1 s0276
+JP: ううん、違うわ。{n}モデルは生徒だし。{n}水着よ、水着。{n}しかも今回は男だし。{p}
+EN: No, no. The models are students. Swimsuits, swimsuits. And this time they're guys.{p}
+
+## MGF02 g1 s0277
+JP: 男……!{sp}水着……!?{n}それで、幽霊部員も女の子が多いんですね。{n}しかし、生徒がよく引き受けましたね、{n}水着のモデルなんて。{p}{end}
+EN: Guys...! In swimsuits...!? So that's why so many of the no-show members are girls. Still, I'm surprised students agreed to model in swimsuits.{p}{end}
+
+## MGF02 g1 s0279
+JP: 二人ですか……。{n}……なんとなく、{n}誰かわかったような気が……。{p}{end}
+EN: Two of them... ...I think I sort of know who they are...{p}{end}
+
+## MGF02 g1 s0282
+JP: それじゃ私は……Aクンで。{n}あら、なんかAの方が人気があるわね。{n}やっぱりみんな、Aが誰か、{n}わかってるのかな。{p}{end}
+EN: Then I'll go with A. Oh, A seems more popular. I guess everyone knows who A is.{p}{end}
+
+## MGF02 g1 s0284
+JP: ……やっぱりバツね。{n}バツったら食べ物には{n}熱心よねぇ。{p}{end}
+EN: ...Batsu, of course. He's always so keen when it comes to food.{p}{end}
+
+## MGF02 g1 s0286
+JP: だって私、美術部だもん。{p}{end}
+EN: Well, I'm in the art club.{p}{end}
+
+## MGF02 g1 s0287
+JP: そ、そうか。{n}そ、そうだったっけ?{n}なんか照れるなぁ、オイ。{p}{end}
+EN: R-right. W-was that so? Man, this is kinda embarrassing.{p}{end}
+
+## MGF02 g1 s0288
+JP: もう一人はやっぱりボーマンね。{n}ボランティアっていえば、{n}ボーマンだもんね。{p}{end}
+EN: And the other one's Boman, of course. Volunteering means Boman.{p}{end}
+
+## MGF02 g1 s0291
+JP: それじゃ、バツの真ん前に{n}座らせてもらおうかしら……。{n}なんか、描いてる方も照れるわね。{p}{end}
+EN: Then I'll sit right in front of Batsu... Huh, it's kind of embarrassing for the one drawing, too.{p}{end}
+
+## MGF02 g1 s0292
+JP: お、お前なぁ、もうちょっと{n}見えないトコロに座れよ。{n}ちぇっ、仕方ないなぁ。{p}{end}
+EN: C-come on, sit somewhere I can't see ya. Tch, fine, whatever.{p}{end}
+
+## MGF02 g1 s0297
+JP: ……バツ……我慢しなさい、{n}もう少しだから。{p}{end}
+EN: ...Batsu... hang in there. It's almost over.{p}{end}
+
+## MGF02 g1 s0299
+JP: ……バツ……あとでたこ焼き{n}おごってあげるから、じっとしてて。{p}
+EN: ...Batsu... I'll treat you to takoyaki later, so hold still.{p}
+
+## MGF02 g1 s0303
+JP: ふぅ……できたわ。{n}序盤は集中力を乱されたけど、{n}バツが食べ物に熱心なおかげで、{n}うまくできたわ。{p}
+EN: Phew... done. He broke my focus at first, but thanks to Batsu being so keen on food, it came out well.{p}
+
+## MGF02 g1 s0306
+JP: うんうん、みんな{n}あなたくらいマジメだったら、{n}いいんだけどな。{n}これからもがんばってね。{p}
+EN: Mm-hm, if only everyone were as serious as you. Keep it up.{p}
+
+## MGF02 g1 s0307
+JP: はい、こずえ先輩!{n}バツ、アリガトね。{p}
+EN: Yes, Kozue-senpai! Thanks, Batsu.{p}
+
+## MGF02 g1 s0310
+JP: それじゃ、恥ずかしいから{n}ちょっと遠めに座ろうっと。{n}……なんか他の人が多くて、{n}バツがよく見えないわ。{p}{end}
+EN: I'm embarrassed, so I'll sit a little farther back. ...There are so many people, I can't see Batsu well.{p}{end}
+
+## MGF02 g1 s0312
+JP: ちょっと、すみません、{n}あんまりアタマ動かさないで{n}もらえます……?{n}……すみません。{p}
+EN: Um, excuse me, could you not move your head so much...? ...Sorry.{p}
+
+## MGF02 g1 s0314
+JP: やっぱり見えにくいわ。{n}バツの方が人気だから{n}しかたないけど……。{p}
+EN: It's still hard to see. Batsu's more popular, so I guess it can't be helped...{p}
+
+## MGF02 g1 s0315
+JP: なんだかバツも、{n}気分が悪そうね。{n}なんか顔が引きつってるわ。{p}
+EN: Batsu doesn't look like he's feeling well, either. His face is all stiff.{p}
+
+## MGF02 g1 s0320
+JP: バツ!{n}大丈夫!?{p}
+EN: Batsu! Are you OK!?{p}
+
+## MGF02 g1 s0324
+JP: う～ん、初めはちゃんと見えなかったし、{n}途中で倒れちゃったから、{n}全然できてないわ。{n}これは大失敗ね。{p}
+EN: Hmm, I couldn't see well at first, and then he collapsed halfway, so I barely got anything done. What a disaster.{p}
+
+## MGF02 g1 s0328
+JP: それじゃ私は……Bクンで。{n}あら、なんかAの方が人気があるわね。{n}ふ～ん、みんなAの方が好きなのかな?{p}
+EN: Then I'll go with B. Oh, A seems more popular. Hmm, does everyone like A better?{p}
+
+## MGF02 g1 s0330
+JP: ……やっぱりボーマンね。{n}ボランティアっていわれたら{n}断れなかったんでしょう。{p}
+EN: ...Boman, of course. He couldn't say no once he heard "volunteer."{p}
+
+## MGF02 g1 s0332
+JP: うん。{n}それにしても、ボーマンも{n}ボランティアが好きねぇ。{p}
+EN: Yeah. Still, Boman sure loves volunteering.{p}
+
+## MGF02 g1 s0334
+JP: みんな幽霊部員らしいわよ。{n}あ、あっちはバツね。{n}食べ放題につられるなんて、{n}バツらしいわ。{p}{end}
+EN: Apparently they're all no-show members. Oh, that's Batsu over there. Lured by all-you-can-eat... that's so Batsu.{p}{end}
+
+## MGF02 g1 s0337
+JP: それじゃ、ボーマンの近くに{n}座らせてもらおうかな……。{n}なんか、描いてる方も照れるわね。{p}{end}
+EN: Then I'll sit near Boman... Huh, it's kind of embarrassing for the one drawing, too.{p}{end}
+
+## MGF02 g1 s0339
+JP: 見なきゃ描けないじゃない。{n}それじゃ、描くわよ。{p}{end}
+EN: I can't draw you if I don't look. Here goes.{p}{end}
+
+## MGF02 g1 s0341
+JP: しかし、バツの方が人も多いし、{n}騒がしいわね。{n}もう少し静かにならないかしら。{p}
+EN: Still, Batsu's side is crowded and noisy. I wish it would quiet down a bit.{p}
+
+## MGF02 g1 s0346
+JP: （う～ん、たしかにボーマンの方が、{n}{sp}いい身体してるけど、{n}{sp}そういう問題じゃないわよね……）{p}
+EN: (Hmm, Boman does have the better body, but that's not the point...){p}
+
+## MGF02 g1 s0349
+JP: ふぅ……できたわ。{n}なんとかできたけど、{n}ボーマンの独り言のせいで{n}ちょっと集中できなかったわ。{p}{end}
+EN: Phew... done. I managed, but Boman's muttering kept breaking my focus.{p}{end}
+
+## MGF02 g1 s0350
+JP: どう?{sp}{v1}{col:0}ちゃん{col:-}。{n}なるほど……筋肉の迫力に圧倒されて、{n}全体のバランスが悪いわねぇ。{n}もっと全体を見た方がいいわよ。{p}
+EN: Let's see, {v1}{col:0}-chan{col:-}. I see... The muscles overwhelmed you, so the overall balance is off. Try to look at the whole picture.{p}
+
+## MGF02 g1 s0353
+JP: あ、はい、こずえ先輩。{n}ボーマン、ありがとね。{p}
+EN: Oh, yes, Kozue-senpai. Thanks, Boman.{p}
+
+## MGF02 g1 s0356
+JP: それじゃ、恥ずかしいから{n}ちょっと遠めに座ろうかな……。{n}バツの方に人が集まってるせいか、{n}こっちはすいてて、やりやすいわ。{p}{end}
+EN: I'm embarrassed, so I'll sit a little farther back... Everyone's crowding around Batsu, so it's empty over here and easy to work.{p}{end}
+
+## MGF02 g1 s0358
+JP: う～ん、さすがボーマン、{n}すごい筋肉だわ。{n}ギリシャ彫刻みたいね……。{p}
+EN: Hmm, that's Boman for you. Amazing muscles. He's like a Greek statue...{p}
+
+## MGF02 g1 s0360
+JP: ……これでオイルが塗ってあれば、{n}ボディビルダーでも通用するわねぇ。{p}{end}
+EN: ...If he were oiled up, he could pass for a bodybuilder.{p}{end}
+
+## MGF02 g1 s0363
+JP: ふぅ……。{n}集中してできたから、{n}かなりいいモノができたわ。{n}これは自分で見ても、力作ね。{p}
+EN: Phew... I could focus, so it turned out really well. Even I think it's a masterpiece.{p}
+
+## MGF02 g1 s0364
+JP: お、すごい迫力ね!{n}筋肉の付き方も自然だし、{n}バランスもいいし……、{n}さすがね、{v1}{col:0}ちゃん{col:-}。{p}
+EN: Oh, that's powerful! The muscles look natural, and the balance is good... Impressive, {v1}{col:0}-chan{col:-}.{p}
+
+## MGF02 g1 s0367
+JP: ありがとうございます、こずえ先輩。{n}ボーマンもありがとね。{p}
+EN: Thank you, Kozue-senpai. Thanks, Boman.{p}
+
+## MGF02 g1 s0370
+JP: 早いもので、もう2月も終わり。{n}吹奏楽部に入って、もうすぐ1年ね……。{p}
+EN: Time flies. February's almost over. It's almost a year since I joined the brass band...{p}
+
+## MGF02 g1 s0371
+JP: 今日は近隣の吹奏楽部の{n}合同発表会の日……。{n}もっとも私が出場するわけじゃ{n}ないけど。{p}
+EN: Today's the joint recital for the brass bands around here... Not that I'm performing.{p}
+
+## MGF02 g1 s0372
+JP: ウチの部では、代表で静音ちゃんが{n}一人で出ることになっているわ。{p}{end}
+EN: Our club's sending Shizune-chan as our only representative.{p}{end}
+
+## MGF02 g1 s0373
+JP: それで、応援に来たんだけど……{n}あ、静音ちゃん。{p}{end}
+EN: So I came to cheer her on... Oh, Shizune-chan.{p}{end}
+
+## MGF02 g1 s0374
+JP: ……あ……{v1}{col:0}さん{col:-}、{n}応援に来てくれたのね……。{n}ありがと……。{p}
+EN: ...Oh... {v1}{col:0}-san{col:-}, you came to cheer me on... Thank you...{p}
+
+## MGF02 g1 s0375
+JP: 静音ちゃん。{n}緊張してるかと思ったけど、{n}全然平気そうね。{p}
+EN: Shizune-chan. I thought you'd be nervous, but you look totally fine.{p}
+
+## MGF02 g1 s0377
+JP: （……?{n}{sp}無表情だからわからないけど、{n}{sp}どうも静音ちゃんなりに、{n}{sp}緊張しているみたいね……）{p}
+EN: (...? She's so expressionless I can't tell, but it seems she's nervous in her own way...){p}
+
+## MGF02 g1 s0378
+JP: 緊張してるの?{n}この手の発表会って{n}慣れてるのかと思ったわ。{p}{end}
+EN: You're nervous? I thought you'd be used to recitals like this.{p}{end}
+
+## MGF02 g1 s0381
+JP: あら、まるっきり{n}ガチガチじゃない。{n}落ち着いて、落ち着いて、ね?{p}
+EN: Oh, you're stiff as a board. Calm down, calm down, OK?{p}
+
+## MGF02 g1 s0382
+JP: 大丈夫、いつも通りやれば、{n}うまくいくわよ!{p}{end}
+EN: It's fine. If you do it like always, it'll go great!{p}{end}
+
+## MGF02 g1 s0384
+JP: 全然ダメね。{n}見た目は、いつも通りなのに……。{p}
+EN: Not working at all. She looks the same as always, though...{p}
+
+## MGF02 g1 s0385
+JP: そうだ、ほら、アレは?{n}緊張をほぐすおまじない?{n}手のひらに「人」という字を、{n}3回書いて……、{p}{end}
+EN: Oh, I know, what about that? The charm for nerves? You write the character for "person" on your palm three times and...{p}{end}
+
+## MGF02 g1 s0387
+JP: じゃ、ええと、{n}お客なんてお地蔵さんだと{n}思えっていうじゃない、{n}お地蔵さんが並んでるだけよ。{p}
+EN: Then, um, you know how they say to pretend the audience is a bunch of Jizo statues? It's just rows of statues.{p}
+
+## MGF02 g1 s0389
+JP: でも、もう時間がないわよ。{n}う～ん……、{n}がんばって!{sp}大丈夫だって!{p}
+EN: But we're out of time. Hmm... Hang in there! You'll be fine!{p}
+
+## MGF02 g1 s0391
+JP: ダメね……。{n}私って応援の仕方がヘタなのかな?{p}
+EN: No good... Am I just bad at cheering people on?{p}
+
+## MGF02 g1 s0394
+JP: （……励ますといえば、ひなたね。{n}{sp}よし!）{p}{end}
+EN: (...When it comes to encouragement, it's Hinata. OK!){p}{end}
+
+## MGF02 g1 s0395
+JP: しっかりしてよ!{n}（グッ、グッ）{n}がんばって!!{n}（で、ガッツポーズね）{p}{end}
+EN: Pull yourself together! (Squeeze, squeeze) You can do it!! (And a fist pump.){p}{end}
+
+## MGF02 g1 s0396
+JP: ……どどどどうしたの、{n}{v1}{col:0}さん{col:-}……?{n}……だだだ大丈夫?{p}{end}
+EN: ...Wh-wh-wh-what's wrong, {v1}{col:0}-san{col:-}...? ...A-a-are you OK?{p}{end}
+
+## MGF02 g1 s0397
+JP: 効果……なしみたいね。{n}やっぱりひなたのようには{n}いかないかな……。{p}{end}
+EN: Looks like... no effect. I guess I can't do it like Hinata...{p}{end}
+
+## MGF02 g1 s0398
+JP: ……ももももう出番だわ。{n}ああありがとね、{v1}{col:0}さん{col:-}。{n}……すすす少し落ち着いたわ……。{p}{end}
+EN: ...I-i-i-it's my turn. Th-th-thank you, {v1}{col:0}-san{col:-}. ...I f-f-feel a little calmer...{p}{end}
+
+## MGF02 g1 s0400
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局、静音ちゃんは大きなミスこそ{n}しなかったけど、あまりいいできじゃ{n}なかったわ……。{p}{end}
+EN: {face:15}..........{face:255} In the end, Shizune-chan didn't make any big mistakes, but it wasn't her best performance...{p}{end}
+
+## MGF02 g1 s0401
+JP: ……{v1}{col:0}さん{col:-}。{n}さっきはごめんね、{n}見苦しいところ見せちゃって……。{p}
+EN: ...{v1}{col:0}-san{col:-}. I'm sorry about earlier, letting you see me like that...{p}
+
+## MGF02 g1 s0402
+JP: 私の方こそ……{n}お役に立てなくて、ゴメンね……。{p}{end}
+EN: I'm the one who should be sorry... I wasn't any help...{p}{end}
+
+## MGF02 g1 s0404
+JP: （……気合をいれるには、{n}{sp}やっぱり体育会系の夏ね……。{n}{sp}よし!）{p}{end}
+EN: (...To get fired up, it has to be Natsu, the sporty one... OK!){p}{end}
+
+## MGF02 g1 s0406
+JP: ……はっ……こふっ……、{n}もう、{v1}{col:0}さん{col:-}、{n}強くたたきすぎ!!{p}{end}
+EN: ...Hah... kof... Geez, {v1}{col:0}-san{col:-}, you hit too hard!!{p}{end}
+
+## MGF02 g1 s0407
+JP: どう、少しは落ち着いた?{p}{end}
+EN: Well, are you a little calmer?{p}{end}
+
+## MGF02 g1 s0410
+JP: よかった、なんとか{n}落ち着いたみたいね。{n}このままいつもの実力が出せれば、{n}安心だわ。{p}
+EN: Good, she seems to have calmed down. If she can play like she always does, she'll be fine.{p}
+
+## MGF02 g1 s0411
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局、静音ちゃんはいつも通りの実力を{n}披露して、優秀賞に輝いた。{p}
+EN: {face:15}..........{face:255} In the end, Shizune-chan played as well as ever and won an Award of Excellence.{p}
+
+## MGF02 g1 s0412
+JP: 同じクラブの部員として、{n}私も鼻が高いわ。{n}いつか私も、あんな風に{n}発表できたらいいけど。{p}
+EN: As a member of the same club, I'm proud too. I hope someday I can perform like that.{p}
+
+## MGF02 g1 s0413
+JP: ……{v1}{col:0}さん{col:-}……、{n}さっきはアリガト。{n}おかげで、うまくできたわ。{p}{end}
+EN: ...{v1}{col:0}-san{col:-}... thanks for earlier. Thanks to you, it went well.{p}{end}
+
+## MGF02 g1 s0414
+JP: ううん……静音ちゃんの{n}普段の実力が出ただけよ。{n}優秀賞、おめでとう!{p}
+EN: Oh, no... You just played like you always do, Shizune-chan. Congrats on the award!{p}
+
+## MGF02 g1 s0416
+JP: （……ここはやっぱり!{n}{sp}アメリカンテイストに{n}{sp}ティファニーの応援で!!）{p}{end}
+EN: (...This calls for Tiffany's American-style cheering!!){p}{end}
+
+## MGF02 g1 s0419
+JP: ……やりすぎちゃったかしら、{n}やっぱり?{p}{end}
+EN: ...Did I overdo it, after all?{p}{end}
+
+## MGF02 g1 s0422
+JP: あれ?{sp}あらら、静音ちゃん!?{n}大丈夫!?{p}
+EN: Huh? Oh dear, Shizune-chan!? Are you OK!?{p}
+
+## MGF02 g1 s0423
+JP: {face:15}・・・・・・・・・・{face:255}{n}必死の介抱にもかかわらず、{n}静音ちゃんは気がつかず、結局発表会は{n}棄権になってしまった……。{p}
+EN: {face:15}..........{face:255} Despite my frantic first aid, Shizune-chan never came to, and she had to drop out of the recital...{p}
+
+## MGF02 g1 s0424
+JP: 静音ちゃんは、その時のことを{n}よく覚えてないらしいから、{n}よかったけど、ちょっと調子に{n}乗りすぎちゃったみたい……。{p}{end}
+EN: Luckily, Shizune-chan doesn't seem to remember much of it, but I think I got a little carried away...{p}{end}
+
+## MGF02 g1 s0425
+JP: もうすぐ春ね……。{n}演劇部では、毎年春に{n}新入生歓迎の発表会を{n}おこなうことになってるらしい。{p}
+EN: Spring's almost here... Apparently every spring, the drama club puts on a show to welcome the new students.{p}
+
+## MGF02 g1 s0426
+JP: で、今日はその主役の{n}オーディションなんだけど……。{p}{end}
+EN: And today's the audition for the lead role...{p}{end}
+
+## MGF02 g1 s0428
+JP: オーディションね……。{n}たしか課題は、事前に渡された{n}脚本通りに演技できるか?{n}だったわね……。{p}{end}
+EN: An audition... The test was to act out the script we got beforehand exactly as written, right?{p}{end}
+
+## MGF02 g1 s0429
+JP: 私の番まで、まだしばらくあるわ。{n}もう一度、脚本を確認しておこう。{p}
+EN: My turn's still a while off. I'll go over the script one more time.{p}
+
+## MGF02 g1 s0430
+JP: まず最初のセリフはコレね。{n}「それでは、私をさがしておられたか?」{n}ふ～ん……大丈夫かな。{p}
+EN: The first line is this one. "So it was me you were seeking?" Hmm... I think I've got it.{p}
+
+## MGF02 g1 s0431
+JP: で、次がこれ。{n}「彼は数を数えていたのだ」{n}……なんだか、{n}よくわからないセリフね。{p}{end}
+EN: Then this one. "He was counting, you see." ...I don't really get this line.{p}{end}
+
+## MGF02 g1 s0432
+JP: 3つ目がこれね。{n}「電話帳を読まされたみたいだ」{n}男の人のセリフばっかりね、{n}男役だから仕方ないか……。{p}{end}
+EN: The third is this. "Like being made to read a phone book." They're all men's lines. Well, it's a male role...{p}{end}
+
+## MGF02 g1 s0433
+JP: 最後はこれ。{n}「りっぱな男だよ、すぐれた、教養のある」{n}……なるほどね。{p}{end}
+EN: And last, this. "A fine man. Excellent, cultured." ...I see.{p}{end}
+
+## MGF02 g1 s0434
+JP: ちゃんと覚えておこう……。{n}そろそろ私の番ね。{p}
+EN: Better get these memorized... My turn's coming up.{p}
+
+## MGF02 g1 s0435
+JP: では、次!{n}{v1}{col:0}さん{col:-}!{n}壇上にあがって!{p}
+EN: Next! {v1}{col:0}-san{col:-}! Up on stage, please!{p}
+
+## MGF02 g1 s0436
+JP: （あ、私だ。）{n}はいっ!{p}{end}
+EN: (Oh, that's me.) Yes!{p}{end}
+
+## MGF02 g1 s0438
+JP: （よし……、{n}{sp}セリフをいうタイミングは{n}{sp}バッチリだし……ちゃんといえるか{n}{sp}どうかね、問題は……）{p}
+EN: (OK... I've got the timing for my lines down. The question is whether I can say them right...){p}
+
+## MGF02 g1 s0440
+JP: （よし!{sp}この次ね!）{p}
+EN: (OK! I'm next!){p}
+
+## MGF02 g1 s0446
+JP: （とりあえず一つ……{n}{sp}次はもうすぐね。{n}{sp}{face:15}・・・・・・・・・・{face:255}{n}{sp}よし、ここ!）{p}
+EN: (That's one down... The next one's coming up. {face:15}..........{face:255} OK, here!){p}
+
+## MGF02 g1 s0452
+JP: （うまくいったかな……?{n}{sp}{face:15}・・・・・・・・・・{face:255}{n}{sp}ええと、次の先輩のセリフの後ね……）{p}{end}
+EN: (Did that go OK...? {face:15}..........{face:255} Um, mine comes after the senpai's next line...){p}{end}
+
+## MGF02 g1 s0457
+JP: 「伝書鳩を飲まされたみたいだ!」{n}…………あれ?{p}{end}
+EN: "Like being made to swallow a pigeon!" ............Huh?{p}{end}
+
+## MGF02 g1 s0458
+JP: 「電話帳を読まされたみたいだ!」{n}…………いけたかな?{p}
+EN: "Like being made to read a phone book!" ............Did I get it?{p}
+
+## MGF02 g1 s0459
+JP: （……大丈夫かなぁ。{n}{sp}演技には自信はあるけど、{n}{sp}セリフがねぇ……、{n}{sp}あと、一つね……）{p}{end}
+EN: (...Will I be OK? I'm confident in my acting, but these lines... Just one more to go...){p}{end}
+
+## MGF02 g1 s0461
+JP: （よし、最後のセリフね!）{p}
+EN: (OK, last line!){p}
+
+## MGF02 g1 s0467
+JP: （ふぅ……これで終わりね。{n}{sp}あとは演技を完璧にこなして……{n}{sp}おしまい、と。）{p}{end}
+EN: (Phew... That's the end. Now I just nail the acting... and done.){p}{end}
+
+## MGF02 g1 s0468
+JP: なんとか、終わったわ。{n}ちゃんとセリフ、言えてたかな。{n}オーディションの結果を聞いてみよう。{p}{end}
+EN: Made it through somehow. Did I get my lines right? Let's hear the audition results.{p}{end}
+
+## MGF02 g1 s0470
+JP: {v0}{sp}{v1}さん!{n}はい、みんな拍手!!{p}
+EN: {v1} {v0}-san! Everyone, a round of applause!!{p}
+
+## MGF02 g1 s0471
+JP: やったわ!{n}完璧だったみたいね!!{p}
+EN: I did it! Looks like I nailed it!!{p}
+
+## MGF02 g1 s0472
+JP: おめでとう、{v1}{col:0}さん{col:-}。{n}よくがんばったね。{n}演技も、セリフも、完璧だったわよ。{p}{end}
+EN: Congratulations, {v1}{col:0}-san{col:-}. You worked hard. Your acting and your lines were both perfect.{p}{end}
+
+## MGF02 g1 s0477
+JP: {face:15}・・・・・・・・・・{face:255}{n}結局……主役の座は、{n}他の部員の手に渡っちゃった。{n}やっぱり、私では力不足だったみたい……。{p}
+EN: {face:15}..........{face:255} In the end... the lead went to another member. I guess I just wasn't good enough...{p}
+
+## MGF02 g1 s0478
+JP: {v1}{col:0}さん{col:-}!{n}実に残念です!{n}キミの演技は完璧だったのに……。{n}セリフさえ間違えなければ、きっと!{p}
+EN: {v1}{col:0}-san{col:-}! What a shame! Your acting was perfect... If only you hadn't flubbed your lines, I'm sure of it!{p}
+
+## MGF02 g1 s0483
+JP: 土曜日なのに、ちょっと用事を{n}済ませていたら、けっこう遅くなったわ。{n}今日はクラブに一回{n}顔見せたら帰ろう……。{p}{end}
+EN: It's Saturday, but running some errands made me pretty late. I'll just show my face at the club and head home...{p}{end}
+
+## MGF02 g1 s0488
+JP: 私にできることなら手伝いますよ。{n}何すればいいんですか?{p}{end}
+EN: If it's something I can do, sure. What do you need?{p}{end}
+
+## MGF02 g1 s0495
+JP: （見ると、赤、青、緑色の鮮やかな色の{n}{sp}クスリが並んでいる。{n}{sp}頼まれても二個も飲みたくはないわねぇ。{n}{sp}どれにしてみようかな……）{p}{end}
+EN: (There are bright red, blue and green medicines lined up. Even if he asked, I wouldn't want to drink two. Which one should I try...){p}{end}
+
+## MGF02 g1 s0497
+JP: ……それじゃ、この赤いクスリを{n}お願いします。{p}
+EN: ...Then I'll take this red one, please.{p}
+
+## MGF02 g1 s0499
+JP: ……え!?{p}
+EN: ...What!?{p}
+
+## MGF02 g1 s0501
+JP: それじゃ……ングングング……{n}ハァ。{p}{end}
+EN: Here goes... Glug glug glug... Hah.{p}{end}
+
+## MGF02 g1 s0502
+JP: 全部飲みましたけど……{n}ちょっと甘いだけで、{n}ヘンな味もしませんね。{n}なんだか期待はずれだわ。{p}
+EN: I drank it all... It's just a little sweet, and it doesn't taste weird. Kind of a letdown.{p}
+
+## MGF02 g1 s0504
+JP: ……え!?{n}ええ?{sp}アラ?{n}……ガクッ!{p}{end}
+EN: ...What!? Huh? Oh my? ...*thud*!{p}{end}
+
+## MGF02 g1 s0509
+JP: あ……ハカセ!{n}そんなの、悪いに決まって……{n}あら?{sp}全然悪くないわ?{n}むしろイイくらいだわ?{p}
+EN: Oh... Hakase! Terrible, obviously... Huh? I don't feel bad at all? Actually, I feel kind of great?{p}
+
+## MGF02 g1 s0511
+JP: そうですか?{n}体調、悪いどころか、{n}なんか身体から力が{n}みなぎってるんですけど。{p}{end}
+EN: You think? Far from feeling sick, I feel like I'm bursting with energy.{p}{end}
+
+## MGF02 g1 s0515
+JP: それじゃ、この青いクスリを{n}お願いします……。{p}
+EN: Then I'll take this blue one, please...{p}
+
+## MGF02 g1 s0517
+JP: ええ……それじゃ……{n}ングング……ンブッ!!{n}な、何、ヘンな味!!{p}
+EN: OK... here goes... Glug glug... Blegh!! Wh-what a weird taste!!{p}
+
+## MGF02 g1 s0518
+JP: ハカセ、これは何ですか?{n}すごくヘンな味ですよ!?{p}
+EN: Hakase, what is this? It tastes really weird!{p}
+
+## MGF02 g1 s0521
+JP: ヒドイわ、ハカセ。{n}こんなの飲んで、{n}身体に異常は出ないんでしょうね?{n}ううん、まだ気分悪いわ。{p}{end}
+EN: That's mean, Hakase. Drinking this won't do anything weird to my body, will it? Ugh, I still feel sick.{p}{end}
+
+## MGF02 g1 s0523
+JP: それならイイですけど……、{n}今日はもう帰ります、{n}なんだか気分悪いし……ううっ。{p}{end}
+EN: If you say so... I'm going home for today. I feel kind of sick... Ugh.{p}{end}
+
+## MGF02 g1 s0524
+JP: （たしかに身体に変化はなかったけど、{n}{sp}あまりの味のひどさに、2、3日、{n}{sp}ご飯が食べられなかった……）{p}{end}
+EN: (Sure enough, nothing happened to my body, but it tasted so awful I couldn't eat for two or three days...){p}{end}
+
+## MGF02 g1 s0525
+JP: それじゃ……この緑のクスリを{n}お願いします。{p}{end}
+EN: Then... I'll take this green one, please.{p}{end}
+
+## MGF02 g1 s0527
+JP: なんか……うれしそうですね?{n}それじゃ、飲みますよ……{n}ングングング……ハァ。{p}
+EN: You look... kind of happy about that? Well, here goes... Glug glug glug... Hah.{p}
+
+## MGF02 g1 s0531
+JP: それはいいですけど……、{n}このクスリ、飲んだら、{n}どうなる予定だったんですか?{p}
+EN: That's fine, but... what was supposed to happen when I drank this medicine?{p}
+
+## MGF02 g1 s0533
+JP: ええ……。{n}それじゃ、失礼します……。{p}
+EN: OK... Well, excuse me, then...{p}
+
+## MGF02 g1 s0534
+JP: （なんだったのかな、いったい?{n}{sp}これは運がよかったのかしら?）{p}{end}
+EN: (What was that all about? Did I get lucky, maybe?){p}{end}
+
+## MGF02 g1 s0535
+JP: さてと……、{n}今日もそろそろ帰ろうかな……。{p}{end}
+EN: Well then... Time to head home for today...{p}{end}
+
+## MGF02 g1 s0536
+JP: あ、委員長。{n}どうしたの、こんなトコロで。{p}
+EN: Oh, Chairperson. What are you doing here?{p}
+
+## MGF02 g1 s0539
+JP: ま、予定通りかな。{n}バランスが悪いところがあるかも{n}しれないけど、それも計算済みよ。{p}{end}
+EN: Well, pretty much as planned. I might be a bit unbalanced in places, but I factored that in.{p}{end}
+
+## MGF02 g1 s0541
+JP: う～ん、まぁまぁかな。{n}特に悪くもないし、{n}こんなものじゃないかしら。{p}
+EN: Hmm, I'd say so-so. Nothing's especially bad. It's about what you'd expect, I guess.{p}
+
+## MGF02 g1 s0543
+JP: う～ん、全然ダメね。{n}もう少し別の成長を期待してたんだけど。{n}これじゃ、全然予定と違うわ。{p}
+EN: Hmm, a total flop. I was hoping to grow in a different way. This isn't what I planned at all.{p}
+
+## MGF02 g1 s0548
+JP: ……いっちゃった。{n}何だったのかしら、いったい。{p}{end}
+EN: ...She's gone. What was that all about?{p}{end}
+

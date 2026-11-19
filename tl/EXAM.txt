@@ -1,0 +1,204 @@
+[01]
+JP: 移動の基礎 / 移動は全ての基本だ！まずは前進と後退を徹底的に体で覚えろ！俺の指示に従って移動するのだ！
+title: Movement Basics
+msg: Movement is the basis of everything! First, drill moving forward and back into your body! Move as I direct you!
+
+[02]
+JP: 重力理論 / 上下の移動は対戦には必要不可欠！方向キーの上でジャンプ！方向キーの下でしゃがむ！地上と空中を制覇しろ！
+title: Gravity Theory
+msg: Moving up and down is vital in a fight!|Press up to jump! Press down to crouch!|Master the ground and the air!
+
+[03]
+JP: 腕力の法則 / パンチは戦いの基本！弱パンチと強パンチをうまく使いこなせ！動きの早さとリーチの長さを体で覚えろ！
+title: Law of Strength
+msg: Punches are the basis of fighting! Master light and heavy punches! Learn their speed and reach with your body!
+
+[04]
+JP: 足技理論 / キックはすべての技につながる基本！弱キックと強キックの動きの早さとリーチの長さを体で覚えろ！
+title: Kick Theory
+msg: Kicks are the basis that leads to every move! Learn the speed and reach of light and heavy kicks with your body!
+
+[05]
+JP: 基礎の総括 / 習った事を全て吐き出せ！習った事を体が覚えていれば、試験でも自ずと答えは出てくる！
+title: Basics Review
+msg: Show me everything you've learned! If your body remembers it, the answers will come to you naturally!
+
+[06]
+JP: ステップ用法 / 方向キー前２回で前ステップ！方向キー後２回で後ステップだ！相手との間合いを素早く変えろ！
+title: Step Technique
+msg: Tap forward twice to step forward!|Tap back twice to step back!|Change your distance from the enemy fast!
+
+[07]
+JP: ３次元軸 / キックボタン同時押しで奥へ移動、方向キーを下に入れながらだと手前に移動だ！手前と奥を巧みに使い分けろ！
+title: 3D Axis
+msg: Press both kick buttons to move into the screen. Hold down as you do it to move out! Use both directions skillfully!
+
+[08]
+JP: 重力理論の応用 / 方向キーを下上と入れるとハイジャンプする！しゃがみとジャンプとの違いを使い分け、重力の違いを知れ！
+title: Applied Gravity
+msg: Press down, then up, to high jump! Know the difference between crouching and jumping, and feel the gravity!
+
+[09]
+JP: 投げ作用 / パンチボタン同時押しで相手を投げろ！相手がしゃがんでいれば、自分もしゃがんで投げろ！
+title: Throwing
+msg: Press both punch buttons to throw!|If the enemy is crouching, crouch and throw too!
+
+[10]
+JP: 特殊行動総括 / 特殊行動を全て身につけたか？この俺の前でそれを証明してくれ！
+title: Special Moves Review
+msg: Have you mastered all the special moves?|Prove it right here in front of me!
+
+[11]
+JP: 受け身の原理 / ぶっとばされたら２個以上ボタンを押せ！受け身中は完全無敵だ！ここではわざと喰らって受け身を覚えろ！
+title: Breakfall Principle
+msg: When you get knocked flying, press two or more buttons! You're invincible while breakfalling! Take a hit on purpose and learn it!
+
+[12]
+JP: 四方起き上がりの定理 / わざとぶっとばされろ！受け身はとるな！そして ダウン中に方向キー前で前転、後で後転、上で通常、下で手前へと横転して起き上がれ！
+title: Four-Way Wake-Up
+msg: Get knocked down on purpose! No breakfall! While down, press forward to roll forward, back to roll back, up to rise normally, or down to roll aside!
+
+[13]
+JP: 愛と友情とは何ぞや？ / 弱攻撃２つ同時押しか強攻撃２つ同時押しで「愛と友情のツープラトン」が発動だ！相手の攻撃に割り込んで当ててみろ！
+title: What Is Teamwork?
+msg: Press both light or both heavy attacks to launch the "Team Up Technique"! Cut into the enemy's attack and land it!
+
+[14]
+JP: 熱血コンボの世界 / 弱攻撃→強攻撃→方向キー入れ攻撃→必殺技と攻撃の弱い順にボタンをテンポ良く押せ！指示された数字だけコンボしてみろ！
+title: World of Combos
+msg: Light, heavy, direction+attack, special: press from weakest to strongest with good rhythm! Combo exactly as many hits as I say!
+
+[15]
+JP: 攻守の見極め / これをのりきれば、ジャス学の基礎を得たも同然だ！さあ、その力を見せてみろ！
+title: Offense and Defense
+msg: Get through this and you've as good as mastered the Justice High basics! Now show me what you've got!
+
+[16]
+JP: エアバースト現象 / [stick]＋強[P]or強[K]で相手を浮かせたらチャンスだ！自分もハイジャンプで追いかけ空中で熱血コンボを叩き込め！それがエアバーストだ！
+title: Air Burst
+msg: {c:8} + heavy {c:11} or heavy {c:15} launches them!|Chase them with a high jump and slam in a combo in midair! That's an Air Burst!
+
+[17]
+JP: 四方起き上がりの応用 / わざとぶっとばされろ！受け身はとるな！起き上がり中にボタンを押せ！それが起き上がり攻撃だ！
+title: Wake-Up Attacks
+msg: Get knocked down on purpose! No breakfall! Press a button while getting up! That's a wake-up attack!
+
+[18]
+JP: 炸裂！根性カウンター / 俺の攻撃をガードしろ！ガード中に方向キー入れ攻撃か必殺技のコマンドを入れろ！相手の攻撃を打ち破る根性カウンターが炸裂だ！
+title: Tardy Counter!
+msg: Block my attacks! While blocking, input a direction attack or a special move! A Tardy Counter will smash through the attack!
+
+[19]
+JP: 完全燃焼法 / 自分の持つ全てを吐き出せ！全てを相手に叩き付けろ！コマンドは[icons]+[P]or[K]または[icons]+[P]or[K]だ！完全燃焼するんだ！
+title: Burning Vigor
+msg: Unleash everything you've got and slam it into them!|The command is {c:35}{c:36} + {c:38} or {c:41}|or {c:45}{c:46} + {c:48} or {c:51}. Burn it all out!
+
+[20]
+JP: 成長過程の確認 / みっちり勉強したか？あ？どれもこれもクセのある技だがこれを身に付けりゃあ勝ったも同然だぜ！さ、やってみな！
+title: Growth Check
+msg: Studied hard? Huh? These moves are all tricky, but master them and you've as good as won! Go on, try it!
+
+[21]
+JP: 回り込みの展開 / 相手が攻撃を繰り出す瞬間に相手の近くで軸移動をしろ！相手の背後に回り込めるぞ！実戦レベルにまで鍛えるんだ！
+title: Circling Behind
+msg: Right as the enemy attacks, sidestep close to them! You'll get behind them! Train it until you can use it in a real fight!
+
+[22]
+JP: 投げ外し解法論 / 相手につかまれた瞬間に自分も投げコマンドを入れろ！相手の投げを外し５分の状態で仕切直しだ！
+title: Throw Escapes
+msg: The instant they grab you, input a throw too! You'll break their throw and reset on even terms!
+
+[23]
+JP: 攻撃相殺法 / 相手の攻撃を読んで自分も攻撃を同時に当てろ！相殺が成功すると雷が走り相手の攻撃を打ち消せゲージも１本増えるぞ！
+title: Attack Clash
+msg: Read their attack and hit at the same moment! A clash sends out lightning, cancels their attack and adds a gauge bar!
+
+[24]
+JP: 根性カウンター無限論 / 根性カウンターは覚えてるか？じゃあそっからの応用だ！完全燃焼アタックで根性カウンターしてみな！
+title: Endless Tardy Counter
+msg: Remember the Tardy Counter? Now let's build on it!|Tardy Counter with a Burning Vigor Attack!
+
+[25]
+JP: 勝利の道も一発から / この試験は上級者向けだができるとできないじゃあ天と地の差が出てくるぜ！文句を言う前に己の力で成し遂げてみな！
+title: Victory Starts Here
+msg: This exam is for advanced students, but it makes all the difference! Quit whining and pull it off on your own!
+
+[26]
+JP: 試験１の確認 / 操作の基礎は覚えてるか？派手な技だけ使っても勝負には勝てねえぜ！技に溺れてねえか？もう一度確認だ！
+title: Exam 1 Review
+msg: Remember the basic controls? Flashy moves alone won't win fights! Don't lose yourself in them. Let's check again!
+
+[27]
+JP: 試験２と３の確認 / ジャス学ならではの操作は覚えているか？何！忘れた！？だったらもう一度ここで思い出せ！
+title: Exams 2 & 3 Review
+msg: Remember the moves unique to Justice High?|What! You forgot!? Then remember them here!
+
+[28]
+JP: 試験４と５の確認 / これを覚えなくても戦えるがここで安心するか、精進するかは自分次第だ！自分との戦いに勝ってみろ！
+title: Exams 4 & 5 Review
+msg: You can fight without these, but settling or improving is up to you! Win the fight against yourself!
+
+[29]
+JP: 全試験の確認 / よーしいよいよ締めくくりだ！一年間何を覚えてきたかをこの俺の前で見せてくれ！期待してるぜ！
+title: All Exams Review
+msg: Alright, this is the finale! Show me what you learned this year, right here! I'm counting on you!
+
+[30]
+JP: 隼人自身で確認 / 持てる全てを吐き出して俺を１秒でも早く倒してみろ！３０発で俺は倒れる！決して俺を気遣って手加減するんじゃねえぞ！
+title: Hayato's Own Test
+msg: Unleash everything and beat me as fast as you can! I go down after 30 hits! Don't you dare go easy on me!
+
+[31]
+JP: １学期期末試験 / 英雄先生の正拳をかいくぐって、英雄先生にタッチしてみろ！軸移動やダッシュを使いこなすんだ！
+title: 1st Term Final
+msg: Slip past Hideo-sensei's straight punches and touch him!|Make full use of sidesteps and dashes!
+
+[32]
+JP: ２学期期末試験 / 響子先生の攻撃をガードしつづけろ！中段攻撃は立ちガードだ！攻撃の種類を間違えるな！
+title: 2nd Term Final
+msg: Keep blocking Kyoko-sensei's attacks!|Block mid attacks standing up!|Don't misread the type of attack!
+
+[33]
+JP: 学年末試験 / 熱血コンボをつなげて俺のライフゲージを合格ライン以上減らせ！手加減なしで思いっきりぶつかってこい！
+title: Year-End Exam
+msg: Link Burning Combos and drain my life gauge past the passing line!|Don't hold back! Hit me with everything you've got!
+
+[cmds]
+0: Forward
+1: Back
+2: Crouch
+3: Jump
+4: Light Punch
+5: Heavy Punch
+6: Light Kick
+7: Heavy Kick
+8: Forward Step
+9: Back Step
+10: Move In
+11: Move Out
+12: High Jump
+13: Standing Throw
+14: Crouching Throw
+15: Breakfall
+16: Normal Wake-Up
+17: Side-Roll Wake-Up
+18: Forward-Roll Wake-Up
+19: Back-Roll Wake-Up
+20: Team Up Technique
+21: 2-Hit Combo
+22: 3-Hit Combo
+23: 4-Hit Combo
+24: Air Burst
+25: Wake-Up Attack
+26: Side-Roll Attack
+27: Forward-Roll Attack
+28: Back-Roll Attack
+29: Tardy Counter
+30: Burning Vigor
+31: Circle Behind
+33: Throw Escape
+34: Clash
+35: Tardy Counter
+36: Tardy Counter
+37: Burning Vigor|Counter
+38: Tardy Counter

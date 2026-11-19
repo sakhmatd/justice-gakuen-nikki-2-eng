@@ -1,0 +1,26 @@
+s0: Enroll
+s1: Continue
+s2: Return to the mode select screen?
+s3: Yes     No
+s4: Checking memory card.
+s5: Please wait.
+s6: No memory card inserted
+s7: The memory card is damaged
+s8: The memory card is not formatted
+s9: No file found
+s10: The memory card is full
+s11: Saving needs 1 free block
+s12: No data
+s13: Could not format
+s14: Could not save
+s15: Could not load
+s16: Press any button.
+s17: Which data will you start with?
+
+school_taiyo: Taiyo
+school_gorin: Gorin
+school_gedo: Gedo
+school_pacific: Pacific
+school_justice: Justice
+date_month: /
+date_day:

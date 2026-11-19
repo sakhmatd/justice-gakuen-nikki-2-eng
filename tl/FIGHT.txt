@@ -1,0 +1,25 @@
+win_perfect: PERFECT!
+win: VICTORY!
+win_close: CLOSE WIN!
+win_other: DOMINATED!
+name_kyosuke: KYOSUKE
+name_batsu: BATSU
+name_hinata: HINATA
+name_shoma: SHOMA
+name_natsu: NATSU
+name_roberto: ROBERTO
+name_roy: ROY
+name_tiffany: TIFFANY
+name_boman: BOMAN
+name_edge: EDGE
+name_akira: AKIRA
+name_gan: GAN
+name_hideo: HIDEO
+name_kyoko: KYOKO
+name_raizo: RAIZO
+name_hyo: HYO
+name_sakura: SAKURA
+name_daigo: DAIGO
+name_hayato: HAYATO
+name_ran: RAN
+name_nagare: NAGARE

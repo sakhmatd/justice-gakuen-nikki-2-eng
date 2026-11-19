@@ -1,0 +1,3824 @@
+## MGK07 g0 s0000
+JP: うわっ、もう期末試験だ!{n}この前中間試験受けたばっかりの{n}気がするのになあ。{p}{end}
+EN: Whoa, finals already! Feels like I just took the midterms.{p}{end}
+
+## MGK07 g0 s0001
+JP: 確か期末試験は{n}グラウンドで実技試験のみっていってたな。{n}早く行かなくちゃ。{p}{end}
+EN: If I remember right, the finals are just a practical exam out on the field. Better hurry.{p}{end}
+
+## MGK07 g0 s0002
+JP: 遅いですよ、{v0}{col:0}君{col:-}。{p}
+EN: You're late, {v0}{col:0}-kun{col:-}.{p}
+
+## MGK07 g0 s0003
+JP: どうもすいません……って、{n}あれっ?{n}英雄先生がどうして?{p}
+EN: Sorry about that... Huh? Hideo-sensei? What are you doing here?{p}
+
+## MGK07 g0 s0004
+JP: 今回は、隼人先生に代わって{n}私が受け持つことになりました。{n}なぁに、心配しなくても簡単な試験です。{n}さあ、始めますよ。{p}
+EN: I'm filling in for Hayato-sensei this time. Don't worry, it's a simple exam. Now, let's begin.{p}
+
+## MGK07 g0 s0005
+JP: さすが{v0}{col:0}君{col:-}。{n}すごいじゃないですか!{p}{end}
+EN: Well done, {v0}{col:0}-kun{col:-}. That was impressive!{p}{end}
+
+## MGK07 g0 s0006
+JP: この調子で夏休みも気を抜かずに{n}しっかり勉強してください。{p}
+EN: Keep it up, and don't slack off on your studies over summer break.{p}
+
+## MGK07 g0 s0007
+JP: なんですかそれは?{n}しっかり予習をしませんでしたね!{n}これでは二学期の授業に{n}ついてこれなくなりますよ!{p}{end}
+EN: What was that? You didn't prepare properly, did you! At this rate, you won't keep up with classes next term!{p}{end}
+
+## MGK07 g0 s0008
+JP: 夏休みの課題を増やしておきますから{n}しっかりやっておくのですよ。{p}{end}
+EN: I'm giving you extra summer homework, so make sure you do it.{p}{end}
+
+## MGK07 g0 s0009
+JP: こんなことになるなら{n}ちゃんとやっとけばよかった……。{p}
+EN: If I'd known this would happen, I would've studied properly...{p}
+
+## MGK07 g0 s0010
+JP: はあ、試験問題は少なくて良かったけれど、{n}疲れたな～。{p}
+EN: Phew, at least the exam was short, but man, I'm beat.{p}
+
+## MGK07 g0 s0011
+JP: {v2}の試験見てたわよ。{p}{end}
+EN: I watched your exam, {v2}.{p}{end}
+
+## MGK07 g0 s0012
+JP: なんださくらじゃないか、{n}いきなりどうしたんだ?{p}{end}
+EN: Oh, it's just Sakura. What's this all of a sudden?{p}{end}
+
+## MGK07 g0 s0013
+JP: あんな動きじゃまだまだだめよ、{n}私が勝負して鍛えてあげる!{p}
+EN: Moves like that won't cut it! I'll fight you and toughen you up!{p}
+
+## MGK07 g0 s0014
+JP: 勝負って……。{p}
+EN: Fight...?{p}
+
+## MGK07 g0 s0015
+JP: さあ、遠慮なくかかってきて!{p}{end}
+EN: Come on, don't hold back!{p}{end}
+
+## MGK07 g0 s0016
+JP: なんだ、結構やるじゃない!{n}試験の時は全力じゃなかったのね、{n}良かった!{p}{end}
+EN: Hey, you're pretty good! So you weren't going all out in the exam. Good!{p}{end}
+
+## MGK07 g0 s0017
+JP: でも、今度する時は負けないよ!{n}じゃあね!{p}
+EN: But I won't lose next time! See ya!{p}
+
+## MGK07 g0 s0018
+JP: さくらと対戦すると{n}戦っていて気持ちが良いのは{n}なぜだろう……。{p}{end}
+EN: Why does fighting Sakura always feel so good...?{p}{end}
+
+## MGK07 g0 s0019
+JP: それでも全力なの?{n}それじゃあ立派なストリートファイターに{n}なれないわよ!{p}
+EN: Is that really your best? You'll never be a real street fighter like that!{p}
+
+## MGK07 g0 s0020
+JP: またする時は{n}もっといいファイトしようね!{n}じゃあね!{p}
+EN: Next time, let's have an even better fight! See ya!{p}
+
+## MGK07 g0 s0021
+JP: 別にストリートファイターになるつもりは{n}ないのに……。{p}
+EN: But I'm not trying to be a street fighter...{p}
+
+## MGK07 g0 s0022
+JP: プールの入場券をもらったけど、{n}これって、ペアの招待券なんだよな……。{p}
+EN: I got tickets to the pool, but they're a pair invitation...{p}
+
+## MGK07 g0 s0023
+JP: うーん。{n}誰を誘おうかな?{p}
+EN: Hmm. Who should I invite?{p}
+
+## MGK07 g0 s0024
+JP: バツ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ひなた{n}恭介{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}将馬{n}夏{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ロベルト{n}ロイ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人にする{p}{end}
+EN: Batsu               Hinata{n}Kyosuke             Shoma{n}Natsu               Roberto{n}Roy                 Someone else{p}{end}
+
+## MGK07 g0 s0025
+JP: ティファニー{sp}{sp}{sp}{sp}ボーマン{n}エッジ{sp}{sp}{sp}{sp}{sp}{sp}{sp}アキラ{n}岩{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}英雄{n}響子{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人にする{p}{end}
+EN: Tiffany             Boman{n}Edge                Akira{n}Gan                 Hideo{n}Kyoko               Someone else{p}{end}
+
+## MGK07 g0 s0026
+JP: 雹{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}隼人{n}醍醐{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}流{n}ラン{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人にする{p}
+EN: Hyo                 Hayato{n}Daigo               Nagare{n}Ran                 Someone else{p}
+
+## MGK07 g0 s0027
+JP: よし!{n}じゃあ、バツを誘って{n}出かけよう!{p}
+EN: All right! I'll invite Batsu and head out!{p}
+
+## MGK07 g0 s0028
+JP: よし!{n}じゃあ、ひなたを誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Hinata and head out!{p}{end}
+
+## MGK07 g0 s0029
+JP: よし!{n}じゃあ、恭介を誘って{n}出かけよう!{p}
+EN: All right! I'll invite Kyosuke and head out!{p}
+
+## MGK07 g0 s0030
+JP: よし!{n}じゃあ、将馬を誘って{n}出かけよう!{p}
+EN: All right! I'll invite Shoma and head out!{p}
+
+## MGK07 g0 s0031
+JP: よし!{n}じゃあ、夏を誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Natsu and head out!{p}{end}
+
+## MGK07 g0 s0032
+JP: よし!{n}じゃあ、ロベルトを誘って{n}出かけよう!{p}
+EN: All right! I'll invite Roberto and head out!{p}
+
+## MGK07 g0 s0033
+JP: よし!{n}じゃあ、ロイを誘って{n}出かけよう!{p}
+EN: All right! I'll invite Roy and head out!{p}
+
+## MGK07 g0 s0034
+JP: よし!{n}じゃあ、ティファニーを誘って{n}出かけよう!{p}
+EN: All right! I'll invite Tiffany and head out!{p}
+
+## MGK07 g0 s0035
+JP: あ……、ボーマンは、{n}教会の手伝いで、いないんだっけ……。{n}他の人を誘おう。{p}{end}
+EN: Oh... Boman's helping out at the church, so he's not around... I'll ask someone else.{p}{end}
+
+## MGK07 g0 s0036
+JP: よし!{n}じゃあ、エッジを誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Edge and head out!{p}{end}
+
+## MGK07 g0 s0037
+JP: よし!{n}じゃあ、アキラを誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Akira and head out!{p}{end}
+
+## MGK07 g0 s0038
+JP: あ……、岩は{n}田舎に帰ってて、いないんだっけ……。{n}他の人を誘おう。{p}{end}
+EN: Oh... Gan went back home to the countryside, so he's not around... I'll ask someone else.{p}{end}
+
+## MGK07 g0 s0039
+JP: よし!{n}じゃあ、英雄先生を誘って{n}出かけよう!{p}
+EN: All right! I'll invite Hideo-sensei and head out!{p}
+
+## MGK07 g0 s0040
+JP: よし!{n}じゃあ、響子先生を誘って{n}出かけよう!{p}
+EN: All right! I'll invite Kyoko-sensei and head out!{p}
+
+## MGK07 g0 s0041
+JP: よし!{n}じゃあ、雹さんを誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Hyo-san and head out!{p}{end}
+
+## MGK07 g0 s0042
+JP: あ……、隼人先生は{n}ひとりで旅に出てて、いないんだっけ……。{n}他の人を誘おう。{p}
+EN: Oh... Hayato-sensei's off traveling on his own, so he's not around... I'll ask someone else.{p}
+
+## MGK07 g0 s0043
+JP: よし!{n}じゃあ、醍醐先輩を誘って{n}出かけよう!{p}
+EN: All right! I'll invite Daigo-senpai and head out!{p}
+
+## MGK07 g0 s0044
+JP: よし!{n}じゃあ、流さんを誘って{n}出かけよう!{p}{end}
+EN: All right! I'll invite Nagare-san and head out!{p}{end}
+
+## MGK07 g0 s0045
+JP: よし!{n}じゃあ、ランを誘って{n}出かけよう!{p}
+EN: All right! I'll invite Ran and head out!{p}
+
+## MGK07 g0 s0046
+JP: へぇ!{n}いろんなプールがあるみてぇだな。{p}{end}
+EN: Whoa! Looks like they got all kinds of pools here.{p}{end}
+
+## MGK07 g0 s0047
+JP: わりィな、わざわざ{n}誘いに来てもらっちまって……。{p}
+EN: Sorry for makin' you come all the way out to invite me...{p}
+
+## MGK07 g0 s0048
+JP: そんなの気にしなくてイイよ。{n}ちょっと、その辺りから{n}ブラブラと回ってみようか?{p}{end}
+EN: Don't worry about it. Wanna wander around over there for a bit?{p}{end}
+
+## MGK07 g0 s0049
+JP: ああ、そうだな。{p}{end}
+EN: Yeah, sure.{p}{end}
+
+## MGK07 g0 s0050
+JP: おっ!{sp}競技用プールもあるじゃねぇか!{n}なぁ、{v3:0}、{n}昼メシをかけて、勝負しようぜ!{p}{end}
+EN: Oh! They got a racing pool too! Hey, {v3:0}, let's race for lunch!{p}{end}
+
+## MGK07 g0 s0051
+JP: クロールでもなんでも、{n}お前が得意なのでいいぜ!{p}{end}
+EN: Freestyle or whatever, you pick your best stroke!{p}{end}
+
+## MGK07 g0 s0052
+JP: それじゃあ……、{n}背泳で勝負だ!{p}{end}
+EN: Okay then... Backstroke it is!{p}{end}
+
+## MGK07 g0 s0053
+JP: のぞむところだ!{n}50メートルを先に泳ぎ切った方が{n}勝ちだからな。{p}
+EN: Bring it on! First one to finish 50 meters wins.{p}
+
+## MGK07 g0 s0054
+JP: へへ!{sp}手加減すんなよ!{n}こっちも、そのつもりはねぇからよ!{p}{end}
+EN: Heh! Don't go easy on me! 'Cause I sure ain't gonna!{p}{end}
+
+## MGK07 g0 s0055
+JP: 用意……、ドン!!{p}
+EN: Ready... Go!!{p}
+
+## MGK07 g0 s0056
+JP: （バシャ……バシャ……バシャ……）{p}
+EN: (Splash... splash... splash...){p}
+
+## MGK07 g0 s0057
+JP: （ん!?{sp}バツの方が速いか?）{p}
+EN: (Huh!? Is Batsu faster?){p}
+
+## MGK07 g0 s0059
+JP: （ゴンッ!!）{p}
+EN: (BONK!!){p}
+
+## MGK07 g0 s0060
+JP: アテテテテ……。{n}ハリキリすぎて、頭ぶつけちまったぜ。{p}
+EN: Owowow... Got too pumped and smacked my head.{p}
+
+## MGK07 g0 s0061
+JP: だ、大丈夫か?{n}バツ!{p}
+EN: A-are you okay, Batsu?{p}
+
+## MGK07 g0 s0062
+JP: な、なんとかな……。{p}{end}
+EN: S-sorta...{p}{end}
+
+## MGK07 g0 s0063
+JP: オ、オレの勝ちは勝ちだからな!{n}ひ、昼メシは、{n}{v3:0}のおごりだぞ!{p}
+EN: A-a win's a win! L-lunch is on you, {v3:0}!{p}
+
+## MGK07 g0 s0064
+JP: （う、う～ん……、スゴイ執念……。{n}{sp}お金が足りるか、{n}{sp}心配になってきたよ……）{p}
+EN: (Wow... what determination... Now I'm worried I won't have enough money...){p}
+
+## MGK07 g0 s0065
+JP: 今日はバッチリ遊んだぜ。{n}勝負もオレの勝ちだったしな!{p}
+EN: Had a blast today. And I won the race, too!{p}
+
+## MGK07 g0 s0066
+JP: あ～ぁ、財布がからっぽだよ……。{n}頭ぶつけたくせに、{n}ピンピンしてるんだから。{p}
+EN: Man, my wallet's empty... You smacked your head, and you're still full of energy.{p}
+
+## MGK07 g0 s0067
+JP: ハハハッ!{n}どんなときも、メシだけは{n}食っとかねぇとな!{p}{end}
+EN: Hahaha! No matter what happens, ya gotta eat!{p}{end}
+
+## MGK07 g0 s0068
+JP: さて、そろそろ帰るか。{n}誘ってくれて、サンキューな!{n}じゃあな!{p}{end}
+EN: Well, guess I'll head home. Thanks for invitin' me! Later!{p}{end}
+
+## MGK07 g0 s0069
+JP: 高くついちゃったけど、まぁイイか。{n}バツも喜んでたみたいだし……。{n}俺も帰るとするかな。{p}{end}
+EN: That cost me, but oh well. Batsu seemed to have fun... Guess I'll head home too.{p}{end}
+
+## MGK07 g0 s0070
+JP: ひなた、遅いなぁ……。{n}なにやってるんだろう……?{p}
+EN: Hinata's late... What's she doing...?{p}
+
+## MGK07 g0 s0071
+JP: ごめんごめん!{n}{v6:1}、おまたせ～っ。{p}{end}
+EN: Sorry, sorry! Thanks for waiting, {v6:1}!{p}{end}
+
+## MGK07 g0 s0072
+JP: （はうッ!{n}{sp}いやぁ、その水着なら……{n}{sp}お時間がかかってもイイかな…なんて…）{p}{end}
+EN: (Whoa! Well, in that swimsuit... I guess the wait was worth it...){p}{end}
+
+## MGK07 g0 s0073
+JP: !?{n}そんなに、ジィ～～～ッと見ないの!{n}エッチィ!{p}{end}
+EN: !? Don't stare at me like that! Perv!{p}{end}
+
+## MGK07 g0 s0074
+JP: ………ごめんなさい。{p}{end}
+EN: ......Sorry.{p}{end}
+
+## MGK07 g0 s0075
+JP: あははっ!{sp}冗談、冗談っ!{n}今日は、誘ってくれてありがと!{p}
+EN: Ahaha! Just kidding, just kidding! Thanks for inviting me today!{p}
+
+## MGK07 g0 s0076
+JP: ここ、いろんなプールがあるんだね。{n}向こうのプールも見に行こうよ!{p}
+EN: This place has all kinds of pools. Let's go check out the one over there!{p}
+
+## MGK07 g0 s0077
+JP: ねぇねぇ、{v6:1}!{n}イルカさんだよ!{p}
+EN: Hey, hey, {v6:1}! It's a dolphin!{p}
+
+## MGK07 g0 s0078
+JP: へ!?{sp}イルカ?{n}ああ、イルカの形のボートのことか。{p}{end}
+EN: Huh!? A dolphin? Oh, you mean the dolphin-shaped boats.{p}{end}
+
+## MGK07 g0 s0079
+JP: えっと……{n}「イルカボートレース開催中!{n}{sp}ペアでボートを漕いで、入賞すれば{n}{sp}豪華賞品がもらえる」……だって!{p}{end}
+EN: Let's see... "Dolphin Boat Race now on! Row a boat in pairs and place to win fabulous prizes"... it says!{p}{end}
+
+## MGK07 g0 s0080
+JP: ねぇ、やってみようよ!{n}さぁ、はやくはやく!{p}{end}
+EN: Hey, let's try it! Come on, hurry, hurry!{p}{end}
+
+## MGK07 g0 s0081
+JP: ハイハイ。{p}
+EN: Okay, okay.{p}
+
+## MGK07 g0 s0082
+JP: {col:3}プールの係員{col:-}{n}「3着までが入賞でございます。{n}{sp}それでは、よぉ～い、スタート!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"The top three places win prizes. Now then, ready... start!"{p}{end}
+
+## MGK07 g0 s0083
+JP: （バ、バランスを取りながら漕ぐってのは、{n}{sp}結構ムズカシイな……）{p}
+EN: (R-rowing while keeping your balance is pretty tricky...){p}
+
+## MGK07 g0 s0084
+JP: （ひなたのリズムに合せるか!{n}{sp}いっち、にーのっ、さーんっ!{n}{sp}いっち、にーのっ、さーんっ!）{p}
+EN: (I'll match Hinata's rhythm! One, two, three! One, two, three!){p}
+
+## MGK07 g0 s0086
+JP: {col:3}プールの係員{col:-}{n}「ゴォ～～～ル!!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Fiiinish!!"{p}
+
+## MGK07 g0 s0087
+JP: {col:3}プールの係員{col:-}{n}「1着は……{n}{sp}{v0}さま&ひなたさまペアで{n}{sp}ございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"First place goes to... the pair of {v0}-sama and Hinata-sama!"{p}{end}
+
+## MGK07 g0 s0088
+JP: やったね!{n}2人のチームワークの勝利だね!{p}
+EN: We did it! Our teamwork won it!{p}
+
+## MGK07 g0 s0089
+JP: {col:3}プールの係員{col:-}{n}「さて、1着の賞品は……{n}{sp}当プールのレストランでの、{n}{sp}ペア無料お食事券でございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"And the first-place prize is... a free meal for two at our pool restaurant!"{p}{end}
+
+## MGK07 g0 s0090
+JP: ラッキー!{n}じゃあ、早速こいつで昼飯といくか!{p}
+EN: Lucky! Let's use it for lunch right away!{p}
+
+## MGK07 g0 s0091
+JP: 俺は猛烈に腹が減ってるぞ!{n}覚悟しろよ、プールのコックさんたち!{p}{end}
+EN: I'm starving! Brace yourselves, pool chefs!{p}{end}
+
+## MGK07 g0 s0092
+JP: あははっ!{n}私も、もうお腹ペコペコ～ッ!{p}{end}
+EN: Ahaha! I'm starving too!{p}{end}
+
+## MGK07 g0 s0093
+JP: 今日は楽しかったね!{n}1着にもなったし、{n}お昼ご飯も豪華だったし!{p}
+EN: Today was fun! We got first place, and lunch was super fancy!{p}
+
+## MGK07 g0 s0094
+JP: ああ、{n}昼飯代が予定と一ケタ違ってたよ。{n}払ってないけどね……。{p}{end}
+EN: Yeah, lunch cost about ten times what I'd planned. Not that I paid...{p}{end}
+
+## MGK07 g0 s0095
+JP: フフフ……。{n}今日は誘ってくれて、ありがと!{p}{end}
+EN: Hee hee... Thanks for inviting me today!{p}{end}
+
+## MGK07 g0 s0096
+JP: それじゃあ、バイバイ!{n}{v6:1}!{p}
+EN: Well, bye-bye, {v6:1}!{p}
+
+## MGK07 g0 s0097
+JP: ひなたもよろこんでたみたいだし、{n}今日は、安上がりでいうことないよ。{n}うんうん。{p}{end}
+EN: Hinata seemed happy, and today was cheap. Couldn't ask for more. Yep, yep.{p}{end}
+
+## MGK07 g0 s0098
+JP: さて、俺も帰るとするかな。{p}
+EN: Well, guess I'll head home too.{p}
+
+## MGK07 g0 s0099
+JP: たいした設備じゃないか。{n}驚いたよ。{p}{end}
+EN: Quite the facility. I'm impressed.{p}{end}
+
+## MGK07 g0 s0100
+JP: ここは、できたばかりみたいだからね。{n}いろんなプールがあるらしいよ。{p}{end}
+EN: It looks like it just opened. Apparently they've got all kinds of pools.{p}{end}
+
+## MGK07 g0 s0101
+JP: 悪いな、{v4:2}。{n}わざわざ誘いに来てもらって。{p}{end}
+EN: Sorry for the trouble, {v4:2}. You came all this way to invite me.{p}{end}
+
+## MGK07 g0 s0102
+JP: 気にしなくてイイよ。{n}さぁ、向こうから見て回ろう!{p}
+EN: Don't worry about it. Come on, let's start over there!{p}
+
+## MGK07 g0 s0103
+JP: ん?{sp}なんだ、{n}やけに人が集まってるな……。{p}{end}
+EN: Hm? What's going on? Quite a crowd over there...{p}{end}
+
+## MGK07 g0 s0104
+JP: 何かイベントを{n}やってるんだよ。{p}{end}
+EN: They're holding some kind of event.{p}{end}
+
+## MGK07 g0 s0105
+JP: えーと、ナニナニ……。{n}「騎馬戦バトルロイヤル開催中!{n}{sp}ペアで参加し、最後まで勝ち残れば、{n}{sp}豪華賞品がもらえる」……だって!{p}{end}
+EN: Let's see... "Piggyback Battle Royale now on! Enter in pairs, be the last ones standing and win fabulous prizes"... it says!{p}{end}
+
+## MGK07 g0 s0106
+JP: へぇ……。{n}面白そうじゃないか、やってみよう。{p}
+EN: Hmm... Sounds interesting. Let's give it a try.{p}
+
+## MGK07 g0 s0107
+JP: よし!{n}いっちょ、暴れてやるか!{p}{end}
+EN: All right! Time to go wild!{p}{end}
+
+## MGK07 g0 s0108
+JP: {col:3}プールの係員{col:-}{n}「それでは、各ペアは準備をお願いします。{n}{sp}なお、競技時間は10分でございます。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Will all pairs please get ready. The match will last 10 minutes."{p}{end}
+
+## MGK07 g0 s0109
+JP: やっぱり、{n}恭介が上の方がイイと思うな。{p}{end}
+EN: I think Kyosuke should be the one on top.{p}{end}
+
+## MGK07 g0 s0110
+JP: じゃあ、作戦は{n}{v4:2}に任すよ。{n}その方が動きやすいハズだからな。{p}{end}
+EN: Then I'll leave the strategy to you, {v4:2}. You'll move more freely that way.{p}{end}
+
+## MGK07 g0 s0111
+JP: よぉし!{n}囲まれにくい、敵の外側から{n}リスクなく順に撃破していこう!{p}{end}
+EN: All right! We'll stay on the outside where they can't surround us and pick them off one by one, no risk!{p}{end}
+
+## MGK07 g0 s0112
+JP: 俺は、敵の外側へ、外側へと動くから、{n}あとは、恭介が順に潰していってくれよ!{p}{end}
+EN: I'll keep moving around the outside, and you take them down one at a time, Kyosuke!{p}{end}
+
+## MGK07 g0 s0113
+JP: かしこい選択だな。{n}よし、それでやってみよう!{p}
+EN: A smart choice. All right, let's do it!{p}
+
+## MGK07 g0 s0114
+JP: {col:3}プールの係員{col:-}{n}「それでは!{n}{sp}よぉ～い、スタート!!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Now then! Ready... start!!"{p}
+
+## MGK07 g0 s0115
+JP: そりゃあぁぁっっ!!{p}{end}
+EN: Hyaaaah!!{p}{end}
+
+## MGK07 g0 s0116
+JP: （よぉし、イイ感じだぞっ!{n}{sp}これなら、イケそうだ!）{p}
+EN: (All right, this is going great! We can win this!){p}
+
+## MGK07 g0 s0118
+JP: （ピピ～～～ッ!!）{p}{end}
+EN: (Fweeeet!!){p}{end}
+
+## MGK07 g0 s0119
+JP: {col:3}プールの係員{col:-}{n}「終了でございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Time's up!"{p}{end}
+
+## MGK07 g0 s0120
+JP: {col:3}プールの係員{col:-}{n}「優勝は……、{n}{sp}{v0}さま&恭介さまペアで{n}{sp}ございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"The winners are... the pair of {v0}-sama and Kyosuke-sama!"{p}{end}
+
+## MGK07 g0 s0121
+JP: チームワークと作戦の{n}勝利ってヤツだな。{p}{end}
+EN: A victory of teamwork and strategy, I'd say.{p}{end}
+
+## MGK07 g0 s0122
+JP: ま、そういうこと!{p}
+EN: Pretty much!{p}
+
+## MGK07 g0 s0123
+JP: {col:3}プールの係員{col:-}{n}「さて、賞品は……{n}{sp}当プールのレストランでの、{n}{sp}ペア無料お食事券でございます!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"And the prize is... a free meal for two at our pool restaurant!"{p}
+
+## MGK07 g0 s0124
+JP: これは、おあつらえ向きだな。{n}食事でもとって、ひと休みしよう。{p}
+EN: How convenient. Let's get something to eat and take a break.{p}
+
+## MGK07 g0 s0125
+JP: フフフ……、{n}そうだな!{p}{end}
+EN: Heh heh... Sure!{p}{end}
+
+## MGK07 g0 s0126
+JP: 今日は楽しかったよ。{p}{end}
+EN: I had fun today.{p}{end}
+
+## MGK07 g0 s0127
+JP: まさに、圧勝だったからな。{p}
+EN: We won by a landslide, after all.{p}
+
+## MGK07 g0 s0128
+JP: さて……、{n}そろそろ僕は失礼するよ。{p}{end}
+EN: Well... I should be going.{p}{end}
+
+## MGK07 g0 s0129
+JP: わざわざ誘いに来てもらって、{n}すまなかったね。{n}おかげで、楽しい時間を過ごせたよ。{p}
+EN: Thanks for going to the trouble of inviting me. I had a great time, thanks to you.{p}
+
+## MGK07 g0 s0130
+JP: じゃあ!{p}{end}
+EN: See you!{p}{end}
+
+## MGK07 g0 s0131
+JP: 優勝もできたし、{n}恭介もよろこんでたみたいだし、{n}今日は、いうことないな……。{p}
+EN: We won, and Kyosuke seemed happy. Couldn't ask for more today...{p}
+
+## MGK07 g0 s0133
+JP: へぇ～っ!{n}ずいぶん、デッカイな!{p}
+EN: Whoa! This place is huge!{p}
+
+## MGK07 g0 s0134
+JP: フフフ……。{n}ここは、できたばかりだからな。{p}{end}
+EN: Heh heh... It just opened, after all.{p}{end}
+
+## MGK07 g0 s0135
+JP: いろんなプールがあるのが、{n}ウリになってるみたいだよ。{p}
+EN: Having all kinds of pools seems to be its big selling point.{p}
+
+## MGK07 g0 s0136
+JP: そいつは、イイや!{n}片っ端から、遊んでみようぜ!{p}{end}
+EN: Sweet! Let's try every single one!{p}{end}
+
+## MGK07 g0 s0137
+JP: そんなに慌てなくても、{n}プールは逃げてきゃしないよ。{p}{end}
+EN: No need to rush. The pools aren't going anywhere.{p}{end}
+
+## MGK07 g0 s0138
+JP: ん?{n}なんで、あんなに人が集まってるんだ?{p}
+EN: Hm? Why's there such a crowd over there?{p}
+
+## MGK07 g0 s0139
+JP: あぁ……、{n}なにかイベントをやってるんだよ。{p}{end}
+EN: Ah... They're holding some kind of event.{p}{end}
+
+## MGK07 g0 s0140
+JP: えっと、ナニナニ……{p}{end}
+EN: Let's see...{p}{end}
+
+## MGK07 g0 s0141
+JP: 「碁石拾いゲーム開催中!{n}{sp}ペアで碁石を拾い、入賞すれば{n}{sp}豪華賞品がもらえる!」……だって!{p}
+EN: "Go Stone Pickup Game now on! Collect go stones in pairs and place to win fabulous prizes!"... it says!{p}
+
+## MGK07 g0 s0142
+JP: 面白そうじゃないか!{n}なぁ!{sp}行ってみようぜ!{p}
+EN: Sounds fun! Hey! Let's go!{p}
+
+## MGK07 g0 s0143
+JP: {col:3}プールの係員{col:-}{n}「え～っ、{n}{sp}これから、碁石拾いゲームの{n}{sp}ルールを説明いたします。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Ahem, we will now explain the rules of the Go Stone Pickup Game."{p}{end}
+
+## MGK07 g0 s0144
+JP: {col:3}プールの係員{col:-}{n}「プールにバラまかれた碁石を{n}{sp}ペアで制限時間内に、より多く拾い、{n}{sp}拾った碁石の合計点数で競います。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Pairs collect as many of the go stones in the pool as they can in the time limit. Total points decide the winner."{p}
+
+## MGK07 g0 s0145
+JP: {col:3}プールの係員{col:-}{n}「碁石には、白と黒の2種類があり、{n}{sp}点数が異なります。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"There are two kinds of stones, white and black, worth different points."{p}{end}
+
+## MGK07 g0 s0146
+JP: {col:3}プールの係員{col:-}{n}「点数の高いと思う方の碁石を、{n}{sp}より多く拾ってください。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Please collect more of whichever you think is worth more."{p}
+
+## MGK07 g0 s0147
+JP: なんか、ややこしいなぁ……。{p}{end}
+EN: Sounds kinda complicated...{p}{end}
+
+## MGK07 g0 s0148
+JP: オイラはムズかしいことは、{n}わかんねぇから、{n}{v3:3}が考えてくれよ……。{p}
+EN: I don't get the hard stuff, so you figure it out, {v3:3}...{p}
+
+## MGK07 g0 s0149
+JP: （そうだなぁ……）{p}
+EN: (Let's see...){p}
+
+## MGK07 g0 s0150
+JP: やっぱり、白かなぁ。{n}プールの中じゃあ、黒より白の方が、{n}探しにくいからな。{p}{end}
+EN: I'd say white. In a pool, white's harder to spot than black.{p}{end}
+
+## MGK07 g0 s0151
+JP: 白の方が点数が{n}高くなってると思うよ。{p}
+EN: I bet white's worth more points.{p}
+
+## MGK07 g0 s0152
+JP: なるほど!{sp}そうだぜ、きっと!{n}よし!{sp}白を拾おうぜ!{p}
+EN: I get it! That's gotta be it! All right! Let's grab the white ones!{p}
+
+## MGK07 g0 s0153
+JP: {col:3}プールの係員{col:-}{n}「3位までが入賞でございます。{n}{sp}それでは、よぉ～い、スタート!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"The top three places win prizes. Now then, ready... start!"{p}{end}
+
+## MGK07 g0 s0154
+JP: （ゴボゴボゴボ…………）{p}{end}
+EN: (Blub blub blub......){p}{end}
+
+## MGK07 g0 s0155
+JP: （白をいっぱい、拾わなきゃな……）{p}
+EN: (Gotta grab lots of white ones...){p}
+
+## MGK07 g0 s0156
+JP: {col:3}プールの係員{col:-}{n}「終了でございます～っ!!{n}{sp}それでは、早速集計に入ります。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Time's up! We'll now begin counting."{p}{end}
+
+## MGK07 g0 s0157
+JP: どうだ、将馬?{n}たくさん拾えたか?{p}
+EN: How'd it go, Shoma? Get a lot?{p}
+
+## MGK07 g0 s0158
+JP: あぁ!{sp}見てくれよ!{n}こんなにいっぱい拾ったぜ!{p}{end}
+EN: Yeah! Look! I got a ton!{p}{end}
+
+## MGK07 g0 s0159
+JP: な、なにやってんだよ、将馬!{n}ほとんど、プール消毒用の{n}塩素じゃないか!{p}{end}
+EN: Wh-what are you doing, Shoma! These are almost all chlorine tablets for the pool!{p}{end}
+
+## MGK07 g0 s0160
+JP: こ、これ、違うのか!?{n}全然気がつかなかったよ……。{p}{end}
+EN: Th-these aren't it!? I didn't even notice...{p}{end}
+
+## MGK07 g0 s0161
+JP: まったく、しょうがないなぁ……。{p}{end}
+EN: Geez, what am I gonna do with you...{p}{end}
+
+## MGK07 g0 s0162
+JP: {col:3}プールの係員{col:-}{n}「結果発表でございます～っ!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Time for the results!"{p}{end}
+
+## MGK07 g0 s0163
+JP: {col:3}プールの係員{col:-}{n}「ちなみに、{n}{sp}白は2点、黒は1点となって{n}{sp}おりました。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"For the record, white stones were worth 2 points and black stones 1."{p}
+
+## MGK07 g0 s0164
+JP: {col:3}プールの係員{col:-}{n}「白の方がプールで見つけにくいため、{n}{sp}得点が高くなっていたので{n}{sp}ございます。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"White stones are harder to find in the pool, so they were worth more."{p}{end}
+
+## MGK07 g0 s0165
+JP: スゲェや!{n}{v3:3}のいったとおりだぜ!{p}{end}
+EN: Awesome! Just like ya said, {v3:3}!{p}{end}
+
+## MGK07 g0 s0166
+JP: 読みは当たってたけど……。{n}（塩素が入ってるからなぁ……）{p}
+EN: My guess was right, but... (with all that chlorine mixed in...){p}
+
+## MGK07 g0 s0167
+JP: {col:3}プールの係員{col:-}{n}「さて、1位入賞は……{n}{sp}{v0}さま&将馬さまペアで{n}{sp}ございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"And first place goes to... the pair of {v0}-sama and Shoma-sama!"{p}{end}
+
+## MGK07 g0 s0168
+JP: おおっ!{n}やったぞ!{sp}1位だ!{p}
+EN: Whoa! We did it! First place!{p}
+
+## MGK07 g0 s0169
+JP: {col:3}プールの係員{col:-}{n}「さて、1位の賞品は……{n}{sp}当プールのレストランでの、{n}{sp}ペア無料お食事券でございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"And the first-place prize is... a free meal for two at our pool restaurant!"{p}{end}
+
+## MGK07 g0 s0170
+JP: へへへ……。{n}ちょうどイイや!{n}オイラ、もう腹ペコだぜ!{p}{end}
+EN: Heh heh heh... Perfect! I'm starvin'!{p}{end}
+
+## MGK07 g0 s0171
+JP: さぁ、こいつで早速、{n}昼メシといこうぜ!{p}{end}
+EN: C'mon, let's use this for lunch right now!{p}{end}
+
+## MGK07 g0 s0172
+JP: あぁ、そうだな!{p}{end}
+EN: Yeah, let's!{p}{end}
+
+## MGK07 g0 s0173
+JP: いやぁ、今日はよく遊んだなぁ……。{n}碁石拾いゲームも1位だったしな!{n}あはは……。{p}
+EN: Man, we sure played a lot today... And we got first in the go stone game! Ahaha...{p}
+
+## MGK07 g0 s0174
+JP: なにいってんだよ。{n}自分は塩素ばっかり拾ってたクセに……。{p}
+EN: What are you talking about? You picked up nothing but chlorine...{p}
+
+## MGK07 g0 s0175
+JP: ちゃんと俺が拾ってたから、{n}1位になれたんじゃないか。{p}
+EN: We only got first because I was picking up the right ones.{p}
+
+## MGK07 g0 s0176
+JP: まぁまぁ、{n}細かいことは、気にするなよ!{n}結果オーライだぜ!{p}{end}
+EN: Now, now, don't sweat the small stuff! All's well that ends well!{p}{end}
+
+## MGK07 g0 s0177
+JP: それじゃあ、オイラは帰るよ。{n}また、誘ってくれよな!{n}じゃあな!{sp}{v3:3}!{p}{end}
+EN: Well, I'm headin' home. Invite me again, okay? See ya, {v3:3}!{p}{end}
+
+## MGK07 g0 s0178
+JP: フフフ……、しょうがないなぁ……。{n}でも、将馬も楽しんだみたいだし、{n}誘ってよかったな……。{p}{end}
+EN: Heh heh... What can you do... But Shoma seemed to have fun, so I'm glad I invited him...{p}{end}
+
+## MGK07 g0 s0180
+JP: 夏、遅いなぁ……。{n}なにやってるんだろう……?{p}
+EN: Natsu's late... What's she doing...?{p}
+
+## MGK07 g0 s0181
+JP: ごめんごめん、{v6:4}!{n}おまたせ!{p}{end}
+EN: Sorry, sorry, {v6:4}! Thanks for waiting!{p}{end}
+
+## MGK07 g0 s0182
+JP: {col:3}プールの係員{col:-}{n}「おぉっっ!!{sp}すばらしい!!{n}{sp}まさに、ピッタリでございます!!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Ohhh!! Magnificent!! Simply perfect!!"{p}
+
+## MGK07 g0 s0183
+JP: うわぁっ!!{n}な、なんだい!?{sp}アンタは?{p}
+EN: Whoa!! Wh-who are you!?{p}
+
+## MGK07 g0 s0184
+JP: {col:3}プールの係員{col:-}{n}「申し遅れました。{n}{sp}私は、ここのプールの責任者で{n}{sp}ございます。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Forgive me for not introducing myself. I am the manager of this pool."{p}
+
+## MGK07 g0 s0185
+JP: {col:3}プールの係員{col:-}{n}「本日は当プールのイベントとして、{n}{sp}新作水着の発表会を{n}{sp}予定しているのですが……」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Today we have a new swimsuit show planned as one of our events..."{p}{end}
+
+## MGK07 g0 s0186
+JP: {col:3}プールの係員{col:-}{n}「モデルのひとりが、{n}{sp}急に来れなくなって{n}{sp}しまったのです……。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"But one of our models suddenly couldn't make it..."{p}
+
+## MGK07 g0 s0187
+JP: {col:3}プールの係員{col:-}{n}「そこで是非、そちらのお嬢様に{n}{sp}モデルをやっていただきたいのですが、{n}{sp}いかがなものでしょうか……?」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"So I would love for the young lady here to model for us. What do you say...?"{p}
+
+## MGK07 g0 s0188
+JP: い、いきなり{n}そんなこといわれても……。{p}{end}
+EN: Y-you can't just spring that on me...{p}{end}
+
+## MGK07 g0 s0189
+JP: {col:3}プールの係員{col:-}{n}「そうおっしゃらずに……。{n}{sp}その見事な長身とプロポーション!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Please, don't say that... Look at that wonderful height and figure!"{p}
+
+## MGK07 g0 s0190
+JP: {col:3}プールの係員{col:-}{n}「プロのモデルとして、{n}{sp}十分通用いたします!{n}{sp}この私が保証します!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"You could easily pass as a professional model! I guarantee it!"{p}
+
+## MGK07 g0 s0191
+JP: えへへ……。{n}そ、そうかなぁ……。{p}
+EN: Ehehe... Y-you think so...?{p}
+
+## MGK07 g0 s0192
+JP: ど、どうしようか?{n}{v6:4}……。{p}
+EN: Wh-what should I do, {v6:4}...?{p}
+
+## MGK07 g0 s0193
+JP: いいんじゃない、やってみれば!{n}面白そうだし!{p}
+EN: Why not give it a shot? Sounds like fun!{p}
+
+## MGK07 g0 s0194
+JP: {v6:4}がそういうんなら……、{n}やってみようかな……。{p}
+EN: If you say so, {v6:4}... maybe I'll try it...{p}
+
+## MGK07 g0 s0195
+JP: {col:3}プールの係員{col:-}{n}「おぉっ!!{n}{sp}やっていただけますか!!{n}{sp}ささっ、ではこちらで、ご準備を……!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Ohhh!! You'll do it!! Right this way, then, and we'll get you ready...!"{p}{end}
+
+## MGK07 g0 s0196
+JP: {col:3}プールの係員{col:-}{n}「大変おまたせいたしました。{n}{sp}これより、新作水着発表会を{n}{sp}開催いたします。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Thank you all for waiting. We will now begin our new swimsuit show."{p}
+
+## MGK07 g0 s0197
+JP: 結構、人が集まってるなぁ。{n}夏、大丈夫かなぁ……。{n}緊張して、失敗しなけりゃイイけど……。{p}
+EN: Quite a crowd... Will Natsu be okay...? I hope she doesn't get nervous and mess up...{p}
+
+## MGK07 g0 s0198
+JP: {col:3}プールの係員{col:-}{n}「……続きまして、{n}{sp}セパレーツタイプの新作です。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"...Next up, a new two-piece design."{p}
+
+## MGK07 g0 s0199
+JP: おっ!{sp}夏の出番だぞ!{p}
+EN: Oh! It's Natsu's turn!{p}
+
+## MGK07 g0 s0200
+JP: あんまりハデに応援すると、{n}夏が緊張するからな……。{p}{end}
+EN: If I cheer too loud, Natsu'll get nervous...{p}{end}
+
+## MGK07 g0 s0201
+JP: ちょっとだけ、{n}大きく拍手するだけにしとくか!{p}
+EN: I'll just clap a little extra loud!{p}
+
+## MGK07 g0 s0202
+JP: （パチッパチッパチッパチ……ッッ!!）{p}
+EN: (Clap clap clap clap...!!){p}
+
+## MGK07 g0 s0203
+JP: ん!?{n}俺に気付いたみたいだな。{n}こっちを見たぞ。{p}
+EN: Huh!? Looks like she noticed me. She looked this way.{p}
+
+## MGK07 g0 s0204
+JP: さっき、{n}少し歩き方の練習をしただけなのに{n}本物のモデルと変わらない……ス、スゴイ!{p}{end}
+EN: She only practiced walking for a bit, but she's just like a real model... A-amazing!{p}{end}
+
+## MGK07 g0 s0205
+JP: ここで、笑顔の予定なんだけど……、{n}おぉっ!{sp}バッチリバッチリ!!{p}
+EN: She's supposed to smile here... Whoa! Perfect, perfect!!{p}
+
+## MGK07 g0 s0206
+JP: 退場の仕方も……{n}カ、カッコイイ!{p}
+EN: Even the way she walks off... s-so cool!{p}
+
+## MGK07 g0 s0207
+JP: ハァ……、終った……。{p}
+EN: Phew... It's over...{p}
+
+## MGK07 g0 s0208
+JP: なんか、余裕って感じだったなぁ……。{p}{end}
+EN: She looked totally relaxed up there...{p}{end}
+
+## MGK07 g0 s0209
+JP: おつかれ!{sp}夏!{n}どうだった?{p}
+EN: Good job, Natsu! How was it?{p}
+
+## MGK07 g0 s0210
+JP: あ、{v6:4}!{n}楽しかった～～っ!{p}
+EN: Oh, {v6:4}! That was so much fun!{p}
+
+## MGK07 g0 s0211
+JP: {v6:4}が見てくれてるの{n}わかったわよ。{p}{end}
+EN: I could tell you were watching, {v6:4}.{p}{end}
+
+## MGK07 g0 s0212
+JP: あ、やっぱり?{n}なんか、余裕って感じで、{n}本物のモデルみたいだったから驚いたよ!{p}{end}
+EN: Oh, you noticed? You looked so relaxed, just like a real model. I was amazed!{p}{end}
+
+## MGK07 g0 s0213
+JP: えへへ……{n}そうかなぁ。{p}{end}
+EN: Ehehe... You think so?{p}{end}
+
+## MGK07 g0 s0214
+JP: バレーボールの試合と同じで、{n}はじまったら、度胸ついちゃって……。{n}結構、楽しんじゃった!{p}
+EN: It's like a volleyball match. Once it started, I got my nerve up... and I actually had fun!{p}
+
+## MGK07 g0 s0215
+JP: さぁ!{n}この水着だけじゃなくて、{n}バイト料までもらっちゃったから{n}何か食べようよ。{p}
+EN: Come on! They gave me this swimsuit and even paid me, so let's get something to eat.{p}
+
+## MGK07 g0 s0216
+JP: おごっちゃうからさ!{p}{end}
+EN: My treat!{p}{end}
+
+## MGK07 g0 s0217
+JP: やった!{n}もう、お腹ペコペコだよ!{p}
+EN: All right! I'm starving!{p}
+
+## MGK07 g0 s0218
+JP: 今日は、ちょっと恥ずかしかったけど、{n}楽しかったな。{p}{end}
+EN: It was a little embarrassing today, but it was fun.{p}{end}
+
+## MGK07 g0 s0219
+JP: 俺も、気分よかったよ。{n}「モデルとデートしてるウラヤマシイやつ」{n}って感じで、みんなに見られてさ。{p}
+EN: I felt great too. Everyone was looking at me like "That lucky guy's on a date with a model."{p}
+
+## MGK07 g0 s0220
+JP: えへへ……、{n}なんか……照れちゃうね。{p}
+EN: Ehehe... That's kinda embarrassing.{p}
+
+## MGK07 g0 s0221
+JP: じゃあ、アタシはもう帰らなきゃ……。{n}誘ってくれてありがと!{p}{end}
+EN: Well, I've gotta get home... Thanks for inviting me!{p}{end}
+
+## MGK07 g0 s0222
+JP: またね、{v6:4}!{p}
+EN: See you, {v6:4}!{p}
+
+## MGK07 g0 s0223
+JP: なんだかんだいっても{n}夏もモデルを楽しんでたみたいだし、{n}誘ってよかったな。{p}{end}
+EN: Whatever she said, Natsu seemed to enjoy modeling. I'm glad I invited her.{p}{end}
+
+## MGK07 g0 s0225
+JP: へぇ、{n}ずいぶん立派な設備じゃないか。{p}
+EN: Wow, this is quite a facility.{p}
+
+## MGK07 g0 s0226
+JP: ここは、できたばかりだからね。{p}
+EN: It just opened, after all.{p}
+
+## MGK07 g0 s0228
+JP: じゃあ、向こうの方から、{n}ブラブラと回ってみるとするか!{p}{end}
+EN: Well then, let's wander around, starting over there!{p}{end}
+
+## MGK07 g0 s0229
+JP: あぁ、そうだな。{p}{end}
+EN: Yeah, sounds good.{p}{end}
+
+## MGK07 g0 s0230
+JP: お!{sp}競技用プールもあるのか。{n}なぁ、{v3:5}、{n}俺と勝負してみるか?{p}
+EN: Oh! They have a racing pool. Hey, {v3:5}, want to race me?{p}
+
+## MGK07 g0 s0231
+JP: 泳法は、そっちで決めてイイぞ。{n}お前の得意なヤツで勝負だ。{p}
+EN: You pick the stroke. We'll race in whatever you're best at.{p}
+
+## MGK07 g0 s0232
+JP: （そ、そうだなぁ……{n}{sp}サッカー選手の脚力は{n}{sp}あなどれないし……）{p}{end}
+EN: (Let's see... A soccer player's legs are nothing to sneeze at...){p}{end}
+
+## MGK07 g0 s0233
+JP: （特殊な足の使い方をする泳法の方が、{n}{sp}勝算があるかもしれないな……）{p}
+EN: (A stroke with an unusual kick might give me a better shot...){p}
+
+## MGK07 g0 s0234
+JP: よし、平泳ぎで勝負だ!{p}
+EN: All right, breaststroke it is!{p}
+
+## MGK07 g0 s0235
+JP: OK!{n}50メートルを先に泳ぎ切った方が{n}勝ちだからな。{p}{end}
+EN: OK! First one to finish 50 meters wins.{p}{end}
+
+## MGK07 g0 s0236
+JP: 負けた方が、ここの昼飯をおごる、{n}……でイイよな?{p}
+EN: Loser buys lunch here... sound good?{p}
+
+## MGK07 g0 s0237
+JP: もちろん!{p}
+EN: You bet!{p}
+
+## MGK07 g0 s0238
+JP: それじゃあ……、{n}レディ……、ゴォッ!!{p}{end}
+EN: Okay then... Ready... Go!!{p}{end}
+
+## MGK07 g0 s0240
+JP: （よし!{sp}リードしてるぞ!{n}{sp}このままゴールだ!）{p}
+EN: (All right! I'm in the lead! Just keep it up to the end!){p}
+
+## MGK07 g0 s0242
+JP: （ザパァッ!）{p}
+EN: (Splash!){p}
+
+## MGK07 g0 s0243
+JP: ハァ、ハァ……、俺の負けだな。{n}平泳ぎの動きはどうも苦手でね。{n}サッカーには、ない動きだからな。{p}{end}
+EN: Hah, hah... I lose. I'm just no good at the breaststroke kick. There's no move like it in soccer.{p}{end}
+
+## MGK07 g0 s0244
+JP: 自慢の脚も、平泳ぎじゃあ{n}生かせないよ……。{n}{v3:5}の作戦勝ちだな。{p}
+EN: My legs are no use in breaststroke... Nice strategy, {v3:5}.{p}
+
+## MGK07 g0 s0245
+JP: えへへ……、バレたか。{p}
+EN: Ehehe... You caught on.{p}
+
+## MGK07 g0 s0246
+JP: おっと、もうイイ時間だな。{n}さぁ、何でも食べたいものを{n}いってくれ……。{p}{end}
+EN: Oh, it's about that time. Go on, tell me whatever you want to eat...{p}{end}
+
+## MGK07 g0 s0247
+JP: フフフ……、覚悟しろよ!{n}ロベルト!{p}{end}
+EN: Heh heh... Get ready, Roberto!{p}{end}
+
+## MGK07 g0 s0248
+JP: やれやれ……、{n}勝てると踏んで挑んだ勝負で、{n}返り討ちに会うとはな……。{p}{end}
+EN: Oh well... I challenged you thinking I'd win, and got beaten at my own game...{p}{end}
+
+## MGK07 g0 s0249
+JP: ハハハ……。{n}勝負ごとには、作戦が大事だからな。{n}サッカーだって同じだろ?{p}
+EN: Hahaha... Strategy matters in any contest. It's the same in soccer, right?{p}
+
+## MGK07 g0 s0250
+JP: あぁ、そのとおりだよ。{n}まさか、ここでそれを改めて{n}痛感させられるとは、思わなかったよ。{p}{end}
+EN: Yeah, that's right. I never thought I'd get reminded of it this hard here.{p}{end}
+
+## MGK07 g0 s0251
+JP: さて、そろそろ俺は帰るよ。{n}次に勝負したときは、覚悟しておけよ!{n}じゃあな、{v3:5}!{p}
+EN: Well, I'd better head home. Next time we compete, you'd better be ready! See you, {v3:5}!{p}
+
+## MGK07 g0 s0252
+JP: 勝負は俺の勝ちだったけど、{n}ロベルトも楽しそうだったし、{n}誘ってよかったな。{p}{end}
+EN: I won the race, but Roberto looked like he had fun too. Glad I invited him.{p}{end}
+
+## MGK07 g0 s0254
+JP: さぁてと、{n}まずは、どのプールで遊ぼうか?{p}
+EN: Okay, so which pool should we try first?{p}
+
+## MGK07 g0 s0255
+JP: オイオイ、しっかりしてくれよ。{p}
+EN: Hey now, get it together.{p}
+
+## MGK07 g0 s0256
+JP: 子供と同じように、{n}プールで遊んでどうするんだ?{p}{end}
+EN: What's the point of playing in the pool like a little kid?{p}{end}
+
+## MGK07 g0 s0257
+JP: こういう場所に{n}男同士で来たら、ガールハント!{n}お約束だろ?{p}{end}
+EN: When two guys come to a place like this, it's time to hunt for girls! That's the rule, right?{p}{end}
+
+## MGK07 g0 s0258
+JP: （やれやれ……。{n}{sp}目的はナンパだったのか……）{p}{end}
+EN: (Oh brother... So picking up girls was the plan...){p}{end}
+
+## MGK07 g0 s0259
+JP: （どおりで、{n}{sp}ふたつ返事でついてきたと思ったよ……）{p}
+EN: (No wonder he said yes so fast...){p}
+
+## MGK07 g0 s0260
+JP: さぁ、どんな女の子が好みだ?{n}どの女の子に声をかけるか、{n}{v3:6}が決めてくれ。{p}{end}
+EN: So, what kind of girl do you like? You pick which one I talk to, {v3:6}.{p}{end}
+
+## MGK07 g0 s0261
+JP: ボクが声をかければ、{n}どんな女の子でも、イチコロだからな。{p}
+EN: If I talk to her, any girl will fall for me instantly.{p}
+
+## MGK07 g0 s0262
+JP: す、すごい自信……。{p}{end}
+EN: Th-that's some confidence...{p}{end}
+
+## MGK07 g0 s0263
+JP: （……とはいえ、そういわれると、{n}{sp}ちょっと真剣に{n}{sp}選んじゃうよな……）{p}
+EN: (...Still, when he puts it like that, I kinda want to choose seriously...){p}
+
+## MGK07 g0 s0264
+JP: じゃあ、あの金髪の女の子に{n}声かけてみてくれよ。{p}{end}
+EN: Then try talking to that blonde girl over there.{p}{end}
+
+## MGK07 g0 s0265
+JP: OK!{n}任せておけよ!{p}
+EN: OK! Leave it to me!{p}
+
+## MGK07 g0 s0266
+JP: （ホントに、うまくいくのかなぁ……）{p}{end}
+EN: (Is this really gonna work...?){p}{end}
+
+## MGK07 g0 s0267
+JP: ハァイ!{n}どこから来たの?{p}
+EN: Hi there! Where are you from?{p}
+
+## MGK07 g0 s0268
+JP: よかったら、ボクたちと遊ばないか?{p}
+EN: If you like, why not hang out with us?{p}
+
+## MGK07 g0 s0269
+JP: ハイ?{n}あ!{sp}ロイに、{v3:7}!{p}{end}
+EN: Yes? Oh! Roy, and {v3:7}!{p}{end}
+
+## MGK07 g0 s0270
+JP: （ゲゲッ!{sp}ティファニー!!）{p}
+EN: (Yikes! Tiffany!!){p}
+
+## MGK07 g0 s0271
+JP: 2人で何してるですか?{n}もしかして……、ナンパとか……?{p}{end}
+EN: What are you two doing? Could it be... picking up girls...?{p}{end}
+
+## MGK07 g0 s0272
+JP: ハ、ハハハ……。{n}そ、そんなわけないじゃないか……。{p}{end}
+EN: Ha, hahaha... O-of course not...{p}{end}
+
+## MGK07 g0 s0273
+JP: な、なぁ、{v3:6}……?{p}{end}
+EN: R-right, {v3:6}...?{p}{end}
+
+## MGK07 g0 s0274
+JP: そ、そうだよ……。{n}ハ、ハハハ……。{p}{end}
+EN: Y-yeah... Ha, hahaha...{p}{end}
+
+## MGK07 g0 s0275
+JP: アヤシイ……。{n}ロイ、顔が赤いネ。{p}
+EN: Suspicious... Roy, your face is red.{p}
+
+## MGK07 g0 s0276
+JP: そ、そんなことより、{n}どうして、ティファニーが{n}プールにいるんだ?{p}
+EN: N-never mind that, what are you doing at the pool, Tiffany?{p}
+
+## MGK07 g0 s0277
+JP: あ、それは、{n}お友達に誘われて……。{p}{end}
+EN: Oh, that's because a friend invited me...{p}{end}
+
+## MGK07 g0 s0278
+JP: 日本のプールは、はじめてなので、{n}連れてきてもらったんです。{p}{end}
+EN: It's my first time at a Japanese pool, so she brought me along.{p}{end}
+
+## MGK07 g0 s0279
+JP: じゃあ、俺たちも一緒に{n}混ぜてもらっていいよね?{p}{end}
+EN: Then you don't mind if we join you, right?{p}{end}
+
+## MGK07 g0 s0280
+JP: それは、OKだけど……。{p}{end}
+EN: That's OK, but...{p}{end}
+
+## MGK07 g0 s0281
+JP: そうと決まったら、早く行こうよ!{n}さ、ささッ!!{p}{end}
+EN: Then it's settled, let's go! C'mon, c'mon!!{p}{end}
+
+## MGK07 g0 s0282
+JP: そ、そうだな、行こうぜ!{p}{end}
+EN: Y-yeah, let's go!{p}{end}
+
+## MGK07 g0 s0283
+JP: ハハ…、ハハハ……。{p}{end}
+EN: Ha... hahaha...{p}{end}
+
+## MGK07 g0 s0284
+JP: フフフ……。{n}ふたりとも、疑ってゴメンネ。{p}
+EN: Hee hee... Sorry for doubting you two.{p}
+
+## MGK07 g0 s0285
+JP: 今日は一緒に遊べて、{n}楽しかったでーす。{p}{end}
+EN: I had so much fun playing with you today.{p}{end}
+
+## MGK07 g0 s0286
+JP: ミーは、お友達と帰るから、{n}ここでお別れネ。{n}バイバイ!{p}{end}
+EN: I'm going home with my friend, so this is goodbye. Bye-bye!{p}{end}
+
+## MGK07 g0 s0287
+JP: ……あぶないところだった。{n}よりにもよって、{n}ティファニーに声をかけてしまうとはな。{p}{end}
+EN: ...That was close. Of all the girls to hit on, it had to be Tiffany.{p}{end}
+
+## MGK07 g0 s0288
+JP: だが、{v3:6}が{n}うまく話をそらしてくれたおかげで{n}たすかったよ。{p}
+EN: But you saved me by changing the subject so smoothly, {v3:6}.{p}
+
+## MGK07 g0 s0289
+JP: ハハハ……、なんのなんの。{n}あそこでティファニーがキレちゃったら{n}俺も巻き添えを食うからな。{p}{end}
+EN: Hahaha, don't mention it. If Tiffany had snapped, I'd have gotten dragged into it too.{p}{end}
+
+## MGK07 g0 s0290
+JP: ハハハ……、確かにな。{p}
+EN: Hahaha... True enough.{p}
+
+## MGK07 g0 s0291
+JP: さて、ボクはそろそろ帰るよ。{n}いろいろあったが、{n}楽しい1日を過ごせたよ。{p}
+EN: Well, I'd better head home. A lot happened, but it was a fun day.{p}
+
+## MGK07 g0 s0292
+JP: また誘ってくれよな!{n}じゃあな、{v3:6}!{p}
+EN: Invite me again! See you, {v3:6}!{p}
+
+## MGK07 g0 s0293
+JP: フゥ……。{n}ホント、スリリングで{n}楽しい1日だったよ……。{p}
+EN: Phew... What a thrilling, fun day...{p}
+
+## MGK07 g0 s0295
+JP: ティファニー、遅いなぁ……。{n}なにやってるんだろう……?{p}{end}
+EN: Tiffany's late... What's she doing...?{p}{end}
+
+## MGK07 g0 s0296
+JP: ソーリー、{v3:7}!{n}おまちどうネ!{p}{end}
+EN: Sorry, {v3:7}! Thanks for waiting!{p}{end}
+
+## MGK07 g0 s0297
+JP: （うぉっ!{n}{sp}いつにも増して、サービス満点というか{n}{sp}水着もさぞや本望だろうというか……）{p}
+EN: (Whoa! Talk about fan service... That swimsuit must be one happy swimsuit...){p}
+
+## MGK07 g0 s0298
+JP: ……?{n}ネェ、{v3:7}?{p}{end}
+EN: ...? Hey, {v3:7}?{p}{end}
+
+## MGK07 g0 s0299
+JP: えっ?{n}あぁ、なに?{p}{end}
+EN: Huh? Oh, what?{p}{end}
+
+## MGK07 g0 s0300
+JP: どうしましたか?{sp}{v3:7}?{p}{end}
+EN: What's wrong, {v3:7}?{p}{end}
+
+## MGK07 g0 s0301
+JP: ハハァ～ン、ミーの魅力に{n}テンチュウサツされたネ?{p}
+EN: Hmm-hmm, did my charms... assassinate you?{p}
+
+## MGK07 g0 s0302
+JP: それをいうなら、悩殺だよ……。{p}
+EN: You mean "slay," I think...{p}
+
+## MGK07 g0 s0303
+JP: フフフ……。{n}どっちでも、たいして違わないネ。{p}
+EN: Hee hee... Not much difference.{p}
+
+## MGK07 g0 s0304
+JP: さぁ、行こうヨ!{n}いろんなプールがあるみたいネ。{p}{end}
+EN: Come on, let's go! Looks like there are lots of pools.{p}{end}
+
+## MGK07 g0 s0305
+JP: じゃあ、向こうの方から回ってみよう。{p}{end}
+EN: Then let's start over there.{p}{end}
+
+## MGK07 g0 s0306
+JP: ワオッ!{n}{v3:7}、見てアレッ!{p}{end}
+EN: Wow! {v3:7}, look at that!{p}{end}
+
+## MGK07 g0 s0307
+JP: あぁ、スライダーだよ。{n}あの上から滑り降りて遊ぶんだ。{n}でっかい滑り台ってわけだな。{p}{end}
+EN: Oh, that's a water slide. You slide down from the top. It's basically a giant slide.{p}{end}
+
+## MGK07 g0 s0308
+JP: スリリングなの、大好きです。{n}やってみましょう!{p}{end}
+EN: I love thrilling things. Let's try it!{p}{end}
+
+## MGK07 g0 s0310
+JP: 見て見て、{v3:7}!{n}下にいる人が小さく見えます。{p}
+EN: Look, look, {v3:7}! The people down there look so small.{p}
+
+## MGK07 g0 s0311
+JP: さぁ、ティファニーから滑りなよ!{p}{end}
+EN: Go ahead, Tiffany, you go first!{p}{end}
+
+## MGK07 g0 s0312
+JP: 何事もレディーファーストだからね。{p}
+EN: It's always ladies first.{p}
+
+## MGK07 g0 s0313
+JP: フフフ……。{n}じゃあ、ミーから滑ります!{p}{end}
+EN: Hee hee... Okay, I'll go first!{p}{end}
+
+## MGK07 g0 s0314
+JP: うぅ～～っ、ドキドキします……。{n}ソレッ!{p}
+EN: Ooh, my heart is pounding... Here goes!{p}
+
+## MGK07 g0 s0315
+JP: キャアァァァァーーーーッ!!{p}{end}
+EN: Kyaaaaaaah!!{p}{end}
+
+## MGK07 g0 s0317
+JP: （ザッパァァァーーーン!!）{p}{end}
+EN: (SPLAAASH!!){p}{end}
+
+## MGK07 g0 s0318
+JP: コワイくせに、やりたがるんだから、{n}女の子ってのは不思議だよ。{p}
+EN: She's scared, but she still wants to do it. Girls are a mystery.{p}
+
+## MGK07 g0 s0319
+JP: さて、次は俺の番だな。{n}それっ!{p}{end}
+EN: Okay, my turn. Here goes!{p}{end}
+
+## MGK07 g0 s0322
+JP: プハッ!{sp}すごいスピード感……。{n}でも、思ったより楽しいもんだな。{p}
+EN: Pwah! That was fast... But it's more fun than I thought.{p}
+
+## MGK07 g0 s0323
+JP: ん!?{n}なんだ、これは……って、{n}ビキニ???{p}
+EN: Huh!? What's this... a bikini???{p}
+
+## MGK07 g0 s0324
+JP: な、なんで、こんなものが{n}浮いてるんだ?{p}{end}
+EN: Wh-why is this floating here?{p}{end}
+
+## MGK07 g0 s0325
+JP: しかも、なんかついさっき見た{n}水着のような……。{p}{end}
+EN: And it looks just like a swimsuit I saw a minute ago...{p}{end}
+
+## MGK07 g0 s0326
+JP: いやぁ～ん!{n}{v3:7}、返してください!{n}それミーの水着ネ!{p}{end}
+EN: Noooo! {v3:7}, give it back! That's my swimsuit!{p}{end}
+
+## MGK07 g0 s0327
+JP: テ、ティファニー!?{p}{end}
+EN: T-Tiffany!?{p}{end}
+
+## MGK07 g0 s0328
+JP: い、勢いがよすぎて、{n}取れちゃいました～～っ。{p}
+EN: I went so fast it came off...{p}
+
+## MGK07 g0 s0329
+JP: こ、これティファニーのかぁ……。{p}{end}
+EN: S-so this is Tiffany's...{p}{end}
+
+## MGK07 g0 s0330
+JP: そ、そんなにマジマジ見ちゃダメ!{p}{end}
+EN: D-don't stare at it like that!{p}{end}
+
+## MGK07 g0 s0331
+JP: ゴ、ゴメン!{n}はい、これ……。{p}
+EN: S-sorry! Here...{p}
+
+## MGK07 g0 s0332
+JP: じゃあ、後ろ向いててください……。{p}
+EN: Now please turn around...{p}
+
+## MGK07 g0 s0333
+JP: ハイ!{n}もう、OKネ!{p}
+EN: Okay! All set!{p}
+
+## MGK07 g0 s0334
+JP: スライダーは、スリル満点ネ!{n}気に入りました!{n}もう1度やろうよ!{p}
+EN: The slide is such a thrill! I love it! Let's go again!{p}
+
+## MGK07 g0 s0335
+JP: プール、とっても楽しかったです。{n}ちょっとハプニングもあって、{n}ドキドキしたけどネ!{p}{end}
+EN: The pool was so much fun. There was a little accident, but it was exciting!{p}{end}
+
+## MGK07 g0 s0336
+JP: そ、そうだね。{p}
+EN: Y-yeah.{p}
+
+## MGK07 g0 s0337
+JP: それじゃあ、ミーはそろそろ帰らないと。{n}誘ってくれて、うれしかったです。{p}{end}
+EN: Well, I should go home soon. I was happy you invited me.{p}{end}
+
+## MGK07 g0 s0338
+JP: バイ!{sp}{v3:7}!{p}
+EN: Bye, {v3:7}!{p}
+
+## MGK07 g0 s0339
+JP: 今日はツイてたな……。{n}スライダーを考えた人に、{n}心から感謝するよ……。{p}{end}
+EN: I sure got lucky today... I thank whoever invented water slides from the bottom of my heart...{p}{end}
+
+## MGK07 g0 s0340
+JP: ティファニーもよろこんでたし、{n}ノープロブレムって感じだな。{n}さて、俺も帰るとするかな。{p}{end}
+EN: Tiffany had fun too. No problems at all. Well, guess I'll head home too.{p}{end}
+
+## MGK07 g0 s0341
+JP: たまにゃこうして、{n}おてんとさまに、{n}のんびり当たるってのもイイねェ……。{p}
+EN: Once in a while, it's nice just soakin' up the sun like this, nice and easy...{p}
+
+## MGK07 g0 s0342
+JP: あぁ、そうだなぁ……。{p}
+EN: Yeah, it sure is...{p}
+
+## MGK07 g0 s0343
+JP: 俺たちみてぇにマジメ～な学生にゃ、{n}こういう「ゆとり」ってもんが必要だぜ!{p}
+EN: Serious, hardworkin' students like us need a little "downtime" now and then!{p}
+
+## MGK07 g0 s0344
+JP: {col:3}子供（兄）{col:-}{n}「あ～っ、不良だ～っ。」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Lookit, a punk!"{p}{end}
+
+## MGK07 g0 s0345
+JP: {col:3}子供（弟）{col:-}{n}「ホントだ～っ、不良だ～っ。」{p}
+EN: {col:3}Younger Kid{col:-}{n}"It's true, a punk!"{p}
+
+## MGK07 g0 s0346
+JP: 何?{n}エッジの知り合いか?{p}
+EN: What? Friends of yours, Edge?{p}
+
+## MGK07 g0 s0347
+JP: し、知らねェよォ!{n}なんだァ!?{n}お前らはッ?{p}
+EN: Never seen 'em before! The hell's your problem!? Who are you brats?{p}
+
+## MGK07 g0 s0348
+JP: {col:3}子供（兄）{col:-}{n}「ガンくれてるぞ～っ。{n}{sp}でも、恐くないぞぉ～。」{p}
+EN: {col:3}Older Kid{col:-}{n}"He's glaring at us! But we're not scared!"{p}
+
+## MGK07 g0 s0349
+JP: {col:3}子供（弟）{col:-}{n}「恐くないぞぉ～。」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"Not scared!"{p}{end}
+
+## MGK07 g0 s0350
+JP: あ～～～ッ!!{n}もう、どっかいけよ!{n}塩振って食っちまうぞ!{sp}アァッ?{p}
+EN: Aaaargh!! Just get lost already! I'll salt ya and eat ya! Huh?{p}
+
+## MGK07 g0 s0351
+JP: {col:3}子供（兄）{col:-}{n}「不良～!{sp}勝負しろ～っ!」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Punk! Fight us!"{p}{end}
+
+## MGK07 g0 s0352
+JP: {col:3}子供（弟）{col:-}{n}「勝負しろ～っ!」{p}
+EN: {col:3}Younger Kid{col:-}{n}"Fight us!"{p}
+
+## MGK07 g0 s0353
+JP: このォ……!{n}ガキどもッ!!{p}{end}
+EN: Why you...! Little brats!!{p}{end}
+
+## MGK07 g0 s0354
+JP: まあまあ、押さえてエッジ。{n}……で、何をしようっていうんだ?{p}{end}
+EN: Now, now, calm down, Edge. ...So, what do you want to do?{p}{end}
+
+## MGK07 g0 s0355
+JP: {col:3}子供（兄）{col:-}{n}「潜りっこ～っ!」{p}
+EN: {col:3}Older Kid{col:-}{n}"Underwater contest!"{p}
+
+## MGK07 g0 s0356
+JP: {col:3}子供（弟）{col:-}{n}「ボクたちより長く潜ってられたら{n}{sp}不良組の勝ちだよ～っ!」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"If you stay under longer than us, the punk team wins!"{p}{end}
+
+## MGK07 g0 s0357
+JP: わかった、わかったッ!{n}オレたちが勝ったら、{n}どっか別のところで遊べよ!{n}いいなッ!!{p}
+EN: Fine, fine! If we win, you go play somewhere else! Got it!?{p}
+
+## MGK07 g0 s0358
+JP: {col:3}子供（兄）{col:-}{n}「でも、ボクたちが勝ったら{n}{sp}いうこときけよ～っ!」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"But if we win, you do what we say!"{p}{end}
+
+## MGK07 g0 s0359
+JP: {col:3}子供（弟）{col:-}{n}「きけよ～っ!」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"What we say!"{p}{end}
+
+## MGK07 g0 s0360
+JP: （やれやれ、仕方ないなぁ……。{n}{sp}でも、エッジがマジメにやるとは{n}{sp}思えないし……）{p}{end}
+EN: (Oh brother, can't be helped... But I can't see Edge taking this seriously...){p}{end}
+
+## MGK07 g0 s0361
+JP: （子供相手だけど、{n}{sp}俺は本気でがんばっとこうかな。）{p}
+EN: (They're just kids, but I'll give it my all.){p}
+
+## MGK07 g0 s0362
+JP: {col:3}子供（兄）{col:-}{n}「それじゃあ～っ!{n}{sp}よぉ～いっ!」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Okaaay! Ready...!"{p}{end}
+
+## MGK07 g0 s0363
+JP: {col:3}子供（弟）{col:-}{n}「ドン!」{p}
+EN: {col:3}Younger Kid{col:-}{n}"Go!"{p}
+
+## MGK07 g0 s0364
+JP: {face:15}ブクブクブクブク・・・・・・・・{face:255}{p}{end}
+EN: {face:15}Blub blub blub blub........{face:255}{p}{end}
+
+## MGK07 g0 s0365
+JP: プハァッ!!{p}{end}
+EN: Pwah!!{p}{end}
+
+## MGK07 g0 s0366
+JP: ん!?{sp}俺が最後か?{n}（うーん。やっぱりエッジは、{n}{sp}すぐヤメてたか……）{p}
+EN: Huh!? Am I the last one up? (Figures... Edge quit right away...){p}
+
+## MGK07 g0 s0367
+JP: へへ!{n}というわけで、オレたちの勝ちだな。{n}不良はスゲェんだ、わぁったか?{p}
+EN: Heh! So we win. Punks are awesome, got it?{p}
+
+## MGK07 g0 s0368
+JP: さぁ、かあちゃんとこに、{n}帰った帰った!{p}{end}
+EN: Now go on back to your mommy!{p}{end}
+
+## MGK07 g0 s0369
+JP: {col:3}子供（兄）・子供（弟）{col:-}{n}「うっうっ………。」{p}{end}
+EN: {col:3}Kids{col:-}{n}"Sniff, sniff......"{p}{end}
+
+## MGK07 g0 s0370
+JP: アァ?{n}どうしたァ?{p}{end}
+EN: Huh? What's wrong?{p}{end}
+
+## MGK07 g0 s0371
+JP: {col:3}子供（兄）{col:-}{n}「かあちゃん……、{n}{sp}どっかいったんだよぉ～っ!!」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Mommy... went away!!"{p}{end}
+
+## MGK07 g0 s0372
+JP: {col:3}子供（弟）{col:-}{n}「迷子なんだよ～っ!!」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"We're lost!!"{p}{end}
+
+## MGK07 g0 s0373
+JP: {col:3}子供（兄）・子供（弟）{col:-}{n}「うわぁぁぁぁぁ～ん!!」{p}
+EN: {col:3}Kids{col:-}{n}"Waaaaaah!!"{p}
+
+## MGK07 g0 s0374
+JP: ウッ!{n}そうならそうと、早くいえよ!!{p}
+EN: Ugh! Why didn't ya say so sooner!!{p}
+
+## MGK07 g0 s0375
+JP: {col:3}子供（兄）{col:-}{n}「不良～っ!{n}{sp}かあちゃん探してよぉ～っ!」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Punk! Find our mommy!"{p}{end}
+
+## MGK07 g0 s0376
+JP: {col:3}子供（弟）{col:-}{n}「探してよぉ～っ!」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"Find her!"{p}{end}
+
+## MGK07 g0 s0377
+JP: あぁ～ッ!{n}わぁったから、泣くなァッ!{p}
+EN: Aaagh! Fine, just quit cryin'!{p}
+
+## MGK07 g0 s0378
+JP: じゃあ!{n}俺、迷子センターを探してみるよ!{p}
+EN: Okay! I'll go find the lost child center!{p}
+
+## MGK07 g0 s0379
+JP: ナニッ!?{n}こいつら、オレが面倒みとくのかよ!?{p}{end}
+EN: What!? I'm stuck babysittin' these guys!?{p}{end}
+
+## MGK07 g0 s0381
+JP: わぁったから、泣くなァ～ッ!{n}アイスおごってやっからァ～ッ!!{p}
+EN: I said fine, so quit cryin'! I'll buy ya ice cream!!{p}
+
+## MGK07 g0 s0382
+JP: やれやれ、{n}すぐ親が見つかってよかったな。{p}
+EN: Whew, good thing their mom turned up so fast.{p}
+
+## MGK07 g0 s0383
+JP: まったく、ガキのお守りは{n}コリゴリだぜ!{p}{end}
+EN: Man, I've had it with babysittin'!{p}{end}
+
+## MGK07 g0 s0384
+JP: でも、見直したよ!{n}エッジって、結構やさしいんだな。{p}{end}
+EN: But I've got a new respect for you! You're actually pretty nice, Edge.{p}{end}
+
+## MGK07 g0 s0385
+JP: へへ……、そっか?{n}ま、まぁ、{n}オレは良識ある不良だからな!{p}{end}
+EN: Heh... Ya think? W-well, I'm a punk with good sense!{p}{end}
+
+## MGK07 g0 s0386
+JP: さて、そろそろ帰るとスっか?{n}ガキの相手しかしてねェけど、{n}気晴らしにはなったぜ!{p}
+EN: Well, wanna head home? All we did was babysit brats, but it took my mind off things!{p}
+
+## MGK07 g0 s0387
+JP: また誘えよな!{n}じゃあな、{v3:9}!{p}{end}
+EN: Invite me again! Later, {v3:9}!{p}{end}
+
+## MGK07 g0 s0388
+JP: フフフ……。{n}子供にからまれるとは思わなかったけど、{n}エッジも、なんか楽しそうだったし、{n}良しとするかな。{p}
+EN: Heh heh... Didn't expect to get pestered by kids, but Edge seemed to have fun, so I'll call it a win.{p}
+
+## MGK07 g0 s0389
+JP: さて、俺も帰ろっと。{p}{end}
+EN: Well, time for me to head home too.{p}{end}
+
+## MGK07 g0 s0390
+JP: 遅いなぁ、アキラ……。{n}どうしたんだろ?{p}{end}
+EN: Akira's late... What's going on?{p}{end}
+
+## MGK07 g0 s0391
+JP: ごめんなさい……。{n}遅くなって……。{p}{end}
+EN: I'm sorry... I'm late...{p}{end}
+
+## MGK07 g0 s0392
+JP: （おおっ!!{sp}そ、そうだよな、{n}{sp}アキラって、女の子だもんな……。{n}{sp}うん……立派に女の子だ……うん。）{p}{end}
+EN: (Whoa!! R-right, Akira's a girl... Yep... a girl, through and through... yep.){p}{end}
+
+## MGK07 g0 s0393
+JP: ……?{n}ねぇ、{v5:10}?{p}{end}
+EN: ...? Um, {v5:10}?{p}{end}
+
+## MGK07 g0 s0394
+JP: えっ、あぁ……{n}なに?{p}
+EN: Huh? Oh... what?{p}
+
+## MGK07 g0 s0395
+JP: や、やっぱり、{n}変……かな……?{p}{end}
+EN: D-do I... look weird...?{p}{end}
+
+## MGK07 g0 s0396
+JP: 変じゃないさ!{n}とってもよく似合ってるよ。{p}
+EN: Not at all! It looks great on you.{p}
+
+## MGK07 g0 s0397
+JP: その辺の女の子が{n}裸足で逃げ出しちゃうくらい{n}イカしてるって!{p}
+EN: You look so good, the other girls here would run off barefoot in shame!{p}
+
+## MGK07 g0 s0398
+JP: まぁ、プールなんだから、{n}元から裸足なんだけどね。{p}
+EN: Well, it's a pool, so they're barefoot already.{p}
+
+## MGK07 g0 s0399
+JP: フフフ……。{n}よかった……。{p}{end}
+EN: Hee hee... I'm glad...{p}{end}
+
+## MGK07 g0 s0400
+JP: じゃあ、行こうか!{p}
+EN: Well, let's go!{p}
+
+## MGK07 g0 s0401
+JP: うん!{p}
+EN: Okay!{p}
+
+## MGK07 g0 s0402
+JP: おっ、競技用のプールがあるぞ!{n}どうだ、アキラ!{n}いっちょ、50メートルで勝負するか?{p}
+EN: Oh, a racing pool! How about it, Akira? Wanna race 50 meters?{p}
+
+## MGK07 g0 s0403
+JP: あ、あの私……、{n}あんまり泳ぐの得意じゃないんだ……。{p}
+EN: U-um, I'm... not very good at swimming...{p}
+
+## MGK07 g0 s0404
+JP: あ、そうなんだ……。{p}{end}
+EN: Oh, really...{p}{end}
+
+## MGK07 g0 s0405
+JP: じゃあ、これから練習しよう!{p}{end}
+EN: Then let's practice!{p}{end}
+
+## MGK07 g0 s0406
+JP: 練習?{p}
+EN: Practice?{p}
+
+## MGK07 g0 s0407
+JP: そう!{sp}バタ足の練習!{n}水泳はバタ足にはじまり、バタ足に終る{n}……ってね。{p}
+EN: Yep! Flutter kick practice! Swimming begins and ends with the flutter kick... as they say.{p}
+
+## MGK07 g0 s0408
+JP: ホント?{p}{end}
+EN: Really?{p}{end}
+
+## MGK07 g0 s0409
+JP: ホントホント!{n}じゃあ、さっそくやってみようか?{n}手を引いててあげるからさ!{p}{end}
+EN: Really, really! So, wanna try it now? I'll hold your hands!{p}{end}
+
+## MGK07 g0 s0411
+JP: （バシャバシャバシャ……）{p}
+EN: (Splash splash splash...){p}
+
+## MGK07 g0 s0412
+JP: そうそう!{n}なんだ、全然うまいじゃないか。{n}アキラは、運動神経いいもんな。{p}
+EN: That's it! Hey, you're really good. You're so athletic, Akira.{p}
+
+## MGK07 g0 s0413
+JP: で、でも、{n}手を放しちゃダメだよ……。{p}
+EN: B-but don't let go of my hands...{p}
+
+## MGK07 g0 s0414
+JP: わかってるって!{p}{end}
+EN: I know, I know!{p}{end}
+
+## MGK07 g0 s0415
+JP: （と、いいつつ……、{n}{sp}そろそろやってみるかな!）{p}
+EN: (Or so I say... Time to try letting go!){p}
+
+## MGK07 g0 s0416
+JP: そぉれっ!{p}
+EN: Here goes!{p}
+
+## MGK07 g0 s0417
+JP: キャッ!!{p}
+EN: Eek!!{p}
+
+## MGK07 g0 s0418
+JP: （ワシッ!）{p}{end}
+EN: (Grab!){p}{end}
+
+## MGK07 g0 s0419
+JP: へ!?{n}おわっ!!{p}
+EN: Huh!? Whoa!!{p}
+
+## MGK07 g0 s0420
+JP: （ザパァァ～～～ン!!!）{p}
+EN: (SPLAAASH!!!){p}
+
+## MGK07 g0 s0421
+JP: ゲホゲホ……、水飲んだ……。{n}いきなり抱きついてくるんだもんな……。{n}アキラ、大丈夫かぁ?{p}
+EN: Cough, cough... I swallowed water... She grabbed onto me out of nowhere... Akira, you okay?{p}
+
+## MGK07 g0 s0422
+JP: う、うん。{n}大丈夫……。{p}{end}
+EN: Y-yeah. I'm okay...{p}{end}
+
+## MGK07 g0 s0423
+JP: 放しちゃダメっていったのに{n}手を放しちゃうんだもん……。{n}ビックリしちゃって……。{p}
+EN: I told you not to let go, and you let go anyway... It scared me...{p}
+
+## MGK07 g0 s0424
+JP: あははっ!{n}ゴメンゴメン。{p}
+EN: Ahaha! Sorry, sorry.{p}
+
+## MGK07 g0 s0425
+JP: でも、自転車の練習と同じさ。{n}いつまでも持たれてたら、{n}ひとりで泳げるようにならないだろ?{p}
+EN: But it's just like learning to ride a bike. If someone holds on forever, you'll never swim on your own, right?{p}
+
+## MGK07 g0 s0426
+JP: それは……、{n}そうだけど……。{p}
+EN: That's... true, but...{p}
+
+## MGK07 g0 s0427
+JP: 大丈夫だって!{n}この調子なら、夕方にはバタフライで、{n}競泳用パンツの兄ちゃんたちだって{n}ブッチ切れるようになってるさ。{p}
+EN: Don't worry! At this rate, by evening you'll be doing the butterfly and leaving those guys in racing trunks in the dust.{p}
+
+## MGK07 g0 s0428
+JP: フフフ……、もう。{p}
+EN: Hee hee... Oh, you.{p}
+
+## MGK07 g0 s0429
+JP: 私の練習ばっかりになっちゃって、{n}ごめんなさい……。{p}{end}
+EN: Today ended up being all about my practice... I'm sorry...{p}{end}
+
+## MGK07 g0 s0430
+JP: でも、泳ぐのうまくなったみたい。{n}ありがとう……。{p}
+EN: But I think I've gotten better at swimming. Thank you...{p}
+
+## MGK07 g0 s0431
+JP: へへ……。{n}いいって、いいって。{p}{end}
+EN: Heh heh... Don't mention it.{p}{end}
+
+## MGK07 g0 s0432
+JP: 私、そろそろ帰らなきゃ……。{n}今日は、楽しかった。{p}
+EN: I have to get home soon... I had fun today.{p}
+
+## MGK07 g0 s0433
+JP: じゃあね、{v5:10}……。{n}バイバイ……。{p}{end}
+EN: Bye, {v5:10}... Bye-bye...{p}{end}
+
+## MGK07 g0 s0434
+JP: まさに、{n}手取り足取りの練習だったな……。{n}フフフ……、ヤクトク、ヤクトク……。{p}{end}
+EN: That was hands-on coaching, all right... Heh heh... What a perk, what a perk...{p}{end}
+
+## MGK07 g0 s0435
+JP: アキラもよろこんでたし、{n}今日は、いうことないよな。{n}さて、俺も帰るとするかな。{p}{end}
+EN: Akira seemed happy too. Couldn't ask for more today. Well, guess I'll head home too.{p}{end}
+
+## MGK07 g0 s0436
+JP: ハァ……。{n}最近のプールというものは、{n}ずいぶん立派なものだねぇ……。{p}
+EN: My... Pools these days are certainly impressive...{p}
+
+## MGK07 g0 s0437
+JP: あはは……!{n}英雄先生、遅れてますね!{p}
+EN: Ahaha! You're behind the times, Hideo-sensei!{p}
+
+## MGK07 g0 s0438
+JP: 流水プールやスライダーなんかは、{n}当たり前ですよ。{p}
+EN: Lazy rivers and water slides are standard now.{p}
+
+## MGK07 g0 s0439
+JP: そうなのかね?{n}確かに、私は遅れてるのかもしれんな……。{n}ハハハ……。{p}
+EN: Is that so? Perhaps I am behind the times... Hahaha...{p}
+
+## MGK07 g0 s0440
+JP: それじゃあ、英雄先生!{n}俺、ちょっと泳いできますよ!{p}{end}
+EN: Okay, Hideo-sensei! I'm gonna go for a swim!{p}{end}
+
+## MGK07 g0 s0441
+JP: これこれ!{sp}待ちたまえ!{n}泳ぐ前には準備体操をしないといかんよ!{p}{end}
+EN: Now, now! Wait a moment! You must warm up before swimming!{p}{end}
+
+## MGK07 g0 s0442
+JP: じゃあ、英雄先生も一緒に{n}やりましょうよ!{p}
+EN: Then let's do it together, Hideo-sensei!{p}
+
+## MGK07 g0 s0443
+JP: あぁ、いいとも!{n}いい機会だから、島津家に伝わる体操術を{n}教えてあげよう!{p}
+EN: Ah, very well! This is a good chance. I'll teach you the exercises passed down in the Shimazu family!{p}
+
+## MGK07 g0 s0444
+JP: それでは、背筋の運動……。{p}
+EN: First, back exercises...{p}
+
+## MGK07 g0 s0445
+JP: イッチ{face:15}・{face:255}ニッ{face:15}・{face:255}サン{face:15}・{face:255}シ!{n}{face:15}正波拳!{face:255}{p}
+EN: One{face:15}-{face:255}two{face:15}-{face:255}three{face:15}-{face:255}four! {face:15}Seihaken!{face:255}{p}
+
+## MGK07 g0 s0446
+JP: 腕を大きく伸ばして……。{p}{end}
+EN: Stretch your arms out wide...{p}{end}
+
+## MGK07 g0 s0447
+JP: ニッ{face:15}・{face:255}ニッ{face:15}・{face:255}サン{face:15}・{face:255}シ!{n}{face:15}実直拳!{face:255}{p}{end}
+EN: Two{face:15}-{face:255}two{face:15}-{face:255}three{face:15}-{face:255}four! {face:15}Jicchokuken!{face:255}{p}{end}
+
+## MGK07 g0 s0448
+JP: そうそう!{sp}いいぞ!{n}さすがに、若いだけあって、{n}飲み込みが早いね。{p}{end}
+EN: That's it! Very good! You're young, so you pick it up quickly.{p}{end}
+
+## MGK07 g0 s0449
+JP: えへへ……、{n}そ、そうですか?{p}
+EN: Ehehe... R-really?{p}
+
+## MGK07 g0 s0450
+JP: {col:3}子供（兄）{col:-}{n}「あ～っ、変な体操～っ。」{p}
+EN: {col:3}Older Kid{col:-}{n}"Lookit, a weird exercise!"{p}
+
+## MGK07 g0 s0451
+JP: {col:3}子供（弟）{col:-}{n}「変な体操～っ。」{p}
+EN: {col:3}Younger Kid{col:-}{n}"Weird exercise!"{p}
+
+## MGK07 g0 s0452
+JP: （うーん。{n}{sp}やっぱり、変な体操に見えるか……）{p}{end}
+EN: (Hmm. So it does look like a weird exercise...){p}{end}
+
+## MGK07 g0 s0453
+JP: ハハハ……!{n}これは、変な体操じゃなくて、{n}島津流体操術というんだよ。{p}
+EN: Hahaha...! This isn't a weird exercise. It's called Shimazu-Style Calisthenics.{p}
+
+## MGK07 g0 s0454
+JP: どうかね?{n}君たちも一緒にやるかね?{p}{end}
+EN: What do you say? Would you like to join us?{p}{end}
+
+## MGK07 g0 s0455
+JP: {col:3}子供（兄）{col:-}{n}「やる～っ。」{p}
+EN: {col:3}Older Kid{col:-}{n}"Yeah!"{p}
+
+## MGK07 g0 s0456
+JP: {col:3}子供（弟）{col:-}{n}「やる～っ。」{p}
+EN: {col:3}Younger Kid{col:-}{n}"Yeah!"{p}
+
+## MGK07 g0 s0457
+JP: それでは、腰の運動……。{p}{end}
+EN: Next, hip exercises...{p}{end}
+
+## MGK07 g0 s0458
+JP: サン{face:15}・{face:255}ニッ{face:15}・{face:255}サン{face:15}・{face:255}シ!{n}{face:15}真円脚!{face:255}{p}{end}
+EN: Three{face:15}-{face:255}two{face:15}-{face:255}three{face:15}-{face:255}four! {face:15}Shinenkyaku!{face:255}{p}{end}
+
+## MGK07 g0 s0459
+JP: ハハハ……。{n}みんな、なかなかうまいぞぉ!{p}
+EN: Hahaha... You're all doing very well!{p}
+
+## MGK07 g0 s0461
+JP: よぉし、みんな!{n}準備運動は、これでおしまいだ。{n}存分に遊んできなさい。{p}{end}
+EN: All right, everyone! That's it for warm-ups. Go and have fun to your hearts' content.{p}{end}
+
+## MGK07 g0 s0462
+JP: {col:3}子供（兄）{col:-}{n}「水泳も教えて～っ。」{p}
+EN: {col:3}Older Kid{col:-}{n}"Teach us to swim too!"{p}
+
+## MGK07 g0 s0463
+JP: {col:3}子供（弟）{col:-}{n}「教えて～っ。」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"Teach us!"{p}{end}
+
+## MGK07 g0 s0464
+JP: い、いやぁ……、{n}それは、私ではどうにもならんよ……。{n}私自身泳げないんだからね……。{p}
+EN: W-well now... I'm afraid I can't help with that... I can't swim myself, you see...{p}
+
+## MGK07 g0 s0465
+JP: じゃあ、俺が教えますよ。{n}英雄先生も一緒に練習しませんか?{n}いい機会だし!{p}
+EN: Then I'll teach them. Why don't you practice with us, Hideo-sensei? It's a good chance!{p}
+
+## MGK07 g0 s0466
+JP: い、いやぁ……、私は……。{p}
+EN: W-well now... I...{p}
+
+## MGK07 g0 s0467
+JP: {col:3}子供（兄）{col:-}{n}「一緒にやろ～っ。」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Let's do it together!"{p}{end}
+
+## MGK07 g0 s0468
+JP: {col:3}子供（弟）{col:-}{n}「やろ～っ。」{p}
+EN: {col:3}Younger Kid{col:-}{n}"Together!"{p}
+
+## MGK07 g0 s0469
+JP: {col:3}子供（兄）{col:-}{n}「水は恐くないよ～っ。」{p}{end}
+EN: {col:3}Older Kid{col:-}{n}"Water's not scary!"{p}{end}
+
+## MGK07 g0 s0470
+JP: {col:3}子供（弟）{col:-}{n}「恐くないよ～っ。」{p}{end}
+EN: {col:3}Younger Kid{col:-}{n}"Not scary!"{p}{end}
+
+## MGK07 g0 s0471
+JP: ハハハ……!{n}だそうですよ?{n}子供にそういわれちゃ、引けないですね!{p}{end}
+EN: Hahaha...! You hear that? Can't back down when kids say that, right?{p}{end}
+
+## MGK07 g0 s0472
+JP: うぅ～ん……。{n}わかった……、一緒に教えてもらうよ。{p}{end}
+EN: Hmmm... Very well... I'll learn along with them.{p}{end}
+
+## MGK07 g0 s0473
+JP: フフフ……。{p}{end}
+EN: Heh heh...{p}{end}
+
+## MGK07 g0 s0474
+JP: いやぁ……、{n}泳げるようになったというには{n}ほど遠いが、水に慣れることはできたよ。{p}
+EN: Well... I'm far from being able to swim, but at least I got used to the water.{p}
+
+## MGK07 g0 s0475
+JP: たった1日で{n}あれだけできれば、十分ですよ!{p}{end}
+EN: That's plenty for just one day!{p}{end}
+
+## MGK07 g0 s0476
+JP: 六十の手習いならぬ、{n}四十の手習いだな!{n}ハハハ……。{p}
+EN: They say "never too old to learn," even at sixty. Well, I'm learning at forty! Hahaha...{p}
+
+## MGK07 g0 s0477
+JP: さぁて、私はそろそろ帰るとするよ。{n}{v0}{col:0}君{col:-}も、{n}気をつけて帰りなさい。{n}それじゃあ!{p}
+EN: Well, I'd better be heading home. Get home safely, {v0}{col:0}-kun{col:-}. Goodbye!{p}
+
+## MGK07 g0 s0478
+JP: 英雄先生も楽しんでたみたいだし、{n}誘ってよかったな……。{p}{end}
+EN: Hideo-sensei seemed to enjoy himself. I'm glad I invited him...{p}{end}
+
+## MGK07 g0 s0480
+JP: 遅いなぁ、響子先生……。{n}なにやってるんだろう……?{p}{end}
+EN: Kyoko-sensei's late... What's she doing...?{p}{end}
+
+## MGK07 g0 s0481
+JP: ごめんね、{v1}{col:0}クン{col:-}!{n}お待たせ。{p}
+EN: Sorry, {v1}{col:0}-kun{col:-}! Thanks for waiting.{p}
+
+## MGK07 g0 s0482
+JP: （おぉっ!{n}{sp}やっぱり、その辺の娘っ子とは{n}{sp}ボリュームが違うっていうか…その……）{p}{end}
+EN: (Whoa! She's in a whole different league from the girls around here... I mean, the volume... um...){p}{end}
+
+## MGK07 g0 s0483
+JP: ん?{sp}どうかした?{p}
+EN: Hm? Something wrong?{p}
+
+## MGK07 g0 s0484
+JP: あ、いやその……{p}{end}
+EN: Oh, uh, well...{p}{end}
+
+## MGK07 g0 s0485
+JP: 響子先生の水着姿、{n}カッコイイなぁって{n}思ったりなんかして……、えへへ。{p}{end}
+EN: I was just thinking you look really cool in a swimsuit, Kyoko-sensei... ehehe.{p}{end}
+
+## MGK07 g0 s0486
+JP: フフフ……、ありがとう。{n}でも、ホメても、なんにも出ないわよ。{p}
+EN: Hee hee, thank you. But flattery won't get you anything.{p}
+
+## MGK07 g0 s0487
+JP: さぁ、{n}向こうのプールから回ってみましょうよ。{p}
+EN: Come on, let's start with the pools over there.{p}
+
+## MGK07 g0 s0488
+JP: ハァハァ……。{p}
+EN: Huff, huff...{p}
+
+## MGK07 g0 s0489
+JP: 響子先生、元気ですねぇ。{n}こっちは、息があがってきちゃいましたよ。{p}
+EN: You've got so much energy, Kyoko-sensei. I'm getting winded here.{p}
+
+## MGK07 g0 s0490
+JP: フフフ……、{n}なに情けないこといってるのよ。{p}{end}
+EN: Hee hee... Don't be such a wimp.{p}{end}
+
+## MGK07 g0 s0491
+JP: でも、ちょっとノドが渇いちゃったわね。{n}休憩しましょ。{p}
+EN: Still, I'm a little thirsty. Let's take a break.{p}
+
+## MGK07 g0 s0492
+JP: それなら、{n}俺、飲み物買ってきますよ。{p}
+EN: Then I'll go buy us something to drink.{p}
+
+## MGK07 g0 s0493
+JP: 悪いわね。{n}じゃあ、お願いね。{p}
+EN: Thanks. I'll leave it to you, then.{p}
+
+## MGK07 g0 s0494
+JP: あ、しまった……。{p}
+EN: Oh, shoot...{p}
+
+## MGK07 g0 s0495
+JP: 響子先生に、{n}何が飲みたいか、聞くのを忘れたぞ……。{p}{end}
+EN: I forgot to ask Kyoko-sensei what she wanted to drink...{p}{end}
+
+## MGK07 g0 s0496
+JP: うーん……。{p}{end}
+EN: Hmmm...{p}{end}
+
+## MGK07 g0 s0497
+JP: ……って、悩むまでもなく、{n}響子先生は、ビールなんだろうなぁ……、{n}やっぱり……。{p}
+EN: ...Then again, there's nothing to think about. Kyoko-sensei's gonna want a beer... obviously...{p}
+
+## MGK07 g0 s0498
+JP: 響子先生のビールと{n}俺の分のジュースを買って{n}戻るとするかな。{p}
+EN: I'll grab a beer for Kyoko-sensei and a juice for me, then head back.{p}
+
+## MGK07 g0 s0499
+JP: 響子先生、お待たせしましたぁ。{n}ビール買ってきましたよ。{p}{end}
+EN: Sorry to keep you waiting, Kyoko-sensei. I got you a beer.{p}{end}
+
+## MGK07 g0 s0500
+JP: あら、気がきくじゃない!{p}{end}
+EN: Oh my, aren't you thoughtful!{p}{end}
+
+## MGK07 g0 s0501
+JP: ビールが飲みたいなって思ってたんだけど、{n}生徒にビール買ってきてって{n}いえないしね……。{p}{end}
+EN: I was just thinking I could go for a beer, but I can't exactly ask a student to buy me one...{p}{end}
+
+## MGK07 g0 s0502
+JP: ガマンしようと思ってたんだけど、{n}買ってきちゃったんだったら{n}仕方ないわよね!{p}
+EN: I was going to tough it out, but since you already bought it, I guess it can't be helped!{p}
+
+## MGK07 g0 s0503
+JP: いただきまぁーす。{p}
+EN: Don't mind if I do!{p}
+
+## MGK07 g0 s0504
+JP: （グビグビグビ……）{p}{end}
+EN: (Glug glug glug...){p}{end}
+
+## MGK07 g0 s0505
+JP: （ハハハ……。{n}{sp}ホント、おいしそうに飲むなぁ……）{p}{end}
+EN: (Hahaha... She really makes it look tasty...){p}{end}
+
+## MGK07 g0 s0506
+JP: じゃあ、俺もひと休みするかな。{p}
+EN: Guess I'll take a break too.{p}
+
+## MGK07 g0 s0508
+JP: コォラ、{v1}{col:0}クン{col:-}!{p}{end}
+EN: He-ey, {v1}{col:0}-kun{col:-}!{p}{end}
+
+## MGK07 g0 s0509
+JP: ハ、ハイ!?{p}{end}
+EN: Y-yes!?{p}{end}
+
+## MGK07 g0 s0510
+JP: いつまで、ジュースなんか{n}チビチビ飲んでるのよぉ～っ。{p}
+EN: How long are you gonna sit there sipping that juice~?{p}
+
+## MGK07 g0 s0511
+JP: へ?{n}（も、もしかして……、{n}{sp}響子先生、酔ってる?）{p}
+EN: Huh? (W-wait... is Kyoko-sensei drunk?){p}
+
+## MGK07 g0 s0512
+JP: さぁ、休憩はおしまい!!{n}行くわよ!{p}{end}
+EN: Okay, break's over!! Let's go!{p}{end}
+
+## MGK07 g0 s0513
+JP: 酔っ払ってプールに入ったら{n}危ないですってば!{p}
+EN: It's dangerous to swim drunk, I'm telling you!{p}
+
+## MGK07 g0 s0514
+JP: へーき、へーき!{n}あはは……!{p}
+EN: I'm fine, I'm fine! Ahaha...!{p}
+
+## MGK07 g0 s0515
+JP: ………{v1}{col:0}クン{col:-}!……{n}……{v1}{col:0}クン{col:-}……{p}
+EN: ...{v1}{col:0}-kun{col:-}!... ...{v1}{col:0}-kun{col:-}...{p}
+
+## MGK07 g0 s0516
+JP: う…う～ん………{n}…あ…れ………{n}俺……どう…したんだろう………。{p}
+EN: Ngh... mmm... Wha...? What... happened... to me...{p}
+
+## MGK07 g0 s0517
+JP: よかった……、気が付いたわ!{p}{end}
+EN: Thank goodness... You're awake!{p}{end}
+
+## MGK07 g0 s0518
+JP: 本当に、ごめんなさい。{p}
+EN: I'm so sorry.{p}
+
+## MGK07 g0 s0519
+JP: 私が無理に引っ張っていったから、{n}{v1}{col:0}クン{col:-}、{n}おぼれちゃったのよ……。{p}{end}
+EN: It's my fault for dragging you along. You nearly drowned, {v1}{col:0}-kun{col:-}...{p}{end}
+
+## MGK07 g0 s0520
+JP: （なんで、{n}{sp}酔っ払ってた響子先生が無事で{n}{sp}俺がおぼれてるんだよぉ……）{p}
+EN: (How come Kyoko-sensei was the drunk one, but I'm the one who drowned...){p}
+
+## MGK07 g0 s0521
+JP: まさか、{n}ホントに人工呼吸することが{n}あるとはねぇ……。{p}{end}
+EN: Who'd have thought I'd actually have to give someone mouth-to-mouth...{p}{end}
+
+## MGK07 g0 s0522
+JP: じ、人工呼吸?{n}響子先生の!?{n}覚えてないぞ!!{p}{end}
+EN: M-mouth-to-mouth? From Kyoko-sensei!? I don't remember that!!{p}{end}
+
+## MGK07 g0 s0523
+JP: 当たり前でしょ。{n}気を失ってたんだから……。{p}{end}
+EN: Of course not. You were out cold...{p}{end}
+
+## MGK07 g0 s0524
+JP: でも、ホント無事でよかったわ。{p}
+EN: But I'm really glad you're okay.{p}
+
+## MGK07 g0 s0525
+JP: （響子先生の人工呼吸……{n}{sp}人工呼吸かぁ……）{p}
+EN: (Mouth-to-mouth from Kyoko-sensei... mouth-to-mouth...){p}
+
+## MGK07 g0 s0526
+JP: （かなり得した気分だけど、{n}{sp}覚えてないぞぉ……）{p}
+EN: (Feels like I hit the jackpot, but I don't remember a thing...){p}
+
+## MGK07 g0 s0527
+JP: ねぇ、{v1}{col:0}クン{col:-}……。{n}体の方は、大丈夫?{p}
+EN: Hey, {v1}{col:0}-kun{col:-}... How are you feeling?{p}
+
+## MGK07 g0 s0528
+JP: えぇ、ご心配なく。{n}なんともないですよ。{p}{end}
+EN: Oh, don't worry. I'm totally fine.{p}{end}
+
+## MGK07 g0 s0529
+JP: そう、よかった……。{p}{end}
+EN: Good, I'm glad...{p}{end}
+
+## MGK07 g0 s0530
+JP: じゃあ、私はここで……。{n}帰ったら、ちゃんと休んでね。{n}さようなら、{v1}{col:0}クン{col:-}。{p}{end}
+EN: Well, I'll be going now... Get some rest when you get home. Bye, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MGK07 g0 s0531
+JP: うーん……。{n}アヤウいところだったけど、{n}響子先生が人工呼吸してくれたんなら、{n}別にイイかなぁ……なんて。{p}
+EN: Hmm... That was a close call, but if Kyoko-sensei gave me mouth-to-mouth, maybe it was worth it... Just kidding.{p}
+
+## MGK07 g0 s0532
+JP: 響子先生も楽しそうだったし、{n}誘ってよかったな……。{n}さて、俺も帰るとするかな。{p}{end}
+EN: Kyoko-sensei seemed to have fun too. I'm glad I invited her... Well, guess I'll head home too.{p}{end}
+
+## MGK07 g0 s0533
+JP: ほぉ……。{n}一般の施設にしては、{n}たいしたものだな。{p}{end}
+EN: Hmm... Quite impressive for a public facility.{p}{end}
+
+## MGK07 g0 s0534
+JP: フフフ……。{n}ここは、できたばかりですからね。{p}
+EN: Heh heh... This place just opened, after all.{p}
+
+## MGK07 g0 s0535
+JP: いろんなプールがあるのが、{n}ウリになってるみたいですよ。{p}{end}
+EN: Apparently all the different pools are its big selling point.{p}{end}
+
+## MGK07 g0 s0536
+JP: では、向こうから{n}回ってみるとするか?{p}
+EN: Shall we start over there, then?{p}
+
+## MGK07 g0 s0537
+JP: ん?{sp}なんの騒ぎだ?{p}{end}
+EN: Hm? What is all the commotion?{p}{end}
+
+## MGK07 g0 s0538
+JP: あぁ……、{n}なにかイベントをやってるんですよ。{p}
+EN: Ah... They're holding some kind of event.{p}
+
+## MGK07 g0 s0540
+JP: 「スイカ割り大会開催中!{n}{sp}大会参加者には、{n}{sp}スイカを無料サービス!」……かぁ。{p}
+EN: "Watermelon Splitting Contest! Free watermelon for all contestants!"... huh.{p}
+
+## MGK07 g0 s0541
+JP: フンッ!{n}くだらん俗物どもの遊びだ。{n}行くぞ、{v0}。{p}
+EN: Hmph! A pastime for the vulgar masses. Come, {v0}.{p}
+
+## MGK07 g0 s0542
+JP: あはは……、{n}そ、そうですよね……。{p}{end}
+EN: Ahaha... R-right, of course...{p}{end}
+
+## MGK07 g0 s0543
+JP: ちょっと、スイカ食べたいなとか{n}思っちゃいましたけど……。{p}
+EN: Though I was kinda thinking I'd like some watermelon...{p}
+
+## MGK07 g0 s0544
+JP: {col:3}プールの係員{col:-}{n}「さようでございますか!{n}{sp}でしたら、是非ご参加をッ!!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Is that so! Then by all means, please join in!!"{p}{end}
+
+## MGK07 g0 s0545
+JP: うわぁっっ!!{n}なんですか、アンタは!?{p}{end}
+EN: Whoa!! Who the heck are you!?{p}{end}
+
+## MGK07 g0 s0546
+JP: {col:3}プールの係員{col:-}{n}「申し遅れました。{n}{sp}私は、このプールの責任者で{n}{sp}ございます。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Forgive me for not introducing myself. I am the manager of this pool."{p}{end}
+
+## MGK07 g0 s0547
+JP: {col:3}プールの係員{col:-}{n}「参加していただいたお客様には、{n}{sp}無料でスイカをサービスさせて{n}{sp}いただいております。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"All of our contestants receive free watermelon, compliments of the house."{p}{end}
+
+## MGK07 g0 s0548
+JP: {col:3}プールの係員{col:-}{n}「さぁどうぞ、{n}{sp}こちらでございます!{n}{sp}ご遠慮なさらず……どうぞどうぞ。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Right this way, please! No need to be shy... come, come."{p}
+
+## MGK07 g0 s0549
+JP: おいっ!{sp}よせ!!{n}放さないか!!{p}
+EN: Hey! Stop that!! Unhand me!!{p}
+
+## MGK07 g0 s0550
+JP: う、うーん。{n}結局、引っ張って{n}こられちゃいましたね……。{p}
+EN: Uh, well... We got dragged in after all...{p}
+
+## MGK07 g0 s0551
+JP: あの責任者とやら、{n}ただ者ではないな……。{n}この私の後ろを、たやすく取るとは……。{p}
+EN: That so-called manager is no ordinary man... To get behind me so easily...{p}
+
+## MGK07 g0 s0552
+JP: あの……、{n}気が進まないなら、{n}俺がやりましょうか?{p}{end}
+EN: Um... If you're not into it, should I do it?{p}{end}
+
+## MGK07 g0 s0553
+JP: いや、俗人どもの勝負に{n}背中を見せたとあっては、{n}忌野家の恥……。{p}
+EN: No. Turning my back on a contest of commoners would disgrace the Imawano name...{p}
+
+## MGK07 g0 s0554
+JP: 私がやろう。{p}{end}
+EN: I shall do it.{p}{end}
+
+## MGK07 g0 s0555
+JP: {col:3}プールの係員{col:-}{n}「それでは、次の方は、{n}{sp}準備をお願いいたします。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"Will the next contestant please get ready."{p}
+
+## MGK07 g0 s0556
+JP: じゃあ、雹さん!{n}ガンバってください!{n}応援しますからね!{p}
+EN: Go get 'em, Hyo-san! I'm cheering for you!{p}
+
+## MGK07 g0 s0557
+JP: フフフ……、問題ない。{n}少し待っていてくれ。{p}{end}
+EN: Heh heh... Not a problem. Wait here a moment.{p}{end}
+
+## MGK07 g0 s0558
+JP: {col:3}プールの係員{col:-}{n}「それでは……{n}{sp}よぉ～い、スタート!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"And now... ready, start!"{p}
+
+## MGK07 g0 s0559
+JP: （さぁて、はじまったぞ!）{p}
+EN: (Here we go, it's started!){p}
+
+## MGK07 g0 s0560
+JP: （普通に応援したんじゃあ、{n}{sp}周りの観客がうるさくて、{n}{sp}雹さんに聞こえないからな……）{p}{end}
+EN: (If I just cheer normally, the crowd's so loud that Hyo-san won't hear me...){p}{end}
+
+## MGK07 g0 s0561
+JP: （ここはひとつ、{n}{sp}雹さんの鋭さに賭けて、{n}{sp}心で念じてみよう……ムムムム……）{p}{end}
+EN: (So I'll bet on Hyo-san's sharp senses and send him my thoughts... Hnnnnn...){p}{end}
+
+## MGK07 g0 s0563
+JP: （そこッ!!）{p}
+EN: (There!!){p}
+
+## MGK07 g0 s0564
+JP: （スパッッ!!）{p}{end}
+EN: (Slash!!){p}{end}
+
+## MGK07 g0 s0566
+JP: （パカッ!!）{p}
+EN: (Crack!!){p}
+
+## MGK07 g0 s0567
+JP: {col:3}観客{col:-}{n}「おおぉぉっっっ!!!」{p}
+EN: {col:3}Crowd{col:-}{n}"Ooooohhh!!!"{p}
+
+## MGK07 g0 s0568
+JP: {col:3}プールの係員{col:-}{n}「……ス、スイカが真っ二つに!!{n}{sp}お、おめでとうございます!」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"...Th-the watermelon's split clean in two!! C-congratulations!"{p}
+
+## MGK07 g0 s0569
+JP: {col:3}プールの係員{col:-}{n}「で、では……、{n}{sp}このスイカを切り整えますので、{n}{sp}あちらでお召し上がりくださいませ!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"W-well then... We'll cut this watermelon up for you, so please enjoy it over there!"{p}{end}
+
+## MGK07 g0 s0570
+JP: あははっ!!{n}スゴイですよ!{sp}雹さん!{p}
+EN: Ahaha!! That was amazing, Hyo-san!{p}
+
+## MGK07 g0 s0571
+JP: バットで、{n}スイカが真っ二つになるなんて!{p}
+EN: You split a watermelon clean in half with a bat!{p}
+
+## MGK07 g0 s0572
+JP: {v0}が叫んだと{n}思ったところで、{n}自然と振り抜いてしまったのだ。{p}
+EN: The moment I thought I heard you shout, {v0}, I swung without thinking.{p}
+
+## MGK07 g0 s0573
+JP: しかも、真剣を振るような{n}鋭い手応えだった……。{p}{end}
+EN: And it felt as sharp as swinging a real sword...{p}{end}
+
+## MGK07 g0 s0574
+JP: （うーむ。{n}{sp}心で念じたのが、{n}{sp}ホントに効いたのかも……）{p}{end}
+EN: (Hmm. Maybe sending my thoughts actually worked...){p}{end}
+
+## MGK07 g0 s0575
+JP: さぁ、{n}スイカでも食べて、{n}ひと休みするとするか。{p}
+EN: Now, let us have some watermelon and rest awhile.{p}
+
+## MGK07 g0 s0576
+JP: そうですね!{p}{end}
+EN: Sounds good!{p}{end}
+
+## MGK07 g0 s0577
+JP: 今日は、{n}有意義な時間を過ごすことができた。{n}良い気晴らしになったぞ。{p}
+EN: Today was time well spent. It was a fine diversion.{p}
+
+## MGK07 g0 s0578
+JP: 俺も楽しかったです。{n}でも、ホントにスゴかったなぁ……、{n}スイカを真っ二つにしたんだから……。{p}
+EN: I had fun too. But that was really amazing... You split the watermelon clean in half...{p}
+
+## MGK07 g0 s0579
+JP: フフ……。{n}{v0}の応援のおかげだ。{p}{end}
+EN: Heh... I owe it to your cheering, {v0}.{p}{end}
+
+## MGK07 g0 s0580
+JP: では、私はここで失礼する。{n}またな……。{p}{end}
+EN: Well, I shall take my leave. Until next time...{p}{end}
+
+## MGK07 g0 s0581
+JP: 雹さんも楽しんでくれたみたいだし、{n}ホント、誘ってよかったよ……。{p}
+EN: Hyo-san seemed to have a good time too. I'm really glad I invited him...{p}
+
+## MGK07 g0 s0583
+JP: ずいぶん立派なところだな、{n}驚いた。{p}{end}
+EN: Quite a fancy place. I'm impressed.{p}{end}
+
+## MGK07 g0 s0586
+JP: では、その辺から{n}ブラブラと回ってみるとするか?{p}{end}
+EN: Well, shall we wander around from over there?{p}{end}
+
+## MGK07 g0 s0587
+JP: ほぉ……、{n}飛び込み台か……。{p}
+EN: Hoh... A diving board, huh...{p}
+
+## MGK07 g0 s0588
+JP: 一番上は、{n}け、結構高いですね……。{p}{end}
+EN: Th-the top one's pretty high...{p}{end}
+
+## MGK07 g0 s0589
+JP: どうだ、{v4:17}の{n}訓練の成果を見せてくれないか?{p}
+EN: How about it, {v4:17}? Show me what your training's done for you.{p}
+
+## MGK07 g0 s0590
+JP: 自分の実力に、{n}ふさわしいと思う高さから{n}飛んでみせてくれ。{p}{end}
+EN: Jump from whatever height you think matches your ability.{p}{end}
+
+## MGK07 g0 s0591
+JP: （そ、そうだなぁ……）{p}
+EN: (L-let's see...){p}
+
+## MGK07 g0 s0592
+JP: （い、一番低い、3メートルかな……）{p}{end}
+EN: (M-maybe the lowest one, three meters...){p}{end}
+
+## MGK07 g0 s0593
+JP: じゃあ、3メートルから{n}飛ぶことにします。{p}
+EN: Okay, I'll jump from three meters.{p}
+
+## MGK07 g0 s0594
+JP: わかった。{n}俺は下で見ているからな。{p}{end}
+EN: All right. I'll be watching from down here.{p}{end}
+
+## MGK07 g0 s0595
+JP: さてと……、{n}飛び込み台の上から下を見ても……、{n}思ったよりは、平気だな。{p}
+EN: Okay... Looking down from up here... it's not as bad as I thought.{p}
+
+## MGK07 g0 s0596
+JP: これなら、{n}ビシッと決めれるかも!{n}それっ!{p}{end}
+EN: I might actually nail this! Here goes!{p}{end}
+
+## MGK07 g0 s0597
+JP: （ザッパァァァン!!）{p}
+EN: (SPLAAASH!!){p}
+
+## MGK07 g0 s0598
+JP: プハッ!!{p}
+EN: Pwah!!{p}
+
+## MGK07 g0 s0599
+JP: （よしよし!{n}{sp}余裕がある分、{n}{sp}フォームもうまくできたぞ）{p}{end}
+EN: (All right! Since I had room to spare, my form came out great too){p}{end}
+
+## MGK07 g0 s0600
+JP: 見事な飛び込みだった……。{n}しかし、{v4:17}の実力に{n}見合った高さだとはいえないな。{p}{end}
+EN: A fine dive... But I can't say that height matched your ability, {v4:17}.{p}{end}
+
+## MGK07 g0 s0601
+JP: あの様子ならば、{n}もう少し高いところからでも{n}飛び込める力があるはずだ。{p}{end}
+EN: From the look of it, you could have dived from a bit higher.{p}{end}
+
+## MGK07 g0 s0602
+JP: 自分の力を過大評価するのは危険だが、{n}過小評価するのも問題だ。{p}
+EN: Overestimating yourself is dangerous, but underestimating yourself is a problem too.{p}
+
+## MGK07 g0 s0603
+JP: 「己の力を知る」……。{n}難しいことだが、それができなければ、{n}良い成果を得ることはできないぞ。{p}
+EN: "Know your own strength"... It's hard, but if you can't do it, you'll never get good results.{p}
+
+## MGK07 g0 s0604
+JP: （そ、そういわれると{n}{sp}そうだよなぁ……）{p}
+EN: (W-well, when he puts it like that... he's right...){p}
+
+## MGK07 g0 s0605
+JP: 今日は試すようなことをして、{n}すまなかったな。{p}
+EN: Sorry for testing you like that today.{p}
+
+## MGK07 g0 s0606
+JP: 全然、構いませんよ。{n}勉強になりました。{p}{end}
+EN: No, not at all. I learned a lot.{p}{end}
+
+## MGK07 g0 s0607
+JP: フフ……、そうか。{p}
+EN: Heh... I see.{p}
+
+## MGK07 g0 s0608
+JP: では、俺はここで……。{n}じゃあな、{v4:17}。{p}{end}
+EN: Well, I'll be off... See ya, {v4:17}.{p}{end}
+
+## MGK07 g0 s0609
+JP: うーん。{n}「己の力を知る」かぁ……。{p}{end}
+EN: Hmm. "Know your own strength," huh...{p}{end}
+
+## MGK07 g0 s0610
+JP: やっぱり、醍醐先輩からは{n}学ぶことが多いよな。{p}
+EN: I sure learn a lot from Daigo-senpai.{p}
+
+## MGK07 g0 s0612
+JP: さぁてと、{n}まずは、どのプールで遊びましょうか?{p}{end}
+EN: So, which pool should we try first?{p}{end}
+
+## MGK07 g0 s0613
+JP: ここはできたばかりなんですよ。{n}いろんなプールがあって、面白いですよ。{p}
+EN: This place just opened. It's got all kinds of pools, so it's really fun.{p}
+
+## MGK07 g0 s0614
+JP: …………あっちだ、行こう……。{p}
+EN: ...Over there... let's go...{p}
+
+## MGK07 g0 s0615
+JP: へ!?{n}あ、ハイ……。{p}
+EN: Huh!? Oh, okay...{p}
+
+## MGK07 g0 s0616
+JP: …………ここだ……。{p}{end}
+EN: ...Here...{p}{end}
+
+## MGK07 g0 s0617
+JP: ……って、{n}普通の競技用プールじゃないですか。{p}
+EN: ...Wait, this is just a regular lap pool.{p}
+
+## MGK07 g0 s0618
+JP: せっかくなんだから、{n}なにか他の変わったプールで{n}遊びませんか?{p}{end}
+EN: Since we came all this way, why don't we try one of the unusual pools?{p}{end}
+
+## MGK07 g0 s0619
+JP: あれ……?{n}流さん、どこ行っちゃったんだろう……。{p}
+EN: Huh...? Where'd Nagare-san go...{p}
+
+## MGK07 g0 s0620
+JP: （バシャバシャバシャッッ!!）{p}
+EN: (Splash splash splash!!){p}
+
+## MGK07 g0 s0621
+JP: へ!?{n}バシャバシャって……。{n}あ!{sp}もうひとりで泳ぎ始めてる!{p}{end}
+EN: Huh!? Splashing... Ah! He already started swimming on his own!{p}{end}
+
+## MGK07 g0 s0622
+JP: もう、ヒドイなぁ……。{n}ひと声かけてくれれば、イイのに……。{p}{end}
+EN: Geez, that's mean... He could've at least said something...{p}{end}
+
+## MGK07 g0 s0623
+JP: しょうがない……。{n}他のプールはあきらめて、{n}俺も一緒に泳ぐとするかな……。{p}{end}
+EN: Oh well... Forget the other pools. Guess I'll swim with him...{p}{end}
+
+## MGK07 g0 s0624
+JP: フゥフゥ……。{n}ちょっと、疲れましたね……。{p}{end}
+EN: Phew... I'm a little tired...{p}{end}
+
+## MGK07 g0 s0625
+JP: …………あぁ……。{n}ひと休みしよう……。{p}{end}
+EN: ...Yeah... Let's take a break...{p}{end}
+
+## MGK07 g0 s0626
+JP: （パチパチパチ……）{p}{end}
+EN: (Clap clap clap...){p}{end}
+
+## MGK07 g0 s0627
+JP: {col:3}プールの係員{col:-}{n}「おふたりとも、素晴らしい泳ぎで{n}{sp}ございました……」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"You both swim splendidly..."{p}{end}
+
+## MGK07 g0 s0628
+JP: なんだい、アンタは?{p}{end}
+EN: And who are you?{p}{end}
+
+## MGK07 g0 s0630
+JP: {col:3}プールの係員{col:-}{n}「実は、新しいイベント用のプールを{n}{sp}開発中なのですが……」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"You see, we are developing a pool for a new event..."{p}
+
+## MGK07 g0 s0631
+JP: {col:3}プールの係員{col:-}{n}「是非、泳ぎが達者でおられる{n}{sp}おふたりに{n}{sp}試していただきたいのです。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"We would very much like two fine swimmers such as yourselves to try it out."{p}{end}
+
+## MGK07 g0 s0632
+JP: {col:3}プールの係員{col:-}{n}「いかがでございますか……?」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"What do you say...?"{p}{end}
+
+## MGK07 g0 s0633
+JP: ……なんかウサンクサイですね。{n}やめといた方がイイですよ……。{p}
+EN: ...This sounds kinda fishy. We'd better pass...{p}
+
+## MGK07 g0 s0634
+JP: …………そうだな……。{n}では、案内してもらおうか……。{p}
+EN: ...Yeah... Then, lead the way...{p}
+
+## MGK07 g0 s0635
+JP: （えぇっ!?{sp}それって……、{n}{sp}ウサンクサイってことには合意だけど、{n}{sp}結局やるって意味かな?）{p}{end}
+EN: (Whaa!? So... he agrees it's fishy, but he's doing it anyway?){p}{end}
+
+## MGK07 g0 s0636
+JP: {col:3}プールの係員{col:-}{n}「おぉっ!!{n}{sp}やっていただけますか!!{n}{sp}ささっ、ではこちらにどうぞ……!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Ohh!! You'll do it!! This way, this way, please...!"{p}{end}
+
+## MGK07 g0 s0637
+JP: {col:3}プールの係員{col:-}{n}「さぁ、こちらでございます。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Here we are."{p}{end}
+
+## MGK07 g0 s0638
+JP: なんだ。{n}さっきと同じ、競技用プールですね。{p}{end}
+EN: Huh. It's the same lap pool as before.{p}{end}
+
+## MGK07 g0 s0639
+JP: …………そうだな……。{p}
+EN: ...Yeah...{p}
+
+## MGK07 g0 s0640
+JP: {col:3}プールの係員{col:-}{n}「このプールを泳ぎ切ることができれば、{n}{sp}参加者の勝ちとする予定でございます。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"If you can swim the length of this pool, you win. That is the plan."{p}
+
+## MGK07 g0 s0641
+JP: そんなの楽勝じゃないか。{n}たった50メートルなんだし!{p}
+EN: That's a piece of cake. It's only 50 meters!{p}
+
+## MGK07 g0 s0642
+JP: さっさと、はじめようよ!{p}{end}
+EN: Let's get started already!{p}{end}
+
+## MGK07 g0 s0643
+JP: ん?{sp}プールに何かいるみたいだぞ。{n}魚……かな?{p}{end}
+EN: Hm? Looks like something's in the pool. Fish...?{p}{end}
+
+## MGK07 g0 s0644
+JP: {col:3}プールの係員{col:-}{n}「申し上げるのを忘れるところでした。{n}{sp}南米より取り寄せた、{n}{sp}肉食魚でございます。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"I nearly forgot to mention it. These are carnivorous fish, imported from South America."{p}{end}
+
+## MGK07 g0 s0645
+JP: {col:3}プールの係員{col:-}{n}「口も小さいですし、多少カジられても、{n}{sp}たいしたことないでしょう。{n}{sp}……たぶん。」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"Their mouths are small, so a nibble or two shouldn't be serious. ...Probably."{p}{end}
+
+## MGK07 g0 s0646
+JP: あわわ……。{n}人食い魚!!{p}
+EN: Aaah... Man-eating fish!!{p}
+
+## MGK07 g0 s0647
+JP: …………説明は、よくわかった……。{n}はじめよう……。{p}{end}
+EN: ...I understand the explanation... Let's begin...{p}{end}
+
+## MGK07 g0 s0648
+JP: （えぇっ!!{sp}やるのぉ!!）{p}{end}
+EN: (Whaaat!! He's doing it!!){p}{end}
+
+## MGK07 g0 s0649
+JP: （でも、普通にやったんじゃあ、{n}{sp}カジられちゃうよな……）{p}
+EN: (But if I swim normally, I'll get nibbled...){p}
+
+## MGK07 g0 s0650
+JP: （うーん……。{n}{sp}予想では、大丈夫なんだけどな……）{p}{end}
+EN: (Hmm... If my guess is right, I'll be fine, though...){p}{end}
+
+## MGK07 g0 s0651
+JP: （流さんの後方について、{n}{sp}泳いでみるかな!）{p}
+EN: (I'll try swimming right behind Nagare-san!){p}
+
+## MGK07 g0 s0652
+JP: {col:3}プールの係員{col:-}{n}「それでは、{n}{sp}よぉ～い、スタート!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"And now, ready... start!"{p}{end}
+
+## MGK07 g0 s0654
+JP: （おぉっ!{n}{sp}やっぱり思ったとおりだ!）{p}{end}
+EN: (Ooh! Just like I thought!){p}{end}
+
+## MGK07 g0 s0655
+JP: （流さんの泳ぎでできた水流で、{n}{sp}魚は近づけないんだ!）{p}{end}
+EN: (The current from Nagare-san's swimming keeps the fish away!){p}{end}
+
+## MGK07 g0 s0656
+JP: （ザッパァァァァンッ!!）{p}
+EN: (SPLAAASH!!){p}
+
+## MGK07 g0 s0657
+JP: よかった……。{n}カジられずに済んだぞ!{p}
+EN: Phew... I didn't get nibbled!{p}
+
+## MGK07 g0 s0658
+JP: あ、流さん!{n}もちろん、大丈夫ですよね?{p}{end}
+EN: Oh, Nagare-san! You're fine too, of course?{p}{end}
+
+## MGK07 g0 s0659
+JP: …………あぁ、大丈夫だ……。{p}{end}
+EN: ...Yeah, I'm fine...{p}{end}
+
+## MGK07 g0 s0660
+JP: {col:3}プールの係員{col:-}{n}「いかがでございましたか?{n}{sp}このプールは……?」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"How did you find it? This pool...?"{p}{end}
+
+## MGK07 g0 s0661
+JP: …………なかなか、面白かった……。{n}いいんじゃないか……。{p}
+EN: ...It was... pretty fun... Not bad...{p}
+
+## MGK07 g0 s0662
+JP: あはは……、そうですね!{p}{end}
+EN: Ahaha... Yeah!{p}{end}
+
+## MGK07 g0 s0663
+JP: 今日は、変なプールで遊べて、{n}楽しかったですね。{n}魚には、カジられなかったし……。{p}
+EN: That was fun today, playing in a weird pool. And the fish didn't get me...{p}
+
+## MGK07 g0 s0664
+JP: …………そうだな……。{n}後方につけるという機転は良かった。{p}
+EN: ...Yeah... Tailing me was a smart idea.{p}
+
+## MGK07 g0 s0665
+JP: …………そういう発想は、{n}スポーツマンにとって、大事な要素だ。{p}
+EN: ...That kind of thinking... is important for an athlete.{p}
+
+## MGK07 g0 s0666
+JP: …………それをすでに持っているとは、{n}スゴイな……。{p}{end}
+EN: ...And you already have it... That's impressive...{p}{end}
+
+## MGK07 g0 s0667
+JP: えへへ……、そうですか?{n}照れちゃうな……。{p}{end}
+EN: Hehe... You think so? You're making me blush...{p}{end}
+
+## MGK07 g0 s0668
+JP: …………{v4:18}と{n}一緒に泳ぐのは、励みになる……。{n}また、誘ってくれ……。{n}…………じゃあ、俺はここで……。{p}
+EN: ...Swimming with you, {v4:18}... motivates me... Invite me again... ...Well, I'll be going...{p}
+
+## MGK07 g0 s0669
+JP: 流さんにもほめられたし、{n}今日は、いうことないよ。{p}
+EN: Even Nagare-san praised me. Today was perfect.{p}
+
+## MGK07 g0 s0671
+JP: いたいた、{v4:19}!{n}遅い、遅ぉい!{p}{end}
+EN: There you are, {v4:19}! You're late, laaate!{p}{end}
+
+## MGK07 g0 s0672
+JP: （おぉっ!{sp}ランも……水着だと……{n}{sp}結構わりと……ナンだなぁとか……）{p}{end}
+EN: (Whoa! Ran in a swimsuit... is actually kinda... y'know... pretty...){p}{end}
+
+## MGK07 g0 s0673
+JP: ん?{n}ねぇ、{v4:19}?{p}
+EN: Hm? Hey, {v4:19}?{p}
+
+## MGK07 g0 s0674
+JP: （パシャ!）{p}{end}
+EN: (Snap!){p}{end}
+
+## MGK07 g0 s0675
+JP: な、なんだよ……、いきなり。{p}{end}
+EN: Wh-what was that for... out of nowhere.{p}{end}
+
+## MGK07 g0 s0676
+JP: どうしたの?{n}鼻の下のばしちゃって……。{p}{end}
+EN: What's up? You've got such a goofy look on your face...{p}{end}
+
+## MGK07 g0 s0677
+JP: な、なんでもないよ。{n}それより、そんな使い方してたら、{n}フィルムがいくつあっても足りないぜ。{n}新聞用の取材もするっていってたろ?{p}{end}
+EN: N-nothing. Anyway, shoot like that and you'll run out of film. Didn't you say you're covering this for the paper too?{p}{end}
+
+## MGK07 g0 s0678
+JP: おっと、いけない……。{n}それもそうだわ。{p}{end}
+EN: Oops, my bad... You've got a point.{p}{end}
+
+## MGK07 g0 s0679
+JP: じゃあ、これからその辺を撮ってくるから、{n}しばらく適当に遊んでてよ。{p}{end}
+EN: I'm gonna go take pictures around here, so go have fun or whatever for a while.{p}{end}
+
+## MGK07 g0 s0681
+JP: （バシャ!{sp}パシャ……!）{p}
+EN: (Click! Click...!){p}
+
+## MGK07 g0 s0682
+JP: どうだ、ラン。{n}いいのが撮れたか?{p}
+EN: So, Ran. Get any good ones?{p}
+
+## MGK07 g0 s0683
+JP: えぇ、バッチシ!{n}あなたの変な犬かきみたいな泳ぎが{n}一番よかったわ!{p}{end}
+EN: Yep, perfect! Your weird doggy-paddle swimming was the best shot!{p}{end}
+
+## MGK07 g0 s0684
+JP: 掲載決定ね!{n}フフフ……。{p}
+EN: That's going in the paper! Hee hee...{p}
+
+## MGK07 g0 s0685
+JP: なんだよ、それ!{n}マスメディアの暴力っぽいぞ!{p}
+EN: Hey, what the heck! That's abuse of media power!{p}
+
+## MGK07 g0 s0686
+JP: なにいってんの、{n}「報道の自由」っていうのよ!{p}
+EN: What're you talking about? It's called "freedom of the press"!{p}
+
+## MGK07 g0 s0687
+JP: まったく……、{n}ああいえば、こういう……。{p}
+EN: Geez... She's got an answer for everything...{p}
+
+## MGK07 g0 s0688
+JP: あははっ!{n}そんなことより、お腹すいたわね。{n}お昼にしましょ!{p}
+EN: Ahaha! Anyway, I'm hungry. Let's get lunch!{p}
+
+## MGK07 g0 s0689
+JP: あ?{sp}あぁ、{n}じゃあ、何か買ってくるよ。{n}なにがイイ?{p}
+EN: Huh? Oh, okay, I'll go buy something. What do you want?{p}
+
+## MGK07 g0 s0690
+JP: プールの定番、やきそば～。{p}
+EN: The pool classic, yakisoba~.{p}
+
+## MGK07 g0 s0691
+JP: やれやれ……。{n}今日はすっかり、ランのペースだな……。{n}何か、ギャフンといわせる手は{n}ないかな……。{p}{end}
+EN: Geez... Ran's been calling the shots all day... Isn't there some way to get back at her...{p}{end}
+
+## MGK07 g0 s0692
+JP: おっ!{sp}イイのがあるじゃないか!{n}この水鉄砲も買おう!{p}
+EN: Oh! Here's just the thing! I'll buy this water gun too!{p}
+
+## MGK07 g0 s0693
+JP: 背中を向けたときが、{n}オマエさんの最後だぜ!{sp}ラン!{n}……ククク。{p}
+EN: The moment you turn your back, it's all over for you, Ran! ...Heh heh heh.{p}
+
+## MGK07 g0 s0694
+JP: ハイ!{sp}やきそば、お待たせー。{p}
+EN: Here you go! One yakisoba.{p}
+
+## MGK07 g0 s0695
+JP: もう、お腹ペコペコ!{n}夏のプールといえば、{n}やっぱ、やきそばよね!{p}
+EN: I'm starving! Nothing says summer at the pool like yakisoba!{p}
+
+## MGK07 g0 s0696
+JP: （うーむ。やはり、食べ終わって{n}{sp}席を立ったところが狙い目か……）{p}
+EN: (Hmm. The time to strike is when she finishes eating and gets up...){p}
+
+## MGK07 g0 s0697
+JP: モグモグ……。{n}はい、ごちそうさま!{n}早く食べなさいよ。行くわよ!{p}
+EN: Munch munch... Okay, thanks for the food! Hurry up and eat. We're going!{p}
+
+## MGK07 g0 s0698
+JP: （よし!{sp}チャンス!!{n}{sp}ラン、オマエはイイ友達だったよ!{n}{sp}だが、これでサヨナラだ!{sp}くらえ!）{p}
+EN: (Yes! Now's my chance!! Ran, you were a good friend! But this is goodbye! Take this!){p}
+
+## MGK07 g0 s0699
+JP: （ピシューーッ!）{p}
+EN: (Pshoooo!){p}
+
+## MGK07 g0 s0700
+JP: （ジャバジャバッ!）{p}{end}
+EN: (Splish splash!){p}{end}
+
+## MGK07 g0 s0701
+JP: あ、あれ?{p}
+EN: Wh-what?{p}
+
+## MGK07 g0 s0702
+JP: フフフ……。{n}ワタシには、そんな攻撃は通用しないわ。{p}{end}
+EN: Hee hee... Attacks like that don't work on me.{p}{end}
+
+## MGK07 g0 s0703
+JP: や、やきそばの皿でガードした!?{p}{end}
+EN: Sh-she blocked it with the yakisoba plate!?{p}{end}
+
+## MGK07 g0 s0704
+JP: ちゃんと見てたのよ……。{n}アンタがそれを手にして、反逆の意志を{n}あらわにした瞬間を!{p}{end}
+EN: I was watching... I saw the moment you picked that up and revealed your treacherous intent!{p}{end}
+
+## MGK07 g0 s0705
+JP: ドキッ!!{p}
+EN: Gulp!!{p}
+
+## MGK07 g0 s0706
+JP: さぁ、それよこしなさいよ!{p}
+EN: Now, hand it over!{p}
+
+## MGK07 g0 s0707
+JP: （グワシィッ!）{p}{end}
+EN: (Grab!){p}{end}
+
+## MGK07 g0 s0708
+JP: あっ!{sp}オイ!{n}ラン、よせよ!!{p}{end}
+EN: Ah! Hey! Ran, cut it out!!{p}{end}
+
+## MGK07 g0 s0709
+JP: 男のクセに不意打ちって根性が{n}ミミチイわ!{p}
+EN: A sneak attack? That's real petty for a guy!{p}
+
+## MGK07 g0 s0710
+JP: その腐った性根をタタキ直してあげる!{n}それッ!{sp}それッ!{p}{end}
+EN: I'll beat that rotten attitude right out of you! Take that! And that!{p}{end}
+
+## MGK07 g0 s0711
+JP: つ、つめてぇ!{n}やめろよ!{sp}ラン!!{p}{end}
+EN: C-cold! Stop it, Ran!!{p}{end}
+
+## MGK07 g0 s0712
+JP: あははっ!{n}逃がさないわよっ!!{p}{end}
+EN: Ahaha! You're not getting away!!{p}{end}
+
+## MGK07 g0 s0713
+JP: まったく……。{n}余計ヒドイ目にあったぜ……。{p}{end}
+EN: Geez... That just made things worse...{p}{end}
+
+## MGK07 g0 s0714
+JP: くぷぷ……{n}ワタシに刃向かおうなんて、{n}10年早いってことね。{p}
+EN: Pfft... Trying to cross me? You're ten years too early.{p}
+
+## MGK07 g0 s0715
+JP: まぁ、おかげで{n}いい記事も書けそうだし、{n}ストレス解消にもなったわ!{p}{end}
+EN: Well, thanks to you, I think I can write a good article, and I blew off some steam too!{p}{end}
+
+## MGK07 g0 s0716
+JP: じゃあね!{n}フフフ……。{p}{end}
+EN: See ya! Hee hee...{p}{end}
+
+## MGK07 g0 s0717
+JP: なにが、「フフフ……」だよ。{p}{end}
+EN: What's with the "Hee hee..."?{p}{end}
+
+## MGK07 g0 s0718
+JP: でも、ランが楽しかったんなら、{n}まぁ良しとしてやるかな……。{n}さて、俺も帰ろ。{p}
+EN: Well, if Ran had fun, I guess I'll let it slide... Okay, time to head home.{p}
+
+## MGK07 g1 s0000
+JP: うわっ、もう期末試験じゃない!{n}この前中間試験受けたばっかりの{n}気がするのに。{p}
+EN: Whoa, finals already!? Feels like I just took midterms.{p}
+
+## MGK07 g1 s0001
+JP: 確か期末試験は{n}グラウンドで{n}実技試験のみっていってたわね。{n}早く行かなくちゃ。{p}{end}
+EN: I think they said the final is just a practical exam on the field. I'd better hurry.{p}{end}
+
+## MGK07 g1 s0009
+JP: こんなことになるなら{n}ちゃんとやっとけばよかったわ……。{p}{end}
+EN: If I'd known this would happen, I'd have studied properly...{p}{end}
+
+## MGK07 g1 s0010
+JP: はあ、試験問題は少なくて良かったけれど、{n}疲れた～。{p}{end}
+EN: Phew, at least there weren't many questions, but I'm beat~.{p}{end}
+
+## MGK07 g1 s0012
+JP: なんださくらじゃない、{n}いきなりどうしたの?{p}{end}
+EN: Oh, Sakura, it's you. What's up all of a sudden?{p}{end}
+
+## MGK07 g1 s0018
+JP: さくらと対戦すると{n}戦っていて気持ちが良いのは{n}なぜかしら……。{p}{end}
+EN: Why is it that fighting Sakura always feels so good...?{p}{end}
+
+## MGK07 g1 s0022
+JP: プールの入場券をもらったけど、{n}これって、ペアの招待券なのよね……。{p}{end}
+EN: I got tickets to the pool, but they're a pair invitation...{p}{end}
+
+## MGK07 g1 s0041
+JP: よし!{n}じゃあ、雹クンを誘って{n}出かけよう!{p}{end}
+EN: Okay! I'll invite Hyo-kun and head out!{p}{end}
+
+## MGK07 g1 s0044
+JP: よし!{n}じゃあ、流先輩を誘って{n}出かけよう!{p}{end}
+EN: Okay! I'll invite Nagare-senpai and head out!{p}{end}
+
+## MGK07 g1 s0045
+JP: よし!{n}じゃあ、ランちゃんを誘って{n}出かけよう!{p}{end}
+EN: Okay! I'll invite Ran-chan and head out!{p}{end}
+
+## MGK07 g1 s0048
+JP: そんなの気にしなくてイイわよ。{n}ちょっと、その辺りから{n}ブラブラと回ってみる?{p}
+EN: Don't worry about it. Wanna wander around over there for a bit?{p}
+
+## MGK07 g1 s0051
+JP: クロールでもなんでも、{n}オマエが得意なのでいいぜ!{p}
+EN: Freestyle, whatever, just pick the one you're best at!{p}
+
+## MGK07 g1 s0052
+JP: それじゃあ……、{n}背泳で勝負よ!{p}{end}
+EN: Okay then... Let's race backstroke!{p}{end}
+
+## MGK07 g1 s0057
+JP: （あれ!?{sp}バツの方が速い?）{p}
+EN: (Huh!? Is Batsu faster?){p}
+
+## MGK07 g1 s0061
+JP: だ、大丈夫?{n}バツ!{p}{end}
+EN: A-are you okay, Batsu!?{p}{end}
+
+## MGK07 g1 s0064
+JP: （う、う～ん……、スゴイ執念……。{n}{sp}お金が足りるかなぁ、{n}{sp}心配になってきたわ……）{p}
+EN: (Wh-whoa... What determination... Now I'm worried I won't have enough money...){p}
+
+## MGK07 g1 s0066
+JP: あ～ぁ、財布がからっぽよ……。{n}頭ぶつけたくせに、{n}ピンピンしてるんだから。{p}{end}
+EN: Aw man, my wallet's empty... He bonked his head, but he's totally fine.{p}{end}
+
+## MGK07 g1 s0069
+JP: 高くついちゃったけど、まぁイイか。{n}バツも喜んでたみたいだし……。{n}私も帰ろっと。{p}
+EN: It cost me a lot, but oh well. Batsu seemed happy... Guess I'll head home too.{p}
+
+## MGK07 g1 s0071
+JP: ごめんごめん!{n}{v8:1}、おまたせ～っ。{p}{end}
+EN: Sorry, sorry! {v8:1}, thanks for waiting~.{p}{end}
+
+## MGK07 g1 s0077
+JP: ねぇねぇ、{v8:1}!{n}イルカさんだよ!{p}
+EN: Hey hey, {v8:1}! It's a dolphin!{p}
+
+## MGK07 g1 s0078
+JP: え!?{sp}イルカ?{n}ああ、イルカの形のボートのことね。{p}{end}
+EN: Huh!? A dolphin? Oh, you mean the dolphin-shaped boats.{p}{end}
+
+## MGK07 g1 s0080
+JP: ねぇ、やってみようよ!{n}女どうしでも大丈夫だってさ。{n}さぁ、はやくはやく!{p}
+EN: Hey, let's try it! They said two girls is fine too. Come on, hurry hurry!{p}
+
+## MGK07 g1 s0083
+JP: （バ、バランスを取りながら漕ぐってのは、{n}{sp}結構ムズカシイわね……）{p}{end}
+EN: (P-paddling while keeping your balance is pretty tough...){p}{end}
+
+## MGK07 g1 s0084
+JP: （ひなたのリズムに合せよっ!{n}{sp}いっち、にーのっ、さーんっ!{n}{sp}いっち、にーのっ、さーんっ!）{p}
+EN: (I'll match Hinata's rhythm! One, two, three! One, two, three!){p}
+
+## MGK07 g1 s0090
+JP: ラッキー!{n}じゃあ、早速これで{n}お昼ごはんといかない?{p}
+EN: Lucky! Why don't we use this for lunch right away?{p}
+
+## MGK07 g1 s0091
+JP: 私、すっごくお腹がすいてるの!{n}覚悟してね、プールのコックさんたち!{p}{end}
+EN: I'm suuuper hungry! Brace yourselves, pool chefs!{p}{end}
+
+## MGK07 g1 s0094
+JP: ええ、{n}昼食代が予定と一ケタ違ってたよ。{n}払ってないけどねぇ……。{p}
+EN: Yeah. Lunch cost a whole digit more than I planned. Not that I paid, though...{p}
+
+## MGK07 g1 s0096
+JP: それじゃあ、バイバイ!{n}{v8:1}!{p}
+EN: See ya! Bye-bye, {v8:1}!{p}
+
+## MGK07 g1 s0097
+JP: ひなたもよろこんでたみたいだし、{n}今日は、安上がりでいうことないわ。{n}うんうん。{p}{end}
+EN: Hinata seemed happy, and today was cheap. Couldn't ask for more. Yep, yep.{p}{end}
+
+## MGK07 g1 s0098
+JP: さて、私も帰ろっかな。{p}
+EN: Well, guess I'll head home too.{p}
+
+## MGK07 g1 s0100
+JP: ここは、できたばかりみたいよ。{n}いろんなプールがあるらしいし。{p}
+EN: Looks like this place just opened. Apparently they've got all kinds of pools.{p}
+
+## MGK07 g1 s0101
+JP: 悪いな、{v7:2}。{n}わざわざ誘いに来てもらって。{p}{end}
+EN: Sorry, {v7:2}. You came all the way to invite me.{p}{end}
+
+## MGK07 g1 s0102
+JP: 気にしなくてイイわよ。{n}さぁ、向こうから見て回ろう!{p}{end}
+EN: Don't worry about it. Come on, let's start over there!{p}{end}
+
+## MGK07 g1 s0104
+JP: 何かイベントを{n}やってるんだわ。{p}{end}
+EN: There's some kind of event going on.{p}{end}
+
+## MGK07 g1 s0107
+JP: やったー!{n}恭介とペアで騎馬戦!{sp}えへへ。{p}
+EN: Yay! A piggyback battle with Kyosuke as my partner! Hehe.{p}
+
+## MGK07 g1 s0109
+JP: やっぱり、{n}恭介が上の方がイイと思うわ。{n}私が上なのはちょっと恥ずかしいし……。{p}{end}
+EN: I think Kyosuke should ride on top. It'd be kinda embarrassing if I did...{p}{end}
+
+## MGK07 g1 s0110
+JP: じゃあ、作戦は{n}{v7:2}に任すよ。{n}その方が動きやすいハズだからな。{p}{end}
+EN: Then I'll leave the strategy to you, {v7:2}. That should make it easier to move.{p}{end}
+
+## MGK07 g1 s0111
+JP: よぉし!{n}囲まれにくい、敵の外側から{n}リスクなく順に撃破していきましょ!{p}{end}
+EN: All right! Let's start from the outside, where they can't surround us, and pick them off one by one!{p}{end}
+
+## MGK07 g1 s0112
+JP: 私は、敵の外側へ、外側へと動くから、{n}あとは、恭介が順に潰していってね!{p}{end}
+EN: I'll keep moving us around the outside, and you take them out one at a time, Kyosuke!{p}{end}
+
+## MGK07 g1 s0115
+JP: そぉぉれっっ!!{p}{end}
+EN: Hiyaaah!!{p}{end}
+
+## MGK07 g1 s0116
+JP: （よぉし、イイ感じだわっ!{n}{sp}これなら、イケそうね!）{p}
+EN: (All right, this is going great! We can totally do this!){p}
+
+## MGK07 g1 s0122
+JP: ま、そういうことネ!{p}{end}
+EN: Yep, that's how it is!{p}{end}
+
+## MGK07 g1 s0125
+JP: エヘヘ……、{n}2人で食事。ラッキー!{p}{end}
+EN: Hehe... Lunch for two. Lucky!{p}{end}
+
+## MGK07 g1 s0127
+JP: まさに、コンビネーションの勝利{n}……かな?{p}
+EN: A win for our combination... I guess?{p}
+
+## MGK07 g1 s0131
+JP: 優勝もできたし、{n}恭介もよろこんでたみたいだし、{n}今日は、いうことないわね……。{p}{end}
+EN: We won, and Kyosuke seemed happy. Today was perfect...{p}{end}
+
+## MGK07 g1 s0134
+JP: エヘヘ……。{n}ここは、できたばかりだからネ。{p}{end}
+EN: Hehe... This place just opened, you know.{p}{end}
+
+## MGK07 g1 s0135
+JP: いろんなプールがあるのが、{n}ウリになってるみたいよ。{p}{end}
+EN: Apparently all the different pools are its big selling point.{p}{end}
+
+## MGK07 g1 s0137
+JP: そんなに慌てなくても、{n}プールは逃げたりしないわよ。{p}{end}
+EN: No need to rush. The pool's not going anywhere.{p}{end}
+
+## MGK07 g1 s0139
+JP: ホントだ……、{n}なにかイベントをやってるみたいよ。{p}
+EN: You're right... Looks like there's some kind of event.{p}
+
+## MGK07 g1 s0149
+JP: （そうねぇ……）{p}{end}
+EN: (Let's see...){p}{end}
+
+## MGK07 g1 s0150
+JP: やっぱり、白かなぁ。{n}プールの中じゃあ、黒より白の方が、{n}探しにくいからネ。{p}{end}
+EN: White, probably. In a pool, white's harder to spot than black.{p}{end}
+
+## MGK07 g1 s0151
+JP: 白の方が点数が{n}高くなってると思うわ。{p}
+EN: I bet white's worth more points.{p}
+
+## MGK07 g1 s0155
+JP: （白をいっぱい、拾わなきゃ……）{p}{end}
+EN: (Gotta grab lots of white ones...){p}{end}
+
+## MGK07 g1 s0157
+JP: どうだった、将馬?{n}たくさん拾えた?{p}{end}
+EN: How'd it go, Shoma? Get a lot?{p}{end}
+
+## MGK07 g1 s0159
+JP: な、なにやってるのよ、将馬!{n}ほとんど、プール消毒用の{n}塩素じゃないの!{p}{end}
+EN: Wh-what are you doing, Shoma! That's mostly chlorine tablets for the pool!{p}{end}
+
+## MGK07 g1 s0161
+JP: まったく、しょうがないわねぇ……。{p}
+EN: Geez, you're hopeless...{p}
+
+## MGK07 g1 s0166
+JP: 読みは当たってたけど……。{n}（塩素も多かったからねぇ……）{p}
+EN: My guess was right, but... (There was a lot of chlorine in there too...){p}
+
+## MGK07 g1 s0172
+JP: えぇ、そうね!{n}（係員も数えるとき塩素を白に{n}{sp}まちがえたんじゃないかしら……）{p}{end}
+EN: Yeah, totally! (I bet the attendant counted the chlorine as white stones too...){p}{end}
+
+## MGK07 g1 s0174
+JP: なにいってるのよ。{n}自分は塩素ばっかり拾ってたクセにィ……。{p}{end}
+EN: What are you talking about? You were picking up nothing but chlorine...{p}{end}
+
+## MGK07 g1 s0175
+JP: ちゃんと私が拾ってたから、{n}1位になれたんじゃないの!{p}
+EN: We only got first place because I was picking up the real ones!{p}
+
+## MGK07 g1 s0178
+JP: もう……、しょうがないなぁ……。{n}でも、将馬も楽しんだみたいだし、{n}誘ってよかったわ……。{p}
+EN: Geez... He's hopeless... But Shoma seemed to have fun, so I'm glad I invited him...{p}
+
+## MGK07 g1 s0179
+JP: さあ、私も帰ろっかな。{p}
+EN: Well, guess I'll head home too.{p}
+
+## MGK07 g1 s0180
+JP: 夏、遅いなぁ……。{n}なにやってるのかなぁ……?{p}
+EN: Natsu's late... What's she doing...?{p}
+
+## MGK07 g1 s0181
+JP: ごめんごめん、{v7:4}!{n}おまたせ!{p}{end}
+EN: Sorry, sorry, {v7:4}! Thanks for waiting!{p}{end}
+
+## MGK07 g1 s0183
+JP: キャッ!!{n}な、なによ!?{sp}アナタは?{p}
+EN: Eek!! Wh-what!? Who are you?{p}
+
+## MGK07 g1 s0186
+JP: {col:3}プールの係員{col:-}{n}「モデルのひとりが、{n}{sp}急に来れなくなって{n}{sp}しまったのです……」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"One of our models suddenly couldn't make it..."{p}{end}
+
+## MGK07 g1 s0192
+JP: ど、どうしようか?{n}{v7:4}……。{p}
+EN: Wh-what should I do, {v7:4}...?{p}
+
+## MGK07 g1 s0193
+JP: 私のプロポーションはどうなのよって、{n}いいたいとこだけど……、{n}いいじゃない、やってみれば!{n}こんなチャンス、めったにないよ!{p}
+EN: I'd love to ask what's wrong with MY figure, but... why not, go for it! Chances like this don't come often!{p}
+
+## MGK07 g1 s0194
+JP: {v7:4}がそういうんなら……、{n}やってみようかな……。{p}
+EN: If you say so, {v7:4}... maybe I'll give it a try...{p}
+
+## MGK07 g1 s0197
+JP: 結構、人が集まってるわねぇ。{n}夏、大丈夫かなぁ……。{n}緊張して、失敗しなけりゃイイけど……。{p}{end}
+EN: Quite a crowd... I hope Natsu's okay... I hope she doesn't get nervous and mess up...{p}{end}
+
+## MGK07 g1 s0199
+JP: あっ!{sp}夏の出番だわ!{p}
+EN: Ah! It's Natsu's turn!{p}
+
+## MGK07 g1 s0200
+JP: あんまりハデに応援すると、{n}夏が緊張するわね……。{p}
+EN: If I cheer too loudly, it'll make Natsu nervous...{p}
+
+## MGK07 g1 s0201
+JP: ちょっとだけ、{n}大きく拍手するだけにしとこう!{p}
+EN: I'll just clap a little louder, that's all!{p}
+
+## MGK07 g1 s0203
+JP: ん!?{n}私に気付いたみたいね。{n}こっちを見たわ。{p}{end}
+EN: Hm!? Looks like she noticed me. She looked this way.{p}{end}
+
+## MGK07 g1 s0204
+JP: さっき、{n}少し歩き方の練習をしただけなのに{n}本物と変わらない……ス、スゴイわ!{p}
+EN: She only practiced walking for a bit, but she looks just like a real model... A-amazing!{p}
+
+## MGK07 g1 s0205
+JP: ここで、笑顔の予定なんだけど……、{n}わあっ!{sp}バッチリバッチリ!!{p}
+EN: Now she's supposed to smile... Wow! Perfect, perfect!!{p}
+
+## MGK07 g1 s0208
+JP: なんか、余裕って感じだったわねぇ……。{p}
+EN: She looked totally at ease...{p}
+
+## MGK07 g1 s0210
+JP: あ、{v7:4}!{n}楽しかった～～っ!{p}
+EN: Oh, {v7:4}! That was so much fun~~!{p}
+
+## MGK07 g1 s0211
+JP: {v7:4}が見てくれてるの{n}わかったわよ。{p}{end}
+EN: I could tell you were watching, {v7:4}.{p}{end}
+
+## MGK07 g1 s0212
+JP: あ、やっぱり?{n}なんか、余裕って感じで、{n}本物のモデルみたいだったから驚いたわ!{p}{end}
+EN: Oh, you could? You looked so relaxed, just like a real model. I was amazed!{p}{end}
+
+## MGK07 g1 s0217
+JP: やった!{n}もう、お腹ペコペコなのよ!{p}{end}
+EN: Yay! I'm starving!{p}{end}
+
+## MGK07 g1 s0219
+JP: 私も、気分よかったよ。{n}こんなカッコイイ女の子といっしょにいて{n}自分までカッコよくなった気分!{p}
+EN: I felt great too. Hanging out with such a cool girl made me feel cool too!{p}
+
+## MGK07 g1 s0222
+JP: またね、{v7:4}!{p}
+EN: See ya, {v7:4}!{p}
+
+## MGK07 g1 s0223
+JP: なんだかんだいっても{n}夏もモデルを楽しんでたみたいだし、{n}誘ってよかった。{p}
+EN: Say what she wants, Natsu really seemed to enjoy modeling. I'm glad I invited her.{p}
+
+## MGK07 g1 s0224
+JP: さぁ、私も帰ろっかな。{p}
+EN: Well, guess I'll head home too.{p}
+
+## MGK07 g1 s0229
+JP: えぇ、そうネ。{p}
+EN: Yeah, sure.{p}
+
+## MGK07 g1 s0230
+JP: お!{sp}競技用プールもあるのか。{n}なぁ、{v7:5}、{n}俺と勝負してみるか?{p}
+EN: Oh! There's a lap pool too. Hey, {v7:5}, want to race me?{p}
+
+## MGK07 g1 s0232
+JP: （そ、そうねぇ……{n}{sp}サッカー選手の脚力は{n}{sp}あなどれないし……）{p}
+EN: (L-let's see... A soccer player's legs are nothing to sneeze at...){p}
+
+## MGK07 g1 s0233
+JP: （特殊な足の使い方をする泳法の方が、{n}{sp}勝算があるかもしれないわ……）{p}
+EN: (A stroke that uses the legs in an unusual way might give me a better chance...){p}
+
+## MGK07 g1 s0234
+JP: よし、平泳ぎで勝負よ!{p}
+EN: Okay, let's race breaststroke!{p}
+
+## MGK07 g1 s0236
+JP: 負けた方が、ここの昼飯をおごる、{n}……でイイな?{p}{end}
+EN: Loser buys lunch here... Deal?{p}{end}
+
+## MGK07 g1 s0237
+JP: もちろんよ!{p}{end}
+EN: You're on!{p}{end}
+
+## MGK07 g1 s0240
+JP: （よし!{sp}リードしてるわ!{n}{sp}このままゴールよ!）{p}
+EN: (All right! I'm in the lead! Straight to the finish!){p}
+
+## MGK07 g1 s0244
+JP: 自慢の脚も、平泳ぎじゃあ{n}生かせないよ……。{n}{v7:5}の作戦勝ちだな。{p}
+EN: My legs are no use in breaststroke... Your strategy won it, {v7:5}.{p}
+
+## MGK07 g1 s0247
+JP: うふふ……、覚悟してね!{n}ロベルト!{p}{end}
+EN: Hehe... Hope your wallet's ready, Roberto!{p}{end}
+
+## MGK07 g1 s0249
+JP: あはは……。{n}勝負ごとには、作戦が大事なのよ。{n}サッカーだって同じでしょ?{p}
+EN: Ahaha... Strategy is everything in a contest. Same with soccer, right?{p}
+
+## MGK07 g1 s0251
+JP: さて、そろそろ俺は帰るよ。{n}次に勝負したときは、覚悟しておけよ!{n}じゃあな、{v7:5}!{p}
+EN: Well, I'll head home now. Next time we race, you'd better be ready! See ya, {v7:5}!{p}
+
+## MGK07 g1 s0252
+JP: 勝負は私の勝ちだったけど、{n}ロベルトも楽しそうだったし、{n}誘ってよかった。{p}
+EN: I won the race, but Roberto seemed to have fun too. I'm glad I invited him.{p}
+
+## MGK07 g1 s0253
+JP: さぁ、私も帰ろっと。{p}{end}
+EN: Well, guess I'll head home.{p}{end}
+
+## MGK07 g1 s0254
+JP: 日本のプールにしては、{n}たいした設備じゃないか。{n}驚いたよ。{p}{end}
+EN: Pretty impressive place for a Japanese pool. I'm surprised.{p}{end}
+
+## MGK07 g1 s0256
+JP: {v3:6}が{n}誘いに来てくれたんだ、{n}今日は思い切り、楽しもうじゃないか。{p}{end}
+EN: {v3:6} came all this way to invite me. Let's have a blast today!{p}{end}
+
+## MGK07 g1 s0257
+JP: フフフ……。{n}さぁ、向こうから見て回ろうよ!{p}{end}
+EN: Hee hee... Come on, let's start over there!{p}{end}
+
+## MGK07 g1 s0258
+JP: ん?{sp}なんだ、{n}あの人だかりは……。{p}{end}
+EN: Hm? What's that crowd...?{p}{end}
+
+## MGK07 g1 s0261
+JP: こいつは、{n}やらないわけには、いかないな!{p}
+EN: No way I can pass this up!{p}
+
+## MGK07 g1 s0262
+JP: えへへ……。{n}そうこなくっちゃ!{p}{end}
+EN: Hehe... That's the spirit!{p}{end}
+
+## MGK07 g1 s0264
+JP: 私が下ってわけにはいかないから、{n}ロイにおぶってもらうわね。{p}{end}
+EN: I can't exactly be the one on the bottom, so I'll ride on your back, Roy.{p}{end}
+
+## MGK07 g1 s0265
+JP: じゃあ、作戦は{n}{v3:6}に任すよ。{n}その方がやりやすいだろ?{p}{end}
+EN: Then I'll leave the strategy to you, {v3:6}. That's easier, right?{p}{end}
+
+## MGK07 g1 s0266
+JP: 作戦なんて、まどろっこしいわ!{p}
+EN: Strategy's too much of a hassle!{p}
+
+## MGK07 g1 s0267
+JP: 手当たり次第に、やっつけちゃう!{p}{end}
+EN: I'll just take out whoever's in reach!{p}{end}
+
+## MGK07 g1 s0268
+JP: ハハハ……!{n}いい返事だ。{p}
+EN: Hahaha...! Good answer.{p}
+
+## MGK07 g1 s0271
+JP: （ス、スゴイ!{sp}さすがロイね!{n}{sp}他の男の子とは、パワーが違う!{n}{sp}これなら、イケるわ!）{p}
+EN: (W-wow! That's Roy for you! He's way stronger than the other guys! We can do this!){p}
+
+## MGK07 g1 s0275
+JP: {col:3}プールの係員{col:-}{n}「優勝は……、{n}{sp}{v0}さま&ロイさまペアで{n}{sp}ございます!」{p}{end}
+EN: {col:3}Pool Attendant{col:-}{n}"And the winner is... the team of {v0} and Roy!"{p}{end}
+
+## MGK07 g1 s0276
+JP: 当然の結果だな!{p}{end}
+EN: Naturally!{p}{end}
+
+## MGK07 g1 s0277
+JP: フフフ……、{n}そういうこと!{p}{end}
+EN: Hee hee... That's right!{p}{end}
+
+## MGK07 g1 s0279
+JP: ナイスタイミングだな!{n}さぁ、こいつで食事といこう!{p}{end}
+EN: Perfect timing! Let's use this to grab a meal!{p}{end}
+
+## MGK07 g1 s0280
+JP: えへへ……、{n}私、お腹ペコペコ～～っ!{p}
+EN: Hehe... I'm staaarving~~!{p}
+
+## MGK07 g1 s0281
+JP: ハハハ……!{n}優勝もできたし、{n}今日は楽しかったよ。{p}{end}
+EN: Hahaha...! We won, and today was fun.{p}{end}
+
+## MGK07 g1 s0282
+JP: フフフ……、{n}ロイと私のコンビですものね!{p}
+EN: Hee hee... Of course, with Roy and me as a team!{p}
+
+## MGK07 g1 s0283
+JP: さて……、{n}そろそろボクは帰るよ。{p}
+EN: Well... I'd better head home now.{p}
+
+## MGK07 g1 s0284
+JP: キミと楽しい時間を過ごせて、{n}今日のボクは、ツイてたよ。{p}{end}
+EN: I got to spend a fun day with you. I'm a lucky guy today.{p}{end}
+
+## MGK07 g1 s0286
+JP: 優勝もできたし、{n}ロイもよろこんでたみたいだし、{n}今日は、いうことないわね……。{p}{end}
+EN: We won, and Roy seemed happy. Today was perfect...{p}{end}
+
+## MGK07 g1 s0288
+JP: ティファニー、遅いなぁ……。{n}なにやってんのかなぁ……?{p}{end}
+EN: Tiffany's late... What's she doing...?{p}{end}
+
+## MGK07 g1 s0290
+JP: （す、スゴイ……{n}{sp}いつにも増して、サービス満点というか{n}{sp}もう男の子達がだまってないわね……）{p}{end}
+EN: (W-wow... She's showing more than ever... The boys around here won't stay quiet...){p}{end}
+
+## MGK07 g1 s0292
+JP: えっ?{n}えぇ、なに?{p}{end}
+EN: Huh? Oh, what?{p}{end}
+
+## MGK07 g1 s0294
+JP: ハハァ～ン、ミーの魅力に{n}シリトリしたネ?{p}
+EN: Ha-haan, you're all flustrated by my charms, yes?{p}
+
+## MGK07 g1 s0295
+JP: それをいうなら「しりごみ」よ……。{p}
+EN: You mean "flustered"...{p}
+
+## MGK07 g1 s0298
+JP: じゃあ、向こうの方から回ってみよっ!{p}{end}
+EN: Okay, let's start over there!{p}{end}
+
+## MGK07 g1 s0300
+JP: あぁ、スライダーね。{n}あの上から滑り降りて遊ぶのよ。{n}おっきな滑り台ってわけね。{p}{end}
+EN: Oh, that's a water slide. You slide down from the top. Basically a giant slide.{p}{end}
+
+## MGK07 g1 s0302
+JP: じゃあ行ってみよっか。{p}
+EN: Okay, let's go try it.{p}
+
+## MGK07 g1 s0304
+JP: さぁ、ティファニーからどうぞ!{p}
+EN: Go ahead, Tiffany, you first!{p}
+
+## MGK07 g1 s0305
+JP: 何事もレディーファーストだからね。{n}って私もレディーだけど……。{p}{end}
+EN: Ladies first, after all. ...Not that I'm not a lady too...{p}{end}
+
+## MGK07 g1 s0311
+JP: コワイくせに、やりたがるんだから、{n}アメリカ人は不思議だわねぇ。{p}{end}
+EN: She's scared, but she still wants to do it. Americans are so strange.{p}{end}
+
+## MGK07 g1 s0312
+JP: さて、次は私の番ね。{n}それっ!{p}
+EN: Okay, my turn. Here goes!{p}
+
+## MGK07 g1 s0315
+JP: プハッ!{sp}すごいスピード感……。{n}でも、思ったより楽しい!!!{p}
+EN: Pwah! That was so fast... But it's more fun than I thought!!!{p}
+
+## MGK07 g1 s0316
+JP: え!?{n}なに、これ……って、{n}ビキニ???{p}
+EN: Huh!? What's this... a bikini???{p}
+
+## MGK07 g1 s0317
+JP: な、なんで、ビキニが{n}浮いてるの?{p}
+EN: Wh-why is there a bikini floating here?{p}
+
+## MGK07 g1 s0318
+JP: 私のは……大丈夫。{n}あれっ、なんかついさっき見た{n}水着のような……。{p}{end}
+EN: Mine's... fine. Huh, it kinda looks like a swimsuit I saw just a minute ago...{p}{end}
+
+## MGK07 g1 s0322
+JP: そ、そうかティファニーのね……。{p}{end}
+EN: S-so it's Tiffany's...{p}{end}
+
+## MGK07 g1 s0324
+JP: ゴ、ゴメンネ!{n}（私よりだんぜん大きい!!）{n}はい、これ……。{p}
+EN: S-sorry! (She's way bigger than me!!) Here you go...{p}
+
+## MGK07 g1 s0329
+JP: そ、そうね……。{n}（ちょっとくやしいのは気のせい?）{p}{end}
+EN: Y-yeah... (Is it just me, or am I a little jealous?){p}{end}
+
+## MGK07 g1 s0332
+JP: それにしても大きかったわね……。{n}ティファニーに水着なんて{n}絶対借りられないわ……。{p}{end}
+EN: Still, they sure were big... There's no way I could ever borrow a swimsuit from Tiffany...{p}{end}
+
+## MGK07 g1 s0333
+JP: 結果的にティファニーもよろこんでたし、{n}ノープロブレムって感じよね。{n}さぁ、私も帰ろっかな。{p}{end}
+EN: In the end Tiffany had fun too, so no problem, I guess. Well, guess I'll head home too.{p}{end}
+
+## MGK07 g1 s0335
+JP: えぇ、そうねぇ……。{p}{end}
+EN: Yeah, I guess...{p}{end}
+
+## MGK07 g1 s0339
+JP: 何なの?{n}エッジの知り合い?{p}{end}
+EN: What's this? Friends of yours, Edge?{p}{end}
+
+## MGK07 g1 s0347
+JP: まあまあ、押さえてエッジ。{n}……で、何しようっていうの?{p}{end}
+EN: Now, now, calm down, Edge. ...So, what do you want to do?{p}{end}
+
+## MGK07 g1 s0353
+JP: （やれやれ、仕方ないなぁ……。{n}{sp}でも、エッジがマジメにやるとは{n}{sp}思えないしね……）{p}
+EN: (Oh well, can't be helped... Not like Edge is gonna take this seriously, though...){p}
+
+## MGK07 g1 s0354
+JP: （子供相手だけど、{n}{sp}私は本気でがんばっとこうかな。）{p}
+EN: (They're just kids, but I think I'll give it my all.){p}
+
+## MGK07 g1 s0359
+JP: え!?{sp}私が最後?{n}（うーん。やっぱりエッジは、{n}{sp}すぐヤメてたわね……）{p}
+EN: Huh!? I'm the last one up? (Hmm. Figures Edge quit right away...){p}
+
+## MGK07 g1 s0362
+JP: {col:3}子供（兄）・子供（弟）{col:-}{n}「うっうっ………」{p}
+EN: {col:3}Kids{col:-}{n}"Sniff... sniff..."{p}
+
+## MGK07 g1 s0371
+JP: じゃあ!{n}私、迷子センターを探してみるね!{p}
+EN: Okay! I'll go look for the lost child center!{p}
+
+## MGK07 g1 s0375
+JP: やれやれ、{n}すぐ親が見つかってよかったね。{p}
+EN: Phew, good thing we found their mom right away.{p}
+
+## MGK07 g1 s0377
+JP: でも、見直したよ!{n}エッジって、結構やさしいんだね。{p}{end}
+EN: But I've gotta hand it to you! You're pretty sweet, Edge.{p}{end}
+
+## MGK07 g1 s0385
+JP: （ええっ!!{sp}そ、そうよね、{n}{sp}アキラって、女の子だもんね……。{n}{sp}なんか……私より女の子らしくない?）{p}{end}
+EN: (Whoa!! R-right, Akira's a girl after all... Is it just me... or is she girlier than me?){p}{end}
+
+## MGK07 g1 s0386
+JP: ……?{n}ねぇ、{v8:10}?{p}{end}
+EN: ...? Um, {v8:10}?{p}{end}
+
+## MGK07 g1 s0387
+JP: えっ……、{n}なに?{p}
+EN: Huh... What?{p}
+
+## MGK07 g1 s0389
+JP: 変じゃないよ!{n}くやしいくらい似合ってるよ。{p}{end}
+EN: It's not weird! It suits you so well it's annoying.{p}{end}
+
+## MGK07 g1 s0390
+JP: その辺の女の子が{n}裸足で逃げ出しちゃうくらい{n}カワイイわよ!{p}{end}
+EN: You're so cute, any girl here would run off barefoot!{p}{end}
+
+## MGK07 g1 s0393
+JP: じゃあ、行きましょ!{p}{end}
+EN: Okay, let's go!{p}{end}
+
+## MGK07 g1 s0395
+JP: あっ、競技用のプールがあるわ!{n}どう?{sp}アキラ。{n}50メートルスピード勝負しない?{p}
+EN: Oh, a lap pool! What do you say, Akira? Wanna race 50 meters?{p}
+
+## MGK07 g1 s0397
+JP: あ、そうなんだ。{p}{end}
+EN: Oh, I see.{p}{end}
+
+## MGK07 g1 s0398
+JP: じゃあ、練習しようよ!{p}
+EN: Then let's practice!{p}
+
+## MGK07 g1 s0400
+JP: そう!{sp}バタ足の練習!{n}水泳はバタ足にはじまり、バタ足に終る{n}……でしょ。{p}
+EN: Yep! Flutter kicks! Swimming starts and ends with the flutter kick... right?{p}
+
+## MGK07 g1 s0402
+JP: ホントホント!{n}じゃあ、さっそくやってみようよ。{n}手を引いててあげるから!{p}
+EN: Really, really! Let's get started. I'll hold your hands!{p}
+
+## MGK07 g1 s0405
+JP: そうそう!{n}なんだ、全然うまいじゃない。{n}アキラは、運動神経いいからね。{p}{end}
+EN: That's it! See, you're really good at this. You're so athletic, Akira.{p}{end}
+
+## MGK07 g1 s0408
+JP: （と、いいつつ……、{n}{sp}そろそろやってみよっかな!）{p}{end}
+EN: (Still... maybe it's about time I let go!){p}{end}
+
+## MGK07 g1 s0412
+JP: え!?{n}あららっ!!{p}{end}
+EN: Huh!? Whoa whoa!!{p}{end}
+
+## MGK07 g1 s0414
+JP: ゲホゲホ……、水飲んだ……。{n}いきなり抱きついてくるんだもん……。{n}アキラ、大丈夫?{sp}ごめんね。{p}{end}
+EN: Cough, cough... I swallowed water... You grabbed me out of nowhere... Akira, you okay? Sorry.{p}{end}
+
+## MGK07 g1 s0418
+JP: でも、自転車の練習と同じよ。{n}いつまでも持たれてたら、{n}ひとりで泳げるようにならないでしょ?{p}{end}
+EN: But it's just like learning to ride a bike. If someone holds on forever, you'll never swim on your own, right?{p}{end}
+
+## MGK07 g1 s0420
+JP: 大丈夫だって!{n}この調子なら、夕方にはバタフライで、{n}もっこりパンツの男の人だって{n}ブッチ切れるようになってるよ。{p}
+EN: It's fine! At this rate, by evening you'll be doing the butterfly and leaving the guys in tight trunks in the dust.{p}
+
+## MGK07 g1 s0424
+JP: えへへ……。{n}いいって、いいって。{p}
+EN: Hehe... Don't mention it.{p}
+
+## MGK07 g1 s0426
+JP: じゃあね、{v8:10}……。{n}バイバイ……。{p}{end}
+EN: Bye, {v8:10}... See you...{p}{end}
+
+## MGK07 g1 s0427
+JP: まさに、手取り足取りの練習だったわ……。{n}まわりの男の子たちのうらやましそうな{n}顔ったらなかったわ……。{p}{end}
+EN: That really was hands-on practice... You should've seen the jealous looks on the guys around us...{p}{end}
+
+## MGK07 g1 s0428
+JP: アキラもよろこんでたし、{n}今日は、いうことないわね。{n}さぁ、私も帰ろっかな。{p}{end}
+EN: Akira had fun too, so today was perfect. Well, guess I'll head home too.{p}{end}
+
+## MGK07 g1 s0430
+JP: うふふ……!{n}英雄先生、遅れてますね!{p}
+EN: Hehe! You're behind the times, Hideo-sensei!{p}
+
+## MGK07 g1 s0433
+JP: それじゃあ、英雄先生!{n}私、ちょっと泳いできますね!{p}{end}
+EN: Okay, Hideo-sensei! I'm gonna go for a swim!{p}{end}
+
+## MGK07 g1 s0445
+JP: （うーん。{n}{sp}やっぱり、変な体操に見えるわよね……）{p}{end}
+EN: (Hmm. It really does look like weird exercises...){p}{end}
+
+## MGK07 g1 s0458
+JP: じゃあ、私が教えます。{n}英雄先生も一緒に練習しませんか?{n}いい機会だし!{p}{end}
+EN: Then I'll teach them. Why don't you practice with us, Hideo-sensei? It's a good chance!{p}{end}
+
+## MGK07 g1 s0471
+JP: 英雄先生も楽しんでたみたいだし、{n}誘ってよかったわ……。{p}{end}
+EN: Hideo-sensei seemed to have fun too. I'm glad I invited him...{p}{end}
+
+## MGK07 g1 s0473
+JP: 遅いなぁ、響子先生……。{n}なにやってんのかなぁ……?{p}{end}
+EN: Kyoko-sensei's late... What's she doing...?{p}{end}
+
+## MGK07 g1 s0474
+JP: ごめんね、{v1}{col:0}さん{col:-}!{n}お待たせ。{p}
+EN: Sorry, {v1}{col:0}-san{col:-}! Thanks for waiting.{p}
+
+## MGK07 g1 s0475
+JP: （おぉっ!{n}{sp}やっぱり、その辺の女の子とは{n}{sp}ボリュームが違うっていうか…その……）{p}{end}
+EN: (Whoa! She really does have... more volume than your average girl... or, um...){p}{end}
+
+## MGK07 g1 s0477
+JP: え、あの……{p}{end}
+EN: Oh, um...{p}{end}
+
+## MGK07 g1 s0480
+JP: さぁ、{n}向こうのプールから回ってみましょ!{p}
+EN: Now, let's start with the pools over there!{p}
+
+## MGK07 g1 s0482
+JP: 響子先生、元気ですねぇ。{n}こっちは、息があがってきちゃいました。{p}{end}
+EN: You're so energetic, Kyoko-sensei. I'm already out of breath.{p}{end}
+
+## MGK07 g1 s0485
+JP: それなら、{n}私、飲み物買ってきますね。{p}
+EN: Then I'll go buy us some drinks.{p}
+
+## MGK07 g1 s0488
+JP: 響子先生に、{n}何が飲みたいか、聞くのを忘れたわ……。{p}{end}
+EN: I forgot to ask Kyoko-sensei what she wants to drink...{p}{end}
+
+## MGK07 g1 s0491
+JP: 響子先生のビールと{n}私の分のジュースを買って{n}戻ろうっと。{p}
+EN: I'll grab a beer for Kyoko-sensei and a juice for me, then head back.{p}
+
+## MGK07 g1 s0498
+JP: （アハハ……。{n}{sp}ホント、おいしそうに飲むなぁ……）{p}{end}
+EN: (Ahaha... She really makes it look tasty...){p}{end}
+
+## MGK07 g1 s0499
+JP: じゃあ、私もひと休みしよっと。{p}
+EN: Guess I'll take a break too.{p}
+
+## MGK07 g1 s0501
+JP: コォラ、{v1}{col:0}さん{col:-}!{p}{end}
+EN: He-ey, {v1}{col:0}-san{col:-}!{p}{end}
+
+## MGK07 g1 s0508
+JP: ………{v1}{col:0}さん{col:-}!……{n}……{v1}{col:0}さん{col:-}……{p}
+EN: ...{v1}{col:0}-san{col:-}!... ...{v1}{col:0}-san{col:-}...{p}
+
+## MGK07 g1 s0509
+JP: う…う～ん………{n}…あ…れ………{n}私……どう…したんだろう………。{p}
+EN: Ngh... mmm... Wha...? What... happened... to me...{p}
+
+## MGK07 g1 s0512
+JP: 私が無理に引っ張っていったから、{n}{v1}{col:0}さん{col:-}、{n}おぼれちゃったのよ……。{p}{end}
+EN: It's my fault for dragging you along. You nearly drowned, {v1}{col:0}-san{col:-}...{p}{end}
+
+## MGK07 g1 s0513
+JP: （なんで、{n}{sp}酔っ払ってた響子先生が無事で{n}{sp}私がおぼれてるのよぉ……）{p}{end}
+EN: (How come Kyoko-sensei was the drunk one, but I'm the one who drowned...){p}{end}
+
+## MGK07 g1 s0515
+JP: じ、人工呼吸?{n}響子先生の!?{n}そんなの知らないわよ!?{p}{end}
+EN: M-mouth-to-mouth? From Kyoko-sensei!? I don't know anything about that!?{p}{end}
+
+## MGK07 g1 s0519
+JP: （ということはファーストキッス?{n}{sp}覚えてないぞォ……）{p}{end}
+EN: (Wait, does that mean my first kiss? I don't remember it...){p}{end}
+
+## MGK07 g1 s0520
+JP: ねぇ、{v1}{col:0}さん{col:-}……。{n}体の方は、大丈夫?{p}
+EN: Hey, {v1}{col:0}-san{col:-}... How are you feeling?{p}
+
+## MGK07 g1 s0523
+JP: じゃあ、私はここで……。{n}帰ったら、ちゃんと休んでね。{n}さようなら、{v1}{col:0}さん{col:-}。{p}{end}
+EN: Well, I'll be going now... Get some rest when you get home. Bye, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MGK07 g1 s0525
+JP: 響子先生も楽しそうだったし、{n}誘ってよかったわ……。{n}さぁ、私も帰ろっかな。{p}{end}
+EN: Kyoko-sensei seemed to have fun too. I'm glad I invited her... Well, guess I'll head home too.{p}{end}
+
+## MGK07 g1 s0527
+JP: ウフフ……。{n}ここは、できたばかりだからね。{p}{end}
+EN: Hehe... This place just opened, you know.{p}{end}
+
+## MGK07 g1 s0531
+JP: あぁ……、{n}なにかイベントをやってるのよ。{p}
+EN: Ah... They're holding some kind of event.{p}
+
+## MGK07 g1 s0535
+JP: あはは……、{n}そ、そうよね……。{p}{end}
+EN: Ahaha... R-right, of course...{p}{end}
+
+## MGK07 g1 s0536
+JP: ちょっと、スイカ食べたいな～とか、{n}思っちゃったけど……。{p}
+EN: Though I was kinda thinking I'd like some watermelon...{p}
+
+## MGK07 g1 s0538
+JP: キャッ!!{n}なによ、いきなり!?{p}{end}
+EN: Eek!! What's with you, all of a sudden!?{p}{end}
+
+## MGK07 g1 s0543
+JP: う、うーん。{n}結局、引っ張って{n}こられちゃったわね……。{p}{end}
+EN: Hmm. We got dragged in after all...{p}{end}
+
+## MGK07 g1 s0545
+JP: ……もし気が進まないなら、{n}わたしがやろうか?{p}
+EN: ...If you don't feel like it, want me to do it?{p}
+
+## MGK07 g1 s0549
+JP: じゃあ、雹クン!{n}ガンバって!{n}応援するからね!{p}{end}
+EN: Go get 'em, Hyo-kun! I'm cheering for you!{p}{end}
+
+## MGK07 g1 s0552
+JP: （さぁて、はじまったわよ!）{p}{end}
+EN: (Here we go, it's started!){p}{end}
+
+## MGK07 g1 s0553
+JP: （普通に応援したんじゃあ、{n}{sp}周りの観客がうるさくて、{n}{sp}雹クンに聞こえないからなぁ……）{p}
+EN: (If I just cheer normally, the crowd's so loud that Hyo-kun won't hear me...){p}
+
+## MGK07 g1 s0554
+JP: （ここはひとつ、{n}{sp}雹クンの鋭さに賭けて、{n}{sp}心で念じてみよう……ムムムム……）{p}{end}
+EN: (So I'll bet on Hyo-kun's sharp senses and send him my thoughts... Hnnnnn...){p}{end}
+
+## MGK07 g1 s0563
+JP: あははっ!!{n}スゴイよ!{sp}雹クン!{p}
+EN: Ahaha!! That was amazing, Hyo-kun!{p}
+
+## MGK07 g1 s0567
+JP: （うーむ。{n}{sp}心で念じたのが、{n}{sp}ホントに効いたのかもね……）{p}
+EN: (Hmm. Maybe sending my thoughts actually worked...){p}
+
+## MGK07 g1 s0569
+JP: そうね!{p}{end}
+EN: Sounds good!{p}{end}
+
+## MGK07 g1 s0570
+JP: 今日は、{n}有意義な時間を過ごすことができた。{n}良い気晴らしになったな。{p}
+EN: Today was time well spent. It was a fine diversion.{p}
+
+## MGK07 g1 s0571
+JP: 私も楽しかったわ。{n}でも、ホントにスゴかったなぁ……、{n}スイカを真っ二つにしたんだから……。{p}{end}
+EN: I had fun too. But that was really amazing... You split the watermelon clean in half...{p}{end}
+
+## MGK07 g1 s0574
+JP: 雹クンも楽しんでくれたみたいだし、{n}ホント、誘ってよかったわ……。{p}
+EN: Hyo-kun seemed to have a good time too. I'm really glad I invited him...{p}
+
+## MGK07 g1 s0577
+JP: ウフフ……。{n}ここは、できたばかりですからね。{p}
+EN: Hehe... This place just opened, after all.{p}
+
+## MGK07 g1 s0584
+JP: （そ、そんな急に……）{p}
+EN: (S-so suddenly...){p}
+
+## MGK07 g1 s0586
+JP: じゃあ、3メートルから{n}飛ぶことにします……。{p}
+EN: Okay, I'll jump from three meters...{p}
+
+## MGK07 g1 s0588
+JP: さてと……、{n}飛び込み台の上から下を見ても……、{n}思ったよりは、平気ね。{p}{end}
+EN: Okay... Looking down from up here... it's not as bad as I thought.{p}{end}
+
+## MGK07 g1 s0589
+JP: これなら、{n}ビシッと決められるかな!{n}それっ!{p}
+EN: I think I can nail this! Here goes!{p}
+
+## MGK07 g1 s0592
+JP: （よしよし!{n}{sp}余裕がある分、{n}{sp}フォームもうまくできたわ）{p}{end}
+EN: (All right! Since I had room to spare, my form came out great too){p}{end}
+
+## MGK07 g1 s0597
+JP: （そ、そういわれると{n}{sp}そうなんだけど……）{p}{end}
+EN: (W-well, when he puts it like that... he's right, but...){p}{end}
+
+## MGK07 g1 s0599
+JP: 全然、構いませんよ。{n}勉強になりましたし。{p}
+EN: No, not at all. I learned a lot.{p}
+
+## MGK07 g1 s0602
+JP: へぇ……。{n}「己の力を知る」ねぇ……。{p}
+EN: Hmm... "Know your own strength," huh...{p}
+
+## MGK07 g1 s0603
+JP: やっぱり、醍醐先輩からは{n}学ぶことが多いわね。{p}
+EN: I sure learn a lot from Daigo-senpai.{p}
+
+## MGK07 g1 s0605
+JP: さぁて、{n}まずは、どのプールで遊びましょうか?{p}
+EN: So, which pool should we try first?{p}
+
+## MGK07 g1 s0608
+JP: え!?{n}あ、ハイ……。{p}
+EN: Huh!? Oh, okay...{p}
+
+## MGK07 g1 s0611
+JP: せっかくなんだから、{n}なにか他の変わったプールで{n}遊びましょうよ?{p}
+EN: Since we came all this way, let's try one of the unusual pools!{p}
+
+## MGK07 g1 s0612
+JP: あれ……?{n}流先輩、どこ行っちゃったんだろう……。{p}
+EN: Huh...? Where'd Nagare-senpai go...{p}
+
+## MGK07 g1 s0615
+JP: もう、ヒドイんだから……。{n}ひと声かけてくれれば、イイのに……。{p}{end}
+EN: Geez, that's so mean... He could've at least said something...{p}{end}
+
+## MGK07 g1 s0616
+JP: しょうがない……。{n}他のプールはあきらめて、{n}私も一緒に泳ごうかな……。{p}{end}
+EN: Oh well... Forget the other pools. Guess I'll swim with him...{p}{end}
+
+## MGK07 g1 s0620
+JP: {col:3}プールの係員{col:-}{n}「おふたりとも、素晴らしい泳ぎで{n}{sp}ございました……。」{p}
+EN: {col:3}Pool Attendant{col:-}{n}"You both swim splendidly..."{p}
+
+## MGK07 g1 s0621
+JP: キャッ!{n}な、なによ、いきなり?{p}{end}
+EN: Eek! Wh-what's with you, all of a sudden?{p}{end}
+
+## MGK07 g1 s0626
+JP: ……なんかウサンクサイですよね。{n}やめといた方がよさそうですよ……。{p}{end}
+EN: ...This sounds kinda fishy. We'd better pass...{p}{end}
+
+## MGK07 g1 s0628
+JP: （えぇっ!?{sp}それって……、{n}{sp}ウサンクサイってことには合意だけど、{n}{sp}結局やるって意味なの?）{p}{end}
+EN: (Whaa!? So... he agrees it's fishy, but he's doing it anyway?){p}{end}
+
+## MGK07 g1 s0634
+JP: そんなの楽勝じゃないの。{n}たった50メートルなんだから!{p}{end}
+EN: That's a piece of cake. It's only 50 meters!{p}{end}
+
+## MGK07 g1 s0635
+JP: さっさと、はじめましょうよ!{p}{end}
+EN: Let's get started already!{p}{end}
+
+## MGK07 g1 s0636
+JP: ん?{sp}プールに何かいるみたいだわ。{n}魚……かな?{p}{end}
+EN: Hm? Looks like something's in the pool. Fish...?{p}{end}
+
+## MGK07 g1 s0642
+JP: （でも、普通にやったんじゃあ、{n}{sp}カジられちゃうわよね……）{p}{end}
+EN: (But if I swim normally, I'll get nibbled...){p}{end}
+
+## MGK07 g1 s0643
+JP: （うーん……。{n}{sp}予想では、大丈夫なんだけど……）{p}
+EN: (Hmm... If my guess is right, I'll be fine, though...){p}
+
+## MGK07 g1 s0644
+JP: （流先輩の後方について、{n}{sp}泳いでみようかな!）{p}{end}
+EN: (I'll try swimming right behind Nagare-senpai!){p}{end}
+
+## MGK07 g1 s0647
+JP: （ほらっ!{n}{sp}やっぱり思ったとおりね!）{p}{end}
+EN: (See! Just like I thought!){p}{end}
+
+## MGK07 g1 s0648
+JP: （流先輩の泳ぎでできた水流で、{n}{sp}魚は近づけないのよ!）{p}{end}
+EN: (The current from Nagare-senpai's swimming keeps the fish away!){p}{end}
+
+## MGK07 g1 s0650
+JP: よかった……。{n}カジられずに済んだわ!{p}
+EN: Phew... I didn't get nibbled!{p}
+
+## MGK07 g1 s0651
+JP: あ、流先輩!{n}もちろん、大丈夫ですよね?{p}{end}
+EN: Oh, Nagare-senpai! You're fine too, of course?{p}{end}
+
+## MGK07 g1 s0660
+JP: えへへ……、そうですか?{n}照れちゃうわ……。{p}{end}
+EN: Hehe... You think so? You're making me blush...{p}{end}
+
+## MGK07 g1 s0662
+JP: 流先輩にもほめられたし、{n}今日は、いうことないわね。{p}{end}
+EN: Even Nagare-senpai praised me. Today was perfect.{p}{end}
+
+## MGK07 g1 s0664
+JP: いたいた、{v8:19}!{n}遅い、遅ぉい!{p}{end}
+EN: There you are, {v8:19}! You're late, laaate!{p}{end}
+
+## MGK07 g1 s0665
+JP: （おぉっ!{sp}ランちゃんも……水着だと……{n}{sp}結構わりと……新鮮かも……）{p}{end}
+EN: (Whoa! Ran-chan in a swimsuit... is kinda... refreshing, actually...){p}{end}
+
+## MGK07 g1 s0666
+JP: ん?{n}ねぇ、{v8:19}?{p}
+EN: Hm? Hey, {v8:19}?{p}
+
+## MGK07 g1 s0668
+JP: な、なによ……、いきなり。{p}
+EN: Wh-what was that for... out of nowhere.{p}
+
+## MGK07 g1 s0669
+JP: どうしたの?{n}私の水着姿がどうかしたの……。{p}{end}
+EN: What's up? Is something wrong with my swimsuit...?{p}{end}
+
+## MGK07 g1 s0670
+JP: な、なんでもないわよ。{n}それより、そんな使い方してたら、{n}フィルムが全然足りないわよ。{n}新聞用の取材もするっていってたでしょ?{p}
+EN: N-nothing. Anyway, shoot like that and you'll run out of film. Didn't you say you're covering this for the paper too?{p}
+
+## MGK07 g1 s0675
+JP: どう、ランちゃん。{n}いいのが撮れた?{p}{end}
+EN: So, Ran-chan. Get any good ones?{p}{end}
+
+## MGK07 g1 s0678
+JP: なによそれ!{n}マスメディアの暴力だわ!{p}
+EN: Hey, what the heck! That's abuse of media power!{p}
+
+## MGK07 g1 s0682
+JP: え?{sp}えぇ、{n}じゃあ、何か買ってくるわ。{n}なにがイイ?{p}
+EN: Huh? Oh, okay, I'll go buy something. What do you want?{p}
+
+## MGK07 g1 s0684
+JP: やれやれ……。{n}すっかり、ランちゃんのペースだわ……。{n}何か、ギャフンといわせる手は{n}ないかしら……。{p}
+EN: Geez... Ran-chan's been calling the shots all day... Isn't there some way to get back at her...{p}
+
+## MGK07 g1 s0685
+JP: あっ!{sp}イイのがあるじゃない!{n}この水鉄砲も買おうっと!{p}{end}
+EN: Oh! Here's just the thing! I'll buy this water gun too!{p}{end}
+
+## MGK07 g1 s0686
+JP: 背中を向けたときが、{n}アナタの最後よ!{sp}ランちゃん!{n}……フフフ。{p}
+EN: The moment you turn your back, it's all over for you, Ran-chan! ...Hee hee.{p}
+
+## MGK07 g1 s0689
+JP: （うーむ。やはり、食べ終わって{n}{sp}席を立ったところが狙い目ね……）{p}
+EN: (Hmm. The time to strike is when she finishes eating and gets up...){p}
+
+## MGK07 g1 s0691
+JP: （よし!{sp}チャンス!!{n}{sp}ラン、アナタはイイ友達だったわ!{n}{sp}でも、これでサヨナラね!{sp}くらえ!）{p}
+EN: (Yes! Now's my chance!! Ran, you were a good friend! But this is goodbye! Take this!){p}
+
+## MGK07 g1 s0701
+JP: あっ!{sp}ちょっと!{n}ランちゃん、やめてよ!!{p}{end}
+EN: Ah! Hey! Ran-chan, cut it out!!{p}{end}
+
+## MGK07 g1 s0702
+JP: 報道の自由に対して不意打ちって根性が{n}ミミチイわ!{p}
+EN: A sneak attack on the free press? That's real petty!{p}
+
+## MGK07 g1 s0704
+JP: つ、つめたい!{n}やめてよ!{sp}ランちゃん!!{p}
+EN: C-cold! Stop it, Ran-chan!!{p}
+
+## MGK07 g1 s0706
+JP: まったく……。{n}余計ヒドイ目にあっちゃったわ……。{p}
+EN: Geez... That just made things worse...{p}
+
+## MGK07 g1 s0710
+JP: なにが、「フフフ……」よ。{p}
+EN: What's with the "Hee hee..."?{p}
+
+## MGK07 g1 s0711
+JP: でも、ランちゃんが楽しかったんなら、{n}まぁ良しとしておこうかな……。{n}さぁ、私も帰ろ。{p}
+EN: Well, if Ran-chan had fun, I guess I'll let it slide... Okay, time to head home.{p}
+

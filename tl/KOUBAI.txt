@@ -1,0 +1,924 @@
+## n00
+# limit: 24 letters/line, 1 line
+JP: 熱血カ－ド
+EN: Hot-Blooded Card
+
+## n01
+# limit: 22 letters/line, 1 line
+JP: 熱血カ－ド　10枚
+EN: Hot-Blooded Cards x10
+
+## n02
+# limit: 22 letters/line, 1 line
+JP: ひなた　体操着
+EN: Hinata Gym Clothes
+
+## n03
+# limit: 22 letters/line, 1 line
+JP: 夏　制服
+EN: Natsu Uniform
+
+## n04
+# limit: 22 letters/line, 1 line
+JP: ティファニ－　制服
+EN: Tiffany Uniform
+
+## n05
+# limit: 22 letters/line, 1 line
+JP: 響子　私服
+EN: Kyoko Casual Clothes
+
+## n06
+# limit: 22 letters/line, 1 line
+JP: J学サントラCD
+EN: Rival Schools OST CD
+
+## n07
+# limit: 22 letters/line, 1 line
+JP: 熱血ポスタ－1
+EN: Hot-Blooded Poster 1
+
+## n08
+# limit: 22 letters/line, 1 line
+JP: 熱血ポスタ－2
+EN: Hot-Blooded Poster 2
+
+## n09
+# limit: 22 letters/line, 1 line
+JP: 熱血ポスタ－3
+EN: Hot-Blooded Poster 3
+
+## n10
+# limit: 22 letters/line, 1 line
+JP: 熱血ポスタ－4
+EN: Hot-Blooded Poster 4
+
+## n11
+# limit: 22 letters/line, 1 line
+JP: ポケジャス
+EN: Poke-Jus
+
+## n12
+# limit: 22 letters/line, 1 line
+JP: 熱血イラスト集
+EN: Hot-Blooded Art Book
+
+## n13
+# limit: 24 letters/line, 1 line
+JP: スタッフロ－ル
+EN: Staff Credits
+
+## n14
+# limit: 24 letters/line, 1 line
+JP: バツ　ED1
+EN: Batsu Ending 1
+
+## n15
+# limit: 24 letters/line, 1 line
+JP: バツ　ED2
+EN: Batsu Ending 2
+
+## n16
+# limit: 24 letters/line, 1 line
+JP: バツ　日記
+EN: Batsu Diary
+
+## n17
+# limit: 24 letters/line, 1 line
+JP: ひなた　ED1
+EN: Hinata Ending 1
+
+## n18
+# limit: 24 letters/line, 1 line
+JP: ひなた　ED2
+EN: Hinata Ending 2
+
+## n19
+# limit: 24 letters/line, 1 line
+JP: ひなた　日記
+EN: Hinata Diary
+
+## n20
+# limit: 24 letters/line, 1 line
+JP: 恭介　ED1
+EN: Kyosuke Ending 1
+
+## n21
+# limit: 24 letters/line, 1 line
+JP: 恭介　ED2
+EN: Kyosuke Ending 2
+
+## n22
+# limit: 24 letters/line, 1 line
+JP: 恭介　日記
+EN: Kyosuke Diary
+
+## n23
+# limit: 24 letters/line, 1 line
+JP: 将馬　ED1
+EN: Shoma Ending 1
+
+## n24
+# limit: 24 letters/line, 1 line
+JP: 将馬　ED2
+EN: Shoma Ending 2
+
+## n25
+# limit: 24 letters/line, 1 line
+JP: 将馬　日記
+EN: Shoma Diary
+
+## n26
+# limit: 24 letters/line, 1 line
+JP: 夏　ED1
+EN: Natsu Ending 1
+
+## n27
+# limit: 24 letters/line, 1 line
+JP: 夏　ED2
+EN: Natsu Ending 2
+
+## n28
+# limit: 24 letters/line, 1 line
+JP: 夏　日記
+EN: Natsu Diary
+
+## n29
+# limit: 24 letters/line, 1 line
+JP: ロベルト　ED1
+EN: Roberto Ending 1
+
+## n30
+# limit: 24 letters/line, 1 line
+JP: ロベルト　ED2
+EN: Roberto Ending 2
+
+## n31
+# limit: 24 letters/line, 1 line
+JP: ロベルト　日記
+EN: Roberto Diary
+
+## n32
+# limit: 24 letters/line, 1 line
+JP: ロイ　ED1
+EN: Roy Ending 1
+
+## n33
+# limit: 24 letters/line, 1 line
+JP: ロイ　ED2
+EN: Roy Ending 2
+
+## n34
+# limit: 24 letters/line, 1 line
+JP: ロイ　日記
+EN: Roy Diary
+
+## n35
+# limit: 24 letters/line, 1 line
+JP: ティファニ－ED1
+EN: Tiffany Ending 1
+
+## n36
+# limit: 24 letters/line, 1 line
+JP: ティファニ－ED2
+EN: Tiffany Ending 2
+
+## n37
+# limit: 24 letters/line, 1 line
+JP: ティファニ－日記
+EN: Tiffany Diary
+
+## n38
+# limit: 24 letters/line, 1 line
+JP: ボ－マン　ED1
+EN: Boman Ending 1
+
+## n39
+# limit: 24 letters/line, 1 line
+JP: ボ－マン　ED2
+EN: Boman Ending 2
+
+## n40
+# limit: 24 letters/line, 1 line
+JP: ボ－マン　日記
+EN: Boman Diary
+
+## n41
+# limit: 24 letters/line, 1 line
+JP: エッジ　ED1
+EN: Edge Ending 1
+
+## n42
+# limit: 24 letters/line, 1 line
+JP: エッジ　ED2
+EN: Edge Ending 2
+
+## n43
+# limit: 24 letters/line, 1 line
+JP: エッジ　日記
+EN: Edge Diary
+
+## n44
+# limit: 24 letters/line, 1 line
+JP: 岩　ED1
+EN: Gan Ending 1
+
+## n45
+# limit: 24 letters/line, 1 line
+JP: 岩　ED2
+EN: Gan Ending 2
+
+## n46
+# limit: 24 letters/line, 1 line
+JP: 岩　日記
+EN: Gan Diary
+
+## n47
+# limit: 24 letters/line, 1 line
+JP: アキラ　ED1
+EN: Akira Ending 1
+
+## n48
+# limit: 24 letters/line, 1 line
+JP: アキラ　ED2
+EN: Akira Ending 2
+
+## n49
+# limit: 24 letters/line, 1 line
+JP: アキラ　日記
+EN: Akira Diary
+
+## n50
+# limit: 24 letters/line, 1 line
+JP: あきら　ED1
+EN: Unmasked Akira End 1
+
+## n51
+# limit: 24 letters/line, 1 line
+JP: 醍醐　ED1
+EN: Daigo Ending 1
+
+## n52
+# limit: 24 letters/line, 1 line
+JP: 醍醐　日記
+EN: Daigo Diary
+
+## n53
+# limit: 24 letters/line, 1 line
+JP: 英雄　ED1
+EN: Hideo Ending 1
+
+## n54
+# limit: 24 letters/line, 1 line
+JP: 英雄　ED2
+EN: Hideo Ending 2
+
+## n55
+# limit: 24 letters/line, 1 line
+JP: 英雄　日記
+EN: Hideo Diary
+
+## n56
+# limit: 24 letters/line, 1 line
+JP: 響子　ED1
+EN: Kyoko Ending 1
+
+## n57
+# limit: 24 letters/line, 1 line
+JP: 響子　ED2
+EN: Kyoko Ending 2
+
+## n58
+# limit: 24 letters/line, 1 line
+JP: 響子　日記
+EN: Kyoko Diary
+
+## n59
+# limit: 24 letters/line, 1 line
+JP: 雷蔵　ED1
+EN: Raizo Ending 1
+
+## n60
+# limit: 24 letters/line, 1 line
+JP: 雹　ED1
+EN: Hyo Ending 1
+
+## n61
+# limit: 24 letters/line, 1 line
+JP: 雹　日記
+EN: Hyo Diary
+
+## n62
+# limit: 24 letters/line, 1 line
+JP: 熱血隼人　ED1
+EN: Hayato Nekketsu End 1
+
+## n63
+# limit: 24 letters/line, 1 line
+JP: 熱血隼人　日記
+EN: Hayato Nekketsu Diary
+
+## n64
+# limit: 24 letters/line, 1 line
+JP: さくら　ED1
+EN: Sakura Ending 1
+
+## n65
+# limit: 24 letters/line, 1 line
+JP: さくら　ED2
+EN: Sakura Ending 2
+
+## n66
+# limit: 24 letters/line, 1 line
+JP: さくら　日記
+EN: Sakura Diary
+
+## n67
+# limit: 24 letters/line, 1 line
+JP: 流　ED1
+EN: Nagare Ending 1
+
+## n68
+# limit: 24 letters/line, 1 line
+JP: 流　日記
+EN: Nagare Diary
+
+## n69
+# limit: 24 letters/line, 1 line
+JP: ラン　ED1
+EN: Ran Ending 1
+
+## n70
+# limit: 24 letters/line, 1 line
+JP: ラン　日記
+EN: Ran Diary
+
+## n71
+# limit: 24 letters/line, 1 line
+JP: EDITキャラED1
+EN: EDIT Character End 1
+
+## n72
+# limit: 24 letters/line, 1 line
+JP: EDITキャラED2
+EN: EDIT Character End 2
+
+## n73
+# limit: 18 letters/line, 1 line
+JP: クラブ紹介　1
+EN: Club Intros 1
+
+## n74
+# limit: 20 letters/line, 1 line
+JP: クラブ紹介　2
+EN: Club Intros 2
+
+## n75
+# limit: 18 letters/line, 1 line
+JP: 夏の日の思い出　1
+EN: Summer Memories 1
+
+## n76
+# limit: 18 letters/line, 1 line
+JP: 夏の日の思い出　2
+EN: Summer Memories 2
+
+## n77
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　3
+EN: Summer Memories 3
+
+## n78
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　4
+EN: Summer Memories 4
+
+## n79
+# limit: 18 letters/line, 1 line
+JP: クリスマスの思い出
+EN: Xmas Memories
+
+## n80
+# limit: 22 letters/line, 1 line
+JP: 雷蔵　日記・特別編
+EN: Raizo Diary: Special
+
+## n81
+# limit: 24 letters/line, 1 line
+JP: ―売り切れ―
+EN: - Sold Out -
+
+## n82
+# limit: 24 letters/line, 1 line
+JP: ―入荷未定―
+EN: - Not in Stock -
+
+## d00
+# limit: 40 letters/line, 3 lines
+JP: ジャスティス学園キャラのイラストが{n}見られるトレ－ディングカ－ドです{n}中身は買ってのお楽しみ!
+EN: A trading card with art of a Rival Schools character. Which one? You'll find out when you buy it!
+
+## d01
+# limit: 40 letters/line, 3 lines
+JP: ジャスティス学園キャラのイラストが{n}見られる熱血カ－ドの10枚セットです{n}1枚ずつ買うよりちょっとお得です
+EN: A set of 10 trading cards with art of Rival Schools characters. A bit cheaper than buying them one at a time.
+
+## d02
+# limit: 40 letters/line, 3 lines
+JP: 隠しキャラの「体操着を着たひなた」{n}が使えるようになります
+EN: Unlocks the hidden character Hinata in her gym clothes.
+
+## d03
+# limit: 40 letters/line, 3 lines
+JP: 隠しキャラの「制服を着た夏」{n}が使えるようになります
+EN: Unlocks the hidden character Natsu in her school uniform.
+
+## d04
+# limit: 40 letters/line, 3 lines
+JP: 隠しキャラの「制服姿のティファニ－」{n}が使えるようになります
+EN: Unlocks the hidden character Tiffany in her school uniform.
+
+## d05
+# limit: 40 letters/line, 3 lines
+JP: 隠しキャラの「私服姿の響子先生」{n}が使えるようになります
+EN: Unlocks the hidden character Kyoko-sensei in her casual clothes.
+
+## d06
+# limit: 40 letters/line, 3 lines
+JP: ゲ－ム中に演奏されるBGMが聞ける{n}ジャスティス学園サウンドトラックCDです
+EN: The Rival Schools soundtrack CD. Listen to the music played during the game.
+
+## d07
+# limit: 40 letters/line, 3 lines
+JP: ア－ケ－ド版ジャスティス学園の販促用{n}ポスタ－です
+EN: A promotional poster for the arcade version of Rival Schools.
+
+## d08
+# limit: 40 letters/line, 3 lines
+JP: ジャスティス学園ムック表紙用の{n}イラストです
+EN: The cover illustration of the Rival Schools fan book.
+
+## d09
+# limit: 40 letters/line, 3 lines
+JP: プレイステ－ション版ジャスティス学園の{n}パッケ－ジイラストです
+EN: The package art of the PlayStation version of Rival Schools.
+
+## d10
+# limit: 40 letters/line, 3 lines
+JP: ジャスティス学園ドラマアルバムの{n}パッケ－ジイラストです
+EN: The package art of the Rival Schools drama CD.
+
+## d11
+# limit: 40 letters/line, 3 lines
+JP: ポケットステ－ション用のミニゲ－ムです{n}ポケットステ－ションを持っていれば{n}遊ぶことができます
+EN: A minigame for the PocketStation. You can play it if you own a PocketStation.
+
+## d12
+# limit: 40 letters/line, 3 lines
+JP: このアイテムを買うと、ロ－ディング画面{n}のイラストを見られるようになります
+EN: Buy this to unlock the illustrations shown on the loading screens.
+
+## d13
+# limit: 40 letters/line, 3 lines
+JP: スタッフロ－ルが見れるようになります
+EN: Lets you watch the staff credits.
+
+## d14
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのバツの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Batsu's good ending from 1P Mode anytime.
+
+## d15
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのバツの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Batsu's bad ending from 1P Mode anytime.
+
+## d16
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのバツとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Batsu anytime.
+
+## d17
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのひなたの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hinata's good ending from 1P Mode anytime.
+
+## d18
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのひなたの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hinata's bad ending from 1P Mode anytime.
+
+## d19
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのひなたとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Hinata anytime.
+
+## d20 d21
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの恭介の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Kyosuke's good ending from 1P Mode anytime.
+
+## d22
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での恭介との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Kyosuke anytime.
+
+## d23
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの将馬の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Shoma's good ending from 1P Mode anytime.
+
+## d24
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの将馬の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Shoma's bad ending from 1P Mode anytime.
+
+## d25
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での将馬との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Shoma anytime.
+
+## d26
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの夏の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Natsu's good ending from 1P Mode anytime.
+
+## d27
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの夏の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Natsu's bad ending from 1P Mode anytime.
+
+## d28
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での夏との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Natsu anytime.
+
+## d29
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのロベルトの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Roberto's good ending from 1P Mode anytime.
+
+## d30
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのロベルトの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Roberto's bad ending from 1P Mode anytime.
+
+## d31
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのロベルトとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Roberto anytime.
+
+## d32
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのロイの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Roy's good ending from 1P Mode anytime.
+
+## d33
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのロイの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Roy's bad ending from 1P Mode anytime.
+
+## d34
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのロイとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Roy anytime.
+
+## d35
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのティファニ－の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Tiffany's good ending from 1P Mode anytime.
+
+## d36
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのティファニ－の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Tiffany's bad ending from 1P Mode anytime.
+
+## d37
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのティファニ－との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Tiffany anytime.
+
+## d38
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのボ－マンの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Boman's good ending from 1P Mode anytime.
+
+## d39
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのボ－マンの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Boman's bad ending from 1P Mode anytime.
+
+## d40
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのボ－マンとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Boman anytime.
+
+## d41
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのエッジの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Edge's good ending from 1P Mode anytime.
+
+## d42
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのエッジの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Edge's bad ending from 1P Mode anytime.
+
+## d43
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのエッジとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Edge anytime.
+
+## d44
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの岩の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Gan's good ending from 1P Mode anytime.
+
+## d45
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの岩の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Gan's bad ending from 1P Mode anytime.
+
+## d46
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での岩との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Gan anytime.
+
+## d47
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのアキラの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Akira's good ending from 1P Mode anytime.
+
+## d48
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのアキラの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Akira's bad ending from 1P Mode anytime.
+
+## d49
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのアキラとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Akira anytime.
+
+## d50
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの素顔あきらの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch the bad ending of Akira without her helmet from 1P Mode anytime.
+
+## d51
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの醍醐の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Daigo's good ending from 1P Mode anytime.
+
+## d52
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での醍醐との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Daigo anytime.
+
+## d53
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの英雄の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hideo's good ending from 1P Mode anytime.
+
+## d54
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの英雄の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hideo's bad ending from 1P Mode anytime.
+
+## d55
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での英雄との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Hideo anytime.
+
+## d56
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの響子の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Kyoko's good ending from 1P Mode anytime.
+
+## d57
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの響子の{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Kyoko's bad ending from 1P Mode anytime.
+
+## d58
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での響子との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Kyoko anytime.
+
+## d59
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの雷蔵の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Raizo's good ending from 1P Mode anytime.
+
+## d60
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの雹の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hyo's good ending from 1P Mode anytime.
+
+## d61
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での雹との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Hyo anytime.
+
+## d62
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの熱血隼人の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Hayato Nekketsu's good ending from 1P Mode anytime.
+
+## d63
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での熱血隼人との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Hayato Nekketsu anytime.
+
+## d64
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのさくらの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Sakura's good ending from 1P Mode anytime.
+
+## d65
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのさくらの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Sakura's bad ending from 1P Mode anytime.
+
+## d66
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのさくらとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Sakura anytime.
+
+## d67
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドの流の{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Nagare's good ending from 1P Mode anytime.
+
+## d68
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」での流との{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Nagare anytime.
+
+## d69
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのランの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch Ran's good ending from 1P Mode anytime.
+
+## d70
+# limit: 40 letters/line, 3 lines
+JP: 「熱血青春日記」でのランとの{n}思い出がいつでも見れるようになります
+EN: Lets you relive your Hot-Blooded Youth Diary memories with Ran anytime.
+
+## d71
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのEDITキャラの{n}グッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch the EDIT character's good ending from 1P Mode anytime.
+
+## d72
+# limit: 40 letters/line, 3 lines
+JP: 「一人で遊ぶ」モ－ドのEDITキャラの{n}バッドエンディングがいつでも見れるように{n}なります
+EN: Lets you watch the EDIT character's bad ending from 1P Mode anytime.
+
+## d73 d74
+# limit: 40 letters/line, 3 lines
+JP: ランちゃんの秘蔵コレクションです{n}クラブ担当の人のアルバムが{n}いつでも見れるようになります
+EN: From Ran's secret collection. Lets you view her album of the people who run each club anytime.
+
+## d75 d76 d77 d78
+# limit: 40 letters/line, 3 lines
+JP: ランちゃんの秘蔵コレクションです{n}夏に撮ったみんなのアルバムを{n}いつでも見れるようになります
+EN: From Ran's secret collection. Lets you view her album of everyone's summer photos anytime.
+
+## d79
+# limit: 40 letters/line, 3 lines
+JP: ランちゃんの秘蔵コレクションです{n}クリスマスの時のアルバムが{n}いつでも見れるようになります
+EN: From Ran's secret collection. Lets you view her Christmas album anytime.
+
+## d80
+# limit: 40 letters/line, 3 lines
+JP: 学園長のプライベ－トコレクションです{n}学園長のアルバムが{n}いつでも見れるようになります
+EN: From the principal's private collection. Lets you view his album anytime.
+
+## d81
+# limit: 40 letters/line, 3 lines
+JP: この品物は売りきれました
+EN: This item is sold out.
+
+## d82
+# limit: 40 letters/line, 3 lines
+JP: この品物の入荷は未定です
+EN: No word yet on when this item will arrive.
+
+## m00
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: いらっしゃいませ{n}何か欲しいものがあるのかしら?
+EN: Welcome! Is there something you'd like?
+
+## m01
+# limit: 40 letters/line, 2 lines
+JP: これを買うのね?{n}{n}　　　　　はい　　　　　　いいえ　　　　
+EN: So you'd like this one?
+
+## m02
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: お買い上げありがとうございます
+EN: Thank you for your purchase!
+
+## m03
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: あら?{n}ポイントが足りないみたいね
+EN: Oh? It looks like you don't have enough points.
+
+## m04
+# limit: 40 letters/line, 2 lines
+JP: あら、もう帰るの?{n}{n}　　　　　はい　　　　　　いいえ　　　　
+EN: Oh, leaving already?
+
+## m05
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: まいどありがとうございました{n}またのご来店をお待ちしております
+EN: Thank you very much! We look forward to seeing you again.
+
+## m06
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: お買い上げありがとうございます{n}キャラクタ－セレクトで「ひなた」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるわよ
+EN: Thank you for your purchase! Move the cursor to Hinata on the character select screen and press START to play as her.
+
+## m07
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: お買い上げありがとうございます{n}キャラクタ－セレクトで「夏」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるわよ
+EN: Thank you for your purchase! Move the cursor to Natsu on the character select screen and press START to play as her.
+
+## m08
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: お買い上げありがとうございます{n}キャラクタ－セレクトで「ティファニ－」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるわよ
+EN: Thank you for your purchase! Move the cursor to Tiffany on the character select screen and press START to play as her.
+
+## m09
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: お買い上げありがとうございます{n}キャラクタ－セレクトで「響子」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるわよ
+EN: Thank you for your purchase! Move the cursor to Kyoko on the character select screen and press START to play as her.
+
+## m10
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: おや、いらっしゃい{n}今日は珍しいものがそろってるよ
+EN: Well, hello there, dearie. I've got some rare goods in today.
+
+## m11
+# limit: 40 letters/line, 2 lines
+JP: これを買うんだね?{n}{n}　　　　　はい　　　　　　いいえ　　　　
+EN: You're buyin' this one, then?
+
+## m12
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: はい、まいど
+EN: Here ya go. Much obliged.
+
+## m13
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: おや、ポイントが足りないみたいだよ{n}残念だねえ
+EN: Oh dear, looks like you're short on points. What a shame.
+
+## m14
+# limit: 40 letters/line, 2 lines
+JP: ん?　もう帰るのかい?{n}{n}　　　　　はい　　　　　　いいえ　　　　
+EN: Hm? Headin' home already?
+
+## m15
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: また欲しいものがあったら、{n}いつでもおいで
+EN: If you find somethin' else you want, come on back anytime.
+
+## m16
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: はい、まいど{n}キャラクタ－セレクトで「ひなた」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるからね
+EN: Here ya go, dearie. Put the cursor on Hinata at character select and press START, and you can play as her.
+
+## m17
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: はい、まいど{n}キャラクタ－セレクトで「夏」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるからね
+EN: Here ya go, dearie. Put the cursor on Natsu at character select and press START, and you can play as her.
+
+## m18
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: はい、まいど{n}キャラクタ－セレクトで「ティファニ－」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるからね
+EN: Here ya go, dearie. Put the cursor on Tiffany at character select and press START, and you can play as her.
+
+## m19
+# limit: 40 letters/line, 4 lines, 140 letters total
+JP: はい、まいど{n}キャラクタ－セレクトで「響子」に{n}カ－ソルをあわせてSTARTボタンを{n}おすと使えるようになるからね
+EN: Here ya go, dearie. Put the cursor on Kyoko at character select and press START, and you can play as her.
+
+## c00
+# limit: 10 letters/line, 1 line
+JP: カ―ドNo
+EN: Card No.
+
+## c01
+# limit: 12 letters/line, 1 line
+JP: を手に入れた
+EN: obtained!
+
+## yes
+# limit: 4 letters/line, 1 line
+JP: はい
+EN: Yes
+
+## no
+# limit: 6 letters/line, 1 line
+JP: いいえ
+EN: No

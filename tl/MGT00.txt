@@ -1,0 +1,464 @@
+## MGT00 g0 s0000
+JP: よぉ、バツ!{n}何一人でたそがれてんだよ!{p}{end}
+EN: Yo, Batsu! What're you moping around for all by yourself?{p}{end}
+
+## MGT00 g0 s0001
+JP: ああ、{v3:0}か……。{n}こないだの三者面談で、{n}ちょっとな。{p}{end}
+EN: Oh, it's you, {v3:0}... Just somethin' from that parent-teacher meeting the other day.{p}{end}
+
+## MGT00 g0 s0002
+JP: 先生に何か言われたのか?{p}{end}
+EN: Did the teacher say something to you?{p}{end}
+
+## MGT00 g0 s0003
+JP: 別に、俺が教師に何を言われようと{n}構わないし、知ったこっちゃないぜ。{n}でも、母さんが頭下げて{n}謝ってるのを見るとなぁ……。{p}
+EN: Look, I don't care what teachers say about me. Not my problem. But seein' Mom bowin' her head and apologizin'... man...{p}
+
+## MGT00 g0 s0004
+JP: ずっと女手一つで大変だったのに、{n}俺は勝手な事ばっかり{n}やってきたからなぁ……。{p}{end}
+EN: She's had it rough raisin' me all on her own, and all I ever did was whatever I wanted...{p}{end}
+
+## MGT00 g0 s0005
+JP: まじめに勉強したら?{n}誕生日プレゼントでも贈れば?{p}
+EN: Why not study for real?{n}How about a birthday present?{p}
+
+## MGT00 g0 s0006
+JP: なら、まず勉強だな。{n}とりあえず成績さえ上がれば、{n}三者面談は気にする事ないだろ?{p}
+EN: Then studying comes first. As long as your grades go up, you won't have to worry about the meeting, right?{p}
+
+## MGT00 g0 s0007
+JP: お前……簡単に言うけどよ、{n}それが出来たら苦労しないって……。{p}
+EN: Easy for you to say... If I could do that, I wouldn't have a problem...{p}
+
+## MGT00 g0 s0008
+JP: （バツは落ち込んだまま、{n}{sp}階段を降りていった……。{n}{sp}もう少しいい助言ができたかなぁ……）{p}{end}
+EN: (Batsu headed down the stairs, still looking down... Maybe I could've given him better advice...){p}{end}
+
+## MGT00 g0 s0009
+JP: そうだなぁ……。{n}じゃあ、誕生日プレゼントでも{n}あげたらどうだ?{p}{end}
+EN: Let's see... Then how about giving her a birthday present?{p}{end}
+
+## MGT00 g0 s0010
+JP: プレゼントか……。{n}その手があるな!{p}{end}
+EN: A present, huh... That's an idea!{p}{end}
+
+## MGT00 g0 s0011
+JP: おばさんの誕生日はいつなんだ?{p}
+EN: When's your mom's birthday?{p}
+
+## MGT00 g0 s0012
+JP: 大丈夫!{n}まだまだ時間はあるぜ。{n}よぉし、そうと決まれば{n}今日からバイト増やしてやるぜ!!{p}
+EN: No worries! There's still plenty of time. Alright, that settles it, I'm pickin' up extra shifts startin' today!!{p}
+
+## MGT00 g0 s0013
+JP: （あれ、バツだよな……。{n}{sp}自転車寝かせて……、{n}{sp}どうしたんだ?）{p}{end}
+EN: (Hey, that's Batsu... His bike's lying on the ground... What's up?){p}{end}
+
+## MGT00 g0 s0014
+JP: おーい、バツ!{n}一体どうしたんだよ。{p}{end}
+EN: Hey, Batsu! What happened?{p}{end}
+
+## MGT00 g0 s0015
+JP: あっ、{v3:0}。{n}今、夕刊配ってるとこなんだけど、{n}自転車のチェーンが切れやがってよ!{n}まったく、ツイてないぜ……。{p}{end}
+EN: Ah, {v3:0}. I'm in the middle of deliverin' the evening paper, and my bike chain snapped on me! Man, what luck...{p}{end}
+
+## MGT00 g0 s0016
+JP: どれどれ……、{n}あちゃ～、{n}これは完全にちぎれてるな……。{n}どっか錆びてたんだな。{p}
+EN: Let's see... Oof, this is snapped clean through... Must've rusted somewhere.{p}
+
+## MGT00 g0 s0017
+JP: くそぅ……、{n}今から自転車取りになんか{n}帰ってらんねぇしな……。{p}{end}
+EN: Dammit... I can't go all the way home for another bike now...{p}{end}
+
+## MGT00 g0 s0018
+JP: ……よし、{n}じゃあ俺が手伝ってやるよ。{n}手分けして回ればどうにかなるだろう。{p}{end}
+EN: ...Okay, then I'll help you out. If we split up the route, we can manage.{p}{end}
+
+## MGT00 g0 s0019
+JP: ホントか!?{n}よし、じゃあ頼むぜ!!{p}{end}
+EN: Seriously!? Alright, I'm countin' on ya!!{p}{end}
+
+## MGT00 g0 s0020
+JP: いいか?{n}配り方を今から説明するぜ。{n}俺が担当してる地区は、全部で3つ。{n}西地区、中地区、東地区だ。{p}{end}
+EN: Listen up. I'm gonna explain how we deliver. My route's got 3 districts: West, Central and East.{p}{end}
+
+## MGT00 g0 s0021
+JP: 俺が西地区に行く時は、お前は中地区。{n}同様に、{n}俺が中地区なら東地区、{n}俺が東地区なら西地区へ行ってくれ。{p}
+EN: When I go to West, you do Central. Same deal, if I'm in Central, you take East, and if I'm in East, you take West.{p}
+
+## MGT00 g0 s0022
+JP: どうだ?{n}わかったか?{p}
+EN: So? Got it?{p}
+
+## MGT00 g0 s0023
+JP: もう一回頼む{n}バッチリ覚えたぜ!{p}{end}
+EN: One more time, please{n}Got it down cold!{p}{end}
+
+## MGT00 g0 s0024
+JP: よぉし!{n}じゃあさっそく行くぜ!{n}俺は西地区へ行ってくる!{p}
+EN: Alright! Let's get movin'! I'm headin' to West!{p}
+
+## MGT00 g0 s0025
+JP: （じゃあ俺は……）{p}
+EN: (Then I'll go to...){p}
+
+## MGT00 g0 s0026
+JP: 西地区{n}中地区{n}東地区{p}
+EN: West District{n}Central District{n}East District{p}
+
+## MGT00 g0 s0027
+JP: よぉし、{n}今度は東地区に行ってくるぜ!{p}
+EN: Alright, now I'm headin' to East!{p}
+
+## MGT00 g0 s0030
+JP: いい感じだ!{n}最後は中地区に行ってくれ!{p}{end}
+EN: Lookin' good! Last one, go to Central!{p}{end}
+
+## MGT00 g0 s0031
+JP: （どこに行く?）{p}{end}
+EN: (Where to?){p}{end}
+
+## MGT00 g0 s0033
+JP: ふぅ～終わったぜ!!{n}助かったよ、{v3:0}!{n}お前がいなかったら無理だったよ。{p}
+EN: Phew, done!! You saved me, {v3:0}! Couldn't've done it without ya.{p}
+
+## MGT00 g0 s0034
+JP: ちょっとキツかったけどな。{n}でも、楽しかったよ。{p}{end}
+EN: It was a little rough. But it was fun.{p}{end}
+
+## MGT00 g0 s0035
+JP: ほら、これはバイト代だ。{n}遠慮無く受け取ってくれ!!{p}{end}
+EN: Here, your pay. Don't be shy, take it!!{p}{end}
+
+## MGT00 g0 s0036
+JP: {col:0}『缶コーヒー』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Canned Coffee"{col:-}!{p}{end}
+
+## MGT00 g0 s0037
+JP: ちがう、そうじゃないだろうが!{n}ちゃんと説明聞いてたのか?{n}もういい、後は俺がやるよ!{p}
+EN: No, not there! Were you even listenin'? Forget it, I'll do the rest!{p}
+
+## MGT00 g0 s0038
+JP: （はぁ……{n}{sp}足引っ張っちゃったな……）{p}{end}
+EN: (Sigh... I just held him back...){p}{end}
+
+## MGT00 g0 s0039
+JP: バツ{n}「お～い、{v3:0}!!」{p}
+EN: Batsu{n}"Heyyy, {v3:0}!!"{p}
+
+## MGT00 g0 s0040
+JP: ああ、バツか。{n}そんなに急いでどうしたんだ?{p}{end}
+EN: Oh, Batsu. What's the big rush?{p}{end}
+
+## MGT00 g0 s0041
+JP: ああ、実は母さんの誕生日プレゼントを{n}買いに行くんだけど、{n}{v3:0}、ついてきてくれないか?{p}{end}
+EN: Yeah, see, I'm goin' to buy Mom's birthday present. {v3:0}, wanna come with me?{p}{end}
+
+## MGT00 g0 s0042
+JP: いいぜ、{n}どうせ暇だったからな。{p}{end}
+EN: Sure, I wasn't doing anything anyway.{p}{end}
+
+## MGT00 g0 s0043
+JP: ……で、バツ。{n}一体何を買うつもりなんだ?{p}
+EN: ...So, Batsu. What are you planning to buy?{p}
+
+## MGT00 g0 s0044
+JP: それなんだけど……考えてねぇ。{p}
+EN: About that... I got no idea.{p}
+
+## MGT00 g0 s0045
+JP: （ガクッ）{n}お、おい。{n}それぐらい考えて来いよ。{p}{end}
+EN: (*Slump*) H-hey. You could've at least figured that out first.{p}{end}
+
+## MGT00 g0 s0046
+JP: だってよぉ、{n}母さんにプレゼントなんて初めてだし、{n}何買っていいかわかんねぇんだよ。{p}{end}
+EN: C'mon, it's my first time ever buyin' Mom a present. I dunno what to get.{p}{end}
+
+## MGT00 g0 s0047
+JP: だから、こうやってお前について来て{n}もらったんじゃないか。{p}
+EN: That's why I asked you to come along, right?{p}
+
+## MGT00 g0 s0048
+JP: やれやれ……、{n}じゃ、とりあえず見て回ろうか。{p}
+EN: Good grief... Well, let's just look around for now.{p}
+
+## MGT00 g0 s0051
+JP: よし、大体候補はこれぐらいだな。{n}じゃあ、{v3:0}が選んでくれ!!{n}俺が考えたって迷うだけだしな!{p}
+EN: Okay, that's about it for options. So, {v3:0}, you pick!! If I think about it, I'll just get stuck!{p}
+
+## MGT00 g0 s0052
+JP: ハンカチを薦める{n}エプロンを薦める{n}指輪を薦める{p}{end}
+EN: Suggest the handkerchief{n}Suggest the apron{n}Suggest the ring{p}{end}
+
+## MGT00 g0 s0053
+JP: ん～それじゃあな、{n}このハンカチなんてどうだ?{n}そんなに派手じゃないし、{n}実用性もあるからな。{p}
+EN: Hmm, then how about this handkerchief? It's not too flashy, and it's practical.{p}
+
+## MGT00 g0 s0054
+JP: なるほどな!{n}じゃあこれください!!{p}{end}
+EN: Good call! I'll take this one, please!!{p}{end}
+
+## MGT00 g0 s0056
+JP: よし、これで準備も完璧だぜ!{n}後は誕生日を待つだけだな!{p}{end}
+EN: Alright, that's everything ready! Now I just wait for her birthday!{p}{end}
+
+## MGT00 g0 s0057
+JP: サンキュー、{v3:0}。{n}お前がいてくれてホントによかったぜ!{n}2年になってもよろしく頼むぜ!!{p}
+EN: Thanks, {v3:0}. Man, I'm glad I had ya! Here's to second year, too!!{p}
+
+## MGT00 g0 s0058
+JP: このエプロンがいいよ。{n}いつもご飯作ってもらってる事を{n}感謝しないとね。{p}{end}
+EN: This apron's good. You should thank her for always cooking for you.{p}{end}
+
+## MGT00 g0 s0059
+JP: それだそれ!!{n}こういうのを探してたんだ!{n}すいませ～ん、コレください!!{p}
+EN: That's it, that's it!! That's what I was lookin' for! 'Scuse me, I'll take this!!{p}
+
+## MGT00 g0 s0061
+JP: ありがとうな、{v3:0}……。{n}オレがここまで頑張れたのは、{n}お前がいてくれたからだぜ。{p}
+EN: Thanks, {v3:0}... The only reason I could push this hard is 'cause I had you.{p}
+
+## MGT00 g0 s0062
+JP: それはこっちも同じさ。{n}がんばるお前を見て、{n}俺もがんばらなきゃって思ったんだ。{p}{end}
+EN: Same here. Watching you work so hard made me think I had to work hard too.{p}{end}
+
+## MGT00 g0 s0063
+JP: じゃあお互い様って事か!{n}さすが俺たち、いいコンビだぜ!!{p}
+EN: So we're even! That's us, a great team!!{p}
+
+## MGT00 g0 s0064
+JP: どうせあげるなら、{n}この指輪なんてどうだ?{p}
+EN: If you're gonna give her something, how about this ring?{p}
+
+## MGT00 g0 s0065
+JP: ちょ、ちょっと待てよ!{n}そんな高いもの買えるわけないだろ!{n}ちょっと考えればわかるだろうが!!{p}
+EN: H-hold on! There's no way I can buy somethin' that pricey! Think for a sec, would ya!!{p}
+
+## MGT00 g0 s0066
+JP: う～ん、そりゃそうか。{p}
+EN: Hmm, I guess that's true.{p}
+
+## MGT00 g0 s0067
+JP: ちっ、こんな時にふざけやがって!{n}いいや、もうお前には頼まねぇ!!{p}
+EN: Tch, foolin' around at a time like this! Forget it, I ain't askin' you anymore!!{p}
+
+## MGT00 g0 s0068
+JP: （あらら……もう少しまじめに{n}{sp}考えてやればよかったな……）{p}{end}
+EN: (Whoops... I should've taken it a bit more seriously...){p}{end}
+
+## MGT00 g0 s0069
+JP: ドンドン!{sp}ドンドンドン!{p}
+EN: *Bang bang! Bang bang bang!*{p}
+
+## MGT00 g0 s0070
+JP: ん?{n}玄関をノックする音がする。{n}誰か来たみたいだ。{p}{end}
+EN: Hm? Someone's knocking at the front door. Looks like I've got a visitor.{p}{end}
+
+## MGT00 g0 s0071
+JP: よぉ、{v3:0}。{n}勝手に上がらせてもらうぜ。{p}{end}
+EN: Yo, {v3:0}. I'm lettin' myself in.{p}{end}
+
+## MGT00 g0 s0072
+JP: よぉバツ……どうしたんだ、{n}こんな時間に。{p}
+EN: Hey, Batsu... What's up, at this hour?{p}
+
+## MGT00 g0 s0073
+JP: へへへ、お前にこれをやろうと{n}思ってよ……。{n}ほら、今日お前誕生日だろ?{p}{end}
+EN: Heh heh, figured I'd give you this... It's your birthday today, right?{p}{end}
+
+## MGT00 g0 s0074
+JP: あ……そうだっけ、忘れてた。{n}覚えててくれたんだ。{n}ありがとう。{p}{end}
+EN: Oh... is it? I forgot. You remembered. Thanks.{p}{end}
+
+## MGT00 g0 s0075
+JP: よせよ……。{n}で、プレゼントがコレだ。{n}俺の手作りなんだぜ。{p}{end}
+EN: Cut it out... Anyway, here's your present. Made it myself.{p}{end}
+
+## MGT00 g0 s0076
+JP: これって……『風車』か。{n}へぇ、風車なんて、{n}今時しゃれたおもちゃだね。{n}こんなの作れるんだ。{p}
+EN: This is... a pinwheel? Huh, a pinwheel. That's a cute old-fashioned toy. You can make these?{p}
+
+## MGT00 g0 s0077
+JP: お前何いってんだよ?{n}風車だぜ?{n}おもちゃじゃなくて忍び道具だろ?{p}
+EN: What're you talkin' about? It's a pinwheel! It ain't a toy, it's a ninja tool!{p}
+
+## MGT00 g0 s0078
+JP: え?{sp}それはお前……、{n}違うんじゃないか?{p}
+EN: Huh? Um... I don't think that's right?{p}
+
+## MGT00 g0 s0079
+JP: だってお前……{n}風車はこうやって使うんだろ?{p}{end}
+EN: C'mon... You use a pinwheel like this, right?{p}{end}
+
+## MGT00 g0 s0080
+JP: ヒュッ!{n}コッ!{n}……カラカラカラカラ……{p}
+EN: *Whoosh!* *Thunk!* ...Whirrrrr...{p}
+
+## MGT00 g0 s0081
+JP: （バツが風車を投げると、{n}{sp}鋭い音をたてて柱にささった……）{p}{end}
+EN: (Batsu threw the pinwheel, and it stuck in a pillar with a sharp sound...){p}{end}
+
+## MGT00 g0 s0082
+JP: な?{n}れっきとした忍者グッズだろ?{p}
+EN: See? A bona fide ninja tool, right?{p}
+
+## MGT00 g0 s0083
+JP: （なんか……勘違いしてる気もするが、{n}{sp}まぁいいか……。{n}{sp}風車もキレイだし……）{p}
+EN: (I kinda feel like he's got it wrong, but... oh well. It's a pretty pinwheel, anyway...){p}
+
+## MGT00 g0 s0084
+JP: ありがとな、バツ。{n}大切にするよ。{p}
+EN: Thanks, Batsu. I'll take good care of it.{p}
+
+## MGT00 g0 s0085
+JP: へへっ、いいってことよ。{n}それじゃな、俺は帰るぜ。{p}
+EN: Heh, don't mention it. Well, I'm off home.{p}
+
+## MGT00 g0 s0086
+JP: ああ……ありがとう。{p}{end}
+EN: Yeah... thanks.{p}{end}
+
+## MGT00 g0 s0087
+JP: 風車が忍び道具か……。{n}バツらしいや。{p}
+EN: A pinwheel as a ninja tool, huh... That's Batsu for you.{p}
+
+## MGT00 g0 s0088
+JP: {col:0}『忍び道具・風車』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Ninja Tool: Pinwheel"{col:-}!{p}{end}
+
+## MGT00 g0 s0089
+JP: へへへ、お前にこれをやろうと{n}思ってよ……。{n}ほら、こないだお前誕生日だっただろ?{p}
+EN: Heh heh, figured I'd give you this... Your birthday was the other day, right?{p}
+
+## MGT00 g0 s0090
+JP: あ……覚えててくれたんだ。{n}ありがとう。{p}{end}
+EN: Oh... you remembered. Thanks.{p}{end}
+
+## MGT00 g0 s0091
+JP: あの時、渡せなかったからよ。{n}そのプレゼントがコレだ。{n}俺の手作りなんだぜ。{p}{end}
+EN: I couldn't give it to ya back then. So here's that present. Made it myself.{p}{end}
+
+## MGT00 g1 s0000
+JP: ねぇ、バツ。{n}何一人でたそがれてんのよ!{p}{end}
+EN: Hey, Batsu. What're you moping around for all by yourself?{p}{end}
+
+## MGT00 g1 s0002
+JP: 先生に何か言われたの?{p}
+EN: Did the teacher say something to you?{p}
+
+## MGT00 g1 s0006
+JP: なら、まず勉強したら{sp}{n}とりあえず成績さえ上がれば、{n}三者面談は気にする事ないでしょ?{p}
+EN: Then why not study first? As long as your grades go up, you won't have to worry about the meeting, right?{p}
+
+## MGT00 g1 s0008
+JP: （バツは落ち込んだまま、{n}{sp}階段を降りていった……。{n}{sp}もう少しいい助言できたかなァ……）{p}
+EN: (Batsu headed down the stairs, still looking down... Maybe I could've given him better advice...){p}
+
+## MGT00 g1 s0009
+JP: そうね……。{n}じゃあ、誕生日プレゼントでも{n}あげたらどう?{p}
+EN: Hmm... Then how about giving her a birthday present?{p}
+
+## MGT00 g1 s0011
+JP: おばさんの誕生日はいつなの?{p}{end}
+EN: When's your mom's birthday?{p}{end}
+
+## MGT00 g1 s0013
+JP: （あれ、バツだよね……。{n}{sp}自転車寝かせて……、{n}{sp}どうしたんだろ?）{p}
+EN: (Huh, that's Batsu, right... His bike's lying on the ground... What's wrong?){p}
+
+## MGT00 g1 s0014
+JP: ハァイ、バツ!{n}一体どうしちゃったの?{p}
+EN: Hiya, Batsu! What happened to you?{p}
+
+## MGT00 g1 s0016
+JP: どれどれ……、{n}あちゃ～、{n}これは完全にちぎれてるわね……。{n}どっか錆びてたんじゃない?{p}{end}
+EN: Let's see... Oof, this is snapped clean through... Maybe it rusted somewhere?{p}{end}
+
+## MGT00 g1 s0018
+JP: ……よし、{n}じゃあ私が手伝ってあげる。{n}手分けして回ればどうにかなるでしょ。{p}{end}
+EN: ...Okay, then I'll help you out. If we split up the route, we can manage.{p}{end}
+
+## MGT00 g1 s0023
+JP: もう一回お願い{n}バッチリ覚えたよ!{p}
+EN: One more time, please{n}Got it down!{p}
+
+## MGT00 g1 s0025
+JP: （じゃあ私は……）{p}
+EN: (Then I'll go to...){p}
+
+## MGT00 g1 s0034
+JP: ちょっとキツかったけどネ。{n}でも、楽しかったよ。{p}{end}
+EN: It was a little rough. But it was fun.{p}{end}
+
+## MGT00 g1 s0040
+JP: ああ、バツじゃない。{n}そんなに急いでどうしたの?{p}{end}
+EN: Oh, it's Batsu. What's the big rush?{p}{end}
+
+## MGT00 g1 s0042
+JP: いいよ、{n}どうせ暇だったし。{p}{end}
+EN: Sure, I wasn't doing anything anyway.{p}{end}
+
+## MGT00 g1 s0043
+JP: ……で、バツ。{n}一体何を買うつもりなの?{p}{end}
+EN: ...So, Batsu. What are you planning to buy?{p}{end}
+
+## MGT00 g1 s0045
+JP: （ガクッ）{n}ちょ、ちょっと。{n}それぐらい考えてから来てよ。{p}
+EN: (*Slump*) H-hey. You could've at least figured that out before coming.{p}
+
+## MGT00 g1 s0048
+JP: やれやれ……、{n}じゃ、とりあえず見て回ろうよ。{p}
+EN: Good grief... Well, let's just look around for now.{p}
+
+## MGT00 g1 s0053
+JP: ん～それじゃあね、{n}このハンカチなんてどう?{n}そんなに派手じゃないし、{n}実用性もあるから。{p}
+EN: Hmm, then how about this handkerchief? It's not too flashy, and it's practical.{p}
+
+## MGT00 g1 s0062
+JP: それはこっちも同じよ。{n}がんばるバツを見て、{n}私もがんばらなきゃって思ったんだ。{p}{end}
+EN: Same here. Watching you work so hard, Batsu, made me think I had to work hard too.{p}{end}
+
+## MGT00 g1 s0064
+JP: どうせあげるなら、{n}この指輪なんてどう?{p}{end}
+EN: If you're gonna give her something, how about this ring?{p}{end}
+
+## MGT00 g1 s0066
+JP: う～ん、{n}そういえばそうね。{p}{end}
+EN: Hmm, now that you mention it, that's true.{p}{end}
+
+## MGT00 g1 s0070
+JP: ん?{n}玄関をノックする音がする。{n}誰か来たみたいね。{p}{end}
+EN: Hm? Someone's knocking at the front door. Looks like someone's here.{p}{end}
+
+## MGT00 g1 s0072
+JP: バツ……一体どうしたのよ、{n}こんな時間に。{p}
+EN: Batsu... What's going on, at this hour?{p}
+
+## MGT00 g1 s0076
+JP: これって……『風車』ね。{n}へぇ、風車なんて、{n}今時しゃれたおもちゃね。{n}こんなの作れるんだ。{p}{end}
+EN: This is... a pinwheel? Huh, a pinwheel. That's a cute old-fashioned toy. You can make these?{p}{end}
+
+## MGT00 g1 s0078
+JP: え?{sp}それは……、{n}違うんじゃないかナ?{p}{end}
+EN: Huh? Um... I don't think that's right?{p}{end}
+
+## MGT00 g1 s0083
+JP: （なんか……勘違いしてる気もするけど、{n}{sp}まぁいいか……。{n}{sp}風車もキレイだし……）{p}{end}
+EN: (I kinda feel like he's got it wrong, but... oh well. It's a pretty pinwheel, anyway...){p}{end}
+
+## MGT00 g1 s0084
+JP: ありがとね、バツ。{n}大切にするよ。{p}
+EN: Thanks, Batsu. I'll take good care of it.{p}
+
+## MGT00 g1 s0086
+JP: うん……ありがとう。{p}{end}
+EN: Yeah... thanks.{p}{end}
+
+## MGT00 g1 s0087
+JP: 風車が忍び道具か……。{n}バツらしいな。{p}
+EN: A pinwheel as a ninja tool, huh... That's so Batsu.{p}
+
+## MGT00 g1 s0092
+JP: これって……『風車』ね。{n}へぇ、風車なんて、{n}今時しゃれたおもちゃだね。{n}こんなの作れるんだ。{p}
+EN: This is... a pinwheel? Huh, a pinwheel. That's a cute old-fashioned toy. You can make these?{p}
+

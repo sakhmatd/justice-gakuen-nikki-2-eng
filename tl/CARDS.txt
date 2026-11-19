@@ -1,0 +1,56 @@
+JP: 4月8日|入学式
+EN: April 8|Entrance Ceremony
+
+JP: 1学期中間試験
+EN: 1st Term Midterm
+
+JP: 6月12日|太P戦
+EN: June 12|Taiyo-Pacific Match
+
+JP: 1学期期末試験
+EN: 1st Term Final
+
+JP: 8月13～14日|臨海合宿
+EN: August 13-14|Seaside Camp
+
+JP: 9月25日|学園祭
+EN: September 25|School Festival
+
+JP: 2学期中間試験
+EN: 2nd Term Midterm
+
+JP: 11月27日|五輪祭
+EN: November 27|Gorin Festival
+
+JP: 2学期期末試験
+EN: 2nd Term Final
+
+JP: 12月24日|クリスマス
+EN: December 24|Christmas
+
+JP: 1月1日|初詣
+EN: January 1|New Year's Shrine Visit
+
+JP: 2月14日|バレンタインデー
+EN: February 14|Valentine's Day
+
+JP: 進級試験
+EN: Promotion Exam
+
+JP: 学年末試験
+EN: Year-End Exam
+
+JP: 3月24日|終業式
+EN: March 24|Closing Ceremony
+
+JP: 4月16日|遠足
+EN: April 16|School Trip
+
+JP: 7月31日|プール
+EN: July 31|Pool
+
+JP: 3月14日|ホワイトデー
+EN: March 14|White Day
+
+JP: 8月28日|夏祭り
+EN: August 28|Summer Festival

@@ -1,0 +1,764 @@
+## MGT0A g0 s0000
+JP: 放課後。{n}買い物をしてるウチに{n}ちょっと遅くなっちゃったなぁ。{p}
+EN: After school. Shopping took longer than I thought, and now it's kinda late.{p}
+
+## MGT0A g0 s0001
+JP: 「{v5:10}じゃない。」{p}
+EN: "{v5:10}? Is that you?"{p}
+
+## MGT0A g0 s0002
+JP: ああ、アキラ。{n}どうしたの、こんなトコロで。{p}{end}
+EN: Oh, Akira. What are you doing here?{p}{end}
+
+## MGT0A g0 s0003
+JP: あ、うん、今バイトの帰りなの。{n}そこのバイク屋でバイトしてるから。{p}
+EN: Oh, um, I'm on my way home from work. I have a part-time job at the bike shop over there.{p}
+
+## MGT0A g0 s0004
+JP: へぇ、そうなんだ……。{n}バイク屋のバイトって……{n}どんな仕事してるの?{p}
+EN: Huh, really... A job at a bike shop... What kind of work do you do?{p}
+
+## MGT0A g0 s0005
+JP: 別に仕事っていうほど{n}じゃないんだけどね……。{p}
+EN: It's not really work, though...{p}
+
+## MGT0A g0 s0006
+JP: ここのバイク屋のおじさんと、{n}昔から知り合いで……{n}バイクの整備、手伝ったりとか……{n}たまにレジ打ちとか、留守番とかね。{p}{end}
+EN: I've known the owner of the shop for a long time... I help him fix bikes... Sometimes I run the register or watch the shop.{p}{end}
+
+## MGT0A g0 s0007
+JP: ただで働かせちゃ悪いって、{n}おじさんが。だから、{n}バイト代っていうよりお小遣いかな。{p}{end}
+EN: He said it wasn't right to have me work for free. So it's more like pocket money than pay.{p}{end}
+
+## MGT0A g0 s0008
+JP: へぇ、そうなんだ。{n}アキラはホントに{n}バイクが好きなんだな。{p}{end}
+EN: Huh, I see. You really love bikes, Akira.{p}{end}
+
+## MGT0A g0 s0009
+JP: ふふっ……そうね。{n}{v5:10}は?{n}バイクは好き?{p}{end}
+EN: Hee hee... I guess so. What about you, {v5:10}? Do you like bikes?{p}{end}
+
+## MGT0A g0 s0010
+JP: 好きだ{n}キライだ{p}{end}
+EN: I like them{n}I don't{p}{end}
+
+## MGT0A g0 s0011
+JP: ああ、けっこう好きだな。{n}やっぱりバイクは{n}気持ちいいからね。{p}
+EN: Yeah, I like them a lot. Riding a bike just feels great.{p}
+
+## MGT0A g0 s0012
+JP: じゃ、オフロードとオンロードは?{p}{end}
+EN: Then off-road or on-road?{p}{end}
+
+## MGT0A g0 s0013
+JP: オフロード{n}オンロード{n}それは何?{p}
+EN: Off-road{n}On-road{n}What's that?{p}
+
+## MGT0A g0 s0014
+JP: やっぱり、オフロードかな。{n}バイクを操ってる感じが強いしね。{p}{end}
+EN: Off-road, I guess. You really feel like you're in control of the bike.{p}{end}
+
+## MGT0A g0 s0015
+JP: なるほどね。{n}オフロードの方が、車体も少し安いし、{n}整備もしやすいしね……。{p}{end}
+EN: I see. Off-road bikes are a little cheaper, too, and easier to work on...{p}{end}
+
+## MGT0A g0 s0016
+JP: やっぱり、オンロードでしょ。{n}かっこいいしね。{p}
+EN: On-road, for sure. They look cool.{p}
+
+## MGT0A g0 s0017
+JP: そうね、デザインがイイよね。{n}私もオンロードの方が好きだな。{n}ながめてるだけで、{n}時間を忘れちゃうもの……。{p}{end}
+EN: Yeah, the designs are great. I like on-road better too. I could look at them for hours and lose track of time...{p}{end}
+
+## MGT0A g0 s0018
+JP: ふふっ……よかった。{n}{v5:10}とこんなに話が合って。{n}どう、後ろに乗っていく?{n}送ってあげるよ。{p}{end}
+EN: Hee hee... I'm glad we have so much in common, {v5:10}. Want a ride on the back? I'll take you home.{p}{end}
+
+## MGT0A g0 s0019
+JP: え、いいの?{n}それじゃ、お願いしようかな。{p}
+EN: Huh, really? Then I'll take you up on that.{p}
+
+## MGT0A g0 s0020
+JP: うん、それじゃ、{n}お店でヘルメット借りてくるね!{p}{end}
+EN: OK! I'll go borrow a helmet from the shop!{p}{end}
+
+## MGT0A g0 s0021
+JP: （……こうして、この日は{n}{sp}アキラといっしょに帰った……）{p}
+EN: (...And so I rode home with Akira that day...){p}
+
+## MGT0A g0 s0022
+JP: ええと……、{n}そのオンとかオフとかって何?{p}
+EN: Um... What's all this on and off stuff?{p}
+
+## MGT0A g0 s0023
+JP: ……ごめん。{n}バイクにそんなに{n}詳しくないんだね……。{p}
+EN: ...Sorry. You don't know that much about bikes, huh...{p}
+
+## MGT0A g0 s0025
+JP: いいんだよ、そんなムリに{n}私にあわせてくれなくて。{p}
+EN: It's OK, you don't have to force yourself to keep up with me.{p}
+
+## MGT0A g0 s0026
+JP: それじゃ私……そろそろ帰るわ。{n}じゃ、またね。{p}
+EN: Well... I should get going. See you.{p}
+
+## MGT0A g0 s0027
+JP: あ、ゴメン……。{n}じゃね。{n}……いっちゃった。{p}
+EN: Oh, sorry... Bye. ...And she's gone.{p}
+
+## MGT0A g0 s0028
+JP: う～ん、ちょっと{n}嫌われちゃったかな?{p}
+EN: Hmm, did I make her a little mad?{p}
+
+## MGT0A g0 s0029
+JP: ごめん、あんまり好きじゃないんだ。{n}ほら、バイクって危なそうだし。{p}
+EN: Sorry, I'm not really into them. Bikes look kind of dangerous, y'know?{p}
+
+## MGT0A g0 s0030
+JP: そう……、いいよ、気にしないで。{n}そうだよね……。{p}
+EN: I see... It's OK, don't worry about it. You're right...{p}
+
+## MGT0A g0 s0031
+JP: ア、アキラ……。{p}{end}
+EN: A-Akira...{p}{end}
+
+## MGT0A g0 s0032
+JP: それじゃ私……そろそろ帰るね。{n}じゃ、またね。{p}
+EN: Well... I should get going. See you.{p}
+
+## MGT0A g0 s0033
+JP: あ、うん……。{n}それじゃ……。{p}
+EN: Oh, yeah... See you...{p}
+
+## MGT0A g0 s0034
+JP: う～ん、ちょっと{n}悪いこといっちゃったかな?{p}{end}
+EN: Hmm, did I say something wrong?{p}{end}
+
+## MGT0A g0 s0035
+JP: 寝坊したっ!{n}いつもより早く目が覚めたから、{n}油断していたら、二度寝してしまった!{p}
+EN: I overslept! I woke up earlier than usual, got careless and dozed off again!{p}
+
+## MGT0A g0 s0036
+JP: このまま走り続ければ、{n}ギリギリ間に合いそうだが……、{n}ちょっとスタミナがもたないかも……。{n}とにかく急ごう!!{p}{end}
+EN: If I keep running, I might just make it... but I'm not sure my stamina will hold out... Anyway, hurry!!{p}{end}
+
+## MGT0A g0 s0037
+JP: と……、あの河原にいるのは、{n}アキラじゃないか!{n}しかもバイクがある!{p}
+EN: Huh... Isn't that Akira by the river? And the bike's there too!{p}
+
+## MGT0A g0 s0038
+JP: よぉ、アキラ!{n}おはよう!!{p}{end}
+EN: Yo, Akira! Morning!!{p}{end}
+
+## MGT0A g0 s0039
+JP: おぉ、{v3:10}じゃないか。{n}おはよう、今日もいい天気だな。{p}
+EN: Oh, {v3:10}. Morning. Nice weather again today.{p}
+
+## MGT0A g0 s0040
+JP: 余裕だな、アキラ。{n}時間、大丈夫なのか?{p}{end}
+EN: You're pretty relaxed, Akira. Aren't you gonna be late?{p}{end}
+
+## MGT0A g0 s0041
+JP: 俺にはバイクがあるからな……。{n}まさかお前、俺の後ろに乗って{n}学校に行こうとか思ってるのか?{p}{end}
+EN: I have my bike... Don't tell me you're thinking of riding to school on the back of it?{p}{end}
+
+## MGT0A g0 s0042
+JP: ……グッ。{n}ダメ……かな?{p}
+EN: ...Ugh. Is that... a no?{p}
+
+## MGT0A g0 s0043
+JP: 悪いが、今日は{n}予備のメットがないんだ。{n}あきらめてくれ。{p}
+EN: Sorry, I don't have a spare helmet today. Give it up.{p}
+
+## MGT0A g0 s0044
+JP: それでも頼んでみる{n}あきらめる{p}
+EN: Ask anyway{n}Give up{p}
+
+## MGT0A g0 s0045
+JP: いいじゃないか、{n}メットくらいなくても。{n}ここからそれほどの距離じゃないし、{n}捕まりはしないって。{p}
+EN: Come on, who needs a helmet? It's not that far from here. We won't get caught.{p}
+
+## MGT0A g0 s0046
+JP: ダメだな。{n}走っていった方がいい。{n}今ならまだ間に合うだろう。{p}
+EN: No. You're better off running. You can still make it.{p}
+
+## MGT0A g0 s0047
+JP: なおも食い下がる{n}あきらめる{p}{end}
+EN: Keep pushing{n}Give up{p}{end}
+
+## MGT0A g0 s0048
+JP: いいじゃん、少しくらい。{n}ケチだなぁ。{n}そんなに捕まるのが恐いの?{p}
+EN: Come on, just this once. Don't be stingy. Are you that scared of getting caught?{p}
+
+## MGT0A g0 s0049
+JP: いい加減にしろ!!{n}お前のためにいってるんだぞ?{n}メットなしで俺が事故したら、{n}お前は確実に死ぬ!{sp}それでいいのか!?{p}
+EN: That's enough!! I'm saying this for your sake! If I crash with you on the back and no helmet, you're dead for sure! Is that what you want!?{p}
+
+## MGT0A g0 s0050
+JP: 捕まるのが恐いだと!{n}俺をバカにするな!{n}警察が恐くて、こんなことを{n}いってると思っているのか?{p}{end}
+EN: Scared of getting caught!? Don't insult me! You think I'm saying this because I'm afraid of the cops?{p}{end}
+
+## MGT0A g0 s0051
+JP: いいか!{sp}ルールっていうのは、{n}守るためにあるんじゃない、{n}守られるためにあるんだ。{n}俺のせいでお前を失ってみろ、私は……!{p}{end}
+EN: Listen! Rules aren't just there to be followed. They're there to protect us. If I lost you because of me, I... I couldn't...!{p}{end}
+
+## MGT0A g0 s0052
+JP: ……スマン、少し言い過ぎた。{n}だが、俺がいじわるでいっているわけでは{n}ないことだけはわかってくれ……。{p}
+EN: ...Sorry, I said too much. But at least understand that I'm not being mean...{p}
+
+## MGT0A g0 s0053
+JP: すまないが、俺は先にいく。{n}もう走っても間に合わないな……。{n}スマン……。{p}
+EN: Sorry, but I'm going on ahead. Even if you run, you won't make it now... Sorry...{p}
+
+## MGT0A g0 s0054
+JP: ……ちょっとショックだ。{n}たしかにアキラのいうとおり、{n}俺の考えが間違っていたな……。{p}
+EN: ...That stung. But Akira's right. I was the one in the wrong...{p}
+
+## MGT0A g0 s0055
+JP: そうか……メットがないんじゃ{n}しかたないか……。{n}捕まったら二人とも遅刻だもんな。{p}
+EN: I see... No helmet, no ride, I guess... If we got caught, we'd both be late.{p}
+
+## MGT0A g0 s0056
+JP: ……別に警察が恐くてのことじゃない。{n}俺の腕はまだ未熟だ、{n}いつ事故しないとも限らない。{n}お前の命を危険にさらすことはできん。{p}
+EN: ...It's not that I'm afraid of the cops. I'm still not that good a rider. I could crash anytime. I won't put your life at risk.{p}
+
+## MGT0A g0 s0057
+JP: そうか……そうだな。{n}よしっ、じゃ走るか!{p}
+EN: Right... yeah. OK, guess I'm running!{p}
+
+## MGT0A g0 s0058
+JP: そうか……メットがないんじゃ{n}しかたないな。{n}事故したら、オオゴトだもんな。{p}{end}
+EN: I see... No helmet, no ride, I guess. A crash would be a big deal.{p}{end}
+
+## MGT0A g0 s0059
+JP: ……そうだな。俺の腕はまだ未熟だ。{n}いつ事故しないとも限らない。{n}そんなトコロには、{n}メットなしでは乗せられないな。{p}{end}
+EN: ...Right. I'm still not that good a rider. I could crash anytime. I can't take you on the back without a helmet.{p}{end}
+
+## MGT0A g0 s0060
+JP: いや、別にアキラの腕が{n}信用できないってワケじゃないぜ?{n}それはわかってくれよ。{p}{end}
+EN: Hey, it's not like I don't trust your riding, Akira. You know that, right?{p}{end}
+
+## MGT0A g0 s0061
+JP: ふふっ、もちろんだ。{n}そんなことはわかっているさ。{n}それより、そろそろ走った方が{n}いいんじゃないか?{p}{end}
+EN: Heh, of course. I know that. More importantly, shouldn't you start running?{p}{end}
+
+## MGT0A g0 s0062
+JP: おっと、そうだ。{n}急がないと。{n}よし、じゃ走るか!!{p}{end}
+EN: Whoa, right. Gotta hurry. OK, here I go!!{p}{end}
+
+## MGT0A g0 s0063
+JP: ふふっ、がんばれがんばれ。{n}お前なら間に合うさ。{n}俺もバイクですぐにいく。{p}
+EN: Heh, go, go. You'll make it. I'll be right behind you on my bike.{p}
+
+## MGT0A g0 s0064
+JP: よしっ、じゃ競走だ!{n}よーい、スタート!!{p}
+EN: OK, it's a race! Ready... go!!{p}
+
+## MGT0A g0 s0065
+JP: あ、待て!{n}……ふふっ、元気がいいな。{p}
+EN: Hey, wait! ...Heh, so full of energy.{p}
+
+## MGT0A g0 s0066
+JP: （……アキラがバイクで応援して{n}{sp}くれたおかげで、なんとか{n}{sp}遅刻せずにすんだ……）{p}{end}
+EN: (...Thanks to Akira cheering me on from the bike, I somehow made it on time...){p}{end}
+
+## MGT0A g0 s0067
+JP: 夜。{n}晩ご飯を食べて、ボーッとする時間だ。{n}……ん?{sp}誰かが訪ねてきたみたいだ。{p}{end}
+EN: Night. Dinner's over and it's time to zone out. ...Hm? Sounds like someone's at the door.{p}{end}
+
+## MGT0A g0 s0068
+JP: はーーーい……、{n}なんだ、アキラか。{n}どうしたの?{sp}こんな時間に。{p}
+EN: Coooming... Oh, it's Akira. What's up? It's so late.{p}
+
+## MGT0A g0 s0069
+JP: ゴメン、こんな時間に……。{n}たまたまこのあたり走ってたら、{n}バイクの調子が悪くなっちゃって……。{p}{end}
+EN: Sorry, I know it's late... I happened to be riding around here, and my bike started acting up...{p}{end}
+
+## MGT0A g0 s0070
+JP: {v5:10}がこのへんだって、{n}思い出して……。{n}ね、このあたりのバイク屋、{n}知らない?{p}{end}
+EN: I remembered you live around here, {v5:10}... Say, do you know a bike shop nearby?{p}{end}
+
+## MGT0A g0 s0071
+JP: バイク屋かぁ……{n}ちょっと離れてるけど、{n}いいかな。{p}{end}
+EN: A bike shop... There's one, but it's kind of far. Is that OK?{p}{end}
+
+## MGT0A g0 s0072
+JP: うん。いいよ。{p}
+EN: Yeah. That's fine.{p}
+
+## MGT0A g0 s0073
+JP: 案内する{n}地図を書く{p}{end}
+EN: Show the way{n}Draw a map{p}{end}
+
+## MGT0A g0 s0074
+JP: ちょっとわかりづらいから、{n}案内するよ。{n}それに夜道に一人だと{n}物騒でしょ?{p}{end}
+EN: It's a little hard to find, so I'll take you. Besides, it's not safe alone on a dark road, right?{p}{end}
+
+## MGT0A g0 s0075
+JP: え……?{n}いいよ、遠いんでしょ?{n}それにもう遅いし。{p}{end}
+EN: Huh...? It's OK. It's far, isn't it? And it's already late.{p}{end}
+
+## MGT0A g0 s0076
+JP: 平気平気、{n}じゃさっそく行こう。{p}{end}
+EN: No problem, no problem. Let's get going.{p}{end}
+
+## MGT0A g0 s0077
+JP: ……なぁバイク押すの、{n}手伝うよ。重いだろ?{p}{end}
+EN: ...Hey, let me help push the bike. It's heavy, right?{p}{end}
+
+## MGT0A g0 s0078
+JP: 平気……。{n}これくらいは大丈夫……だ。{n}手は出さないで……いいぞ。{p}
+EN: I'm fine... I can handle... this much. You don't... have to help.{p}
+
+## MGT0A g0 s0079
+JP: う～ん、それじゃ少し休む?{n}なんかつらそうだよ。{p}{end}
+EN: Hmm, then wanna take a break? You look like you're struggling.{p}{end}
+
+## MGT0A g0 s0080
+JP: そうかな……。{n}じゃ、少し休もう。{p}
+EN: You think...? OK, let's rest a bit.{p}
+
+## MGT0A g0 s0081
+JP: ふぅ……。{n}気持ちいい夜風……。{p}{end}
+EN: Phew... The night breeze feels nice...{p}{end}
+
+## MGT0A g0 s0082
+JP: ほら、やっぱり疲れてるじゃん。{n}俺が押すって。{p}
+EN: See, you are tired. I'll push it.{p}
+
+## MGT0A g0 s0083
+JP: いいよ、だって……悪いし。{n}つきあってもらってるのに……。{p}
+EN: It's OK, because... it wouldn't be fair. You're already keeping me company...{p}
+
+## MGT0A g0 s0084
+JP: そうはいうけど……、{p}{end}
+EN: You say that, but...{p}{end}
+
+## MGT0A g0 s0085
+JP: 私ね……。{p}
+EN: You know...{p}
+
+## MGT0A g0 s0086
+JP: ……転校しようと思うんだ……。{p}
+EN: ...I'm thinking of changing schools...{p}
+
+## MGT0A g0 s0087
+JP: ……え?{p}{end}
+EN: ...Huh?{p}{end}
+
+## MGT0A g0 s0088
+JP: すぐじゃないけど……、{n}1年生のうちはゲド高にいるつもり。{n}その後は……。{p}
+EN: Not right away... I'll stay at Gedo for first year. After that...{p}
+
+## MGT0A g0 s0089
+JP: ……何かあったの?{p}
+EN: ...Did something happen?{p}
+
+## MGT0A g0 s0090
+JP: ううん……!{n}ただね、今の環境で、このまま学校に{n}通うのがつらくなっちゃって……。{p}
+EN: No...! It's just... going to school the way things are now has gotten hard for me...{p}
+
+## MGT0A g0 s0091
+JP: そうか……。{n}その方がアキラに{n}とってはいいかもな……。{n}……どこに転校するの?{p}{end}
+EN: I see... Maybe that'd be better for you, Akira... ...Where are you transferring to?{p}{end}
+
+## MGT0A g0 s0092
+JP: それはまだわからない……。{n}でももちろん引っ越すわけじゃないから、{n}近くに転校すると思うわ。{p}{end}
+EN: I don't know yet... But I'm not moving away, so I think it'll be a school nearby.{p}{end}
+
+## MGT0A g0 s0093
+JP: そうか……{n}じゃ、会えなくなるワケじゃないんだね?{p}
+EN: I see... So it's not like we'll never see each other again?{p}
+
+## MGT0A g0 s0094
+JP: ふふっもちろんよ。{n}ゲド高のみんなにも、{n}もちろん{v5:10}にも{n}会えるわ……。{p}
+EN: Hee hee, of course not. I'll still see everyone at Gedo... and you too, {v5:10}, of course...{p}
+
+## MGT0A g0 s0095
+JP: そうか……よかった。{p}{end}
+EN: I see... Good.{p}{end}
+
+## MGT0A g0 s0096
+JP: ……ふふっ、ホントはね、{n}まだ迷ってたんだ。{n}でも、{v5:10}に{n}話したら、さっぱりしちゃった。{p}
+EN: ...Hee hee. Actually, I was still on the fence. But talking to you about it cleared my head, {v5:10}.{p}
+
+## MGT0A g0 s0098
+JP: もう、ここでいいよ、{n}{v5:10}。{n}今日はアリガト……。{p}
+EN: This is far enough, {v5:10}. Thanks for today...{p}
+
+## MGT0A g0 s0099
+JP: え?{sp}でも、バイクは?{p}
+EN: Huh? But what about your bike?{p}
+
+## MGT0A g0 s0100
+JP: ゴメン、故障したっていうのは{n}ウソなの。{n}……なんか、会いに来たっていうのが{n}照れくさくって……。{p}
+EN: Sorry, it didn't really break down. That was a lie. ...It was just too embarrassing to say I came to see you...{p}
+
+## MGT0A g0 s0101
+JP: アキラ……、{n}そうか、それでバイクを{n}一人で押してたんだ……。{p}
+EN: Akira... So that's why you pushed the bike yourself...{p}
+
+## MGT0A g0 s0102
+JP: ゴメンね、{n}こんな時間につきあわせちゃって。{n}送ろうか?{sp}大丈夫?{p}
+EN: Sorry for keeping you out so late. Want me to take you back? Will you be OK?{p}
+
+## MGT0A g0 s0103
+JP: あ、うん……俺は大丈夫。{p}{end}
+EN: Oh, yeah... I'll be fine.{p}{end}
+
+## MGT0A g0 s0104
+JP: あ、そうだ、コレあげるね。{n}この前、後ろに乗せて、{n}あげられなかったから、{n}そのおわび。{p}{end}
+EN: Oh, right, take this. I couldn't give you a ride the other day, so this is to make up for it.{p}{end}
+
+## MGT0A g0 s0105
+JP: それじゃ……{v5:10}、{n}アリガト。{p}
+EN: Well then... {v5:10}, thanks.{p}
+
+## MGT0A g0 s0106
+JP: ……いっちゃった……。{n}この前のこと……気にしてたんだ。{p}{end}
+EN: ...She's gone... She was still worried about the other day.{p}{end}
+
+## MGT0A g0 s0107
+JP: {col:0}『ヘルメット』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Helmet"{col:-}!{p}{end}
+
+## MGT0A g0 s0108
+JP: ちょっと口では説明しづらいな。{n}地図かくから、ちょっと待ってて。{p}{end}
+EN: It's kinda hard to explain. I'll draw you a map, hang on.{p}{end}
+
+## MGT0A g0 s0109
+JP: ……うん……。{p}
+EN: ...OK...{p}
+
+## MGT0A g0 s0110
+JP: ……うん、できた。{n}はい、これでわかるかな?{p}{end}
+EN: ...There, done. Here, can you follow this?{p}{end}
+
+## MGT0A g0 s0111
+JP: ……ええと、これがこの道で……{n}うん、大丈夫。これでいけるわ。{p}
+EN: ...Let's see, this is this road... Yeah, I'm good. I can find it with this.{p}
+
+## MGT0A g0 s0112
+JP: ……{v5:10}……。{n}ありがとう。{p}{end}
+EN: ...{v5:10}... Thank you.{p}{end}
+
+## MGT0A g0 s0113
+JP: いや、いいけど……{n}大丈夫?{p}{end}
+EN: Sure, no problem... Are you OK?{p}{end}
+
+## MGT0A g0 s0114
+JP: うん、平気。{n}じゃ、アリガトね。{p}{end}
+EN: Yeah, I'm fine. Well, thanks.{p}{end}
+
+## MGT0A g0 s0115
+JP: ……いっちゃった。{n}何かいいたいことが{n}あったんじゃないのかな?{p}{end}
+EN: ...She's gone. I wonder if there was something she wanted to say.{p}{end}
+
+## MGT0A g0 s0116
+JP: ドルドルドルドル!{n}ドゥル!{sp}キキーッ!!{p}
+EN: Vroom vroom vroom! Vrrm! Screeech!!{p}
+
+## MGT0A g0 s0117
+JP: おや、バイクのエンジン音が……{n}このあたり、バイクに乗る人が{n}いないから珍しいなぁ……{n}……玄関前に停まったみたいだ。{p}
+EN: Huh, a motorcycle engine... Nobody around here rides, so that's unusual... ...Sounds like it stopped out front.{p}
+
+## MGT0A g0 s0119
+JP: やっぱり。{n}バイクに乗って、{n}ウチに来るってコトは……。{p}{end}
+EN: I knew it. Someone coming to my place on a bike means...{p}{end}
+
+## MGT0A g0 s0120
+JP: アキラ!{n}こんな時間にどうしたの?{p}
+EN: Akira! What's up? It's so late.{p}
+
+## MGT0A g0 s0121
+JP: うむ。{n}お前、今日が誕生日だったらしいな。{n}これをお前にやろう。{p}{end}
+EN: Mm. I hear today's your birthday. Here, this is for you.{p}{end}
+
+## MGT0A g0 s0122
+JP: あ……実は、そうなんだ。{n}誰かに……聞いたの?{p}
+EN: Oh... yeah, it is. Did... someone tell you?{p}
+
+## MGT0A g0 s0123
+JP: いや……そんなことは{n}別にいいだろう。{n}……なんだ、いらないのか?{n}いらないなら、他にまわすぞ。{p}{end}
+EN: No... that doesn't matter, does it? ...What, you don't want it? If not, I'll give it to someone else.{p}{end}
+
+## MGT0A g0 s0124
+JP: いや、いりますいります。{n}ありがたくいただきます!!{p}{end}
+EN: No, no, I want it! I'll gladly take it!!{p}{end}
+
+## MGT0A g0 s0125
+JP: ふっ……ならいい。{n}ホラよ。{n}……じゃぁな。俺は帰る。{p}
+EN: Heh... Good. Here. ...Later. I'm heading home.{p}
+
+## MGT0A g0 s0126
+JP: あ、アキラ、{n}どうもありがとう。{p}{end}
+EN: Oh, Akira, thanks a lot.{p}{end}
+
+## MGT0A g0 s0127
+JP: ……いっちゃった。{n}メットくらいとればいいのに……。{n}さてと、これは何だろう?{p}
+EN: ...Gone. Could've at least taken off the helmet... Now then, what's this?{p}
+
+## MGT0A g0 s0128
+JP: これは『迷彩柄のハンカチ』か。{n}なるほど、アキラのシャツと{n}おそろいだもんな。{p}
+EN: It's a "Camo Handkerchief." Ah, it matches Akira's shirt.{p}
+
+## MGT0A g0 s0129
+JP: アキラのやつ、女の子っぽい{n}プレゼントが恥ずかしかったのかな?{p}
+EN: Maybe Akira was embarrassed to give such a girly present?{p}
+
+## MGT0A g0 s0130
+JP: {col:0}『迷彩柄のハンカチ』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Camo Handkerchief"{col:-}!{p}
+
+## MGT0A g0 s0132
+JP: うむ。{n}お前、こないだ誕生日だったらしいな。{n}少し遅れたが、これをお前にやろう。{p}{end}
+EN: Mm. I hear you had a birthday recently. It's a little late, but here, this is for you.{p}{end}
+
+## MGT0A g1 s0000
+JP: 放課後。{n}買い物をしてるウチに{n}ちょっと遅くなっちゃったわ。{p}{end}
+EN: After school. Shopping took longer than I thought, and now it's kinda late.{p}{end}
+
+## MGT0A g1 s0001
+JP: 「{v8:10}じゃない。」{p}
+EN: "{v8:10}? Is that you?"{p}
+
+## MGT0A g1 s0002
+JP: あら、アキラ。{n}どうしたの、こんなトコロで。{p}{end}
+EN: Oh, Akira. What are you doing here?{p}{end}
+
+## MGT0A g1 s0004
+JP: ふぅん、そうなんだ……。{n}バイク屋のバイトって……{n}どんな仕事してるの?{p}{end}
+EN: Huh, really... A job at a bike shop... What kind of work do you do?{p}{end}
+
+## MGT0A g1 s0008
+JP: ふぅん、そうなの。{n}アキラはホントに{n}バイクが好きなのね。{p}
+EN: Huh, I see. You really love bikes, huh, Akira.{p}
+
+## MGT0A g1 s0009
+JP: ふふっ……そうね。{n}{v8:10}は?{n}バイクは好き?{p}{end}
+EN: Hee hee... I guess so. What about you, {v8:10}? Do you like bikes?{p}{end}
+
+## MGT0A g1 s0010
+JP: 好き{n}キライ{p}{end}
+EN: I like them{n}I don't{p}{end}
+
+## MGT0A g1 s0011
+JP: うん、けっこう好きよ。{n}やっぱりバイクは{n}気持ちいいわよね。{p}{end}
+EN: Yeah, I like them a lot. Riding a bike just feels great, doesn't it?{p}{end}
+
+## MGT0A g1 s0014
+JP: やっぱり、オフロードかナ。{n}バイクを操ってる感じが強いしネ。{p}{end}
+EN: Off-road, I guess. You really feel like you're in control of the bike.{p}{end}
+
+## MGT0A g1 s0018
+JP: ふふっ……よかった。{n}{v8:10}とこんなに話が合って。{n}どう、後ろに乗っていく?{n}送ってあげるよ。{p}{end}
+EN: Hee hee... I'm glad we have so much in common, {v8:10}. Want a ride on the back? I'll take you home.{p}{end}
+
+## MGT0A g1 s0022
+JP: ええと……、{n}そのオンとかオフとかって何のコト?{p}{end}
+EN: Um... What's all this on and off stuff?{p}{end}
+
+## MGT0A g1 s0024
+JP: あ、ううん、そういうわけじゃ……。{p}
+EN: Oh, no, it's not that...{p}
+
+## MGT0A g1 s0027
+JP: あ、ゴメンね……。{n}じゃね。{n}……いっちゃった。{p}{end}
+EN: Oh, sorry... Bye. ...And she's gone.{p}{end}
+
+## MGT0A g1 s0028
+JP: う～ん、ちょっと{n}嫌われちゃったかナ?{p}
+EN: Hmm, did I make her a little mad?{p}
+
+## MGT0A g1 s0029
+JP: ごめんね、あんまり好きじゃなの。{n}ほら、バイクって危なそうだし。{p}{end}
+EN: Sorry, I'm not really into them. Bikes look kind of dangerous, y'know?{p}{end}
+
+## MGT0A g1 s0035
+JP: 寝坊したわっ!{n}いつもより早く目が覚めたから、{n}油断してたら、二度寝しちゃった!{p}{end}
+EN: I overslept! I woke up earlier than usual, got careless and dozed off again!{p}{end}
+
+## MGT0A g1 s0036
+JP: このまま走り続ければ、{n}ギリギリ間に合うかナ……、{n}ちょっとスタミナがもたないかも……。{n}とにかく急がないと!!{p}{end}
+EN: If I keep running, I might just make it... but I'm not sure my stamina will hold out... Anyway, I've gotta hurry!!{p}{end}
+
+## MGT0A g1 s0037
+JP: と……、あの河原にいるのは、{n}アキラね!{n}しかもバイクがあるわ!{p}{end}
+EN: Huh... That's Akira by the river! And the bike's there too!{p}{end}
+
+## MGT0A g1 s0038
+JP: はい、アキラ!{n}おはよ!!{p}
+EN: Hey, Akira! Morning!!{p}
+
+## MGT0A g1 s0040
+JP: 余裕ね、アキラ。{n}時間、大丈夫なの?{p}{end}
+EN: You're pretty relaxed, Akira. Aren't you gonna be late?{p}{end}
+
+## MGT0A g1 s0042
+JP: ……うん。{n}ダメ……かナ?{p}
+EN: ...Yeah. Is that... a no?{p}
+
+## MGT0A g1 s0045
+JP: いいじゃない、{n}メットくらいなくても。{n}ここからそれほどの距離じゃないし、{n}捕まりはしないわよ。{p}{end}
+EN: Come on, who needs a helmet? It's not that far from here. We won't get caught.{p}{end}
+
+## MGT0A g1 s0048
+JP: いいじゃない、少しくらい。{n}ケチねぇ。{n}そんなに捕まるのが恐いの?{p}
+EN: Come on, just this once. Don't be stingy. Are you that scared of getting caught?{p}
+
+## MGT0A g1 s0054
+JP: ……ちょっとショック。{n}たしかにアキラのいうとおり、{n}私の考えが間違っていたわ……。{p}{end}
+EN: ...That stung. But Akira's right. I was the one in the wrong...{p}{end}
+
+## MGT0A g1 s0055
+JP: そう……メットがないんじゃ{n}しかたないわね……。{n}捕まったら二人とも遅刻だしね。{p}{end}
+EN: I see... No helmet, no ride, I guess... If we got caught, we'd both be late.{p}{end}
+
+## MGT0A g1 s0057
+JP: そう……そうね。{n}うんっ、じゃ走るわ!{p}
+EN: Right... yeah. OK, I'll run!{p}
+
+## MGT0A g1 s0058
+JP: そう……メットがないんじゃ{n}しかたないよね。{n}事故したら、オオゴトだもん。{p}
+EN: I see... No helmet, no ride, I guess. A crash would be a big deal.{p}
+
+## MGT0A g1 s0060
+JP: ううん、別にアキラの腕が{n}信用できないってワケじゃないのよ?{n}それはわかってね。{p}{end}
+EN: No, it's not like I don't trust your riding, Akira. You know that, right?{p}{end}
+
+## MGT0A g1 s0062
+JP: あっと、そうね。{n}急がないと。{n}うん、じゃ走るわ!!{p}{end}
+EN: Oh, right. Gotta hurry. OK, here I go!!{p}{end}
+
+## MGT0A g1 s0064
+JP: よしっ、じゃ競走ね!{n}よーい、スタート!!{p}
+EN: OK, it's a race! Ready... go!!{p}
+
+## MGT0A g1 s0067
+JP: 夜。{n}晩ご飯を食べて、ボーッとする時間。{n}……ん?{sp}誰かが訪ねてきたみたいね。{p}
+EN: Night. Dinner's over and it's time to zone out. ...Hm? Sounds like someone's at the door.{p}
+
+## MGT0A g1 s0068
+JP: はーーーい……、{n}あら、アキラじゃない。{n}どうしたの?{sp}こんな時間に。{p}
+EN: Coooming... Oh, Akira! What's up? It's so late.{p}
+
+## MGT0A g1 s0070
+JP: {v8:10}がこのへんだって、{n}思い出して……。{n}ね、このあたりのバイク屋、{n}知らない?{p}{end}
+EN: I remembered you live around here, {v8:10}... Say, do you know a bike shop nearby?{p}{end}
+
+## MGT0A g1 s0071
+JP: バイク屋ね……{n}ちょっと離れてるけど、{n}いいかナ。{p}
+EN: A bike shop... There's one, but it's kind of far. Is that OK?{p}
+
+## MGT0A g1 s0074
+JP: ちょっとわかりづらいから、{n}案内するわ。{n}それに夜道に一人だと{n}物騒でしょ?{p}{end}
+EN: It's a little hard to find, so I'll take you. Besides, it's not safe alone on a dark road, right?{p}{end}
+
+## MGT0A g1 s0076
+JP: ううん、平気平気、{n}じゃさっそく行きましょ。{p}{end}
+EN: No problem, no problem. Let's get going.{p}{end}
+
+## MGT0A g1 s0077
+JP: ……ねぇバイク押すの、{n}手伝うわよ。重いでしょ?{p}{end}
+EN: ...Hey, let me help push the bike. It's heavy, right?{p}{end}
+
+## MGT0A g1 s0079
+JP: う～ん、それじゃ少し休まない?{n}なんかつらそうよ。{p}
+EN: Hmm, then why don't we take a break? You look like you're struggling.{p}
+
+## MGT0A g1 s0082
+JP: ほら、やっぱり疲れてるじゃない。{n}私も手伝うって。{p}
+EN: See, you are tired. Let me help.{p}
+
+## MGT0A g1 s0091
+JP: そう……。{n}その方がアキラに{n}とってはいいかもね……。{n}……どこに転校するの?{p}
+EN: I see... Maybe that'd be better for you, Akira... ...Where are you transferring to?{p}
+
+## MGT0A g1 s0093
+JP: そうなんだ……{n}じゃ、会えなくなるワケじゃないのよね?{p}
+EN: I see... So it's not like we'll never see each other again, right?{p}
+
+## MGT0A g1 s0094
+JP: ふふっもちろんよ。{n}ゲド高のみんなにも、{n}もちろん{v8:10}にも{n}会えるわ……。{p}
+EN: Hee hee, of course not. I'll still see everyone at Gedo... and you too, {v8:10}, of course...{p}
+
+## MGT0A g1 s0095
+JP: そう……よかったわ。{p}{end}
+EN: I see... I'm glad.{p}{end}
+
+## MGT0A g1 s0096
+JP: ……ふふっ、ホントはね、{n}まだ迷ってたんだ。{n}でも、{v8:10}に{n}話したら、さっぱりしちゃった。{p}
+EN: ...Hee hee. Actually, I was still on the fence. But talking to you about it cleared my head, {v8:10}.{p}
+
+## MGT0A g1 s0098
+JP: もう、ここでいいよ、{n}{v8:10}。{n}今日はアリガト……。{p}
+EN: This is far enough, {v8:10}. Thanks for today...{p}
+
+## MGT0A g1 s0101
+JP: アキラ……、{n}そう、それでバイクを{n}一人で押してたのね……。{p}{end}
+EN: Akira... So that's why you pushed the bike yourself...{p}{end}
+
+## MGT0A g1 s0103
+JP: あ、うん……私は大丈夫。{p}{end}
+EN: Oh, yeah... I'll be fine.{p}{end}
+
+## MGT0A g1 s0105
+JP: それじゃ……{v8:10}、{n}アリガト。{p}
+EN: Well then... {v8:10}, thanks.{p}
+
+## MGT0A g1 s0106
+JP: ……いっちゃった……。{n}この前のこと……気にしてたのね。{p}{end}
+EN: ...She's gone... She was still worried about the other day.{p}{end}
+
+## MGT0A g1 s0108
+JP: ちょっと口では説明しづらいわ。{n}地図かくから、ちょっと待ってて。{p}{end}
+EN: It's kinda hard to explain. I'll draw you a map, hang on.{p}{end}
+
+## MGT0A g1 s0110
+JP: ……うん、できたよ。{n}はい、これでわかるかナ?{p}
+EN: ...There, done. Here, can you follow this?{p}
+
+## MGT0A g1 s0112
+JP: ……{v8:10}……。{n}ありがとう。{p}{end}
+EN: ...{v8:10}... Thank you.{p}{end}
+
+## MGT0A g1 s0113
+JP: ううん、いいけど……{n}大丈夫?{p}
+EN: Sure, no problem... Are you OK?{p}
+
+## MGT0A g1 s0115
+JP: ……いっちゃった。{n}何かいいたいことが{n}あったのかなぁ?{p}{end}
+EN: ...She's gone. I wonder if there was something she wanted to say.{p}{end}
+
+## MGT0A g1 s0117
+JP: あら、バイクのエンジン音が……{n}このあたり、バイクに乗る人が{n}いないから珍しいわ……{n}……玄関前に停まったみたいね。{p}{end}
+EN: Huh, a motorcycle engine... Nobody around here rides, so that's unusual... ...Sounds like it stopped out front.{p}{end}
+
+## MGT0A g1 s0122
+JP: あ……実は、そうなの。{n}誰かに……聞いた?{p}
+EN: Oh... yeah, it is. Did... someone tell you?{p}
+
+## MGT0A g1 s0124
+JP: ううん、ありがたくいただくわ。{n}ありがと。{p}
+EN: No, I'll gladly take it. Thanks.{p}
+
+## MGT0A g1 s0126
+JP: あ、アキラ、{n}どうもありがと。{p}
+EN: Oh, Akira, thanks a lot.{p}
+
+## MGT0A g1 s0127
+JP: ……いっちゃったわ。{n}メットくらいとればいいのに……。{n}ええと、これは何かナ?{p}
+EN: ...Gone. Could've at least taken off the helmet... Now then, what's this?{p}
+
+## MGT0A g1 s0128
+JP: これは『迷彩柄のハンカチ』ね。{n}なるほど、アキラのシャツと{n}おそろいってことネ。{p}{end}
+EN: It's a "Camo Handkerchief." Ah, so it matches Akira's shirt.{p}{end}
+
+## MGT0A g1 s0129
+JP: アキラったら、女の子っぽい{n}プレゼントが恥ずかしかったのかナ?{p}
+EN: Maybe Akira was embarrassed to give such a girly present?{p}
+
+## MGT0A g1 s0139
+JP: これは『迷彩柄のハンカチ』ね。{n}なるほど、アキラのシャツと{n}おそろいってコトね。{p}{end}
+EN: It's a "Camo Handkerchief." Ah, so it matches Akira's shirt.{p}{end}
+

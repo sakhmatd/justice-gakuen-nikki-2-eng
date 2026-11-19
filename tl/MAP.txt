@@ -1,0 +1,17 @@
+JP: 教室
+EN: Classroom
+
+JP: グラウンド
+EN: Field
+
+JP: 屋上
+EN: Roof
+
+JP: 体育館
+EN: Gym
+
+JP: 保健室
+EN: Infirmary
+
+JP: 部室棟
+EN: Clubhouse

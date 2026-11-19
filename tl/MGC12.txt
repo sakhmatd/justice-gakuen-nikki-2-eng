@@ -1,0 +1,204 @@
+## MGC12 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}今年ももう終わりだな。{n}あと少し、がんばっていこう。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. This year's almost over. Let's keep at it a little longer.{p}
+
+## MGC12 g0 s0003
+JP: よし、それじゃ次は、{n}恒例の特別練習だ。{n}好きな練習を選んでくれ。{p}
+EN: All right, next up is our usual special practice. Pick whichever drill you like.{p}
+
+## MGC12 g0 s0004
+JP: よし、お疲れさん。{n}お前の練習を見ていると、{n}俺も練習したくなるな。{n}このケガが恨めしいよ。{p}{end}
+EN: All right, good work. Watching you practice makes me want to practice too. This injury drives me nuts.{p}{end}
+
+## MGC12 g0 s0005
+JP: 今月は、2学期の期末テストだな。{n}試験は面倒だが、それが終われば、{n}あとはクリスマスだ。{n}気を引き締めていけよ。{p}{end}
+EN: This month is the second-term finals. Exams are a pain, but once they're done, it's Christmas. Stay focused.{p}{end}
+
+## MGC12 g0 s0006
+JP: それじゃ、次は来年だな。{n}今年もあと少し、悔いを残すなよ。{p}
+EN: Well, next time is next year. Don't leave any regrets in what's left of this one.{p}
+
+## MGC12 g0 s0008
+JP: 来たな、{v0}!{n}今年もあと残りわずかだ。{n}悔いを残さないよう、{n}気合い入れていけよ!{p}
+EN: There you are, {v0}! There's not much of the year left. Give it everything so you've got no regrets!{p}
+
+## MGC12 g0 s0009
+JP: それじゃいつも通り、{n}先月のクラブ活動の成果からだな!{p}
+EN: Okay, as usual, we'll start with last month's club results!{p}
+
+## MGC12 g0 s0011
+JP: グーッだ!{n}寒さなんて身体を動かせば、{n}吹っ飛ぶ!{p}
+EN: Great stuff! The cold goes right out the window once you get moving!{p}
+
+## MGC12 g0 s0012
+JP: さてと、今月は期末試験だな。{n}予習をおこたるなよ。{n}その後はクリスマスだな。{p}{end}
+EN: Now then, this month is finals. Don't slack on studying ahead. After that comes Christmas.{p}{end}
+
+## MGC12 g0 s0013
+JP: 次は来年だな。{n}それじゃ、よい年をな!{p}
+EN: Next time is next year. Have a happy New Year!{p}
+
+## MGC12 g0 s0015
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、12月の特別練習の日です。{n}寒くなってきましたけど、{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is December's special practice day. It's getting cold, but let's do our best.{p}{end}
+
+## MGC12 g0 s0018
+JP: はい、お疲れさまです。{n}冬こそサッカーの季節ですからね、{n}がんばっていきましょう。{p}
+EN: Okay, good work. Winter is the real soccer season, so let's keep at it.{p}
+
+## MGC12 g0 s0019
+JP: 伝達事項は……、{n}ええと、2学期の期末試験がありますね。{n}予習はしておいた方がいいと思います。{n}あとは……クリスマスがありますね。{p}
+EN: As for announcements... um, there are the second-term finals. I think it's a good idea to study ahead. And also... there's Christmas.{p}
+
+## MGC12 g0 s0020
+JP: それでは、次は来年ですね。{n}ではよいお年を……。{p}{end}
+EN: Well then, next time is next year. Have a happy New Year...{p}{end}
+
+## MGC12 g0 s0022
+JP: 来たな、{v1}!{n}ちょっと寒くなってきたが、{n}相撲取りがそんなことで弱音を吐いてちゃ{n}いかん!{sp}気合をいれていけよ。{p}{end}
+EN: There you are, {v1}! It's getting a bit cold, but a sumo wrestler can't go whining about that! Put some fight into it.{p}{end}
+
+## MGC12 g0 s0025
+JP: よしよし、いいだろう。{n}もうちょっと上背が欲しいが、{n}これはしかたないな。{p}
+EN: Good, good, that'll do. I'd like you a little taller, but that can't be helped.{p}
+
+## MGC12 g0 s0026
+JP: さてと、おっそうそう、{n}今月は2学期の期末試験だな。{n}予習はしておいた方がいいぞ。{p}
+EN: Now then... oh, right. This month is the second-term finals. You'd better study ahead.{p}
+
+## MGC12 g0 s0027
+JP: よし、それじゃ今年はこれでおしまいだな。{n}来年もよろしくな。{p}{end}
+EN: All right, that's it for this year. Here's to next year.{p}{end}
+
+## MGC12 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}なんか寒くなってきたねぇ。{n}今年も残りあと少しだけど、{n}がんばっていきましょう。{p}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. It's getting kinda cold, huh. Not much of the year left, but let's give it our best.{p}
+
+## MGC12 g0 s0032
+JP: はい、おつかれさま。{n}あなたのセンスって、{n}ちょっといいよね。{n}私、好きだな……。{p}
+EN: Okay, good work. You've got a pretty good eye, you know. I like that...{p}
+
+## MGC12 g0 s0033
+JP: ええと、そうそう、{n}今月は2学期の期末試験ね。{n}予習はしておいた方がいいわよ。{n}で、あとはクリスマス、楽しみね。{p}{end}
+EN: Um, oh right, this month is the second-term finals. You'd better study ahead. And then there's Christmas. Can't wait.{p}{end}
+
+## MGC12 g0 s0034
+JP: それじゃ、次は来年ね。{n}よいお年を、ね。{p}{end}
+EN: Okay, see you next year. Have a happy New Year, OK?{p}{end}
+
+## MGC12 g0 s0036
+JP: {v0}{col:0}君{col:-}、いらっしゃい。{n}今日は特別練習の日ですね。{n}ちょっと寒いけど、{n}練習がんばりましょう……。{p}{end}
+EN: Welcome, {v0}{col:0}-kun{col:-}. Today is special practice day. It's a little cold, but let's do our best at practice...{p}{end}
+
+## MGC12 g0 s0039
+JP: おつかれさま。{n}最近がんばってるわね。{n}すごく調子よさそうよ。{p}
+EN: Good work. You've been trying hard lately. You seem to be in really good form.{p}
+
+## MGC12 g0 s0040
+JP: あ、そうそう……{n}今月は、2学期の期末試験ね。{n}予習とか……してる?{n}あとは、クリスマスね……。{p}{end}
+EN: Oh, right... This month is the second-term finals. Are you... studying ahead? And then, there's Christmas...{p}{end}
+
+## MGC12 g0 s0041
+JP: 今年はこれで最後ね。{n}ではまた来年、会いましょう……。{p}
+EN: That's the last one this year. Well then, let's meet again next year...{p}
+
+## MGC12 g0 s0043
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}寒くなってきたけど、{n}体調には気をつけてね。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. It's getting cold, so take care of your health.{p}{end}
+
+## MGC12 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}キミはホント、上達が早いわね。{n}先が楽しみだわ。{p}{end}
+EN: All right, let's stop here for today. You really do improve fast. I can't wait to see how far you'll go.{p}{end}
+
+## MGC12 g0 s0047
+JP: 今月は2学期の期末試験ね。{n}予習はまめにしておいた方が{n}いいわよ。{n}あとは……クリスマスね。{p}{end}
+EN: This month is the second-term finals. You'd better keep studying ahead. And then... there's Christmas.{p}{end}
+
+## MGC12 g0 s0048
+JP: じゃ、今年はこれでおしまいね。{n}ご苦労様。{n}それじゃ、また来年会いましょう。{p}{end}
+EN: Well, that's it for this year. Good work. See you again next year.{p}{end}
+
+## MGC12 g0 s0050
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}もうすぐクリスマスだなぁ。{n}僕の若い頃なんて、{n}クリスマスなんてアレだったんだが……。{p}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Christmas is almost here. Back when I was young, Christmas was, well, you know...{p}
+
+## MGC12 g0 s0052
+JP: ふむふむ。それじゃ次は、{n}今月の特別練習だな。{n}ぼちぼちとやっていこう。{p}{end}
+EN: Mm-hm. Next is this month's special practice. Let's take it nice and easy.{p}{end}
+
+## MGC12 g0 s0053
+JP: なるほどなるほど。{n}お疲れさん。{n}まぁいい感じで能力は{n}ついてきたようにみえるなぁ。{p}{end}
+EN: I see, I see. Good work. Well, your abilities seem to be coming along nicely.{p}{end}
+
+## MGC12 g0 s0054
+JP: 今月は、2学期の期末試験があるな。{n}試験はがんばっておいた方がいいぞ。{n}後は……ふむふむ、クリスマスだな。{n}クリスマスといえば……。{p}{end}
+EN: This month there are the second-term finals. You'd best do well on them. And then... mm-hm, Christmas. Speaking of Christmas...{p}{end}
+
+## MGC12 g0 s0055
+JP: その話は長くなるからやめておこう。{n}さてさて、次の練習は来年だな。{n}それじゃよいお年を。{p}{end}
+EN: No, that's a long story, so let's skip it. Well, well, the next practice is next year. Have a happy New Year.{p}{end}
+
+## MGC12 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}今年もあと少しね。{n}あなたも最後くらいは{n}気合を見せなさいよ。{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. Not much of the year left. At least show some fight at the end.{p}
+
+## MGC12 g0 s0059
+JP: なるほどね……{n}それじゃ次は、{n}今月の特別練習ね。{p}
+EN: I see... Next is this month's special practice.{p}
+
+## MGC12 g0 s0060
+JP: まぁそのへんにしておきましょう。{n}今年もあと少しなんだから、{n}悔いを残しちゃダメよ。{p}{end}
+EN: Well, let's leave it there. The year's almost over, so don't leave any regrets.{p}{end}
+
+## MGC12 g0 s0061
+JP: 今月は2学期の期末試験があるわね。{n}予習とかしておいた方がいいんじゃない?{n}で、あとはクリスマスね。{p}{end}
+EN: This month there are the second-term finals. Shouldn't you study ahead? And then there's Christmas.{p}{end}
+
+## MGC12 g0 s0062
+JP: 今年の練習はこれでおしまい。{n}次は来年ね。{n}それじゃ、よいお年を。{p}
+EN: That's it for this year's practice. Next time is next year. Have a happy New Year.{p}
+
+## MGC12 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今年ももう終わりだね。{n}あと少し、がんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. This year's almost over. Let's keep at it a little longer.{p}{end}
+
+## MGC12 g1 s0015
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、12月の特別練習の日ね。{n}寒くなってきたけど、{n}がんばっていきましょうね。{p}{end}
+EN: Morning, {v1}{col:0}-chan{col:-}. Today is December's special practice day. It's getting cold, but let's do our best.{p}{end}
+
+## MGC12 g1 s0018
+JP: はい、お疲れさま。{n}冬こそサッカーの季節だからね、{n}がんばっていきましょう。{p}{end}
+EN: Okay, good work. Winter is the real soccer season, so let's keep at it.{p}{end}
+
+## MGC12 g1 s0019
+JP: 伝達事項は……、{n}ええと、2学期の期末試験がありますね。{n}予習はしておいた方がいいわよね。{n}あとは……クリスマスがあります。{p}{end}
+EN: As for announcements... um, there are the second-term finals. It's a good idea to study ahead, right? And also... there's Christmas.{p}{end}
+
+## MGC12 g1 s0020
+JP: それでは、次は来年ね。{n}ではよいお年を……。{p}{end}
+EN: Well then, next time is next year. Have a happy New Year...{p}{end}
+
+## MGC12 g1 s0022
+JP: 来たな、{v0}!{n}ちょっと寒くなってきたが、{n}相撲取りがそんなことで弱音を吐いてちゃ{n}いかん!{sp}気合をいれていけよ。{p}{end}
+EN: There you are, {v0}! It's getting a bit cold, but a sumo wrestler can't go whining about that! Put some fight into it.{p}{end}
+
+## MGC12 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}なんか寒くなってきたねぇ。{n}今年も残りあと少しだけど、{n}がんばっていきましょう。{p}{end}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. It's getting kinda cold, huh. Not much of the year left, but let's give it our best.{p}{end}
+
+## MGC12 g1 s0036
+JP: {v1}{col:0}さん{col:-}、いらっしゃい。{n}今日は特別練習の日ですね。{n}ちょっと寒いけど、{n}練習がんばりましょう……。{p}
+EN: Welcome, {v1}{col:0}-san{col:-}. Today is special practice day. It's a little cold, but let's do our best at practice...{p}
+
+## MGC12 g1 s0043
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}寒くなってきたけど、{n}体調には気をつけてね。{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. It's getting cold, so take care of your health.{p}{end}
+
+## MGC12 g1 s0056
+JP: さてと、今日は特別練習の日ね。{n}委員長と遊んでくるか。{p}
+EN: Well, today's special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC12 g1 s0057
+JP: はーい、{v1}{col:0}さん{col:-}。{n}今年もあと少しね。{n}あなたも最後くらいは{n}気合を見せてよ。{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. Not much of the year left. At least show some fight at the end.{p}{end}
+

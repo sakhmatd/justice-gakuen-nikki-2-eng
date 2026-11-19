@@ -1,0 +1,584 @@
+## MGG11J g0 s0003
+JP: 今年の参加校は、主催の五輪高校と、{n}我がジャスティス学園を{n}含めて、合計五校。{n}いつもの顔ぶれだ。{p}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Justice High. The usual faces.{p}
+
+## MGG11J g0 s0010
+JP: 今ね、各学校の有力選手の{n}コメントをとってるの。{n}ジャスティス学園は、当然アンタね。{p}{end}
+EN: I'm getting comments from the top athletes of each school. For Justice High, that's you, obviously.{p}{end}
+
+## MGG11J g0 s0016
+JP: ふむふむ、ホームラン競争の{n}ジャスティス学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Justice High's entry in the Home Run Derby: {v0}. Got it.{p}
+
+## MGG11J g0 s0018
+JP: ふむふむ、PK戦の{n}ジャスティス学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Justice High's entry in the PK Shootout: {v0}. Got it.{p}
+
+## MGG11J g0 s0020
+JP: ふむふむ、サービスエースの{n}ジャスティス学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Justice High's entry in the Service Ace: {v0}. Got it.{p}
+
+## MGG11J g0 s0024
+JP: ……まだ、話してたのか、{n}学園長……。{n}全然、短くないって。{p}{end}
+EN: ...The principal was still talking? That wasn't brief at all.{p}{end}
+
+## MGG11J g0 s0025
+JP: お、来ましたね、{v0}{col:0}君{col:-}。{n}出番は近いですよ、{n}準備はいいですか?{p}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Your turn is coming up. Are you ready?{p}
+
+## MGG11J g0 s0026
+JP: なに、普段から練習していれば、{n}最下位になることはないでしょう。{n}努力の成果をみせればいいんです。{p}
+EN: Now, if you've been practicing all along, you won't come in last. Just show the fruits of your hard work.{p}
+
+## MGG11J g0 s0027
+JP: がんばってね。{n}あなたならきっといい成績が{n}残せると思うわ。{p}{end}
+EN: Good luck. I'm sure you'll put up a good score.{p}{end}
+
+## MGG11J g0 s0028
+JP: はい、先生。{n}がんばります。{p}{end}
+EN: Yes, sensei. I'll do my best.{p}{end}
+
+## MGG11J g0 s0029
+JP: {v0}!{n}{v0}はいるか!?{p}{end}
+EN: {v0}! Is {v0} here!?{p}{end}
+
+## MGG11J g0 s0030
+JP: あっ、雹さん……。{p}
+EN: Oh, Hyo-san...{p}
+
+## MGG11J g0 s0031
+JP: ここにいたか、{v0}。{n}さがしたぞ。{p}{end}
+EN: There you are, {v0}. I have been looking for you.{p}{end}
+
+## MGG11J g0 s0032
+JP: もうすぐ出番のようだな。{n}用意はいいか。{p}{end}
+EN: Your turn is near, it seems. Are you prepared?{p}{end}
+
+## MGG11J g0 s0033
+JP: わかっているだろうな。{n}貴様には、我がジャスティス学園の{n}名誉がかかっているのだ。{n}我々の……{p}
+EN: You understand, I trust. The honor of our Justice High rests upon you. Our...{p}
+
+## MGG11J g0 s0034
+JP: 我々の優秀さを、彼ら愚民に{n}見せつけてやれ、ですね。{n}雹さん。{p}
+EN: "...Show those ignorant masses how superior we are," right, Hyo-san?{p}
+
+## MGG11J g0 s0035
+JP: ……そういうことだ。{n}恥ずかしいマネはするなよ。{p}{end}
+EN: ...Precisely. Do not disgrace us.{p}{end}
+
+## MGG11J g0 s0036
+JP: ……ま、まぁまぁ、{n}学校の名誉も大事だが、{n}なにより、自分の全力を{n}出しきることです。{p}
+EN: ...N-now, now. The school's honor matters, but above all, you should give it everything you have.{p}
+
+## MGG11J g0 s0037
+JP: そうね、学校のため、って{n}考えにこだわると、緊張するわ。{n}もっとリラックスして、ね{col:5}♥{col:-}{p}{end}
+EN: That's right. If you get hung up on doing it for the school, you'll get nervous. Relax a little more, okay?{col:5}♥{col:-}{p}{end}
+
+## MGG11J g0 s0038
+JP: （確かに学校の名誉のため、って{n}{sp}いわれてもなぁ……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るよな……）{p}
+EN: (Sure, they keep saying it's for the school's honor, but... I'd get way more fired up fighting for something real!){p}
+
+## MGG11J g0 s0040
+JP: 英雄先生のために!{n}響子先生のために!{n}雹のために!{n}やっぱり学校のため!{p}
+EN: For Hideo-sensei!{n}For Kyoko-sensei!{n}For Hyo!{n}For the school!{p}
+
+## MGG11J g0 s0041
+JP: （よし!{sp}この勝利を英雄先生に捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Hideo-sensei! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11J g0 s0042
+JP: （よし!{sp}この勝利を響子先生に捧げよう!{n}{sp}うん!{sp}気合が入ってきた!）{p}{end}
+EN: (All right! I'll dedicate this win to Kyoko-sensei! Yeah! I'm getting fired up!){p}{end}
+
+## MGG11J g0 s0043
+JP: （よし!{sp}この勝利を雹さんに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}{end}
+EN: (All right! I'll dedicate this win to Hyo-san! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11J g0 s0045
+JP: うむ、{v0}{col:0}君{col:-}、{n}そろそろ出番じゃないですか?{n}後悔のないように、{n}頑張って来るんですよ。{p}
+EN: Hm, {v0}{col:0}-kun{col:-}, isn't it almost your turn? Go and do your best, so you have no regrets.{p}
+
+## MGG11J g0 s0046
+JP: 応援してるわよ。{n}がんばってね。{p}{end}
+EN: I'm rooting for you. Good luck.{p}{end}
+
+## MGG11J g0 s0048
+JP: （絶好調!{n}{sp}俺の大活躍のおかげで、{n}{sp}ジャスティス学園は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Justice High won!){p}
+
+## MGG11J g0 s0049
+JP: おめでとう!{sp}{v4:19}!{n}ジャスティス学園が優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v4:19}! Justice High wins! You were amazing out there!{p}{end}
+
+## MGG11J g0 s0056
+JP: 役員会の決定で、君が本大会の{n}MVPに決まったのだよ。{n}わしも鼻が高いよ、わっはっはっは!{p}
+EN: The committee has chosen you as this tournament's MVP. I am very proud of you. Wahahaha!{p}
+
+## MGG11J g0 s0059
+JP: わっはっはっ!{n}さすがは我がジャスティス学園の生徒だ!{n}だが、そんなにかしこまらなくてもいい、{n}もっと胸を張りたまえ!{p}
+EN: Wahahaha! Just what I would expect from a student of our Justice High! But there is no need to be so formal. Hold your head high!{p}
+
+## MGG11J g0 s0060
+JP: これからもがんばるんだぞ、{n}{v0}{col:0}君{col:-}!{n}君のような若者が、日本の未来を{n}背負っていくのだからな!{p}{end}
+EN: Keep up the good work, {v0}{col:0}-kun{col:-}! Young people like you will carry the future of Japan!{p}{end}
+
+## MGG11J g0 s0061
+JP: やぁ、{v0}{col:0}君{col:-}。{n}大活躍でしたね。{p}
+EN: Ah, {v0}{col:0}-kun{col:-}. Splendid work out there.{p}
+
+## MGG11J g0 s0062
+JP: MVPをとるなんてさすがね。{n}見直したわよ。{p}{end}
+EN: Winning MVP? Impressive. I've gained a new respect for you.{p}{end}
+
+## MGG11J g0 s0063
+JP: 私の見込んだとおりだ、{n}{v0}。{n}期待以上の成績だったぞ。{p}
+EN: I judged you correctly, {v0}. Your results exceeded my expectations.{p}
+
+## MGG11J g0 s0064
+JP: これも、英雄先生の{n}指導のたまものです。{n}先生、ありがとうございます。{p}
+EN: This is all thanks to your coaching, Hideo-sensei. Thank you, sensei.{p}
+
+## MGG11J g0 s0065
+JP: ははは、そういってもらえると、{n}うれしいですね。{n}でも、勝ったのは君の実力ですよ。{n}もっと自信をもちなさい。{p}{end}
+EN: Ha ha ha, I'm happy to hear that. But you won through your own ability. Have more confidence.{p}{end}
+
+## MGG11J g0 s0066
+JP: 英雄先生……、{n}ありがとうございます。{p}
+EN: Hideo-sensei... Thank you.{p}
+
+## MGG11J g0 s0067
+JP: これも、響子先生の{n}指導のたまものです。{n}先生、ありがとうございます。{p}
+EN: This is all thanks to your coaching, Kyoko-sensei. Thank you, sensei.{p}
+
+## MGG11J g0 s0068
+JP: ……ふふ、なんか照れちゃうわね、{n}そんな風にいわれると。{n}{v1}{col:0}クン{col:-}、あなたが勝ってくれて、{n}私もうれしいわ。{p}
+EN: ...Hehe, hearing that kind of makes me blush. I'm happy you won, {v1}{col:0}-kun{col:-}.{p}
+
+## MGG11J g0 s0069
+JP: 響子先生……ありがとうございます。{p}
+EN: Kyoko-sensei... Thank you.{p}
+
+## MGG11J g0 s0070
+JP: これも、雹さんが{n}気合いを入れてくれたおかげです。{n}雹さん、ありがとうございます。{p}
+EN: This is all thanks to you firing me up, Hyo-san. Thank you, Hyo-san.{p}
+
+## MGG11J g0 s0071
+JP: お前はいい右腕になりそうだ。{n}これからの活躍も期待しているぞ。{p}
+EN: You may make a fine right hand. I expect great things from you.{p}
+
+## MGG11J g0 s0072
+JP: 雹さん……がんばります。{p}{end}
+EN: Hyo-san... I'll do my best.{p}{end}
+
+## MGG11J g0 s0073
+JP: これもみなさんが{n}応援してくれたおかげです。{n}ありがとうございます。{p}{end}
+EN: This is all thanks to everyone cheering for me. Thank you.{p}{end}
+
+## MGG11J g0 s0074
+JP: ふふっ、もっと自信をもって!{n}勝ったのはあなたの実力よ。{p}{end}
+EN: Hehe, have more confidence! You won on your own ability.{p}{end}
+
+## MGG11J g0 s0075
+JP: いえ、みなさんの{n}アドバイスのおかげです。{n}俺一人の力ではとても……。{p}
+EN: No, it's thanks to everyone's advice. I could never have done it alone...{p}
+
+## MGG11J g0 s0076
+JP: ……こうして、五輪祭の{n}エキシビションマッチは、{n}ジャスティス高校の優勝に終わった。{p}{end}
+EN: ...And so, the Gorin Festival exhibition match ended in victory for Justice High.{p}{end}
+
+## MGG11J g0 s0077
+JP: （……まぁまぁかな。{n}{sp}とりあえず、これでなんとか{n}{sp}ジャスティス学園は3位を{n}{sp}キープできたみたいだ）{p}{end}
+EN: (...Not bad, I guess. At least it looks like Justice High held on to third place.){p}{end}
+
+## MGG11J g0 s0084
+JP: おお、{v0}{col:0}君{col:-}じゃないか。{n}見させてもらったよ。{n}3位なら大健闘だ。{n}よく、がんばったな。{p}
+EN: Oh, if it isn't {v0}{col:0}-kun{col:-}. I watched you out there. Third place is a fine showing. Good effort.{p}
+
+## MGG11J g0 s0089
+JP: やぁ、{v0}{col:0}君{col:-}。{n}お疲れでした。{n}3位だったようですね。{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}. Good work. Third place, it seems.{p}{end}
+
+## MGG11J g0 s0090
+JP: がんばったわね、{n}{v1}{col:0}クン{col:-}。{n}優勝は逃したけど、{n}十分な成績よ。{p}
+EN: You did well, {v1}{col:0}-kun{col:-}. You missed the win, but that's a fine result.{p}
+
+## MGG11J g0 s0091
+JP: ……不甲斐ないな……。{n}もう少し骨のあるヤツだと思っていたが、{n}どうやら買いかぶりすぎていたようだ。{p}{end}
+EN: ...Pathetic... I thought you had more backbone than this, but it seems I overestimated you.{p}{end}
+
+## MGG11J g0 s0092
+JP: まぁまぁ生徒会長、{n}そういわずに。{n}{v0}{col:0}君{col:-}も、{n}よくがんばりましたね。{p}{end}
+EN: Now, now, President, don't say that. {v0}{col:0}-kun{col:-}, you did very well.{p}{end}
+
+## MGG11J g0 s0093
+JP: （英雄先生のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Hideo-sensei... but it wasn't enough... That bugs me more than Justice High coming in third...){p}
+
+## MGG11J g0 s0094
+JP: まぁそう気をおとさずに。{n}3位でも十分立派な成績ですよ。{p}{end}
+EN: Now, don't be so discouraged. Third place is a fine result.{p}{end}
+
+## MGG11J g0 s0095
+JP: 英雄先生にそういってもらえると{n}助かります。{n}先生、ありがとうございます。{p}
+EN: Hearing that from you helps, Hideo-sensei. Thank you, sensei.{p}
+
+## MGG11J g0 s0096
+JP: （響子先生のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Kyoko-sensei... but it wasn't enough... That bugs me more than Justice High coming in third...){p}
+
+## MGG11J g0 s0097
+JP: そんなに気を落とさないで、{n}{v1}{col:0}クン{col:-}。{n}あなたはがんばったわ、{n}私はよく知ってるわよ。{p}{end}
+EN: Don't be so down, {v1}{col:0}-kun{col:-}. You did your best. I know that.{p}{end}
+
+## MGG11J g0 s0098
+JP: 響子先生にそういってもらえると{n}助かります。{n}先生、ありがとうございます。{p}
+EN: Hearing that from you helps, Kyoko-sensei. Thank you, sensei.{p}
+
+## MGG11J g0 s0099
+JP: （雹のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Hyo-san... but it wasn't enough... That bugs me more than Justice High coming in third...){p}{end}
+
+## MGG11J g0 s0100
+JP: 今日のところは、{n}こいつらに免じて許してやる。{n}だが次にこんな醜態をさらしたら、{n}どうなるか、覚えておくがいい。{p}{end}
+EN: For today, I shall pardon you for their sake. But should you make such a spectacle of yourself again, remember what awaits you.{p}{end}
+
+## MGG11J g0 s0101
+JP: 雹さん……、{n}すみません。{p}
+EN: Hyo-san... I'm sorry.{p}
+
+## MGG11J g0 s0102
+JP: せっかく、みなさんに{n}アドバイスをもらったのに、{n}すみませんでした。{p}{end}
+EN: Everyone gave me advice, and I still... I'm sorry.{p}{end}
+
+## MGG11J g0 s0103
+JP: そう気を落とすことはないですよ。{n}全力を出した結果ならそれで十分です。{p}
+EN: There's no need to feel so down. If you gave it your all, that's enough.{p}
+
+## MGG11J g0 s0104
+JP: ……ありがとうございます。{n}そういってもらえると助かります。{p}{end}
+EN: ...Thank you. Hearing that helps.{p}{end}
+
+## MGG11J g0 s0105
+JP: ……こうして、ジャスティス学園は{n}五輪祭のエキシビションマッチ{n}第3位に終わった。{p}
+EN: ...And so, Justice High finished third in the Gorin Festival exhibition match.{p}
+
+## MGG11J g0 s0106
+JP: （最悪だ……。{n}{sp}俺はがんばったが、結果は振るわず{n}{sp}ジャスティス学園は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Justice High came in last...){p}{end}
+
+## MGG11J g0 s0113
+JP: {v0}{col:0}君{col:-}じゃないか。{n}何だね、さっきのザマは。{p}
+EN: Why, if it isn't {v0}{col:0}-kun{col:-}. What was that sorry display just now?{p}
+
+## MGG11J g0 s0114
+JP: 普段から練習しておれば、{n}こんな結果にはならんはずだ。{n}ジャスティス学園の生徒として{n}恥ずかしいと思いたまえ。{p}
+EN: Had you trained properly, this would never have happened. You ought to be ashamed, as a student of Justice High.{p}
+
+## MGG11J g0 s0115
+JP: す、すみません、学園長。{p}{end}
+EN: I-I'm sorry, Principal.{p}{end}
+
+## MGG11J g0 s0116
+JP: まぁ、よい。{n}しかし、これからは{n}修行を怠らんことだ。{n}ジャスティス学園の生徒として、な。{p}
+EN: Well, very well. But from now on, do not neglect your training. As a student of Justice High, that is.{p}
+
+## MGG11J g0 s0117
+JP: やぁ、{v0}{col:0}君{col:-}。{n}ちょっと調子が{n}出なかったようですね。{n}お疲れさまでした。{p}{end}
+EN: Ah, {v0}{col:0}-kun{col:-}. It seems you weren't quite at your best. Good work all the same.{p}{end}
+
+## MGG11J g0 s0118
+JP: そ、そうね、{n}勝負は時の運というし……、{n}それに、この五輪祭も、{n}参加することに意義があるのよ。{p}{end}
+EN: Y-yes, winning's down to luck, as they say... Besides, what matters at the Gorin Festival is taking part.{p}{end}
+
+## MGG11J g0 s0119
+JP: ぬるいな……、{n}我がジャスティス学園の名に{n}泥を塗ったのだ。{n}それなりの罰を覚悟してもらおう。{p}
+EN: You are too lenient... This one has dragged the name of our Justice High through the mud. Prepare for a fitting punishment.{p}
+
+## MGG11J g0 s0120
+JP: ひ、雹クン!!{n}刀はいかん、刀は!{n}落ち着きたまえ!{sp}な?{p}
+EN: H-Hyo-kun!! Not the sword, not the sword! Calm yourself! All right?{p}
+
+## MGG11J g0 s0121
+JP: （英雄先生のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}ジャスティス高校が最下位になった{n}{sp}ことより、そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Hideo-sensei... but I totally blew it... That bugs me more than Justice High coming in last...){p}{end}
+
+## MGG11J g0 s0122
+JP: {v0}{col:0}君{col:-}も{n}今日は帰ってゆっくり休みたまえ!{n}な?{sp}この場は先生にまかせて。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, you go home and get some rest today! All right? Leave this to me.{p}{end}
+
+## MGG11J g0 s0123
+JP: せ、先生……わかりました、{n}失礼します。{p}{end}
+EN: S-sensei... Understood. Excuse me.{p}{end}
+
+## MGG11J g0 s0124
+JP: （響子先生のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}ジャスティス学園が最下位になった{n}{sp}ことより、そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Kyoko-sensei... but I totally blew it... That bugs me more than Justice High coming in last...){p}{end}
+
+## MGG11J g0 s0125
+JP: {v1}{col:0}クン{col:-}も、{n}今日は早く帰って休んだ方がいいわ。{n}疲れてるでしょう?{p}
+EN: {v1}{col:0}-kun{col:-}, you'd better go home early and rest today. You must be tired, right?{p}
+
+## MGG11J g0 s0126
+JP: 響子先生……。{n}わかりました、失礼します。{p}
+EN: Kyoko-sensei... Understood. Excuse me.{p}
+
+## MGG11J g0 s0127
+JP: （雹のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}ジャスティス学園が最下位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Hyo-san... but I totally blew it... That bugs me more than Justice High coming in last...){p}
+
+## MGG11J g0 s0128
+JP: 白刃を前に、おびえもしないとは……。{n}よほど覚悟ができているらしいな。{n}よかろう、貴様のその覚悟に免じて{n}今日のところは許してやる。{p}{end}
+EN: You do not even flinch before a drawn blade... You must be truly resolved. Very well. For that resolve, I shall pardon you today.{p}{end}
+
+## MGG11J g0 s0129
+JP: ……雹さん……すみません。{p}
+EN: ...Hyo-san... I'm sorry.{p}
+
+## MGG11J g0 s0130
+JP: すみません、雹さん。{n}俺も真剣にやったんですが……。{p}{end}
+EN: I'm sorry, Hyo-san. I really did take it seriously, but...{p}{end}
+
+## MGG11J g0 s0131
+JP: 言いたいことはそれだけか?{n}お前の母上には遺言として{n}伝えておいてやる!{n}そこに直れ!{p}
+EN: Is that all you have to say? I shall pass it on to your mother as your last words! Hold still!{p}
+
+## MGG11J g0 s0132
+JP: い、いかん!{n}{v0}{col:0}君{col:-}も、早く帰りたまえ!{n}ここは我々に任せて!{n}さぁ早く!!{p}
+EN: N-no! {v0}{col:0}-kun{col:-}, hurry home! Leave this to us! Quickly now!!{p}
+
+## MGG11J g0 s0133
+JP: ……こうして、ジャスティス学園は{n}五輪祭のエキシビションマッチ{n}最下位に終わり、{n}俺もなんとか一命を取りとめた……。{p}{end}
+EN: ...And so, Justice High finished last in the Gorin Festival exhibition match, and I barely escaped with my life...{p}{end}
+
+## MGG11J g1 s0000
+JP: 今年ももう11月。{n}『五輪祭』の季節。{p}
+EN: It's November already. Time for the Gorin Festival.{p}
+
+## MGG11J g1 s0001
+JP: 本来五輪高校の行事である『五輪祭』の{n}一番のクライマックスが、{n}ゲストに他校の生徒を招いての{n}エキシビションマッチ。{p}{end}
+EN: The Gorin Festival is a Gorin High event, and its biggest highlight is an exhibition match with students from other schools as guests.{p}{end}
+
+## MGG11J g1 s0002
+JP: 当初はたんなる余興だったらしいけど、{n}最近では学校の名誉をかけた戦いとして、{n}非常に熱い盛り上がりを見せている。{p}{end}
+EN: It started out as a simple sideshow, but lately it's become a battle for school honor, and it gets really heated.{p}{end}
+
+## MGG11J g1 s0003
+JP: 今年の参加校は、主催の五輪高校と、{n}我がジャスティス学園を{n}含めて、合計五校。{n}いつもの顔ぶれね。{p}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Justice High. The usual faces.{p}
+
+## MGG11J g1 s0004
+JP: 私も当然のように{n}代表選手に選ばれているワケだけど……{p}
+EN: Naturally, I was picked as one of the representatives...{p}
+
+## MGG11J g1 s0006
+JP: 学園長が、代表で挨拶をしているみたい。{p}
+EN: The principal seems to be giving the opening speech for everyone.{p}
+
+## MGG11J g1 s0008
+JP: ……長い挨拶になりそうねぇ。{p}{end}
+EN: ...Looks like this'll be a long speech.{p}{end}
+
+## MGG11J g1 s0009
+JP: は～い、探したわよ、{n}{v8:19}。{p}{end}
+EN: Hiii, there you are, {v8:19}.{p}{end}
+
+## MGG11J g1 s0012
+JP: あのね、そんなことも知らずに{n}取材してるわけ?{p}
+EN: Hey, you're doing interviews without even knowing that?{p}
+
+## MGG11J g1 s0015
+JP: ホームラン競争よ。{p}
+EN: The Home Run Derby.{p}
+
+## MGG11J g1 s0017
+JP: サッカーのPK戦よ。{p}{end}
+EN: The soccer PK Shootout.{p}{end}
+
+## MGG11J g1 s0019
+JP: バレーのサービスエースよ。{p}
+EN: The volleyball Service Ace.{p}
+
+## MGG11J g1 s0022
+JP: ちょっとちょっと、{n}コメントとるんじゃなかったの?{n}……いっちゃったわ。{n}相変わらずそそっかしいわねぇ。{p}{end}
+EN: Hey, hey, weren't you gonna get a comment? ...She's gone. Scatterbrained as ever.{p}{end}
+
+## MGG11J g1 s0023
+JP: ……以上をもちまして、{n}短いながら、挨拶に{n}かえさせていただきたいと、{n}思います。{p}
+EN: ...With that, I shall conclude these brief remarks.{p}
+
+## MGG11J g1 s0024
+JP: ……まだ話してたのね、学園長……。{n}全然、短くないじゃない。{p}{end}
+EN: ...The principal was still talking? That wasn't brief at all.{p}{end}
+
+## MGG11J g1 s0030
+JP: あっ、雹クン……。{p}
+EN: Oh, Hyo-kun...{p}
+
+## MGG11J g1 s0034
+JP: 我々の優秀さを、彼ら愚民に{n}見せつけてやれ、よね。{n}雹クン。{p}{end}
+EN: "Show those ignorant masses how superior we are," right, Hyo-kun?{p}{end}
+
+## MGG11J g1 s0038
+JP: （確かに学校の名誉のため、って{n}{sp}いわれてもねぇ……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るわね……）{p}
+EN: (Sure, they keep saying it's for the school's honor, but... I'd get way more fired up fighting for something real...){p}
+
+## MGG11J g1 s0039
+JP: （例えば、誰かのため、とか……。{n}{sp}そうだわ。うん!）{p}
+EN: (Like for someone, maybe... That's it. Okay!){p}
+
+## MGG11J g1 s0041
+JP: （よし!{sp}この勝利を英雄先生に捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Hideo-sensei! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11J g1 s0042
+JP: （よし!{sp}この勝利を響子先生に捧げるわ!{n}{sp}うん!{sp}気合が入ってきたわ!）{p}
+EN: (All right! I'll dedicate this win to Kyoko-sensei! Yeah! I'm getting fired up!){p}
+
+## MGG11J g1 s0043
+JP: （よし!{sp}この勝利を雹クンに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}
+EN: (All right! I'll dedicate this win to Hyo-kun! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11J g1 s0044
+JP: （やっぱり学校のためにがんばるわ。{n}{sp}その方が気合いが入るるし。）{p}
+EN: (I'll do my best for the school after all. That fires me up more.){p}
+
+## MGG11J g1 s0048
+JP: （絶好調!{n}{sp}私の大活躍のおかげで、{n}{sp}ジャスティス学園は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Justice High won!){p}
+
+## MGG11J g1 s0049
+JP: おめでとう!{sp}{v8:19}!{n}ジャスティス学園が優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v8:19}! Justice High wins! You were amazing out there!{p}{end}
+
+## MGG11J g1 s0052
+JP: 優勝の感想ねぇ……、{n}まだ実感がないなァ。{n}確かに、自分でもいい記録が{n}でたと思うけどね。{p}
+EN: How it feels to win... It hasn't sunk in yet. I do think I put up a good score, though.{p}
+
+## MGG11J g1 s0053
+JP: まぁ、みんなが{n}応援してくれたおかげよね。{p}
+EN: Well, it's thanks to everyone cheering for me.{p}
+
+## MGG11J g1 s0057
+JP: やったわね、{v8:19}!{n}これで、見出しも決まりだわ!!{p}
+EN: You did it, {v8:19}! That settles the headline, too!!{p}
+
+## MGG11J g1 s0058
+JP: いやぁ、そんな私なんて……、{n}……恐縮です、学園長。{p}{end}
+EN: Oh, come on, someone like me... ...I'm honored, Principal.{p}{end}
+
+## MGG11J g1 s0068
+JP: ……ふふ、なんか照れちゃうわね、{n}そんな風にいわれると。{n}{v1}{col:0}さん{col:-}、あなたが勝ってくれて、{n}私もうれしいわ。{p}
+EN: ...Hehe, hearing that kind of makes me blush. I'm happy you won, {v1}{col:0}-san{col:-}.{p}
+
+## MGG11J g1 s0070
+JP: これも、雹クンが{n}気合いを入れてくれたおかげよ。{n}雹クン、ありがとう……。{p}
+EN: This is all thanks to you firing me up, Hyo-kun. Thank you...{p}
+
+## MGG11J g1 s0072
+JP: 雹クン……がんばるからね。{p}
+EN: Hyo-kun... I'll do my best, okay?{p}
+
+## MGG11J g1 s0075
+JP: いえ、みなさんの{n}アドバイスのおかげです。{n}私一人の力ではとても……。{p}
+EN: No, it's thanks to everyone's advice. I could never have done it alone...{p}
+
+## MGG11J g1 s0077
+JP: （……まぁまぁね。{n}{sp}とりあえず、これでなんとか{n}{sp}ジャスティス学園は3位を{n}{sp}キープできたみたいだし。）{p}
+EN: (...Not bad, I guess. At least it looks like Justice High held on to third place.){p}
+
+## MGG11J g1 s0078
+JP: は～い、{v8:19}。{n}特に可もなく不可もなく、{n}まぁまぁってカンジね。{p}{end}
+EN: Hiii, {v8:19}. Nothing great, nothing terrible. Just so-so, huh.{p}{end}
+
+## MGG11J g1 s0080
+JP: ……キツイわね、あいかわらず。{p}
+EN: ...Harsh as ever.{p}
+
+## MGG11J g1 s0081
+JP: 確かに、自慢できた成績じゃ{n}ないけどね……。{n}とりあえず、3位なら{n}OKラインじゃない?{p}{end}
+EN: Sure, it's not a score to brag about... But third place is a passing grade, isn't it?{p}{end}
+
+## MGG11J g1 s0083
+JP: そうね。{p}{end}
+EN: Yeah.{p}{end}
+
+## MGG11J g1 s0085
+JP: 学園長……。{n}私なんてまだまだです。{p}{end}
+EN: Principal... I've still got a long way to go.{p}{end}
+
+## MGG11J g1 s0090
+JP: がんばったわね、{n}{v1}{col:0}さん{col:-}。{n}優勝は逃したけど、{n}十分な成績よ。{p}
+EN: You did well, {v1}{col:0}-san{col:-}. You missed the win, but that's a fine result.{p}
+
+## MGG11J g1 s0093
+JP: （英雄先生のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Hideo-sensei... but it wasn't enough... That bugs me more than Justice High coming in third...){p}
+
+## MGG11J g1 s0096
+JP: （響子先生のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Kyoko-sensei... but it wasn't enough... That bugs me more than Justice High coming in third...){p}
+
+## MGG11J g1 s0097
+JP: そんなに気を落とさないで、{n}{v1}{col:0}さん{col:-}。{n}あなたはがんばったわ、{n}私はよく知ってるわよ。{p}{end}
+EN: Don't be so down, {v1}{col:0}-san{col:-}. You did your best. I know that.{p}{end}
+
+## MGG11J g1 s0099
+JP: （雹クンのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}ジャスティス学園が3位になった{n}{sp}ことより、そっちの方が残念……）{p}{end}
+EN: (I did my best for Hyo-kun... but it wasn't enough... That bugs me more than Justice High coming in third...){p}{end}
+
+## MGG11J g1 s0101
+JP: 雹クン……、{n}ごめんなさい。{p}{end}
+EN: Hyo-kun... I'm sorry.{p}{end}
+
+## MGG11J g1 s0102
+JP: せっかく、みなさんに{n}アドバイスをもらったのに、{n}ごめんなさい。{p}{end}
+EN: Everyone gave me advice, and I still... I'm sorry.{p}{end}
+
+## MGG11J g1 s0106
+JP: （最悪……。{n}{sp}私はがんばったけど、結果は振るわず{n}{sp}ジャスティス学園は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Justice High came in last...){p}{end}
+
+## MGG11J g1 s0108
+JP: あっ……、ランちゃん……。{p}
+EN: Oh... Ran-chan...{p}
+
+## MGG11J g1 s0109
+JP: 「アッ」じゃないでしょ?{n}アンタには期待してたんだけど。{n}試合前にコメントとらなくて{n}よかったわ、ホント。{p}
+EN: Don't "oh" me! I had high hopes for you. Good thing I didn't get your comment before the match, seriously.{p}
+
+## MGG11J g1 s0110
+JP: せっかくみんなが{n}応援してくれたのに……。{n}みんなに合わせる顔がないよ……。{p}{end}
+EN: Everyone cheered for me, too... I can't face them...{p}{end}
+
+## MGG11J g1 s0112
+JP: 厳しいわねぇ、ランちゃんは。{p}{end}
+EN: You're harsh, Ran-chan.{p}{end}
+
+## MGG11J g1 s0121
+JP: （英雄先生のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}ジャスティス高校が最下位になった{n}{sp}ことより、そっちの方が残念……）{p}{end}
+EN: (I did my best for Hideo-sensei... but I totally blew it... That bugs me more than Justice High coming in last...){p}{end}
+
+## MGG11J g1 s0124
+JP: （響子先生のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}ジャスティス学園が最下位になった{n}{sp}ことより、そっちの方が残念……）{p}{end}
+EN: (I did my best for Kyoko-sensei... but I totally blew it... That bugs me more than Justice High coming in last...){p}{end}
+
+## MGG11J g1 s0125
+JP: {v1}{col:0}さん{col:-}も、{n}今日は早く帰って休んだ方がいいわ。{n}疲れてるでしょう?{p}
+EN: {v1}{col:0}-san{col:-}, you'd better go home early and rest today. You must be tired, right?{p}
+
+## MGG11J g1 s0127
+JP: （雹クンのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}ジャスティス学園が最下位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Hyo-kun... but I totally blew it... That bugs me more than Justice High coming in last...){p}
+
+## MGG11J g1 s0129
+JP: ……雹クン……ごめんなさい。{p}{end}
+EN: ...Hyo-kun... I'm sorry.{p}{end}
+
+## MGG11J g1 s0130
+JP: ごめんなさい、雹クン。{n}私も真剣にやったんだけど……。{p}
+EN: I'm sorry, Hyo-kun. I really did take it seriously, but...{p}
+
+## MGG11J g1 s0133
+JP: ……こうして、ジャスティス学園は{n}五輪祭のエキシビションマッチ{n}最下位に終わり、{n}私もなんとか一命を取りとめた……。{p}{end}
+EN: ...And so, Justice High finished last in the Gorin Festival exhibition match, and I barely escaped with my life...{p}{end}
+

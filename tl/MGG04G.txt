@@ -1,0 +1,2116 @@
+## MGG04G g0 s0000
+JP: 今日は外道高校の入学式。{n}入学式くらいはマジメに出ないとな。{n}ちょっと遅くなりそうだが、{n}遅刻はしないですみそうだ。{p}{end}
+EN: Today's the Gedo High entrance ceremony. I should at least show up for that. I'm running a bit late, but I won't be tardy.{p}{end}
+
+## MGG04G g0 s0001
+JP: 後ろからバイクのエンジン音……{n}あ、アレはアキラだな。{p}
+EN: A motorbike engine behind me... Oh, that's Akira.{p}
+
+## MGG04G g0 s0002
+JP: やぁ、アキラ。{n}入学そうそうバイク通学とは{n}優雅だな。{p}
+EN: Hey, Akira. Riding a bike to school on day one? Pretty fancy.{p}
+
+## MGG04G g0 s0003
+JP: ああ、{v3:10}か。{n}どうだ、後ろに乗っていくか?{p}{end}
+EN: Oh, it's {v3:10}. Want a ride on the back?{p}{end}
+
+## MGG04G g0 s0004
+JP: お、いいのか?{n}じゃ、ちょっと乗せてもらおうかな。{n}悪いな。{p}{end}
+EN: Oh, really? Then I'll take you up on it. Thanks.{p}{end}
+
+## MGG04G g0 s0005
+JP: 別にかまわないさ。{n}よし、ちょっと時間を{n}とったから急ぐぞ。{p}{end}
+EN: No trouble. Right, we lost a little time, so let's hurry.{p}{end}
+
+## MGG04G g0 s0006
+JP: さすがバイクだ、あっという間だな。{n}ありがとう、アキラ。{p}{end}
+EN: That's a bike for you, we're here already. Thanks, Akira.{p}{end}
+
+## MGG04G g0 s0007
+JP: 遅かったな、アキラ。{p}{end}
+EN: You're late, Akira.{p}{end}
+
+## MGG04G g0 s0008
+JP: 兄さん……いや、兄貴。{n}途中でこいつにあったのでな、{n}少し遅くなった。{p}
+EN: Big brother... I mean, Bro. I ran into this guy on the way, so I'm a bit late.{p}
+
+## MGG04G g0 s0009
+JP: （兄さん……そうか、{n}{sp}アキラは女の子だもんな……）{p}{end}
+EN: (Big brother... Right, Akira's a girl, after all...){p}{end}
+
+## MGG04G g0 s0010
+JP: うむ。もうすぐ入学式だ。{n}正体がバレないように、{n}気をつけろよ。{n}では、また後でな。{p}{end}
+EN: Fine. The ceremony starts soon. Be careful nobody finds out who you really are. See you later.{p}{end}
+
+## MGG04G g0 s0011
+JP: ……いっちゃった。{n}アキラも大変だな。{p}
+EN: ...And he's gone. It can't be easy being Akira.{p}
+
+## MGG04G g0 s0012
+JP: 兄貴はもういったか?{n}誰か来ないかちょっと見張っててくれ。{p}
+EN: Is Bro gone? Keep watch for a sec in case someone comes.{p}
+
+## MGG04G g0 s0013
+JP: ん……いいけど。{n}どうしたの?{p}
+EN: Hm... sure. What's up?{p}
+
+## MGG04G g0 s0014
+JP: ふぅ……ちょっと汗かいて……{n}気持ち悪かったから。{n}……ああ、すっきりしたわ。{p}
+EN: Phew... I got all sweaty... It felt gross. ...Ah, that's so much better.{p}
+
+## MGG04G g0 s0015
+JP: アキラも大変だね。{n}汗もろくにふけないんだから。{p}{end}
+EN: You've got it rough, Akira. You can't even wipe off your sweat.{p}{end}
+
+## MGG04G g0 s0016
+JP: ふふ……そうね。{p}{end}
+EN: Hee hee... I guess so.{p}{end}
+
+## MGG04G g0 s0017
+JP: あ、誰か来た!{p}
+EN: Ah, someone's coming!{p}
+
+## MGG04G g0 s0018
+JP: お、おぅ。{n}うむ!{sp}{v3:10}、{n}じゃ、また後でな!{p}
+EN: Uh, r-right. Hmph! {v3:10}, see you later, then!{p}
+
+## MGG04G g0 s0019
+JP: う～ん、あれじゃ心の安まる{n}ヒマもないなぁ。{p}{end}
+EN: Hmm, she never gets a moment's peace like that.{p}{end}
+
+## MGG04G g0 s0020
+JP: そろそろ入学式だな……。{n}ああいう式典って面倒なんだよなぁ。{p}{end}
+EN: The ceremony's starting soon... Formal stuff like that is such a pain.{p}{end}
+
+## MGG04G g0 s0021
+JP: お、エッジと岩がこっちにくるぞ。{n}式場は向こうじゃないのか?{p}{end}
+EN: Oh, Edge and Gan are heading this way. Isn't the ceremony the other way?{p}{end}
+
+## MGG04G g0 s0022
+JP: よぉ、{v3:9}じゃねぇか。{n}入学式なんてかったるくてよ、{n}どうよ、いっしょにフケねぇか?{p}{end}
+EN: Yo, if it ain't {v3:9}. Entrance ceremonies are a drag. Whaddya say, wanna ditch with us?{p}{end}
+
+## MGG04G g0 s0023
+JP: そうだな……{n}俺も行くかな。{p}{end}
+EN: Let's see... Guess I'll come too.{p}{end}
+
+## MGG04G g0 s0024
+JP: うむ、そうと決まれば{n}さっそく屋上へ行くかの。{n}やはり、サボリとくれば屋上よ!{p}
+EN: Well, now that it's settled, let's head on up to the roof. When ya skip, ya skip on the roof!{p}
+
+## MGG04G g0 s0025
+JP: どうやら誰もいないな。{n}入学式が終わるまでのんびりするか。{p}
+EN: Looks like nobody's here. Let's kick back till the ceremony's over.{p}
+
+## MGG04G g0 s0026
+JP: ふぅむ。のんびりするとなると、{n}腹が減ってくるのぉ。{n}……ううむ、腹ぺこじゃ。{n}誰か何か買ってきてくれんかのぉ。{p}{end}
+EN: Hmm. Kickin' back sure works up an appetite... Ooh, I'm starvin'. Somebody oughta go buy some grub.{p}{end}
+
+## MGG04G g0 s0027
+JP: かーっ、お前は食うことばっかだな!{n}さっき朝飯食ったばっかりだろ!!{p}{end}
+EN: Gah, all you ever think about is food! You just ate breakfast!!{p}{end}
+
+## MGG04G g0 s0028
+JP: そういえば、俺も少し腹が減ってきたな。{n}誰か何か買ってこないか?{p}{end}
+EN: Come to think of it, I'm getting a bit hungry too. Anybody wanna go buy something?{p}{end}
+
+## MGG04G g0 s0029
+JP: あ?{sp}オレに言ってんのか?{n}こういうコトはよ、{n}ジャンケンで決めようぜ、{n}ジャンケンで。{p}{end}
+EN: Huh? You talkin' to me? Stuff like this, we settle with rock-paper-scissors. Rock-paper-scissors.{p}{end}
+
+## MGG04G g0 s0030
+JP: よ～し、ジャンケン勝負じゃ!{n}負けたモンが買ってくる、{n}それでええかの?{p}{end}
+EN: Alrighty, rock-paper-scissors it is! Loser goes and buys. That fair?{p}{end}
+
+## MGG04G g0 s0031
+JP: グーを出す{n}チョキを出す{n}パーを出す{p}{end}
+EN: Throw rock{n}Throw scissors{n}Throw paper{p}{end}
+
+## MGG04G g0 s0032
+JP: よし、ジャーンケーン……{n}グーッ!{p}
+EN: Okay, rock, paper, scissors... Rock!{p}
+
+## MGG04G g0 s0033
+JP: むうう……{n}ワシの負けじゃい。{n}しかたない、買ってくるぞい。{p}{end}
+EN: Hrmm... I lost. Can't be helped, I'll go buy it.{p}{end}
+
+## MGG04G g0 s0034
+JP: へへ、オレは焼きそばパンね!{p}{end}
+EN: Heh, a yakisoba bun for me!{p}{end}
+
+## MGG04G g0 s0035
+JP: 俺は……パンとジュースね!{p}
+EN: I'll have... a bun and a juice!{p}
+
+## MGG04G g0 s0036
+JP: わかった、わかったわい。{n}いってくるぞい!{p}
+EN: All right, all right. I'm off!{p}
+
+## MGG04G g0 s0037
+JP: {face:15}・・・・・・・・・・{face:255}{p}{end}
+EN: {face:15}..........{face:255}{p}{end}
+
+## MGG04G g0 s0038
+JP: 買ってきたぞい!!{n}男はやっぱりオニギリじゃい!!{p}
+EN: I'm back!! Real men eat rice balls!!{p}
+
+## MGG04G g0 s0039
+JP: なんだ、お前おにぎりばっかじゃねぇか。{n}しまった、コイツに行かせるんじゃ{n}なかったよ……。{p}
+EN: What the, it's all rice balls! Damn, shoulda never sent this guy...{p}
+
+## MGG04G g0 s0040
+JP: ……ま、いいさ。{n}俺も腹ぺこなんだ。{n}とっとと食おうぜ!{p}{end}
+EN: ...Oh well. I'm starving too. Let's dig in!{p}{end}
+
+## MGG04G g0 s0041
+JP: よし、ジャーンケーン……{n}チョキッ!{p}{end}
+EN: Okay, rock, paper, scissors... Scissors!{p}{end}
+
+## MGG04G g0 s0042
+JP: ゲッ、俺かよぉ?{n}しょーがねぇなぁ、{n}買ってきてやらぁ!{p}{end}
+EN: Ugh, me? Fine, whatever. I'll go buy it!{p}{end}
+
+## MGG04G g0 s0043
+JP: わっはっは、わしはオニギリを{n}頼むぞい!{n}オニギリ、オニギリじゃ!{p}
+EN: Wahaha, I'll take rice balls! Rice balls, y'hear!{p}
+
+## MGG04G g0 s0044
+JP: じゃ俺も……オニギリね。{p}{end}
+EN: Then I'll have... rice balls too.{p}{end}
+
+## MGG04G g0 s0045
+JP: わかったっつーの。{n}んじゃ、行って来るぜ!{p}
+EN: I got it already. Okay, I'm off!{p}
+
+## MGG04G g0 s0047
+JP: ホラ、買ってきたぞ。{n}俺のスペシャルメニューだ。{p}{end}
+EN: Here, I'm back. My special menu.{p}{end}
+
+## MGG04G g0 s0048
+JP: なんじゃい、これは……{n}焼きそばパンにコロッケパン……、{n}なんじゃ、パンばっかりじゃのう。{p}
+EN: What's this now... Yakisoba bun, croquette bun... Why, it's nothin' but bread.{p}
+
+## MGG04G g0 s0049
+JP: 何いってんだ、オニギリより{n}こっちの方がうまいっつーの。{n}さ、さ、食おうぜ!{p}{end}
+EN: Whaddya mean? This stuff's way better than rice balls. C'mon, let's eat!{p}{end}
+
+## MGG04G g0 s0050
+JP: よし、ジャーンケーン……{n}パーッ!{p}
+EN: Okay, rock, paper, scissors... Paper!{p}
+
+## MGG04G g0 s0051
+JP: ゲッ、俺か。{n}仕方ない、買ってくるよ。{p}
+EN: Ugh, me? Oh well, I'll go buy it.{p}
+
+## MGG04G g0 s0052
+JP: んじゃ、俺焼きそばパンね。{p}
+EN: Then I'll take a yakisoba bun.{p}
+
+## MGG04G g0 s0053
+JP: ワシはオニギリが食いたいのぉ!{p}
+EN: I'm cravin' rice balls!{p}
+
+## MGG04G g0 s0054
+JP: わかった、わかった。{n}すぐ買ってくるから、待ってろって。{p}{end}
+EN: Okay, okay. I'll be right back, so wait here.{p}{end}
+
+## MGG04G g0 s0056
+JP: 買ってきたぞ。{n}さ、みんな食おうぜ。{p}{end}
+EN: I'm back. Okay, let's eat.{p}{end}
+
+## MGG04G g0 s0057
+JP: 待ってました、と。{n}へへ、俺の焼きそばパン{col:5}♥{col:-}{p}{end}
+EN: Been waitin' for this. Heh heh, my yakisoba bun{col:5}♥{col:-}{p}{end}
+
+## MGG04G g0 s0058
+JP: がっはっは、{n}男はやっぱりオニギリよ!{n}のぉ!{p}
+EN: Gahaha, real men eat rice balls! Ain't that right!{p}
+
+## MGG04G g0 s0059
+JP: {face:15}・・・・・・・・・・{face:255}{n}ふぅ……食った食った。{n}そろそろ入学式が終わるんじゃないか?{p}
+EN: {face:15}..........{face:255} Whew... I'm stuffed. Isn't the ceremony about over by now?{p}
+
+## MGG04G g0 s0060
+JP: そうだな。{n}そろそろ行くか。{p}{end}
+EN: Yeah. Let's get going.{p}{end}
+
+## MGG04G g0 s0061
+JP: パシャッ!{p}
+EN: Click!{p}
+
+## MGG04G g0 s0062
+JP: （ん?{n}{sp}今何か光ったような気がしたけど……{n}{sp}気のせいかな……?）{p}{end}
+EN: (Hm? I thought something flashed just now... Must be my imagination...?){p}{end}
+
+## MGG04G g0 s0063
+JP: ふぅ……予定通り、{n}入学式は終わってたな。{n}さてと、どうするかな……。{p}
+EN: Whew... Just as planned, the ceremony's over. Now, what to do...{p}
+
+## MGG04G g0 s0064
+JP: （ん?{sp}あそこで、{n}{sp}カメラを構えているのは誰だ?{n}{sp}しきりに写真を撮ってるみたいだけど。）{p}{end}
+EN: (Hm? Who's that over there with a camera? Looks like they're snapping away.){p}{end}
+
+## MGG04G g0 s0065
+JP: やぁ。{n}君、そこで何してるの?{p}
+EN: Hey. What are you doing there?{p}
+
+## MGG04G g0 s0066
+JP: え?{sp}ワタシ?{n}見ての通り、写真を撮ってるのよ。{n}新聞部の入部試験の、課題用にね……。{p}
+EN: Huh? Me? Taking pictures, obviously. For the newspaper club's entrance test...{p}
+
+## MGG04G g0 s0067
+JP: あ、あなた、さっきの!{n}『新入生入学式をボイコット!?{n}{sp}屋上で早弁!』ね!?{n}ばっちり撮らせてもらったわよ。{p}
+EN: Oh, you're the one from before! "Freshmen Boycott Entrance Ceremony!? Early Lunch on the Roof!" I got a perfect shot of you.{p}
+
+## MGG04G g0 s0068
+JP: あ……さっきのフラッシュは……。{p}{end}
+EN: Ah... so that flash earlier was...{p}{end}
+
+## MGG04G g0 s0069
+JP: そ、ワタシ。{n}ワタシね、太陽学園の新聞部に{n}入部するつもりなんだけど、{n}あそこの新聞部って入部に試験があるの。{p}
+EN: Yep, me. See, I'm gonna join the Taiyo High newspaper club, but they have an entrance test.{p}
+
+## MGG04G g0 s0070
+JP: それが、入学式のスクープ写真を{n}撮ってこいってコトだったんだけど、{n}おかげでいい写真が撮れたわ!{n}アリガト!{p}{end}
+EN: The task was a scoop photo of the entrance ceremony, and thanks to you, I got a great shot! Thanks!{p}{end}
+
+## MGG04G g0 s0071
+JP: へぇ……ん?{sp}じゃ君も{n}式には出てなかったんじゃないか?{p}{end}
+EN: Huh... Wait. Then you skipped the ceremony too, didn't you?{p}{end}
+
+## MGG04G g0 s0072
+JP: ふふっ、気にしない気にしない!{n}あっと、自己紹介が遅れたわね。{n}ワタシ、ラン。ジャーナリスト志望よ。{n}よろしくね。{p}
+EN: Hee hee, don't worry about it! Oh, I forgot to introduce myself. I'm Ran. Future journalist. Nice to meet ya!{p}
+
+## MGG04G g0 s0073
+JP: 入学式も無事に終わった、と……。{n}そういえば、クラブに入らないとな。{p}{end}
+EN: The entrance ceremony's over, and no trouble... Oh right, I need to join a club.{p}{end}
+
+## MGG04G g0 s0074
+JP: 全校合同クラブオリエンテーションが{n}部室棟であるとか、聞いたけど……、{n}部室棟はどこだろう?{p}{end}
+EN: I heard there's a joint club orientation for all schools at the clubhouse... but where's the clubhouse?{p}{end}
+
+## MGG04G g0 s0075
+JP: このあたりだと思うんだけど。{n}ここはプールだよな……。{n}……いいプールだな。設備も整ってるし。{n}まだ4月だから誰も泳いでないな……。{p}{end}
+EN: I think it's around here. This is the pool... Nice pool. Good facilities, too. It's only April, so nobody's swimming yet...{p}{end}
+
+## MGG04G g0 s0076
+JP: ザパーーーーーン!!{p}{end}
+EN: SPLAAASH!!{p}{end}
+
+## MGG04G g0 s0077
+JP: うわっ!{n}な、なんだ!?{n}プールから人が!!{p}{end}
+EN: Whoa! Wh-what!? Someone came out of the pool!!{p}{end}
+
+## MGG04G g0 s0078
+JP: ………………。{p}
+EN: ......{p}
+
+## MGG04G g0 s0079
+JP: （な、な、何だ?{n}{sp}この人は……!?）{p}
+EN: (Wh-wh-who is this guy...!?){p}
+
+## MGG04G g0 s0080
+JP: …………君は新入生か?{p}
+EN: ......Are you a freshman?{p}
+
+## MGG04G g0 s0081
+JP: え、ええ、いやその、{n}部室棟を探してまして……。{p}{end}
+EN: Y-yes, er, well... I'm looking for the clubhouse...{p}{end}
+
+## MGG04G g0 s0082
+JP: …………部室棟……{n}あっちだ。{p}
+EN: ......The clubhouse... That way.{p}
+
+## MGG04G g0 s0083
+JP: （……目線の方向を見ると、{n}{sp}部室棟らしき建物が……）{p}
+EN: (...I follow his gaze, and there's a building that must be the clubhouse...){p}
+
+## MGG04G g0 s0084
+JP: あ、ありがとうございました!{n}じゃ、俺はこれで!{p}{end}
+EN: Th-thank you very much! Well, I'll be going!{p}{end}
+
+## MGG04G g0 s0086
+JP: ふぅ……。{n}なんだったんだろう、今の人は?{p}
+EN: Whew... Who was that just now?{p}
+
+## MGG04G g0 s0087
+JP: お、あそこにいるのは、{n}将馬のお兄さんの修一さんだな。{n}修一さん、こんにちは!{p}
+EN: Oh, that's Shoma's older brother, Shuichi-san. Hello, Shuichi-san!{p}
+
+## MGG04G g0 s0088
+JP: よぉ、{v1}{col:0}君{col:-}じゃないか。{n}どうしたんだ、あわてて。{p}{end}
+EN: Hey, if it isn't {v1}{col:0}-kun{col:-}! What's got you in such a rush?{p}{end}
+
+## MGG04G g0 s0089
+JP: いや、さっきプールで{n}ヘンな人に会ったんですよ。{n}この季節に泳いでるし、{n}なんかちょっと変わってて……。{p}{end}
+EN: Well, I just met a weird guy at the pool. He's swimming at this time of year, and he's kinda strange...{p}{end}
+
+## MGG04G g0 s0090
+JP: ふ～ん、ヘンな人ねぇ……。{n}ヘンな人って……そんな人か?{p}{end}
+EN: Hmm, a weird guy, huh... A weird guy like... that one?{p}{end}
+
+## MGG04G g0 s0091
+JP: そんな人……?{n}え?{sp}後ろ?{n}わっ!!{p}
+EN: Like that one...? Huh? Behind me? Whoa!!{p}
+
+## MGG04G g0 s0092
+JP: ………………?{p}
+EN: ......?{p}
+
+## MGG04G g0 s0093
+JP: ダメじゃないか、流。{n}新入生を驚かしちゃ。{p}
+EN: Come on, Nagare. Don't scare the new kids.{p}
+
+## MGG04G g0 s0094
+JP: …………別に……{n}驚かしてなど……いない……。{p}
+EN: ......I wasn't... trying to scare anyone...{p}
+
+## MGG04G g0 s0095
+JP: （……?{sp}さっきとちょっと{n}{sp}イメージが違うな……。{n}{sp}さっきよりボーッとしてるみたいだ。）{p}{end}
+EN: (...? He seems a little different from before... Spacier than earlier.){p}{end}
+
+## MGG04G g0 s0096
+JP: 修一さん、お知り合いの方ですか?{p}{end}
+EN: Shuichi-san, do you know him?{p}{end}
+
+## MGG04G g0 s0097
+JP: ああ。俺の友達の流だ。{n}五輪高校水泳部のエースだよ。{p}{end}
+EN: Yeah. This is my friend Nagare. He's the ace of the Gorin High swim team.{p}{end}
+
+## MGG04G g0 s0098
+JP: ……じゃ、3年生なんですね。{n}ちょっとさっきとイメージが{n}違うようにみえますけど……。{p}
+EN: ...So he's a third-year. He seems kinda different from earlier, though...{p}
+
+## MGG04G g0 s0099
+JP: ああ、プールで会ったんだったな。{n}コイツは水に入ると性格が変わるのさ。{n}普段はボーッとしてるが、{n}水に入ったとたんにキリッとなる。{p}
+EN: Oh, you met him at the pool. This guy's personality changes in the water. Normally he's off in the clouds, but the second he's in, he's all business.{p}
+
+## MGG04G g0 s0100
+JP: …………そうか……?{p}{end}
+EN: ......Is that so...?{p}{end}
+
+## MGG04G g0 s0101
+JP: …………部室棟に……{n}用があったんじゃないのか……?{p}{end}
+EN: ......Didn't you... have business at the clubhouse...?{p}{end}
+
+## MGG04G g0 s0102
+JP: あ、そうでした。{n}クラブを見に来たんです。{p}
+EN: Oh, right. I came to check out the clubs.{p}
+
+## MGG04G g0 s0103
+JP: クラブを決めるなら、{n}向こうで説明をやってる。{n}そっちにいかないとな。{p}
+EN: If you're picking a club, they're doing the orientation over there. You'd better head that way.{p}
+
+## MGG04G g0 s0104
+JP: ちなみに野球部なら、{n}全校共通で俺が面倒をみることになる。{n}よろしくな。{p}{end}
+EN: By the way, I look after the baseball club for all the schools. Good to have you around.{p}{end}
+
+## MGG04G g0 s0105
+JP: こちらこそ……。{n}まだクラブは決めてないんですが。{n}流さんも、クラブの担当なんですか?{p}
+EN: Likewise... I haven't picked a club yet, though. Do you run a club too, Nagare-san?{p}
+
+## MGG04G g0 s0106
+JP: …………水泳部は……{n}推薦入部だけだからな……{n}一般入部はできない……。{p}{end}
+EN: ......The swim team... only takes recommended students... Anyone else can't join...{p}{end}
+
+## MGG04G g0 s0107
+JP: そうだな。{n}他のクラブは……お、あそこに{n}先生が二人……、{n}沖田先生!{sp}佐渡先生!!{p}{end}
+EN: Right. As for other clubs... Oh, there are two teachers over there... Okita-sensei! Sado-sensei!!{p}{end}
+
+## MGG04G g0 s0108
+JP: よぉ、沢村。{n}新入生の案内か?{n}あいかわらず、面倒見がいいな。{p}
+EN: Hey, Sawamura. Showing a new student around? Looking out for people as always, huh.{p}
+
+## MGG04G g0 s0109
+JP: まぁそんなトコロです。{n}こちら、バレー部顧問の沖田先生。{n}元全日本の代表だぜ?{p}
+EN: Something like that. This is Okita-sensei, the volleyball club adviser. He was on the All-Japan national team!{p}
+
+## MGG04G g0 s0110
+JP: ハハハ、今となっては過去の栄光だがな。{n}バレー部の沖田{sp}光太郎だ。{n}よろしく。{n}いっしょに世界を目指さないか!?{p}{end}
+EN: Hahaha, that's old glory now. I'm Kotaro Okita, volleyball. Nice to meet you. Let's aim for the world together!{p}{end}
+
+## MGG04G g0 s0111
+JP: で、こちらが佐渡先生。{n}元相撲取りで、当時の四股名が{n}『金山』。知ってるかな?{p}
+EN: And this is Sado-sensei. He used to be a sumo wrestler, and his ring name was Kanayama. Ever heard of him?{p}
+
+## MGG04G g0 s0112
+JP: いやいやワシの方こそ、過去の遺物よ。{n}今の若いモンは知らんだろうよ。{n}ワシが、相撲部の監督の佐渡{sp}源五郎。{n}よろしくな。{p}{end}
+EN: Bah, if anyone's a relic, it's me. Young folks today won't know me. I'm Gengoro Sado, the sumo club's coach. Good to meet you.{p}{end}
+
+## MGG04G g0 s0113
+JP: {v0}{sp}{v1}です。{n}こちらこそよろしくお願いします。{p}
+EN: I'm {v1} {v0}. Nice to meet you all.{p}
+
+## MGG04G g0 s0114
+JP: …………そろそろいった方が{n}いいぞ……。{n}クラブに入るんだろ……?{p}
+EN: ......You'd better... get going... You're joining a club, right...?{p}
+
+## MGG04G g0 s0115
+JP: おっと、つい長話をしてしまったな。{n}じゃ、{v1}{col:0}君{col:-}、{n}また後でな。{p}
+EN: Oops, we got to talking. See you later, {v1}{col:0}-kun{col:-}.{p}
+
+## MGG04G g0 s0116
+JP: 遅いわよっ!{n}クラブオリエンテーション、{n}終わっちゃったわよ。{n}もう、何してたのよ。{p}{end}
+EN: You're late! The club orientation's already over. Honestly, what were you doing?{p}{end}
+
+## MGG04G g0 s0117
+JP: あ、委員長。{n}クラブ紹介、終わっちゃったの?{p}{end}
+EN: Oh, Chairperson. The club introductions are over?{p}{end}
+
+## MGG04G g0 s0118
+JP: 私が代わりに説明してあげるわ。{n}えっと、クラブの説明をする前に、{n}各クラブの担当の人を紹介するわね。{p}{end}
+EN: I'll explain in their place. Um, before I explain the clubs, let me introduce the people in charge of them.{p}{end}
+
+## MGG04G g0 s0119
+JP: こちら、演劇部部長の{n}月嶋{sp}小百合先輩。{n}で、こちらが美術部の副部長の{n}山吹{sp}こずえ先輩。{p}
+EN: This is the drama club president, Sayuri Tsukishima-senpai. And this is the art club vice-president, Kozue Yamabuki-senpai.{p}
+
+## MGG04G g0 s0120
+JP: キミ、演劇は好き?{n}ワタシが演劇部部長の、月嶋{sp}小百合。{n}よろしくね。{p}
+EN: Do you like theater? I'm the drama club president, Sayuri Tsukishima. Nice to meet you.{p}
+
+## MGG04G g0 s0121
+JP: 山吹{sp}こずえです。{n}美術部は部員は少ないけど、{n}楽しいわよ。{n}よろしくね。{p}
+EN: I'm Kozue Yamabuki. The art club's small, but it's fun. Nice to meet you.{p}
+
+## MGG04G g0 s0122
+JP: それから、こちらが吹奏楽部の指導担当の{n}九条{sp}静音さんと、サッカー部の{n}マネージャーの七瀬{sp}まりさん。{n}私たちと同じ一年生よ。{p}
+EN: And this is Shizune Kujo-san, who coaches the brass band, and Mari Nanase-san, the soccer club manager. They're first-years like us.{p}
+
+## MGG04G g0 s0123
+JP: ……九条{sp}静音です……。{n}よろしく……ね。{p}
+EN: ...I'm Shizune Kujo... Nice to... meet you.{p}
+
+## MGG04G g0 s0124
+JP: 七瀬{sp}まりです。{n}部員の方からは、まりって呼ばれてます。{n}よろしくね。{p}
+EN: I'm Mari Nanase. The members just call me Mari. Nice to meet you.{p}
+
+## MGG04G g0 s0125
+JP: あとは……先生が3人と{n}野球部の人がいるんだけど……。{p}
+EN: Then there are three teachers and someone from the baseball club...{p}
+
+## MGG04G g0 s0126
+JP: 沖田先生と、佐渡先生には会ったよ。{n}あと、野球部の沢村{sp}修一さんにも。{p}
+EN: I met Okita-sensei and Sado-sensei. And Shuichi Sawamura-san from baseball.{p}
+
+## MGG04G g0 s0127
+JP: あら。それは都合がいいわね。{n}あとは……。{p}
+EN: Oh, that's handy. That leaves...{p}
+
+## MGG04G g0 s0128
+JP: おいおい、僕を忘れちゃこまるなぁ。{p}
+EN: Now, now, don't forget about me.{p}
+
+## MGG04G g0 s0129
+JP: あ……すみません、先生。{n}こちら化学部の加瀬先生……。{p}
+EN: Oh... sorry, sensei. This is Kase-sensei from the chemistry club...{p}
+
+## MGG04G g0 s0130
+JP: 先生なんて呼んじゃいかん。{n}ハカセ、と呼んでくれたまえ。{n}化学部の顧問をしている。{n}よろしくな。{p}{end}
+EN: Don't call me sensei. Call me Hakase. I'm the chemistry club adviser. Glad to know you.{p}{end}
+
+## MGG04G g0 s0131
+JP: じゃ、これで全員かしら。{n}クラブ活動の内容については、{n}今の人たちが説明してくれるわ。{p}
+EN: So, I think that's everyone. They'll tell you what each club does.{p}
+
+## MGG04G g0 s0132
+JP: それじゃ、私は各クラブ毎の{n}上がりやすいパラメータについて{n}説明するわね。{p}
+EN: Meanwhile, I'll explain which stats each club tends to raise.{p}
+
+## MGG04G g0 s0133
+JP: 説明を聞いて気に入ったら、{n}入部するかどうか決めてちょうだい。{p}
+EN: Hear me out, and if you like what you hear, decide whether to join.{p}
+
+## MGG04G g0 s0134
+JP: クラブは、2学期と3学期のアタマに、{n}変更できるから、それをふまえて、{n}決めた方がいいわよ。{p}{end}
+EN: You can switch clubs at the start of the 2nd and 3rd terms, so keep that in mind when you choose.{p}{end}
+
+## MGG04G g0 s0135
+JP: どのクラブの説明を聞きたい?{p}{end}
+EN: Which club do you want to hear about?{p}{end}
+
+## MGG04G g0 s0136
+JP: 野球部{sp}{sp}{sp}{sp}{sp}{sp}{sp}バレー部{n}サッカー部{sp}{sp}{sp}{sp}{sp}相撲部{n}帰宅部{sp}{sp}{sp}{sp}{sp}{sp}{sp}文化系クラブへ{p}{end}
+EN: Baseball            Volleyball{n}Soccer              Sumo{n}Go-Home             Culture Clubs{p}{end}
+
+## MGG04G g0 s0137
+JP: 美術部{sp}{sp}{sp}{sp}{sp}{sp}{sp}吹奏楽部{n}演劇部{sp}{sp}{sp}{sp}{sp}{sp}{sp}化学部{n}帰宅部{sp}{sp}{sp}{sp}{sp}{sp}{sp}体育会系クラブへ{p}
+EN: Art                 Brass Band{n}Drama               Chemistry{n}Go-Home             Sports Clubs{p}
+
+## MGG04G g0 s0138
+JP: 野球部ね。{n}クラブの担当は、沢村{sp}修一先輩。{n}野球部の元エースで、人望も高いわ。{n}今はケガをして、現役を離れているみたい。{p}
+EN: Baseball, huh. It's run by Shuichi Sawamura-senpai, the club's former ace. Everyone looks up to him. He's injured, so he's not playing now.{p}
+
+## MGG04G g0 s0139
+JP: 上がりやすいパラメータは、{n}主に、{col:0}体力{col:-}ね。{n}あとは、{col:0}攻撃力{col:-}と{col:0}根性{col:-}が上がるみたいね。{n}{col:0}知力{col:-}は少し下がるみたいよ。{p}
+EN: It mainly raises {col:0}Stamina{col:-}. {col:0}Attack{col:-} and {col:0}Guts{col:-} go up too. {col:0}Smarts{col:-} drops a little, though.{p}
+
+## MGG04G g0 s0140
+JP: 野球部に入る?{p}
+EN: Join the baseball club?{p}
+
+## MGG04G g0 s0141
+JP: いいえ{n}はい{p}{end}
+EN: No{n}Yes{p}{end}
+
+## MGG04G g0 s0142
+JP: バレー部ね。{n}クラブの担当は沖田{sp}光太郎先生。{n}かなりの熱血漢よ。{n}隼人先生とはちょっと違うけど……。{p}
+EN: Volleyball, huh. It's run by Kotaro Okita-sensei. He's really hot-blooded. Not quite like Hayato-sensei, though...{p}
+
+## MGG04G g0 s0143
+JP: パラメータは、{col:0}攻撃力{col:-}、{col:0}体力{col:-}を中心に、{n}バランスよく上がるみたい。{n}特に目立ってさがるパラメータもないわね。{p}
+EN: Stats rise evenly, mostly {col:0}Attack{col:-} and {col:0}Stamina{col:-}. Nothing really drops.{p}
+
+## MGG04G g0 s0144
+JP: バレー部に入る?{p}{end}
+EN: Join the volleyball club?{p}{end}
+
+## MGG04G g0 s0146
+JP: サッカー部ね。{n}クラブの担当は七瀬{sp}まりさん。{n}同じ1年生のマネージャーね。{n}いろいろ気がつくタイプらしいわよ。{p}{end}
+EN: Soccer, huh. It's run by Mari Nanase-san, the manager. She's a first-year like us. I hear she's very attentive.{p}{end}
+
+## MGG04G g0 s0147
+JP: パラメータは、{col:0}防御力{col:-}を中心に、{n}バランスよく上がるみたい。{n}特に下がるパラメータはないけど、{n}{col:0}潜在能力{col:-}は上がりにくいみたいね。{p}
+EN: Stats rise evenly, mostly {col:0}Defense{col:-}. Nothing drops, but {col:0}Potential{col:-} is slow to rise.{p}
+
+## MGG04G g0 s0148
+JP: サッカー部に入ってみる?{p}{end}
+EN: Want to try the soccer club?{p}{end}
+
+## MGG04G g0 s0150
+JP: 相撲部ね。{n}担当は佐渡{sp}金山先生。{n}先生といっても、教師じゃなくて、{n}外部から来てもらってる監督ね。{p}{end}
+EN: Sumo, huh. It's run by Sado Kanayama-sensei. He's not a teacher, though. He's a coach brought in from outside.{p}{end}
+
+## MGG04G g0 s0151
+JP: パラメータは、{col:0}攻撃力{col:-}が抜群に{n}よくあがるわ。あと、{col:0}防御力{col:-}も。{n}かわりに{col:0}知力{col:-}と{col:0}潜在能力{col:-}が{n}下がるみたいだけど……。{p}{end}
+EN: It raises {col:0}Attack{col:-} like nothing else, and {col:0}Defense{col:-} too. But {col:0}Smarts{col:-} and {col:0}Potential{col:-} drop...{p}{end}
+
+## MGG04G g0 s0152
+JP: 相撲部に入ってみる?{p}{end}
+EN: Want to try the sumo club?{p}{end}
+
+## MGG04G g0 s0154
+JP: 美術部ね。{n}クラブの担当は、山吹{sp}こずえ先輩。{n}一応2年生らしいわ、そうは見えないけど。{n}まじめで責任感のあるいい先輩よ。{p}
+EN: Art, huh. It's run by Kozue Yamabuki-senpai. She's a second-year, though she doesn't look it. She's a serious, responsible senpai.{p}
+
+## MGG04G g0 s0155
+JP: パラメータは、{col:0}潜在能力{col:-}が抜群に{n}上がるわ。あとは{col:0}知力{col:-}ね。{n}これも大きく上がるわ。{n}他の能力は、あまり上がらないけど……。{p}{end}
+EN: It raises {col:0}Potential{col:-} like nothing else. {col:0}Smarts{col:-} goes way up too. The other stats barely rise, though...{p}{end}
+
+## MGG04G g0 s0156
+JP: 美術部に入る?{p}
+EN: Join the art club?{p}
+
+## MGG04G g0 s0158
+JP: 吹奏楽部ね。{n}担当は、九条{sp}静音さん。1年生。{n}おとなしい子ね。怒ったところとか、{n}見たことないし……。{p}{end}
+EN: Brass band, huh. It's run by Shizune Kujo-san, a first-year. She's a quiet girl. I've never seen her angry or anything...{p}{end}
+
+## MGG04G g0 s0159
+JP: 上がりやすいパラメータは{col:0}防御力{col:-}ね。{n}あとは、{col:0}知力{col:-}と{col:0}潜在能力{col:-}も上がるみたい。{n}あと……{col:0}攻撃力{col:-}が大きく下がる以外は、{n}そこそこって感じかしら。{p}
+EN: It mainly raises {col:0}Defense{col:-}. {col:0}Smarts{col:-} and {col:0}Potential{col:-} rise too. Apart from a big drop in {col:0}Attack{col:-}, it's so-so.{p}
+
+## MGG04G g0 s0160
+JP: 吹奏楽部に入る?{p}{end}
+EN: Join the brass band?{p}{end}
+
+## MGG04G g0 s0162
+JP: 演劇部ね。{n}担当は、月嶋{sp}小百合先輩。3年生。{n}あの人は、男役のスターで、{n}周りの学校にはファンクラブもあるそうよ。{p}{end}
+EN: Drama, huh. It's run by Sayuri Tsukishima-senpai, a third-year. She's a star of male roles. Nearby schools even have fan clubs for her.{p}{end}
+
+## MGG04G g0 s0163
+JP: 上がりやすいパラメータは、{col:0}根性{col:-}ね。{n}他に{col:0}潜在能力{col:-}と{col:0}知力{col:-}がいい感じで{n}上がるみたい。{col:0}攻撃力{col:-}と{col:0}防御力{col:-}は、{n}ほとんど上がらないか、下がるけど。{p}{end}
+EN: It mainly raises {col:0}Guts{col:-}. {col:0}Potential{col:-} and {col:0}Smarts{col:-} rise nicely too. {col:0}Attack{col:-} and {col:0}Defense{col:-} barely rise, or drop.{p}{end}
+
+## MGG04G g0 s0164
+JP: 演劇部に入ってみる?{p}{end}
+EN: Want to try the drama club?{p}{end}
+
+## MGG04G g0 s0166
+JP: 化学部ね。{n}担当は加瀬{sp}兵衛先生、さっきのハカセね。{n}ちょっと変わり者だけど、{n}いい先生、らしいわよ?{p}
+EN: Chemistry, huh. It's run by Hyoe Kase-sensei, the Hakase from before. He's a bit of an oddball, but a good teacher, supposedly?{p}
+
+## MGG04G g0 s0167
+JP: 上がりやすいパラメータはズバリ{col:0}知力{col:-}ね。{n}あとは、{col:0}潜在能力{col:-}が上がりやすい以外は、{n}ぼちぼちってトコロかしら。{p}
+EN: It raises {col:0}Smarts{col:-}, plain and simple. Besides {col:0}Potential{col:-} rising easily, the rest is so-so.{p}
+
+## MGG04G g0 s0168
+JP: 化学部に入ってみる?{p}{end}
+EN: Want to try the chemistry club?{p}{end}
+
+## MGG04G g0 s0170
+JP: 帰宅部……ね。{n}担当は別にいないけど、{n}なんだったら、私が面倒みてあげるわよ。{p}
+EN: The go-home club... huh. Nobody's in charge, but if you want, I'll look after you.{p}
+
+## MGG04G g0 s0171
+JP: パラメータは……何が上がるのか、{n}全然わからないわね。{n}運頼みってトコロかしら。{p}{end}
+EN: As for stats... no idea what goes up. It's all down to luck, I guess.{p}{end}
+
+## MGG04G g0 s0172
+JP: 帰宅部に……っていうか、{n}他のクラブに入るの、やめる?{p}
+EN: So, the go-home club... or rather, you're not joining any club?{p}
+
+## MGG04G g0 s0174
+JP: やめるのね。{n}それじゃ、どのクラブの説明を{n}聞くか選んでちょうだい。{p}{end}
+EN: Not this one, then. Okay, pick another club to hear about.{p}{end}
+
+## MGG04G g0 s0175
+JP: それじゃ、決定ね。{n}あとは、各クラブの担当者に{n}詳しい話は聞いてね。{n}じゃね。{p}
+EN: Then it's settled. Ask the person in charge of the club for the details. See ya.{p}
+
+## MGG04G g0 s0176
+JP: そう……、{n}それじゃ引き続き私が、{n}一般的なクラブ活動について説明するわ。{n}教室にいきましょ。{p}
+EN: I see... Then I'll go on and explain club activities in general. Let's go to the classroom.{p}
+
+## MGG04G g0 s0177
+JP: よく来たな、{v1}{col:0}君{col:-}。{n}来てくれるんじゃないかと思ってたんだ。{n}1年間よろしくな。{n}俺の紹介はもういいよな?{p}{end}
+EN: Glad you came, {v1}{col:0}-kun{col:-}. I had a feeling you would. Here's to a good year. No need to introduce myself again, right?{p}{end}
+
+## MGG04G g0 s0178
+JP: それじゃ、クラブ活動について{n}説明しようか。{n}それとも、もう説明はいいかな?{p}{end}
+EN: Now, let me explain club activities. Or can we skip that?{p}{end}
+
+## MGG04G g0 s0179
+JP: 説明を聞く{n}説明は飛ばす{p}{end}
+EN: Hear the explanation{n}Skip the explanation{p}{end}
+
+## MGG04G g0 s0180
+JP: よし、じゃ説明しよう。{n}まずクラブ活動には、{n}2種類あることを{n}覚えていてくれ。{p}{end}
+EN: Okay, here goes. First, remember that there are two kinds of club activities.{p}{end}
+
+## MGG04G g0 s0181
+JP: 一つは、普段のクラブ活動。{n}もう一つが、毎月初めの特別練習だ。{p}
+EN: One is regular club activities. The other is special practice at the start of each month.{p}
+
+## MGG04G g0 s0182
+JP: まず普段のクラブ活動から説明しよう。{n}これは特に、いつ、何をする、{n}というモノではない。{p}{end}
+EN: Let's start with regular club activities. There's no set time or task for these.{p}{end}
+
+## MGG04G g0 s0183
+JP: クラブに所属していれば、{n}そのクラブの特色にあった能力が、{n}量は少ないが全体的に成長する。{p}
+EN: As long as you're in a club, the stats that suit it grow a little across the board.{p}
+
+## MGG04G g0 s0184
+JP: その結果は、{n}毎月初めの特別練習の時に、{n}報告してもらえる。{p}{end}
+EN: The results get reported to you at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0185
+JP: 特別練習の日に報告されるだけだから、{n}サボることも、がんばることも{n}できないが、自分の能力の底上げの{n}役に立つだろう。{p}
+EN: Since they're only reported on special practice day, you can't slack off or try harder. But it'll help build up your base.{p}
+
+## MGG04G g0 s0186
+JP: 次は、特別練習だ。{n}これは、各クラブで毎月初めに{n}必ずおこなっている、{n}特別なトレーニングの総称だ。{p}{end}
+EN: Next is special practice. That's the name for the special training every club holds at the start of each month.{p}{end}
+
+## MGG04G g0 s0187
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこなう。{p}{end}
+EN: Each club focuses on training that suits what it's about.{p}{end}
+
+## MGG04G g0 s0188
+JP: この特別練習は、{n}普段のクラブ活動と比べると、{n}非常に効率がいい。{p}
+EN: Compared to regular club activities, special practice is very efficient.{p}
+
+## MGG04G g0 s0189
+JP: 一つのパラメータを{n}大きく上げようと思ったら、{n}この特別練習を活用することだ。{p}
+EN: If you want to raise one stat a lot, make use of special practice.{p}
+
+## MGG04G g0 s0190
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という風に考えればいいと思う。{p}{end}
+EN: Think of it like this: regular club activities raise your stats overall, and special practice trains them one by one.{p}{end}
+
+## MGG04G g0 s0191
+JP: クラブの練習についてはこんなトコロだ。{p}
+EN: That's about it for club practice.{p}
+
+## MGG04G g0 s0192
+JP: もう一度、説明しようか?{p}{end}
+EN: Want me to explain again?{p}{end}
+
+## MGG04G g0 s0193
+JP: やめておく{n}もう一度聞く{p}{end}
+EN: No thanks{n}Hear it again{p}{end}
+
+## MGG04G g0 s0194
+JP: よし、それじゃこれで説明は終了だ。{n}今日のクラブ説明は{n}これで終わりだな。{p}
+EN: Okay, that's the end of the explanation. That wraps up today's club orientation.{p}
+
+## MGG04G g0 s0195
+JP: そうか。{n}それじゃ、今日はもう特に用はないな。{p}
+EN: I see. Then there's nothing else for today.{p}
+
+## MGG04G g0 s0196
+JP: 次に会うのは、5月の特別練習だな。{n}それまでも、普段のクラブ活動が{n}あるってことは覚えておいてくれ。{p}{end}
+EN: I'll see you next at May's special practice. Just remember there are regular club activities until then.{p}{end}
+
+## MGG04G g0 s0197
+JP: それじゃ、また来月に会おう。{n}1年間がんばれよ。{p}{end}
+EN: Well, see you next month. Give it your all this year.{p}{end}
+
+## MGG04G g0 s0198
+JP: バレー部入部希望者だな?{n}僕がバレー部顧問の、沖田{sp}光太郎だ!{n}これから1年、ビシビシいくぞ!{p}
+EN: Here to join volleyball? I'm the adviser, Kotaro Okita! I'm gonna work you hard this year!{p}
+
+## MGG04G g0 s0199
+JP: よし、それじゃ{n}クラブ活動について、説明する。{n}説明をきくだろ?{p}{end}
+EN: Right, then let me explain club activities. You'll listen, right?{p}{end}
+
+## MGG04G g0 s0200
+JP: 説明を聞く{n}説明を飛ばす{p}{end}
+EN: Hear the explanation{n}Skip the explanation{p}{end}
+
+## MGG04G g0 s0201
+JP: よし、じゃ説明しよう。{n}まずクラブ活動には{n}2種類あることを{n}覚えていてくれ。{p}
+EN: Okay, here goes. First, remember that there are two kinds of club activities.{p}
+
+## MGG04G g0 s0205
+JP: で、その結果は、{n}毎月初めの特別練習の時に、{n}報告してやる。{n}これが普段のクラブ活動だな。{p}
+EN: And I'll report the results to you at special practice at the start of each month. That's regular club activities.{p}
+
+## MGG04G g0 s0207
+JP: 次は、特別練習だ。{n}これは、各クラブで毎月初めに{n}必ずおこなっている、{n}特別な練習の総称だ。{p}{end}
+EN: Next is special practice. That's the name for the special training every club holds at the start of each month.{p}{end}
+
+## MGG04G g0 s0211
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という風に考えればいいだろう。{p}{end}
+EN: Think of it like this: regular club activities raise your stats overall, and special practice trains them one by one.{p}{end}
+
+## MGG04G g0 s0212
+JP: クラブの練習については{n}こんなトコロだな。{p}
+EN: That's about it for club practice.{p}
+
+## MGG04G g0 s0213
+JP: もう一度、説明してやろうか?{p}{end}
+EN: Want me to go over it again?{p}{end}
+
+## MGG04G g0 s0216
+JP: そうか。{n}それじゃ、今日はもう特に用はない。{p}{end}
+EN: I see. Then there's nothing else for today.{p}{end}
+
+## MGG04G g0 s0217
+JP: 次に会うのは、5月の特別練習だ。{n}それまでも、普段のクラブ活動が{n}あるってことは覚えておいてくれ。{p}
+EN: I'll see you next at May's special practice. Just remember there are regular club activities until then.{p}
+
+## MGG04G g0 s0218
+JP: それじゃ、また来月に会おう。{n}お前には期待しているぞ。{n}いっしょに世界を目指そう。{p}
+EN: Well, see you next month. I'm expecting big things from you. Let's aim for the world together!{p}
+
+## MGG04G g0 s0219
+JP: あ、{v0}{col:0}君{col:-}ですね。{n}待ってました。{n}サッカー部へようこそ。{n}よろしくお願いしますね。{p}
+EN: Oh, it's {v0}{col:0}-kun{col:-}. I've been waiting. Welcome to the soccer club! I look forward to working with you.{p}
+
+## MGG04G g0 s0220
+JP: それじゃ、クラブ活動について{n}説明します。{n}よろしいですか?{p}{end}
+EN: Now, I'll explain club activities. Is that all right?{p}{end}
+
+## MGG04G g0 s0222
+JP: じゃ、説明しますね。{n}まずクラブ活動には、{n}2種類あります。{n}これ、覚えておいてくださいね。{p}{end}
+EN: Then I'll explain. First, there are two kinds of club activities. Please remember that.{p}{end}
+
+## MGG04G g0 s0223
+JP: 一つは、普段のクラブ活動、{n}もう一つが、毎月初めの特別練習です。{p}{end}
+EN: One is regular club activities, and the other is special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0224
+JP: まず普段のクラブ活動から説明します。{n}これは、いつ、何をする、{n}というモノではなくて……、{p}
+EN: First, regular club activities. There isn't a set time or task for these...{p}
+
+## MGG04G g0 s0225
+JP: クラブに所属しているだけで、{n}そのクラブの特色にあった能力が、{n}成長していくみたいです。{n}量は少ないですけど。{p}
+EN: Just being in a club makes the stats that suit it grow, it seems. Only a little, though.{p}
+
+## MGG04G g0 s0226
+JP: その結果は、毎月初めの特別練習の時に、{n}私の方から報告させてもらいます。{p}{end}
+EN: I'll report the results to you at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0227
+JP: 特別練習の日に報告されるだけですから、{n}休むことも、がんばることも{n}できませんが、自分の能力の底上げには{n}役立つそうです。{p}
+EN: Since they're only reported on special practice day, you can't skip or try harder. But I hear it helps build up your base.{p}
+
+## MGG04G g0 s0228
+JP: 次は、特別練習です。{n}これは、各クラブで毎月初めに{n}必ずおこなわれる、集中練習日の{n}トレーニングのコトらしいです。{p}
+EN: Next is special practice. Apparently it's the training every club does on a focus day at the start of each month.{p}
+
+## MGG04G g0 s0229
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこないます。{p}{end}
+EN: Each club focuses on training that suits what it's about.{p}{end}
+
+## MGG04G g0 s0230
+JP: この特別練習は、{n}普段のクラブ活動と比べると、{n}成長の度合いが大きいみたいですね。{p}
+EN: Compared to regular club activities, special practice seems to make you grow a lot more.{p}
+
+## MGG04G g0 s0231
+JP: 一つのパラメータを{n}大きく上げるんだったら、{n}この特別練習を活用すると{n}いいみたいです。{p}{end}
+EN: If you want to raise one stat a lot, it seems best to make use of special practice.{p}{end}
+
+## MGG04G g0 s0232
+JP: 普段のクラブ活動で、全体的に能力を上げて{n}特別練習で、個別に鍛える、{n}という風に考えれば{n}いいんじゃないでしょうか。{p}{end}
+EN: Maybe think of it like this: regular club activities raise your stats overall, and special practice trains them one by one.{p}{end}
+
+## MGG04G g0 s0233
+JP: クラブの練習については{n}こんな感じですね。{p}
+EN: That's about it for club practice.{p}
+
+## MGG04G g0 s0234
+JP: もう一度、説明しましょうか?{p}{end}
+EN: Shall I explain again?{p}{end}
+
+## MGG04G g0 s0236
+JP: それじゃこれで説明は終了です。{n}今日のクラブ説明は{n}これで終わりですね。{p}{end}
+EN: That's the end of the explanation, then. That wraps up today's club orientation.{p}{end}
+
+## MGG04G g0 s0237
+JP: そうですか。{n}それじゃ、今日は{n}もう特に用はないですね。{p}{end}
+EN: I see. Then there's nothing else for today.{p}{end}
+
+## MGG04G g0 s0238
+JP: 次に会うのは、5月の特別練習になります。{n}それまでも普段のクラブ活動が{n}ありますけど……一応、{n}がんばってくださいといっておきます。{p}{end}
+EN: Next time we meet will be May's special practice. There are regular club activities until then too... so please do your best.{p}{end}
+
+## MGG04G g0 s0239
+JP: それじゃ、また来月にお会いしましょう。{n}1年間がんばりましょうね。{p}
+EN: See you next month, then. Let's do our best this year.{p}
+
+## MGG04G g0 s0240
+JP: よく来たな、ひよっこ。{n}相撲部を選ぶとは、お前もやるな。{n}よしよし、このわしが1年間、{n}みっちり鍛えてやるぞ。{p}
+EN: Welcome, greenhorn. Picked sumo, eh? You've got guts. Good, good. I'll drill you hard all year.{p}
+
+## MGG04G g0 s0241
+JP: それじゃまず、クラブ活動について{n}説明してやろう。{n}どうだ?{p}{end}
+EN: Now then, first let me explain club activities. How 'bout it?{p}{end}
+
+## MGG04G g0 s0243
+JP: よしよし、それじゃ説明してやろう。{n}まずクラブ活動には、{n}2種類あるって話だ。{p}
+EN: Good, good. Then let me explain. First off, there are two kinds of club activities.{p}
+
+## MGG04G g0 s0244
+JP: まずは、普段のクラブ活動。{n}次に、毎月初めの特別練習だ。{p}{end}
+EN: First, regular club activities. Second, special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0245
+JP: まず普段のクラブ活動から説明してやろう。{n}まぁこれは、何をするってわけでも{n}ないんだが。{p}{end}
+EN: We'll start with regular club activities. Not that you really do anything in particular.{p}{end}
+
+## MGG04G g0 s0246
+JP: なにしろ、クラブをやってりゃ、{n}そのクラブなりの力がつく。{n}量は少ないが、特別なことをしなくても、{n}勝手に上がってくれるってわけだ。{p}{end}
+EN: See, just being in a club builds the strength that club's about. It's not much, but it goes up on its own.{p}{end}
+
+## MGG04G g0 s0247
+JP: で、その普段の成果を、{n}毎月初めの特別練習の時に、{n}報告することになる。{p}{end}
+EN: And those everyday results get reported at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0248
+JP: ま、特別練習の日に報告されるだけだから{n}がんばることもサボることも{n}できないが、自分の能力の底上げ、{n}ぐらいの気持ちでいいだろう。{p}
+EN: Since they're only reported on special practice day, you can't work harder or slack off. Think of it as building your base.{p}
+
+## MGG04G g0 s0249
+JP: 次は、特別練習の説明だな。{n}これは、各クラブで毎月初めに{n}必ずおこなっている、{n}特別な練習の総称だ。{p}{end}
+EN: Next, special practice. That's the name for the special training every club holds at the start of each month.{p}{end}
+
+## MGG04G g0 s0250
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}ガーッとおこなう。{p}{end}
+EN: Each club picks training that suits it and goes at it full blast.{p}{end}
+
+## MGG04G g0 s0251
+JP: で、この特別練習は、{n}普段のクラブ活動と比べると、{n}非常に効率がいいわけだ。{p}{end}
+EN: And compared to regular club activities, special practice is very efficient.{p}{end}
+
+## MGG04G g0 s0252
+JP: 一つのパラメータを{n}大きく上げるんだったら、{n}この特別練習を活用することだな。{p}
+EN: If you want to raise one stat a lot, make use of special practice.{p}
+
+## MGG04G g0 s0253
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という風に考えればいい。{p}
+EN: Think of it like this: regular club activities raise your stats overall, and special practice trains them one by one.{p}
+
+## MGG04G g0 s0254
+JP: クラブの練習については{n}まぁこんなトコロだ。{p}{end}
+EN: Well, that's about it for club practice.{p}{end}
+
+## MGG04G g0 s0258
+JP: そうか。{n}よしよし、それじゃ{n}今日はもう特に用はないな。{p}{end}
+EN: I see. Good, good. Then there's nothing else for today.{p}{end}
+
+## MGG04G g0 s0259
+JP: 次に会うのは、5月の特別練習だな。{n}それまでも、普段のクラブ活動が{n}あるからな、気持ちだけでもがんばれよ。{p}
+EN: Next time we meet is May's special practice. You've got regular club activities till then, so at least keep your spirit up.{p}
+
+## MGG04G g0 s0260
+JP: それじゃ、また来月に会おう。{n}がんばれよ、お前なら{n}けっこういいトコまでいくぜ。{p}{end}
+EN: Well, see you next month. Hang in there. You could go pretty far.{p}{end}
+
+## MGG04G g0 s0261
+JP: はーい、よく来たわね。{n}ええと、{v0}{col:0}クン{col:-}だっけ?{n}私は副部長の、山吹{sp}こずえ。{n}入部は大歓迎よ、よろしくね。{p}
+EN: Hi there, welcome! Um, {v0}{col:0}-kun{col:-}, right? I'm the vice-president, Kozue Yamabuki. New members are always welcome!{p}
+
+## MGG04G g0 s0262
+JP: じゃ、さっそくクラブ活動について{n}説明しましょうか。{n}それとも、もう説明はいい?{p}{end}
+EN: So, let me explain club activities right away. Or have you heard enough?{p}{end}
+
+## MGG04G g0 s0264
+JP: OK、じゃ説明するわよ。{n}まずクラブ活動には、{n}2種類あるって話からね。{p}{end}
+EN: OK, here goes. First off, there are two kinds of club activities.{p}{end}
+
+## MGG04G g0 s0265
+JP: 一つは、普段のクラブ活動。{n}もう一つが、毎月初めの特別練習ね。{p}
+EN: One is regular club activities. The other is special practice at the start of each month.{p}
+
+## MGG04G g0 s0266
+JP: まず普段のクラブ活動から説明すると、{n}まぁ特に何をするってわけじゃ{n}ないんだけど、文字通り普段の練習ね。{p}{end}
+EN: Regular club activities first. You don't do anything in particular. It's just everyday practice, like it sounds.{p}{end}
+
+## MGG04G g0 s0267
+JP: 要は、クラブに所属していれば、{n}そのクラブなりの能力が{n}成長するってことね。{n}量はそれほど多くないけど。{p}{end}
+EN: Basically, if you're in a club, the stats that suit it grow. Not by a lot, though.{p}{end}
+
+## MGG04G g0 s0268
+JP: で、その結果は、{n}毎月初めの特別練習の時に、{n}報告されるってわけ。{p}
+EN: And the results get reported at special practice at the start of each month.{p}
+
+## MGG04G g0 s0269
+JP: 特別練習の日に報告されるだけだから、{n}特にがんばることも、サボることも{n}できないけど、自分の能力の底上げの{n}役には立つわ。{p}
+EN: Since they're only reported on special practice day, you can't really try harder or slack off. But it helps build your base.{p}
+
+## MGG04G g0 s0270
+JP: 次は、特別練習ね。{n}これは、各クラブで毎月初めに{n}必ずおこなわれる、集中練習日にやる{n}特別な練習のコト。{p}{end}
+EN: Next, special practice. That's the special training every club does on a focus day at the start of each month.{p}{end}
+
+## MGG04G g0 s0271
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこなうのよ。{p}{end}
+EN: Each club focuses on training that suits what it's about.{p}{end}
+
+## MGG04G g0 s0272
+JP: この特別練習は、{n}普段のクラブ活動と比べると、{n}非常に効率がいいの。{p}{end}
+EN: Compared to regular club activities, special practice is very efficient.{p}{end}
+
+## MGG04G g0 s0273
+JP: 一つのパラメータを{n}大きく上げようと思ったら、{n}この特別練習を活用することね。{p}
+EN: If you want to raise one stat a lot, make use of special practice.{p}
+
+## MGG04G g0 s0274
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という風に考えればいいんじゃないかな。{p}{end}
+EN: I guess think of it like this: regular club activities raise your stats overall, and special practice trains them one by one.{p}{end}
+
+## MGG04G g0 s0275
+JP: クラブの練習についてはこんなトコロね。{p}
+EN: That's about it for club practice.{p}
+
+## MGG04G g0 s0278
+JP: OK、それじゃこれで説明は終了ね。{n}今日のクラブ説明は{n}これでおしまいと。{n}こういう説明って疲れるのよね。{p}
+EN: OK, that's it for the explanation. That wraps up today's club orientation. Explaining stuff wears me out.{p}
+
+## MGG04G g0 s0279
+JP: ふ～ん、OK。{n}じゃ、今日は特に話すことはないわね。{p}{end}
+EN: Hmm, OK. Then there's nothing to talk about today.{p}{end}
+
+## MGG04G g0 s0280
+JP: 次に会うのは、5月の特別練習かな。{n}それまでも、普段のクラブ活動があるから{n}一応気持ちだけでもがんばってね。{p}{end}
+EN: Next time we meet is May's special practice, I guess. You've got regular club activities till then, so at least try a little.{p}{end}
+
+## MGG04G g0 s0281
+JP: それじゃ、また来月に。{n}1年間よろしくね。{p}
+EN: See you next month, then. Here's to a good year.{p}
+
+## MGG04G g0 s0282
+JP: ……あ……どうも、入部希望の方ですか?{n}わたくしが、九条{sp}静音です。{n}わたくしが新人の方の指導をしますね……。{n}よろしくお願いします。{p}
+EN: ...Oh... hello. Are you here to join? I'm Shizune Kujo. I'll be teaching the new members... Nice to meet you.{p}
+
+## MGG04G g0 s0283
+JP: ……じゃ、クラブ活動について{n}説明しますね。{n}あ……説明、もういいですか?{p}
+EN: ...Then, I'll explain club activities. Oh... or have you heard it already?{p}
+
+## MGG04G g0 s0285
+JP: そうですか。それじゃ説明します。{n}……まず覚えて欲しいのは、{n}クラブ活動には2種類あるという事です。{p}{end}
+EN: I see. Then I'll explain. ...First, please remember that there are two kinds of club activities.{p}{end}
+
+## MGG04G g0 s0286
+JP: 一つは、普段のクラブ活動。{n}もう一つが、毎月初めの特別練習です。{p}{end}
+EN: One is regular club activities. The other is special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0287
+JP: 普段のクラブ活動から説明します。{n}これは、特別何かするとか{n}何かが必要というものではなくて、{n}文字通り、日頃のクラブ活動の事ですね。{p}{end}
+EN: I'll start with regular club activities. They don't involve anything special. They're simply your everyday club activities.{p}{end}
+
+## MGG04G g0 s0288
+JP: クラブに所属していれば、{n}そのクラブの特色にあった能力が、{n}量は少ないものの、全体的に上昇します。{p}
+EN: As long as you're in a club, the stats that suit it rise across the board, though only a little.{p}
+
+## MGG04G g0 s0289
+JP: ……その成果ですが、{n}毎月初めの特別練習の時に、{n}わたくしの方から{n}報告させていただきます。{p}{end}
+EN: ...As for the results, I will report them to you at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0290
+JP: 特別練習の日に報告されるだけですから、{n}がんばったり、休んだりすることも{n}できませんが、自分の能力の底上げの{n}役には立つと思います。{p}{end}
+EN: Since they're only reported on special practice day, you can't try harder or skip. But I believe it helps build your base.{p}{end}
+
+## MGG04G g0 s0291
+JP: 次は、特別練習です。{n}これは、各クラブで毎月初めに{n}必ずおこなわれる、集中練習日のコトです。{p}{end}
+EN: Next is special practice. That is the focus day every club holds at the start of each month.{p}{end}
+
+## MGG04G g0 s0292
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこなっているようです。{p}
+EN: Each club seems to focus on training that suits what it's about.{p}
+
+## MGG04G g0 s0293
+JP: この特別練習は、{n}普段のクラブ活動と比べると、{n}非常に効率がいいみたいで、{n}能力が高く上がるようですね。{p}{end}
+EN: Compared to regular club activities, special practice seems very efficient. Your stats rise a lot more.{p}{end}
+
+## MGG04G g0 s0294
+JP: 一つのパラメータを{n}大きく上げるのでしたら、{n}この特別練習を活用した方がいいですね。{p}{end}
+EN: If you want to raise one stat a lot, it's best to make use of special practice.{p}{end}
+
+## MGG04G g0 s0295
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛えていく、{n}という風に考えればいいと思います。{p}{end}
+EN: So regular club activities raise your abilities overall, and special practice trains them one at a time. ...I think of it that way.{p}{end}
+
+## MGG04G g0 s0297
+JP: わかりにくかったですか?{n}もう一度、説明しましょうか?{p}
+EN: Was that hard to follow? ...Shall I explain it again?{p}
+
+## MGG04G g0 s0299
+JP: そうですか。それでは説明は終了です。{n}……今日のクラブ説明は{n}これで終わりですね。{p}
+EN: I see. Then that's the end of my explanation. ...That's all for today's club orientation.{p}
+
+## MGG04G g0 s0300
+JP: あ……そうですか。{n}それでは、今日は特に{n}お話しすることはありませんね。{p}{end}
+EN: Oh... I see. Then there's nothing in particular for me to tell you today.{p}{end}
+
+## MGG04G g0 s0301
+JP: 次は、5月の特別練習になりますね。{n}それまでも、普段のクラブ活動があります。{n}普段のクラブ活動ですから、{n}特に何もできませんけど。{p}
+EN: Next is May's special practice. Until then, there are regular club activities... though since they're just regular, there's not much you can do.{p}
+
+## MGG04G g0 s0302
+JP: それでは、また来月にお会いしましょう。{n}1年間よろしくお願いしますね。{p}
+EN: Well then... I'll see you next month. I look forward to working with you this year.{p}
+
+## MGG04G g0 s0303
+JP: ようこそ、演劇部へ!{n}あなたが{v0}{col:0}クン{col:-}ね。{n}ワタシが部長の月嶋{sp}小百合です。{n}よろしくね。{p}{end}
+EN: Welcome to the drama club! You must be {v0}{col:0}-kun{col:-}. I'm the president, Sayuri Tsukishima. Nice to meet you.{p}{end}
+
+## MGG04G g0 s0304
+JP: それじゃ、さっそくクラブ活動について{n}説明しますね。{n}それとも、もう説明はいい?{p}{end}
+EN: Now then, let me explain club activities. Or would you rather skip the explanation?{p}{end}
+
+## MGG04G g0 s0306
+JP: よし、じゃ説明します。{n}まずクラブ活動には、{n}2種類あるっていう話からね。{p}
+EN: All right, I'll explain. First of all, there are two kinds of club activities.{p}
+
+## MGG04G g0 s0308
+JP: まず普段のクラブ活動から{n}説明しましょう。{n}これは普段の活動だから、{n}特別なものではなく、すべきこともないわ。{p}
+EN: Let's start with regular club activities. These are just your everyday activities, so there's nothing special to them and nothing you have to do.{p}
+
+## MGG04G g0 s0309
+JP: ただ、クラブに所属してさえいれば、{n}そのクラブの特色にあった能力が、{n}量は少ないが全体的に身に付いていく{n}ことになります。{p}
+EN: But as long as you're in a club, you'll slowly gain abilities across the board, mostly the ones that suit that club.{p}
+
+## MGG04G g0 s0310
+JP: その成果は、{n}毎月初めの特別練習の時に、{n}報告されることになります。{p}{end}
+EN: Your progress gets reported at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0311
+JP: 特別練習の日に報告されるだけだから、{n}休むことも、がんばることも{n}できないけど、自分の能力の底上げの{n}役に立つと思うわ。{p}{end}
+EN: It's only reported on special practice day, so you can't slack off or push harder, but it does help raise your overall level.{p}{end}
+
+## MGG04G g0 s0312
+JP: 次は、特別練習ですね。{n}これは、各クラブで毎月初めに{n}必ずおこなわれる、{n}特別な練習のコトです。{p}{end}
+EN: Next is special practice. It's a special session every club holds at the start of each month.{p}{end}
+
+## MGG04G g0 s0314
+JP: この特別練習は、{n}普段のクラブ活動と比べると、{n}非常に効率がよくって、{n}能力も上がりやすいらしいわ。{p}{end}
+EN: Compared to regular club activities, special practice is far more efficient, and your abilities rise more easily, I hear.{p}{end}
+
+## MGG04G g0 s0316
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という感じでいいと思うわ。{p}{end}
+EN: Regular club activities raise your abilities overall, and special practice trains them one at a time. Think of it like that.{p}{end}
+
+## MGG04G g0 s0317
+JP: クラブの練習については{n}こんなトコロですね。{p}{end}
+EN: That's about it for club practice.{p}{end}
+
+## MGG04G g0 s0320
+JP: はい、それじゃこれで説明は終了です。{n}今日のクラブ説明は{n}これで終わりね。{p}
+EN: All right, that's the end of my explanation. That's all for today's club orientation.{p}
+
+## MGG04G g0 s0321
+JP: そう。わかったわ。{n}それじゃ、今日はもう特に{n}話はないですね。{p}
+EN: I see. All right. Then I have nothing else to tell you today.{p}
+
+## MGG04G g0 s0322
+JP: 次に会うのは、5月の特別練習。{n}それまでも、普段のクラブ活動が{n}あるってことは覚えておいてね。{p}
+EN: Next time we meet is May's special practice. Remember, you still have regular club activities until then.{p}
+
+## MGG04G g0 s0323
+JP: それじゃ、また来月にお会いしましょう。{n}キミには期待してるわよ。{p}{end}
+EN: Well then, I'll see you next month. I have high hopes for you.{p}{end}
+
+## MGG04G g0 s0324
+JP: よしよし、来たな。{n}君が今年の化学部新人の第一号だ。{n}僕のことは、ハカセと呼んでくれたまえ。{p}{end}
+EN: Good, good, you came. You're the chemistry club's very first recruit this year. Do call me Hakase.{p}{end}
+
+## MGG04G g0 s0325
+JP: それじゃさっそくだが、{n}クラブ活動について、説明しよう。{n}説明は必要かな?{p}
+EN: Now then, let me explain club activities. Will you be needing the explanation?{p}
+
+## MGG04G g0 s0327
+JP: ふむふむ、それじゃ説明しよう。{n}まずクラブ活動には{n}2種類あるってことを{n}覚えていてくれ。{p}
+EN: Mm-hm, then let me explain. First, remember that there are two kinds of club activities.{p}
+
+## MGG04G g0 s0328
+JP: 一つは、普段のクラブ活動。{n}もう一つが、毎月初めの特別練習だね。{p}{end}
+EN: One is regular club activities. The other is special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0329
+JP: まず普段のクラブ活動の説明からだ。{n}コイツは普段の活動だからな、{n}特に、いつ、何をするってわけじゃない。{p}{end}
+EN: Let's start with regular club activities. These are everyday activities, so there's no set time or task.{p}{end}
+
+## MGG04G g0 s0330
+JP: クラブに所属していれば、{n}そのクラブの特色にあった能力が、{n}勝手に全体的に成長するってことさ。{n}量は少ないがな。{p}{end}
+EN: As long as you're in a club, the abilities that suit it grow across the board all by themselves. Only a little, mind you.{p}{end}
+
+## MGG04G g0 s0332
+JP: 特別練習の日に報告されるだけだから、{n}サボることも、がんばることも{n}できんが、自分の能力の底上げには{n}役立つだろう。{p}{end}
+EN: It's only reported on special practice day, so you can't slack off or work harder, but it should help raise your overall level.{p}{end}
+
+## MGG04G g0 s0333
+JP: よしよし、次は特別練習だ。{n}これは、各クラブで毎月初めに{n}必ずおこなっている、{n}特別な練習の総称だな。{p}
+EN: Good, good, next is special practice. That's the umbrella term for the special training every club holds at the start of each month.{p}
+
+## MGG04G g0 s0334
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこなう。{n}化学部だって例外じゃないぞ。{p}
+EN: Each club focuses on training that suits it. The chemistry club is no exception.{p}
+
+## MGG04G g0 s0335
+JP: この特別練習ってのは、{n}普段のクラブ活動と比べると、{n}非常に効率がいい。{p}{end}
+EN: This special practice is far more efficient than regular club activities.{p}{end}
+
+## MGG04G g0 s0336
+JP: 一つのパラメータを{n}大きく上げようと思ったら、{n}この特別練習を活用することだね。{p}{end}
+EN: If you want to raise one stat a lot, make good use of special practice.{p}{end}
+
+## MGG04G g0 s0337
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}とか……ま、そんな感じだね。{p}
+EN: Regular club activities raise your abilities overall, special practice trains them one at a time... Well, something like that.{p}
+
+## MGG04G g0 s0338
+JP: クラブの練習については{n}こんなトコロかな。{p}
+EN: That's about it for club practice, I suppose.{p}
+
+## MGG04G g0 s0339
+JP: どうだ、もう一度{n}説明してやろうか?{p}{end}
+EN: Well? Shall I explain it once more?{p}{end}
+
+## MGG04G g0 s0341
+JP: よしよし、それじゃこれで説明は終了だ。{n}今日のクラブ説明は{n}これで終わり、と。{p}
+EN: Good, good, that concludes the explanation. And that's it for today's club orientation.{p}
+
+## MGG04G g0 s0342
+JP: そうかそうか。{n}それじゃ、今日はもう特に用はないな。{p}{end}
+EN: I see, I see. Then I have no further business with you today.{p}{end}
+
+## MGG04G g0 s0343
+JP: 次は、5月の特別練習だな。{n}それまでも、普段のクラブ活動が{n}あるってことは、一応覚えておけよ。{p}
+EN: Next is May's special practice. You still have regular club activities until then, so do keep that in mind.{p}
+
+## MGG04G g0 s0344
+JP: それじゃ、また来月に会おう。{n}身体には気をつけろよ。{p}{end}
+EN: Well then, see you next month. Take care of yourself.{p}{end}
+
+## MGG04G g0 s0345
+JP: せっかくの学生生活なのに、{n}クラブに参加しないなんて、{n}もったいないね。{n}何かに入った方がいいと思うけど……。{p}
+EN: You've got all of student life ahead of you and you won't join a club? What a waste. I really think you should join something...{p}
+
+## MGG04G g0 s0346
+JP: さてと、それじゃ帰宅部の説明なんて{n}ないから、一般的なクラブ活動に{n}ついて、説明するわ。{n}別に聞きたくなければいいけど?{p}{end}
+EN: Well, there's nothing to explain about the Go-Home Club, so I'll go over club activities in general. You don't have to listen, though.{p}{end}
+
+## MGG04G g0 s0348
+JP: OK、それじゃ説明してあげるわ。{n}まずクラブ活動は、{n}2種類あるっていう話からね。{p}
+EN: OK, I'll explain. First, there are two kinds of club activities.{p}
+
+## MGG04G g0 s0350
+JP: まず普段のクラブ活動の説明から。{n}これは文字通り普段の活動だから、{n}特に何かするってわけじゃないの。{p}{end}
+EN: Let's start with regular club activities. Like the name says, they're just everyday activities, so you don't do anything in particular.{p}{end}
+
+## MGG04G g0 s0351
+JP: クラブに所属してさえいれば、{n}そのクラブの特色にあった能力が、{n}量は少ないけど全体的に{n}身に付いていくってことね。{p}
+EN: As long as you're in a club, you slowly gain abilities across the board, mostly the ones that suit that club.{p}
+
+## MGG04G g0 s0352
+JP: その成果は、{n}毎月初めの特別練習の時に、{n}報告してあげるわ。{p}{end}
+EN: I'll report your progress at special practice at the start of each month.{p}{end}
+
+## MGG04G g0 s0353
+JP: どちらにしても、特別練習の日に{n}報告されるだけだから、どうしようも{n}ないけど、普通なら、自分の能力の{n}底上げの役に立つらしいわね。{p}
+EN: Either way, it's only reported on special practice day, so there's nothing you can do about it. Normally it helps raise your overall level, apparently.{p}
+
+## MGG04G g0 s0354
+JP: 次は、特別練習ね。{n}これは、各クラブで毎月初めに{n}必ずおこなわれる、{n}特別な練習の総称ね。{p}
+EN: Next, special practice. That's the umbrella term for the special training every club holds at the start of each month.{p}
+
+## MGG04G g0 s0355
+JP: 各クラブで、それぞれの特色に{n}見合ったトレーニングを集中して{n}おこなってるらしいわ。{p}{end}
+EN: Each club focuses on training that suits it, apparently.{p}{end}
+
+## MGG04G g0 s0356
+JP: 普通のクラブだと、この特別練習は、{n}普段のクラブ活動と比べて、{n}非常に効率がよくって、{n}能力も上がりやすいらしいわ。{p}{end}
+EN: In a normal club, special practice is far more efficient than regular club activities, and your abilities rise more easily, apparently.{p}{end}
+
+## MGG04G g0 s0357
+JP: 一つのパラメータを{n}大きく上げようと思ったら、{n}この特別練習を活用すると{n}いいらしいわ。{p}{end}
+EN: If you want to raise one stat a lot, special practice is supposed to be the way to go.{p}{end}
+
+## MGG04G g0 s0358
+JP: 普段のクラブ活動で、{n}全体的に能力を上げていき、{n}特別練習で、個別に鍛える、{n}という感じになってるわけね。{p}
+EN: Regular club activities raise your abilities overall, and special practice trains them one at a time. That's how it works.{p}
+
+## MGG04G g0 s0359
+JP: 一般的なクラブの練習については{n}こんなトコロね。{p}{end}
+EN: That's about it for club practice in general.{p}{end}
+
+## MGG04G g0 s0360
+JP: もう一度、説明して欲しい?{p}
+EN: Want me to explain it again?{p}
+
+## MGG04G g0 s0362
+JP: うん、それじゃこれで説明は終了ね。{n}クラブ説明はこれで終わり、と。{p}
+EN: Okay, that's the end of the explanation. That's it for the club orientation.{p}
+
+## MGG04G g0 s0363
+JP: あ、そう。わかったわ。{n}それじゃ、今日はもう特に{n}話はないわね。{p}{end}
+EN: Oh, fine. Got it. Then I've got nothing else to tell you today.{p}{end}
+
+## MGG04G g0 s0364
+JP: 一応、帰宅部でも特別練習の日には{n}何かするから、またその時に会いましょう。{p}
+EN: Even the Go-Home Club does something on special practice days, so I'll see you then.{p}
+
+## MGG04G g0 s0365
+JP: それじゃ、また来月ね。{n}あんまり遊び過ぎないでね。{p}
+EN: See you next month, then. Don't goof off too much.{p}
+
+## MGG04G g0 s0366
+JP: 遠足の行き先は遊園地だ。{n}それにしても、遊園地なんて久しぶりだな、{n}思いっきり楽しむぞ!{p}{end}
+EN: Our field trip's to an amusement park. I haven't been to one in ages. I'm gonna have a blast!{p}{end}
+
+## MGG04G g0 s0367
+JP: まったく、たかが遊園地で{n}そんなに喜んじまってよ。{n}テメエはガキンチョかってぇの。{p}
+EN: Geez, getting all worked up over a lousy amusement park. What are you, a little kid?{p}
+
+## MGG04G g0 s0368
+JP: い、いいじゃないか、別に。{n}エッジは全然楽しみじゃないのか?{p}{end}
+EN: S-so what? Edge, aren't you looking forward to it at all?{p}{end}
+
+## MGG04G g0 s0369
+JP: アァ?{n}カワイイ女の子と遊びに行くってんなら{n}ともかくよ、いつものメンツじゃねーか。{n}ハシャグほどの事じゃねーな。{p}
+EN: Huh? If I was goin' out with cute girls, sure. But it's the same old crew. Nothin' to get excited about.{p}
+
+## MGG04G g0 s0370
+JP: ……悪かったな。{n}「カワイイ女の子」じゃなくて。{p}{end}
+EN: ...Sorry I'm not a "cute girl."{p}{end}
+
+## MGG04G g0 s0372
+JP: もうすぐ出発だ、{n}置いて行かれないようにしろよ。{p}{end}
+EN: We leave soon. Don't get left behind.{p}{end}
+
+## MGG04G g0 s0373
+JP: {v3:9}……{n}もっ、もしかして、アキラ怒ってたか?{p}
+EN: {v3:9}... H-hey, was Akira mad just now?{p}
+
+## MGG04G g0 s0374
+JP: ああ、もしかしなくても怒ってたな。{n}全身から怒りの波動が出てたぞ……{p}{end}
+EN: Yeah, no "was" about it. She was radiating rage from head to toe...{p}{end}
+
+## MGG04G g0 s0375
+JP: おう、エッジよ。{n}アキラの機嫌が悪いんじゃが、{n}なんでかのう?{p}
+EN: Hey, Edge. Akira's in a mood. Any idea why?{p}
+
+## MGG04G g0 s0376
+JP: ……エッジ、後で謝っておいた方が{n}身のためだぞ。{p}{end}
+EN: ...Edge, you'd better apologize later, for your own good.{p}{end}
+
+## MGG04G g0 s0377
+JP: いやあ、やっと着いたな!{n}ところで、アキラさん。{n}どこか行きたい所とかないっスかねェ。{p}
+EN: Whew, we're finally here! So, Akira-san. Anywhere you'd like to go?{p}
+
+## MGG04G g0 s0378
+JP: （ぷぷぷぷ……{n}{sp}エッジのヤツ、必死でアキラに{n}{sp}ゴマすってるぞ。）{p}{end}
+EN: (Pfft... Edge is sucking up to Akira like crazy.){p}{end}
+
+## MGG04G g0 s0379
+JP: 俺は別にないが……{n}岩はどうだ?{p}{end}
+EN: Nowhere in particular... What about you, Gan?{p}{end}
+
+## MGG04G g0 s0380
+JP: ワシが乗れるものだったら何でもいいわい。{n}エッジ、おぬしに任せたぞ。{p}{end}
+EN: Anything I can fit on is fine by me. Edge, I'll leave it to you.{p}{end}
+
+## MGG04G g0 s0381
+JP: しょうがねぇなあ。{n}じゃあ、ジェットコースターなんかで{n}どうだ?{p}{end}
+EN: Fine, fine. How 'bout the roller coaster, then?{p}{end}
+
+## MGG04G g0 s0382
+JP: 別にいいんじゃないか。{n}{v3:10}はどうする?{p}{end}
+EN: Fine by me. What about you, {v3:10}?{p}{end}
+
+## MGG04G g0 s0383
+JP: うーん、どうしようかな……{p}
+EN: Hmm, I don't know...{p}
+
+## MGG04G g0 s0384
+JP: なんだ、歯切れわりいなぁ。{n}じゃあ、オレたちは先に行ってっから、{n}気が向いたら後から来いよ。{p}{end}
+EN: What, can't make up your mind? Well, we're headin' on ahead. Come find us if you feel like it.{p}{end}
+
+## MGG04G g0 s0385
+JP: そうだな、そうするよ。{p}
+EN: Yeah, I'll do that.{p}
+
+## MGG04G g0 s0386
+JP: あれっ、{v4:19}?{n}アンタこんな所で何してるの?{p}{end}
+EN: Huh, {v4:19}? What are you doing here?{p}{end}
+
+## MGG04G g0 s0387
+JP: よおっ、ラン。{n}そういうお前は、こんなとこまで来て{n}特ダネを探してるのか?{p}
+EN: Hey, Ran. What about you? Hunting for scoops all the way out here?{p}
+
+## MGG04G g0 s0388
+JP: 何言ってんのよ。{n}こんな所だからこそ、特ダネが{n}手に入るんじゃない。{p}{end}
+EN: What are you talking about? A place like this is exactly where you find scoops!{p}{end}
+
+## MGG04G g0 s0389
+JP: アンタ、なんだか暇そうね……{n}暇なんだったら、ワタシの取材を手伝って{n}くれない?{p}{end}
+EN: You look kinda bored... If you've got nothing to do, wanna help me with my story?{p}{end}
+
+## MGG04G g0 s0390
+JP: どうしようかな。{n}ランの取材を手伝うのも{n}面白そうだけど……{p}{end}
+EN: Hmm. Helping Ran with her story could be fun, but...{p}{end}
+
+## MGG04G g0 s0391
+JP: ランを手伝う{n}ことわる{p}
+EN: Help Ran{n}Say no{p}
+
+## MGG04G g0 s0392
+JP: 特に予定もないしな。{n}いいぜ、手伝ってやるよ。{p}
+EN: I don't have any plans anyway. Sure, I'll help you out.{p}
+
+## MGG04G g0 s0393
+JP: そうこなくっちゃ!{n}よぉし、それじゃ早速行くわよ!{p}
+EN: That's the spirit! Okay, let's get moving!{p}
+
+## MGG04G g0 s0394
+JP: 悪いな、ラン。{n}ちょっと行きたいところがあるんだ。{n}また今度手伝わせてくれよ。{p}
+EN: Sorry, Ran. There's somewhere I wanna go. Let me help next time.{p}
+
+## MGG04G g0 s0395
+JP: なによぉ。{n}まったく、付き合い悪いわねぇ。{p}
+EN: Hmph. Geez, you're no fun.{p}
+
+## MGG04G g0 s0396
+JP: だから、ゴメンって。{n}こんど何か面白い情報を仕入れたら{n}真っ先に教えるからさ。{p}
+EN: I said I'm sorry. Next time I hear anything juicy, you'll be the first to know.{p}
+
+## MGG04G g0 s0397
+JP: ホント!?{n}オッケー、それで手を打ちましょ。{n}それじゃ、ワタシ行くわね。{p}{end}
+EN: Really!? Okay, it's a deal. I'm off, then.{p}{end}
+
+## MGG04G g0 s0398
+JP: ふう、とりあえず助かった。{n}ランを怒らせたら後が恐いんだよな。{p}
+EN: Whew, dodged that one. Ran's scary when she's mad.{p}
+
+## MGG04G g0 s0399
+JP: さてと、それじゃどこに行く?{n}せっかく遊園地に来たんだから、{n}楽しまなくっちゃ損だぜ。{p}
+EN: Now then, where to? We came all the way to an amusement park, so I'd better have some fun.{p}
+
+## MGG04G g0 s0400
+JP: 観覧車{sp}{sp}{sp}{sp}{sp}{sp}{sp}ジェットコースター{n}お化け屋敷{sp}{sp}{sp}{sp}{sp}ゲームコーナー{n}その辺を散歩{p}{end}
+EN: Ferris wheel        Roller coaster{n}Haunted house       Arcade{n}Stroll around{p}{end}
+
+## MGG04G g0 s0401
+JP: そういえば、ここの観覧車は{n}「世界最大級」って話を聞いたな。{n}ちょっと見に行ってみるか!{p}{end}
+EN: Come to think of it, I heard the Ferris wheel here is "one of the world's biggest." Let's go check it out!{p}{end}
+
+## MGG04G g0 s0402
+JP: ふふふ、やはり遊園地といえば{n}ジェットコースターは定番だな。{n}さあ、気合いれていくぞ!{p}
+EN: Heh heh, an amusement park means a roller coaster. Okay, here goes!{p}
+
+## MGG04G g0 s0403
+JP: ひとりで行くお化け屋敷っていうのも{n}寒いよなぁ。{n}誰かいないかな……{p}{end}
+EN: Going into a haunted house alone is kinda sad. Isn't anyone around...?{p}{end}
+
+## MGG04G g0 s0404
+JP: ここまで来て、{n}ゲームコーナーを探す俺って……{n}まあ、いいか。{p}
+EN: Coming all the way here just to find the arcade... Eh, whatever.{p}
+
+## MGG04G g0 s0405
+JP: よし。{n}まずはその辺をふらっと散歩でも{n}してみるか。{p}{end}
+EN: Okay. First I'll just wander around a bit.{p}{end}
+
+## MGG04G g0 s0406
+JP: まずは行き先を決めなくちゃね。{n}どこに行ったら、{n}いいネタがつかめると思う?{p}{end}
+EN: First we've gotta decide where to go. Where do you think we'll find a good story?{p}{end}
+
+## MGG04G g0 s0407
+JP: そうだな…{p}
+EN: Let's see...{p}
+
+## MGG04G g0 s0408
+JP: 世界最大級の観覧車は?{n}ジェットコースターかな?{n}池なんてどう?{p}{end}
+EN: The giant Ferris wheel?{n}The roller coaster?{n}How about the pond?{p}{end}
+
+## MGG04G g0 s0409
+JP: 観覧車なんてどうだ?{n}聞いた話によると、ここの観覧車は{n}「世界最大級」の大きさらしいぞ。{p}{end}
+EN: How about the Ferris wheel? I heard it's "one of the world's biggest."{p}{end}
+
+## MGG04G g0 s0410
+JP: ふ～ん、観覧車ねぇ。{n}ちょっと派手さには欠けるけど、{n}「世界最大級」というフレーズが結構{n}ポイント高いかもね。{p}
+EN: Hmm, a Ferris wheel. Not very flashy, but "one of the world's biggest" might score some points.{p}
+
+## MGG04G g0 s0411
+JP: オッケー!{n}とりあえず行ってみましょ。{p}
+EN: Okay! Let's go check it out.{p}
+
+## MGG04G g0 s0412
+JP: これね?{n}その「世界最大級」とかいう観覧車は。{p}
+EN: So this is it? The "world's biggest" Ferris wheel.{p}
+
+## MGG04G g0 s0413
+JP: でも、ホントに「世界最大級」なのか{n}どうかはアヤシイものねぇ。{p}
+EN: But whether it's really "one of the world's biggest" is pretty fishy.{p}
+
+## MGG04G g0 s0414
+JP: 実際に乗ってみたらどうだ?{n}そうすれば、観覧車の大きさも実感{n}できると思うんだけど。{p}{end}
+EN: Why not ride it? Then you'll get a real feel for how big it is.{p}{end}
+
+## MGG04G g0 s0415
+JP: それもそうね。{n}{v4:19}、行くわよ!{p}{end}
+EN: Good point. {v4:19}, let's go!{p}{end}
+
+## MGG04G g0 s0417
+JP: ラン、どうだった?{p}
+EN: So, Ran, how was it?{p}
+
+## MGG04G g0 s0418
+JP: うん、確かにすごいながめだったわ。{n}ネタとしては、まあまあってところかしら?{p}{end}
+EN: Yeah, the view really was amazing. As a story, though... I'd say so-so?{p}{end}
+
+## MGG04G g0 s0419
+JP: 辛い採点だなぁ。{n}でも、ランの役に立てて良かったよ。{p}{end}
+EN: Tough grader. But I'm glad I could help, Ran.{p}{end}
+
+## MGG04G g0 s0420
+JP: じゃあ、あと何枚か写真を撮ったら{n}帰りましょ。{p}
+EN: Okay, a few more photos and then let's head back.{p}
+
+## MGG04G g0 s0421
+JP: （この後、俺はランと楽しく会話をしながら{n}{sp}撮影の手伝いをしたのだった。）{p}
+EN: (After that, I helped Ran with her photos while we chatted away happily.){p}
+
+## MGG04G g0 s0422
+JP: やっぱり、ジェットコースターだろ。{n}派手さと話題性では一番だしな。{p}
+EN: The roller coaster, for sure. It's the flashiest thing here and everyone talks about it.{p}
+
+## MGG04G g0 s0423
+JP: それねっ!{n}{v4:19}、ついてらっしゃい!{p}{end}
+EN: That's it! {v4:19}, follow me!{p}{end}
+
+## MGG04G g0 s0424
+JP: いいね、いいねー!{n}すごくいい感じだわ。{p}{end}
+EN: Nice, nice! This is looking great.{p}{end}
+
+## MGG04G g0 s0425
+JP: ラン、この看板にコースターについての{n}説明書きがあるぞ。{p}{end}
+EN: Ran, there's a sign here about the coaster.{p}{end}
+
+## MGG04G g0 s0426
+JP: え～と、なになに……{p}{end}
+EN: Let's see, what's it say...{p}{end}
+
+## MGG04G g0 s0427
+JP: 『―ジェットコースター・ベガ―{n}{sp}本アトラクションは世界初の{n}{sp}「サイコドライブ」を搭載した{n}{sp}ジェットコースターです。{p}{end}
+EN: 『-Roller Coaster Vega- This attraction is the world's first roller coaster equipped with a "Psycho Drive."{p}{end}
+
+## MGG04G g0 s0428
+JP: {sp}絶叫マシンにうるさいアナタも{n}{sp}思わず絶望にうなってしまう程の{n}{sp}スピード感が体験できます。』{p}{end}
+EN: Even hardened thrill seekers will groan in despair at the speed it delivers.』{p}{end}
+
+## MGG04G g0 s0429
+JP: ……だってさ。{n}なんかすごいね。{p}{end}
+EN: ...That's what it says. Sounds pretty wild.{p}{end}
+
+## MGG04G g0 s0430
+JP: なんだかうさん臭い説明ねぇ。{n}ここに書いてる事って本当なのかしら?{p}
+EN: What a shady description. Is any of this true?{p}
+
+## MGG04G g0 s0431
+JP: ここはやっぱり、特派員を派遣して{n}突撃レポートしてもらうしかないわね!{p}
+EN: There's only one way to find out. We send in a correspondent for an on-the-spot report!{p}
+
+## MGG04G g0 s0432
+JP: ……特派員って、誰?{p}{end}
+EN: ...A correspondent? Who?{p}{end}
+
+## MGG04G g0 s0433
+JP: なに言ってるのよっ!{n}アンタに決まってるじゃない!{p}
+EN: What are you talking about!? You, obviously!{p}
+
+## MGG04G g0 s0434
+JP: な、なんで俺が～～～～～!!{p}{end}
+EN: Wh-why meeeeee!!{p}{end}
+
+## MGG04G g0 s0436
+JP: どうやら、「看板に偽りなし」みたいね。{n}その表情が全てを物語ってるわ。{n}う～ん、これはいい記事になるわよぉ!{p}{end}
+EN: Looks like the sign wasn't lying. Your face says it all. Ooh, this'll make a great article!{p}{end}
+
+## MGG04G g0 s0437
+JP: （ランは大喜びしてるみたいだ。{n}{sp}良かった、良かった。{n}{sp}……それにしてもヒドイ目にあったな。）{p}{end}
+EN: (Ran looks thrilled. Good for her. ...Still, that was brutal.){p}{end}
+
+## MGG04G g0 s0438
+JP: ここはひとつ、予想外のスポットに{n}行ってみるのも手かと思うんだが…{p}
+EN: I think it might be smart to try a spot nobody would expect...{p}
+
+## MGG04G g0 s0439
+JP: ふんふん。{n}で、その予想外のスポットってのは?{p}
+EN: Uh-huh. And what's this unexpected spot?{p}
+
+## MGG04G g0 s0440
+JP: ズバリ、「池」だな。{n}普段は平穏な場所で起こった事件こそが、{n}その衝撃をより際立たせるのだよ、ラン君。{p}
+EN: The pond, of course. An incident in a peaceful place hits all the harder, my dear Ran-kun.{p}
+
+## MGG04G g0 s0441
+JP: なにを偉そうに……{n}でも、その話には妙な説得力があるわね。{n}さあっ、行くわよ。{p}
+EN: Don't act so smug... But that's weirdly convincing. Come on, let's go.{p}
+
+## MGG04G g0 s0443
+JP: で、その事件はどこにあるのよ?{p}
+EN: So where's this incident?{p}
+
+## MGG04G g0 s0445
+JP: アツアツのカップルと、カルガモの親子、{n}これ以上ないホノボノとした絵よねぇ。{n}で、事件は?{p}
+EN: A lovey-dovey couple and a mother duck with her ducklings. It doesn't get more heartwarming. So where's the incident?{p}
+
+## MGG04G g0 s0446
+JP: えーっと、おかしいな……{p}{end}
+EN: Uh, that's weird...{p}{end}
+
+## MGG04G g0 s0447
+JP: まったく、アンタのせいで貴重な{n}取材の時間が無駄になったじゃないのっ!{n}どうしてくれるのよ!?{p}
+EN: Geez, you wasted my precious reporting time! How're you gonna make it up to me!?{p}
+
+## MGG04G g0 s0448
+JP: （この後、俺は日が落ちるまで{n}{sp}ランに追っかけまわされるハメ{n}{sp}になった……）{p}
+EN: (After that, Ran chased me around until sundown...){p}
+
+## MGG04G g0 s0449
+JP: おっ、あそこにいるのはバツたちだな。{n}おーい!{p}
+EN: Oh, that's Batsu and the others over there. Hey!{p}
+
+## MGG04G g0 s0450
+JP: おう、{v3:0}。{n}見てくれよ、この行列。{p}{end}
+EN: Hey, {v3:0}. Check out this line.{p}{end}
+
+## MGG04G g0 s0451
+JP: 観覧車でこんなに順番待ちする{n}なんて珍しいな。{p}
+EN: It's rare to wait this long for a Ferris wheel.{p}
+
+## MGG04G g0 s0452
+JP: できたばっかりみたいだから、{n}人気があるのはしかたないよ。{p}
+EN: It's brand new, so of course it's popular.{p}
+
+## MGG04G g0 s0453
+JP: それに、「世界最大級」らしいから{n}余計に人が集まってるんじゃないかなぁ。{p}{end}
+EN: And it's supposed to be "one of the world's biggest," so that's probably drawing even more people.{p}{end}
+
+## MGG04G g0 s0454
+JP: それにしても、これは異常だな……{p}{end}
+EN: Even so, this is excessive...{p}{end}
+
+## MGG04G g0 s0455
+JP: ちっくしょう!{n}そこのヤツラ、列の途中から割り込み{n}しやがったぞ!{p}
+EN: Dammit! Those guys just cut in line!{p}
+
+## MGG04G g0 s0456
+JP: おっ、おいバツ!{p}{end}
+EN: H-hey, Batsu!{p}{end}
+
+## MGG04G g0 s0457
+JP: バツを止める{n}バツを手伝う{p}
+EN: Stop Batsu{n}Help Batsu{p}
+
+## MGG04G g0 s0458
+JP: バツ、落ち着けよ!{n}こんな所で乱闘したらマズイって。{p}{end}
+EN: Batsu, calm down! Starting a brawl here would be bad news.{p}{end}
+
+## MGG04G g0 s0459
+JP: 秩序を乱したのは相手の方だが、{n}手を出すのはまずいぞ。{n}第一、周りの人の迷惑になる。{p}{end}
+EN: They're the ones who broke the rules, but throwing punches is a bad idea. Besides, it'll bother everyone around us.{p}{end}
+
+## MGG04G g0 s0460
+JP: そうそう。{n}それに、あと少しで私たちの番だから{n}我慢しようよ。{p}
+EN: Yeah, yeah. Besides, it's almost our turn, so let's just hang in there.{p}
+
+## MGG04G g0 s0461
+JP: ……チェッ、わかったよ。{p}{end}
+EN: ...Tch. Fine.{p}{end}
+
+## MGG04G g0 s0462
+JP: 観覧車、すっごくながめが{n}良かったよねぇ!{p}
+EN: The view from the Ferris wheel was amazing!{p}
+
+## MGG04G g0 s0463
+JP: 確かに、あれなら「世界最大級」と{n}言ってもいいくらいだな。{p}
+EN: True. It really earns that "one of the world's biggest" label.{p}
+
+## MGG04G g0 s0464
+JP: ファ～ア、ながめは良かったけど。{n}あの観覧車、回るのが遅すぎないか?{n}眠たくなっちまうぜ。{p}
+EN: *Yawn*... The view was nice and all, but didn't that thing turn way too slow? I nearly fell asleep.{p}
+
+## MGG04G g0 s0465
+JP: ……観覧車だぞ?{n}絶叫マシンじゃないんだから、{n}回転が速くなってどうするんだよ。{p}{end}
+EN: ...It's a Ferris wheel. It's not a thrill ride. Why would it need to spin faster?{p}{end}
+
+## MGG04G g0 s0466
+JP: （こうして俺達は、楽しい会話を{n}{sp}交わしながら帰路についたのだった。）{p}
+EN: (And so we headed home, chatting away happily.){p}
+
+## MGG04G g0 s0467
+JP: 加勢するぜ!{n}ちょうどムシャクシャしてたんだ。{p}
+EN: I've got your back! I was in a lousy mood anyway.{p}
+
+## MGG04G g0 s0468
+JP: おい、そこのっ!{n}いい歳して、順番も守れねぇのか?{p}
+EN: Hey, you! Grown men like you can't even wait your turn?{p}
+
+## MGG04G g0 s0469
+JP: やはりこうなるか…{n}なんとなく予想はしてたけどな。{p}
+EN: I knew it would come to this... I had a feeling, anyway.{p}
+
+## MGG04G g0 s0470
+JP: あ～あ、結局あの乱闘騒ぎで観覧車に{n}乗れなかったじゃない……{n}{v6:1}までいっしょになって{n}暴れることなかったのに、もう。{p}
+EN: Aww, thanks to that brawl we never got on the Ferris wheel... {v6:1}, you didn't have to go wild too. Geez.{p}
+
+## MGG04G g0 s0471
+JP: ごめん、つい……{p}{end}
+EN: Sorry, I just...{p}{end}
+
+## MGG04G g0 s0472
+JP: いいじゃねぇか、ひなた。{n}スカッとしただろ?{p}{end}
+EN: Lighten up, Hinata. Felt great, didn't it?{p}{end}
+
+## MGG04G g0 s0473
+JP: ちっとも良くない。{n}……全然反省してないんだから。{p}
+EN: Not one bit. ...You two aren't sorry at all.{p}
+
+## MGG04G g0 s0474
+JP: そうだ、ひなた。{n}今度、バツと{v4:2}がケーキを{n}おごるってことで許してやったらどうだ?{p}{end}
+EN: I know, Hinata. Why not forgive them if Batsu and {v4:2} treat you to cake?{p}{end}
+
+## MGG04G g0 s0475
+JP: うん、そうだね。{n}そのくらいの罰は必要かな{col:5}♥{col:-}{p}{end}
+EN: Yeah, sounds good. That's about the right punishment{col:5}♥{col:-}{p}{end}
+
+## MGG04G g0 s0476
+JP: （こうして、俺とバツはひなたと恭介に{n}{sp}こってりしぼられたのであった……）{p}
+EN: (And so Batsu and I got a thorough chewing-out from Hinata and Kyosuke...){p}
+
+## MGG04G g0 s0477
+JP: おや?{n}あそこで並んでいる場違いな3人組は{n}アキラたちじゃないか?{p}
+EN: Huh? Isn't that out-of-place trio in line Akira and the others?{p}
+
+## MGG04G g0 s0478
+JP: 場違いで悪かったなァ、{n}場違いで。{p}
+EN: Sorry we're "out of place," pal. Real sorry.{p}
+
+## MGG04G g0 s0479
+JP: エッジ、おぬし知り合いに{n}すごんでどうするんじゃ。{p}
+EN: Edge, what're ya glarin' at a friend for?{p}
+
+## MGG04G g0 s0480
+JP: おい、オレ達の順番がきたぞ。{n}{v3:10}も乗りに来たんだろう?{n}行くぞ。{p}
+EN: Hey, it's our turn. {v3:10}, you came to ride too, didn't you? Let's go.{p}
+
+## MGG04G g0 s0481
+JP: ちょっと待て、アキラ。{n}メットをかぶったまま乗るのか?{p}
+EN: Hold on, Akira. You're riding with your helmet on?{p}
+
+## MGG04G g0 s0482
+JP: 無論だ。{n}なぜ外す必要がある?{p}
+EN: Of course. Why would I take it off?{p}
+
+## MGG04G g0 s0483
+JP: なぜって、そのままじゃ{n}確実に係員に止められるぞ。{p}
+EN: Why? Because the staff are definitely gonna stop you like that.{p}
+
+## MGG04G g0 s0484
+JP: メットを外させる{n}そのままで行く{p}{end}
+EN: Take off her helmet{n}Let her keep it on{p}{end}
+
+## MGG04G g0 s0485
+JP: ……というわけで、{n}アキラがなんと言おうと、{n}力ずくでもメットは外させてもらう。{p}{end}
+EN: ...So whatever you say, Akira, that helmet's coming off. By force if I have to.{p}{end}
+
+## MGG04G g0 s0486
+JP: なっ、何をする!{n}や、やめろぉ!{p}{end}
+EN: Wh-what are you doing! S-stop it!{p}{end}
+
+## MGG04G g0 s0487
+JP: これでよし。{n}じゃあ、しばらくメットは預かるぞ。{p}{end}
+EN: There we go. I'll hang onto your helmet for a while.{p}{end}
+
+## MGG04G g0 s0488
+JP: {v5:10}お願いっ、{n}メット返してよ～。{p}
+EN: {v5:10}, please, give me back my helmet!{p}
+
+## MGG04G g0 s0489
+JP: いやー!{n}すごかったな、このコースター。{n}さすがのオレも、ちょっとばかし{n}キツかったぜェ。{p}
+EN: Whoa! That coaster was somethin' else. Even I found it a little rough.{p}
+
+## MGG04G g0 s0490
+JP: ……ん?{n}アキラ、どうした?{p}{end}
+EN: ...Hm? Akira, what's wrong?{p}{end}
+
+## MGG04G g0 s0491
+JP: ……ひどいわ、{v5:10}。{n}私、ジェットコースター苦手だから{n}メットかぶって乗ろうと思ってたのに…{p}{end}
+EN: ...That was mean, {v5:10}. Roller coasters scare me, so I wanted to ride with my helmet on...{p}{end}
+
+## MGG04G g0 s0492
+JP: まったく、おぬし。{n}ひどいことをするのう。{p}
+EN: Really now, that was a mean thing to do.{p}
+
+## MGG04G g0 s0493
+JP: ゴ、ゴメンってば。{n}でも、バイクみたいにスリルがあって{n}結構楽しかっただろ?{p}{end}
+EN: I-I said I'm sorry. But it was a thrill, just like a bike. Kinda fun, right?{p}{end}
+
+## MGG04G g0 s0495
+JP: （この後、泣き出しそうになった{n}{sp}アキラをなだめるのに、かなりの{n}{sp}時間が費やされたのだった……）{p}
+EN: (After that, it took quite a while to calm Akira down. She was close to tears...){p}
+
+## MGG04G g0 s0496
+JP: まあ、アキラがどうしても{n}外したくないのならしかたないけど。{p}{end}
+EN: Well, if you really don't want to take it off, Akira, I guess there's no helping it.{p}{end}
+
+## MGG04G g0 s0497
+JP: すまない。{n}ここではなんとしても、{n}外すわけにはいかないんだ。{p}
+EN: Sorry. Here, of all places, I can't take it off.{p}
+
+## MGG04G g0 s0498
+JP: やっぱり駄目か…{n}ちぇっ、ゆうずうのきかない{n}係員だよな。{p}
+EN: No good, huh... Tch, the staff here sure are stubborn.{p}
+
+## MGG04G g0 s0499
+JP: みんな、ごめんね。{n}私、ジェットコースターって苦手で。{n}だから、ヘルメットをかぶらないと{n}恐くて乗れなかったの。{p}{end}
+EN: Sorry, everyone. Roller coasters scare me, so I couldn't ride without my helmet.{p}{end}
+
+## MGG04G g0 s0500
+JP: ま、しかたねぇさ。{n}遊園地にはジェットコースターしか{n}ないわけじゃねーからな。{p}
+EN: Eh, can't be helped. A roller coaster ain't the only thing at an amusement park.{p}
+
+## MGG04G g0 s0501
+JP: できれば、ワシも乗れるサイズのものに{n}してもらえんかのう。{n}ほとんど乗れないものばかりで{n}退屈じゃわい!{p}{end}
+EN: If ya could, pick somethin' I can fit on next. Hardly anything here fits me. I'm bored stiff!{p}{end}
+
+## MGG04G g0 s0502
+JP: うーん。{n}それが一番難しい注文だな…{p}{end}
+EN: Hmm. That's the toughest request of all...{p}{end}
+
+## MGG04G g0 s0503
+JP: へへへっ、ちがいねぇ。{p}
+EN: Heh heh, you said it.{p}
+
+## MGG04G g0 s0504
+JP: うふふふふ{col:5}♥{col:-}{n}みんな、イジワルなんだから。{p}
+EN: Hee hee{col:5}♥{col:-} You're all so mean.{p}
+
+## MGG04G g0 s0505
+JP: （結局、ジェットコースターには{n}{sp}乗れなかったが、みんなと楽しい時間を{n}{sp}過ごせた。）{p}
+EN: (In the end, we never rode the roller coaster, but I had a great time with everyone.){p}
+
+## MGG04G g0 s0506
+JP: （結果的にはこの方が良かったのかもな。）{p}{end}
+EN: (Maybe it turned out better this way.){p}{end}
+
+## MGG04G g0 s0507
+JP: お化け屋敷の入り口に来たけど、{n}やっぱり一人じゃ入りづらいなぁ。{n}どうしようか?{p}{end}
+EN: I made it to the haunted house, but it's hard to go in alone. What should I do?{p}{end}
+
+## MGG04G g0 s0508
+JP: おや?{n}そこにいるのは{v4:8}{n}じゃないですか。{p}{end}
+EN: Oh? Is that you, {v4:8}?{p}{end}
+
+## MGG04G g0 s0509
+JP: ホントね!{n}{v3:7}、そんなトコで{n}何してるですか?{p}{end}
+EN: It is! {v3:7}, what are you doing there?{p}{end}
+
+## MGG04G g0 s0510
+JP: お化け屋敷に入ろうか{n}どうしようかと思ってさ。{n}ほら、こういうのって{n}一人だと面白くないだろ?{p}
+EN: I was trying to decide whether to go in the haunted house. These things are no fun alone, you know?{p}
+
+## MGG04G g0 s0511
+JP: そんなこと言って、本当は恐いんじゃ{n}ないのか?{p}
+EN: You say that, but you're really scared, aren't you?{p}
+
+## MGG04G g0 s0512
+JP: ちっ、ちがうって!{p}
+EN: N-no way!{p}
+
+## MGG04G g0 s0513
+JP: ハハハ!{sp}ジョークだよジョーク。{n}ボクたちもちょうどお化け屋敷に{n}入るところだったのさ。{n}なんなら、一緒にどうだい?{p}{end}
+EN: Haha! Just a joke. We were about to go in the haunted house ourselves. Want to come with us?{p}{end}
+
+## MGG04G g0 s0514
+JP: ロイたちといっしょに入る{n}やっぱりやめとく{p}
+EN: Go in with Roy's group{n}I'll pass after all{p}
+
+## MGG04G g0 s0515
+JP: ああ、行く行く!{n}ボーマンがいれば、とりあえず幽霊は{n}恐くないしな。{p}{end}
+EN: Yeah, I'm in! With Boman around, I won't be scared of any ghosts.{p}{end}
+
+## MGG04G g0 s0516
+JP: まっくらで何も見えませんね。{p}{end}
+EN: It is pitch black. I cannot see a thing.{p}{end}
+
+## MGG04G g0 s0517
+JP: まいったな、これじゃ出口の方向も{n}わからないぜ。{p}{end}
+EN: Great, I can't even tell which way the exit is.{p}{end}
+
+## MGG04G g0 s0518
+JP: キャア!{n}ミーのオシリさわったの、{n}誰ですカ!?{p}{end}
+EN: Kyaa! Who touched my butt!?{p}{end}
+
+## MGG04G g0 s0519
+JP: お、俺じゃないぞ!{n}イテテ、暴れるなってば。{p}{end}
+EN: I-it wasn't me! Ow, ow, quit flailing!{p}{end}
+
+## MGG04G g0 s0521
+JP: あ～、ヒドイ目にあった。{p}{end}
+EN: Ugh, that was rough.{p}{end}
+
+## MGG04G g0 s0522
+JP: しかし、お化け屋敷そのものよりも、{n}中で起こったアクシデントの方が{n}面白かったというのも変な話だな。{p}{end}
+EN: Funny, though. The accident inside was more fun than the haunted house itself.{p}{end}
+
+## MGG04G g0 s0523
+JP: 結果的に楽しめたんですから、{n}良かったんじゃないでしょうか。{p}{end}
+EN: We had fun in the end, so I would say it worked out.{p}{end}
+
+## MGG04G g0 s0524
+JP: ボーマンの言う通りネ!{p}
+EN: Boman is right!{p}
+
+## MGG04G g0 s0525
+JP: （お化け屋敷の中でティファニーに{n}{sp}ボコボコにされたけど、みんな{n}{sp}それなりに楽しんだみたいだな。）{p}{end}
+EN: (Tiffany beat me black and blue in the haunted house, but everyone seems to have had a good time.){p}{end}
+
+## MGG04G g0 s0526
+JP: ……やっぱりやめとこうかな。{n}ちょっと恐そうだもんなぁ。{p}{end}
+EN: ...Maybe I'll skip it after all. It looks kinda scary.{p}{end}
+
+## MGG04G g0 s0527
+JP: {v3:7}、イコジがないネー!{p}{end}
+EN: {v3:7}, you have no gust!{p}{end}
+
+## MGG04G g0 s0528
+JP: それを言うなら、意気地だろ。{n}{v3:6}、本当に行かないのか?{p}{end}
+EN: You mean "guts." {v3:6}, you're really not coming?{p}{end}
+
+## MGG04G g0 s0529
+JP: せっかく誘ってもらって悪いんだけど、{n}今回はパスさせてもらうよ。{p}{end}
+EN: Sorry, since you invited me and all, but I'll pass this time.{p}{end}
+
+## MGG04G g0 s0530
+JP: そうですか……{n}では、また後で会いましょう。{p}{end}
+EN: I see... Then we will see you later.{p}{end}
+
+## MGG04G g0 s0531
+JP: （みんなの前でハデに驚いたりしたら、{n}{sp}カッコ悪いしな。今回はいいや。）{p}{end}
+EN: (If I freaked out big time in front of everyone, I'd look lame. I'll pass this time.){p}{end}
+
+## MGG04G g0 s0532
+JP: おっ、{v3:3}じゃねぇか。{n}お前も来てたのか?{p}
+EN: Oh, if it isn't {v3:3}. You came too?{p}
+
+## MGG04G g0 s0533
+JP: よおっ、みんな。{n}楽しんでるか?{p}{end}
+EN: Hey, everyone. Having fun?{p}{end}
+
+## MGG04G g0 s0534
+JP: そこそこね。{n}一番楽しんでるのはロベルト{n}じゃないかしら。{p}
+EN: More or less. I think Roberto's having the most fun.{p}
+
+## MGG04G g0 s0535
+JP: ああ、{n}つきあわせてしまって悪いな。{p}{end}
+EN: Yeah. Sorry for dragging you guys along.{p}{end}
+
+## MGG04G g0 s0536
+JP: そうだ。{n}せっかくだから、みんなで何か{n}ゲームでもやらないか?{p}
+EN: Oh, I know. Since we're all here, why don't we play a game together?{p}
+
+## MGG04G g0 s0537
+JP: そうだなぁ……{p}
+EN: Hmm...{p}
+
+## MGG04G g0 s0538
+JP: いいね、やろう!{n}他の場所へ行こうよ{p}{end}
+EN: Sure, let's play!{n}Let's go somewhere else{p}{end}
+
+## MGG04G g0 s0539
+JP: それもいいな。{n}じゃあ、どのゲームで遊ぼうか?{p}
+EN: Sounds good. So, which game should we play?{p}
+
+## MGG04G g0 s0540
+JP: みんなで楽しむなら、{n}大型ゲームに限るな。{n}うん、これなんかどうだ?{p}{end}
+EN: If we're all playing, it's gotta be a big machine. Yeah, how about this one?{p}{end}
+
+## MGG04G g0 s0541
+JP: おっ、なんか面白そうなゲームだな。{n}オイラはかまわないぜ。{p}
+EN: Ooh, that looks fun. I'm cool with it.{p}
+
+## MGG04G g0 s0542
+JP: アタシは、ゲームのことは{n}よくわからないから任せるわ。{p}
+EN: I don't really get games, so I'll leave it to you.{p}
+
+## MGG04G g0 s0543
+JP: いやあ、遊んだ遊んだ!{n}それにしても、ロベルトはゲームが{n}うめぇよなぁ。{p}{end}
+EN: Man, we played a ton! Roberto's crazy good at games, huh.{p}{end}
+
+## MGG04G g0 s0544
+JP: そうね、どうやったらそんなにうまく{n}なれるのか不思議だわ。{p}
+EN: Yeah, I wonder how he got so good.{p}
+
+## MGG04G g0 s0545
+JP: ははは、要は慣れさ慣れ。{n}なあ、{v3:5}?{p}
+EN: Haha, it's all about practice. Right, {v3:5}?{p}
+
+## MGG04G g0 s0546
+JP: ああ、そうだな。{n}その分お金はかかってしまうけどね。{p}{end}
+EN: Yeah, I guess. Costs a lot of money, though.{p}{end}
+
+## MGG04G g0 s0547
+JP: （この後も、俺達はゲームコーナーで{n}{sp}楽しく遊びつづけたのだった。）{p}{end}
+EN: (After that, we kept having fun in the arcade.){p}{end}
+
+## MGG04G g0 s0548
+JP: せっかく遊園地に来てるんだから、{n}遊園地ならではのものにしないか?{p}
+EN: We came all the way to an amusement park. Let's do something you can only do here.{p}
+
+## MGG04G g0 s0549
+JP: まあ、それも一理あるが……{n}みんな、どうする?{p}
+EN: Well, you've got a point... What do you all want to do?{p}
+
+## MGG04G g0 s0550
+JP: まあ、それもいいわね。{n}私は観覧車に乗りたいかな。{p}
+EN: Sure, sounds good. I kinda want to ride the Ferris wheel.{p}
+
+## MGG04G g0 s0551
+JP: 何いってんだ、遊園地と来たら{n}ジェットコースターに決まってるだろ。{p}
+EN: What're ya talkin' about? Amusement park means roller coaster, obviously!{p}
+
+## MGG04G g0 s0553
+JP: （みんなの行きたい所がバラバラだ…）{p}{end}
+EN: (Everyone wants to go somewhere different...){p}{end}
+
+## MGG04G g0 s0554
+JP: （こりゃあ、どこに行くか決めてる間に{n}{sp}帰る時間になりそうだな。）{p}
+EN: (At this rate, it'll be time to go home before we even decide.){p}
+
+## MGG04G g0 s0555
+JP: （あっ、あそこにいるのは生徒会長の{n}{sp}雹さんだな…話しかけてみるか。）{p}
+EN: (Oh, that's the student council president, Hyo-san... Maybe I'll talk to him.){p}
+
+## MGG04G g0 s0556
+JP: 雹さん、おひとりですか?{p}{end}
+EN: Hyo-san, are you here alone?{p}{end}
+
+## MGG04G g0 s0557
+JP: ……む?{sp}{v0}か。{n}見ての通りだよ。{p}
+EN: ...Hm? {v0}. As you can see.{p}
+
+## MGG04G g0 s0558
+JP: もしよかったら…ですけど、{n}俺と一緒にまわりませんか?{p}
+EN: If you don't mind... would you like to go around with me?{p}
+
+## MGG04G g0 s0559
+JP: かまわんよ。{n}特にすることもないからな。{n}で、どこへ行くつもりなのだ?{p}
+EN: I do not mind. I have nothing better to do. So, where do you intend to go?{p}
+
+## MGG04G g0 s0560
+JP: そうですね……{p}
+EN: Let's see...{p}
+
+## MGG04G g0 s0561
+JP: アトラクションに誘う{n}池の方でゆっくりする{p}
+EN: Invite him on a ride{n}Relax by the pond{p}
+
+## MGG04G g0 s0562
+JP: 何かアトラクションで遊びませんか?{p}
+EN: Want to try one of the attractions?{p}
+
+## MGG04G g0 s0563
+JP: アトラクションだと?{p}{end}
+EN: Attractions?{p}{end}
+
+## MGG04G g0 s0564
+JP: え、ええ。{n}ほら、観覧車とかジェットコースター{n}とかのことです。{n}結構楽しいと思いますよ。{p}
+EN: Y-yeah. You know, like the Ferris wheel or the roller coaster. I think they'd be pretty fun.{p}
+
+## MGG04G g0 s0565
+JP: ……フン、まあいいだろう。{n}付き合ってやる。{p}{end}
+EN: ...Hmph. Very well. I shall humor you.{p}{end}
+
+## MGG04G g0 s0566
+JP: 着きましたよ。{n}とりあえず、ジェットコースターなんて{n}いいと思うんですけど。{p}{end}
+EN: Here we are. I was thinking the roller coaster would be a good start.{p}{end}
+
+## MGG04G g0 s0568
+JP: いや、あの…その……{n}なんなら、観覧車とかどうですか?{p}
+EN: Um, well... uh... how about the Ferris wheel instead?{p}
+
+## MGG04G g0 s0569
+JP: くだらん…実にくだらん!{n}お前は、{n}私をこんなことに付き合わせるために{n}ここまで連れ出したというのか?{p}
+EN: Ridiculous... utterly ridiculous! You dragged me all the way out here for this kind of nonsense?{p}
+
+## MGG04G g0 s0570
+JP: 雹さん、落ち着いてください。{p}{end}
+EN: Hyo-san, please calm down.{p}{end}
+
+## MGG04G g0 s0571
+JP: 黙れ!{n}お前の話を聞く耳などもたん。{p}{end}
+EN: Silence! I will not hear another word from you.{p}{end}
+
+## MGG04G g0 s0572
+JP: （……行ってしまった。{n}{sp}やっぱり、こういうのに誘ったのは{n}{sp}まずかったかなぁ。）{p}
+EN: (...He left. Guess inviting him on rides was a mistake.){p}
+
+## MGG04G g0 s0573
+JP: 落ち着けるところに行きましょうか。{n}もう少し歩いた所に池があるみたい{n}なんですが、いかがです?{p}
+EN: Shall we go somewhere calmer? There seems to be a pond a little farther on. How about it?{p}
+
+## MGG04G g0 s0574
+JP: いいだろう。{n}私もこの人の多さには少々ウンザリ{n}していたところだ。{p}
+EN: Very well. I was growing a little weary of these crowds myself.{p}
+
+## MGG04G g0 s0575
+JP: どうです?{n}結構静かで、いい所だと思いますが。{p}
+EN: How's this? It's pretty quiet. Nice place, right?{p}
+
+## MGG04G g0 s0576
+JP: うむ、悪くないな。{n}ここなら、わずらわしい雑音に{n}悩まされることもない。{p}{end}
+EN: Mm, not bad. Here, no tiresome noise will trouble me.{p}{end}
+
+## MGG04G g0 s0577
+JP: ……{v0}、{n}自然はいいものだな。{p}
+EN: ...{v0}, nature is a fine thing.{p}
+
+## MGG04G g0 s0578
+JP: 心をさらけ出して自然に接していると、{n}ちっぽけでくだらぬ悩みなど{n}どこかへ消えてしまう。{p}{end}
+EN: When you open your heart to nature, petty worries simply fade away.{p}{end}
+
+## MGG04G g0 s0579
+JP: …いや、違うな。{n}悩みが消えるのではなく、疲れ、己に{n}負けそうになる弱い心がうるおい、{n}いやされているのだろうな。{p}
+EN: ...No, that's not quite it. The worries don't fade. Rather, a weary heart, one close to losing to itself, is refreshed and healed.{p}
+
+## MGG04G g0 s0581
+JP: （やっぱり、{n}{sp}雹さんにも色々悩みがあるんだな……）{p}{end}
+EN: (So even Hyo-san has his share of worries...){p}{end}
+
+## MGG04G g0 s0582
+JP: （その後は、お互い何を話すでもなく、{n}{sp}ただゆったりと静かな時間を過ごした。）{p}
+EN: (After that, neither of us said much. We just spent some quiet, peaceful time together.){p}
+

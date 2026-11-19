@@ -1,0 +1,131 @@
+# 将馬のホームラン競争ルール＆操作説明
+r1_hdr: Home Run Derby: Rules & Controls
+# ルール / 操作方法
+r1_h_rule: Rules
+r1_h_ctrl: Controls
+# 10球バッティングをして飛距離の上位から5本分の合計で競います。ファール空振りは0mとなります。
+r1_rule: Take 10 swings. Your score is the total distance of your 5 longest hits. Fouls and misses count as 0 m.
+# 方向キーの上下左右でプレイヤーの立ち位置を決定します。
+r1_c1: Use the D-pad to set where the player stands.
+# ○ボタンを押すとバットを振ります。
+r1_c2: {icons} Swing the bat.
+# プレイヤーの移動 / スイング
+r1_k1: Move player
+r1_k2: Swing
+# 戻る
+r1_back: Back
+
+# ロベルトのPK戦ルール＆操作説明
+r2a_hdr: PK Shootout: Rules & Controls
+r2a_h_rule: Rules
+# プレイヤーを操ってPK戦をします。5本ずつ蹴って多く得点を入れた方が勝ちです。
+r2a_rule: Take control of the player in a PK shootout. Each side takes 5 kicks, and whoever scores more wins.
+# キッカー操作方法
+r2a_h_ctrl: Kicker Controls
+# 方向キーの上下左右でボールを蹴る方向を決めます。
+r2a_c1: Use the D-pad to aim your kick.
+# ○、×、△、□、のどれかのボタンを押すとプレイヤーが走り出します。
+r2a_c2: {i0} {i1} {i2} {i3} Any of these starts the player's run-up.
+# シュートするまでの間に方向キーでボールの曲がり具合を決めます。
+r2a_c3: Until you kick, use the D-pad to set how much the ball curves.
+# 爆裂Vゴール(根性ゲージを消費します) / 強シュート / 弱シュート
+r2a_k1: Explosive V Goal|(uses the Guts gauge)
+r2a_k2: Strong Shot
+r2a_k3: Weak Shot
+r2a_k4: Explosive V Goal|(uses the Guts gauge)
+# L1 方向ゲージ表示のON/OFF / R1 視点を変更します。
+r2a_k5: Aim gauge ON/OFF
+r2a_k6: Change the view.
+r2a_back: Back
+
+r2b_hdr: PK Shootout: Rules & Controls
+# キーパー操作方法
+r2b_h_ctrl: Keeper Controls
+# 方向キーで左右に移動します。
+r2b_c1: Use the D-pad to move.
+# 方向キー+ボタンでボールを取るアクションをします。ボタンによってアクションが違います。
+r2b_c2: D-pad + a button makes a save attempt. Each button does a different move.
+# シャイニングセーブ 強/弱 (根性ゲージを消費します) / 強セービング / 弱セービング
+r2b_k1: Shining Save (Strong)|(uses the Guts gauge)
+r2b_k2: Strong Save
+r2b_k3: Weak Save
+r2b_k4: Shining Save (Weak)|(uses the Guts gauge)
+# 方向ゲージ / ボールを蹴る左右の角度 / ボールを蹴る上下の角度
+r2b_gauge: Aim Gauge
+r2b_gauge_t: Left/right kick angle|Up/down kick angle
+r2b_back: Exit
+
+# ロベルトの爆裂シュートルール＆操作説明
+r3_hdr: Explosive Shot: Rules & Controls
+r3_h_rule: Rules
+r3_h_ctrl: Controls
+# シュートをしてゴールにある得点パネルを落としていきます。6球の合計得点で競います。
+# 得点パネルの得点の他にゴールポストに当たって得点パネルを落とすとフレーム点が、
+# ボールを変化させて得点パネルを落とすと芸術点が入ります。
+r3_rule: Shoot to knock down the score panels in the goal. The total of 6 balls counts. Besides the panel points, hitting a post to knock a panel down earns Frame points, and curving the ball into a panel earns Art points.
+# 方向キーの上下左右でボールを蹴る方向を決めます。
+r3_c1: Use the D-pad to aim your shot.
+# ○、×のどちらかのボタンを押すとプレイヤーが走り出します。
+r3_c2: {i0} {i1} Either one starts the player's run-up.
+# シュートするまでの間に方向キーでボールの曲がり具合を決めます。
+r3_c3: Until you shoot, use the D-pad to set how much the ball curves.
+# 強シュート / 弱シュート / L1 視点を変更します。
+r3_k1: Strong Shot
+r3_k2: Weak Shot
+r3_k3: Change the view.
+r3_back: Back
+
+# 夏のサービスエースルール＆操作説明
+r4_hdr: Service Ace: Rules & Controls
+r4_h_rule: Rules
+r4_h_ctrl: Controls
+# 顔キャラクターを狙ってサーブをして爆風に巻き込んで得点をとります。8球の合計得点で競います。
+r4_rule: Serve at the face characters and catch them in the blast to score. The total of 8 serves counts.
+# 方向キーの左右でサーブする方向を決めます。
+r4_c1: Use Left/Right on the D-pad to aim the serve.
+# ○ボタンを押してパワーを決めます。
+r4_c2: {icons} Press to set the power.
+# ボタンを押す長さでサーブを打ち出す角度を決めます。
+r4_c3: How long you hold the button sets the serve angle.
+# ボタンを放すとサーブをします。
+r4_c4: Release the button to serve.
+# パワーゲージ / サーブのパワーを決めます
+r4_power: Power Gauge
+r4_power_t: Sets the serve power.
+# 上下方向ゲージ / サーブを打つ上下角度を決めます
+r4_angle: Angle Gauge
+r4_angle_t: Sets the serve's up/down angle.
+r4_back: Back
+
+# 決戦！炎のスプリントルール＆操作説明
+r9_hdr: Blazing Sprint: Rules & Controls
+r9_h_rule: Rules
+r9_h_ctrl: Controls
+# 短距離競争で、100mのタイムを競います。スピードゲージにあわせて、
+# ボタンをタイミングよく押すことで、加速していきます。
+r9_rule: A sprint race for the best 100 m time. Press the buttons in time with the speed gauge to speed up.
+# スタートのカウントダウンにあわせて、○ボタンか×ボタンを押すと、スタートします。
+# カウントダウンが0になる前にスタートすると、フライングになります。
+r9_c1: Press {i0} or {i1} in time with the countdown to start. Starting before the countdown reaches 0 is a false start.
+# スピードゲージにあわせて、○ボタンか×ボタンをタイミング良く押します。
+r9_c2: Press {i0} or {i1} in time with the speed gauge.
+# 加速
+r9_k1: Speed up
+r9_back: Back
+
+# Doki-Waku-Danceルール＆操作説明
+rA_hdr: Doki-Waku-Dance: Rules & Controls
+rA_h_rule: Rules
+rA_h_ctrl: Controls
+# パートナーが踊る時に光るボタンを覚えておき、自分の番になったら同じボタンを押します。
+# 交互に繰り返して2人の愛情度を高めていってください。
+# ボタンの順番、タイミングが合うと愛情度が上がります。
+rA_rule: Memorize the buttons that light up as your partner dances, then press the same buttons on your turn. Take turns to raise the love between you two. Love goes up when the order and timing match.
+# パートナーがダンスを踊り下のボタンが順番に光ります。
+rA_c1: Watch the buttons below light up as your partner dances.
+# 自分の番になるとボタンが表示されますので、パートナーと同じ順にボタンを押してください。
+rA_c2: On your turn the buttons appear. Press them in the same order as your partner.
+# 愛情ゲージ / 踊りに成功するとゲージが上がります。
+rA_gauge: Love Gauge
+rA_gauge_t: Dance well and the gauge goes up.
+rA_back: Back

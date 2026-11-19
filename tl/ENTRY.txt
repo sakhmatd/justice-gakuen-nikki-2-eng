@@ -1,0 +1,70 @@
+form_title: APPLICATION
+form_examdate: Exam date: 4/1
+form_sei: Last
+form_mei: First
+form_shimei: Name
+form_yobina: Nickname
+form_shibou: School
+form_seibetsu: Sex
+form_seigappi: Birthday
+form_tsuki: /
+form_hi:
+form_kaijou: Exam site
+form_hongaku: Main ( O ) Other (   )
+form_tokui: Best subject
+form_suki: Favorite words
+form_note: * Fill in every field.
+
+sch_taiyo: Taiyo High
+sch_gorin: Gorin High
+sch_pacific: Pacific High
+sch_gedo: Gedo High
+sch_justice: Justice High
+
+sex_m: M
+sex_f: F
+
+subj_0: Eng.
+subj_1: Soc.
+subj_2: Art
+subj_3: Math
+subj_4: Jpn.
+subj_5: Mus.
+subj_6: P.E.
+subj_7: Sci.
+
+word_00: Power
+word_01: Cruel
+word_02: Sneaky
+word_03: Reason
+word_04: Effort
+word_05: Love
+word_06: Honest
+word_07: Guts
+word_08: Comeback
+word_09: Wild
+word_10: Genius
+word_11: Windfall
+word_12: Humble
+word_13: Bold
+word_14: Lazy
+word_15: Bonds
+words_prompt: Choose 3 favorite words
+
+confirm_q: Is everything correct?
+confirm_ok: Submit
+confirm_redo: Redo
+
+btn_0: Hira
+btn_1: Kata
+btn_2: ABC
+btn_3: Delete
+btn_4: Next
+btn_5: Back
+btn_6: OK
+btn_other: Other
+
+face_eyes: Eyes
+face_nose: Nose
+face_mouth: Mouth
+face_type: Face type: SELECT

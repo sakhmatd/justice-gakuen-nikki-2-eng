@@ -1,0 +1,428 @@
+## MGT09 g0 s0000
+JP: やっと昼休みだ、{n}今日はやまぶき商店で{n}パンでも買いに行こうかな。{p}
+EN: Lunch break at last. Maybe I'll go grab a bun at the Yamabuki Store today.{p}
+
+## MGT09 g0 s0001
+JP: おっ!{n}{v3:9}じゃねえか?{n}いい所にいたぜ!{p}
+EN: Oh! If it ain't {v3:9}! Perfect timin'!{p}
+
+## MGT09 g0 s0002
+JP: エッジじゃないか。{n}どうしたんだ?{p}
+EN: Edge. What's up?{p}
+
+## MGT09 g0 s0003
+JP: ちょっと悪いけど{n}やまぶき商店で、パンを{n}買ってきてくんねえかなあ?{p}{end}
+EN: Sorry to bug ya, but could ya go buy me a bun at the Yamabuki Store?{p}{end}
+
+## MGT09 g0 s0004
+JP: えーっ?{n}どうしようかなあ?{p}{end}
+EN: Huh? Should I?{p}{end}
+
+## MGT09 g0 s0005
+JP: いいよ{n}断る{p}{end}
+EN: Sure{n}No way{p}{end}
+
+## MGT09 g0 s0006
+JP: それぐらい自分で行けよな。{p}
+EN: Go get it yourself.{p}
+
+## MGT09 g0 s0007
+JP: そうかよ!{n}わかったよ!{n}つめてえなあ!{n}ちっ!{p}{end}
+EN: Fine! I get it! So cold! Tch!{p}{end}
+
+## MGT09 g0 s0008
+JP: えらく怒らせてしまったけど、{n}この方がエッジのためだ。{n}さあ、自分の昼飯でも{n}買いに行こうっと。{p}{end}
+EN: I made him pretty mad, but this is for his own good. Now, I'll go buy my own lunch.{p}{end}
+
+## MGT09 g0 s0009
+JP: ちょうど行くところだったし、{n}ついでに買ってきてあげるよ。{p}
+EN: I was just heading there anyway, so I'll pick one up for you.{p}
+
+## MGT09 g0 s0010
+JP: そうか!{n}サンキュ!{n}やっぱり持つべきものは{n}なんとかだぜ!{p}{end}
+EN: Yeah?! Thanks! Like they say, a friend in need is a... somethin'!{p}{end}
+
+## MGT09 g0 s0011
+JP: えーっと、どっちを買おうかなあ?{p}{end}
+EN: Hmm, which one should I buy?{p}{end}
+
+## MGT09 g0 s0012
+JP: やきそばパン{n}カレーパン{p}{end}
+EN: Yakisoba bun{n}Curry bun{p}{end}
+
+## MGT09 g0 s0013
+JP: よーし、こっちを買おう!{p}{end}
+EN: All right, I'll get this one!{p}{end}
+
+## MGT09 g0 s0014
+JP: はい、やきそばパン。{n}最後の一個だったよ。{p}
+EN: Here, a yakisoba bun. It was the last one.{p}
+
+## MGT09 g0 s0015
+JP: すまねえなあ。{n}もう腹ペコだぜ。{n}いただきまあーす。{p}{end}
+EN: Thanks a bunch. I'm starvin'. Time to dig in!{p}{end}
+
+## MGT09 g0 s0016
+JP: かーっ!{n}やっぱり、ここのやきそばパンは{n}最高だぜ!{p}{end}
+EN: Kaaah! The yakisoba buns here are the best!{p}{end}
+
+## MGT09 g0 s0017
+JP: サンキュ!{n}これは礼だぜ、とっときな!{p}
+EN: Thanks! Here's somethin' for your trouble. Keep it!{p}
+
+## MGT09 g0 s0018
+JP: {col:0}『エッジのナイフ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Edge's Knife"{col:-}!{p}{end}
+
+## MGT09 g0 s0019
+JP: サンキュー!{n}エッジも、パンを食べてる時は{n}素直な奴なんだなあ。{p}{end}
+EN: Thanks! Edge is a real sweetheart when he's eating, huh.{p}{end}
+
+## MGT09 g0 s0020
+JP: はい、カレーパン。{n}最後の一個だったよ。{p}{end}
+EN: Here, a curry bun. It was the last one.{p}{end}
+
+## MGT09 g0 s0021
+JP: だ、誰がカレーパンなんか{n}頼んだんだよ!{p}{end}
+EN: Wh-who asked for a curry bun!?{p}{end}
+
+## MGT09 g0 s0022
+JP: もうお前には何も頼まねえよ。{n}じゃあな!{p}{end}
+EN: I ain't askin' you for nothin' ever again. Later!{p}{end}
+
+## MGT09 g0 s0023
+JP: わざわざ買ってきて、{n}文句言われるなんて……。{n}カレーパンだっておいしいのに……。{p}
+EN: I went all the way there, and he complains... Curry buns are good too...{p}
+
+## MGT09 g0 s0024
+JP: おっ!{n}{v3:9}じゃねえか?{n}また、いい所にいたぜ!{p}{end}
+EN: Oh! If it ain't {v3:9}! Perfect timin' again!{p}{end}
+
+## MGT09 g0 s0025
+JP: エッジじゃないか。{n}どうしたの?{p}{end}
+EN: Edge. What's up?{p}{end}
+
+## MGT09 g0 s0026
+JP: 今日のオレの髪型{n}キマッてると思わねえか?{p}
+EN: Don'tcha think my hair's lookin' sharp today?{p}
+
+## MGT09 g0 s0027
+JP: えーっ?{p}{end}
+EN: Huh?{p}{end}
+
+## MGT09 g0 s0028
+JP: キマッてると思う{n}思わない{p}
+EN: It looks sharp{n}Not really{p}
+
+## MGT09 g0 s0029
+JP: 昨日の方がキマッてたと思うなあ。{p}{end}
+EN: I think it looked sharper yesterday.{p}{end}
+
+## MGT09 g0 s0030
+JP: そうか、やっぱりな。{n}このヘアスプレーはダメだな。{n}正直に言ってくれてありがとよ。{p}
+EN: Yeah, figured. This hairspray's no good. Thanks for bein' straight with me.{p}
+
+## MGT09 g0 s0031
+JP: 怒ると思ったけど{n}ちゃんと言えば分かってくれたし、{n}正直に言って良かった。{p}
+EN: I thought he'd get mad, but he understood when I told him straight. Glad I was honest.{p}
+
+## MGT09 g0 s0032
+JP: 今日はいつにも増してキマッてるよ。{p}
+EN: It looks sharper than ever today.{p}
+
+## MGT09 g0 s0033
+JP: おめえなあ。{n}そうやって何でもオレに相づち打って{n}ゴキゲンなんかとるなよなあ!{p}
+EN: C'mon, you. Don't just nod along to everythin' to butter me up!{p}
+
+## MGT09 g0 s0034
+JP: ダチなんだから{n}正直に言って欲しかったぜ……。{p}
+EN: We're pals, I wanted the truth...{p}
+
+## MGT09 g0 s0035
+JP: 確かに、{n}正直に言いあえるのが友達だよなあ。{p}{end}
+EN: He's right. Friends can be honest with each other.{p}{end}
+
+## MGT09 g0 s0036
+JP: {v3:9}!{n}待ってたんだぜ!{p}{end}
+EN: {v3:9}! I been waitin' for ya!{p}{end}
+
+## MGT09 g0 s0037
+JP: エッジ!{n}俺を待ってたって?{n}一体どうしたんだよ?{p}
+EN: Edge! You were waiting for me? What's going on?{p}
+
+## MGT09 g0 s0038
+JP: ちょっと屋上行かねえか?{p}{end}
+EN: Wanna come up to the roof for a sec?{p}{end}
+
+## MGT09 g0 s0040
+JP: 一体どうしたんだ?{p}
+EN: So what's up?{p}
+
+## MGT09 g0 s0041
+JP: 前からちょっと{n}気になってたんだけど。{n}オマエはオレの事{n}どう思ってるかなってよ。{p}
+EN: It's been buggin' me for a while. What do ya think of me?{p}
+
+## MGT09 g0 s0042
+JP: エッジの事?{p}{end}
+EN: What I think of you?{p}{end}
+
+## MGT09 g0 s0043
+JP: ああ。{n}どう思ってるか聞きてえんだ。{n}どう思ってる?{p}{end}
+EN: Yeah. I wanna hear what ya think. So?{p}{end}
+
+## MGT09 g0 s0044
+JP: どう思ってるっていったって……。{n}どう答えよう?{p}{end}
+EN: What do I think of him... How should I answer?{p}{end}
+
+## MGT09 g0 s0045
+JP: 好き{n}嫌い{p}
+EN: I like you{n}I hate you{p}
+
+## MGT09 g0 s0046
+JP: す、好きだよ。{p}
+EN: I-I like you.{p}
+
+## MGT09 g0 s0047
+JP: す、好きって、{n}男のくせに変な事言い出すんじゃねえよ!{p}
+EN: L-like!? Don't go sayin' weird stuff when you're a guy!{p}
+
+## MGT09 g0 s0048
+JP: ひょっとして、{n}オマエ変なシュミあるんじゃねえか?{p}
+EN: Wait, you ain't got some weird tastes, do ya?{p}
+
+## MGT09 g0 s0049
+JP: オレはそんなシュミはねえから{n}まっぴらゴメンだぜ!{n}じゃあな!{p}
+EN: I ain't into that kinda thing, so no thanks! Later!{p}
+
+## MGT09 g0 s0050
+JP: 誤解されてしまった……。{p}{end}
+EN: He got the wrong idea...{p}{end}
+
+## MGT09 g0 s0051
+JP: エッジの事なんか{n}嫌いに決まってるだろ!{p}{end}
+EN: Obviously I hate you, Edge!{p}{end}
+
+## MGT09 g0 s0052
+JP: へっ!{n}こっちだっててめえの事なんか{n}大っキライだよ!{p}
+EN: Heh! Well, I hate your guts too!{p}
+
+## MGT09 g0 s0053
+JP: これからもずっと{n}キライでいてやるからな!{n}じゃあな!{p}
+EN: And I'm gonna keep hatin' ya forever! Later!{p}
+
+## MGT09 g0 s0054
+JP: エッジも素直じゃないなあ……。{n}俺もそうだけど……。{p}{end}
+EN: Edge just can't be honest... Not that I can either...{p}{end}
+
+## MGT09 g0 s0055
+JP: ドンドン!{n}ドンドン!{p}
+EN: Bang bang! Bang bang!{p}
+
+## MGT09 g0 s0056
+JP: ん?{sp}なんだ!?{n}玄関の方が騒がしいけど、{n}誰か来たのかな?{p}{end}
+EN: Hm? What!? Something's going on at the front door. Did somebody come over?{p}{end}
+
+## MGT09 g0 s0058
+JP: うるさいなぁ。いったい誰だ?{n}はいはい、どうぞ!{n}開いてますよ!{p}{end}
+EN: Geez, so noisy. Who is it? Yeah, yeah, come in! It's open!{p}{end}
+
+## MGT09 g0 s0059
+JP: ったく、いつまで待たせんだよぉ!?{n}ほら、エッジ様が来てやったぜ?{p}
+EN: Geez, how long ya gonna keep me waitin'!? C'mon, the great Edge came to see ya!{p}
+
+## MGT09 g0 s0060
+JP: お、エッジ。{n}こんな時間に、{n}どうしたんだ、いったい?{p}
+EN: Oh, Edge. What are you doing here at this hour?{p}
+
+## MGT09 g0 s0061
+JP: かーっ、とぼけちゃってまぁ、{n}うれしいくせに!{n}ホラよ、誕生日プレゼント!{p}
+EN: Kaaah, playin' dumb, huh? I know you're happy! Here, a birthday present!{p}
+
+## MGT09 g0 s0062
+JP: あ……、覚えててくれたんだ……。{p}{end}
+EN: Oh... You remembered...{p}{end}
+
+## MGT09 g0 s0063
+JP: またまたぁ、{n}前からそれとなく{n}アピールしてたクセに!!{p}{end}
+EN: Oh, come on, you been droppin' hints for ages!!{p}{end}
+
+## MGT09 g0 s0064
+JP: このエッジ様が{n}気ぃ使ってやらなかったら{n}オマエは淋しい誕生日だったんだろ?{n}感謝しろっつうの。{p}{end}
+EN: If the great Edge hadn't bothered, you'd've had a lonely birthday, right? So be grateful, I'm tellin' ya.{p}{end}
+
+## MGT09 g0 s0065
+JP: ありがとう……プレゼント、{n}あけてもいいかな?{p}
+EN: Thanks... Can I open the present?{p}
+
+## MGT09 g0 s0066
+JP: いいさ、どうせ{n}たいしたもんじゃネェし。{p}{end}
+EN: Sure, it ain't nothin' special anyway.{p}{end}
+
+## MGT09 g0 s0067
+JP: ……これは……ハチマキだな。{p}{end}
+EN: ...This is... a headband.{p}{end}
+
+## MGT09 g0 s0068
+JP: 特攻服に合わせてつける、{n}『ハチマキ』よ。{n}昔、醍醐先輩にもらった、{n}オレの宝物だぜ?{p}
+EN: A headband ya wear with a biker gang uniform. Daigo-senpai gave it to me way back. It's my treasure, y'know?{p}
+
+## MGT09 g0 s0069
+JP: いいのか、そんないいモノもらって?{p}
+EN: Are you sure? Giving me something that great?{p}
+
+## MGT09 g0 s0070
+JP: オレ、新しいのもらったし。{n}お前にも醍醐先輩の気合を{n}分けてやろうと思ってよ。{n}気合が入るぜェ?{p}{end}
+EN: I got a new one. Figured I'd share some of Daigo-senpai's fightin' spirit with ya. It'll fire ya up!{p}{end}
+
+## MGT09 g0 s0071
+JP: エッジ……ありがとう。{p}
+EN: Edge... thanks.{p}
+
+## MGT09 g0 s0072
+JP: よせって。{n}じゃ、オレは帰るぜ。{n}じゃな。{p}
+EN: Cut it out. Well, I'm headin' home. Later.{p}
+
+## MGT09 g0 s0073
+JP: いいヤツだな、エッジって……。{p}
+EN: Edge is a good guy...{p}
+
+## MGT09 g0 s0074
+JP: {col:0}『気合ハチマキ』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Fighting Spirit Headband"{col:-}!{p}
+
+## MGT09 g0 s0075
+JP: ホラよ、誕生日プレゼント!{n}この前、誕生日だったろ?{n}渡せなかったからよ、あん時。{p}
+EN: Here, a birthday present! Your birthday was the other day, right? I couldn't give it to ya back then.{p}
+
+## MGT09 g0 s0076
+JP: あ……、忘れてたワケじゃないんだ……。{p}
+EN: Oh... So you didn't forget...{p}
+
+## MGT09 g0 s0078
+JP: 淋しい誕生日だったんだろ?{n}このエッジ様がプレゼントやるから、{n}感謝しろっつうの。{p}
+EN: You had a lonely birthday, right? The great Edge is givin' you a present, so be grateful, I'm tellin' ya.{p}
+
+## MGT09 g0 s0084
+JP: オレ、新しいのもらったし。{n}気合が入るぜ?{n}お前にも醍醐先輩の気合を{n}分けてやろうと思ってよ。{p}
+EN: I got a new one. It'll fire ya up! Figured I'd share some of Daigo-senpai's fightin' spirit with ya.{p}
+
+## MGT09 g1 s0000
+JP: やっと昼休み、{n}今日はやまぶき商店で{n}パンでも買いに行こうかな。{p}{end}
+EN: Lunch break at last. Maybe I'll go grab a bun at the Yamabuki Store today.{p}{end}
+
+## MGT09 g1 s0002
+JP: エッジじゃない。{n}どうしたの?{p}
+EN: Edge. What's up?{p}
+
+## MGT09 g1 s0004
+JP: えーっ?{n}どうしよう?{p}
+EN: Huh? Should I?{p}
+
+## MGT09 g1 s0006
+JP: それぐらい自分で行きなさいよ。{p}
+EN: Go get it yourself.{p}
+
+## MGT09 g1 s0008
+JP: えらく怒らせちゃったけど、{n}この方が彼のためだわ。{n}さあ、自分の昼ご飯でも{n}買いに行こうっと。{p}
+EN: I made him pretty mad, but this is for his own good. Now, I'll go buy my own lunch.{p}
+
+## MGT09 g1 s0009
+JP: ちょうど行くところだったし、{n}ついでに買ってきてあげるわ。{p}
+EN: I was just heading there anyway, so I'll pick one up for you.{p}
+
+## MGT09 g1 s0013
+JP: ようし、こっちを買おう!{p}{end}
+EN: All right, I'll get this one!{p}{end}
+
+## MGT09 g1 s0014
+JP: はい、やきそばパン。{n}最後の一個だったわよ。{p}{end}
+EN: Here, a yakisoba bun. It was the last one.{p}{end}
+
+## MGT09 g1 s0019
+JP: ありがとう!{n}エッジも、パンを食べてる時は{n}素直な子なんだなあ。{p}{end}
+EN: Thanks! Edge is a real sweetheart when he's eating, huh.{p}{end}
+
+## MGT09 g1 s0020
+JP: はい、カレーパン。{n}最後の一個だったわよ。{p}
+EN: Here, a curry bun. It was the last one.{p}
+
+## MGT09 g1 s0032
+JP: 今日はいつにも増してキマッてるわよ。{p}{end}
+EN: It looks sharper than ever today.{p}{end}
+
+## MGT09 g1 s0035
+JP: 確かに、{n}正直に言いあえるのが友達よねえ。{p}
+EN: He's right. Friends can be honest with each other.{p}
+
+## MGT09 g1 s0037
+JP: エッジ!{n}私を待ってたって?{n}一体どうしたの?{p}
+EN: Edge! You were waiting for me? What's going on?{p}
+
+## MGT09 g1 s0040
+JP: 一体どうしたのよ?{p}
+EN: So what's up?{p}
+
+## MGT09 g1 s0046
+JP: す、好きよ。{p}{end}
+EN: I-I like you.{p}{end}
+
+## MGT09 g1 s0047
+JP: す、好きって、{n}だ、誰がそういう事聞いてんだよ!{n}変な事言い出すんじゃねえよ!{p}
+EN: L-like!? Wh-who asked you that!? Don't go sayin' weird stuff!{p}
+
+## MGT09 g1 s0048
+JP: ひょっとして、{n}オマエ今頭ボケてるんじゃねえか?{p}{end}
+EN: Wait, is your brain out to lunch or somethin'?{p}{end}
+
+## MGT09 g1 s0049
+JP: オレはそんなつもりで聞いたんじゃねえから{n}まっぴらゴメンだぜ!{n}じゃあな!{p}
+EN: That ain't what I meant when I asked, so no thanks! Later!{p}
+
+## MGT09 g1 s0051
+JP: エッジの事なんか{n}嫌いに決まってるでしょ!{p}
+EN: Obviously I hate you, Edge!{p}
+
+## MGT09 g1 s0054
+JP: エッジも素直じゃないわねえ……。{n}私もそうだけど……。{p}
+EN: Edge just can't be honest... Not that I can either...{p}
+
+## MGT09 g1 s0056
+JP: ん?{sp}なになに!?{n}玄関の方が騒がしいけど、{n}誰か来たのかナ?{p}
+EN: Hm? What's that!? Something's going on at the front door. Did somebody come over?{p}
+
+## MGT09 g1 s0058
+JP: うるさいわねぇ。いったい誰かしら?{n}はいはい、どうぞ!{n}開いてますよ!{p}
+EN: Geez, so noisy. Who could it be? Yes, yes, come in! It's open!{p}
+
+## MGT09 g1 s0060
+JP: ああ、エッジじゃない。{n}こんな時間に、{n}どうしたの、いったい?{p}
+EN: Oh, it's Edge. What are you doing here at this hour?{p}
+
+## MGT09 g1 s0065
+JP: ありがと……プレゼント、{n}あけてもいい?{p}{end}
+EN: Thanks... Can I open the present?{p}{end}
+
+## MGT09 g1 s0067
+JP: ……これは……ハチマキ?{p}{end}
+EN: ...This is... a headband?{p}{end}
+
+## MGT09 g1 s0069
+JP: いいの、そんないいモノ{n}もらっちゃって?{p}{end}
+EN: Are you sure? Giving me something that great?{p}{end}
+
+## MGT09 g1 s0071
+JP: エッジ……ありがと。{p}{end}
+EN: Edge... thanks.{p}{end}
+
+## MGT09 g1 s0073
+JP: ふふ、強がってるけど、{n}いい人よね、エッジって……。{p}{end}
+EN: Hehe, he acts tough, but Edge is a good guy...{p}{end}
+
+## MGT09 g1 s0075
+JP: ホラよ、誕生日プレゼント!{n}このまえ、誕生日だったろ?{n}渡せなかったからよ、あん時。{p}{end}
+EN: Here, a birthday present! Your birthday was the other day, right? I couldn't give it to ya back then.{p}{end}
+
+## MGT09 g1 s0076
+JP: あ……、忘れてたワケじゃ{n}なかったのね……。{p}{end}
+EN: Oh... So you didn't forget...{p}{end}
+

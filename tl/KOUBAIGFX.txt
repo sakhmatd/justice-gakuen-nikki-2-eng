@@ -1,0 +1,16 @@
+# JP: 購買部
+store_hdr: School Store
+# JP: 現在のポイント
+points_lbl: Points
+
+# JP: 購買部へ行く
+menu_store: Go to the School Store
+# JP: 購入したおまけの一覧
+menu_list: View Purchased Extras
+# JP: モードメニューに戻る
+menu_back: Back to Mode Menu
+# JP: 購買部
+menu_store2: School Store
+
+# JP: おまけ
+logo: Extras

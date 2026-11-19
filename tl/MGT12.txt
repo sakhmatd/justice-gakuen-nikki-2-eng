@@ -1,0 +1,724 @@
+## MGT12 g0 s0000
+JP: 放課後。{n}ちょっと遅くなったな。{n}早く帰ろう。{p}
+EN: After school. It's gotten kinda late. Better head home.{p}
+
+## MGT12 g0 s0001
+JP: {face:15}・・・・・・・・・・{face:255}{n}ん?{sp}川の方から、{n}女の子の声がするぞ?{p}
+EN: {face:15}..........{face:255} Hm? I hear a girl's voice from the river?{p}
+
+## MGT12 g0 s0002
+JP: {col:3}女の子{col:-}{n}「誰か助けてーーーっ!」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Somebody heeelp!!!"{p}{end}
+
+## MGT12 g0 s0003
+JP: 女の子が、川で溺れてる!!{n}川の流れがちょっと速いみたいだぞ!{n}どうしよう!?{p}
+EN: A girl's drowning in the river!! The current looks pretty fast! What do I do!?{p}
+
+## MGT12 g0 s0004
+JP: 助ける{n}人を呼びに行く{p}
+EN: Save her{n}Go get help{p}
+
+## MGT12 g0 s0005
+JP: {face:1}すぐに助けないと!{n}今行くぞ!{face:255}{n}……流れがちょっと急だけど、{n}大丈夫か!?{p}
+EN: {face:1}I've gotta save her now! Hang on!{face:255} ...The current's pretty fast, though. Will I be OK!?{p}
+
+## MGT12 g0 s0006
+JP: {face:1}……と、一瞬ためらった時!{face:255}{p}
+EN: {face:1}...Just as I hesitated for a moment!{face:255}{p}
+
+## MGT12 g0 s0007
+JP: {face:1}あの流れじゃ、俺じゃムリだ!{n}誰か大人を呼びに行こう!{n}早くしないと、ホントに溺れてしまう!!{face:255}{p}
+EN: {face:1}I can't handle a current like that! I'll go get a grown-up! If I don't hurry, she'll really drown!!{face:255}{p}
+
+## MGT12 g0 s0008
+JP: {face:1}……と、走り出した時!{face:255}{p}
+EN: {face:1}...Just as I started running!{face:255}{p}
+
+## MGT12 g0 s0009
+JP: ザブーーーン!!{p}{end}
+EN: SPLAAASH!!{p}{end}
+
+## MGT12 g0 s0010
+JP: 誰かが、橋から飛び込んだ!{n}あれは……流さんだ!{p}{end}
+EN: Someone dove off the bridge! That's... Nagare-san!{p}{end}
+
+## MGT12 g0 s0011
+JP: さすが流さん、あっという間に{n}流される女の子に追いついた。{n}溺れた人を助けて泳ぐのは難しいって{n}聞くけど、さすがに器用に泳ぐなぁ。{p}
+EN: That's Nagare-san for you. He caught up with the girl in no time. I hear swimming with a drowning person is hard, but he makes it look easy.{p}
+
+## MGT12 g0 s0012
+JP: ……こちらの岸に泳ぎ着いてきた。{n}よかった、子供は無事みたいだ。{n}意識もあるみたいだし、{n}水もそれほど飲んでないみたいだ。{p}
+EN: ...He's swum back to this bank. Phew, the kid looks OK. She seems conscious, and she didn't swallow much water.{p}
+
+## MGT12 g0 s0013
+JP: {col:3}女の子{col:-}{n}「わーーん、{n}{sp}こわかったよお!!」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Waaah, I was so scared!!"{p}{end}
+
+## MGT12 g0 s0014
+JP: 女の子の母親が抱いてあげてる……。{n}あれ、流さんは?{p}{end}
+EN: The girl's mother is hugging her... Huh, where's Nagare-san?{p}{end}
+
+## MGT12 g0 s0016
+JP: 流さん……?{n}女の子のお母さんが{n}探してるみたいですよ?{p}{end}
+EN: Nagare-san...? The girl's mom seems to be looking for you, you know?{p}{end}
+
+## MGT12 g0 s0017
+JP: …………行こう……。{p}{end}
+EN: ......Let's go...{p}{end}
+
+## MGT12 g0 s0018
+JP: 行こうって……{n}どこに行くんですか!?{p}
+EN: Go...? Go where!?{p}
+
+## MGT12 g0 s0019
+JP: 流さん!{n}なんで逃げるんですか?{p}{end}
+EN: Nagare-san! Why are you running away?{p}{end}
+
+## MGT12 g0 s0020
+JP: …………別に……{n}逃げてるわけじゃない……。{n}彼女は助かった……{n}それで十分だろう……。{p}{end}
+EN: ......I'm not... running away... She's safe... That's enough...{p}{end}
+
+## MGT12 g0 s0021
+JP: そりゃそうですけど。{n}でもさすがですね。{n}あんなに手際よく助けるなんて。{p}{end}
+EN: Well, sure. But that was amazing. You saved her so smoothly.{p}{end}
+
+## MGT12 g0 s0022
+JP: 溺れてる人を助けるのって、{n}難しいらしいですよ。{n}しかもあの流れですから。{p}
+EN: They say saving someone who's drowning is really hard. And in that current, too.{p}
+
+## MGT12 g0 s0023
+JP: 俺も飛び込もうと思ったんですが、{n}一瞬ためらっちゃいましたよ。{p}
+EN: I thought about jumping in too, but I hesitated for a second.{p}
+
+## MGT12 g0 s0024
+JP: …………助けて泳ぐにはコツがいる。{n}ムリしなくてよかったな……。{p}{end}
+EN: ......Swimming with someone in tow takes a knack. Good thing you didn't push it...{p}{end}
+
+## MGT12 g0 s0025
+JP: …………助けようとして、{n}逆に溺れた例も多い……。{n}素人なら……人を呼ぶか、捕まれるモノを{n}投げた方が賢明だ……。{p}
+EN: ......Lots of people drown trying to save someone... An amateur should... call for help, or throw something to grab onto... That's smarter...{p}
+
+## MGT12 g0 s0026
+JP: ……そうですか……。{n}今度からそうします。{p}
+EN: ...I see... I'll do that from now on.{p}
+
+## MGT12 g0 s0027
+JP: 俺にはちょっと自信なかったから……、{n}人を呼ぼうとした時に、{n}流さんが飛び込んでくれたんで……。{p}{end}
+EN: I wasn't very confident... so I was about to call for help when you jumped in, Nagare-san...{p}{end}
+
+## MGT12 g0 s0028
+JP: …………賢明だな。{n}素人が、溺れている人を助けて泳ぐには、{n}ちょっとコツがいる……。{p}{end}
+EN: ......Smart... For an amateur, swimming with a drowning person takes a bit of a knack...{p}{end}
+
+## MGT12 g0 s0029
+JP: …………泳ぎに自信がないなら、{n}人を呼ぶか、捕まれるモノを{n}投げるべきだ……。{p}
+EN: ......If you're not confident in the water, call for help or throw something to grab onto...{p}
+
+## MGT12 g0 s0030
+JP: なるほど……、{n}じゃ間違ってなかったんですね。{n}よかった。{p}
+EN: I see... So I didn't do anything wrong. Good.{p}
+
+## MGT12 g0 s0031
+JP: …………飛び込まなければ、{n}どうしようもない状況というのも……{n}あるがな……。{p}
+EN: ......Though sometimes... there's no choice but to jump in...{p}
+
+## MGT12 g0 s0032
+JP: しかし人一人の命を助けたのに、{n}流さん、全然普通ですね。{p}{end}
+EN: But you just saved someone's life, and you're acting like it's nothing, Nagare-san.{p}{end}
+
+## MGT12 g0 s0033
+JP: …………そうか……?{n}……そうか……{n}命を助けたのだったな……。{n}忘れていた……。{p}
+EN: ......Am I...? ...Right... I saved a life... I forgot...{p}
+
+## MGT12 g0 s0034
+JP: ふふっ、流さんらしいな。{p}{end}
+EN: Heh, that's so Nagare-san.{p}{end}
+
+## MGT12 g0 s0035
+JP: 放課後。{n}さてと……そろそろ帰るかな。{n}あ、あの正門のトコロにいるのは……{n}流さんだな。{p}{end}
+EN: After school. Well... time to head home. Oh, that's... Nagare-san at the main gate.{p}{end}
+
+## MGT12 g0 s0036
+JP: 流さーーーん!!{n}今帰りですか?{p}{end}
+EN: Nagare-saaan!! Heading home?{p}{end}
+
+## MGT12 g0 s0037
+JP: …………ああ……。{n}……{v4:18}か……。{p}{end}
+EN: ......Yeah... ...It's you, {v4:18}...{p}{end}
+
+## MGT12 g0 s0038
+JP: いっしょに帰りましょう……。{n}そういえば、ちょっと前の、{n}溺れた子供を助けた話、{n}新聞に載ってましたね。{p}{end}
+EN: Let's walk home together... By the way, that story about you saving the drowning kid a while back made the paper.{p}{end}
+
+## MGT12 g0 s0040
+JP: たしか……{n}「助けた青年は名前も告げずに、{n}{sp}立ち去った……」{n}みたいなコト書かれてましたよ。{p}
+EN: It said something like "The young man who saved her left without even giving his name..."{p}
+
+## MGT12 g0 s0042
+JP: ……で、流さんの泳ぎを見て、{n}俺も水泳を習おうかと思うんですよ。{n}水着を買いに行くんですが、{n}つきあってもらえませんか?{p}{end}
+EN: ...So, seeing you swim, Nagare-san, I'm thinking of learning to swim too. I'm going to buy a swimsuit. Would you come with me?{p}{end}
+
+## MGT12 g0 s0043
+JP: …………いいことだ……。{p}{end}
+EN: ......That's good...{p}{end}
+
+## MGT12 g0 s0044
+JP: じゃ、水着は流さんのおススメの{n}これにしますね。{n}……流さんは、水着買わないんですか?{n}お礼に一着、プレゼントしますよ。{p}{end}
+EN: Then I'll go with this one you recommended, Nagare-san. ...Aren't you buying a swimsuit? Let me get you one, as thanks.{p}{end}
+
+## MGT12 g0 s0045
+JP: …………そうだな……。{n}見立ててくれるか……?{p}
+EN: ......I see... Will you pick one out for me...?{p}
+
+## MGT12 g0 s0046
+JP: （そうだな、せっかくのプレゼントだし……{n}{sp}どれにしてみるかな?）{p}
+EN: (Well, it's a present, after all... Which one should I go for?){p}
+
+## MGT12 g0 s0047
+JP: ハデめのトランクス{n}セクシーなビキニタイプ{n}やっぱり競泳用{p}
+EN: Flashy trunks{n}Sexy bikini briefs{n}A racing suit, as usual{p}
+
+## MGT12 g0 s0048
+JP: （適当なトコロでトランクスかな?{n}{sp}いくら流さんでも{n}{sp}プライベートならトランクスだろ。）{p}
+EN: (Trunks are a safe bet? Even Nagare-san must wear trunks off duty.){p}
+
+## MGT12 g0 s0049
+JP: 流さん、こんな感じで{n}どうですか?{n}ファッショナブルな感じで。{p}
+EN: Nagare-san, how about something like this? Kinda fashionable.{p}
+
+## MGT12 g0 s0051
+JP: （あいかわらず、反応が薄いなぁ。{n}{sp}まぁいいか、これで。）{p}
+EN: (As low-key a reaction as ever. Oh well, this'll do.){p}
+
+## MGT12 g0 s0052
+JP: （普段が競泳用だから……、{n}{sp}やっぱりビキニタイプかな……。{n}{sp}お、ここまでセクシーなのもいいかも。{n}{sp}ブーメランってヤツ?）{p}
+EN: (He always wears a racing suit... so maybe bikini briefs... Ooh, one this sexy might be good. Is this what they call a "boomerang"?){p}
+
+## MGT12 g0 s0053
+JP: 流さん、こんな感じでどうですか?{n}ちょっとセクシーな大人の魅力って{n}感じで。{p}{end}
+EN: Nagare-san, how about this? Got a sexy, grown-up kind of charm.{p}{end}
+
+## MGT12 g0 s0055
+JP: （う～ん、いつもと{n}{sp}同じリアクションだなぁ。{n}{sp}ちょっとは別のリアクションを{n}{sp}期待してたんだけど……）{p}
+EN: (Hmm, same reaction as always. I was hoping for something a little different...){p}
+
+## MGT12 g0 s0056
+JP: （やっぱり、いつも通り、{n}{sp}競泳用かな。{n}{sp}色も、流さんが好きそうな、{n}{sp}ライトグリーンくらいにして、と。）{p}{end}
+EN: (A racing suit, like always, I guess. And in a color he'd like... light green, maybe.){p}{end}
+
+## MGT12 g0 s0057
+JP: 流さん、{n}こんな感じでいいですか?{n}流さんの好みにあわせたつもりですけど。{p}
+EN: Nagare-san, is this OK? I tried to go with your taste.{p}
+
+## MGT12 g0 s0058
+JP: …………ああ……そうだな。{n}……それにしよう。{p}
+EN: ......Yeah... That's good. ...I'll take that one.{p}
+
+## MGT12 g0 s0059
+JP: （やっぱり気に入ってくれたみたいだ。{n}{sp}よかった、適当なトコロに{n}{sp}しておいて……）{p}{end}
+EN: (Looks like he liked it after all. Glad I went with something sensible...){p}{end}
+
+## MGT12 g0 s0060
+JP: じゃ、これにしますね。{n}ちょっと買ってきます。{p}
+EN: OK, I'll get this one. Be right back.{p}
+
+## MGT12 g0 s0061
+JP: 今日はすみません、買い物に{n}つきあわせちゃって……。{p}{end}
+EN: Sorry for dragging you along shopping today...{p}{end}
+
+## MGT12 g0 s0062
+JP: ……いや、礼をいうのは僕の方だ。{n}たいしたことはしていない……{n}……ライフセービングの方も、{n}中途半端にならないよう、がんばれ……。{p}{end}
+EN: ...No, I'm the one who should thank you. I didn't do much... ...Keep at the lifesaving, too... Don't stop halfway...{p}{end}
+
+## MGT12 g0 s0063
+JP: はい……、がんばります。{p}{end}
+EN: Yes... I'll do my best.{p}{end}
+
+## MGT12 g0 s0064
+JP: 放課後……。{n}ちょっと時間があるから、{n}河原の方を通って帰ろう。{p}{end}
+EN: After school... I've got some time, so I'll head home along the riverbank.{p}{end}
+
+## MGT12 g0 s0067
+JP: また、女の子が川で溺れてるみたいだ!{p}{end}
+EN: Looks like another girl is drowning in the river!{p}{end}
+
+## MGT12 g0 s0068
+JP: 流さんは、人を呼ぶか、捕まれるモノを{n}投げろっていってたな!{n}周りに人……いない。{n}投げるモノは……見あたらない。クソッ!{p}
+EN: Nagare-san said to call for help or throw something to grab onto! Anyone around... nobody. Something to throw... nothing. Damn it!{p}
+
+## MGT12 g0 s0069
+JP: しかたない、自分で飛び込む!{n}それでも人を呼びにいく{p}{end}
+EN: No choice, I'll jump in myself!{n}Go get help anyway{p}{end}
+
+## MGT12 g0 s0070
+JP: しかたない!{n}流さんも、どうしようもない状況もあるって{n}いってるし、俺も少しは泳ぎを習ってるし、{n}飛び込もう!!{p}{end}
+EN: No choice! Nagare-san said sometimes there's no other way, and I've had some swimming lessons. I'm jumping in!!{p}{end}
+
+## MGT12 g0 s0072
+JP: 一応、最近の練習のおかげか、{n}流れの速さもそれほど苦にならない……{n}あと……少し……。{p}
+EN: Maybe it's my recent practice, but the fast current isn't that bad... Just... a little... more...{p}
+
+## MGT12 g0 s0073
+JP: ……よしっ!{sp}女の子の手をつかんだ!!{p}
+EN: ...Yes! I've got her hand!!{p}
+
+## MGT12 g0 s0074
+JP: うわっ!{sp}女の子が必死になって{n}つかまってきた!{n}これじゃ……泳げない!{p}{end}
+EN: Whoa! She's clinging to me in a panic! I... can't swim like this!{p}{end}
+
+## MGT12 g0 s0075
+JP: ゴボッ!{sp}これが難しい理由かっ!?{n}ゲボッ!{sp}身体の自由が……!{n}し、沈む……。{p}{end}
+EN: Glub! So this is why it's hard!? Gack! I can't move...! I-I'm sinking...{p}{end}
+
+## MGT12 g0 s0076
+JP: この子だけでも……{n}助けないと……{n}…………{n}ブクブクブクブク……。{p}{end}
+EN: I've gotta... at least save her... ...... Blub blub blub blub...{p}{end}
+
+## MGT12 g0 s0078
+JP: 「…………{v4:18}……{n}{sp}……{v4:18}……」{p}{end}
+EN: "......{v4:18}... ...{v4:18}..."{p}{end}
+
+## MGT12 g0 s0079
+JP: …………{v4:18}……!{n}大丈夫か!?{n}……{v4:18}!{p}{end}
+EN: ......{v4:18}...! Are you all right!? ...{v4:18}!{p}{end}
+
+## MGT12 g0 s0080
+JP: う、う……ん……。{n}流さん……?{n}……俺は……?{p}{end}
+EN: Uh... ugh... Nagare-san...? ...What happened to me...?{p}{end}
+
+## MGT12 g0 s0081
+JP: …………大丈夫か?{n}{v4:18}。{n}たまたま通りかかったら、{n}お前が溺れそうになってたからな、{p}
+EN: ......You OK? {v4:18}. I happened to be passing by, and you were about to drown,{p}
+
+## MGT12 g0 s0082
+JP: 俺が飛び込んでな……、{n}……まったくびっくりしたぞ……。{n}しかし無事でよかったな……。{n}あんまりムチャをするな……。{p}{end}
+EN: so I jumped in... ...You really scared me... But I'm glad you're safe... Don't do anything that reckless...{p}{end}
+
+## MGT12 g0 s0083
+JP: 流さんが助けてくれたんですか……。{n}……そうだ、あの女の子は……?{p}
+EN: You saved me, Nagare-san... ...Oh, right, what about the girl...?{p}
+
+## MGT12 g0 s0084
+JP: ……もちろん無事だ。{n}お前のおかげだ。自分が溺れながら{n}あの子を差し上げていたから、{n}あんまり水も飲んでいないし……。{p}
+EN: ...She's fine, of course. Thanks to you. You held her up even while you were going under, so she didn't swallow much water...{p}
+
+## MGT12 g0 s0085
+JP: そんなこと……したかな……?{n}したような気も……{n}ただ必死だったから……。{p}
+EN: Did I... do that...? I feel like I did... I was just desperate...{p}
+
+## MGT12 g0 s0086
+JP: …………何にしても、{n}無事でなによりだ……。{n}一時はどうなるかと思ったが……、{n}寿命が縮んだぞ、俺は。{p}
+EN: ......Either way, I'm just glad you're safe... For a moment there, I didn't know what would happen... You took years off my life.{p}
+
+## MGT12 g0 s0087
+JP: ありがとうございました。{n}心配かけちゃいましたね……。{p}
+EN: Thank you. I'm sorry I worried you...{p}
+
+## MGT12 g0 s0088
+JP: …………まったくだ……。{p}{end}
+EN: ......You sure did...{p}{end}
+
+## MGT12 g0 s0089
+JP: （前に女の子を助けたときは、{n}{sp}全然クールだったのに、{n}{sp}今回はこんなに取り乱してる……{n}{sp}流さん……）{p}{end}
+EN: (When he saved the girl before, he was totally cool, but this time he's this shaken up... Nagare-san...){p}{end}
+
+## MGT12 g0 s0090
+JP: …………そうだ、{n}コレをやろう。{n}水難防止のお守りだ。{p}
+EN: ......Right, take this. A charm against drowning.{p}
+
+## MGT12 g0 s0091
+JP: これは……流さんとおそろいの{n}『水中メガネ』ですね。{n}いいんですか?{p}{end}
+EN: These are... swim goggles, just like yours, Nagare-san. Are you sure?{p}{end}
+
+## MGT12 g0 s0092
+JP: …………ああ……{n}使ってくれ……。{n}まだ水泳を続ける意志があるなら、{n}必要だろう……。{p}
+EN: ......Yeah... Use them... If you still mean to keep swimming, you'll need them...{p}
+
+## MGT12 g0 s0093
+JP: ……流さん……。{n}ありがとうございます。{p}{end}
+EN: ...Nagare-san... Thank you.{p}{end}
+
+## MGT12 g0 s0094
+JP: …………よせ……。{n}照れる……。{p}{end}
+EN: ......Stop it... You're embarrassing me...{p}{end}
+
+## MGT12 g0 s0095
+JP: {col:0}『水中メガネ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Swim Goggles"{col:-}!{p}{end}
+
+## MGT12 g0 s0096
+JP: 中途半端な技術で助けにいくのは、{n}危険だ。誰かいればいいんだけど……。{p}
+EN: Going in to save her with half-baked skills is dangerous. If only someone were around...{p}
+
+## MGT12 g0 s0097
+JP: 誰かーーー!{sp}子供が溺れています!!{n}助けてくださーーい!{n}ああもうっ、時間がないのに……!{p}{end}
+EN: Somebody!!! A kid is drowning!! Please help!!! Argh, there's no time...!{p}{end}
+
+## MGT12 g0 s0098
+JP: しかたない、人を探しに行こう!{p}
+EN: No choice, I'll go find someone!{p}
+
+## MGT12 g0 s0099
+JP: {face:15}・・・・・・・・・・{face:255}{n}そのあたりをまわってみたが、{n}誰もいない。{n}これ以上時間がたつと間に合わない!{p}{end}
+EN: {face:15}..........{face:255} I looked around the area, but nobody's here. Any longer and it'll be too late!{p}{end}
+
+## MGT12 g0 s0100
+JP: ……もどってみると……、{n}いつの間にか子供は助けられていた……。{n}目撃者の話では、{n}また流さんだったらしい。{p}{end}
+EN: ...When I got back... the kid had already been rescued... According to witnesses, it was Nagare-san again.{p}{end}
+
+## MGT12 g0 s0101
+JP: 今回も名前をいわずに立ち去ったらしいが、{n}特徴から判断すると、流さんに{n}間違いない……。{n}さすがだな……あの人。{p}{end}
+EN: Seems he left without giving his name again, but from the description, it was Nagare-san for sure... That's him for you...{p}{end}
+
+## MGT12 g0 s0102
+JP: ……コンコン。{n}……コンコンコン。{p}
+EN: ...Knock knock. ...Knock knock knock.{p}
+
+## MGT12 g0 s0103
+JP: ……ん?{n}玄関の方からドアをノックする音が……{n}誰か来たのかな?{p}{end}
+EN: ...Hm? Someone's knocking at the front door... Did someone come over?{p}{end}
+
+## MGT12 g0 s0104
+JP: コンコン。{n}コンコンコン。{p}
+EN: Knock knock. Knock knock knock.{p}
+
+## MGT12 g0 s0105
+JP: どうやら、誰か来たみたいだ。{n}……どうしてチャイムを{n}ならさないんだろう?{p}
+EN: Looks like someone's here. ...Why don't they ring the bell?{p}
+
+## MGT12 g0 s0106
+JP: 流さん?{n}どうしたんですか、こんな時間に。{p}
+EN: Nagare-san? What's up, at this hour?{p}
+
+## MGT12 g0 s0107
+JP: …………いや……、{n}別に……。{p}
+EN: ......No... Nothing really...{p}
+
+## MGT12 g0 s0108
+JP: 何か……俺にご用ですか?{n}ええと……。{p}
+EN: Did you... need something from me? Um...{p}
+
+## MGT12 g0 s0109
+JP: …………じゃましたな。{p}
+EN: ......Sorry to bother you.{p}
+
+## MGT12 g0 s0110
+JP: え?{sp}あの、流さん?{n}…………いっちゃった。{n}なんだったんだろう、いったい……。{p}{end}
+EN: Huh? Um, Nagare-san? ......He left. What was that all about...{p}{end}
+
+## MGT12 g0 s0111
+JP: ん?{sp}この紙袋は……{n}流さんの忘れ物かな……?{n}中身を確認しないと{n}なんともいえないな……。{p}{end}
+EN: Hm? This paper bag... Did Nagare-san forget it...? I can't tell without checking what's inside...{p}{end}
+
+## MGT12 g0 s0112
+JP: どれどれ……ん?{n}メモが入っているぞ。{n}ええと……一言、「誕生日」だけ{n}書いて、やめたみたいだ。{p}{end}
+EN: Let's see... Hm? There's a note in here. Um... He wrote just one word, "Birthday," and stopped there.{p}{end}
+
+## MGT12 g0 s0113
+JP: う～ん、これはやっぱり{n}俺への誕生日プレゼントと{n}解釈していいのだろうか?{p}
+EN: Hmm, so can I take this as a birthday present for me?{p}
+
+## MGT12 g0 s0114
+JP: 中身は……『シュノーケル』だ?{n}……これは……俺にいったい、{n}どうしろというんだろう?{p}
+EN: Inside is... a snorkel? ...What is he trying to tell me with this?{p}
+
+## MGT12 g0 s0115
+JP: 「お前もたまには息継ぎしろ」……、{n}違うなぁ。むしろ、{n}「息継ぎなしでがんばれ」……、{n}とか?{sp}う～ん、謎だ。{p}
+EN: "Take a breather once in a while"... Nah. More like "Keep going without coming up for air"...? Hmm, it's a mystery.{p}
+
+## MGT12 g0 s0116
+JP: {col:0}『シュノーケル』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Snorkel"{col:-}!{p}
+
+## MGT12 g0 s0123
+JP: どれどれ……ん?{n}メモが入っているぞ。{n}ええと……「遅れたが、誕生日」とだけ{n}書いて、やめたみたいだ。{p}
+EN: Let's see... Hm? There's a note in here. Um... He wrote just "Late, but... birthday," and stopped there.{p}
+
+## MGT12 g0 s0124
+JP: う～ん、この前俺の誕生日だったし……、{n}これはやっぱり俺への{n}誕生日プレゼントと{n}解釈していいのだろうか?{p}
+EN: Hmm, my birthday was the other day... so can I take this as a birthday present for me?{p}
+
+## MGT12 g1 s0000
+JP: 放課後。{n}ちょっと遅くなったわ。{n}早く帰ろうっと。{p}
+EN: After school. It's gotten kinda late. Better head home.{p}
+
+## MGT12 g1 s0001
+JP: {face:15}・・・・・・・・・・{face:255}{n}あら?{sp}川の方から、{n}女の子の声がするわ?{p}{end}
+EN: {face:15}..........{face:255} Huh? I hear a girl's voice from the river?{p}{end}
+
+## MGT12 g1 s0003
+JP: 女の子が、川で溺れてるわ!!{n}川の流れがちょっと速いみたい!{n}どうしよう!?{p}{end}
+EN: A girl's drowning in the river!! The current looks pretty fast! What do I do!?{p}{end}
+
+## MGT12 g1 s0005
+JP: {face:1}すぐに助けないと!{n}今行くわよ!{face:255}{n}……流れがちょっと急だけど、{n}大丈夫かナ!?{p}
+EN: {face:1}I've gotta save her now! Hang on!{face:255} ...The current's pretty fast, though. Will I be OK!?{p}
+
+## MGT12 g1 s0007
+JP: {face:1}あの流れじゃ、私じゃムリね!{n}誰か大人を呼びに行かないと!{n}早くしないと、ホントに溺れちゃう!!{face:255}{p}{end}
+EN: {face:1}I can't handle a current like that! I need to get a grown-up! If I don't hurry, she'll really drown!!{face:255}{p}{end}
+
+## MGT12 g1 s0010
+JP: 誰かが、橋から飛び込んだわ!{n}あれは……流先輩ね!{p}
+EN: Someone dove off the bridge! That's... Nagare-senpai!{p}
+
+## MGT12 g1 s0011
+JP: さすが流先輩、あっという間に{n}流される女の子に追いついたわ!{n}溺れた人を助けて泳ぐのは難しいって{n}聞くけど、さすがに器用ね。{p}{end}
+EN: That's Nagare-senpai for you. He caught up with the girl in no time! I hear swimming with a drowning person is hard, but he makes it look easy.{p}{end}
+
+## MGT12 g1 s0012
+JP: ……こちらの岸に泳ぎ着いてきたわ。{n}よかった、子供は無事みたいね。{n}意識もあるみたいだし、{n}水もそれほど飲んでないみたい。{p}
+EN: ...He's swum back to this bank. Phew, the kid looks OK. She seems conscious, and she didn't swallow much water.{p}
+
+## MGT12 g1 s0014
+JP: 女の子の母親が抱いてあげてる……。{n}あれ、流先輩は?{p}{end}
+EN: The girl's mother is hugging her... Huh, where's Nagare-senpai?{p}{end}
+
+## MGT12 g1 s0016
+JP: 流先輩……?{n}女の子のお母さんが{n}探してるみたいですよ?{p}{end}
+EN: Nagare-senpai...? The girl's mom seems to be looking for you, you know?{p}{end}
+
+## MGT12 g1 s0019
+JP: 流先輩!{n}なんで逃げるんですか?{p}{end}
+EN: Nagare-senpai! Why are you running away?{p}{end}
+
+## MGT12 g1 s0021
+JP: そりゃそうですけど……。{n}でもさすがですネ。{n}あんなに手際よく助けるなんて。{p}{end}
+EN: Well, sure... But that was amazing. You saved her so smoothly.{p}{end}
+
+## MGT12 g1 s0023
+JP: 私も飛び込もうと思ったんですけど、{n}一瞬ためらっちゃいました。{p}
+EN: I thought about jumping in too, but I hesitated for a second.{p}
+
+## MGT12 g1 s0026
+JP: ……そうなんですか……。{n}今度からそうしますネ。{p}{end}
+EN: ...Is that right... I'll do that from now on.{p}{end}
+
+## MGT12 g1 s0027
+JP: 私にはちょっと自信なかったから……、{n}人を呼ぼうとした時に、{n}流先輩が飛び込んでくれたから……。{p}{end}
+EN: I wasn't very confident... so I was about to call for help when you jumped in, Nagare-senpai...{p}{end}
+
+## MGT12 g1 s0032
+JP: でも人一人の命を助けたのに、{n}流先輩、全然普通ですねぇ。{p}{end}
+EN: But you just saved someone's life, and you're acting like it's nothing, Nagare-senpai.{p}{end}
+
+## MGT12 g1 s0034
+JP: ふふっ、流先輩らしいわ。{p}{end}
+EN: Hehe, that's so Nagare-senpai.{p}{end}
+
+## MGT12 g1 s0035
+JP: 放課後。{n}さてと……そろそろ帰ろうかな。{n}あ、あの正門のトコロにいるのは……{n}流先輩ね。{p}{end}
+EN: After school. Well... guess I'll head home. Oh, that's... Nagare-senpai at the main gate.{p}{end}
+
+## MGT12 g1 s0036
+JP: 流先パーーーイ!!{n}今帰りですか?{p}
+EN: Nagare-senpaaai!! Heading home?{p}
+
+## MGT12 g1 s0037
+JP: …………ああ……。{n}……{v7:18}か……。{p}{end}
+EN: ......Yeah... ...It's you, {v7:18}...{p}{end}
+
+## MGT12 g1 s0038
+JP: いっしょに帰りません……?{n}そういえば、ちょっと前の、{n}溺れた子供を助けた話、{n}新聞に載ってましたね。{p}
+EN: Want to walk home together...? By the way, that story about you saving the drowning kid a while back made the paper.{p}
+
+## MGT12 g1 s0042
+JP: ……で、流先輩の泳ぎを見て、{n}私も水泳を習おうかと思うんです。{n}水着を買いに行くトコロなんですが、、{n}つきあってもらえませんか?{p}{end}
+EN: ...So, seeing you swim, Nagare-senpai, I'm thinking of learning to swim too. I'm on my way to buy a swimsuit. Would you come with me?{p}{end}
+
+## MGT12 g1 s0044
+JP: どんな水着がいいかな……。{n}ね、流先輩、どんな水着、{n}好きですか?{p}
+EN: What kind of swimsuit should I get... Hey, Nagare-senpai, what kind of swimsuits do you like?{p}
+
+## MGT12 g1 s0046
+JP: （なんか、予想通りの答え……。{n}{sp}しかたないか……。{n}{sp}……どれにしようかな……）{p}
+EN: (Kind of the answer I expected... Oh well... Which one should I pick...){p}
+
+## MGT12 g1 s0047
+JP: ワンピース{n}ビキニ{n}競泳用{p}
+EN: One-piece{n}Bikini{n}Racing suit{p}
+
+## MGT12 g1 s0048
+JP: （適当なトコロでワンピースね。{n}{sp}普通に、こんなカンジでいいかな……{n}{sp}流先輩はなんていうかな?）{p}
+EN: (A one-piece is a safe bet. Something ordinary like this should do... What'll Nagare-senpai say?){p}
+
+## MGT12 g1 s0049
+JP: 流先輩!{n}こんなカンジ、どうですか?{p}{end}
+EN: Nagare-senpai! How does this look?{p}{end}
+
+## MGT12 g1 s0051
+JP: （反応が薄いわねぇ……。{n}{sp}まぁしかたないわ……）{p}
+EN: (Not much of a reaction... Oh well...){p}
+
+## MGT12 g1 s0052
+JP: （ビキニっていうのもいいわね……。{n}{sp}ちょっと大胆すぎるかしら……?{n}{sp}流先輩はなんていうかな?）{p}
+EN: (A bikini could be nice too... Is it a little too daring...? What'll Nagare-senpai say?){p}
+
+## MGT12 g1 s0055
+JP: （いつもと同じリアクションねぇ……。{n}{sp}せっかくセクシーな水着なのに。{n}{sp}まぁ流先輩じゃ、しかたないかな……）{p}
+EN: (Same reaction as always... And it's such a sexy swimsuit, too. Well, it's Nagare-senpai, so I guess that's that...){p}
+
+## MGT12 g1 s0056
+JP: （泳ぎを習うんだから、{n}{sp}競泳用よね……。{n}{sp}ちょっと色気がないけど。{n}{sp}流先輩は何ていうかな?）{p}
+EN: (I'm learning to swim, so a racing suit makes sense... Not very sexy, though. What'll Nagare-senpai say?){p}
+
+## MGT12 g1 s0057
+JP: 流先輩!{n}こんなカンジでどうですか?{p}{end}
+EN: Nagare-senpai! How about this?{p}{end}
+
+## MGT12 g1 s0058
+JP: …………いい筋肉をしているな……。{n}……実に水泳向きだ……。{n}鍛えれば、速くなるぞ……。{p}{end}
+EN: ......You have good muscles... ...Very well suited to swimming... Train them, and you'll be fast...{p}{end}
+
+## MGT12 g1 s0059
+JP: （へへっ、なんかほめられちゃった……。{n}{sp}筋肉を、だけど。{n}{sp}流先輩だから仕方ないかな……）{p}{end}
+EN: (Hehe, I got a compliment... On my muscles, though. Well, it's Nagare-senpai...){p}{end}
+
+## MGT12 g1 s0061
+JP: 今日はありがとうございました。{n}わざわざ買い物につきあってもらって……。{p}{end}
+EN: Thanks for today. You came all the way out shopping with me...{p}{end}
+
+## MGT12 g1 s0062
+JP: …………ライフセービングについて{n}学ぶのはいいことだ……。{n}中途半端な知識にならないように、{n}がんばれよ……。{p}
+EN: ......Learning about lifesaving is a good thing... Don't let it stay half-learned... Keep at it...{p}
+
+## MGT12 g1 s0064
+JP: 放課後……。{n}ちょっと時間があるし、{n}河原の方を通って帰ろかな。{p}{end}
+EN: After school... I've got some time, so maybe I'll head home along the riverbank.{p}{end}
+
+## MGT12 g1 s0067
+JP: また、女の子が川で溺れてるわ!{p}
+EN: Another girl is drowning in the river!{p}
+
+## MGT12 g1 s0068
+JP: 流先輩は、人を呼ぶか、捕まれるモノを{n}投げろっていってたわよね!{n}周りに人……いないわ。{n}投げるモノは……見あたらない。ああもう!{p}
+EN: Nagare-senpai said to call for help or throw something to grab onto! Anyone around... nobody. Something to throw... nothing. Ugh!{p}
+
+## MGT12 g1 s0069
+JP: しょうがない、自分で飛び込もう!{n}それでも人を呼びにいく{p}{end}
+EN: No choice, I'll jump in myself!{n}Go get help anyway{p}{end}
+
+## MGT12 g1 s0070
+JP: しょうがないわ!{n}流先輩も、どうしようもない状況もあるって{n}いってるし、私も少しは泳ぎを習ってるし、{n}飛び込もう!!{p}{end}
+EN: No choice! Nagare-senpai said sometimes there's no other way, and I've had some swimming lessons. I'm jumping in!!{p}{end}
+
+## MGT12 g1 s0072
+JP: 一応、最近の練習のおかげか、{n}流れの速さもそれほど苦にならないわ……{n}あと……少し……。{p}{end}
+EN: Maybe it's my recent practice, but the fast current isn't that bad... Just... a little... more...{p}{end}
+
+## MGT12 g1 s0073
+JP: ……よしっ!{n}女の子の手をつかんだわ!!{p}{end}
+EN: ...Yes! I've got her hand!!{p}{end}
+
+## MGT12 g1 s0074
+JP: きゃっ!{sp}女の子が必死になって{n}つかまってきた!{n}これじゃ……泳げない!{p}{end}
+EN: Eek! She's clinging to me in a panic! I... can't swim like this!{p}{end}
+
+## MGT12 g1 s0075
+JP: ゴボッ!{sp}これが難しい理由っ!?{n}ゲボッ!{sp}身体の自由が……!{n}し、沈む……。{p}
+EN: Glub! So this is why it's hard!? Gack! I can't move...! I-I'm sinking...{p}
+
+## MGT12 g1 s0078
+JP: 「…………{v7:18}……{n}{sp}……{v7:18}……」{p}{end}
+EN: "......{v7:18}... ...{v7:18}..."{p}{end}
+
+## MGT12 g1 s0079
+JP: …………{v7:18}……!{n}大丈夫か!?{n}……{v7:18}!{p}{end}
+EN: ......{v7:18}...! Are you all right!? ...{v7:18}!{p}{end}
+
+## MGT12 g1 s0080
+JP: う、う……ん……。{n}流先輩……?{n}……私は……?{p}{end}
+EN: Uh... ugh... Nagare-senpai...? ...What happened to me...?{p}{end}
+
+## MGT12 g1 s0081
+JP: …………大丈夫か?{n}{v7:18}。{n}たまたま通りかかったら、{n}お前が溺れそうになってたからな、{p}
+EN: ......You OK? {v7:18}. I happened to be passing by, and you were about to drown,{p}
+
+## MGT12 g1 s0083
+JP: 流先輩が助けてくれたんですか……。{n}……あ、あの、あの女の子は……?{p}{end}
+EN: You saved me, Nagare-senpai... ...Oh, um, what about the girl...?{p}{end}
+
+## MGT12 g1 s0085
+JP: そんなこと……したかしら……?{n}したような気も……{n}ただ必死だったから……。{p}{end}
+EN: Did I... do that...? I feel like I did... I was just desperate...{p}{end}
+
+## MGT12 g1 s0089
+JP: （前に女の子を助けたときは、{n}{sp}全然クールだったのに、{n}{sp}今回はこんなに取り乱してる……{n}{sp}流先輩……）{p}{end}
+EN: (When he saved the girl before, he was totally cool, but this time he's this shaken up... Nagare-senpai...){p}{end}
+
+## MGT12 g1 s0091
+JP: これは……流先輩とおそろいの{n}『水中メガネ』ですネ。{n}いいんですか?{p}{end}
+EN: These are... swim goggles, just like yours, Nagare-senpai. Are you sure?{p}{end}
+
+## MGT12 g1 s0093
+JP: ……流先輩……。{n}ありがとうございます。{p}{end}
+EN: ...Nagare-senpai... Thank you.{p}{end}
+
+## MGT12 g1 s0096
+JP: 中途半端な技術で助けにいくのは、{n}危険ね。誰かいればいいけど……。{p}
+EN: Going in to save her with half-baked skills is dangerous. If only someone were around...{p}
+
+## MGT12 g1 s0097
+JP: 誰かーーー!{sp}子供が溺れてます!!{n}助けてくださーーい!{n}ああもうっ、時間がないのに……!{p}
+EN: Somebody!!! A kid's drowning!! Please help!!! Argh, there's no time...!{p}
+
+## MGT12 g1 s0099
+JP: {face:15}・・・・・・・・・・{face:255}{n}そのあたりをまわってみたけど、{n}誰もいない……。{n}これ以上時間がたつと間に合わないわ!{p}{end}
+EN: {face:15}..........{face:255} I looked around the area, but nobody's here... Any longer and it'll be too late!{p}{end}
+
+## MGT12 g1 s0100
+JP: ……もどってみると……、{n}いつの間にか子供は助けられていた……。{n}目撃者の話では、{n}また流先輩だったみたい。{p}{end}
+EN: ...When I got back... the kid had already been rescued... According to witnesses, it was Nagare-senpai again.{p}{end}
+
+## MGT12 g1 s0101
+JP: 今回も名乗らずに立ち去ったらしいけど、{n}特徴から判断すると、流先輩に{n}間違いないわ……。{n}さすがね……あの人。{p}
+EN: Seems he left without giving his name again, but from the description, it had to be Nagare-senpai... That's him for you...{p}
+
+## MGT12 g1 s0103
+JP: ……あら?{n}玄関の方からドアをノックする音が……{n}誰か来たのかしら?{p}{end}
+EN: ...Huh? Someone's knocking at the front door... Did someone come over?{p}{end}
+
+## MGT12 g1 s0105
+JP: どうやら、誰か来たみたいね。{n}……どうしてチャイムを{n}ならさないのかナ?{p}{end}
+EN: Looks like someone's here. ...Why don't they ring the bell?{p}{end}
+
+## MGT12 g1 s0106
+JP: 流先輩?{n}どうしたんですか、こんな時間に。{p}
+EN: Nagare-senpai? What's up, at this hour?{p}
+
+## MGT12 g1 s0108
+JP: 何か……私にご用ですか?{n}ええと……。{p}
+EN: Did you... need something from me? Um...{p}
+
+## MGT12 g1 s0110
+JP: え?{sp}あの、流先輩?{n}…………いっちゃったわ。{n}なんだったのかしら、いったい……。{p}
+EN: Huh? Um, Nagare-senpai? ......He left. What was that all about...{p}
+
+## MGT12 g1 s0111
+JP: あら?{sp}この紙袋は……{n}流先輩の忘れ物かナ……?{n}中身を確認しないと{n}なんともいえないけど……。{p}{end}
+EN: Huh? This paper bag... Did Nagare-senpai forget it...? I can't tell without checking what's inside...{p}{end}
+
+## MGT12 g1 s0112
+JP: ええと……あら?{n}メモが入っているわ。{n}ええと……一言、「誕生日」だけ{n}書いて、やめたみたい。{p}
+EN: Um... oh? There's a note in here. Um... He wrote just one word, "Birthday," and stopped there.{p}
+
+## MGT12 g1 s0113
+JP: う～ん、これはやっぱり{n}私への誕生日プレゼントと{n}解釈していいのかしら?{p}{end}
+EN: Hmm, so can I take this as a birthday present for me?{p}{end}
+
+## MGT12 g1 s0114
+JP: 中身は……『シュノーケル』ね?{n}……これは……私にいったい、{n}どうしろというのかしら?{p}
+EN: Inside is... a snorkel? ...What is he trying to tell me with this?{p}
+
+## MGT12 g1 s0115
+JP: 「お前もたまには息継ぎしろ」……、{n}違うかなぁ。っていうより、{n}「息継ぎなしでがんばれ」……、{n}とか?{sp}う～ん、わからないわ……。{p}
+EN: "Take a breather once in a while"... Not that? More like "Keep going without coming up for air"...? Hmm, I don't get it...{p}
+
+## MGT12 g1 s0123
+JP: ええと……あら?{n}メモが入っているわ。{n}ええと……「遅れたが、誕生日」だけ{n}書いて、やめたみたい。{p}
+EN: Um... oh? There's a note in here. Um... He wrote just "Late, but... birthday," and stopped there.{p}
+
+## MGT12 g1 s0124
+JP: う～ん、この前私の誕生日だったし……、{n}これはやっぱり私への{n}誕生日プレゼントと{n}解釈していいのかしら?{p}{end}
+EN: Hmm, my birthday was the other day... so can I take this as a birthday present for me?{p}{end}
+

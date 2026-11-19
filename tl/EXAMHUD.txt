@@ -1,0 +1,14 @@
+JP: 正解
+EN: CORRECT
+
+JP: 不正解
+EN: WRONG
+
+JP: 問題
+EN: Question
+
+JP: 試験終了
+EN: EXAM OVER
+
+JP: 評価UP
+EN: RATING UP

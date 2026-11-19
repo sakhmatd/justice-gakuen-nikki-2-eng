@@ -1,0 +1,3132 @@
+## MGK12 g0 s0000
+JP: あっという間に{n}また期末試験がきてしまった。{n}今回の試験官は確か響子先生だったよなあ。{p}
+EN: Before I knew it, finals were here again. Kyoko-sensei's the examiner this time, right?{p}
+
+## MGK12 g0 s0001
+JP: 来たわね、{v1}{col:0}クン{col:-}。{p}
+EN: You made it, {v1}{col:0}-kun{col:-}.{p}
+
+## MGK12 g0 s0002
+JP: この季節は、{n}少し肌寒くて体を動かしにくいけど、{n}いい結果が残るように{n}精一杯頑張ってね。{p}
+EN: It's a little chilly this time of year, so it's hard to get moving, but give it everything you've got for a good result.{p}
+
+## MGK12 g0 s0003
+JP: いい成績だわ。{n}よく頑張ったわね。{p}
+EN: Great score. You worked really hard.{p}
+
+## MGK12 g0 s0004
+JP: でも、せっかくの高校生活だから、{n}勉強以外のいろんな事にもチャレンジして{n}有意義に過ごしていってね。{p}{end}
+EN: But high school only comes once, so try all sorts of things besides studying and make it count.{p}{end}
+
+## MGK12 g0 s0005
+JP: 残念だわ……。{n}あなたはできる子だと信じていたのに……。{p}{end}
+EN: That's a shame... I believed you could do it...{p}{end}
+
+## MGK12 g0 s0006
+JP: でもまだ高校一年生なんだから、{n}今からでも遅くはないわ。{n}この結果にめげずに頑張ってね。{p}{end}
+EN: But you're only a first-year, so it's not too late. Don't let this get you down. Keep at it.{p}{end}
+
+## MGK12 g0 s0007
+JP: 今度はもっと良い成績をとるために{n}ちゃんと予習をやっとかなきゃなあ……。{p}{end}
+EN: Next time I'd better prepare properly so I get a better score...{p}{end}
+
+## MGK12 g0 s0008
+JP: やっと来たわね。{n}待ってたわよ!{p}{end}
+EN: Finally! I've been waiting for you!{p}{end}
+
+## MGK12 g0 s0009
+JP: さ、さくら!{n}試験の後に待ってたって、{n}ひょっとして……。{p}
+EN: S-Sakura! Waiting for me after the exam... Don't tell me...{p}
+
+## MGK12 g0 s0010
+JP: そう、この前の第2ラウンド開始だよ!{n}手加減無しでいくよ!{p}
+EN: Yep, it's round two of last time! No holding back!{p}
+
+## MGK12 g0 s0011
+JP: うん、{n}やっぱり本当の勝負は気持ちいいよね!{p}{end}
+EN: Yeah, a real fight sure feels great!{p}{end}
+
+## MGK12 g0 s0012
+JP: 全力できてくれてありがと!{p}
+EN: Thanks for giving it everything you had!{p}
+
+## MGK12 g0 s0013
+JP: そんな強さじゃ、{n}大事な人を守る事なんかできないわよ!{p}
+EN: With strength like that, you'll never protect the people who matter to you!{p}
+
+## MGK12 g0 s0014
+JP: もっと強くなって……。{p}
+EN: Get stronger...{p}
+
+## MGK12 g0 s0015
+JP: なんか意味深……。{p}
+EN: That sounded like it meant something...{p}
+
+## MGK12 g0 s0016
+JP: ロイにクリスマスパーティーの{n}招待状をもらって来てみたけど、{n}これはビックリだな……。{p}
+EN: Roy sent me an invitation to his Christmas party, so I came, but wow, this is something...{p}
+
+## MGK12 g0 s0017
+JP: テーブルには豪華な料理が並んでいて、{n}BGMにはバンド演奏のクリスマスソング。{n}なんていうか、すごく場違いな{n}感じすらするぞ。{p}
+EN: The tables are lined with fancy food, and a live band is playing Christmas songs. Honestly, I feel kind of out of place.{p}
+
+## MGK12 g0 s0018
+JP: ところで、俺の他には一体誰が{n}招待されてるんだろう?{n}知り合いが一人もいなかったらヤダな……{p}{end}
+EN: So who else got invited, anyway? I'd hate it if I didn't know a single person...{p}{end}
+
+## MGK12 g0 s0019
+JP: メリークリスマス、{v3:6}!{p}{end}
+EN: Merry Christmas, {v3:6}!{p}{end}
+
+## MGK12 g0 s0020
+JP: やあ、ロイ!{n}今日はこんなすごいパーティーに{n}招待してくれてありがとう。{p}{end}
+EN: Hey, Roy! Thanks for inviting me to such an amazing party.{p}{end}
+
+## MGK12 g0 s0021
+JP: いやいや、礼にはおよばないよ。{n}{v3:6}には世話になってるからな。{n}ボクからのせめてもの感謝の気持ちさ。{p}{end}
+EN: Hey, no need to thank me. You've helped me out a lot, {v3:6}. Think of it as a small token of my thanks.{p}{end}
+
+## MGK12 g0 s0022
+JP: それじゃあ、{n}楽しい聖夜を過ごしてくれ。{p}{end}
+EN: Well then, enjoy the holy night.{p}{end}
+
+## MGK12 g0 s0023
+JP: メリークリスマス、{v6:1}!{n}あいかわらず、すごい食べっぷりだね{col:5}♥{col:-}{p}
+EN: Merry Christmas, {v6:1}! You're chowing down as usual, huh{col:5}♥{col:-}{p}
+
+## MGK12 g0 s0024
+JP: あはは……{n}こんなに豪勢な料理なんて{n}めったに食べられないから、つい。{p}
+EN: Ahaha... I hardly ever get to eat food this fancy, so I couldn't help it.{p}
+
+## MGK12 g0 s0025
+JP: 言われてみればそうだね。{n}せっかくだし、{n}私も色々食べてまわってみよっと。{n}じゃあ、また後でね!{p}{end}
+EN: Now that you mention it, that's true. I might as well go try a bit of everything too. See you later!{p}{end}
+
+## MGK12 g0 s0026
+JP: あっ、あなたも招待されてたの?{n}全然気がつかなかったわ。{p}{end}
+EN: Oh, you were invited too? I didn't even notice you.{p}{end}
+
+## MGK12 g0 s0027
+JP: まあ、これだけ人がいれば無理もないさ。{n}俺だって、アキラが来てるなんて{n}知らなかったしね。{p}
+EN: Well, no wonder, with this many people. I didn't know you were here either, Akira.{p}
+
+## MGK12 g0 s0028
+JP: それもそうね。{n}でも、これだけの人の中で会えるなんて、{n}やっぱり私たち、何かと縁があるのね。{p}{end}
+EN: That's true. But to run into each other in a crowd like this... We really do seem to be connected somehow.{p}{end}
+
+## MGK12 g0 s0029
+JP: そういえば、醍醐先輩は来てないの?{p}
+EN: By the way, isn't Daigo-senpai here?{p}
+
+## MGK12 g0 s0030
+JP: ああ、兄さんは人込みが苦手なの。{n}きっと今ごろは中庭の方にいると思うわ。{p}{end}
+EN: Oh, my big brother doesn't like crowds. He's probably out in the courtyard by now.{p}{end}
+
+## MGK12 g0 s0031
+JP: よぅ、{v3:5}。{n}メリークリスマス!{p}{end}
+EN: Hey, {v3:5}. Merry Christmas!{p}{end}
+
+## MGK12 g0 s0032
+JP: やあ。{n}ロベルトたちも招待されてたんだな。{p}
+EN: Hey. So you guys got invited too, Roberto.{p}
+
+## MGK12 g0 s0033
+JP: ああ、ロイから招待状が来たのさ。{n}それにしても、すごいパーティーだな……{n}何だか場違いな感じがするぜ。{p}
+EN: Yeah, Roy sent us an invitation. Still, this is some party... I kinda feel out of place.{p}
+
+## MGK12 g0 s0034
+JP: 確かに、俺もそう思うよ。{n}でも、招待されたのは間違いないんだから{n}堂々と楽しんだ方が得だよ。{p}{end}
+EN: Yeah, I feel the same. But we really were invited, so we might as well hold our heads high and enjoy it.{p}{end}
+
+## MGK12 g0 s0035
+JP: それもそうだな。{n}俺も、割り切って楽しむことに専念するか。{n}それじゃあ、お互いに良いクリスマスに{n}なるといいな。{p}{end}
+EN: Good point. Guess I'll stop worrying and just enjoy myself. Here's to a good Christmas for both of us.{p}{end}
+
+## MGK12 g0 s0036
+JP: メリークリスマス、{v1}{col:0}クン{col:-}{col:5}♥{col:-}{p}
+EN: Merry Christmas, {v1}{col:0}-kun{col:-}{col:5}♥{col:-}{p}
+
+## MGK12 g0 s0037
+JP: あっ、先生方もいらしてたんですか。{p}
+EN: Oh, you teachers are here too?{p}
+
+## MGK12 g0 s0038
+JP: ええ、私たちにも招待状が届いたのよ。{p}{end}
+EN: Yes, we got invitations too.{p}{end}
+
+## MGK12 g0 s0039
+JP: それにしても、すごいパーティーねぇ。{n}こんな本格的なパーティーは久しぶりよ。{n}……なんだか、若い頃を思い出しちゃうわ。{p}
+EN: Still, what a party. It's been ages since I went to one this grand. ...It takes me back to when I was young.{p}
+
+## MGK12 g0 s0040
+JP: （響子先生って若い頃からこんなに{n}{sp}色っぽかったのかな?{n}{sp}いろんな意味で興味が尽きないや。）{p}
+EN: (Was Kyoko-sensei this sexy even when she was young? She's fascinating in more ways than one.){p}
+
+## MGK12 g0 s0041
+JP: ほら、{v4:19}。{n}こっち向いて!{n}はい、チーズ!{p}{end}
+EN: Hey, {v4:19}. Look over here! Say cheese!{p}{end}
+
+## MGK12 g0 s0042
+JP: まさかとは思ったけど、やっぱりランか。{n}しかし、たとえクリスマスでもカメラを{n}手放さないんだな。{n}ある意味、感心するよ。{p}{end}
+EN: I had a feeling... It's you, Ran. You don't let go of that camera even on Christmas, huh? I'm kind of impressed, in a way.{p}{end}
+
+## MGK12 g0 s0043
+JP: あら、私にとっては当然の事よ。{n}スクープっていうのはどんな状況で{n}起こるかなんて、予測できないもの。{p}{end}
+EN: Well, of course. You can never predict when a scoop's gonna happen.{p}{end}
+
+## MGK12 g0 s0044
+JP: まあ、他の人に迷惑をかけない程度に{n}頑張れよな。{p}{end}
+EN: Well, go for it. Just don't bother other people too much.{p}{end}
+
+## MGK12 g0 s0045
+JP: ありがと。{n}それじゃ、また後でね。{p}
+EN: Thanks. See ya later.{p}
+
+## MGK12 g0 s0046
+JP: あっ、流さんじゃないですか。{n}クリスマスパーティー、楽しんでますか?{p}{end}
+EN: Oh, it's Nagare-san. Are you enjoying the Christmas party?{p}{end}
+
+## MGK12 g0 s0048
+JP: え?{n}口に食べ物がつまってて話せない?{n}何もそんなに詰め込まなくても……{p}{end}
+EN: Huh? Your mouth's too full to talk? You didn't have to stuff it that much...{p}{end}
+
+## MGK12 g0 s0050
+JP: ……せっかくのパーティーだから、{n}ウマイものをたらふく食べたい?{n}あはは、あせって喉に詰まらせないように{n}してくださいね。{p}
+EN: ...It's a party, so you want to eat all the good food you can? Ahaha, just don't rush it and choke.{p}
+
+## MGK12 g0 s0052
+JP: {v0}、どうした?{n}やけにそわそわしているようだが……{p}
+EN: {v0}, what is it? You seem rather restless...{p}
+
+## MGK12 g0 s0053
+JP: あはは、やっぱりそう見えます?{n}こういうパーティーって、{n}慣れていないもんですから。{p}{end}
+EN: Ahaha, is it that obvious? I'm just not used to parties like this.{p}{end}
+
+## MGK12 g0 s0054
+JP: ハハハ。{n}お前らしくもないな。{n}いつも通り、元気にやればよかろう。{p}
+EN: Ha ha ha. That is unlike you. Simply carry on in your usual spirited way.{p}
+
+## MGK12 g0 s0055
+JP: そう言われてみればそうですね。{n}それじゃ、気取らずいつも通りに{n}やることにします。{p}
+EN: Now that you say it, you're right. Then I'll stop putting on airs and just be myself.{p}
+
+## MGK12 g0 s0056
+JP: うむ、その方がいい。{n}メリークリスマス、{v0}。{p}{end}
+EN: Yes, that is better. Merry Christmas, {v0}.{p}{end}
+
+## MGK12 g0 s0057
+JP: ふぅ、ちょっと人が多くって{n}疲れちゃったな。{n}中庭にでも行って、一息いれようか。{p}{end}
+EN: Phew, all these people are wearing me out. Maybe I'll head out to the courtyard and take a breather.{p}{end}
+
+## MGK12 g0 s0058
+JP: ああ、そういえば中庭に立派な{n}クリスマスツリーがあるっていう話だっけ。{n}誰か誘ってみようかな?{p}
+EN: Oh yeah, I heard there's a really impressive Christmas tree in the courtyard. Maybe I'll ask someone to come along.{p}
+
+## MGK12 g0 s0059
+JP: それじゃ、誰を誘うんだ?{p}{end}
+EN: So, who should I ask?{p}{end}
+
+## MGK12 g0 s0060
+JP: バツ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ひなた{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}恭介{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}将馬{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}夏{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ロベルト{sp}{sp}{sp}{sp}{sp}{sp}{n}他の人を誘う{p}
+EN: Batsu               Hinata{n}Kyosuke             Shoma{n}Natsu               Roberto{n}Someone else{p}
+
+## MGK12 g0 s0061
+JP: ロイ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ティファニー{sp}{sp}{sp}{sp}{n}ボーマン{sp}{sp}{sp}{sp}{sp}{sp}エッジ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}アキラ{sp}{sp}{sp}{sp}{sp}{sp}{sp}岩{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}他の人を誘う{p}
+EN: Roy                 Tiffany{n}Boman               Edge{n}Akira               Gan{n}Someone else{p}
+
+## MGK12 g0 s0062
+JP: 英雄{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}響子{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}隼人{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}醍醐{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}ラン{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}流{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{n}雹{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人を誘う{p}
+EN: Hideo-sensei        Kyoko-sensei{n}Hayato-sensei       Daigo-senpai{n}Ran                 Nagare{n}Hyo                 Someone else{p}
+
+## MGK12 g0 s0063
+JP: よし、それじゃバツを誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Batsu.{p}
+
+## MGK12 g0 s0064
+JP: よし、それじゃひなたを誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Hinata.{p}{end}
+
+## MGK12 g0 s0065
+JP: よし、それじゃ恭介を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Kyosuke.{p}
+
+## MGK12 g0 s0066
+JP: よし、それじゃ将馬を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Shoma.{p}
+
+## MGK12 g0 s0067
+JP: よし、それじゃ夏を誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Natsu.{p}{end}
+
+## MGK12 g0 s0068
+JP: よし、それじゃロベルトを誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Roberto.{p}
+
+## MGK12 g0 s0069
+JP: よし、それじゃロイを誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Roy.{p}
+
+## MGK12 g0 s0070
+JP: よし、それじゃティファニーを{n}誘いに行ってみよう。{p}
+EN: All right, I'll go ask Tiffany.{p}
+
+## MGK12 g0 s0071
+JP: よし、それじゃボーマンを誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Boman.{p}
+
+## MGK12 g0 s0072
+JP: よし、それじゃエッジを誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Edge.{p}{end}
+
+## MGK12 g0 s0073
+JP: よし、それじゃアキラを誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Akira.{p}{end}
+
+## MGK12 g0 s0074
+JP: よし、それじゃ岩を誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Gan.{p}{end}
+
+## MGK12 g0 s0075
+JP: よし、それじゃ英雄先生を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Hideo-sensei.{p}
+
+## MGK12 g0 s0076
+JP: よし、それじゃ響子先生を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Kyoko-sensei.{p}
+
+## MGK12 g0 s0077
+JP: よし、それじゃ隼人先生を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Hayato-sensei.{p}
+
+## MGK12 g0 s0078
+JP: よし、それじゃ醍醐先輩を誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Daigo-senpai.{p}
+
+## MGK12 g0 s0079
+JP: よし、それじゃランを誘いに{n}行ってみよう。{p}
+EN: All right, I'll go ask Ran.{p}
+
+## MGK12 g0 s0080
+JP: よし、それじゃ流さんを誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Nagare-san.{p}{end}
+
+## MGK12 g0 s0081
+JP: よし、それじゃ雹さんを誘いに{n}行ってみよう。{p}{end}
+EN: All right, I'll go ask Hyo-san.{p}{end}
+
+## MGK12 g0 s0082
+JP: いたいた。{n}探したぜ、バツ。{p}{end}
+EN: There you are. I've been looking for you, Batsu.{p}{end}
+
+## MGK12 g0 s0083
+JP: どうした?{n}ホレになんは用か?{p}
+EN: Whash up? Ya need shumthin'?{p}
+
+## MGK12 g0 s0084
+JP: おいおい、{n}食べながらしゃべるなよ。{p}{end}
+EN: Hey, hey, don't talk with your mouth full.{p}{end}
+
+## MGK12 g0 s0085
+JP: ング……わりいわりい。{n}で、何だ?{p}
+EN: *Gulp*... My bad, my bad. So, what's up?{p}
+
+## MGK12 g0 s0086
+JP: ちょっと会場を抜け出して、{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}{end}
+EN: Wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}{end}
+
+## MGK12 g0 s0087
+JP: そうだな、{n}そろそろ食いあきてきた所だしな。{n}腹ごなしも兼ねて、{n}ちょっくら行ってみるか。{p}
+EN: Sure, I was gettin' tired of eatin' anyway. Might as well walk it off. Let's go check it out.{p}
+
+## MGK12 g0 s0088
+JP: ここが中庭か……{n}やっぱり、会場から離れると{n}静かなもんだな。{p}
+EN: So this is the courtyard... Sure is quiet once you get away from the party.{p}
+
+## MGK12 g0 s0089
+JP: でも、オマエも変わってるよな。{n}わざわざオレなんか誘うなんてよ。{n}ひなたでも誘えば良かったじゃねぇか。{p}
+EN: But you're a weird one, y'know. Comin' to get me, of all people. Coulda asked Hinata or somebody.{p}
+
+## MGK12 g0 s0090
+JP: （そう言われてみれば、俺はなんで{n}{sp}バツを誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Batsu?){p}{end}
+
+## MGK12 g0 s0091
+JP: バツと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Batsu{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0092
+JP: でも、俺はバツと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Batsu.{p}{end}
+
+## MGK12 g0 s0093
+JP: ま、まあ、そう言われて悪い気は{n}しないけどよ……{p}{end}
+EN: W-well, can't say I mind hearin' that...{p}{end}
+
+## MGK12 g0 s0094
+JP: おっ、クリスマスツリーってのは{n}あれのことか?{p}
+EN: Oh, is that the Christmas tree you meant?{p}
+
+## MGK12 g0 s0095
+JP: ……こりゃあ、でっけぇなぁ。{p}{end}
+EN: ...Man, that thing's huge.{p}{end}
+
+## MGK12 g0 s0096
+JP: うん。{n}こんなクリスマスツリーはじめて見たよ。{n}それにしても、キレイだなあ……{p}
+EN: Yeah. I've never seen a Christmas tree like this. It sure is beautiful...{p}
+
+## MGK12 g0 s0098
+JP: バツ?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Batsu? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0099
+JP: い、いや、なんでもねぇ。{n}ガラにもなく、ちょっとばかしツリーに{n}見入っちまっただけだ。{p}
+EN: N-nothin'. I just got a little lost starin' at the tree, that's all. Not really my style, huh.{p}
+
+## MGK12 g0 s0100
+JP: そっか。{n}俺はまた、腹の具合でも悪くなったのかと{n}思ったよ。{p}{end}
+EN: Oh. Here I thought your stomach was acting up.{p}{end}
+
+## MGK12 g0 s0101
+JP: ははは。{n}やっぱり、オマエって面白いヤツだぜ。{n}一緒にいて退屈しないもんな。{p}{end}
+EN: Hahaha. You really are a funny one. Never a dull moment with you around.{p}{end}
+
+## MGK12 g0 s0102
+JP: （この後、{n}{sp}俺とバツはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Batsu and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0103
+JP: いや、バツなら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Batsu.{p}
+
+## MGK12 g0 s0104
+JP: ヘイヘイ、{n}俺はボディーガード代わりってわけね。{p}{end}
+EN: Yeah, yeah. So I'm your bodyguard, huh.{p}{end}
+
+## MGK12 g0 s0106
+JP: こりゃまた、でっけえもみの木だな。{n}でも、全然ライトアップされてないぜ。{p}{end}
+EN: Whoa, that's one big fir tree. But it ain't lit up at all.{p}{end}
+
+## MGK12 g0 s0107
+JP: ほんとだ、故障かな……{p}
+EN: You're right. Maybe it's broken...{p}
+
+## MGK12 g0 s0108
+JP: まっ、故障じゃしょうがねぇか。{n}外にいても寒いだけだし、{n}パーティー会場に戻ろうぜ。{p}{end}
+EN: Well, nothin' we can do if it's broken. It's just cold out here, so let's head back to the party.{p}{end}
+
+## MGK12 g0 s0109
+JP: （ちぇっ、{n}{sp}クリスマスだってのについてないな。）{p}
+EN: (Tch, some luck. And on Christmas, too.){p}
+
+## MGK12 g0 s0110
+JP: いたいた。{n}探したよ、ひなた。{p}
+EN: There you are. I've been looking for you, Hinata.{p}
+
+## MGK12 g0 s0111
+JP: なあに?{n}どしたの?{p}{end}
+EN: Hm~? What's up?{p}{end}
+
+## MGK12 g0 s0112
+JP: ん?{n}ひなた、ほっぺにケチャップがついてるぜ。{n}はははっ、食いしん坊だなぁ。{p}{end}
+EN: Hm? Hinata, you've got ketchup on your cheek. Hahaha, what a glutton.{p}{end}
+
+## MGK12 g0 s0113
+JP: うっ……。{n}だ、だって、ここのお料理{n}おいしいんだもん。{p}{end}
+EN: Ugh... W-well, the food here is just so good!{p}{end}
+
+## MGK12 g0 s0114
+JP: （ひなたって、これだけたくさん食べても{n}{sp}全然太らないから不思議だよな）{p}{end}
+EN: (It's a mystery how Hinata eats this much and never gains an ounce.){p}{end}
+
+## MGK12 g0 s0115
+JP: ひなた、ちょっと会場を出て{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}{end}
+EN: Hinata, wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}{end}
+
+## MGK12 g0 s0116
+JP: おっきなクリスマスツリー!?{n}うん、行く行く!{p}
+EN: A giant Christmas tree!? Yeah, let's go, let's go!{p}
+
+## MGK12 g0 s0118
+JP: でも、キミも変わってるよね。{n}わざわざ私なんかを誘うなんて。{n}夏ちゃんとかカワイイ子もいたのに。{p}{end}
+EN: But you're kinda weird, y'know. Coming all the way to ask me, of all people. There were cute girls like Natsu-chan around too.{p}{end}
+
+## MGK12 g0 s0119
+JP: （そう言われてみれば、俺はなんで{n}{sp}ひなたを誘ったんだ?）{p}
+EN: (Now that she mentions it, why did I ask Hinata?){p}
+
+## MGK12 g0 s0120
+JP: ひなたと一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}{end}
+EN: It's fun being with Hinata{n}She'd love to see the tree{p}{end}
+
+## MGK12 g0 s0121
+JP: でも、俺はひなたと一緒にいる方が{n}楽しいから。{p}
+EN: Eh, I just have more fun hanging out with you, Hinata.{p}
+
+## MGK12 g0 s0122
+JP: えっ、あっ、そ、そう?{n}……ありがと。{p}
+EN: Huh? Oh, r-really? ...Thanks.{p}
+
+## MGK12 g0 s0123
+JP: ねえねえ、{n}クリスマスツリーってアレだよね?{p}{end}
+EN: Hey, hey, that's the Christmas tree, right?{p}{end}
+
+## MGK12 g0 s0124
+JP: ……うっわあ～。{n}おっき～い～!!{sp}キレ～イ!!{p}{end}
+EN: ...Wo~w. It's so bi~g!! So pre~tty!!{p}{end}
+
+## MGK12 g0 s0127
+JP: ひなた?{n}急に黙りこんで、どうかしたの?{p}{end}
+EN: Hinata? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0128
+JP: う、ううん、なんでもないの。{n}ちょっとツリーに見とれてただけ。{p}
+EN: N-no, it's nothing. I was just staring at the tree.{p}
+
+## MGK12 g0 s0129
+JP: そっか。{n}俺はまた、具合でも悪くなったのかと{n}思ったよ。{p}{end}
+EN: Oh. Here I thought you weren't feeling well.{p}{end}
+
+## MGK12 g0 s0130
+JP: ……優しいんだね。{n}やっぱり、{v6:1}と一緒にいると{n}なんかすっごく楽しいな。{p}
+EN: ...You're sweet. Being with you is always so much fun, {v6:1}.{p}
+
+## MGK12 g0 s0131
+JP: （この後、俺とひなたは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Hinata and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0132
+JP: ひなたにツリーを見せたら、{n}きっと喜ぶと思ってさ。{p}
+EN: I figured you'd love seeing the tree, Hinata.{p}
+
+## MGK12 g0 s0133
+JP: そっかぁ。{n}わざわざ呼びに来てくれたんだ。{n}ありがとね。{p}{end}
+EN: Aww. You came all the way to get me? Thanks.{p}{end}
+
+## MGK12 g0 s0134
+JP: ねえ、クリスマスツリーって{n}あれのこと?{p}{end}
+EN: Hey, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0135
+JP: すごーい、おっきなもみの木だね。{n}でも、全然ライトアップされてないよぉ。{p}{end}
+EN: Wow, what a huge fir tree. But it's not lit up at a~ll.{p}{end}
+
+## MGK12 g0 s0137
+JP: ……故障じゃしょうがないね。{n}外にいても寒いだけだし、{n}パーティー会場に戻ろっか。{p}
+EN: ...Well, if it's broken, it can't be helped. It's just cold out here, so let's head back to the party.{p}
+
+## MGK12 g0 s0139
+JP: いたいた。{n}探したぜ、恭介。{p}{end}
+EN: There you are. I've been looking for you, Kyosuke.{p}{end}
+
+## MGK12 g0 s0140
+JP: やあ、{v4:2}。{n}楽しんでるかい?{p}
+EN: Hello, {v4:2}. Enjoying yourself?{p}
+
+## MGK12 g0 s0141
+JP: まあね。{n}それにしても、恭介って相変わらず{n}良いファッションセンスしてるな。{p}{end}
+EN: Sure. Anyway, you've got great fashion sense as always, Kyosuke.{p}{end}
+
+## MGK12 g0 s0142
+JP: そうかい?{sp}ありがとう。{n}実はこの服、結構お気に入りでね。{n}ちゃんと見てくれている人がいて、{n}うれしいよ。{p}
+EN: You think so? Thank you. Actually, this outfit is one of my favorites. I'm glad somebody noticed.{p}
+
+## MGK12 g0 s0143
+JP: バツなんか、ファッションに興味{n}なんてなさそうだしな。{p}
+EN: Unlike Batsu. I doubt he cares about fashion at all.{p}
+
+## MGK12 g0 s0144
+JP: なあ、恭介。ちょっと会場を抜け出して、{n}中庭に行ってみないか?{n}なんでもでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Hey, Kyosuke. Wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0145
+JP: そうだな……{n}一通りあいさつもすませた所だし、{n}ちょっと行ってみようか。{p}{end}
+EN: Let's see... I've finished making the rounds, so let's go take a look.{p}{end}
+
+## MGK12 g0 s0147
+JP: でも、キミも変わってるな。{n}わざわざ僕なんかを誘うなんてね。{n}ひなたでも誘えば良かったんじゃないか?{p}{end}
+EN: Still, you're an odd one. Going out of your way to invite me. Wouldn't it have been better to ask Hinata?{p}{end}
+
+## MGK12 g0 s0148
+JP: （そう言われてみれば、俺はなんで{n}{sp}恭介を誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Kyosuke?){p}{end}
+
+## MGK12 g0 s0149
+JP: 恭介と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Kyosuke{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0150
+JP: でも、俺は恭介と一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Kyosuke.{p}{end}
+
+## MGK12 g0 s0151
+JP: ま、まあ、そう言われて悪い気は{n}しないけどね……{p}{end}
+EN: W-well, I can't say I mind hearing that...{p}{end}
+
+## MGK12 g0 s0152
+JP: ん?{n}クリスマスツリーというのは{n}あれのことかい?{p}
+EN: Hm? Is that the Christmas tree?{p}
+
+## MGK12 g0 s0153
+JP: ……なるほど、これは大きいな。{p}
+EN: ...I see. That is big.{p}
+
+## MGK12 g0 s0156
+JP: 恭介?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Kyosuke? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0157
+JP: い、いや、なんでもないよ。{n}あまりに幻想的だったんでね、{n}ツリーに見入ってしまったよ。{p}
+EN: N-no, it's nothing. It looked so magical that I got lost staring at the tree.{p}
+
+## MGK12 g0 s0159
+JP: ははは。{n}やっぱり、キミは面白いヤツだな。{n}一緒にいて退屈しないよ。{p}{end}
+EN: Hahaha. You really are an interesting one. I'm never bored with you.{p}{end}
+
+## MGK12 g0 s0160
+JP: （この後、{n}{sp}俺と恭介はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Kyosuke and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0161
+JP: いや、恭介なら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Kyosuke.{p}
+
+## MGK12 g0 s0162
+JP: さしずめ、{n}僕はボディーガード代わりってところかな。{n}それはまた、光栄だね。{p}{end}
+EN: So I'm your bodyguard, then? What an honor.{p}{end}
+
+## MGK12 g0 s0164
+JP: これは…ずいぶん大きなもみの木だな。{n}それにしても、{n}全くライトアップされていないようだぞ。{p}{end}
+EN: This is... quite a large fir tree. But it doesn't seem to be lit up at all.{p}{end}
+
+## MGK12 g0 s0166
+JP: まあ、故障じゃ仕方ないか。{n}外にいても寒いだけだし、{n}パーティー会場に戻ろうか。{p}{end}
+EN: Well, if it's broken, there's nothing to be done. It's just cold out here, so let's go back to the party.{p}{end}
+
+## MGK12 g0 s0168
+JP: いたいた。{n}探したぜ、将馬。{p}{end}
+EN: There you are. I've been looking for you, Shoma.{p}{end}
+
+## MGK12 g0 s0169
+JP: {v3:3}、聞いてくれよ!{n}オイラ、さっきプロ野球の選手に{n}サインもらっちまったぜ!{n}どうだ、うらやましいだろう?{p}{end}
+EN: {v3:3}, listen to this! I just got a pro baseball player's autograph! Pretty jealous, huh?{p}{end}
+
+## MGK12 g0 s0170
+JP: へぇ、このパーティーってそんな有名人{n}なんかも来てたのか。{p}
+EN: Huh, so even celebrities came to this party?{p}
+
+## MGK12 g0 s0171
+JP: そうだ。{n}オマエ、オイラに何か用なんじゃねぇのか?{p}
+EN: Oh yeah. Didn't ya want somethin' from me?{p}
+
+## MGK12 g0 s0172
+JP: 将馬、ちょっと会場を抜け出して{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}{end}
+EN: Shoma, wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}{end}
+
+## MGK12 g0 s0173
+JP: そうだな、{n}そろそろ料理もなくなってきたし、{n}ちょっくら散歩に行ってみるか。{p}{end}
+EN: Sure, the food's runnin' out anyway. Let's go take a little walk.{p}{end}
+
+## MGK12 g0 s0175
+JP: でも、オマエも変わってるよな。{n}わざわざ俺なんかを誘うなんてよ。{n}カワイイ女の子でも誘えば良かった{n}じゃねぇか。{p}{end}
+EN: But you're a weird one, y'know. Comin' to get me, of all people. Shoulda asked some cute girl.{p}{end}
+
+## MGK12 g0 s0176
+JP: （そう言われてみれば、俺はなんで{n}{sp}将馬を誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Shoma?){p}{end}
+
+## MGK12 g0 s0177
+JP: 将馬と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Shoma{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0178
+JP: でも、俺は将馬と一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Shoma.{p}{end}
+
+## MGK12 g0 s0179
+JP: ま、まあ、そう言われて悪い気は{n}しねぇけどよ……{p}{end}
+EN: W-well, can't say I mind hearin' that...{p}{end}
+
+## MGK12 g0 s0180
+JP: おう、{v3:3}。{n}クリスマスツリーってのは{n}あれのことか?{p}
+EN: Hey, {v3:3}. Is that the Christmas tree ya meant?{p}
+
+## MGK12 g0 s0184
+JP: 将馬?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Shoma? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0185
+JP: いや、なんかきれーだなと思ってよ。{n}つい見とれちまったぜ。{p}
+EN: Nah, just thought it looked real pretty. Got kinda lost starin' at it.{p}
+
+## MGK12 g0 s0187
+JP: ははは。{n}やっぱり、オマエって面白いヤツだな。{n}一緒にいて退屈しないぜ。{p}{end}
+EN: Hahaha. You really are a funny one. Never a dull moment with ya.{p}{end}
+
+## MGK12 g0 s0188
+JP: （この後、{n}{sp}俺と将馬はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Shoma and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0189
+JP: いや、将馬なら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Shoma.{p}
+
+## MGK12 g0 s0190
+JP: オイラをボディーガードにしようってか?{n}まったく、いい根性しやがるぜ。{p}
+EN: Usin' me as your bodyguard? Man, you got some nerve.{p}
+
+## MGK12 g0 s0194
+JP: まっ、故障じゃしょうがねぇよな。{n}外にいても寒いだけだし、{n}とりあえず、パーティー会場に戻ろうぜ。{p}
+EN: Well, nothin' ya can do if it's broken. It's just cold out here, so let's head back to the party for now.{p}
+
+## MGK12 g0 s0196
+JP: いたいた。{n}探したよ、夏。{p}
+EN: There you are. I've been looking for you, Natsu.{p}
+
+## MGK12 g0 s0197
+JP: あっ、{v6:4}。{n}ここの料理食べた?{n}すごくおいしいのよ、これが。{p}
+EN: Oh, {v6:4}. Did you try the food here? It's seriously good.{p}
+
+## MGK12 g0 s0198
+JP: ああ、俺も食べたよ。{n}確かにすごくおいしいよな。{n}たぶん、超一流のシェフが{n}作ってるんじゃないか?{p}
+EN: Yeah, I had some. It really is good. Some top-class chef probably made it, right?{p}
+
+## MGK12 g0 s0199
+JP: やっぱりそうよね。{n}それじゃ、素人がマネなんて無理かな。{p}{end}
+EN: I thought so. Guess an amateur could never copy it.{p}{end}
+
+## MGK12 g0 s0200
+JP: でも、夏の料理だって{n}かなりのものじゃないか。{n}決して負けてないと思うけどな。{p}
+EN: But your cooking's pretty great too, Natsu. I think it holds its own.{p}
+
+## MGK12 g0 s0201
+JP: ありがと、お世辞でもうれしいわ。{n}そうだ、アタシに何か話があったんでしょ?{n}なに?{p}
+EN: Thanks. Even if it's flattery, I'm happy. Oh right, you wanted to talk to me about something, didn't you? What is it?{p}
+
+## MGK12 g0 s0202
+JP: ああ、ちょっと会場を出て{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Yeah. Wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0203
+JP: へぇ～、巨大なクリスマスツリーか。{n}面白そうね、行ってみましょ。{p}{end}
+EN: Ooh, a giant Christmas tree? Sounds fun. Let's go.{p}{end}
+
+## MGK12 g0 s0205
+JP: でも、アンタも変わってるよね。{n}わざわざ私なんかを誘うなんて。{n}ひなたとかカワイイ子もいたのに。{p}{end}
+EN: But you're kind of odd, you know. Going out of your way to ask me. There were cute girls like Hinata around too.{p}{end}
+
+## MGK12 g0 s0206
+JP: （そう言われてみれば、俺はなんで{n}{sp}夏を誘ったんだ?）{p}
+EN: (Now that she mentions it, why did I ask Natsu?){p}
+
+## MGK12 g0 s0207
+JP: 夏と一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}{end}
+EN: It's fun being with Natsu{n}She'd love to see the tree{p}{end}
+
+## MGK12 g0 s0208
+JP: でも、俺は夏と一緒にいる方が{n}楽しいから。{p}
+EN: Eh, I just have more fun hanging out with you, Natsu.{p}
+
+## MGK12 g0 s0209
+JP: えっ、ちょっ、ちょっとヤダ……{n}からかわないでよ、もう。{p}{end}
+EN: Wh-what, c-come on... Don't tease me, geez.{p}{end}
+
+## MGK12 g0 s0210
+JP: {v6:4}、クリスマスツリーって{n}あれかしら?{p}{end}
+EN: {v6:4}, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0211
+JP: キレイね……{n}なんだか、ため息がでちゃうわ。{p}{end}
+EN: It's beautiful... It almost makes me sigh.{p}{end}
+
+## MGK12 g0 s0214
+JP: 夏?{n}急に黙りこんで、どうかしたの?{p}{end}
+EN: Natsu? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0215
+JP: う、ううん、なんでもないわよ。{n}ちょっとツリーに見とれてただけ。{p}{end}
+EN: N-no, it's nothing. I was just staring at the tree.{p}{end}
+
+## MGK12 g0 s0217
+JP: ……優しいんだね。{n}やっぱり、{v6:4}と一緒にいると{n}なんだかすごくおちつくわ。{p}{end}
+EN: ...You're sweet. Being with you always makes me feel so calm, {v6:4}.{p}{end}
+
+## MGK12 g0 s0218
+JP: （この後、俺と夏は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Natsu and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0219
+JP: 夏にツリーを見せたら、{n}きっと喜ぶと思ってさ。{p}
+EN: I figured you'd love seeing the tree, Natsu.{p}
+
+## MGK12 g0 s0220
+JP: あら。{n}それじゃ、わざわざ呼びに来てくれたの?{n}悪かったわね。{p}
+EN: Oh. So you came all the way to get me? Sorry for the trouble.{p}
+
+## MGK12 g0 s0222
+JP: ずいぶんおっきなもみの木ね……{n}なんだか、ため息がでちゃうわ。{n}でも、全然ライトアップされてない{n}みたいだけど?{p}{end}
+EN: What a huge fir tree... It almost makes me sigh. But it doesn't look lit up at all, does it?{p}{end}
+
+## MGK12 g0 s0224
+JP: ……故障じゃしょうがないね。{n}外にいても寒いだけだし、{n}パーティー会場に戻りましょう。{p}
+EN: ...Well, if it's broken, it can't be helped. It's just cold out here, so let's go back to the party.{p}
+
+## MGK12 g0 s0226
+JP: いたいた。{n}探したぜ、ロベルト。{p}{end}
+EN: There you are. I've been looking for you, Roberto.{p}{end}
+
+## MGK12 g0 s0227
+JP: どうした、{v3:5}。{n}俺に何か用かい?{p}
+EN: What's up, {v3:5}? Need something from me?{p}
+
+## MGK12 g0 s0228
+JP: いやぁ、用ってほどの事じゃないんだけど…{p}{end}
+EN: Well, it's not really anything important...{p}{end}
+
+## MGK12 g0 s0229
+JP: どうした?{sp}俺たちの仲だろ?{n}何でも言ってみろよ。{p}
+EN: What's wrong? Come on, we're friends, right? Just say it.{p}
+
+## MGK12 g0 s0230
+JP: それじゃ、ちょっと会場を抜け出して、{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Then wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0231
+JP: クリスマスツリーか……{n}屋内で見かけないと思ったら、{n}中庭にあったってわけだ。{p}
+EN: A Christmas tree, huh... I didn't see one inside. So it was out in the courtyard.{p}
+
+## MGK12 g0 s0233
+JP: しかし、オマエも変わってるな。{n}わざわざ俺なんかを誘うとはね。{n}夏でも誘えば良かったんじゃないか?{p}
+EN: But you're an odd one. Going out of your way to invite me. Shouldn't you have asked Natsu or someone?{p}
+
+## MGK12 g0 s0234
+JP: （そう言われてみれば、俺はなんで{n}{sp}ロベルトを誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Roberto?){p}{end}
+
+## MGK12 g0 s0235
+JP: ロベルトと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Roberto{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0236
+JP: でも、俺はロベルトと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Roberto.{p}{end}
+
+## MGK12 g0 s0237
+JP: ま、まあ、そう言われて悪い気は{n}しないけどな……{p}{end}
+EN: W-well, can't say I mind hearing that...{p}{end}
+
+## MGK12 g0 s0238
+JP: おっ、{n}お前のいってたクリスマスツリーってのは{n}あれのことか?{p}
+EN: Oh, is that the Christmas tree you were talking about?{p}
+
+## MGK12 g0 s0239
+JP: ……こりゃあ、確かに大きいな。{p}
+EN: ...Wow, it sure is big.{p}
+
+## MGK12 g0 s0242
+JP: ロベルト?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Roberto? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0243
+JP: い、いや、なんでもない。{n}ガラにもなく、ちょっとツリーに{n}見入ってしまっただけさ。{p}
+EN: N-no, it's nothing. Not like me, but I just got a little lost looking at the tree.{p}
+
+## MGK12 g0 s0245
+JP: ははは。{n}やっぱり、面白いヤツだな。{n}一緒にいて退屈しないっていうのは、{n}お前くらいだよ。{p}
+EN: Hahaha. You really are a funny one. You're about the only person I never get bored with.{p}
+
+## MGK12 g0 s0246
+JP: （この後、{n}{sp}俺とロベルトはパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Roberto and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0247
+JP: いや、ロベルトなら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Roberto.{p}
+
+## MGK12 g0 s0248
+JP: なるほどね、{n}さしずめ俺は、ボディーガードってわけだ。{p}
+EN: I see. So I'm your bodyguard, basically.{p}
+
+## MGK12 g0 s0250
+JP: こりゃまた、でっかいもみの木だな。{n}でも、全然ライトアップされてないぜ。{p}{end}
+EN: Whoa, that's one big fir tree. But it isn't lit up at all.{p}{end}
+
+## MGK12 g0 s0252
+JP: まっ、故障じゃしょうがないな。{n}外にいても寒いだけだし、{n}パーティー会場に戻ろうぜ。{p}{end}
+EN: Well, nothing we can do if it's broken. It's just cold out here, so let's head back to the party.{p}{end}
+
+## MGK12 g0 s0254
+JP: いたいた。{n}探したぜ、ロイ。{p}{end}
+EN: There you are. I've been looking for you, Roy.{p}{end}
+
+## MGK12 g0 s0255
+JP: どうした?{n}ボクに何か用かい?{p}
+EN: What's up? Need something from me?{p}
+
+## MGK12 g0 s0257
+JP: ああ、中庭のツリーのことか。{n}あのツリーは今日のパーティーのために{n}カナダから輸送されたものなんだ。{p}{end}
+EN: Oh, you mean the tree in the courtyard. That tree was shipped all the way from Canada for today's party.{p}{end}
+
+## MGK12 g0 s0258
+JP: 今日のパーティーのために、わざわざ?{n}スケールがちがうなぁ……{p}
+EN: All the way here, just for today's party? You really do things on another scale...{p}
+
+## MGK12 g0 s0259
+JP: どうせやるなら、本格的にやらないとな。{n}それじゃ、ツリーを見に行こうぜ。{p}{end}
+EN: If you're gonna do it, do it right. Well then, let's go see the tree.{p}{end}
+
+## MGK12 g0 s0261
+JP: しかし、ボクなんかをわざわざ誘うなんて、{n}キミもつくづく変わってるな。{n}誰か女の子でも誘えば良かったじゃないか。{p}{end}
+EN: Still, going out of your way to invite me... You really are a strange one. You could've asked some girl.{p}{end}
+
+## MGK12 g0 s0262
+JP: （そう言われてみれば、俺はなんで{n}{sp}ロイを誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Roy?){p}{end}
+
+## MGK12 g0 s0263
+JP: ロイと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Roy{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0264
+JP: でも、俺はロイと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Roy.{p}{end}
+
+## MGK12 g0 s0265
+JP: ハハハ。{n}まあ、そう言われると悪い気はしないな。{p}{end}
+EN: Hahaha. Well, I can't say I mind hearing that.{p}{end}
+
+## MGK12 g0 s0266
+JP: おっ、あれが例のクリスマスツリー{n}じゃないか?{p}
+EN: Oh, isn't that the Christmas tree?{p}
+
+## MGK12 g0 s0267
+JP: ……ずいぶん大きいな。{n}ボクが頼んだツリーは、{n}こんなに大きくなかったはずだが。{p}{end}
+EN: ...That's pretty big. The tree I ordered wasn't supposed to be this big, though.{p}{end}
+
+## MGK12 g0 s0270
+JP: ロイ?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Roy? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0271
+JP: い、いや、なんでもない。{n}ちょっとツリーの大きさに圧倒されて{n}しまってね。{p}
+EN: N-no, it's nothing. I was just a little overwhelmed by how big the tree is.{p}
+
+## MGK12 g0 s0273
+JP: ははは。{n}やっぱり、キミは面白いヤツだな。{n}一緒にいても全然退屈しない。{p}{end}
+EN: Hahaha. You really are a funny one. I'm never bored with you around.{p}{end}
+
+## MGK12 g0 s0274
+JP: （この後、{n}{sp}俺とロイはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Roy and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0275
+JP: いや、ロイなら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Roy.{p}
+
+## MGK12 g0 s0276
+JP: ハハハハハ!{n}まさか、ボディーガード代わりにされる{n}とは思わなかったよ。{p}{end}
+EN: Hahahaha! I never thought I'd end up as somebody's bodyguard.{p}{end}
+
+## MGK12 g0 s0277
+JP: おっ、例のクリスマスツリーは{n}あれだな?{p}{end}
+EN: Oh, there's the Christmas tree.{p}{end}
+
+## MGK12 g0 s0278
+JP: おかしいな、全然ライトアップ{n}されていないようだが……{p}
+EN: That's weird. It doesn't seem to be lit up at all...{p}
+
+## MGK12 g0 s0280
+JP: まあ、故障じゃ仕方ないな。{n}これじゃ外にいても寒いだけだ、{n}パーティー会場に戻ろうぜ。{p}
+EN: Well, nothing we can do if it's broken. It's just cold out here like this, so let's head back to the party.{p}
+
+## MGK12 g0 s0282
+JP: いたいた。{n}探したよ、ティファニー。{p}{end}
+EN: There you are. I've been looking for you, Tiffany.{p}{end}
+
+## MGK12 g0 s0283
+JP: {v3:7}、どーしたの?{n}ミーと一緒にダンス踊る?{p}{end}
+EN: {v3:7}, what's up? Wanna dance with me?{p}{end}
+
+## MGK12 g0 s0284
+JP: ダンス?{p}{end}
+EN: Dance?{p}{end}
+
+## MGK12 g0 s0285
+JP: YES!{n}こういうパーティーではつきものネ。{p}{end}
+EN: YES! You can't have a party like this without dancing.{p}{end}
+
+## MGK12 g0 s0286
+JP: 踊ってみたいのはヤマヤマだけど、{n}踊り方とかステップとか、そういうの{n}全然知らないんだ。{p}{end}
+EN: I'd love to give it a try, but I don't know any dances or steps or anything.{p}{end}
+
+## MGK12 g0 s0287
+JP: そうなの?{sp}残念ネ。{p}{end}
+EN: Really? That's too bad.{p}{end}
+
+## MGK12 g0 s0288
+JP: それより、ちょっと会場を出て{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Anyway, wanna head out and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0289
+JP: ビッグなクリスマスツリーですか!?{n}なんだか面白そうネ、行ってみましょ!{p}{end}
+EN: A BIG Christmas tree!? Sounds like fun! Let's go!{p}{end}
+
+## MGK12 g0 s0291
+JP: でも、ユーも変わってるネ。{n}わざわざミーなんか誘うなんて。{n}会場にもっとカワイイ子もいたよ。{p}{end}
+EN: But you're funny. Going out of your way to invite me. There were cuter girls at the party too.{p}{end}
+
+## MGK12 g0 s0292
+JP: （そう言われてみれば、俺はなんで{n}{sp}ティファニーを誘ったんだ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Tiffany?){p}{end}
+
+## MGK12 g0 s0293
+JP: ティファニーと一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}
+EN: It's fun being with Tiffany{n}She'd love to see the tree{p}
+
+## MGK12 g0 s0294
+JP: でも、俺はティファニーと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Tiffany.{p}{end}
+
+## MGK12 g0 s0295
+JP: エヘヘ……{n}{v3:7}、うれしいコト言うネ。{p}
+EN: Ehehe... {v3:7}, you say such nice things.{p}
+
+## MGK12 g0 s0296
+JP: ねぇ、クリスマスツリーってアレかな?{p}{end}
+EN: Hey, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0297
+JP: ワォ、キレイね……{n}なんだか、タメ息がでちゃう。{p}{end}
+EN: Wow, it's beautiful... It makes me sigh.{p}{end}
+
+## MGK12 g0 s0300
+JP: ティファニー?{n}急に黙りこんで、どうかしたの?{p}
+EN: Tiffany? You went quiet all of a sudden. What's up?{p}
+
+## MGK12 g0 s0301
+JP: ソーリィ、何でもないわよ。{n}ちょっとツリーに見とれてただけネ。{p}
+EN: Sorry, it's nothing. I was just staring at the tree.{p}
+
+## MGK12 g0 s0303
+JP: ……{v3:7}、優しいデスね。{n}ミーは、{v3:7}と一緒にいると{n}なんだかすごくおちつくネ。{p}{end}
+EN: ...You're so sweet, {v3:7}. I always feel so calm with you, {v3:7}.{p}{end}
+
+## MGK12 g0 s0304
+JP: （この後、俺とティファニーは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Tiffany and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0305
+JP: ティファニーにツリーを見せたら、{n}きっと喜ぶと思ってさ。{p}{end}
+EN: I figured you'd love seeing the tree, Tiffany.{p}{end}
+
+## MGK12 g0 s0306
+JP: それじゃ、わざわざ呼びに来てくれたの?{n}サンキュー、{v3:7}!{p}
+EN: So you came all the way to get me? Thank you, {v3:7}!{p}
+
+## MGK12 g0 s0308
+JP: ワォ、おっきなツリーね……{n}なんだか、ため息がでちゃう。{n}でも、全然ライトアップされてないヨ?{n}どーして?{p}
+EN: Wow, what a big tree... It makes me sigh. But it's not lit up at all? Why?{p}
+
+## MGK12 g0 s0310
+JP: ……故障、残念だけど仕方ないネ。{n}これじゃ外にいても寒いだけネ。{n}早くパーティー会場に戻りましょ。{p}
+EN: ...It's broken? Too bad, but it can't be helped. It's just cold out here like this. Let's hurry back to the party.{p}
+
+## MGK12 g0 s0312
+JP: いたいた。{n}探したぜ、ボーマン。{p}{end}
+EN: There you are. I've been looking for you, Boman.{p}{end}
+
+## MGK12 g0 s0313
+JP: どうしました?{n}私に何か御用ですか?{p}{end}
+EN: What is it? Do you need something from me?{p}{end}
+
+## MGK12 g0 s0314
+JP: いや、そんな用ってほどの事じゃ{n}ないんだけどね。{p}{end}
+EN: Well, it's not really anything important.{p}{end}
+
+## MGK12 g0 s0315
+JP: 遠慮せずに何でも言ってください。{n}私にできることでしたら、協力は{n}惜しみませんよ。{p}
+EN: Please, do not hold back. Tell me anything. If there is something I can do, I will gladly help.{p}
+
+## MGK12 g0 s0316
+JP: それじゃあ、ちょっと会場を抜け出して{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Then wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0317
+JP: なるほど、クリスマスツリーですか。{n}そういえば、この会場にはツリーがないと{n}思ってましたが、中庭にあったのですね。{p}
+EN: I see, a Christmas tree. I did think there was no tree in the hall. So it was in the courtyard.{p}
+
+## MGK12 g0 s0319
+JP: でも、わざわざ私なんかを誘うなんて、{n}君も変わってますね。{n}ティファニーでも誘えば良かったのでは{n}ないですか?{p}
+EN: But you are an odd one, inviting someone like me. Would it not have been better to ask Tiffany?{p}
+
+## MGK12 g0 s0320
+JP: （そう言われてみれば、俺はなんで{n}{sp}ボーマンを誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Boman?){p}{end}
+
+## MGK12 g0 s0321
+JP: ボーマンと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Boman{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0322
+JP: でも、俺はボーマンと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Eh, I just have more fun hanging out with you, Boman.{p}{end}
+
+## MGK12 g0 s0323
+JP: ……そう言われて、悪い気はしませんね。{p}
+EN: ...I cannot say I mind hearing that.{p}
+
+## MGK12 g0 s0324
+JP: おや、クリスマスツリーというのは{n}あれのことでしょうか?{p}{end}
+EN: Oh, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0325
+JP: ……これは、大きいですねぇ。{p}{end}
+EN: ...My, it is big.{p}{end}
+
+## MGK12 g0 s0328
+JP: ボーマン?{n}急に黙りこんで、どうかしたのか?{p}{end}
+EN: Boman? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0329
+JP: い、いえ、なんでもありませんよ。{n}あまりにキレイだったので、{n}少しツリーに見入ってしまいました。{p}{end}
+EN: N-no, it is nothing. It was so beautiful that I became a little lost in the tree.{p}{end}
+
+## MGK12 g0 s0331
+JP: ははは。{n}やっぱり、君は面白い人ですね。{n}一緒にいると、退屈という言葉を忘れて{n}しまいますよ。{p}
+EN: Hahaha. You really are an interesting person. With you, I forget the very word "boredom."{p}
+
+## MGK12 g0 s0332
+JP: （この後、{n}{sp}俺とボーマンはパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Boman and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0333
+JP: いや、ボーマンなら夜道では頼りになるかな{n}と思ってさ。{p}
+EN: Nah, I just figured you'd be good to have around on a dark night, Boman.{p}
+
+## MGK12 g0 s0334
+JP: なるほど、私はボディーガード代わり{n}というところですか。{p}{end}
+EN: I see. So I am to be your bodyguard.{p}{end}
+
+## MGK12 g0 s0335
+JP: おや、クリスマスツリーってのは{n}あれのことでしょうか?{p}
+EN: Oh, would that be the Christmas tree?{p}
+
+## MGK12 g0 s0336
+JP: これはまた、大きなもみの木ですね。{n}しかし、全然ライトアップされてませんが。{p}{end}
+EN: What a large fir tree. But it is not lit up at all.{p}{end}
+
+## MGK12 g0 s0338
+JP: そうですか、故障では仕方ないですね。{n}このまま外にいても寒いだけですし、{n}パーティー会場に戻りましょう。{p}{end}
+EN: I see. If it is broken, it cannot be helped. It is only cold out here, so let us go back to the party.{p}{end}
+
+## MGK12 g0 s0340
+JP: いたいた。{n}探したぜ、エッジ。{p}
+EN: There you are. I've been looking for you, Edge.{p}
+
+## MGK12 g0 s0341
+JP: よォ。{n}なんだか、落ち着かなくねぇか?{p}
+EN: Yo. Don't this place make ya kinda twitchy?{p}
+
+## MGK12 g0 s0342
+JP: ああ、そうだな。{n}こういう豪華なパーティーって俺も{n}ほとんど来た事がないし、どうしたら{n}いいのかわからないよな。{p}{end}
+EN: Yeah. I've hardly ever been to a fancy party like this either. I have no idea what to do.{p}{end}
+
+## MGK12 g0 s0343
+JP: どいつもこいつも気取ってるしよ。{n}なんだか居心地わりいんだよな。{p}{end}
+EN: Everybody here's so stuck-up. Makes me real uncomfortable.{p}{end}
+
+## MGK12 g0 s0344
+JP: そんな事気にしてないで、とりあえず{n}料理でも食べてればいいのに。{p}{end}
+EN: Don't worry about that. Just eat some food or something.{p}{end}
+
+## MGK12 g0 s0345
+JP: オレはオマエや岩みたいに、{n}そんなガサツにはできてねぇっての。{p}
+EN: I ain't as thick-skinned as you or Gan, y'know.{p}
+
+## MGK12 g0 s0346
+JP: それなら、ちょっと会場を抜け出して、{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Then wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0347
+JP: そうだな、暇つぶしにちょっくら{n}行ってみるか。{p}
+EN: Sure, might as well go kill some time.{p}
+
+## MGK12 g0 s0349
+JP: でも、オマエも変わってるよな。{n}わざわざオレなんかを誘うなんてよ。{n}アキラでも誘えば良かったじゃねぇか。{p}{end}
+EN: But you're a weird one, y'know. Comin' to get me, of all people. Shoulda asked Akira or somethin'.{p}{end}
+
+## MGK12 g0 s0350
+JP: （そう言われてみれば、俺はなんで{n}{sp}エッジを誘ったんだ?）{p}
+EN: (Now that he mentions it, why did I ask Edge?){p}
+
+## MGK12 g0 s0351
+JP: エッジと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Edge{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g0 s0352
+JP: でも、俺はエッジと一緒にいる方が{n}楽しいから。{p}
+EN: Eh, I just have more fun hanging out with you, Edge.{p}
+
+## MGK12 g0 s0355
+JP: ……なんだこりゃ?{n}メチャクチャでっけぇなぁ。{p}
+EN: ...The heck is this? It's freakin' huge.{p}
+
+## MGK12 g0 s0358
+JP: エッジ?{n}急に黙りこんで、どうかしたのか?{p}
+EN: Edge? You went quiet all of a sudden. What's up?{p}
+
+## MGK12 g0 s0359
+JP: なっ、なんでもねぇよ!{n}べべべ、別に、ツリーがすげぇキレイで{n}見入ってたわけじゃねぇからな!{p}{end}
+EN: N-nothin'! I-I-I wasn't starin' at the tree 'cause it was so pretty or nothin', got it!?{p}{end}
+
+## MGK12 g0 s0360
+JP: ハイハイ、わかってるよ。{n}エッジはツリーに見とれてなんか{n}いないんだろ?{p}{end}
+EN: Yeah, yeah, I get it. You're not staring at the tree, right, Edge?{p}{end}
+
+## MGK12 g0 s0361
+JP: やっぱり、オマエって不思議なヤツだぜ。{n}オマエと一緒にいると、時間がたつのが{n}スゲェ早いんだよ。{p}{end}
+EN: You really are a weird one. When I'm with you, time goes by crazy fast.{p}{end}
+
+## MGK12 g0 s0362
+JP: （この後、{n}{sp}俺とエッジはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Edge and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0363
+JP: いや、エッジなら夜道では頼りになるかな{n}と思ってさ。{p}{end}
+EN: Nah, I just figured you'd be good to have around on a dark night, Edge.{p}{end}
+
+## MGK12 g0 s0364
+JP: ケッ、いい度胸してやがんぜ。{n}オレをボディーガード代わりにしやがる{n}なんてよ。{p}
+EN: Tch, you got some nerve. Usin' me as your bodyguard.{p}
+
+## MGK12 g0 s0365
+JP: おっ、クリスマスツリーってのは{n}あれのことかァ?{p}{end}
+EN: Oh, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0366
+JP: おいおい、えらくでっけえツリーだな。{n}でも、全然ライトアップされて{n}ねぇじゃん?{p}{end}
+EN: Whoa, that's one huge tree. But it ain't lit up at all, huh?{p}{end}
+
+## MGK12 g0 s0368
+JP: まっ、故障じゃしょうがねぇか。{n}外にいても寒いだけだし、{n}パーティー会場に戻ろうぜェ。{p}
+EN: Well, nothin' we can do if it's broken. It's just cold out here, so let's head back to the party.{p}
+
+## MGK12 g0 s0370
+JP: やあ、アキラ。{n}こんな所にいたのかい。{p}
+EN: Hey, Akira. So this is where you were.{p}
+
+## MGK12 g0 s0371
+JP: うん、醍醐兄さんにお料理をもって{n}行こうと思って。{p}
+EN: Yes. I was going to take some food to my big brother.{p}
+
+## MGK12 g0 s0372
+JP: なんだか、{n}今日はいつもと雰囲気がちがうね。{n}そのカワイイ服のせいかな?{p}{end}
+EN: You seem different today somehow. Maybe it's that cute outfit?{p}{end}
+
+## MGK12 g0 s0373
+JP: えっ、そうかな?{n}この服、私に似合ってる?{p}
+EN: Oh, you think so? Does this outfit look good on me?{p}
+
+## MGK12 g0 s0374
+JP: もちろん、すごくカワイイぜ。{p}{end}
+EN: Of course. You look really cute.{p}{end}
+
+## MGK12 g0 s0375
+JP: ありがとう。{n}やっぱり、オシャレしてきて良かった{col:5}♥{col:-}{p}
+EN: Thank you. I'm glad I dressed up after all{col:5}♥{col:-}{p}
+
+## MGK12 g0 s0376
+JP: ねえ、アキラ。{n}ちょっと会場を出て中庭に行ってみないか?{n}なんか、すごく大きいクリスマスツリーが{n}あるらしいんだ。{p}
+EN: Hey, Akira. Wanna head out and check out the courtyard? I hear there's a really big Christmas tree out there.{p}
+
+## MGK12 g0 s0377
+JP: クリスマスツリー?{n}ちょっと見てみたいかな。{n}行ってみましょう。{p}{end}
+EN: A Christmas tree? I'd kind of like to see it. Let's go.{p}{end}
+
+## MGK12 g0 s0379
+JP: でも、あなたも変わってるのね。{n}わざわざ私なんか誘うなんて……{n}会場にはもっとカワイイ子もいたのに。{p}{end}
+EN: But you're a little odd. Going out of your way to invite me... There were cuter girls at the party.{p}{end}
+
+## MGK12 g0 s0380
+JP: （そう言われてみれば、俺はなんで{n}{sp}アキラを誘ったんだ?）{p}
+EN: (Now that she mentions it, why did I ask Akira?){p}
+
+## MGK12 g0 s0381
+JP: アキラと一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}{end}
+EN: It's fun being with Akira{n}She'd love to see the tree{p}{end}
+
+## MGK12 g0 s0382
+JP: でも、俺はアキラと一緒にいる方が{n}楽しいから。{p}
+EN: Eh, I just have more fun hanging out with you, Akira.{p}
+
+## MGK12 g0 s0383
+JP: や、やだ……{n}もう、冗談もほどほどにしてよ。{p}{end}
+EN: C-come on... Don't joke around like that.{p}{end}
+
+## MGK12 g0 s0384
+JP: クリスマスツリーってあれの事かしら?{p}{end}
+EN: Is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0385
+JP: うわぁ、キレイ……{n}ホントに、ため息がでちゃうくらいキレイ。{p}{end}
+EN: Wow, it's beautiful... So beautiful it makes me sigh.{p}{end}
+
+## MGK12 g0 s0388
+JP: アキラ?{n}急に黙りこんで、どうかしたの?{p}{end}
+EN: Akira? You went quiet all of a sudden. What's up?{p}{end}
+
+## MGK12 g0 s0389
+JP: ううん、何でもないの。{n}ちょっとツリーに見とれてただけ。{p}{end}
+EN: No, it's nothing. I was just staring at the tree.{p}{end}
+
+## MGK12 g0 s0391
+JP: ……なんだか不思議。{n}{v5:10}と一緒にいると、{n}まるで兄さんと一緒にいる時みたいに{n}落ち着くの。どうしてかしら。{p}{end}
+EN: ...It's strange. When I'm with you, {v5:10}, I feel as calm as I do with my big brother. I wonder why.{p}{end}
+
+## MGK12 g0 s0392
+JP: （この後、俺とアキラは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Akira and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0393
+JP: アキラにツリーを見せたら、{n}きっと喜ぶと思ってさ。{p}
+EN: I figured you'd love seeing the tree, Akira.{p}
+
+## MGK12 g0 s0394
+JP: それじゃ、{n}わざわざ私を呼びに来てくれたの?{n}なんだか、悪いことしちゃったわね。{p}{end}
+EN: So you came all the way to get me? I'm sorry for the trouble.{p}{end}
+
+## MGK12 g0 s0396
+JP: 大きなもみの木……すごいわ。{n}でも、全然ライトアップされてない{n}みたいだけど、どうしたのかしら??{p}
+EN: What a big fir tree... Amazing. But it doesn't seem lit up at all. I wonder what's wrong??{p}
+
+## MGK12 g0 s0398
+JP: ……故障?{sp}残念だけど仕方ないわね。{n}このまま外にいても寒いだけだし、{n}パーティー会場に戻りましょ。{p}{end}
+EN: ...It's broken? Too bad, but it can't be helped. It's just cold out here, so let's go back to the party.{p}{end}
+
+## MGK12 g0 s0400
+JP: いたいた。{n}探したぜ、岩。{p}
+EN: There you are. I've been looking for you, Gan.{p}
+
+## MGK12 g0 s0401
+JP: おう、{v3:11}。{n}ここのメシはウマイぞ!{n}しかも、食べ放題というのが{n}またうれしいのう。{p}{end}
+EN: Oh, {v3:11}. The grub here's mighty fine! And it's all-you-can-eat, to boot.{p}{end}
+
+## MGK12 g0 s0402
+JP: ははは。{n}岩は問題なくパーティーを{n}楽しんでるみたいだね。{p}
+EN: Hahaha. Looks like you're having no trouble enjoying the party, Gan.{p}
+
+## MGK12 g0 s0403
+JP: わしゃあ、食いもんさえあれば{n}文句は言わんぞい。{n}それよりも{v3:11}よ、何か用があって{n}ワシの所に来たんじゃろう?{p}
+EN: Long as there's food, I ain't got no complaints. More to the point, {v3:11}, ya came over 'cause ya wanted somethin', right?{p}
+
+## MGK12 g0 s0404
+JP: そうそう。ちょっと会場を抜け出して、{n}中庭に行ってみないか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんだよ。{p}
+EN: Right. Wanna slip out of the party and check out the courtyard? I hear there's some huge Christmas tree out there.{p}
+
+## MGK12 g0 s0405
+JP: うむ、そろそろ食いあきてきた所じゃ。{n}腹ごなしも兼ねて、ちょっくら{n}行ってみるとするかのう。{p}{end}
+EN: Hmm, I was gettin' tired of eatin' anyway. Reckon I'll walk it off and go take a look.{p}{end}
+
+## MGK12 g0 s0407
+JP: しかし、おぬしも変わってるのう。{n}わざわざワシなんぞを誘わずに、{n}アキラでも誘えば良かったんじゃ。{p}
+EN: Still, you're a strange one. Instead of askin' a lug like me, ya shoulda asked Akira.{p}
+
+## MGK12 g0 s0408
+JP: （そう言われてみれば、俺はなんで{n}{sp}岩を誘ったんだ?）{p}
+EN: (Now that he mentions it, why did I ask Gan?){p}
+
+## MGK12 g0 s0409
+JP: 岩と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Gan{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g0 s0410
+JP: でも、俺は岩と一緒にいる方が{n}楽しいから。{p}
+EN: Eh, I just have more fun hanging out with you, Gan.{p}
+
+## MGK12 g0 s0411
+JP: ま、まあ、そう言われて悪い気は{n}せんが……{p}
+EN: W-well, can't say I mind hearin' that...{p}
+
+## MGK12 g0 s0412
+JP: おう、クリスマスツリーってのは{n}あれじゃな?{p}{end}
+EN: Oh, that there's the Christmas tree, eh?{p}{end}
+
+## MGK12 g0 s0413
+JP: ……こりゃあ、デカイのう。{n}ワシから見てもデカイ。{p}
+EN: ...Now that's a big one. Big even to me.{p}
+
+## MGK12 g0 s0416
+JP: 岩?{n}急に黙りこんで、どうかしたのか?{p}
+EN: Gan? You went quiet all of a sudden. What's up?{p}
+
+## MGK12 g0 s0417
+JP: ……おう、つい見とれてしもうたわい。{n}なんだかワシらしくないのう。{p}
+EN: ...Oh, I just got caught up starin' at it. Ain't much like me, huh.{p}
+
+## MGK12 g0 s0419
+JP: ガッハッハ!{n}おぬしは面白いヤツじゃのう。{n}おぬしと一緒にいれば退屈せんわい。{p}
+EN: Gahaha! You're a funny one. Never a dull moment with you around.{p}
+
+## MGK12 g0 s0420
+JP: （この後、{n}{sp}俺と岩はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Gan and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0421
+JP: いや、岩なら夜道では頼りになるかな{n}と思ってさ。{p}{end}
+EN: Nah, I just figured you'd be good to have around on a dark night, Gan.{p}{end}
+
+## MGK12 g0 s0422
+JP: やれやれ、{n}おぬしの護衛をさせられるとはのう。{p}
+EN: Well, well. So I'm stuck bein' your bodyguard.{p}
+
+## MGK12 g0 s0424
+JP: ……こりゃあ、デカイのう。{n}ワシから見てもデカイ。{n}しかし、全然光っとらんぞい。{p}{end}
+EN: ...Now that's a big one. Big even to me. But it ain't lit up at all.{p}{end}
+
+## MGK12 g0 s0426
+JP: なんだか良くわからんが、{n}外にいても寒いだけじゃぞ。{n}ここはひとつ、パーティー会場に戻らんか?{p}
+EN: Dunno what's goin' on, but it's just cold out here. Whaddaya say we head back to the party?{p}
+
+## MGK12 g0 s0428
+JP: いたいた。{n}探しましたよ、英雄先生。{p}{end}
+EN: There you are. I've been looking for you, Hideo-sensei.{p}{end}
+
+## MGK12 g0 s0429
+JP: やあ、{v0}{col:0}君{col:-}。{n}それにしても、にぎやかなパーティー{n}ですね。{p}
+EN: Hello, {v0}{col:0}-kun{col:-}. What a lively party this is.{p}
+
+## MGK12 g0 s0430
+JP: そうですね。{n}なんでも、芸能人やプロスポーツ選手{n}なんかも招待されているらしいですよ。{p}
+EN: It is. I heard they even invited celebrities and pro athletes.{p}
+
+## MGK12 g0 s0431
+JP: ……私たちはすごいパーティーに{n}招待されているんですね。{n}ところで、私に何か用があったのでは{n}ないですか?{p}
+EN: ...We've been invited to quite a party, haven't we? By the way, didn't you need something from me?{p}
+
+## MGK12 g0 s0432
+JP: ええ、ちょっと会場を抜け出して{n}中庭に行ってみませんか?{n}なんでも大きなクリスマスツリーが{n}あるらしいんです。{p}
+EN: Yes. Would you like to slip out of the party and go to the courtyard? I hear there's a big Christmas tree out there.{p}
+
+## MGK12 g0 s0433
+JP: なるほど、気分転換によさそうですね。{n}ここはひとつ、行ってみましょうか。{p}{end}
+EN: I see, that sounds like a nice change of pace. Let's go take a look.{p}{end}
+
+## MGK12 g0 s0435
+JP: しかし、君も変わってますね。{n}わざわざ私なんかを誘うなんて。{n}同年代の女の子でも誘えば{n}良かったんじゃないですか?{p}
+EN: But you're an odd one. Going out of your way to invite me. Wouldn't it have been better to ask a girl your own age?{p}
+
+## MGK12 g0 s0436
+JP: （そう言われてみれば、俺はなんで{n}{sp}英雄先生を誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Hideo-sensei?){p}{end}
+
+## MGK12 g0 s0437
+JP: 英雄先生と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Hideo-sensei{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0438
+JP: でも、俺は英雄先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun when I'm with you, Hideo-sensei.{p}{end}
+
+## MGK12 g0 s0439
+JP: ま、まあ、そう言われて悪い気は{n}しませんが……{p}
+EN: W-well, I can't say I mind hearing that...{p}
+
+## MGK12 g0 s0440
+JP: おや、クリスマスツリーというのは{n}あれのことかな?{p}
+EN: Oh, is that the Christmas tree?{p}
+
+## MGK12 g0 s0441
+JP: ……これはまた、大きいですねぇ。{p}{end}
+EN: ...My, that is big.{p}{end}
+
+## MGK12 g0 s0442
+JP: ホントにでかいですね。{n}こんなクリスマスツリーはじめてですよ。{n}それにしても、キレイだなあ……{p}
+EN: It really is huge. I've never seen a Christmas tree like this. It sure is beautiful...{p}
+
+## MGK12 g0 s0444
+JP: 英雄先生?{n}急に黙りこんで、どうかしたんですか?{p}{end}
+EN: Hideo-sensei? You went quiet all of a sudden. Is something wrong?{p}{end}
+
+## MGK12 g0 s0445
+JP: い、いえ、なんでもありませんよ。{n}ガラにもなく、少しばかしツリーに{n}見入ってしまいました。{p}
+EN: N-no, it's nothing. Not like me, but I got a little lost looking at the tree.{p}
+
+## MGK12 g0 s0446
+JP: そうですか。{n}俺はまた、腹の具合でも悪くなったのかと{n}思いましたよ。{p}{end}
+EN: I see. Here I thought your stomach was acting up.{p}{end}
+
+## MGK12 g0 s0447
+JP: ははは。{n}なかなか面白いことを言いますね。{n}君と一緒にいると退屈しなくてすみますよ。{p}{end}
+EN: Hahaha. You say the funniest things. I'm never bored when I'm with you.{p}{end}
+
+## MGK12 g0 s0448
+JP: （この後、{n}{sp}俺と英雄先生はパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Hideo-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0449
+JP: いえ、英雄先生なら夜道では頼りになる{n}かなと思いまして。{p}{end}
+EN: No, I just thought you'd be good to have around on a dark night, Hideo-sensei.{p}{end}
+
+## MGK12 g0 s0450
+JP: なるほど、{n}私はボディーガード代わり{n}というわけですね。{p}{end}
+EN: I see. So I'm your bodyguard, then.{p}{end}
+
+## MGK12 g0 s0452
+JP: ……これはまた、大きいですねぇ。{n}しかし、全然ライトアップ{n}されていませんよ?{p}
+EN: ...My, that is big. But it isn't lit up at all, is it?{p}
+
+## MGK12 g0 s0454
+JP: まあ、故障じゃ仕方ないですね。{n}外にいても寒いですし、{n}風邪を引く前にパーティー会場に{n}戻りましょう。{p}
+EN: Well, if it's broken, it can't be helped. It's cold out here, so let's go back to the party before we catch a cold.{p}
+
+## MGK12 g0 s0456
+JP: 響子先生、こんな所にいたんですね。{p}
+EN: Kyoko-sensei, so this is where you were.{p}
+
+## MGK12 g0 s0457
+JP: あら、{v1}{col:0}クン{col:-}じゃない。{n}こっちにいらっしゃいよ。{p}{end}
+EN: Oh, if it isn't {v1}{col:0}-kun{col:-}. Come over here.{p}{end}
+
+## MGK12 g0 s0458
+JP: ウップ、お酒臭い……{n}先生、かなり飲んでますね。{p}{end}
+EN: Ugh, she reeks of alcohol... Sensei, you've had quite a bit, haven't you?{p}{end}
+
+## MGK12 g0 s0459
+JP: あら、こんなのぜ～んぜん「飲んだ」{n}うちに入らないわよぉ～{col:5}♥{col:-}{p}{end}
+EN: Oh, this hardly counts as "drinking" at a~ll{col:5}♥{col:-}{p}{end}
+
+## MGK12 g0 s0460
+JP: （駄目だ……響子先生は{n}{sp}すでに酔っ払いになっている。）{p}{end}
+EN: (It's no use... Kyoko-sensei is already drunk.){p}{end}
+
+## MGK12 g0 s0461
+JP: それで?{n}カワイイ{v1}{col:0}クン{col:-}は先生に{n}何か用事があるんでしょ?{p}
+EN: So? My cute {v1}{col:0}-kun{col:-} wants something from me, right?{p}
+
+## MGK12 g0 s0462
+JP: は、はあ。{n}中庭にすごく大きいクリスマスツリーが{n}あるらしいんで、良かったらごいっしょに{n}と思ったんですけど…無理そうですね。{p}
+EN: Uh, y-yes. I heard there's a really big Christmas tree in the courtyard, so I thought you might come along... but I guess not.{p}
+
+## MGK12 g0 s0463
+JP: なあに言ってるの。{n}先生は酔ってないっていってるでしょ?{n}もちろん行くにきまってるじゃない{col:5}♥{col:-}{p}{end}
+EN: What are you saying? I told you I'm not drunk, didn't I? Of course I'm coming{col:5}♥{col:-}{p}{end}
+
+## MGK12 g0 s0465
+JP: でも、あなたも変わってるわね。{n}わざわざ私なんか誘うなんて。{n}会場にはもっと若い子もいたのに。{p}
+EN: But you're an odd one. Going out of your way to invite me. There were younger girls at the party.{p}
+
+## MGK12 g0 s0466
+JP: （そう言われてみれば、俺はなんで{n}{sp}響子先生を誘ったんだ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Kyoko-sensei?){p}{end}
+
+## MGK12 g0 s0467
+JP: 響子先生と一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}
+EN: It's fun being with Kyoko-sensei{n}She'd love to see the tree{p}
+
+## MGK12 g0 s0468
+JP: でも、俺は響子先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun when I'm with you, Kyoko-sensei.{p}{end}
+
+## MGK12 g0 s0469
+JP: まあ、うれしい{col:5}♥{col:-}{n}先生も{v1}{col:0}クン{col:-}と一緒にいると{n}楽しいわぁ。{p}
+EN: Oh, how sweet{col:5}♥{col:-} I have fun with you too, {v1}{col:0}-kun{col:-}.{p}
+
+## MGK12 g0 s0470
+JP: ところで、クリスマスツリーって{n}あれの事かしら?{p}{end}
+EN: By the way, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0471
+JP: あら、ステキねぇ。{n}やっぱりクリスマスにはツリーがなくちゃ{n}駄目ね。{p}{end}
+EN: Oh, how lovely. Christmas just isn't Christmas without a tree.{p}{end}
+
+## MGK12 g0 s0472
+JP: そうですね。{n}それにしても、こんなキレイなクリスマス{n}ツリーはじめて見ました。{p}
+EN: It sure is. I've never seen such a beautiful Christmas tree.{p}
+
+## MGK12 g0 s0474
+JP: 響子先生?{n}急に黙りこんで、どうかしたんですか?{p}{end}
+EN: Kyoko-sensei? You went quiet all of a sudden. Is something wrong?{p}{end}
+
+## MGK12 g0 s0475
+JP: ううん、何でもないわ。{n}ちょっとツリーに見とれてただけだから。{p}
+EN: No, it's nothing. I was just admiring the tree.{p}
+
+## MGK12 g0 s0476
+JP: そうですか。{n}飲み過ぎで気分でも悪くなったのかと{n}思いましたよ。{p}{end}
+EN: I see. I thought maybe you'd had too much to drink and felt sick.{p}{end}
+
+## MGK12 g0 s0477
+JP: あら、心配してくれたの?{n}{v1}{col:0}クン{col:-}は優しいわね。{p}
+EN: Oh, were you worried about me? You're so sweet, {v1}{col:0}-kun{col:-}.{p}
+
+## MGK12 g0 s0478
+JP: （この後、俺と響子先生は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Kyoko-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0479
+JP: 響子先生にツリーを見せたら、{n}きっと喜ぶと思ったんで。{p}
+EN: I figured you'd love seeing the tree, Kyoko-sensei.{p}
+
+## MGK12 g0 s0480
+JP: それで、わざわざ私を呼びに来てくれたの?{n}なんだか、悪いことしちゃったわね。{p}{end}
+EN: So you came all the way to get me? Oh, now I feel a little bad.{p}{end}
+
+## MGK12 g0 s0482
+JP: まあ、おっきなツリーね。{n}でも、全然ライトアップされてない{n}みたいだけど、どうしたのかしら??{p}
+EN: My, what a big tree. But it doesn't look lit up at all. I wonder what's wrong??{p}
+
+## MGK12 g0 s0484
+JP: …そう、残念だけど仕方ないわね。{n}このまま外にいては風邪をひいてしまうから{n}早めにパーティー会場に戻りましょう。{p}{end}
+EN: ...I see. That's a shame, but it can't be helped. We'll catch cold if we stay out here, so let's hurry back to the party.{p}{end}
+
+## MGK12 g0 s0486
+JP: いたいた。{n}探しましたよ、隼人先生。{p}{end}
+EN: There you are. I've been looking for you, Hayato-sensei.{p}{end}
+
+## MGK12 g0 s0487
+JP: おう、どうした?{n}俺になにか用か?{p}
+EN: Yo, what's up? Need somethin' from me?{p}
+
+## MGK12 g0 s0488
+JP: いえ、大した事じゃないんですけど。{p}
+EN: No, it's nothing big, but...{p}
+
+## MGK12 g0 s0489
+JP: 何を遠慮してやがる、{n}今日はクリスマス・イヴだぞ!{n}何でも聞いてやるから、言ってみろ。{p}
+EN: What're ya holdin' back for? It's Christmas Eve! I'll hear ya out, whatever it is. Spit it out.{p}
+
+## MGK12 g0 s0490
+JP: それじゃあ、お言葉に甘えて。{p}{end}
+EN: Well, if you insist.{p}{end}
+
+## MGK12 g0 s0491
+JP: おう、どんと来い!!{p}{end}
+EN: Yeah, bring it on!!{p}{end}
+
+## MGK12 g0 s0492
+JP: 会場を抜け出して、{n}中庭に行ってみませんか?{n}なんかでっかいクリスマスツリーが{n}あるらしいんですよ。{p}{end}
+EN: Want to sneak out of the party and go to the courtyard? I heard there's a huge Christmas tree out there.{p}{end}
+
+## MGK12 g0 s0493
+JP: ほほう、クリスマスツリーか。{n}確かに、クリスマスにはつきもんだよなぁ。{n}よし、ちょっくら行ってみるか。{p}
+EN: Oho, a Christmas tree, huh? Sure, can't have Christmas without one. Alright, let's go take a look.{p}
+
+## MGK12 g0 s0495
+JP: しかし、オマエも変なヤツだな。{n}わざわざ俺なんか誘ってないで、{n}カワイコちゃんでも誘えば良かった{n}じゃねぇか。あ?{p}
+EN: Still, you're a weird one. Instead of draggin' me along, you shoulda asked some cutie. Huh?{p}
+
+## MGK12 g0 s0496
+JP: （そう言われてみれば、俺はなんで{n}{sp}隼人先生を誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Hayato-sensei?){p}{end}
+
+## MGK12 g0 s0497
+JP: 隼人先生と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Hayato-sensei{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0498
+JP: でも、俺は隼人先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun hanging out with you, Hayato-sensei.{p}{end}
+
+## MGK12 g0 s0499
+JP: おう、そうかそうか!{n}俺もオマエといると、こう、{n}魂が燃えてきやがるから楽しいぞ!{p}
+EN: Ha, is that so, is that so! Hangin' with you gets my soul all fired up, so I'm havin' fun too!{p}
+
+## MGK12 g0 s0500
+JP: おっ、クリスマスツリーってえのは{n}あれのことか?{p}{end}
+EN: Oh, is that the Christmas tree you meant?{p}{end}
+
+## MGK12 g0 s0501
+JP: ……こりゃあ、無意味にでっけぇなぁ。{n}まっ、いいか。{n}「大きいことは良い事だ」とも言うしな。{p}{end}
+EN: ...Man, that thing's pointlessly huge. Eh, whatever. Like they say, "Bigger is better."{p}{end}
+
+## MGK12 g0 s0502
+JP: それにしても、こんなクリスマスツリー、{n}はじめて見ましたよ。{n}キレイですねぇ……{p}{end}
+EN: I've never seen a Christmas tree like this before. It's beautiful...{p}{end}
+
+## MGK12 g0 s0504
+JP: 隼人先生?{n}急に黙りこんで、どうかしたんですか?{p}{end}
+EN: Hayato-sensei? You went quiet all of a sudden. Is something wrong?{p}{end}
+
+## MGK12 g0 s0505
+JP: い、いや、なんでもねぇ。{n}ちょっとばかしこいつに見入っちまった{n}だけだ。{p}{end}
+EN: N-nah, it's nothin'. I just got a little caught up starin' at this thing.{p}{end}
+
+## MGK12 g0 s0506
+JP: そうですか。{n}俺はまた、腹の具合でも悪くなったのかと{n}思ったよ。{p}{end}
+EN: I see. I thought maybe your stomach was acting up.{p}{end}
+
+## MGK12 g0 s0507
+JP: はっはっはっはっ!{n}おもしれぇ事を言うじゃねぇか。{n}オマエといれば退屈しそうにねぇな。{p}
+EN: Hahahaha! You say the funniest stuff. Never a dull moment with you around.{p}
+
+## MGK12 g0 s0508
+JP: （この後、俺と隼人先生は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Hayato-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0509
+JP: いえ、隼人先生なら夜道では頼りになるかな{n}と思いまして。{p}{end}
+EN: Well, I figured you'd be good to have around on a dark night, Hayato-sensei.{p}{end}
+
+## MGK12 g0 s0510
+JP: ほう。{n}俺をボディーガード代わりにしようたぁ、{n}いい度胸じゃねぇか。{p}{end}
+EN: Oho. Usin' me as your bodyguard? You've got some nerve.{p}{end}
+
+## MGK12 g0 s0512
+JP: こりゃまた、でかいツリーだな。{n}しかし、全然ライトがついてねぇぞ。{n}こりゃあ、いったいどういうこった?{p}
+EN: Well, that's one big tree. But the lights ain't on at all. What's the deal with that?{p}
+
+## MGK12 g0 s0514
+JP: まっ、故障じゃしょうがねぇな。{n}人生、あきらめも大事だ!{n}さあ、気を取り直して{n}パーティー会場に戻るぜ!{p}{end}
+EN: Eh, if it's busted, it's busted. Sometimes in life ya gotta let things go! C'mon, chin up, we're headin' back to the party!{p}{end}
+
+## MGK12 g0 s0516
+JP: いたいた。{n}醍醐先輩、探しましたよ。{p}{end}
+EN: There you are. I've been looking for you, Daigo-senpai.{p}{end}
+
+## MGK12 g0 s0517
+JP: どうした?{n}オレになにか用か?{p}
+EN: What is it? You need something from me?{p}
+
+## MGK12 g0 s0518
+JP: いえ、特別用事というほどの{n}ことでもないんですけど…{p}{end}
+EN: No, it's not anything special, really...{p}{end}
+
+## MGK12 g0 s0519
+JP: なんだ、遠慮とはらしくないな。{n}聞いてやるから言ってみろ。{p}
+EN: What, holding back? That's not like you. I'm listening, so say it.{p}
+
+## MGK12 g0 s0520
+JP: ちょっと会場を抜け出して、{n}中庭に行ってみませんか?{n}なんでもでっかいクリスマスツリーが{n}あるらしいんですよ。{p}
+EN: Want to sneak out of the party and go to the courtyard? I heard there's a huge Christmas tree out there.{p}
+
+## MGK12 g0 s0521
+JP: クリスマスツリーか。{n}いいだろう、他でもないお前の頼みだ。{n}さあ、行くぞ!{p}
+EN: A Christmas tree, huh. Fine. It's you asking, after all. Let's go!{p}
+
+## MGK12 g0 s0523
+JP: しかし、わざわざ俺なんぞを誘うとは、{n}オマエも変わってるな。{n}後でアキラも誘ってやればどうだ?{n}きっと喜ぶぞ。{p}
+EN: Still, inviting a guy like me... you're an odd one. Why not ask Akira later, too? I bet she'd be glad.{p}
+
+## MGK12 g0 s0524
+JP: （そう言われてみれば、俺はなんで{n}{sp}醍醐先輩を誘ったんだ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Daigo-senpai?){p}{end}
+
+## MGK12 g0 s0525
+JP: 醍醐先輩と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}
+EN: It's fun being with Daigo-senpai{n}He'd be handy on a dark night{p}
+
+## MGK12 g0 s0526
+JP: でも、俺は醍醐先輩と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun hanging out with you, Daigo-senpai.{p}{end}
+
+## MGK12 g0 s0527
+JP: そう言われて悪い気はしないがな……{p}
+EN: Can't say I mind hearing that...{p}
+
+## MGK12 g0 s0528
+JP: クリスマスツリーってのはあれのことか?{p}
+EN: Is that the Christmas tree you meant?{p}
+
+## MGK12 g0 s0529
+JP: ……これがクリスマスツリーか?{n}やけにデカイじゃねぇか。{p}{end}
+EN: ...This is a Christmas tree? It's damn huge.{p}{end}
+
+## MGK12 g0 s0530
+JP: で、でかいっすね……{n}こんなツリーはじめて見ましたよ。{n}でも、キレイだなあ……{p}
+EN: I-it's huge, huh... I've never seen a tree like this. But it's beautiful...{p}
+
+## MGK12 g0 s0532
+JP: 醍醐先輩?{n}急に黙りこんで、どうかしたんですか?{p}{end}
+EN: Daigo-senpai? You went quiet all of a sudden. Is something wrong?{p}{end}
+
+## MGK12 g0 s0533
+JP: いや、なんでもない。{n}俺としたことが、この光景につい言葉を{n}失ってしまったようだ。{p}
+EN: No, it's nothing. Seems even I can be left speechless by a sight like this.{p}
+
+## MGK12 g0 s0534
+JP: そうですか。{n}でも、これだけキレイなんだから{n}無理もないですよ。{p}{end}
+EN: I see. Well, it's this beautiful, so no wonder.{p}{end}
+
+## MGK12 g0 s0535
+JP: ん?{sp}もうこんな時間か……{n}どういうわけかお前といると、{n}つい時間を忘れて話し込んでしまうな。{p}
+EN: Hm? It's this late already... For some reason, when I'm with you, I lose track of time talking.{p}
+
+## MGK12 g0 s0536
+JP: （この後、俺と醍醐先輩は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Daigo-senpai and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0537
+JP: いえ、醍醐先輩なら夜道では頼りに{n}なるかなと思ったもので。{p}
+EN: Well, I figured you'd be good to have around on a dark night, Daigo-senpai.{p}
+
+## MGK12 g0 s0538
+JP: お前は小学生か?{n}まあいい、今日だけは大目に見てやる。{p}
+EN: What are you, in grade school? Fine. Just for today, I'll let it slide.{p}
+
+## MGK12 g0 s0540
+JP: ……これがクリスマスツリーか。{n}やけにデカイものだな。{n}しかし、全くライトアップされていないが、{n}どういうことだ?{p}
+EN: ...So this is a Christmas tree. Damn huge thing. But it's not lit up at all. What's going on?{p}
+
+## MGK12 g0 s0542
+JP: ……故障では仕方あるまい。{n}このまま外にいては風邪をひくぞ。{n}さあ、パーティー会場に戻るんだ。{p}
+EN: ...If it's broken, nothing to be done. Stay out here and you'll catch cold. Come on, back to the party.{p}
+
+## MGK12 g0 s0544
+JP: やあ、ラン。{n}こんな所にいたのかい。{p}{end}
+EN: Hey, Ran. So this is where you were.{p}{end}
+
+## MGK12 g0 s0545
+JP: {v4:19}、私やったわよ!{n}芸能人とかプロスポーツ選手に{n}取材しちゃった!{n}これで私もメジャーデビューってところね!{p}
+EN: {v4:19}, I did it! I interviewed celebrities and pro athletes! Guess this is my big-league debut!{p}
+
+## MGK12 g0 s0546
+JP: それはよかったな。{n}サンタからのプレゼントってところか?{p}{end}
+EN: Good for you. A present from Santa, huh?{p}{end}
+
+## MGK12 g0 s0547
+JP: あら、アンタにしては気の利いた事{n}言うじゃないの。{p}
+EN: Well, that's pretty smooth, coming from you.{p}
+
+## MGK12 g0 s0548
+JP: それにしても、{n}今日はいつものランと雰囲気がちがうな。{n}髪を下ろしてるから{n}大人っぽく見えるのかな?{p}{end}
+EN: Still, you seem different tonight, Ran. Is it 'cause your hair's down? You look more grown-up.{p}{end}
+
+## MGK12 g0 s0549
+JP: えっ?{sp}そ、そう?{n}そんなに大人っぽい?{p}{end}
+EN: Huh? R-really? Do I look that grown-up?{p}{end}
+
+## MGK12 g0 s0550
+JP: ああ、結構イケてるぜ。{n}いつもそうしてればいいのに。{p}{end}
+EN: Yeah, it looks pretty good on you. You should wear it like that all the time.{p}{end}
+
+## MGK12 g0 s0551
+JP: うーん。{n}そうしたいのはやまやまだけど、{n}普段は取材で動き回るから、{n}ちょっと無理ね。{p}
+EN: Hmm. I'd love to, but I'm always running around chasing stories. Not really doable.{p}
+
+## MGK12 g0 s0552
+JP: ねえ、ラン。{n}ちょっと会場を出て中庭に行ってみないか?{n}なんか、すごく大きいクリスマスツリーが{n}あるらしいんだ。{p}{end}
+EN: Hey, Ran. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g0 s0553
+JP: クリスマスツリー?{n}へえ、それもいいネタになりそうね!{n}行ってみましょう。{p}
+EN: A Christmas tree? Ooh, that could make a good story! Let's go.{p}
+
+## MGK12 g0 s0555
+JP: でも、アンタも変わってるのね。{n}こんな所まで来て、{n}私の取材に付き合うなんて。{p}
+EN: But you're a funny one. Coming all this way just to tag along on my story.{p}
+
+## MGK12 g0 s0556
+JP: （そう言われてみれば、俺はなんで{n}{sp}ランを誘ったんだ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Ran?){p}{end}
+
+## MGK12 g0 s0557
+JP: ランと一緒だと楽しいから{n}ツリーを見せたら喜ぶと思って{p}
+EN: It's fun being with Ran{n}She'd love to see the tree{p}
+
+## MGK12 g0 s0558
+JP: でも、俺はランと一緒にいるのが{n}楽しいからさ。{p}
+EN: Well, I just have fun hanging out with you, Ran.{p}
+
+## MGK12 g0 s0559
+JP: ……ま、まあ、{n}そこまで言うんじゃ仕方がないわね。{n}特別に、今後の私の取材に立ち会う事を{n}無条件で許可してあげるわ。{p}{end}
+EN: ...W-well, if you insist, I guess I have no choice. As a special favor, you may tag along on my future stories, no strings attached.{p}{end}
+
+## MGK12 g0 s0560
+JP: ねぇ、クリスマスツリーってあれの事?{p}{end}
+EN: Hey, is that the Christmas tree?{p}{end}
+
+## MGK12 g0 s0561
+JP: うわぁ、キレイ……{p}
+EN: Wow, it's beautiful...{p}
+
+## MGK12 g0 s0564
+JP: ラン?{n}写真、撮らないのか?{p}{end}
+EN: Ran? Aren't you going to take a picture?{p}{end}
+
+## MGK12 g0 s0565
+JP: うん、いいの。{n}たまには、写真に残さないで{n}心の中だけにしまってある出来事が{n}あってもいいかなって……{p}
+EN: Nah, it's fine. Sometimes I think it's OK to keep a moment just in my heart, without a photo...{p}
+
+## MGK12 g0 s0566
+JP: そっか、そうだな!{n}たまにはそういうのもいいか。{p}{end}
+EN: I see. Yeah, you're right! Sometimes that's nice too.{p}{end}
+
+## MGK12 g0 s0567
+JP: なんだか、アンタとこうしてると、{n}つい時間がたつのを忘れちゃうわ。{n}どうしてかしらね。{p}
+EN: Somehow, when I'm with you like this, I totally lose track of time. Wonder why.{p}
+
+## MGK12 g0 s0568
+JP: （この後、俺とランは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Ran and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g0 s0569
+JP: ランにツリーを見せたら、{n}きっと喜ぶと思ってさ。{p}{end}
+EN: I figured you'd love seeing the tree, Ran.{p}{end}
+
+## MGK12 g0 s0570
+JP: それじゃ、{n}わざわざ私を呼びに来てくれたの?{n}アンタ、いいヤツねぇ……{p}
+EN: So you came all the way to get me? You're a real sweetheart, y'know...{p}
+
+## MGK12 g0 s0571
+JP: で、クリスマスツリーってあれの事?{p}
+EN: So, is that the Christmas tree?{p}
+
+## MGK12 g0 s0572
+JP: 大きなツリーねぇ……すごいわ。{n}でも、全然ライトアップされてない{n}みたいだけど、どうしたのかしら?{p}
+EN: What a big tree... Amazing. But it doesn't look lit up at all. I wonder what's wrong?{p}
+
+## MGK12 g0 s0574
+JP: ……故障?{n}残念だけど、これじゃネタにならないわね。{n}このまま外にいても寒いだけだし、{n}早くパーティー会場に戻りましょ。{p}{end}
+EN: ...Broken? Too bad. That's no story, then. It's just cold out here, so let's hurry back to the party.{p}{end}
+
+## MGK12 g0 s0576
+JP: いたいた。{n}探しましたよ、流さん。{p}
+EN: There you are. I've been looking for you, Nagare-san.{p}
+
+## MGK12 g0 s0578
+JP: ちょっと面白い話を聞いたんですよ。{n}なんでも、中庭にでっかい{n}クリスマスツリーがあるらしいんです。{n}これから、見に行きませんか?{p}{end}
+EN: I heard something interesting. Supposedly there's a huge Christmas tree in the courtyard. Want to go see it?{p}{end}
+
+## MGK12 g0 s0579
+JP: …………そうだな、行ってみるか……{p}
+EN: ......Sure... let's go...{p}
+
+## MGK12 g0 s0581
+JP: ………ところで、なんで俺を?{p}{end}
+EN: .........So... why me?{p}{end}
+
+## MGK12 g0 s0582
+JP: （そう言われてみれば、俺はなんで{n}{sp}流さんを誘ったんだ?）{p}
+EN: (Now that he mentions it, why did I ask Nagare-san?){p}
+
+## MGK12 g0 s0583
+JP: 流さんと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Nagare-san{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g0 s0584
+JP: 俺は、流さんと一緒にいると楽しいんで。{p}
+EN: I just have fun hanging out with you, Nagare-san.{p}
+
+## MGK12 g0 s0585
+JP: そうか……{p}
+EN: I see...{p}
+
+## MGK12 g0 s0586
+JP: あっ、流さん。{n}あれがクリスマスツリーみたいですね。{p}{end}
+EN: Oh, Nagare-san. Looks like that's the Christmas tree.{p}{end}
+
+## MGK12 g0 s0587
+JP: …………大きいな、大きい……{p}{end}
+EN: ......Big... it's big...{p}{end}
+
+## MGK12 g0 s0588
+JP: ええ。{n}こんな大きいクリスマスツリー、{n}俺もはじめて見ましたよ。{n}それにしても、キレイだなあ……{p}{end}
+EN: Yeah. I've never seen a Christmas tree this big either. It's beautiful, though...{p}{end}
+
+## MGK12 g0 s0590
+JP: 流さん?{n}急に黙りこんで、どうかしたんですか?{p}
+EN: Nagare-san? You went quiet all of a sudden. Is something wrong?{p}
+
+## MGK12 g0 s0591
+JP: …………きれいだな……{p}
+EN: ......It's pretty...{p}
+
+## MGK12 g0 s0592
+JP: ああ、そうですね。{n}思わず時間を忘れて見入ってしまいますね。{p}{end}
+EN: Yeah, it is. You could stare at it and forget the time.{p}{end}
+
+## MGK12 g0 s0594
+JP: （この後、俺と流さんは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Nagare-san and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0595
+JP: いや、流さんなら夜道では頼りに{n}なるかなと思いまして。{p}
+EN: Well, I figured you'd be good to have around on a dark night, Nagare-san.{p}
+
+## MGK12 g0 s0596
+JP: …………ボディーガードか?{p}
+EN: ......A bodyguard?{p}
+
+## MGK12 g0 s0598
+JP: …………大きいが…暗いぞ。{p}
+EN: ......It's big... but dark.{p}
+
+## MGK12 g0 s0599
+JP: ほんとだ、故障かな?{p}{end}
+EN: You're right. Is it broken?{p}{end}
+
+## MGK12 g0 s0600
+JP: パーティー会場に戻るか……{p}
+EN: Back to the party, then...{p}
+
+## MGK12 g0 s0602
+JP: いたいた。{n}探しましたよ、雹さん。{n}あれ?{sp}恭介もいたのか。{p}{end}
+EN: There you are. I've been looking for you, Hyo-san. Huh? Kyosuke, you're here too?{p}{end}
+
+## MGK12 g0 s0603
+JP: やあ、{v4:2}。{n}また会ったね。{p}{end}
+EN: Hello, {v4:2}. We meet again.{p}{end}
+
+## MGK12 g0 s0604
+JP: どうした、{v0}?{n}私に何か用か?{p}
+EN: What is it, {v0}? You have business with me?{p}
+
+## MGK12 g0 s0605
+JP: 用というほどの事じゃないんですが、{n}ちょっと会場を抜け出して、{n}中庭に行ってみませんか?{p}{end}
+EN: It's nothing that big, but would you like to slip out of the party and go to the courtyard?{p}{end}
+
+## MGK12 g0 s0606
+JP: 中庭だと?{n}一体、中庭に何があるんだ?{p}
+EN: The courtyard? And what is in the courtyard?{p}
+
+## MGK12 g0 s0607
+JP: 兄さん。{n}多分{v4:2}は、クリスマスツリーの{n}事を言ってるんじゃないかな?{p}
+EN: Brother, I think {v4:2} means the Christmas tree.{p}
+
+## MGK12 g0 s0608
+JP: そう、でっかいクリスマスツリーが{n}あるらしいんですよ。{n}良かったらみんなで行きませんか?{p}{end}
+EN: Right, I heard there's a huge Christmas tree out there. Want to all go together?{p}{end}
+
+## MGK12 g0 s0609
+JP: ……そうだな。{n}行ってみるか恭介?{p}
+EN: ...Very well. Shall we go, Kyosuke?{p}
+
+## MGK12 g0 s0610
+JP: いや、僕はエンリョしておくよ。{n}兄さんと{v4:2}の二人で{n}行ってきたらどうだい?{p}{end}
+EN: No, I'll pass. Why don't you and {v4:2} go, just the two of you?{p}{end}
+
+## MGK12 g0 s0612
+JP: しかし、わざわざ私を連れ出すとは、{n}つくづくお前もおかしなヤツだな。{n}恭介を誘った方が楽しいのではないか?{p}
+EN: Still, to go out of your way to bring me out here... You truly are a strange one. Would Kyosuke not be better company?{p}
+
+## MGK12 g0 s0613
+JP: （そう言われてみれば、俺はなんで{n}{sp}雹さんを誘ったんだ?）{p}
+EN: (Now that he mentions it, why did I ask Hyo-san?){p}
+
+## MGK12 g0 s0614
+JP: 雹さんと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Hyo-san{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g0 s0615
+JP: いえ、俺は雹さんと一緒にいる方が{n}楽しいですよ。{p}{end}
+EN: No, I have more fun with you, Hyo-san.{p}{end}
+
+## MGK12 g0 s0616
+JP: そうか、ならばかまわんが……{p}{end}
+EN: I see. Then I have no objection...{p}{end}
+
+## MGK12 g0 s0617
+JP: お前の言うクリスマスツリーというのは、{n}あれのことか?{p}
+EN: Is that the Christmas tree you spoke of?{p}
+
+## MGK12 g0 s0618
+JP: 壮観だな、素晴らしい眺めだ……{p}
+EN: Magnificent. A splendid sight...{p}
+
+## MGK12 g0 s0619
+JP: ええ、僕もこんなクリスマスツリーは{n}はじめて見ましたよ。{n}それにしても、キレイだなあ……{p}{end}
+EN: Yeah, I've never seen a Christmas tree like this either. It's so beautiful...{p}{end}
+
+## MGK12 g0 s0621
+JP: 雹さん?{n}急に黙りこんで、どうしたんですか?{p}{end}
+EN: Hyo-san? You went quiet all of a sudden. What's wrong?{p}{end}
+
+## MGK12 g0 s0622
+JP: 気にするな。{n}私とて、たまには感傷にふけりもする。{p}
+EN: Never mind it. Even I fall into sentiment on occasion.{p}
+
+## MGK12 g0 s0623
+JP: そうですか、よかった。{n}俺はまた、具合でも悪くなったのかと{n}思いましたよ。{p}
+EN: I see, that's a relief. I thought maybe you weren't feeling well.{p}
+
+## MGK12 g0 s0624
+JP: ふっ、お前というヤツは{n}つくづくお人好しだな。{n}だが、私はお前のそういう所が{n}気に入っている。{p}
+EN: Heh. You truly are too kind for your own good. But that is what I like about you.{p}
+
+## MGK12 g0 s0625
+JP: （この後、俺と雹さんは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Hyo-san and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g0 s0626
+JP: いや、雹さんなら夜道では頼りになるかな{n}と思いまして。{p}
+EN: Well, I figured you'd be good to have around on a dark night, Hyo-san.{p}
+
+## MGK12 g0 s0627
+JP: ハハハハハ!{n}この私をボディーガード代わりにするとは。{n}相変わらず食えぬヤツ。{p}
+EN: Hahahaha! You would use me as a bodyguard? You are as sly as ever.{p}
+
+## MGK12 g0 s0628
+JP: さて、お前の言うクリスマスツリー{n}というのはあれのことか?{p}
+EN: Now, is that the Christmas tree you spoke of?{p}
+
+## MGK12 g0 s0629
+JP: 壮観だな、素晴らしい眺めだ。{n}しかし、ライトアップされていないのは{n}残念だな。{p}
+EN: Magnificent. A splendid sight. It is a pity it is not lit, however.{p}
+
+## MGK12 g0 s0630
+JP: ほんとだ、故障かなぁ……{p}{end}
+EN: You're right. Is it broken...?{p}{end}
+
+## MGK12 g0 s0631
+JP: 故障では仕方なかろう。{n}このまま外にいては風邪をひくだけだ、{n}さあ、パーティー会場に戻るぞ。{p}{end}
+EN: If it is broken, it cannot be helped. Staying out here will only give us a cold. Come, we return to the party.{p}{end}
+
+## MGK12 g1 s0000
+JP: あっという間に{n}また期末試験がきちゃった。{n}今回の試験官は確か響子先生だったわね。{p}
+EN: Final exams are here again already. If I remember right, the examiner this time is Kyoko-sensei.{p}
+
+## MGK12 g1 s0001
+JP: 来たわね、{v1}{col:0}さん{col:-}。{p}
+EN: Here you are, {v1}{col:0}-san{col:-}.{p}
+
+## MGK12 g1 s0007
+JP: 今度はもっと良い成績をとるために{n}ちゃんと予習をやっとかなきゃ……。{p}{end}
+EN: Next time I've got to prep properly so I get better grades...{p}{end}
+
+## MGK12 g1 s0016
+JP: ロイにクリスマスパーティーの{n}招待状をもらって来てみたけど、{n}これはビックリね……。{p}{end}
+EN: Roy sent me an invitation to his Christmas party, so I came, but wow, this is something...{p}{end}
+
+## MGK12 g1 s0017
+JP: テーブルには豪華な料理が並んでいて、{n}BGMにはバンド演奏のクリスマスソング。{n}なんていうか、すごく場違いな{n}感じすらしちゃうわ。{p}
+EN: The tables are full of fancy food, and a live band is playing Christmas songs. I almost feel like I don't belong here.{p}
+
+## MGK12 g1 s0018
+JP: ところで、私の他には一体誰が{n}招待されてるんだろ?{n}知り合いが一人もいなかったらヤダな……{p}
+EN: By the way, who else got invited, I wonder? I'd hate it if I didn't know anybody...{p}
+
+## MGK12 g1 s0020
+JP: メリークリスマス、ロイ!{n}今日はこんなすごいパーティーに{n}招待してくれてありがとう。{p}{end}
+EN: Merry Christmas, Roy! Thanks for inviting me to such an amazing party.{p}{end}
+
+## MGK12 g1 s0023
+JP: メリークリスマス、{v8:1}!{n}あいかわらず、すごい食べっぷりだね{col:5}♥{col:-}{p}
+EN: Merry Christmas, {v8:1}! Wow, you're chowing down like always{col:5}♥{col:-}{p}
+
+## MGK12 g1 s0027
+JP: これだけ人がいれば無理もないわ。{n}私だって、アキラが来てるなんて{n}知らなかったもの。{p}{end}
+EN: With this many people, no wonder. I didn't know you were coming either, Akira.{p}{end}
+
+## MGK12 g1 s0031
+JP: よぅ、{v7:5}。{n}メリークリスマス!{p}{end}
+EN: Hey, {v7:5}. Merry Christmas!{p}{end}
+
+## MGK12 g1 s0032
+JP: あら、ロベルトたちも来てたのね。{p}{end}
+EN: Oh, Roberto, you guys came too?{p}{end}
+
+## MGK12 g1 s0034
+JP: 確かに、私もそう思う。{n}でも、招待されたのは間違いないんだから{n}堂々と楽しんだ方が得よね。{p}
+EN: Yeah, I think so too. But we were invited, no doubt about it, so we might as well enjoy ourselves.{p}
+
+## MGK12 g1 s0036
+JP: メリークリスマス、{v1}{col:0}さん{col:-}{col:5}♥{col:-}{p}
+EN: Merry Christmas, {v1}{col:0}-san{col:-}{col:5}♥{col:-}{p}
+
+## MGK12 g1 s0040
+JP: （響子先生って若い頃からこんなに{n}{sp}色っぽかったのかな?{n}{sp}いろんな意味で興味が尽きないなァ。）{p}{end}
+EN: (Was Kyoko-sensei this sexy even when she was young? She makes me curious in all sorts of ways.){p}{end}
+
+## MGK12 g1 s0041
+JP: ほら、{v8:19}。{n}こっち向いて!{n}はい、チーズ!{p}{end}
+EN: Hey, {v8:19}. Look over here! Say cheese!{p}{end}
+
+## MGK12 g1 s0042
+JP: ランちゃんはたとえクリスマスでも、{n}カメラを手放さないのね。{n}ある意味、感心しちゃうわ。{p}{end}
+EN: You don't put your camera down even at Christmas, huh, Ran-chan? I'm kind of impressed, in a way.{p}{end}
+
+## MGK12 g1 s0044
+JP: まあ、他の人に迷惑をかけない程度に{n}頑張ってよね。{p}
+EN: Well, just try not to bother other people.{p}
+
+## MGK12 g1 s0046
+JP: あっ、流先輩じゃないですか。{n}クリスマスパーティー、楽しんでます?{p}
+EN: Oh, Nagare-senpai. Are you enjoying the Christmas party?{p}
+
+## MGK12 g1 s0053
+JP: あはは、やっぱりそう見える?{n}だって、こういうパーティーって{n}慣れていないもん。{p}{end}
+EN: Ahaha, is it that obvious? I'm just not used to parties like this.{p}{end}
+
+## MGK12 g1 s0055
+JP: そう言われてみればそうね。{n}それじゃ、気取らずいつも通りに{n}やることにするわ。{p}
+EN: Now that you mention it, you're right. OK, then I'll stop putting on airs and just be myself.{p}
+
+## MGK12 g1 s0057
+JP: ふぅ、ちょっと人が多くって{n}疲れちゃったな。{n}中庭にでも行って、一息いれようかな。{p}
+EN: Phew, all these people are wearing me out. Maybe I'll go to the courtyard and take a breather.{p}
+
+## MGK12 g1 s0058
+JP: そういえば、中庭に立派な{n}クリスマスツリーがあるっていう話だっけ。{n}誰か誘ってみようかな?{p}
+EN: Oh yeah, I heard there's an amazing Christmas tree in the courtyard. Maybe I'll invite someone?{p}
+
+## MGK12 g1 s0059
+JP: それじゃ、誰を誘おうかしら?{p}{end}
+EN: So, who should I invite?{p}{end}
+
+## MGK12 g1 s0063
+JP: よぉし、それじゃバツを誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Batsu.{p}{end}
+
+## MGK12 g1 s0064
+JP: よぉし、それじゃひなたを誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Hinata.{p}
+
+## MGK12 g1 s0065
+JP: よぉし、それじゃ恭介を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Kyosuke.{p}{end}
+
+## MGK12 g1 s0066
+JP: よぉし、それじゃ将馬を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Shoma.{p}{end}
+
+## MGK12 g1 s0067
+JP: よぉし、それじゃ夏を誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Natsu.{p}
+
+## MGK12 g1 s0068
+JP: よぉし、それじゃロベルトを誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Roberto.{p}{end}
+
+## MGK12 g1 s0069
+JP: よぉし、それじゃロイを誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Roy.{p}{end}
+
+## MGK12 g1 s0070
+JP: よぉし、それじゃティファニーを{n}誘いに行くわよ。{p}{end}
+EN: Alright, time to go invite Tiffany.{p}{end}
+
+## MGK12 g1 s0071
+JP: よぉし、それじゃボーマンを誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Boman.{p}{end}
+
+## MGK12 g1 s0072
+JP: よぉし、それじゃエッジを誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Edge.{p}
+
+## MGK12 g1 s0073
+JP: よぉし、それじゃアキラを誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Akira.{p}
+
+## MGK12 g1 s0074
+JP: よぉし、それじゃ岩を誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Gan.{p}
+
+## MGK12 g1 s0075
+JP: よぉし、それじゃ英雄先生を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Hideo-sensei.{p}{end}
+
+## MGK12 g1 s0076
+JP: よぉし、それじゃ響子先生を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Kyoko-sensei.{p}{end}
+
+## MGK12 g1 s0077
+JP: よぉし、それじゃ隼人先生を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Hayato-sensei.{p}{end}
+
+## MGK12 g1 s0078
+JP: よぉし、それじゃ醍醐先輩を誘いに{n}行くわよ。{p}{end}
+EN: Alright, time to go invite Daigo-senpai.{p}{end}
+
+## MGK12 g1 s0079
+JP: よぉし、それじゃランちゃんを誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Ran-chan.{p}
+
+## MGK12 g1 s0080
+JP: よぉし、それじゃ流先輩を誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Nagare-senpai.{p}
+
+## MGK12 g1 s0081
+JP: よぉし、それじゃ雹クンを誘いに{n}行くわよ。{p}
+EN: Alright, time to go invite Hyo-kun.{p}
+
+## MGK12 g1 s0082
+JP: いたいた。{n}探したわよ、バツ。{p}
+EN: There you are. I've been looking for you, Batsu.{p}
+
+## MGK12 g1 s0084
+JP: ちょっと、{n}食べながらしゃべらないでよ。{p}{end}
+EN: Hey, don't talk with your mouth full.{p}{end}
+
+## MGK12 g1 s0086
+JP: ちょっと会場を抜け出して、{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}
+EN: Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}
+
+## MGK12 g1 s0088
+JP: ここが中庭かぁ……{n}やっぱり、会場から離れると静かなものね。{p}{end}
+EN: So this is the courtyard... It sure is quiet away from the party.{p}{end}
+
+## MGK12 g1 s0089
+JP: でも、オマエも変わってるよな。{n}わざわざオレなんか誘うなんてよ。{n}恭介でも誘えば良かったじゃねぇか。{p}{end}
+EN: Still, you're a weird one. Goin' outta your way to invite me. Shoulda asked Kyosuke or somebody.{p}{end}
+
+## MGK12 g1 s0090
+JP: （そう言われてみれば、私はなんで{n}{sp}バツを誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Batsu?){p}
+
+## MGK12 g1 s0092
+JP: でも、私はバツと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Batsu.{p}{end}
+
+## MGK12 g1 s0096
+JP: うん。{n}こんなクリスマスツリーはじめて。{n}それにしても、キレイね……{p}{end}
+EN: Yeah. I've never seen a Christmas tree like this. It's so pretty...{p}{end}
+
+## MGK12 g1 s0098
+JP: バツ?{n}急に黙りこんで、どうかしたの?{p}
+EN: Batsu? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0100
+JP: そっか。{n}でも、これだけキレイだったら、{n}無理もないわね。{p}
+EN: I see. Well, it's this pretty, so no wonder.{p}
+
+## MGK12 g1 s0101
+JP: ああ。{n}それにしても、お前といっしょにいる時は{n}不思議と時間が過ぎるのが早く感じるぜ。{p}
+EN: Yeah. Still, time sure flies when I'm hangin' with you. Weird, huh.{p}
+
+## MGK12 g1 s0102
+JP: （この後、{n}{sp}私とバツはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Batsu and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0103
+JP: バツなら夜道では頼りになるかな～{n}とか思って。{p}
+EN: I figured you'd be good to have around on a dark night~ or something.{p}
+
+## MGK12 g1 s0109
+JP: （あ～あ、クリスマスだっていうのに{n}{sp}ついてないなぁ。）{p}{end}
+EN: (Aww, and it's Christmas, too. What lousy luck.){p}{end}
+
+## MGK12 g1 s0110
+JP: いたいた。{n}探したよぉ、ひなた。{p}{end}
+EN: There you are. I've been looking for you, Hinata.{p}{end}
+
+## MGK12 g1 s0112
+JP: ん?{n}ひなた、ほっぺにケチャップがついてるよ。{n}ふふふっ、食いしん坊ね。{p}{end}
+EN: Hm? Hinata, you've got ketchup on your cheek. Hehe, you little glutton.{p}{end}
+
+## MGK12 g1 s0114
+JP: （ひなたって、これだけたくさん食べても{n}{sp}全然太らないから不思議よねぇ）{p}{end}
+EN: (Hinata eats so much, and she never gets fat. It's a mystery.){p}{end}
+
+## MGK12 g1 s0115
+JP: ねえ、ひなた。{n}ちょっと会場を出て中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Hey, Hinata. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0118
+JP: でも、{v8:1}も{n}変わってるよね。{n}わざわざ私なんか誘うなんてさ。{n}恭介とかを誘えばいいのに。{p}
+EN: But you're kinda funny, {v8:1}. Going out of your way to invite me. You coulda asked Kyosuke or somebody.{p}
+
+## MGK12 g1 s0119
+JP: （そう言われてみれば、私はなんで{n}{sp}ひなたを誘ったんだろ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Hinata?){p}{end}
+
+## MGK12 g1 s0121
+JP: でも、私はひなたと一緒にいる方が{n}楽しいから。{p}
+EN: Well, I just have more fun with you, Hinata.{p}
+
+## MGK12 g1 s0125
+JP: うん。{n}こんなクリスマスツリーはじめて見たよ。{n}それにしても、キレイね……{p}
+EN: Yeah. I've never seen a Christmas tree like this. It's so pretty...{p}
+
+## MGK12 g1 s0127
+JP: ひなた?{n}急に黙りこんで、どうかした?{p}
+EN: Hinata? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0129
+JP: そう、よかった。{n}具合でも悪くなったのかと思って{n}心配しちゃった。{p}
+EN: Oh, good. I was worried you weren't feeling well.{p}
+
+## MGK12 g1 s0130
+JP: ……優しいんだね。{n}やっぱり、{v8:1}と{n}一緒にいると、{n}なんかすっごく楽しいな。{p}
+EN: ...You're so sweet. I knew it. Hanging out with you is just super fun, {v8:1}.{p}
+
+## MGK12 g1 s0131
+JP: （この後、私とひなたは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Hinata and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0132
+JP: ひなたにツリーを見せたら、{n}きっと喜ぶと思って。{p}{end}
+EN: I figured you'd love seeing the tree, Hinata.{p}{end}
+
+## MGK12 g1 s0139
+JP: いたいた。{n}探したわよ、恭介。{p}
+EN: There you are. I've been looking for you, Kyosuke.{p}
+
+## MGK12 g1 s0140
+JP: やあ、{v7:2}。{n}楽しんでるかい?{p}
+EN: Hello, {v7:2}. Enjoying yourself?{p}
+
+## MGK12 g1 s0141
+JP: もっちろん!{n}それにしても、恭介って相変わらず{n}良いファッションセンスしてるネ。{p}{end}
+EN: Of course! You've got great fashion sense as always, Kyosuke.{p}{end}
+
+## MGK12 g1 s0143
+JP: ウフフッ。{n}バツなんか、ファッションに全然興味{n}なさそうだしね。{p}{end}
+EN: Hehe. Batsu doesn't look like he cares about fashion at all, after all.{p}{end}
+
+## MGK12 g1 s0144
+JP: ねぇ、恭介。{n}会場を抜け出して、中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}
+EN: Hey, Kyosuke. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}
+
+## MGK12 g1 s0147
+JP: でも、キミも変わってるな。{n}わざわざ僕なんかを誘うなんてね。{n}バツでも誘えば良かったんじゃないか?{p}
+EN: You're an odd one, though. Going out of your way to invite me. Wouldn't Batsu have been a better choice?{p}
+
+## MGK12 g1 s0148
+JP: （そう言われてみれば、私はなんで{n}{sp}恭介を誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Kyosuke?){p}
+
+## MGK12 g1 s0150
+JP: でも、私は恭介と一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Kyosuke.{p}{end}
+
+## MGK12 g1 s0156
+JP: 恭介?{n}急に黙りこんで、どうかしたの?{p}
+EN: Kyosuke? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0159
+JP: ああ。{n}それにしても、キミと一緒にいる時は{n}不思議と時間が過ぎるのが早く感じるな。{p}
+EN: Yes. Still, time seems to pass strangely fast when I'm with you.{p}
+
+## MGK12 g1 s0160
+JP: （この後、{n}{sp}私と恭介はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Kyosuke and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0161
+JP: 恭介なら夜道では頼りになるかな～{n}とか思って。{p}
+EN: I figured you'd be good to have around on a dark night~ or something.{p}
+
+## MGK12 g1 s0168
+JP: いたいた。{n}探したわよ、将馬。{p}
+EN: There you are. I've been looking for you, Shoma.{p}
+
+## MGK12 g1 s0170
+JP: へぇ、このパーティーってそんな有名人{n}なんかも来てたのね。{p}
+EN: Wow, there were famous people like that at this party?{p}
+
+## MGK12 g1 s0171
+JP: そうだ。{n}オイラに何か用なんじゃねぇのか?{p}
+EN: Oh, right. Ya need somethin' from me, don'tcha?{p}
+
+## MGK12 g1 s0172
+JP: あのね、ちょっと会場を抜け出して{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Well, want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0175
+JP: でも、オマエも変わってるよな。{n}わざわざ俺なんかを誘うなんてよ。{n}ロベルトでも誘えば良かったじゃねぇか。{p}{end}
+EN: Still, you're a weird one. Goin' outta your way to invite me. Shoulda asked Roberto or somebody.{p}{end}
+
+## MGK12 g1 s0176
+JP: （そう言われてみれば、私はなんで{n}{sp}将馬を誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Shoma?){p}
+
+## MGK12 g1 s0178
+JP: でも、私は将馬と一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Shoma.{p}{end}
+
+## MGK12 g1 s0184
+JP: 将馬?{n}急に黙りこんで、どうかしたの?{p}
+EN: Shoma? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0187
+JP: ああ、そうだな。{n}それにしても、オマエといっしょにいると{n}不思議と時間が過ぎるのが早いんだよな。{n}なんでだろ?{p}
+EN: Yeah, guess so. Still, time goes by weird fast when I'm with ya. Wonder why?{p}
+
+## MGK12 g1 s0188
+JP: （この後、{n}{sp}私と将馬はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Shoma and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0189
+JP: 将馬なら夜道では{n}頼りになるかなと思って。{p}
+EN: I figured you'd be good to have around on a dark night.{p}
+
+## MGK12 g1 s0197
+JP: あっ、{v7:4}。{n}ここの料理食べた?{n}すごくおいしいのよ、これが。{p}
+EN: Oh, {v7:4}. Have you tried the food here? It's really good.{p}
+
+## MGK12 g1 s0198
+JP: うん、私も食べたよ。{n}確かにすごくおいしいよね。{n}たぶん、超一流のシェフが{n}作ってるんじゃないかな?{p}{end}
+EN: Yeah, I had some too. It really is delicious. I bet a top-class chef made it.{p}{end}
+
+## MGK12 g1 s0200
+JP: でも、夏の料理だって{n}かなりのものじゃない。{n}決して負けてないと思うけど?{p}
+EN: But your cooking's pretty great too, Natsu. I don't think it loses at all.{p}
+
+## MGK12 g1 s0202
+JP: そうそう。{n}ちょっと会場を出て中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいの。{p}
+EN: Oh, right. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}
+
+## MGK12 g1 s0204
+JP: ここが中庭かぁ……{n}やっぱり、会場から離れると{n}静かなものね。{p}
+EN: So this is the courtyard... It sure is quiet away from the party.{p}
+
+## MGK12 g1 s0205
+JP: しかし、アンタも変わってるよね。{n}わざわざ私なんかを誘うなんてさ。{n}ロベルトでも誘えばいいのに。{p}{end}
+EN: Still, you're a funny one. Going out of your way to invite me. You should've asked Roberto or somebody.{p}{end}
+
+## MGK12 g1 s0206
+JP: （そう言われてみれば、私はなんで{n}{sp}夏を誘ったんだろ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Natsu?){p}{end}
+
+## MGK12 g1 s0208
+JP: でも、私は夏と一緒にいる方が{n}楽しいから。{p}
+EN: Well, I just have more fun with you, Natsu.{p}
+
+## MGK12 g1 s0210
+JP: {v7:4}、{n}クリスマスツリーって{n}あれかしら?{p}
+EN: {v7:4}, is that the Christmas tree?{p}
+
+## MGK12 g1 s0216
+JP: そっか。{n}具合でも悪くなったのかと思って{n}心配しちゃった。{p}
+EN: I see. I was worried you weren't feeling well.{p}
+
+## MGK12 g1 s0217
+JP: ……優しいんだね。{n}やっぱり、{v7:4}と{n}一緒にいると、{n}なんだかすごくおちつくわ。{p}{end}
+EN: ...You're sweet. Being with you always puts me at ease, {v7:4}.{p}{end}
+
+## MGK12 g1 s0218
+JP: （この後、私と夏は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Natsu and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0219
+JP: 夏にツリーを見せたら、{n}きっと喜ぶと思ったの。{p}
+EN: I figured you'd love seeing the tree, Natsu.{p}
+
+## MGK12 g1 s0226
+JP: いたいた。{n}探したわよ、ロベルト。{p}
+EN: There you are. I've been looking for you, Roberto.{p}
+
+## MGK12 g1 s0227
+JP: どうした、{v7:5}。{n}俺に何か用かい?{p}
+EN: What's up, {v7:5}? You need something?{p}
+
+## MGK12 g1 s0228
+JP: 用ってほどの事じゃないんだけど…{p}{end}
+EN: It's nothing big, really...{p}{end}
+
+## MGK12 g1 s0230
+JP: あのね、ちょっと会場を抜け出して、{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}
+EN: Well, want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}
+
+## MGK12 g1 s0233
+JP: しかし、わざわざ俺なんかを誘うとはな。{n}もっとイイ男を誘えば{n}良かったんじゃないか?{p}{end}
+EN: Still, inviting a guy like me, huh. Shouldn't you have asked a better-looking guy?{p}{end}
+
+## MGK12 g1 s0234
+JP: （そう言われてみれば、私はなんで{n}{sp}ロベルトを誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Roberto?){p}
+
+## MGK12 g1 s0236
+JP: でも、私はロベルトと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Roberto.{p}{end}
+
+## MGK12 g1 s0242
+JP: ロベルト?{n}急に黙りこんで、どうかしたの?{p}
+EN: Roberto? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0245
+JP: 確かにな。{n}それにしても、お前といっしょにいると{n}不思議と時間が過ぎるのが早いぜ。{n}なんでだろうな。{p}{end}
+EN: Yeah, that's for sure. Still, time flies when I'm with you. Wonder why.{p}{end}
+
+## MGK12 g1 s0246
+JP: （この後、{n}{sp}私とロベルトはパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Roberto and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0247
+JP: ロベルトなら夜道では頼りになるかな{n}と思って。{p}
+EN: I figured you'd be good to have around on a dark night.{p}
+
+## MGK12 g1 s0254
+JP: いたいた。{n}探したわよ、ロイ。{p}
+EN: There you are. I've been looking for you, Roy.{p}
+
+## MGK12 g1 s0261
+JP: しかし、ボクなんかをわざわざ誘うなんて、{n}キミもつくづく変わってるな。{n}もっとイイ男を誘っても良かったんじゃ{n}ないか?{p}
+EN: Still, going out of your way to invite me... You really are an odd one. You could've asked a better guy, couldn't you?{p}
+
+## MGK12 g1 s0262
+JP: （そう言われてみれば、私はなんで{n}{sp}ロイを誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Roy?){p}
+
+## MGK12 g1 s0264
+JP: でも、私はロイと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Roy.{p}{end}
+
+## MGK12 g1 s0265
+JP: ハハハ。{n}そりゃあ光栄だな。{p}{end}
+EN: Haha. Well, I'm honored.{p}{end}
+
+## MGK12 g1 s0268
+JP: こんなクリスマスツリーはじめて。{n}それにしても、キレイね……{p}{end}
+EN: I've never seen a Christmas tree like this. It's so pretty...{p}{end}
+
+## MGK12 g1 s0270
+JP: ロイ?{n}急に黙りこんで、どうかしたの?{p}
+EN: Roy? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0271
+JP: い、いや、なんでもない。{n}ちょっとツリーの美しさに圧倒されて{n}しまってね。{p}
+EN: N-no, it's nothing. I was just a little overwhelmed by how beautiful the tree is.{p}
+
+## MGK12 g1 s0273
+JP: ああ。{n}それにしても、キミといっしょにいると{n}不思議と時間が過ぎるのが早いよ。{n}どうしてだろうな……{p}{end}
+EN: Yeah. Still, time goes by strangely fast when I'm with you. I wonder why...{p}{end}
+
+## MGK12 g1 s0274
+JP: （この後、{n}{sp}私とロイはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Roy and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0275
+JP: その、ロイなら夜道では頼りになるかな{n}と思って。{p}{end}
+EN: Um, I figured you'd be good to have around on a dark night, Roy.{p}{end}
+
+## MGK12 g1 s0286
+JP: 踊ってみたいのはヤマヤマだけど、{n}私、踊り方とかステップとか、{n}そういうの全然知らないもん。{p}{end}
+EN: I'd love to dance, but I don't know any of the moves or steps or anything.{p}{end}
+
+## MGK12 g1 s0288
+JP: それより、ちょっと会場を出て{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Instead, want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0291
+JP: でも、ユーも変わってるネ。{n}わざわざミーなんか誘うなんて。{n}会場にはカッコイイ男の人、{n}イッパイいたのに。{p}
+EN: But you're funny. Inviting me of all people. There were lots of cool guys at the party.{p}
+
+## MGK12 g1 s0292
+JP: （そう言われてみれば、私はなんで{n}{sp}ティファニーを誘ったんだろ?）{p}
+EN: (Now that she mentions it, why did I ask Tiffany?){p}
+
+## MGK12 g1 s0294
+JP: でも、私はティファニーと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Tiffany.{p}{end}
+
+## MGK12 g1 s0295
+JP: エヘヘ……{n}{v3:7}、{n}うれしいコト言うネ。{p}{end}
+EN: Hehe... {v3:7}, that's so sweet of you to say.{p}{end}
+
+## MGK12 g1 s0302
+JP: そう、良かった。{n}具合でも悪くなったのかと思って{n}心配しちゃった。{p}
+EN: Oh, good. I was worried you weren't feeling well.{p}
+
+## MGK12 g1 s0304
+JP: （この後、私とティファニーは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Tiffany and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0305
+JP: ティファニーにツリーを見せたら、{n}きっと喜ぶと思って。{p}
+EN: I figured you'd love seeing the tree, Tiffany.{p}
+
+## MGK12 g1 s0306
+JP: わざわざ呼びに来てくれたの?{n}サンキュー、{v3:7}!{p}{end}
+EN: You came all the way to get me? Thank you, {v3:7}!{p}{end}
+
+## MGK12 g1 s0308
+JP: ワォ、おっきなツリーね……{n}なんだか、ため息でちゃう。{n}でも、全然ライトアップされてないヨ?{n}どーして?{p}{end}
+EN: Wow, what a big tree... It takes my breath away. But it's not lit up at all. Why not?{p}{end}
+
+## MGK12 g1 s0312
+JP: いたいた。{n}探したわよ、ボーマン。{p}
+EN: There you are. I've been looking for you, Boman.{p}
+
+## MGK12 g1 s0314
+JP: ううん、そんな用ってほどの事じゃ{n}ないんだけどね。{p}
+EN: No, it's not anything big, really.{p}
+
+## MGK12 g1 s0316
+JP: それじゃあ、ちょっと会場を抜け出して{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Well then, want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0319
+JP: でも、わざわざ私なんかを誘うなんて、{n}君も変わってますね。{n}ロイでも誘えば良かったのではないですか?{p}{end}
+EN: But to go out of your way to invite me... you are an unusual person. Would it not have been better to invite Roy?{p}{end}
+
+## MGK12 g1 s0320
+JP: （そう言われてみれば、私はなんで{n}{sp}ボーマンを誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Boman?){p}
+
+## MGK12 g1 s0322
+JP: でも、私はボーマンと一緒にいる方が{n}楽しいから。{p}{end}
+EN: Well, I just have more fun with you, Boman.{p}{end}
+
+## MGK12 g1 s0328
+JP: ボーマン?{n}急に黙りこんで、どうかしたの?{p}
+EN: Boman? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0331
+JP: まったくです。{n}それにしても、君といっしょにいる時は{n}時間が過ぎるのが早く感じるのですよ。{n}なんだか不思議な気分です……{p}{end}
+EN: Quite so. Still, when I am with you, time seems to pass so quickly. It is a strange feeling...{p}{end}
+
+## MGK12 g1 s0332
+JP: （この後、{n}{sp}私とボーマンはパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Boman and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0333
+JP: ボーマンなら夜道では頼りになるかな{n}と思って。{p}
+EN: I figured you'd be good to have around on a dark night, Boman.{p}
+
+## MGK12 g1 s0340
+JP: いたいた。{n}探したわよ、エッジ。{p}{end}
+EN: There you are. I've been looking for you, Edge.{p}{end}
+
+## MGK12 g1 s0342
+JP: うん、そうよね。{n}こういう豪華なパーティーって{n}私もほとんど来た事がないし、{n}どうしたらいいのかわからないよね。{p}{end}
+EN: Yeah, right? I've hardly ever been to a fancy party like this either. I have no idea what to do.{p}{end}
+
+## MGK12 g1 s0346
+JP: それなら、ちょっと会場を抜け出して、{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいわよ。{p}{end}
+EN: Then want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0349
+JP: でも、オマエも変わってるよな。{n}わざわざオレなんかを誘うなんてよ。{n}もっとイイ男でも誘えば良かった{n}じゃねぇか。{p}{end}
+EN: Still, you're a weird one. Goin' outta your way to invite me. Shoulda asked some better-lookin' guy.{p}{end}
+
+## MGK12 g1 s0350
+JP: （そう言われてみれば、私はなんで{n}{sp}エッジを誘ったんだろ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Edge?){p}{end}
+
+## MGK12 g1 s0352
+JP: でも、私はエッジと一緒にいる方が{n}楽しいから。{p}
+EN: Well, I just have more fun with you, Edge.{p}
+
+## MGK12 g1 s0358
+JP: エッジ?{n}急に黙りこんで、どうかしたの?{p}{end}
+EN: Edge? You went quiet all of a sudden. What's wrong?{p}{end}
+
+## MGK12 g1 s0360
+JP: ハイハイ、わかってるわよ。{n}エッジはツリーに見とれてなんか{n}いないんでしょ?{p}{end}
+EN: Yeah, yeah, I know. You weren't staring at the tree or anything, right?{p}{end}
+
+## MGK12 g1 s0361
+JP: それにしてもオマエって不思議なヤツだぜ。{n}オマエと一緒にいると、時間がたつのが{n}スゲェ早いんだよ。{p}
+EN: You're one weird one, y'know. When I'm with you, time goes by crazy fast.{p}
+
+## MGK12 g1 s0362
+JP: （この後、{n}{sp}私とエッジはパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Edge and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0363
+JP: エッジなら夜道では頼りになるかな{n}と思って。{p}{end}
+EN: I figured you'd be good to have around on a dark night, Edge.{p}{end}
+
+## MGK12 g1 s0370
+JP: あっ、いたいた。{n}アキラ、何してるの?{p}
+EN: Oh, there you are. Akira, what are you doing?{p}
+
+## MGK12 g1 s0371
+JP: ああ、{v8:10}。{n}醍醐兄さんにお料理をもって{n}行こうと思ってたの。{p}
+EN: Oh, {v8:10}. I was about to take some food to my big brother.{p}
+
+## MGK12 g1 s0372
+JP: なんだか、{n}今日はいつもと雰囲気がちがうのね。{n}そのカワイイ服のせいかな?{p}
+EN: You seem different from usual today. Is it that cute outfit?{p}
+
+## MGK12 g1 s0374
+JP: もちろん、すごくカワイイわよ。{p}
+EN: Of course, it's really cute.{p}
+
+## MGK12 g1 s0376
+JP: ねえ、アキラ。{n}ちょっと会場を出て中庭に行ってみない?{n}なんか、すごく大きいクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Hey, Akira. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0379
+JP: でも、あなたも変わってるのね。{n}わざわざ私なんか誘うなんて……{n}会場にはエッジとかもいたのに。{p}
+EN: But you're kind of unusual. Inviting me of all people... Edge and the others were at the party too.{p}
+
+## MGK12 g1 s0380
+JP: （そう言われてみれば、私はなんで{n}{sp}アキラを誘ったんだろ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Akira?){p}{end}
+
+## MGK12 g1 s0382
+JP: でも、私はアキラと一緒にいる方が{n}楽しいから。{p}
+EN: Well, I just have more fun with you, Akira.{p}
+
+## MGK12 g1 s0390
+JP: そう、良かった。{n}てっきり、具合でも悪くなったのかと{n}思ったわ。{p}{end}
+EN: Oh, good. I thought you might not be feeling well.{p}{end}
+
+## MGK12 g1 s0391
+JP: ……なんだか不思議。{n}{v8:10}と一緒にいると、{n}まるで兄さんと一緒にいる時みたいに{n}落ち着くの。どうしてかしら。{p}{end}
+EN: ...It's strange. Being with you, {v8:10}, calms me the way being with my big brother does. I wonder why.{p}{end}
+
+## MGK12 g1 s0392
+JP: （この後、私とアキラは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Akira and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0393
+JP: アキラにツリーを見せたら、{n}きっと喜ぶと思って。{p}{end}
+EN: I figured you'd love seeing the tree, Akira.{p}{end}
+
+## MGK12 g1 s0394
+JP: それじゃ、{n}わざわざ私を呼びに来てくれたの?{n}なんだか、悪いわね。{p}
+EN: So you came all the way to get me? I feel kind of bad.{p}
+
+## MGK12 g1 s0398
+JP: ……故障?{n}残念だけど仕方ないわね。{n}このまま外にいても寒いだけだし、{n}パーティー会場に戻りましょ。{p}{end}
+EN: ...Broken? That's too bad, but it can't be helped. It's just cold out here, so let's go back to the party.{p}{end}
+
+## MGK12 g1 s0400
+JP: いたいた。{n}探したわよ、岩。{p}{end}
+EN: There you are. I've been looking for you, Gan.{p}{end}
+
+## MGK12 g1 s0401
+JP: おう、{v3:11}{col:0}さん{col:-}。{n}ここのメシはウマイぞ!{n}しかも、食べ放題というのが{n}またうれしいのう。{p}{end}
+EN: Oh, {v3:11}{col:0}-san{col:-}. The grub here's mighty fine! And it's all-ya-can-eat to boot. Can't beat that.{p}{end}
+
+## MGK12 g1 s0402
+JP: ふふっ、岩は問題なくパーティーを{n}楽しんでるみたいね。{p}
+EN: Hehe, looks like you're enjoying the party just fine, Gan.{p}
+
+## MGK12 g1 s0403
+JP: わしゃあ、食いもんさえあれば{n}文句は言わんぞい。{n}それよりも{v3:11}{col:0}さん{col:-}よ、何か{n}用事があってワシの所に来たんじゃろう?{p}{end}
+EN: Long as there's grub, I ain't got no complaints. More to the point, {v3:11}{col:0}-san{col:-}, ya came over here 'cause ya wanted somethin', didn'tcha?{p}{end}
+
+## MGK12 g1 s0404
+JP: そうそう。ちょっと会場を抜け出して、{n}中庭に行ってみない?{n}すごく大きなクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Oh, right. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0407
+JP: しかし、おぬしも変わってるのう。{n}わざわざワシなんぞを誘わずに、{n}エッジでも誘えば良かったんじゃ。{p}
+EN: Ya sure are an odd one. Shoulda asked Edge or somebody 'stead of an old lug like me.{p}
+
+## MGK12 g1 s0408
+JP: （そう言われてみれば、私はなんで{n}{sp}岩を誘ったんだろ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Gan?){p}{end}
+
+## MGK12 g1 s0410
+JP: でも、私は岩と一緒にいる方が{n}楽しいから。{p}
+EN: Well, I just have more fun with you, Gan.{p}
+
+## MGK12 g1 s0416
+JP: 岩?{n}急に黙りこんで、どうかしたの?{p}{end}
+EN: Gan? You went quiet all of a sudden. What's wrong?{p}{end}
+
+## MGK12 g1 s0419
+JP: うむ。{n}……それにしても不思議じゃのう。{n}おぬしと一緒におると、なんだか{n}時間がたつのが早いわい。{p}
+EN: Mm. ...Still, it's a funny thing. Time sure goes by quick when I'm with ya.{p}
+
+## MGK12 g1 s0420
+JP: （この後、{n}{sp}私と岩はパーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Gan and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0421
+JP: 岩なら夜道では頼りになるかなと思って。{p}
+EN: I figured you'd be good to have around on a dark night, Gan.{p}
+
+## MGK12 g1 s0431
+JP: ……私たちはすごいパーティーに{n}招待されているのですね。{n}ところで、私に何か用があったのでは{n}ないですか?{p}
+EN: ...We have been invited to quite a party, haven't we? Now then, wasn't there something you needed from me?{p}
+
+## MGK12 g1 s0432
+JP: ええ、ちょっと会場を抜け出して{n}中庭に行ってみませんか?{n}すごく大きなクリスマスツリーが{n}あるらしいんです。{p}{end}
+EN: Yes. Would you like to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0435
+JP: しかし、君も変わってますね。{n}わざわざ私なんかを誘うなんて。{n}同年代の男の子でも誘えば{n}良かったんじゃないですか?{p}
+EN: You are an unusual one, though. Inviting someone like me. Wouldn't a boy your own age have been better?{p}
+
+## MGK12 g1 s0436
+JP: （そう言われてみれば、私はなんで{n}{sp}英雄先生を誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Hideo-sensei?){p}
+
+## MGK12 g1 s0438
+JP: でも、私は英雄先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun with you, Hideo-sensei.{p}{end}
+
+## MGK12 g1 s0442
+JP: ホントですね。{n}こんなクリスマスツリーはじめて……{n}それにしても、キレイですね。{p}{end}
+EN: It really is. I've never seen a Christmas tree like this... It's so beautiful.{p}{end}
+
+## MGK12 g1 s0446
+JP: そうですか。{n}でも、これだけキレイだったら、{n}無理もないですね。{p}{end}
+EN: I see. Well, it's this beautiful, so no wonder.{p}{end}
+
+## MGK12 g1 s0447
+JP: まったくです。{n}このツリーの美しさもありますが、{n}君といっしょにいると、なおさら{n}時間が経つのがとても早く感じますね。{p}
+EN: Indeed. The tree is lovely, but with you here, the time seems to fly by all the more.{p}
+
+## MGK12 g1 s0448
+JP: （この後、{n}{sp}私と英雄先生はパーティーが終わる{n}{sp}時間まで中庭で語り合ったのだった。）{p}
+EN: (After that, Hideo-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0449
+JP: 英雄先生なら夜道では頼りになる{n}かなと思いまして。{p}
+EN: I figured you'd be good to have around on a dark night, Hideo-sensei.{p}
+
+## MGK12 g1 s0457
+JP: あら、{v1}{col:0}さん{col:-}じゃない。{n}さあ、こっちにいらっしゃい。{p}{end}
+EN: Oh, if it isn't {v1}{col:0}-san{col:-}. Come on, come over here.{p}{end}
+
+## MGK12 g1 s0460
+JP: （あちゃ～……響子先生は{n}{sp}すでに酔っ払いになってるわ。）{p}
+EN: (Oh boy... Kyoko-sensei's already drunk.){p}
+
+## MGK12 g1 s0461
+JP: それで?{n}カワイイ{v1}{col:0}さん{col:-}は先生に{n}何か用事があるんでしょ?{p}
+EN: So? Cute little {v1}{col:0}-san{col:-} has something she wants from me, doesn't she?{p}
+
+## MGK12 g1 s0465
+JP: でも、あなたも変わってるわね。{n}わざわざ私なんか誘うなんて。{n}会場には若い男の子もいたのに。{p}{end}
+EN: You're an odd one, though. Inviting someone like me. There were young boys at the party, too.{p}{end}
+
+## MGK12 g1 s0466
+JP: （そう言われてみれば、私はなんで{n}{sp}響子先生を誘ったんだろ?）{p}
+EN: (Now that she mentions it, why did I ask Kyoko-sensei?){p}
+
+## MGK12 g1 s0468
+JP: でも、私は響子先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun with you, Kyoko-sensei.{p}{end}
+
+## MGK12 g1 s0469
+JP: まあ、うれしい{col:5}♥{col:-}{n}先生も{v1}{col:0}さん{col:-}と一緒にいると{n}楽しいわぁ。{p}
+EN: Oh, how sweet{col:5}♥{col:-} I have fun with you too, {v1}{col:0}-san{col:-}.{p}
+
+## MGK12 g1 s0471
+JP: あら、ステキ。{n}やっぱりクリスマスにはツリーが{n}なくちゃ駄目ね。{p}{end}
+EN: Oh, how lovely. Christmas just isn't Christmas without a tree.{p}{end}
+
+## MGK12 g1 s0477
+JP: あら、心配してくれたの?{n}{v1}{col:0}さん{col:-}は優しいわね。{p}
+EN: Oh, were you worried about me? You're so kind, {v1}{col:0}-san{col:-}.{p}
+
+## MGK12 g1 s0478
+JP: （この後、私と響子先生は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Kyoko-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0489
+JP: 何を遠慮してやがる、{n}今日はクリスマスだぞ!{n}何でも聞いてやるから、言ってみろ。{p}{end}
+EN: What're ya holdin' back for? It's Christmas! I'll hear ya out, whatever it is. Spit it out.{p}{end}
+
+## MGK12 g1 s0492
+JP: 会場を抜け出して、{n}中庭に行ってみませんか?{n}すごく大きなクリスマスツリーが{n}あるらしいんです。{p}{end}
+EN: Want to sneak out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0495
+JP: しかし、オマエも変なヤツだな。{n}わざわざ俺なんか誘ってないで、{n}もっといいオトコでも誘えば良かった{n}じゃねぇか。あ?{p}{end}
+EN: Still, you're a weird one. Instead of draggin' me along, you shoulda asked some better guy. Huh?{p}{end}
+
+## MGK12 g1 s0496
+JP: （そう言われてみれば、私はなんで{n}{sp}隼人先生を誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Hayato-sensei?){p}
+
+## MGK12 g1 s0498
+JP: でも、私は隼人先生と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun hanging out with you, Hayato-sensei.{p}{end}
+
+## MGK12 g1 s0507
+JP: ああ、同感だ。{n}しかし、なんだな……{n}お前といるとついつい時間がすぎるのを{n}忘れちまうぜ。{p}
+EN: Yeah, I hear ya. Still, y'know... with you around, I keep losin' track of time.{p}
+
+## MGK12 g1 s0508
+JP: （この後、私と隼人先生は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Hayato-sensei and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0509
+JP: 隼人先生なら夜道では頼りになるかな{n}と思って。{p}
+EN: I figured you'd be good to have around on a dark night, Hayato-sensei.{p}
+
+## MGK12 g1 s0510
+JP: ほう。{n}俺をボディーガード代わりにしようたあ{n}いい度胸じゃねぇか。{p}
+EN: Oho. Usin' me as your bodyguard? You've got some nerve.{p}
+
+## MGK12 g1 s0514
+JP: まっ、故障じゃしょうがねぇな。{n}人生あきらめも大事だ!{n}さあ、気を取り直して{n}パーティー会場に戻るぜ!{p}
+EN: Eh, if it's busted, it's busted. Sometimes in life ya gotta let things go! C'mon, chin up, we're headin' back to the party!{p}
+
+## MGK12 g1 s0518
+JP: いえ、特別用事というほどの{n}ことでもないんですけど……{p}
+EN: No, it's not anything special, really...{p}
+
+## MGK12 g1 s0520
+JP: ちょっと会場を抜け出して、{n}中庭に行ってみませんか?{n}すごく大きなクリスマスツリーが{n}あるらしいんですよ。{p}
+EN: Want to sneak out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}
+
+## MGK12 g1 s0523
+JP: しかし、わざわざ俺なんぞを{n}誘うとはオマエも変わってるな。{n}もっと愛想のいい男を誘った方が{n}楽しいんじゃないのか?{p}
+EN: Still, inviting a guy like me... you're an odd one. Wouldn't it be more fun to ask a friendlier guy?{p}
+
+## MGK12 g1 s0524
+JP: （そう言われてみれば、私はなんで{n}{sp}醍醐先輩を誘ったんだろ?）{p}
+EN: (Now that he mentions it, why did I ask Daigo-senpai?){p}
+
+## MGK12 g1 s0526
+JP: でも、私は醍醐先輩と一緒にいる方が{n}楽しいですから。{p}{end}
+EN: Well, I just have more fun hanging out with you, Daigo-senpai.{p}{end}
+
+## MGK12 g1 s0530
+JP: 確かにおっきいですね……{n}こんなツリーはじめて見ましたよ。{n}でも、キレイだなあ……{p}
+EN: It really is huge... I've never seen a tree like this. But it's beautiful...{p}
+
+## MGK12 g1 s0534
+JP: そうですか。{n}でも、これだけキレイだったら、{n}無理もないですよ。{p}{end}
+EN: I see. Well, it's this beautiful, so no wonder.{p}{end}
+
+## MGK12 g1 s0536
+JP: （この後、私と醍醐先輩は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}
+EN: (After that, Daigo-senpai and I talked in the courtyard until the party ended.){p}
+
+## MGK12 g1 s0537
+JP: 醍醐先輩なら夜道では頼りに{n}なるかなと思ったもので。{p}{end}
+EN: Well, I figured you'd be good to have around on a dark night, Daigo-senpai.{p}{end}
+
+## MGK12 g1 s0544
+JP: あっ、ランちゃん。{n}こんな所にいたのね。{p}{end}
+EN: Oh, Ran-chan. So this is where you were.{p}{end}
+
+## MGK12 g1 s0545
+JP: {v8:19}、私やったわよ!{n}芸能人とかプロスポーツ選手に{n}取材しちゃった!{n}これで私もメジャーデビューってところね!{p}
+EN: {v8:19}, I did it! I interviewed celebrities and pro athletes! Guess this is my big-league debut!{p}
+
+## MGK12 g1 s0546
+JP: へぇ～。それはよかったわね!{n}サンタからのプレゼントかしら?{p}{end}
+EN: Wow~ Good for you! A present from Santa, maybe?{p}{end}
+
+## MGK12 g1 s0548
+JP: それにしても、今日は{n}いつものランちゃんと雰囲気がちがうね。{n}髪を下ろしてるから{n}大人っぽく見えるのかな?{p}
+EN: Still, you seem different tonight, Ran-chan. Is it 'cause your hair's down? You look more grown-up.{p}
+
+## MGK12 g1 s0550
+JP: うん、結構イケてるよ。{n}いつもそうしてればいいのに。{p}{end}
+EN: Yeah, it looks pretty good on you. You should wear it like that all the time.{p}{end}
+
+## MGK12 g1 s0552
+JP: ねえ、ランちゃん。{n}ちょっと会場を出て中庭に行ってみない?{n}なんか、すごく大きいクリスマスツリーが{n}あるらしいのよ。{p}{end}
+EN: Hey, Ran-chan. Want to slip out of the party and go to the courtyard? I heard there's a really big Christmas tree out there.{p}{end}
+
+## MGK12 g1 s0556
+JP: （そう言われてみれば、私はなんで{n}{sp}ランちゃんを誘ったんだろ?）{p}{end}
+EN: (Now that she mentions it, why did I ask Ran-chan?){p}{end}
+
+## MGK12 g1 s0558
+JP: でも、私はランちゃんと一緒にいるのが{n}楽しいから。{p}
+EN: Well, I just have fun hanging out with you, Ran-chan.{p}
+
+## MGK12 g1 s0564
+JP: ランちゃん?{n}写真、撮らないの?{p}{end}
+EN: Ran-chan? Aren't you going to take a picture?{p}{end}
+
+## MGK12 g1 s0566
+JP: そっか、たまにはそういうのも{n}いいかもね。{p}
+EN: I see. Sometimes that's nice too, I guess.{p}
+
+## MGK12 g1 s0568
+JP: （この後、私とランちゃんは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Ran-chan and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0569
+JP: ランちゃんにツリーを見せたら、{n}きっと喜ぶと思ってね。{p}
+EN: I figured you'd love seeing the tree, Ran-chan.{p}
+
+## MGK12 g1 s0576
+JP: いたいた。{n}探しましたよ、流先輩。{p}
+EN: There you are. I've been looking for you, Nagare-senpai.{p}
+
+## MGK12 g1 s0578
+JP: ちょっと面白い話を聞いたんです。{n}なんでも、中庭に大っきいクリスマス{n}ツリーがあるらしいんです。{n}これから、見に行きませんか?{p}
+EN: I heard something interesting. Supposedly there's a huge Christmas tree in the courtyard. Want to go see it?{p}
+
+## MGK12 g1 s0582
+JP: （そう言われてみれば、私はなんで{n}{sp}流先輩を誘ったんだろ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Nagare-senpai?){p}{end}
+
+## MGK12 g1 s0583
+JP: 流先輩と一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Nagare-senpai{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g1 s0584
+JP: 私は、流先輩と一緒にいると楽しいんで。{p}
+EN: I just have fun hanging out with you, Nagare-senpai.{p}
+
+## MGK12 g1 s0586
+JP: あっ、流先輩。{n}あれがクリスマスツリーみたいですね。{p}{end}
+EN: Oh, Nagare-senpai. Looks like that's the Christmas tree.{p}{end}
+
+## MGK12 g1 s0588
+JP: ええ。{n}こんな大きいクリスマスツリー、{n}はじめて見ましたよ。{n}それにしても、キレイだなあ……{p}{end}
+EN: Yeah. I've never seen a Christmas tree this big. It's beautiful, though...{p}{end}
+
+## MGK12 g1 s0590
+JP: 流先輩?{n}急に黙りこんで、どうかしたんですか?{p}
+EN: Nagare-senpai? You went quiet all of a sudden. Is something wrong?{p}
+
+## MGK12 g1 s0592
+JP: ええ、そうですね。{n}思わず時間を忘れてしまいそう……{p}{end}
+EN: Yeah, it is. I could almost forget the time...{p}{end}
+
+## MGK12 g1 s0594
+JP: （この後、私と流先輩は{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Nagare-senpai and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0595
+JP: 流先輩なら夜道では頼りに{n}なるかなと思いまして。{p}{end}
+EN: Well, I figured you'd be good to have around on a dark night, Nagare-senpai.{p}{end}
+
+## MGK12 g1 s0599
+JP: ほんとだ、故障かなぁ?{p}
+EN: You're right. Is it broken?{p}
+
+## MGK12 g1 s0602
+JP: いたいた。{n}探したわよ、雹クン。{n}あれ?{sp}恭介もいたのね。{p}
+EN: There you are. I've been looking for you, Hyo-kun. Huh? Kyosuke, you're here too?{p}
+
+## MGK12 g1 s0603
+JP: やあ、{v7:2}。{n}また会ったね。{p}{end}
+EN: Hello, {v7:2}. We meet again.{p}{end}
+
+## MGK12 g1 s0605
+JP: 用というほどの事じゃないんだけど、{n}ちょっと会場を抜け出して、{n}一緒に中庭へ行かない?{p}
+EN: It's nothing that big, but want to slip out of the party and go to the courtyard with me?{p}
+
+## MGK12 g1 s0607
+JP: 兄さん。{n}多分{v7:2}は、{n}クリスマスツリーの事を{n}言ってるんじゃないかな?{p}{end}
+EN: Brother, I think {v7:2} means the Christmas tree.{p}{end}
+
+## MGK12 g1 s0608
+JP: そう、すごく大きなクリスマスツリーが{n}あるらしいの。{n}良かったらみんなで行ってみない?{p}
+EN: Right, I heard there's a really big Christmas tree out there. Want to all go together?{p}
+
+## MGK12 g1 s0610
+JP: いや、僕はエンリョしておくよ。{n}兄さんと{v7:2}の二人で{n}行ってきたらどうだい?{p}{end}
+EN: No, I'll pass. Why don't you and {v7:2} go, just the two of you?{p}{end}
+
+## MGK12 g1 s0612
+JP: しかし、わざわざ私を連れ出すとは、{n}つくづくお前はおかしなヤツだな。{n}恭介を誘った方が楽しいのではないか?{p}
+EN: Still, to go out of your way to bring me out here... You truly are a strange one. Would Kyosuke not be better company?{p}
+
+## MGK12 g1 s0613
+JP: （そう言われてみれば、私はなんで{n}{sp}雹クンを誘ったんだろ?）{p}{end}
+EN: (Now that he mentions it, why did I ask Hyo-kun?){p}{end}
+
+## MGK12 g1 s0614
+JP: 雹クンと一緒だと楽しいから{n}夜道では頼りになりそうだから{p}{end}
+EN: It's fun being with Hyo-kun{n}He'd be handy on a dark night{p}{end}
+
+## MGK12 g1 s0615
+JP: ううん、私は雹クンと一緒にいる方が{n}楽しいわよ。{p}{end}
+EN: No, I have more fun with you, Hyo-kun.{p}{end}
+
+## MGK12 g1 s0619
+JP: ええ、私もこんなクリスマスツリーは{n}はじめて見たわ。{n}それにしても、キレイ……{p}
+EN: Yeah, I've never seen a Christmas tree like this either. It's so pretty...{p}
+
+## MGK12 g1 s0621
+JP: 雹クン?{n}急に黙りこんで、どうしたの?{p}
+EN: Hyo-kun? You went quiet all of a sudden. What's wrong?{p}
+
+## MGK12 g1 s0623
+JP: そう、よかった。{n}てっきり、具合でも悪くなったのかと{n}思ったわ。{p}{end}
+EN: Oh, good. I thought maybe you weren't feeling well.{p}{end}
+
+## MGK12 g1 s0625
+JP: （この後、私と雹クンは{n}{sp}パーティーが終わる時間まで{n}{sp}中庭で語り合ったのだった。）{p}{end}
+EN: (After that, Hyo-kun and I talked in the courtyard until the party ended.){p}{end}
+
+## MGK12 g1 s0626
+JP: 雹クンなら夜道では頼りになるかな{n}と思って。{p}{end}
+EN: Well, I figured you'd be good to have around on a dark night, Hyo-kun.{p}{end}
+
+## MGK12 g1 s0627
+JP: ハハハハハ!{n}この私をボディーガード代わりにするとは。{n}相変わらず食えぬヤツだ。{p}{end}
+EN: Hahahaha! You would use me as a bodyguard? You are as sly as ever.{p}{end}
+
+## MGK12 g1 s0631
+JP: 故障では仕方なかろう。{n}このまま外にいては風邪をひくだけだ。{n}さあ、パーティー会場に戻るぞ。{p}{end}
+EN: If it is broken, it cannot be helped. Staying out here will only give us a cold. Come, we return to the party.{p}{end}
+

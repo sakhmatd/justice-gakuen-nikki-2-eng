@@ -1,0 +1,13 @@
+hr_title: Shoma's|Home Run Derby
+hr_tag: Find the sweet spot and|go for Home Run King!
+pk_title: Roberto's|PK Shootout
+pk_tag: Read your rival's mind|and score the goal!
+ex_title: Roberto's|Explosive Shot
+ex_tag: Go for 4 in one shot!|Go for a perfect score!
+sv_title: Natsu's|Service Ace
+sv_tag: Learn the high-score panels|and serve on target!
+sp_title: Showdown!|Blazing Sprint
+sp_tag: Don't just mash away!|Time your speed bursts!
+dd_tag: Use rhythm and memory|to steal her heart!
+practice_stamp: PRACTICE
+practice_tag: Good attitude!|Practice hard so you|don't blow it!
