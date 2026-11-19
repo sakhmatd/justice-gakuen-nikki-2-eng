@@ -142,6 +142,9 @@ The PocketStation game Pocket Justice is translated as well. In the
 patched game, Extras > PocketStation > Download writes it to a memory
 card (11 free blocks). tools/mkpocket.py in the source repository writes
 a memory card image (.gme or .mcd) with it from the patched .bin.
+MAME's pockstat driver has a bug that loses most button presses in this
+game (also in the Japanese original). tools/mame_pockstat.lua in the
+source repository works around it; see README.md there.
 {changes}"""
 
 TOOLS = {'bps': 'Flips, Rom Patcher JS (in a browser) or apply_patch.py',

@@ -85,8 +85,17 @@ There are two ways to get it onto a PocketStation or into an emulator:
 
 - [Pokket](https://github.com/mentalfoundry/Pokket), a RetroArch core and
   Windows app. It loads the `.mcd` or `.gme` file.
-- [MAME](https://www.mamedev.org/), `pockstat` driver:
-  `mame pockstat -cart pocket.gme`.
+- [MAME](https://www.mamedev.org/), `pockstat` driver. The driver has a
+  bug: it does not raise the PocketStation's button interrupt. Games that
+  read their buttons through that interrupt miss most presses in MAME.
+  Pocket Justice is one of them, in the original Japanese release as
+  well. The kernel menu is not affected. The script
+  `tools/mame_pockstat.lua` in this repository works around the bug:
+
+      mame pockstat -noplugins -autoboot_script tools/mame_pockstat.lua -cart pocket.gme
+
+  `-noplugins` avoids a Lua error in MAME's data plugin. Tested with
+  MAME 0.289 and the J061 and J110 PocketStation kernels.
 
 Both need a PocketStation BIOS, which is not included.
 
