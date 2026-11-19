@@ -1,0 +1,328 @@
+## MGC08 g0 s0000
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}野球部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to baseball club practice.{p}
+
+## MGC08 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}今日も暑いな。{n}がんばっていこうぜ。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. Hot again today. Let's give it our all.{p}
+
+## MGC08 g0 s0002
+JP: よし、いつも通りまず{n}先月のクラブ活動の成果からだ。{p}{end}
+EN: All right, as usual, we'll start with last month's club results.{p}{end}
+
+## MGC08 g0 s0003
+JP: よし、それじゃ次は、{n}特別練習だな。{n}練習を選んでくれ。{p}{end}
+EN: All right, next up is special practice. Pick a drill.{p}{end}
+
+## MGC08 g0 s0004
+JP: よし、いいだろう。{n}そろそろ強くなった実感が{n}出てきたんじゃないかな。{p}
+EN: Good, that'll do. You should be starting to feel yourself getting stronger by now.{p}
+
+## MGC08 g0 s0005
+JP: 今月は臨海合宿だな。{n}俺達3年生は参加しないが、{n}楽しんでこい。{p}{end}
+EN: This month is the seaside camp. We third-years aren't going, but have fun.{p}{end}
+
+## MGC08 g0 s0006
+JP: 2学期の初めに、クラブを変えることが{n}できる。お前にはかわって欲しくないが、{n}もし別のクラブを試したいのなら、{n}それもいいだろう。{p}
+EN: You can switch clubs at the start of second term. I'd rather you didn't, but if you want to try another club, that's fine too.{p}
+
+## MGC08 g0 s0008
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}バレー部の練習に行こう。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to volleyball club practice.{p}{end}
+
+## MGC08 g0 s0009
+JP: 来たな、{v0}!{n}今月も特別練習の日が来たぞ。{n}夏休みだからといって{n}怠けていてはダメだぞ!{p}{end}
+EN: There you are, {v0}! It's special practice day again this month. Summer break is no excuse to slack off!{p}{end}
+
+## MGC08 g0 s0011
+JP: よし、さぁ次だ。{n}夏こそ特訓の季節だからな!{n}いつものように、{n}特別練習を選んでくれ!{p}
+EN: Okay, on to the next one. Summer is the season for training! As always, pick a special practice drill!{p}
+
+## MGC08 g0 s0012
+JP: グーッだ!{n}それだけ気合が入っていれば、{n}上達も早い!{p}
+EN: Great stuff! With that much fire in you, you'll improve fast!{p}
+
+## MGC08 g0 s0013
+JP: 今月は臨海合宿だな。{n}僕は参加しないが、{n}あんまり遊びすぎないようにな。{p}{end}
+EN: This month is the seaside camp. I'm not going, so don't goof off too much.{p}{end}
+
+## MGC08 g0 s0014
+JP: 2学期の初めに、{n}クラブを変えることができる。{n}変えるのも、変えないのも{n}お前の自由だ。{p}{end}
+EN: You can switch clubs at the start of second term. Switch or stay, it's up to you.{p}{end}
+
+## MGC08 g0 s0016
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}サッカー部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to soccer club practice.{p}
+
+## MGC08 g0 s0017
+JP: こんにちは、{v0}{col:0}君{col:-}。{n}毎日暑いですね。{n}今日は、8月の特別練習の日です。{n}がんばっていきましょうね。{p}
+EN: Hello, {v0}{col:0}-kun{col:-}. It's hot every day, isn't it? Today is August's special practice day. Let's do our best.{p}
+
+## MGC08 g0 s0019
+JP: 暑い中練習ご苦労様です。{n}それでは、次は特別練習ですね。{n}好きな練習を選んでください。{p}
+EN: Thank you for practicing in this heat. Next is special practice. Please pick whichever drill you like.{p}
+
+## MGC08 g0 s0020
+JP: はい、お疲れさまです。{n}はいコレ、タオルです。{n}汗がいっぱい出てますよ。{p}{end}
+EN: Okay, good work. Here, have a towel. You're sweating a lot.{p}{end}
+
+## MGC08 g0 s0021
+JP: 今月の伝達事項は……、{n}ええと、臨海合宿がありますね。{n}私はちょっと参加できないんです。{n}私の分も楽しんできてくださいね。{p}
+EN: This month's announcements... Um, there's the seaside camp. I'm afraid I can't go. Please have fun for me too.{p}
+
+## MGC08 g0 s0022
+JP: あとは……、2学期の初めに、{n}クラブを変えることができます。{n}できればやめて欲しくないですが、{n}いろいろやってみてもよいと思います。{p}{end}
+EN: And also... you can switch clubs at the start of second term. I'd rather you didn't quit, but I think it's fine to try different things.{p}{end}
+
+## MGC08 g0 s0024
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}相撲部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to sumo club practice.{p}
+
+## MGC08 g0 s0025
+JP: 来たな、{v1}!{n}夏休みだからといって、{n}遊んでおってはダメだぞ!{n}今月も気合を入れていけよ。{p}
+EN: There you are, {v1}! Summer break's no excuse to goof off! Put some fight into it this month too.{p}
+
+## MGC08 g0 s0027
+JP: いい体つきになってきたな。{n}それじゃ次は、今月の特別練習だ。{n}好きな練習を選ぶがいい。{p}
+EN: You're filling out nicely. Now, this month's special practice. Pick whatever drill you like.{p}
+
+## MGC08 g0 s0028
+JP: よしよし、いいだろう。{n}よく練習し、よく休む。{n}これが強さの秘訣だ。{p}{end}
+EN: Good, good, that'll do. Train hard, rest well. That's the secret to strength.{p}{end}
+
+## MGC08 g0 s0029
+JP: さてと、おっそうそう、{n}今月は、臨海合宿があるらしいな。{n}やれやれ、学生ってのは楽しそうだな。{n}今だけだぞ、大事にしろよ。{p}
+EN: Now then... oh, right. Seems there's a seaside camp this month. My, students sure have it good. It only lasts while you're young, so treasure it.{p}
+
+## MGC08 g0 s0030
+JP: 2学期の初めに、{n}クラブを変えることができる。{n}変えるか変えないかは、{n}お前自身が決めろ。{p}
+EN: You can switch clubs at the start of second term. Switch or stay, you decide that for yourself.{p}
+
+## MGC08 g0 s0031
+JP: それじゃ、また来月だ。{n}じゃあな。{p}
+EN: Well, see you next month. So long.{p}
+
+## MGC08 g0 s0032
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}美術部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to art club practice.{p}
+
+## MGC08 g0 s0033
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}もう、暑いんだから、{n}さっさと終わらせちゃいましょ。{n}休みなんだから、なしにすればいいのにね。{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Ugh, it's so hot, let's get this over with quick. It's break, they should've just canceled it.{p}{end}
+
+## MGC08 g0 s0034
+JP: そうもいってられないか。{n}それじゃさっそく{n}先月のクラブ活動の成果からね。{p}
+EN: Guess we can't say that, huh. Okay, let's start with last month's club results.{p}
+
+## MGC08 g0 s0036
+JP: はい、おつかれさま。{n}暑いのにがんばるね。{p}
+EN: Okay, good work. You sure try hard, even in this heat.{p}
+
+## MGC08 g0 s0037
+JP: ええと、そうそう、{n}1年生は、今月は臨海合宿ね。{n}いいなぁ、私もまた行きたいなぁ……。{p}
+EN: Um, oh right, the first-years have the seaside camp this month. Lucky... I wanna go again too...{p}
+
+## MGC08 g0 s0038
+JP: あと……一応、2学期の初めに{n}クラブを変えることができるわ。{n}美術部としては変わって欲しくないけど、{n}このへんは個人の自由だからね。{p}{end}
+EN: Also... just so you know, you can switch clubs at the start of second term. The art club would rather you stayed, but that's your call.{p}{end}
+
+## MGC08 g0 s0039
+JP: それじゃ、また来月ね。{n}美術部、やめてなかったら会いましょう。{p}
+EN: See you next month, then. If you're still in the art club, that is.{p}
+
+## MGC08 g0 s0040
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}吹奏楽部の練習に行こう。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to brass band practice.{p}{end}
+
+## MGC08 g0 s0041
+JP: こんにちは、……{v0}{col:0}君{col:-}。{n}暑いところ、ご苦労様……。{n}練習、がんばりましょうね……。{p}
+EN: Hello... {v0}{col:0}-kun{col:-}. Thank you for coming in this heat... Let's do our best at practice...{p}
+
+## MGC08 g0 s0044
+JP: おつかれさま。{n}がんばってるみたいね……。{p}
+EN: Good work. You seem to be trying hard...{p}
+
+## MGC08 g0 s0045
+JP: あ、そうそう……{n}今月は、臨海合宿があります……。{n}私……身体が弱いから参加できないけど、{n}楽しんできてくださいね……。{p}{end}
+EN: Oh, right... This month there's the seaside camp... I'm... not very strong, so I can't go, but please have fun...{p}{end}
+
+## MGC08 g0 s0046
+JP: ……2学期の初めに、{n}クラブ変更ができます。{n}他のクラブを試してみても{n}いいと思いますよ……。{p}
+EN: ...You can switch clubs at the start of second term. I think it's fine to try out another club...{p}
+
+## MGC08 g0 s0047
+JP: それじゃ、また来月に……{n}お会いしましょう。{p}{end}
+EN: Well then, until next month... I'll see you then.{p}{end}
+
+## MGC08 g0 s0048
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}演劇部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to drama club practice.{p}
+
+## MGC08 g0 s0049
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}夏休みだからって休んでちゃ{n}ダメですよ。{n}準備はいいですか?{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. Summer break is no excuse to take time off. Are you ready?{p}{end}
+
+## MGC08 g0 s0050
+JP: それじゃさっそく、{n}先月のクラブ活動の成果からですね。{p}
+EN: Now then, let's start with last month's club results.{p}
+
+## MGC08 g0 s0051
+JP: 暑い中、がんばってるみたいですね。{n}それじゃ、次は特別練習ね。{n}練習を選んでね。{p}{end}
+EN: You're working hard in this heat, I see. Next is special practice. Pick a drill.{p}{end}
+
+## MGC08 g0 s0052
+JP: よし、今日はここまでにしましょう。{n}やりすぎは身体に悪いから。{p}
+EN: All right, let's stop here for today. Overdoing it is bad for you.{p}
+
+## MGC08 g0 s0053
+JP: 今月は、君たち1年生は臨海合宿ね。{n}楽しんでくるといいわ。{p}
+EN: This month, you first-years have the seaside camp. Go and enjoy yourselves.{p}
+
+## MGC08 g0 s0054
+JP: あとは……2学期の初めに、{n}クラブを変えることができます。{n}かわるかかわらないかは、{n}自分でよく考えて決めるコトね。{p}{end}
+EN: And also... you can switch clubs at the start of second term. Whether you switch or not, think it over carefully and decide for yourself.{p}{end}
+
+## MGC08 g0 s0056
+JP: 夏休みの真っ最中だが、{n}特別練習はあるらしい……。{n}化学部の練習に行こう。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to chemistry club practice.{p}
+
+## MGC08 g0 s0057
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}暑いなぁ、暑い暑い。{n}この暑さは年寄りには酷だな。{p}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Hot, hot, so very hot. This heat is cruel to an old man.{p}
+
+## MGC08 g0 s0058
+JP: 学校が全館冷房になるような日は{n}来ないのかね。{n}ふむ……、そろそろ始めるか。{n}まず先月のクラブ活動の成果からだ。{p}{end}
+EN: Will the day ever come when the whole school is air-conditioned? Hmm... Shall we begin? First, last month's club results.{p}{end}
+
+## MGC08 g0 s0059
+JP: ふむふむ。それじゃ次は、{n}今月の特別練習だな。{n}とっととやって、とっとと{n}終わらせようじゃないか。{p}
+EN: Mm-hm. Next is this month's special practice. Let's get it done and get it over with, shall we?{p}
+
+## MGC08 g0 s0060
+JP: お疲れさん。{n}暑い中熱心だな。{p}
+EN: Good work. You're keen, even in this heat.{p}
+
+## MGC08 g0 s0061
+JP: 今月は、臨海合宿だね。{n}僕は参加しないから、{n}楽しんでくるといい。{p}
+EN: There's the seaside camp this month. I'm not going, so go enjoy yourself.{p}
+
+## MGC08 g0 s0062
+JP: ふむふむ、2学期の初めに、{n}クラブを変えることができるらしいな。{n}人生いろいろやってみるのも{n}人間の幅ができていいぞ。{p}
+EN: Mm-hm, it seems you can switch clubs at the start of second term. Trying all sorts of things in life makes you a bigger person.{p}
+
+## MGC08 g0 s0064
+JP: 夏休みの真っ最中なのに、{n}特別練習はあるらしい……。{n}しかも帰宅部に……。{n}いったい何しようっていうんだ。{p}
+EN: It's the middle of summer break, and there's still special practice... For the Go-Home Club, even... What could we possibly be doing?{p}
+
+## MGC08 g0 s0065
+JP: はーい、{v0}{col:0}君{col:-}。{n}夏休みだからって{n}休んでばっかりじゃダメよ。{n}さ、特別練習よ!{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. Summer break doesn't mean you get to laze around all day. Come on, special practice!{p}
+
+## MGC08 g0 s0066
+JP: そんな顔しない!{n}さ、いつも通り、先月の帰宅部としての{n}クラブの成果からね。{p}{end}
+EN: Don't make that face! Now, as usual, let's start with last month's results as a Go-Home Club member.{p}{end}
+
+## MGC08 g0 s0067
+JP: ふ～ん……それじゃ次は、{n}今月の特別練習ね。{n}夏休みでもやることは同じだけどね。{p}{end}
+EN: Hmm... Next is this month's special practice. Not that summer break changes what we do.{p}{end}
+
+## MGC08 g0 s0068
+JP: ま、こんなものね。{n}ほら、だらだらしないで、{n}しゃんとしないと。{p}{end}
+EN: Well, that's about it. Come on, quit slouching and straighten up.{p}{end}
+
+## MGC08 g0 s0069
+JP: 今月は、臨海合宿ね。{n}私は参加できないけど、{n}楽しんできてね。{p}
+EN: This month is the seaside camp. I can't go, but have fun.{p}
+
+## MGC08 g0 s0070
+JP: 2学期の初めには、{n}クラブに入ることができるわよ。{n}キミもこの機会に何かクラブに{n}入った方がいいんじゃない?{p}{end}
+EN: You can join a club at the start of second term, you know. Why not take the chance and join one?{p}{end}
+
+## MGC08 g0 s0071
+JP: いい?{n}ちゃんとクラブに入るのよ。{n}じゃね。{p}{end}
+EN: Got it? Make sure you join a club. See ya.{p}{end}
+
+## MGC08 g1 s0000
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}野球部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to baseball club practice.{p}{end}
+
+## MGC08 g1 s0001
+JP: よぉ、{v1}{col:0}さん{col:-}。{n}今日も暑いな。{n}がんばっていこうぜ。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. Hot again today. Let's give it our all.{p}{end}
+
+## MGC08 g1 s0008
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}バレー部の練習に行こうっと。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to volleyball club practice.{p}
+
+## MGC08 g1 s0016
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}サッカー部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to soccer club practice.{p}{end}
+
+## MGC08 g1 s0017
+JP: こんにちは、{v1}{col:0}ちゃん{col:-}。{n}毎日暑いね。{n}今日は、8月の特別練習の日よ。{n}がんばっていきましょうね。{p}{end}
+EN: Hi, {v1}{col:0}-chan{col:-}. It's hot every day, huh? Today is August's special practice day. Let's do our best.{p}{end}
+
+## MGC08 g1 s0019
+JP: 暑い中練習ご苦労様ね。{n}それでは、次は特別練習ね。{n}好きな練習を選んでね。{p}
+EN: Thanks for practicing in this heat. Next is special practice. Pick whichever drill you like.{p}
+
+## MGC08 g1 s0020
+JP: はい、お疲れさま。{n}はいコレ、タオルね。{n}汗がいっぱい出てるよ。{p}{end}
+EN: Okay, good work. Here, have a towel. You're sweating a lot.{p}{end}
+
+## MGC08 g1 s0021
+JP: 今月の伝達事項は……、{n}ええと、臨海合宿がありますね。{n}私はちょっと参加できないの。{n}私の分も楽しんできてね。{p}
+EN: This month's announcements... Um, there's the seaside camp. I can't go, though. Have fun for me too, okay?{p}
+
+## MGC08 g1 s0022
+JP: あとは……、2学期の初めに、{n}クラブを変えることができるわ。{n}できればやめて欲しくないけど、{n}いろいろやってみてもいいんじゃない?{p}
+EN: And also... you can switch clubs at the start of second term. I'd rather you didn't quit, but it's fine to try different things, right?{p}
+
+## MGC08 g1 s0024
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}相撲部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to sumo club practice.{p}{end}
+
+## MGC08 g1 s0025
+JP: 来たな、{v0}!{n}夏休みだからといって、{n}遊んでおってはダメだぞ!{n}今月も気合を入れていけよ。{p}
+EN: There you are, {v0}! Summer break's no excuse to goof off! Put some fight into it this month too.{p}
+
+## MGC08 g1 s0032
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}美術部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to art club practice.{p}{end}
+
+## MGC08 g1 s0033
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}もう、暑いんだから、{n}さっさと終わらせちゃいましょ。{n}休みなんだから、なしにすればいいのにね。{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Ugh, it's so hot, let's get this over with quick. It's break, they should've just canceled it.{p}
+
+## MGC08 g1 s0040
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}吹奏楽部の練習に行こうっと。{p}
+EN: It's the middle of summer break, but there's still special practice... Time to head to brass band practice.{p}
+
+## MGC08 g1 s0041
+JP: こんにちは、……{v1}{col:0}さん{col:-}。{n}暑いところ、ご苦労様……。{n}練習、がんばりましょうね……。{p}{end}
+EN: Hello... {v1}{col:0}-san{col:-}. Thank you for coming in this heat... Let's do our best at practice...{p}{end}
+
+## MGC08 g1 s0048
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}演劇部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to drama club practice.{p}{end}
+
+## MGC08 g1 s0049
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}夏休みだからって休んでちゃ{n}ダメですよ。{n}準備はいいですか?{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. Summer break is no excuse to take time off. Are you ready?{p}{end}
+
+## MGC08 g1 s0056
+JP: 夏休みの真っ最中だけど、{n}特別練習はあるみたい……。{n}化学部の練習に行こうっと。{p}{end}
+EN: It's the middle of summer break, but there's still special practice... Time to head to chemistry club practice.{p}{end}
+
+## MGC08 g1 s0064
+JP: 夏休みの真っ最中なのに、{n}特別練習はあるみたい……。{n}しかも帰宅部に……。{n}いったい何するつもりなのかしら。{p}{end}
+EN: It's the middle of summer break, and there's still special practice... For the Go-Home Club, even... What could we possibly be doing?{p}{end}
+
+## MGC08 g1 s0065
+JP: はーい、{v1}{col:0}さん{col:-}。{n}夏休みだからって{n}休んでばっかりじゃダメよ。{n}さ、特別練習よ!{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. Summer break doesn't mean you get to laze around all day. Come on, special practice!{p}{end}
+
+## MGC08 g1 s0070
+JP: 2学期の初めには、{n}クラブに入ることができるわよ。{n}あなたもこの機会に何かクラブに{n}入った方がいいんじゃない?{p}
+EN: You can join a club at the start of second term, you know. Why not take the chance and join one?{p}
+

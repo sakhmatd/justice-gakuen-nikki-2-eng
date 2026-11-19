@@ -1,0 +1,484 @@
+## MGG06P g0 s0000
+JP: 今年も『PT戦』の季節がやってきた。{p}{end}
+EN: It's Pacific-Taiyo Match season again.{p}{end}
+
+## MGG06P g0 s0001
+JP: 『PT戦』とは……、{n}パシフィックハイスクールと太陽学園の{n}対抗戦のことで、両校生徒が己の技を{n}競い合う、年に一度の大イベントだ。{p}
+EN: The Pacific-Taiyo Match is a contest between Pacific High and Taiyo High. Once a year, students from both schools pit their skills against each other.{p}
+
+## MGG06P g0 s0002
+JP: 今年も最終日を迎え、{n}大きな盛り上がりを見せている。{p}{end}
+EN: It's the final day, and the excitement is at its peak.{p}{end}
+
+## MGG06P g0 s0003
+JP: 今日は俺の出番がある日だ。{n}俺はパシフィックHSだから、{n}ロイ達を探さないとな……。{p}{end}
+EN: Today's my turn to compete. I'm on Pacific's side, so I'd better go find Roy and the others...{p}{end}
+
+## MGG06P g0 s0004
+JP: ヘイ、{v3:6}!{n}待ってたぞ。{p}
+EN: Hey, {v3:6}! I've been waiting.{p}
+
+## MGG06P g0 s0005
+JP: 最後の種目の短距離走に{n}出るんだろう?{n}準備はいいか?{p}
+EN: You're running the sprint, the last event, right? You ready?{p}
+
+## MGG06P g0 s0006
+JP: ファイト!{sp}{v3:7}!{n}太陽学園は、バツが出るらしいね!{n}油断テンテキよ!!{p}{end}
+EN: Fight, {v3:7}! I hear Taiyo High is sending out Batsu! Don't get overconfidential!!{p}{end}
+
+## MGG06P g0 s0008
+JP: おっ、いたな!{n}{v3:0}!!{p}{end}
+EN: Oh, there you are! {v3:0}!!{p}{end}
+
+## MGG06P g0 s0009
+JP: パシフィックはお前が選手なんだろ?{n}一度お前とは本気の勝負をしたいと{n}思ってたんだ!{p}{end}
+EN: You're Pacific's runner, right? I've been wantin' a real showdown with you!{p}{end}
+
+## MGG06P g0 s0010
+JP: 全力でかかって来いよ!{n}俺も手抜きはしねぇからな!!{p}{end}
+EN: Come at me with everything ya got! I ain't holdin' back either!!{p}{end}
+
+## MGG06P g0 s0011
+JP: なんかやる気満々だな、{n}バツのヤツ。{p}{end}
+EN: Batsu's sure fired up.{p}{end}
+
+## MGG06P g0 s0012
+JP: ふふ、{v3:7}もバツも、{n}ネッケツ・バカね!{n}ファイト!!{p}
+EN: Hee hee, {v3:7} and Batsu are both hot-blooded dummies! Fight!!{p}
+
+## MGG06P g0 s0013
+JP: キミなら勝てるさ、{v3:6}。{n}冷静に走れば大丈夫。{n}タイミングが合わなくても{n}あわてないようにな。{p}
+EN: You can win this, {v3:6}. Just run calmly and you'll be fine. Don't panic if your timing's off.{p}
+
+## MGG06P g0 s0014
+JP: そろそろ時間ではないですか?{n}がんばってください、{n}{v4:8}。{n}神のご加護がありますように!{p}{end}
+EN: Is it not almost time? Do your best, {v4:8}. May the Lord protect you!{p}{end}
+
+## MGG06P g0 s0015
+JP: はーい、{v4:19}!{n}調子はどう?{p}{end}
+EN: Hiii, {v4:19}! How're you feeling?{p}{end}
+
+## MGG06P g0 s0016
+JP: 任せとけって!{n}まぁまぁかな{n}悪くはないけど{p}{end}
+EN: Leave it to me!{n}So-so, I guess{n}Not bad, I guess{p}{end}
+
+## MGG06P g0 s0017
+JP: 任せとけって!{n}今日は絶好調さ。{n}バツには悪いけど、勝たせてもらうよ。{p}
+EN: Leave it to me! I'm in top form today. Sorry, Batsu, but I'm gonna win.{p}
+
+## MGG06P g0 s0018
+JP: へー、たいした自信ね。{n}ふんふん、『任せとけ』……と、{n}{v0}選手は自信たっぷりに{n}語った、と。{p}{end}
+EN: Wow, that's confidence. Hmm hmm, "Leave it to me," {v0} said confidently... Got it.{p}{end}
+
+## MGG06P g0 s0019
+JP: いい記事になりそうだわ。{n}ウチとしてはバツ君に勝ってほしいけど、{n}その調子なら、いい試合になりそうね。{n}期待してるわよ。{p}{end}
+EN: This'll make a great article. We want Batsu-kun to win, but the way you're talking, it'll be a good race. I'm counting on you.{p}{end}
+
+## MGG06P g0 s0020
+JP: まぁまぁかな。{n}勝負は時の運だからネェ。{n}なんともいえないよ。{p}
+EN: So-so, I guess. Winning comes down to luck, y'know. Hard to say.{p}
+
+## MGG06P g0 s0021
+JP: 『まぁまぁ』……ね。{n}アンタ、記事になりにくい人ねぇ。{n}もっとスパッとしたコト、いえない?{p}
+EN: "So-so"... huh. You're hard to write about, you know. Can't you say something punchier?{p}
+
+## MGG06P g0 s0022
+JP: アンタには、期待してるわよ。{n}きっと、大会を盛り上げてくれるって。{n}がんばってね、勝ったら{n}一面トップに写真載せるから。{p}{end}
+EN: I'm counting on you, though. I know you'll make this meet exciting. Good luck! Win, and your photo goes on the front page.{p}{end}
+
+## MGG06P g0 s0023
+JP: 悪くないけどね。{n}さっき、やる気満々のバツに会って、{n}ちょっと気後れしちゃったよ。{p}
+EN: Not bad, I guess. But I just ran into Batsu, and he was so fired up it made me kinda nervous.{p}
+
+## MGG06P g0 s0024
+JP: な～に?{sp}思ったより気弱ねぇ。{n}まぁ、太陽学園としては、{n}その方が都合いいんだけどね。{p}
+EN: Wha~t? You're more timid than I thought. Well, for Taiyo, that works out better.{p}
+
+## MGG06P g0 s0025
+JP: アンタならきっと、盛り上げてくれるって{n}ワタシは期待してるんだから。{n}期待裏切っちゃダメよ。{n}ガンバってね。{p}{end}
+EN: I'm counting on you to make this exciting, okay? Don't let me down. Good luck.{p}{end}
+
+## MGG06P g0 s0026
+JP: あ、もう出番みたいね。{n}じゃ、また後でね。{p}
+EN: Oh, looks like you're up. See you later.{p}
+
+## MGG06P g0 s0028
+JP: {v3:7}、やったネ!{n}バツに勝つなんてグレイトね!{n}エクセレント!!{p}{end}
+EN: {v3:7}, you did it! Beating Batsu is great! Excellent!!{p}{end}
+
+## MGG06P g0 s0031
+JP: さすがだな!{sp}{v3:6}!{n}このボクが見込んだだけのことはある!{p}
+EN: Nice going, {v3:6}! Just what I'd expect from someone I picked!{p}
+
+## MGG06P g0 s0032
+JP: これで、今大会は我がパシフィック{n}ハイスクールの勝利ですネ!{n}神よ、感謝します。{p}{end}
+EN: Now our Pacific High wins the meet! Lord, I thank you.{p}{end}
+
+## MGG06P g0 s0033
+JP: まったくだ。{n}ま、ボクが出ても勝ってただろうが、{n}キミに任せたのは正解だったな。{n}キミを推薦したのはボクなんだぜ。{p}
+EN: Exactly. Well, I'd have won if I ran too, but leaving it to you was the right call. I'm the one who recommended you, you know.{p}
+
+## MGG06P g0 s0034
+JP: は～い、みなさんお揃いね!{n}{v4:19}、勝利の瞬間、{n}バッチリ撮ったわよ!!{p}
+EN: Hiii, all here, I see! {v4:19}, I got a perfect shot of the winning moment!!{p}
+
+## MGG06P g0 s0035
+JP: 勝利者インタビュー、{n}させてもらっていいかな?{p}
+EN: Mind if I do a winner's interview?{p}
+
+## MGG06P g0 s0036
+JP: さすがに、自信たっぷりだっただけの{n}コトはあるわね!{n}余裕の勝利ってトコかしら?{n}勝因は?{p}
+EN: Guess all that confidence was for real! An easy win, would you say? What won it for you?{p}
+
+## MGG06P g0 s0037
+JP: 実力かな{n}運だよ{p}{end}
+EN: Skill, I guess{n}Luck{p}{end}
+
+## MGG06P g0 s0038
+JP: ま、実力かな。{n}バツには悪いけど、{n}今日は調子よかったからね。{n}予定通りってとこだよ。{p}
+EN: Well, I guess it's skill. Sorry, Batsu, but I was on today. Right on schedule.{p}
+
+## MGG06P g0 s0039
+JP: さすがだな、{v3:6}。{n}今のセリフ、バツに聞かせてやりたいな。{n}アイツの悔しがるところが{n}目に見えるようだ。{p}{end}
+EN: Impressive, {v3:6}. I'd love for Batsu to hear that. I can just picture him fuming.{p}{end}
+
+## MGG06P g0 s0040
+JP: さすがねぇ、{v4:19}。{n}『{v0}選手{sp}余裕の勝利!!』{n}ふむふむ、これで次の新聞の一面は{n}決まりね。楽しみにしててね!{p}
+EN: Impressive, {v4:19}. "{v0} Cruises to Victory!!" Hmm hmm, that settles the next front page. Look forward to it!{p}
+
+## MGG06P g0 s0041
+JP: 運がよかったよ。{n}バツも本調子じゃ{n}なかったんじゃないかな。{p}{end}
+EN: I just got lucky. Maybe Batsu wasn't at his best.{p}{end}
+
+## MGG06P g0 s0042
+JP: オ～、{v3:7}、{n}それ、ジャパンでは、{n}ケンノンいいま～す!{p}{end}
+EN: Oh, {v3:7}, in Japan they call that being "modern"!{p}{end}
+
+## MGG06P g0 s0043
+JP: それは「謙遜」でしょ?{n}う～ん、新聞としても、もっと景気の{n}いいコメントが欲しいけどね。{n}次の新聞で写真使うから楽しみにしててね。{p}
+EN: You mean "modest"? Hmm, for the paper I'd like a punchier comment. I'm running your photo in the next issue, so look forward to it.{p}
+
+## MGG06P g0 s0044
+JP: 「まぁまぁ」とかいってたけど、{n}悪くない勝ち方だったじゃない。{n}やっぱり、実力?{n}それともバツが調子が悪かっただけかしら?{p}
+EN: You said you were "so-so," but that was a pretty solid win. So was it skill? Or was Batsu just off his game?{p}
+
+## MGG06P g0 s0046
+JP: ま、実力かな。{n}真の実力者は、試合前には{n}そんな軽々しいことは言わないの。{n}ほら、能あるタカは、っていうだろ?{p}
+EN: Well, I guess it's skill. The truly skilled don't brag before a match. You know, a clever hawk hides its talons.{p}
+
+## MGG06P g0 s0047
+JP: そうです、真の実力者は{n}その力におごってはいけません。{p}
+EN: Yes, the truly skilled must never grow proud of their strength.{p}
+
+## MGG06P g0 s0048
+JP: ふ～ん、どうだか。{n}ま、これでまともな記事になるわ。{n}次の新聞の一面に載せるから、{n}楽しみにしててね!!{p}{end}
+EN: Hmm, we'll see. Well, at least now I've got a decent article. It's going on the next front page, so look forward to it!!{p}{end}
+
+## MGG06P g0 s0049
+JP: どうかな。{n}運がよかったのかもね。{p}
+EN: Who knows. Maybe I just got lucky.{p}
+
+## MGG06P g0 s0050
+JP: アンタってホント煮え切らない人ね～。{n}いいわ、インタビューはなし!{n}写真は使うけど……じゃ、代わりに{n}ロイの談話でももらおうかしら?{p}{end}
+EN: You're so wishy-washy~. Fine, no interview! I'll still use the photo... I'll just get a comment from Roy instead.{p}{end}
+
+## MGG06P g0 s0051
+JP: キミもきついな、ラン。{n}ボクはかまわないが、せっかくだから{n}{v3:6}の顔も立ててやれよ。{p}{end}
+EN: You're harsh, Ran. I don't mind, but you could at least let {v3:6} save face.{p}{end}
+
+## MGG06P g0 s0052
+JP: ワタシはもっと強気なコメントが{n}欲しいんだけどな。……ま、いいわ。{n}次の新聞には写真使わせてもらうから、{n}楽しみにしててね。{p}{end}
+EN: I wanted a bolder comment... Oh well. I'm running your photo in the next issue, so look forward to it.{p}{end}
+
+## MGG06P g0 s0053
+JP: 頼りないこと言ってたわりには、{n}ちゃんと勝ったね。{n}やっぱり私が見込んだだけはあるわ!{n}勝因は?{p}{end}
+EN: For someone who sounded so unsure, you sure won. I knew I saw something in you! What won it for you?{p}{end}
+
+## MGG06P g0 s0057
+JP: そのわりには自信なさそうに{n}見えたけど?{p}{end}
+EN: Funny, you didn't look so sure of yourself.{p}{end}
+
+## MGG06P g0 s0058
+JP: ま、いいわ。{n}勝たなかったらどうしようかと思ったけど、{n}これでまともな記事になるわ。{n}次の新聞に載せるから、楽しみにしててね。{p}
+EN: Oh well. I was worried what I'd do if you lost, but now I've got a decent article. It's going in the next issue, so look forward to it.{p}
+
+## MGG06P g0 s0059
+JP: 運がよかっただけだよ。{n}ちょっとでもバツの方に運が向いていたら、{n}バツが勝っていただろうね。{p}{end}
+EN: I just got lucky. If luck had tipped even a little toward Batsu, he'd have won.{p}{end}
+
+## MGG06P g0 s0060
+JP: あいかわらず気弱なコメントね～。{n}謙遜もいいけど、{n}もっと景気のいいコメント{n}いえないものかしら?{p}
+EN: Timid as ever~. Modesty's fine, but can't you give me a punchier comment?{p}
+
+## MGG06P g0 s0061
+JP: ふふっ、それが{v4:8}の{n}いいところですよ。{p}{end}
+EN: Heh, that is the good thing about {v4:8}.{p}{end}
+
+## MGG06P g0 s0062
+JP: ふ～ん……、ま、いいわ。{n}次の新聞には写真使わせてもらうから、{n}楽しみにしててね。{p}
+EN: Hmm... oh well. I'm running your photo in the next issue, so look forward to it.{p}
+
+## MGG06P g0 s0063
+JP: こうしてPT戦は、パシフィックHSの{n}大勝利に終わった。{p}{end}
+EN: And so the Pacific-Taiyo Match ended in a big win for Pacific High.{p}{end}
+
+## MGG06P g0 s0064
+JP: ヘイ{sp}{v3:6}!{n}今の走りが全力だったって{n}いうんじゃないだろうな!!{p}
+EN: Hey, {v3:6}! Don't tell me that was your best run!!{p}
+
+## MGG06P g0 s0065
+JP: キミには失望したよ。{n}パシフィックハイスクールの命運が{n}かかってるってわかってたのか!?{n}{v3:6}!{p}{end}
+EN: You've let me down. Didn't you know Pacific High's fate was riding on this?! {v3:6}!{p}{end}
+
+## MGG06P g0 s0066
+JP: ロイ、{v3:7}はがんばったよ。{n}それに負けたのは{v3:7}だけの{n}責任じゃないね。{p}{end}
+EN: Roy, {v3:7} tried hard. And losing isn't only {v3:7}'s fault.{p}{end}
+
+## MGG06P g0 s0067
+JP: そうですよ、ロイ。{n}そして何より、むしろ太陽学園の{n}生徒達の健闘をこそたたえるべきでしょう。{p}{end}
+EN: That is right, Roy. And above all, we should praise the Taiyo High students for fighting so well.{p}{end}
+
+## MGG06P g0 s0068
+JP: ごめんな、{n}俺がもっとしっかりしていれば……。{p}
+EN: Sorry. If only I'd done better...{p}
+
+## MGG06P g0 s0069
+JP: いや、謝るのはボクの方だ。{n}キミの責任じゃないってことは{n}わかっていたんだが……すまない。{p}
+EN: No, I'm the one who should apologize. I knew it wasn't your fault, but... I'm sorry.{p}
+
+## MGG06P g0 s0070
+JP: いたいた、{v4:19}!{n}探したわよ!!{p}{end}
+EN: There you are, {v4:19}! I've been looking for you!!{p}{end}
+
+## MGG06P g0 s0071
+JP: ……やれやれ、{n}命知らずのジャーナリストのおでましだ。{n}{v3:6}、{n}覚悟しておいた方がいいぞ。{p}
+EN: ...Oh boy. Here comes the reckless journalist. {v3:6}, you'd better brace yourself.{p}
+
+## MGG06P g0 s0072
+JP: ご挨拶ねぇ、ロイ!{n}まるで、ワタシが悪者みたいじゃない。{n}たんなる取材よ、取材。{p}{end}
+EN: Well, nice to see you too, Roy! You make me sound like the bad guy. It's just an interview.{p}{end}
+
+## MGG06P g0 s0073
+JP: 一応、コメントもらっておこうと{n}思ってね……。{p}
+EN: I figured I'd get a comment from you anyway...{p}
+
+## MGG06P g0 s0074
+JP: ええと、試合前に自信たっぷりだった{n}わりには、あっさり負けちゃったけど、{n}何か敗因とか、ある?{p}
+EN: So, you were so confident before the race, but you lost pretty easily. Any reason why?{p}
+
+## MGG06P g0 s0075
+JP: 実力で負けた{n}勝負は時の運だ{p}{end}
+EN: He beat me fair and square{n}Winning comes down to luck{p}{end}
+
+## MGG06P g0 s0076
+JP: バツは速かったよ。{n}俺の方が遅かった、それだけのことさ。{p}{end}
+EN: Batsu was fast. I was slower, that's all.{p}{end}
+
+## MGG06P g0 s0077
+JP: ふ～ん、潔いわねぇ。となると一面は……{n}『バツ選手{sp}圧勝!{n}{sp}{v0}選手{sp}健闘およばず』{n}ってトコロかしら。{p}{end}
+EN: Hmm, how gracious. So the front page will be... "Batsu Wins in a Rout! {v0} Falls Short" or something like that.{p}{end}
+
+## MGG06P g0 s0078
+JP: 今日のバツは確かに速かったよ。{n}まぁボクなら勝てただろうが……{n}ボク以外では、勝つのは難しいだろうな。{p}
+EN: Batsu was fast today, no doubt. Well, I'd have beaten him... but for anyone else, it'd be tough.{p}
+
+## MGG06P g0 s0079
+JP: ……そうね。{n}まぁ気を落とさないで。{n}次の五輪祭は期待してるわよ。{n}一面をアンタの写真で飾ってあげるから。{p}
+EN: ...Right. Well, don't feel down. I'm counting on you at the Gorin Festival. I'll put your photo on the front page.{p}
+
+## MGG06P g0 s0080
+JP: 勝負は時の運さ。{n}次にやったら負けないよ。{p}
+EN: Winning comes down to luck. Next time, I won't lose.{p}
+
+## MGG06P g0 s0081
+JP: そうです、その心意気こそ、{n}次の勝利に繋がるのです!{p}{end}
+EN: Yes, that spirit is what leads to the next victory!{p}{end}
+
+## MGG06P g0 s0082
+JP: そういうコメントが欲しかったのよ。{n}『バツ選手{sp}辛勝!{n}{sp}{v0}選手{sp}再戦に意欲』{n}って感じかな。{p}
+EN: That's the kind of comment I wanted. Something like "Batsu Squeaks By! {v0} Eager for a Rematch."{p}
+
+## MGG06P g0 s0083
+JP: ま、再戦は今年はできないけど。{n}次の五輪祭はがんばってね。{n}応援してるわよ。{p}{end}
+EN: Not that there's a rematch this year. Do your best at the Gorin Festival. I'm rooting for you.{p}{end}
+
+## MGG06P g0 s0084
+JP: ええと、試合前も煮え切らないコメントして{n}そのまま負けちゃったって感じだけど、{n}どう?{sp}何か敗因とか、ある?{p}{end}
+EN: So, you gave a wishy-washy comment before the race and then just lost. How about it? Any reason why?{p}{end}
+
+## MGG06P g0 s0086
+JP: ダメだね。バツの方が断然速かった。{n}それだけさ。{p}{end}
+EN: No good. Batsu was way faster. That's all.{p}{end}
+
+## MGG06P g0 s0087
+JP: あいかわらず煮え切らないコメントねぇ。{n}コレじゃ、記事にもならないわ。{n}バツの独占インタビューで{n}一面埋めちゃおうかしら。{p}
+EN: Wishy-washy as always. That won't even make an article. Maybe I'll fill the front page with an exclusive Batsu interview.{p}
+
+## MGG06P g0 s0088
+JP: ランはキツイですねー。{n}{v3:7}も、{n}ガンバりましたよー?{p}
+EN: Ran, you're so harsh. {v3:7} tried hard too, you know?{p}
+
+## MGG06P g0 s0089
+JP: だって、あんまり弱気なんだもの。{n}せっかく応援してあげてるのに。{n}ま、次の五輪祭はがんばってね。{n}アンタには期待してるんだから。{p}{end}
+EN: But you're being so timid. And here I am cheering for you. Well, do your best at the Gorin Festival. I'm counting on you.{p}{end}
+
+## MGG06P g0 s0090
+JP: 勝負は時の運だよ。{n}次にやったら結果はわからないよ。{p}{end}
+EN: Winning comes down to luck. If we raced again, who knows how it'd go.{p}{end}
+
+## MGG06P g0 s0091
+JP: ふふ、今年はもう「次」はないけどね。{n}でも、よかった。{n}そんなに落ち込んでないのね。{n}安心したわ。{p}
+EN: Hee hee, there's no "next time" this year, though. But I'm glad. You're not that down. That's a relief.{p}
+
+## MGG06P g0 s0092
+JP: 励ましに来てくれたのですか?{p}{end}
+EN: Did you come to cheer us up?{p}{end}
+
+## MGG06P g0 s0093
+JP: 取材よ、取材。{n}ま、今回は相手が悪かったわね。{n}次の五輪祭は期待してるわよ。{n}一面をアンタの写真で飾ってあげるから。{p}{end}
+EN: It's an interview, an interview. Well, you had a tough opponent this time. I'm counting on you at the Gorin Festival. I'll put your photo on the front page.{p}{end}
+
+## MGG06P g0 s0094
+JP: 試合前に頼りないこといって、{n}そのまま見せ場もなく負けちゃったけど、{n}どう?{sp}何か敗因とか、ある?{p}
+EN: You sounded unsure before the race, then lost without a single highlight. How about it? Any reason why?{p}
+
+## MGG06P g0 s0096
+JP: 実力で負けたよ。{n}あのバツにはとてもじゃないけど{n}勝てないな。{p}
+EN: He beat me fair and square. There's no way I could ever beat Batsu.{p}
+
+## MGG06P g0 s0097
+JP: アンタね、もっと強気なこといえない?{n}試合前から負ける気十分で、負けてからも{n}それじゃ、なんか情けないわよ。{p}{end}
+EN: Can't you say something bolder? You were ready to lose before the race, and you're still like that after. It's kinda pathetic.{p}{end}
+
+## MGG06P g0 s0098
+JP: そのへんにしておいてやれよ、ラン。{n}{v3:6}も十分こたえてるさ。{n}ボクがもうさんざん{n}キツイことをいったところだからな……。{p}{end}
+EN: That's enough, Ran. {v3:6} is hurting plenty. I already said plenty of harsh things myself...{p}{end}
+
+## MGG06P g0 s0099
+JP: ……ごめん。{n}励ましに来たつもりだったんだけど。{n}あんまり弱気だから、つい……。{n}次はがんばってね、応援してるわよ。{p}{end}
+EN: ...Sorry. I meant to cheer you up, but you were so down, I couldn't help it... Do your best next time. I'm rooting for you.{p}{end}
+
+## MGG06P g0 s0100
+JP: 勝負は時の運だよ。{n}今回はたまたま負けただけさ。{p}{end}
+EN: Winning comes down to luck. I just happened to lose this time.{p}{end}
+
+## MGG06P g0 s0101
+JP: へぇ～、試合前負けそうなコトいってた{n}ヒトのコメントとは思えないわねぇ。{n}でも安心したわ。{n}もっと落ち込んでるかと思った。{p}
+EN: Hu~h, hard to believe that's from someone who talked like a loser before the race. But that's a relief. I thought you'd be way more down.{p}
+
+## MGG06P g0 s0104
+JP: こうしてPT戦は、パシフィック{n}ハイスクールの惜敗に終わった。{p}
+EN: And so the Pacific-Taiyo Match ended in a narrow loss for Pacific High.{p}
+
+## MGG06P g1 s0000
+JP: 今年も『PT戦』の季節がやってきたわ。{p}
+EN: It's Pacific-Taiyo Match season again.{p}
+
+## MGG06P g1 s0001
+JP: 『PT戦』っていうのは、{n}パシフィックハイスクールと太陽学園の{n}対抗戦のことで、両校生徒が己の技を{n}競い合う、年に一度の大イベント。{p}{end}
+EN: The Pacific-Taiyo Match is a contest between Pacific High and Taiyo High. Once a year, students from both schools pit their skills against each other.{p}{end}
+
+## MGG06P g1 s0002
+JP: 今年も最終日を迎え、{n}大きな盛り上がりを見せているわ。{p}
+EN: It's the final day, and the excitement is at its peak.{p}
+
+## MGG06P g1 s0003
+JP: 今日は私の出番がある日よ。{n}私はパシフィックHSだから、{n}ロイ達を探さないとね……。{p}{end}
+EN: Today's my turn to compete. I'm on Pacific's side, so I'd better go find Roy and the others...{p}{end}
+
+## MGG06P g1 s0010
+JP: 全力でかかって来いよ!{n}相手が女だからって、{n}俺は手抜きはしねぇからな!!{p}
+EN: Come at me with everything ya got! Don't think I'll go easy just 'cause you're a girl!!{p}
+
+## MGG06P g1 s0011
+JP: なんかやる気満々ね、{n}バツったら。{p}
+EN: Batsu's sure fired up.{p}
+
+## MGG06P g1 s0015
+JP: はーい、{v8:19}!{n}調子はどう?{p}{end}
+EN: Hiii, {v8:19}! How're you feeling?{p}{end}
+
+## MGG06P g1 s0016
+JP: 任せといて!{n}まぁまぁかな{n}悪くはないけど{p}
+EN: Leave it to me!{n}So-so, I guess{n}Not bad, I guess{p}
+
+## MGG06P g1 s0017
+JP: 任せといて!{n}今日は絶好調よ。{n}バツには悪いけど、勝たせてもらうわよ。{p}
+EN: Leave it to me! I'm in top form today. Sorry, Batsu, but I'm gonna win.{p}
+
+## MGG06P g1 s0018
+JP: へー、たいした自信ね。{n}ふんふん、『任せといて!』……と、{n}{v0}選手は自信たっぷりに{n}語った、と。{p}{end}
+EN: Wow, that's confidence. Hmm hmm, "Leave it to me!" {v0} said confidently... Got it.{p}{end}
+
+## MGG06P g1 s0020
+JP: まぁまぁかな。{n}勝負は時の運だからネェ。{n}なんともいえないわ。{p}
+EN: So-so, I guess. Winning comes down to luck, y'know. Hard to say.{p}
+
+## MGG06P g1 s0023
+JP: 悪くないけどね。{n}さっき、やる気満々のバツに会って、{n}ちょっと気後れしちゃった。{p}{end}
+EN: Not bad, I guess. But I just ran into Batsu, and he was so fired up it made me kinda nervous.{p}{end}
+
+## MGG06P g1 s0034
+JP: は～い、みなさんお揃いね!{n}{v8:19}、勝利の瞬間、{n}バッチリ撮ったわよ!!{p}
+EN: Hiii, all here, I see! {v8:19}, I got a perfect shot of the winning moment!!{p}
+
+## MGG06P g1 s0037
+JP: 実力かな{n}運よ{p}
+EN: Skill, I guess{n}Luck{p}
+
+## MGG06P g1 s0038
+JP: ふふっ、やっぱり実力かな。{n}バツには悪いけど、{n}私、今日は調子よかったから。{n}予定通りってとこね。{p}
+EN: Heh heh, guess it's skill. Sorry, Batsu, but I was on today. Right on schedule.{p}
+
+## MGG06P g1 s0040
+JP: さすがねぇ、{v8:19}。{n}『{v0}選手{sp}余裕の勝利!!』{n}ふむふむ、これで次の新聞の一面は{n}決まりね。楽しみにしててね!{p}
+EN: Impressive, {v8:19}. "{v0} Cruises to Victory!!" Hmm hmm, that settles the next front page. Look forward to it!{p}
+
+## MGG06P g1 s0041
+JP: 運がよかっただけよ。{n}バツも本調子じゃ{n}なかったんじゃないかな。{p}{end}
+EN: I just got lucky. Maybe Batsu wasn't at his best.{p}{end}
+
+## MGG06P g1 s0046
+JP: ふふっ、やっぱり実力かな。{n}真の実力者は、試合前には{n}そんな軽々しいことは言わないの。{n}ほら、能あるタカは、っていうでしょ?{p}{end}
+EN: Heh heh, guess it's skill. The truly skilled don't brag before a match. You know, a clever hawk hides its talons.{p}{end}
+
+## MGG06P g1 s0059
+JP: 運がよかっただけだよ。{n}ちょっとでもバツの方に運が向いていたら、{n}バツが勝ってたと思うわ。{p}
+EN: I just got lucky. If luck had tipped even a little toward Batsu, I think he'd have won.{p}
+
+## MGG06P g1 s0068
+JP: ごめんね、{n}私がもっとしっかりしていれば……。{p}
+EN: Sorry. If only I'd done better...{p}
+
+## MGG06P g1 s0070
+JP: いたいた、{v8:19}!{n}探したわよ!!{p}{end}
+EN: There you are, {v8:19}! I've been looking for you!!{p}{end}
+
+## MGG06P g1 s0075
+JP: 実力で負けた{n}勝負は時の運{p}
+EN: He beat me fair and square{n}Winning comes down to luck{p}
+
+## MGG06P g1 s0076
+JP: バツは速かったわ。{n}私の方が遅かった、それだけのことよ。{p}{end}
+EN: Batsu was fast. I was slower, that's all.{p}{end}
+
+## MGG06P g1 s0080
+JP: 勝負は時の運よ。{n}次にやったら負けないわ。{p}
+EN: Winning comes down to luck. Next time, I won't lose.{p}
+
+## MGG06P g1 s0086
+JP: ダメだわ。バツの方が断然速かった。{n}それだけよ。{p}{end}
+EN: No good. Batsu was way faster. That's all.{p}{end}
+
+## MGG06P g1 s0090
+JP: 勝負は時の運だよ。{n}次にやったら結果はわからないわよ。{p}
+EN: Winning comes down to luck. If we raced again, who knows how it'd go.{p}
+
+## MGG06P g1 s0096
+JP: 実力で負けたわ。{n}あのバツにはとてもじゃないけど{n}勝てないわ。{p}
+EN: He beat me fair and square. There's no way I could ever beat Batsu.{p}
+
+## MGG06P g1 s0101
+JP: へぇ～試合前負けそうなコトいってた{n}ヒトのコメントとは思えないわねぇ。{n}でも安心したわ。{n}もっと落ち込んでるかと思った。{p}{end}
+EN: Hu~h, hard to believe that's from someone who talked like a loser before the race. But that's a relief. I thought you'd be way more down.{p}{end}
+

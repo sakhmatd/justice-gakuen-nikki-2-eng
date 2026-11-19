@@ -1,0 +1,200 @@
+## MGC11 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}今年も秋が深まってきたな。{n}今月も特別練習、がんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-kun{col:-}. Fall's really setting in this year. Let's give special practice our all this month too.{p}{end}
+
+## MGC11 g0 s0004
+JP: {v1}{col:0}君{col:-}、自分でも{n}力がついてきたのがわかるだろ?{n}この調子でがんばろう。{p}
+EN: {v1}{col:0}-kun{col:-}, you can tell you've gotten stronger yourself, right? Keep it up.{p}
+
+## MGC11 g0 s0005
+JP: 今月は、五輪祭だな。{n}野球部として、{n}恥ずかしいプレーはするなよ。{n}そのためには、練習を欠かさないことだ。{p}
+EN: This month is the Gorin Festival. As a baseball club member, don't make any embarrassing plays. That means never skipping practice.{p}
+
+## MGC11 g0 s0008
+JP: 来たな、{v0}!{n}まだまだスポーツの秋だ!{n}気合い入れていけよ!{p}{end}
+EN: There you are, {v0}! It's still sports season! Let's get fired up!{p}{end}
+
+## MGC11 g0 s0011
+JP: グーッだ!{n}あいかわらず、いい特訓っぷりだな!{n}お前はまだまだ伸びるぞ!{p}{end}
+EN: Great stuff! Your training's as good as ever! You've still got plenty of room to grow!{p}{end}
+
+## MGC11 g0 s0012
+JP: さてと、今月は五輪祭だな。{n}練習はまめにしておいた方がいいぞ。{p}
+EN: Now then, this month is the Gorin Festival. You'd better keep up your practice.{p}
+
+## MGC11 g0 s0015
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、11月の特別練習の日です。{n}がんばっていきましょうね。{p}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is November's special practice day. Let's do our best.{p}
+
+## MGC11 g0 s0016
+JP: ええと、それじゃいつものように{n}先月のクラブ活動の成果を{n}みてみましょう。{p}
+EN: Um, then, as usual, let's look at last month's club results.{p}
+
+## MGC11 g0 s0018
+JP: はい、お疲れさまです。{n}少し肌寒くないですか?{n}練習には差し障りないと思いますけど。{p}{end}
+EN: Okay, good work. Isn't it a little chilly? I don't think it should get in the way of practice, though.{p}{end}
+
+## MGC11 g0 s0019
+JP: 今月の伝達事項は……、{n}ええと、五輪祭がありますね。{n}がんばってくださいね、応援してます。{p}
+EN: This month's announcements... Um, there's the Gorin Festival. Please do your best. I'll be cheering for you.{p}
+
+## MGC11 g0 s0022
+JP: 来たな、{v1}!{n}今月も特別練習をやるぞ。{n}気合をいれていけよ。{p}{end}
+EN: There you are, {v1}! Special practice again this month. Get fired up.{p}{end}
+
+## MGC11 g0 s0023
+JP: よしよし、それじゃいつも通り{n}先月のクラブ活動の成果をみてみるか。{p}
+EN: Good, good. Now, as always, let's look at last month's club results.{p}
+
+## MGC11 g0 s0025
+JP: よしよし、いいだろう。{n}お前もいい身体つきになってきたな。{n}期待しているぞ。{p}{end}
+EN: Good, good, that'll do. You're filling out nicely, too. I've got high hopes for you.{p}{end}
+
+## MGC11 g0 s0026
+JP: さてと、おっそうそう、{n}今月は、五輪祭らしいな。{n}お前の実力を見せるいい機会だ。{n}ガツンとやってやれ。{p}
+EN: Now then... oh, right, I hear the Gorin Festival is this month. A good chance to show what you've got. Go knock 'em flat.{p}
+
+## MGC11 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}紅葉が綺麗な季節になってきたわね。{n}絵を描くにはもってこいの季節ね!{p}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. The autumn leaves are getting so pretty. Perfect season for painting!{p}
+
+## MGC11 g0 s0030
+JP: さ～てと、じゃいつも通り、{n}先月のクラブ活動の成果からね。{p}
+EN: Okaaay, so as usual, last month's club results first.{p}
+
+## MGC11 g0 s0032
+JP: はい、おつかれさま。{n}芸術の秋っていうだけあって、{n}この時期は筆の乗りがいいのよね。{p}{end}
+EN: Okay, good work. They don't call fall the season for art for nothing. The brush just flows this time of year.{p}{end}
+
+## MGC11 g0 s0033
+JP: ええと、そうそう、{n}今月は五輪祭ね。{n}出場するんでしょ?{n}がんばってね。{p}{end}
+EN: Um, oh right, the Gorin Festival is this month. You're competing, right? Good luck.{p}{end}
+
+## MGC11 g0 s0036
+JP: {v0}{col:0}君{col:-}、いらっしゃい。{n}今日は特別練習の日ですね。{n}練習、がんばりましょう……。{p}
+EN: {v0}{col:0}-kun{col:-}, welcome. Today is special practice day. Let's... do our best...{p}
+
+## MGC11 g0 s0037
+JP: それじゃ、いつもどおり、{n}先月のクラブ活動の成果からね……。{p}{end}
+EN: Then, as usual... last month's club results first...{p}{end}
+
+## MGC11 g0 s0038
+JP: ……はい。{n}それじゃ次は特別練習ね。{n}好きな練習を選んでね……。{p}{end}
+EN: ...Okay. Next is special practice. Pick whichever drill you like...{p}{end}
+
+## MGC11 g0 s0039
+JP: おつかれさま。{n}練習大変じゃない?{p}
+EN: Good work. Isn't practice hard on you?{p}
+
+## MGC11 g0 s0040
+JP: あ、そうそう……{n}今月は、五輪祭ね。{n}出場するんでしょ?{n}がんばってね……。{p}{end}
+EN: Oh, right... The Gorin Festival is this month. You're competing, right? Good luck...{p}{end}
+
+## MGC11 g0 s0044
+JP: さてと、それじゃ恒例の{n}先月のクラブ活動の成果から{n}みてみましょう。{p}{end}
+EN: Now then, let's start with the usual, last month's club results.{p}{end}
+
+## MGC11 g0 s0045
+JP: それじゃ、特別練習をしましょうか。{n}好きな練習を選んでちょうだい。{p}
+EN: Now, shall we do special practice? Pick whichever drill you like.{p}
+
+## MGC11 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}もうだいぶコツはつかんでるみたいね。{p}{end}
+EN: All right, let's stop here for today. You seem to have gotten the hang of it.{p}{end}
+
+## MGC11 g0 s0047
+JP: 今月は五輪祭があるわよ。{n}私たちは関係ないけど、{n}キミは出場するんでしょう?{n}がんばってね。{p}{end}
+EN: The Gorin Festival is this month. It has nothing to do with us, but you're competing, aren't you? Good luck.{p}{end}
+
+## MGC11 g0 s0050
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}いちょうが綺麗な季節になったなぁ。{n}この時期になるといつも{n}あの人のことを思い出すんだが……。{p}
+EN: Ah, there you are, {v0}{col:0}-kun{col:-}. The ginkgo trees are lovely this time of year. Every year around now, I remember a certain person...{p}
+
+## MGC11 g0 s0051
+JP: ああ、そんな話じゃなかったな。{n}いやいや、それじゃいつも通り、{n}先月のクラブ活動の成果からだ。{p}
+EN: Ah, that's not what we were talking about. No, no, as usual, let's start with last month's club results.{p}
+
+## MGC11 g0 s0052
+JP: ふむふむ。それじゃ次は、{n}今月の特別練習だな。{n}もういわんでもわかると思うが、{n}ま、これもお約束でな。{p}
+EN: Mm-hm. Next is this month's special practice. I'm sure you know the drill by now, but, well, it's tradition.{p}
+
+## MGC11 g0 s0053
+JP: なるほどなるほど。{n}お疲れさん。{n}ま、あとはゆっくり休みなさい。{p}{end}
+EN: I see, I see. Good work. Well, go get some rest.{p}{end}
+
+## MGC11 g0 s0054
+JP: 今月は、五輪祭だったか何かがあるな。{n}まぁケガしない程度に{n}がんばっておきなさい。{p}
+EN: This month there's the Gorin Festival or some such. Well, do your best, just don't get hurt.{p}
+
+## MGC11 g0 s0056
+JP: さてと、今日は特別練習の日だな。{n}委員長と遊んでくるか。{p}{end}
+EN: Well, today's special practice day. Guess I'll go hang out with the Chairperson.{p}{end}
+
+## MGC11 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}毎月毎月大変だけど、{n}今月も特別練習をするわよ。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. It's a pain every month, but we're doing special practice this month too.{p}{end}
+
+## MGC11 g0 s0058
+JP: とりあえず、先月の{n}帰宅部の成果からね。{p}{end}
+EN: First, last month's Go-Home Club results.{p}{end}
+
+## MGC11 g0 s0059
+JP: ふ～ん……それじゃ次は、{n}今月の特別練習ね。{n}マジメにやんなきゃダメよ。{p}{end}
+EN: Hmm... Okay, next is this month's special practice. Take it seriously, okay?{p}{end}
+
+## MGC11 g0 s0060
+JP: ま、こんなものね。{n}お疲れさま。{p}{end}
+EN: Well, that'll do. Good work.{p}{end}
+
+## MGC11 g0 s0061
+JP: 今月は五輪祭があるわね。{n}なんでか知らないけど、{n}あなた選手らしいわね。{n}がんばってきなさいよ。{p}{end}
+EN: The Gorin Festival is this month. No idea why, but apparently you're competing. Go give it your best.{p}{end}
+
+## MGC11 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今年も秋が深まってきたな。{n}今月も特別練習、がんばっていこう。{p}
+EN: Hey, {v1}{col:0}-san{col:-}. Fall's really setting in this year. Let's give special practice our all this month too.{p}
+
+## MGC11 g1 s0004
+JP: {v1}{col:0}さん{col:-}、自分でも{n}力がついてきたのがわかるだろ?{n}この調子でがんばろう。{p}{end}
+EN: {v1}{col:0}-san{col:-}, you can tell you've gotten stronger yourself, right? Keep it up.{p}{end}
+
+## MGC11 g1 s0015
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、11月の特別練習の日ね。{n}がんばっていきましょう。{p}{end}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today is November's special practice day. Let's do our best.{p}{end}
+
+## MGC11 g1 s0017
+JP: いい調子ね。{n}それでは、次は特別練習よ。{n}好きな練習を選んでね。{p}{end}
+EN: You're doing well. Next is special practice. Pick whichever drill you like.{p}{end}
+
+## MGC11 g1 s0018
+JP: はい、お疲れさま。{n}少し肌寒くない?{n}練習には差し障りないと思うけど。{p}
+EN: Okay, good work. Isn't it a little chilly? I don't think it should get in the way of practice, though.{p}
+
+## MGC11 g1 s0019
+JP: 今月の伝達事項は……、{n}ええと、五輪祭がありますね。{n}がんばってね、応援してるから。{p}{end}
+EN: This month's announcements... Um, there's the Gorin Festival. Do your best, I'll be cheering for you.{p}{end}
+
+## MGC11 g1 s0022
+JP: 来たな、{v0}!{n}今月も特別練習をやるぞ。{n}気合をいれていけよ。{p}{end}
+EN: There you are, {v0}! Special practice again this month. Get fired up.{p}{end}
+
+## MGC11 g1 s0025
+JP: よしよし、いいだろう。{n}たいした成長ぶりだ、{n}これなら男の相撲部員とやっても{n}いい勝負できるぞ。{p}{end}
+EN: Good, good, that'll do. That's real growth. At this rate, you could hold your own against the boys in the sumo club.{p}{end}
+
+## MGC11 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}紅葉が綺麗な季節になってきたわね。{n}絵を描くにはもってこいの季節ね!{p}{end}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. The autumn leaves are getting so pretty. Perfect season for painting!{p}{end}
+
+## MGC11 g1 s0036
+JP: {v1}{col:0}さん{col:-}、いらっしゃい。{n}今日は特別練習の日ですね。{n}練習、がんばりましょう……。{p}{end}
+EN: {v1}{col:0}-san{col:-}, welcome. Today is special practice day. Let's... do our best...{p}{end}
+
+## MGC11 g1 s0056
+JP: さてと、今日は特別練習の日ね。{n}委員長と遊んでこよっと。{p}{end}
+EN: Well, today's special practice day. Guess I'll go hang out with the Chairperson.{p}{end}
+
+## MGC11 g1 s0057
+JP: はーい、{v1}{col:0}さん{col:-}。{n}毎月毎月大変だけど、{n}今月も特別練習をするわよ。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. It's a pain every month, but we're doing special practice this month too.{p}
+

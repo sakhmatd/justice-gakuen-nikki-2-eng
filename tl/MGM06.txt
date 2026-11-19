@@ -1,0 +1,1192 @@
+## MGM06 g0 s0000
+JP: あれっ?{n}もう誰もいないと思っていた教室に{n}誰かいるぞ?{p}{end}
+EN: Huh? I thought the classroom would be empty by now, but somebody's here.{p}{end}
+
+## MGM06 g0 s0001
+JP: あらぁ、{v0}{col:0}君{col:-}じゃない!{p}
+EN: Oh my, if it isn't {v0}{col:0}-kun{col:-}!{p}
+
+## MGM06 g0 s0002
+JP: これから委員長と{n}帰りにケーキ食べに行くとこなんだ!{p}{end}
+EN: The Chairperson and I are heading out for cake on the way home!{p}{end}
+
+## MGM06 g0 s0003
+JP: ふ～ん。{p}{end}
+EN: Huh.{p}{end}
+
+## MGM06 g0 s0004
+JP: そうだ!{n}よかったら一緒にケーキ食べに行かない?{p}{end}
+EN: Oh, I know! Wanna come eat cake with us?{p}{end}
+
+## MGM06 g0 s0005
+JP: どうしようかな?{p}{end}
+EN: What should I do?{p}{end}
+
+## MGM06 g0 s0006
+JP: 一緒にケーキを食べに行く{n}誘いを断る{p}{end}
+EN: Go eat cake with them{n}Turn them down{p}{end}
+
+## MGM06 g0 s0007
+JP: 実は俺もケーキ好きなんだ!{n}よし一緒に行こう!{p}
+EN: Actually, I love cake too! Sure, let's go!{p}
+
+## MGM06 g0 s0008
+JP: おいしい!{n}やっぱりここのケーキは一番よね!{n}ひなたさんの方のケーキはどう?{p}{end}
+EN: Delicious! The cake here really is the best! How's yours, Hinata-san?{p}{end}
+
+## MGM06 g0 s0009
+JP: おいしいに決まってるでしょ!{n}私はチョコでもなんでも{n}あま～いものには目がないの!{p}
+EN: Delicious, obviously! Chocolate or whatever, I can't resist anything swe~et!{p}
+
+## MGM06 g0 s0010
+JP: （ひゃ～っ!{n}{sp}ふたりともほんとによく食べるなあ…{n}{sp}昼間の弁当は少なくて遅いくせに……）{p}
+EN: (Whoa! These two can really eat... And at lunch they eat tiny bentos so slowly...){p}
+
+## MGM06 g0 s0011
+JP: あ～おいしかった!{p}
+EN: Ahh, that was so good!{p}
+
+## MGM06 g0 s0012
+JP: また食べに来ましょうね、ひなたさん。{p}{end}
+EN: Let's come back again, Hinata-san.{p}{end}
+
+## MGM06 g0 s0013
+JP: そうだね!{n}そうだ!{n}明日も行っちゃおうか?{p}{end}
+EN: Yeah! Oh, I know! Why don't we come back tomorrow?{p}{end}
+
+## MGM06 g0 s0014
+JP: よし、行こう!{n}明日はやめとくよ{p}{end}
+EN: Sure, let's go!{n}I'll pass tomorrow{p}{end}
+
+## MGM06 g0 s0015
+JP: よし、明日も行こう!{p}{end}
+EN: All right, let's go tomorrow too!{p}{end}
+
+## MGM06 g0 s0016
+JP: さっすが!{n}{v6:1}は話が分かるから{n}だ～い好き!{n}じゃあ明日も教室に集合ね!{p}
+EN: That's what I like to hear! I lo~ve how you get it, {v6:1}! So we'll meet in the classroom tomorrow too!{p}
+
+## MGM06 g0 s0017
+JP: 毎日ケーキか、{n}ふ、太りそ～。{p}
+EN: Cake every day, huh... G-gonna get fa~t.{p}
+
+## MGM06 g0 s0018
+JP: あ、明日も!?{n}ちょ、ちょっと遠慮しとくよ。{p}{end}
+EN: T-tomorrow too!? Uh, I think I'll pass.{p}{end}
+
+## MGM06 g0 s0019
+JP: もう、付き合い悪いなあ。{n}じゃあもういい!{n}委員長と行くもん。{n}じゃあね。{p}
+EN: Aw, you're no fun. Fine, forget it! I'll go with the Chairperson. Bye.{p}
+
+## MGM06 g0 s0020
+JP: それでもやっぱり明日行くんだ…。{n}（やっぱりひなたのケーキ好きは{n}{sp}異常だ……）{p}{end}
+EN: So she's still going tomorrow anyway... (Hinata's cake obsession really isn't normal...){p}{end}
+
+## MGM06 g0 s0021
+JP: ご、ごめん。{n}ちょっと今日はお腹の調子が悪いんだ。{n}また今度ね!{p}{end}
+EN: S-sorry. My stomach's a little off today. Next time, okay?{p}{end}
+
+## MGM06 g0 s0022
+JP: ふ～ん。{n}じゃあしょうがないな。{n}今度また行こうね!{n}さ、委員長行こ!{p}
+EN: Hmm. Well, can't be helped. Let's go next time, okay! Come on, Chairperson, let's go!{p}
+
+## MGM06 g0 s0023
+JP: お大事に!{p}
+EN: Feel better!{p}
+
+## MGM06 g0 s0024
+JP: そこまで言われると{n}ちょっと二人に悪かった気がするなあ。{p}{end}
+EN: After all that, I kinda feel bad about turning them down.{p}{end}
+
+## MGM06 g0 s0025
+JP: でも今日は{n}そんな気分じゃなかったからいいか!{n}さてと、どこに行こうかな?{p}
+EN: But I wasn't in the mood today anyway, so whatever! Now, where should I go?{p}
+
+## MGM06 g0 s0026
+JP: 放課後のグラウンドで{n}ロイとボーマンとティファニーが{n}3人で何か話してるぞ?{p}{end}
+EN: Roy, Boman and Tiffany are on the field after school, talking about something.{p}{end}
+
+## MGM06 g0 s0027
+JP: 3人の方へ行く{n}別の場所へ行く{p}
+EN: Go over to them{n}Go somewhere else{p}
+
+## MGM06 g0 s0028
+JP: さっきから3人集まって{n}何話してるんだ?{p}{end}
+EN: What have you three been talking about?{p}{end}
+
+## MGM06 g0 s0029
+JP: オー!{sp}{v3:7}!{n}今「シマツシケン」の話を{n}していたところネ!{p}{end}
+EN: Oh! {v3:7}! We were just talking about the "finger exams"!{p}{end}
+
+## MGM06 g0 s0030
+JP: それをいうなら「期末試験」だろ。{p}{end}
+EN: You mean "final exams."{p}{end}
+
+## MGM06 g0 s0031
+JP: 来月には試験がありますからね。{n}3人でその対策を考えていたところです。{p}
+EN: We have exams next month, you see. The three of us were discussing how to prepare.{p}
+
+## MGM06 g0 s0032
+JP: 対策?{p}
+EN: Prepare?{p}
+
+## MGM06 g0 s0033
+JP: まったく、{n}ボーマンはいつもおおげさなんだよ。{n}たかが試験に、対策を考える必要なんて{n}ないだろう。{p}
+EN: Honestly, Boman always makes such a big deal out of things. It's just a test. There's no need to prepare.{p}
+
+## MGM06 g0 s0034
+JP: 日本のことわざにもあるでしょう。{n}「石橋を叩いて渡る」{n}この精神は一理あると思いますよ。{p}{end}
+EN: There is a Japanese saying, is there not? "Tap the stone bridge before you cross." I believe there is wisdom in it.{p}{end}
+
+## MGM06 g0 s0035
+JP: {v3:7}、ユーも{n}イッショに対策考えませんか?{p}
+EN: {v3:7}, won't you plan with us too?{p}
+
+## MGM06 g0 s0036
+JP: じゃあ一緒にやろうか{n}そんな事につき合ってられない{p}
+EN: Sure, let's do it together{n}I can't be bothered with that{p}
+
+## MGM06 g0 s0037
+JP: そうだな、{n}俺も試験に自信があるわけじゃないし。{n}よかったら仲間に入れてよ。{p}{end}
+EN: Yeah, I'm not that confident about the exams either. Mind if I join you?{p}{end}
+
+## MGM06 g0 s0038
+JP: オフ・コースね!{n}{v3:7}がいればヒャクニンリキよ。{p}{end}
+EN: Of course! With {v3:7} here, we're a hundred times stronger.{p}{end}
+
+## MGM06 g0 s0039
+JP: それでは始めましょうか。{p}{end}
+EN: Then shall we begin?{p}{end}
+
+## MGM06 g0 s0040
+JP: ま、ボクには必要ないとは思うが、{n}一応やるだけのことはやっておくか。{p}{end}
+EN: Well, I don't think I need it, but I might as well do what I can.{p}{end}
+
+## MGM06 g0 s0041
+JP: ウフフッ。{n}ロイも相変わらず素直じゃないネ。{p}{end}
+EN: Hee hee. Roy's as stubborn as ever.{p}{end}
+
+## MGM06 g0 s0042
+JP: でも、何だか対策を考えてるだけで{n}試験はダイジョブっていう気分に{n}なっちゃった。{n}それじゃ{v3:7}、グッバーイ!{p}{end}
+EN: But just planning makes me feel like the exams will be fine already. Okay, {v3:7}, goodbye!{p}{end}
+
+## MGM06 g0 s0043
+JP: グッバーイ……って。{n}まだほとんど何もしてないじゃないか。{n}ティファニーは楽観的というか、{n}単純というか……。{p}
+EN: "Goodbye"...? We've barely done anything. Tiffany's either an optimist or just simple...{p}
+
+## MGM06 g0 s0044
+JP: 悪いけど、俺はパスさせてもらうよ。{n}試験対策なんて、そんなくだらない事{n}する必要はないよ。{p}
+EN: Sorry, but I'll pass. There's no need to do something as pointless as studying for exams.{p}
+
+## MGM06 g0 s0045
+JP: ホワット!{n}ミー達のやってる事って、{n}クダラナイですか?{p}{end}
+EN: What! Is what we're doing pointless?{p}{end}
+
+## MGM06 g0 s0046
+JP: それはまた、{n}よほど自信がおありなのですね。{p}{end}
+EN: My, you must be quite confident.{p}{end}
+
+## MGM06 g0 s0047
+JP: ヘイ!{sp}ジャパニーズ!{n}それはボク達の程度が低いっていう事か?{p}
+EN: Hey! Japanese! Are you saying we're not as smart as you?{p}
+
+## MGM06 g0 s0048
+JP: ぼ、僕は冷静に判断して……{n}ゴ、ゴメンナサーイ!{p}{end}
+EN: I-I was just being objective... S-sorry!!{p}{end}
+
+## MGM06 g0 s0049
+JP: 正直に言っただけなのに……。{p}{end}
+EN: I was only being honest...{p}{end}
+
+## MGM06 g0 s0050
+JP: なんだか深刻そうだから{n}別の場所に行こう。{n}どこに行こうかな?{p}
+EN: Things look a little serious here, so I'll go somewhere else. Where should I go?{p}
+
+## MGM06 g0 s0051
+JP: ふぁ～～っ……。{n}退屈な授業ばかりじゃ気が滅入るよなぁ。{n}たまにはこうして気分転換っと。{p}{end}
+EN: Yaaawn... Nothing but boring classes really gets me down. Gotta take a break like this now and then.{p}{end}
+
+## MGM06 g0 s0052
+JP: あれ?{n}岩じゃないか。{n}なにやってんだろう?{p}{end}
+EN: Huh? Isn't that Gan? What's he doing?{p}{end}
+
+## MGM06 g0 s0053
+JP: 声をかける{n}別の場所へ行く{p}
+EN: Talk to him{n}Go somewhere else{p}
+
+## MGM06 g0 s0054
+JP: ま、いいか。{n}そっとしておいてやろう。{p}
+EN: Oh well. I'll leave him be.{p}
+
+## MGM06 g0 s0055
+JP: 岩、なにやってんだ?{p}{end}
+EN: Gan, what're you doing?{p}{end}
+
+## MGM06 g0 s0056
+JP: おう、{v3:11}!{n}おぬしもここへはよく来るのかのぅ?{p}{end}
+EN: Hey, {v3:11}! You come up here a lot too?{p}{end}
+
+## MGM06 g0 s0057
+JP: ああ、いい気晴らしになるからな。{n}……って、岩。{n}そのおにぎりの山は、何だ?{p}{end}
+EN: Yeah, it's a nice break. ...Wait, Gan. What's with that mountain of rice balls?{p}{end}
+
+## MGM06 g0 s0058
+JP: これか?{n}これはやまぶき商店特製おにぎりじゃ!{n}今日もワシ用に特別に握ってくれたんじゃ!{p}{end}
+EN: These? Yamabuki Store special rice balls! They made 'em just for me again today!{p}{end}
+
+## MGM06 g0 s0059
+JP: （ワシ用って……{n}{sp}どうみたって百個近くあるだろ……）{p}
+EN: ("Just for me"... There's gotta be close to a hundred of them...){p}
+
+## MGM06 g0 s0060
+JP: 一個くれよ{n}いつもこんなに食ってるのか?{n}これは俺があずかろう{p}
+EN: Give me one{n}You always eat this much?{n}I'll hold onto these{p}
+
+## MGM06 g0 s0061
+JP: うまそーだなぁ……。{n}そんなの見てたら腹へってきたよ。{n}岩、一個くれないか?{p}{end}
+EN: Those look good... Looking at them is making me hungry. Gan, can I have one?{p}{end}
+
+## MGM06 g0 s0062
+JP: ほほぉ?{n}おぬしもこのおにぎりを食いたいのか!?{p}{end}
+EN: Oho? So you wanna try one of these rice balls too!?{p}{end}
+
+## MGM06 g0 s0063
+JP: ああ。{n}岩、いっつも美味そうに食ってるもんな。{n}一度食べてみたかったんだよ。{p}{end}
+EN: Yeah. You always look like you're enjoying them so much. I've always wanted to try one.{p}{end}
+
+## MGM06 g0 s0064
+JP: 仕方ないのぅ!{n}一つだけじゃぞ、ほれ!!{p}{end}
+EN: Well, I s'pose! Just one, mind ya. Here!!{p}{end}
+
+## MGM06 g0 s0065
+JP: ありがとう。{n}じゃ、さっそく。{p}
+EN: Thanks. Here goes.{p}
+
+## MGM06 g0 s0066
+JP: （もぐもぐもぐ……{n}{sp}ん!{sp}こ、これは!!）{p}{end}
+EN: (Munch munch munch... Mm! Th-this is!!){p}{end}
+
+## MGM06 g0 s0067
+JP: どうじゃ、うまいか?{p}{end}
+EN: Well? Good, ain't it?{p}{end}
+
+## MGM06 g0 s0068
+JP: うまいも何も、最高だよ!{n}なんていうか……。{n}口では表現しきれないよ。{p}
+EN: Good? It's the best! It's... I can't even put it into words.{p}
+
+## MGM06 g0 s0069
+JP: そうか?{n}なら特別じゃ。{n}もう一個だけやろう。{p}
+EN: That so? Then you get a special treat. I'll give ya one more.{p}
+
+## MGM06 g0 s0070
+JP: 本当か?{n}サンキュー、岩。{p}
+EN: Really? Thanks, Gan.{p}
+
+## MGM06 g0 s0071
+JP: なんの、{n}うまいと喜んでくれればそれでいいんじゃ。{p}
+EN: Ain't nothin'. Long as you enjoy 'em, that's all I need.{p}
+
+## MGM06 g0 s0072
+JP: （岩も喜んでいるみたいだ。{n}{sp}それにしても、うまいおにぎりだった。）{p}{end}
+EN: (Gan looks happy. That really was a great rice ball.){p}{end}
+
+## MGM06 g0 s0073
+JP: それにしても、岩。{n}この量はちょっと食い過ぎなんじゃないの?{p}{end}
+EN: Still, Gan. Isn't this way too much to eat?{p}{end}
+
+## MGM06 g0 s0074
+JP: そんなことはないぞい。{n}いつもより少ないぐらいじゃ。{p}{end}
+EN: Nah, not at all. It's less than usual, if anything.{p}{end}
+
+## MGM06 g0 s0075
+JP: （げ……本当かよ。{n}{sp}人間の限界をこえてるんじゃないか?）{p}
+EN: (Ugh... Seriously? That's gotta be past human limits.){p}
+
+## MGM06 g0 s0076
+JP: で、でも、岩。{n}せめてもう少し間を空けて、{n}食べた方がいいよ。{n}一気に食べたら身体を壊すよ?{p}{end}
+EN: B-but Gan, you should at least space them out a little. If you eat them all at once, you'll get sick, y'know?{p}{end}
+
+## MGM06 g0 s0077
+JP: ふぅむ……。{n}それもそうじゃのう。{n}後は昼休みの楽しみにとっておこうかの!{p}
+EN: Hmm... Reckon you got a point. I'll save the rest for lunch break!{p}
+
+## MGM06 g0 s0078
+JP: （岩は階段を降りていった。{n}{sp}しかし、いくら美味そうなおにぎりでも、{n}{sp}あの量は……俺なんて、{n}{sp}見ただけで胸焼けしたぞ。）{p}{end}
+EN: (Gan went down the stairs. They looked good, but that many... I got heartburn just looking at them.){p}{end}
+
+## MGM06 g0 s0079
+JP: 岩、いくらなんでも食べ過ぎだって。{n}だから、このおにぎりは{n}俺があずかっといてやるよ。{p}
+EN: Gan, that's way too much, seriously. So I'll hold onto these rice balls for you.{p}
+
+## MGM06 g0 s0080
+JP: なんじゃと!?{n}おぬし、本気か!?{p}
+EN: What's that!? You serious!?{p}
+
+## MGM06 g0 s0081
+JP: ああ。{n}これも、お前の身体を心配して……{p}{end}
+EN: Yeah. I'm just worried about your health...{p}{end}
+
+## MGM06 g0 s0082
+JP: {v3:11}!!{n}いくらおぬしでも許さんぞ!!{n}おにぎりを返さんかい!!{p}{end}
+EN: {v3:11}!! Even you ain't gettin' away with this!! Gimme back my rice balls!!{p}{end}
+
+## MGM06 g0 s0083
+JP: わわっ、岩!?{n}ちょ、ちょっと!{p}{end}
+EN: Whoa, Gan!? H-hey, wait!{p}{end}
+
+## MGM06 g0 s0084
+JP: んんがあぁぁぁーーっ!!{p}{end}
+EN: Nnngraaaahhh!!{p}{end}
+
+## MGM06 g0 s0085
+JP: （や、やばい!{n}{sp}岩の奴、完全にキレちまったぞ!?）{p}{end}
+EN: (Uh-oh! Gan's totally lost it!?){p}{end}
+
+## MGM06 g0 s0086
+JP: うがぁーーーーーーーっ!!!{p}{end}
+EN: Ugaaaaaahhh!!!{p}{end}
+
+## MGM06 g0 s0087
+JP: ガシィィーーーーーッ!!{p}{end}
+EN: Grab!!{p}{end}
+
+## MGM06 g0 s0088
+JP: 「……そこまでよ、岩」{p}
+EN: "...That's enough, Gan."{p}
+
+## MGM06 g0 s0089
+JP: あ……アキラ!?{p}{end}
+EN: A... Akira!?{p}{end}
+
+## MGM06 g0 s0090
+JP: 岩……気持ちはわからないでもないけど、{n}少しやり過ぎよ……。{n}それと{v5:10}、{n}もう勘弁してあげて?{p}{end}
+EN: Gan... I understand how you feel, but you went a little too far... And {v5:10}, won't you let him off now?{p}{end}
+
+## MGM06 g0 s0091
+JP: あ、ああ…{n}岩、俺が悪かったよ。{n}はい、おにぎり。{p}
+EN: Y-yeah... Gan, my bad. Here, your rice balls.{p}
+
+## MGM06 g0 s0092
+JP: う、うむ。{n}ワシもちとやり過ぎたわい。{n}すまんかったのう、{v3:11}。{p}{end}
+EN: Uh, yeah. I went a mite too far myself. Sorry 'bout that, {v3:11}.{p}{end}
+
+## MGM06 g0 s0093
+JP: （そう言うと岩は下に降りていった。）{p}{end}
+EN: (With that, Gan went downstairs.){p}{end}
+
+## MGM06 g0 s0094
+JP: ふふふ。{n}……{v5:10}、驚いたでしょう?{p}{end}
+EN: Hee hee. ...{v5:10}, that scared you, didn't it?{p}{end}
+
+## MGM06 g0 s0095
+JP: ああ……{n}怒った岩には、手がつけられないな。{n}アキラがいてくれてよかったよ。{p}{end}
+EN: Yeah... There's no handling Gan when he's mad. I'm glad you were here, Akira.{p}{end}
+
+## MGM06 g0 s0096
+JP: ……あんまり岩を挑発しないでね。{n}この次もちゃんと止められるか、{n}わからないから……。{p}
+EN: ...Please don't provoke Gan too much. I don't know if I'll be able to stop him next time...{p}
+
+## MGM06 g0 s0097
+JP: わかったよ。{n}サンキュ、アキラ。{p}{end}
+EN: Got it. Thanks, Akira.{p}{end}
+
+## MGM06 g0 s0098
+JP: （これからは気をつけよう……）{p}
+EN: (I'll be more careful from now on...){p}
+
+## MGM06 g0 s0099
+JP: 保健室に来てみると、{n}ベッドの側にバツがいた。{n}どうやら誰かの看病してるみたいだ。{p}
+EN: In the infirmary, Batsu was by one of the beds. Looks like he's looking after someone.{p}
+
+## MGM06 g0 s0100
+JP: よぉ、{v3:0}。{n}どうした?{sp}調子悪いのか?{n}響子先生なら、今いないぜ。{p}{end}
+EN: Yo, {v3:0}. What's up? Feelin' sick? Kyoko-sensei ain't here right now.{p}{end}
+
+## MGM06 g0 s0101
+JP: いや、そういうわけじゃ{n}ないんだけど……。{n}そこに誰か寝てるのか?{p}
+EN: No, it's not that... Is somebody sleeping there?{p}
+
+## MGM06 g0 s0102
+JP: いや……ちょっと親父がな……。{p}
+EN: Yeah... it's my old man...{p}
+
+## MGM06 g0 s0103
+JP: 親父……ああ、雷蔵学園長のことか。{n}どうしたんだ、体調でも{n}悪いのか?{p}
+EN: Your old man... oh, Principal Raizo. What happened, is he sick?{p}
+
+## MGM06 g0 s0104
+JP: いや、ちょっとした頭痛だよ。{n}……よくあるんだ、{n}突然ヒドイ頭痛におそわれて……。{n}しばらく寝れば治るらしいんだけどよ。{p}{end}
+EN: Nah, just a headache. ...He gets 'em a lot. Out of nowhere, a nasty headache hits him... Supposedly it goes away if he sleeps a while.{p}{end}
+
+## MGM06 g0 s0105
+JP: しばらくつきあってやる{n}ジャマしちゃ悪いので立ち去る{p}{end}
+EN: Keep them company for a while{n}Leave so I don't intrude{p}{end}
+
+## MGM06 g0 s0106
+JP: それじゃ、親子水入らずを{n}ジャマしちゃ悪いな。{n}じゃバツ、また今度な。{n}親孝行してやれよ。{p}
+EN: Then I won't intrude on family time. See ya later, Batsu. Be good to your old man.{p}
+
+## MGM06 g0 s0107
+JP: な、何いってんだ。{n}そんなんじゃ、ねぇっての!{p}
+EN: Wh-what're you talkin' about? It ain't like that!{p}
+
+## MGM06 g0 s0108
+JP: ……さてと、どこに行こうかな。{p}
+EN: ...Now, where should I go?{p}
+
+## MGM06 g0 s0109
+JP: それで、付きそってあげてるのか。{n}もう少しつきあってやろうか?{n}一人じゃ退屈だろ?{p}
+EN: So you're staying by his side. Want me to keep you company? It's boring alone, right?{p}
+
+## MGM06 g0 s0110
+JP: ああ、助かるぜ。{n}俺も置いていくわけにも{n}行かなくてよ……。{p}{end}
+EN: Yeah, that'd help. I can't exactly just leave him here...{p}{end}
+
+## MGM06 g0 s0111
+JP: そりゃそうだ。{n}バツにとっては、親父さんだからな。{p}
+EN: Of course. He's your dad, after all.{p}
+
+## MGM06 g0 s0112
+JP: （……そんな話を{n}{sp}しばらくしていると……）{p}{end}
+EN: (...We talked like that for a while, and then...){p}{end}
+
+## MGM06 g0 s0113
+JP: ……う……うんん……。{n}そこにいるのは、バツか……?{p}{end}
+EN: ...Ugh... nnn... Is that you, Batsu...?{p}{end}
+
+## MGM06 g0 s0114
+JP: お、気がついたのか?{n}親父、大丈夫か?{p}
+EN: Oh, you awake? You okay, old man?{p}
+
+## MGM06 g0 s0115
+JP: う……うむ。{n}だいぶ気分が良くなった。{n}すまんな、バツ。{p}{end}
+EN: Y-yes. I feel much better. Sorry, Batsu.{p}{end}
+
+## MGM06 g0 s0116
+JP: と……君は{v0}{col:0}君{col:-}か。{n}これは恥ずかしいところを{n}見せてしまったな。{p}{end}
+EN: And... ah, {v0}{col:0}-kun{col:-}. I'm afraid you've caught me at an embarrassing moment.{p}{end}
+
+## MGM06 g0 s0117
+JP: わしにも理由はわからんのだが、{n}時々強い頭痛に襲われるのだよ。{n}そうなるともう、{n}業務に差し支えるのでな……。{p}
+EN: I myself don't know the reason, but now and then I'm struck by a severe headache. When that happens, it interferes with my duties...{p}
+
+## MGM06 g0 s0118
+JP: 親父は働き過ぎだって。{n}いい先生もいるんだ、{n}任せればいいんだよ。{p}
+EN: You work too much, old man. You got good teachers here. Just leave stuff to them.{p}
+
+## MGM06 g0 s0119
+JP: しかし、わしにできることは{n}自分でやらんとな……。{n}それに身体を動かさんと、{n}気がすまんタチでな……。{p}
+EN: Still, what I can do, I must do myself... Besides, I'm the sort who can't rest easy unless I'm on the move...{p}
+
+## MGM06 g0 s0120
+JP: はは、やっぱり{n}そういうトコロは、{n}バツと似てますね。{p}
+EN: Haha, you really are like Batsu that way.{p}
+
+## MGM06 g0 s0121
+JP: 俺が?{sp}親父と?{p}{end}
+EN: Me? Like my old man?{p}{end}
+
+## MGM06 g0 s0122
+JP: 似ておるかね?{p}
+EN: Are we alike?{p}
+
+## MGM06 g0 s0123
+JP: 似てますよ{n}やっぱり似てないです{p}{end}
+EN: You are alike{n}You're not alike after all{p}{end}
+
+## MGM06 g0 s0124
+JP: 似てますよ、やっぱり。{n}もちろん行動だけじゃなく、{n}外見も似てますし。{p}
+EN: Yeah, you're alike. Not just in how you act, either. You look alike too.{p}
+
+## MGM06 g0 s0125
+JP: が、外見も?{p}{end}
+EN: L-look alike too?{p}{end}
+
+## MGM06 g0 s0126
+JP: 似てるけどなぁ。{p}{end}
+EN: I think you do, though.{p}{end}
+
+## MGM06 g0 s0127
+JP: ハッハ、そういってもらえると{n}うれしいな。{n}なぁバツ?{n}……バツ?{p}
+EN: Ha ha, I'm delighted to hear you say so. Eh, Batsu? ...Batsu?{p}
+
+## MGM06 g0 s0129
+JP: ん?{sp}どうしたんだ、バツ。{p}
+EN: Hm? What's wrong, Batsu?{p}
+
+## MGM06 g0 s0130
+JP: う……ウソだーーーーーッ!!{n}俺は、俺はハゲねーぞーーーっ!{p}{end}
+EN: N-no wayyyyy!! I ain't, I ain't goin' bald!!{p}{end}
+
+## MGM06 g0 s0131
+JP: バターーン!{p}{end}
+EN: SLAM!{p}{end}
+
+## MGM06 g0 s0132
+JP: ……飛び出していっちゃった……。{n}そんなにショックだったのか?{n}学園長に似てるのが……、{n}ん?{sp}学園長?{p}{end}
+EN: ...He ran out... Was it that much of a shock? Looking like the principal... Hm? The principal?{p}{end}
+
+## MGM06 g0 s0134
+JP: （うう、学園長もショックだった{n}{sp}みたいだ……。{n}{sp}まぁ子供にあんなリアクションを{n}{sp}とられたらムリもないか……）{p}
+EN: (Ugh, looks like the principal's shocked too... Well, no wonder, when his kid reacts like that...){p}
+
+## MGM06 g0 s0135
+JP: （そっとしておいてあげよう……）{p}{end}
+EN: (I'll leave him be...){p}{end}
+
+## MGM06 g0 s0136
+JP: やっぱり似てないですね。{n}俺の気のせいでした。{p}
+EN: Actually, you're not alike. Must've been my imagination.{p}
+
+## MGM06 g0 s0137
+JP: そうかのぉ……。{p}{end}
+EN: Is that so...{p}{end}
+
+## MGM06 g0 s0138
+JP: ……フゥ……、{n}おどかすなよ、{v3:0}……。{p}{end}
+EN: ...Phew... Don't scare me like that, {v3:0}...{p}{end}
+
+## MGM06 g0 s0139
+JP: バツ……。{p}
+EN: Batsu...{p}
+
+## MGM06 g0 s0140
+JP: （う……、なんだか学園長が、{n}{sp}淋しそうだ……。{n}{sp}やばいコトいっちゃったかな……?）{p}
+EN: (Ugh... the principal looks kind of lonely... Did I say something bad...?){p}
+
+## MGM06 g0 s0141
+JP: ええと、学園長の体調も{n}よくなったみたいなんで、{n}俺は、そろそろ帰ります。{p}
+EN: Um, the principal seems to be feeling better, so I'll be heading home now.{p}
+
+## MGM06 g0 s0142
+JP: お、おい!{sp}{v3:0}……。{n}親父、俺も先に帰るわ。{n}もう体調大丈夫だろ?{p}{end}
+EN: H-hey! {v3:0}... Old man, I'm goin' home too. You're okay now, right?{p}{end}
+
+## MGM06 g0 s0143
+JP: う、うむ。{n}わしなら大丈夫じゃ。{n}友達と一緒に帰りなさい。{n}気をつけてな。{p}
+EN: Y-yes. I'll be fine. Go home with your friend. Take care.{p}
+
+## MGM06 g0 s0144
+JP: よし、帰ろうぜ、{n}{v3:0}。{p}{end}
+EN: All right, let's go, {v3:0}.{p}{end}
+
+## MGM06 g0 s0145
+JP: （こうして、俺はバツと一緒に帰った。{n}{sp}バツは何もいわなかったが、{n}{sp}学園長に似てるといわれるのは、{n}{sp}やっぱりイヤみたいだ……）{p}
+EN: (And so I went home with Batsu. He didn't say anything, but he really does hate being told he's like the principal...){p}
+
+## MGM06 g0 s0146
+JP: 「ねぇ、恭介君!{n}{sp}少しぐらいインタビュー答えてよ!」{p}
+EN: "Come on, Kyosuke-kun! At least answer a few questions!"{p}
+
+## MGM06 g0 s0147
+JP: あれ……ランと恭介だよな。{p}
+EN: Huh... that's Ran and Kyosuke, right?{p}
+
+## MGM06 g0 s0148
+JP: 声をかける{n}興味ない{p}{end}
+EN: Talk to them{n}Not interested{p}{end}
+
+## MGM06 g0 s0149
+JP: ま、いいか。{n}あの二人に関わると色々{n}ややこしくなりそうだからな……。{p}
+EN: Oh well. Getting involved with those two would just make things complicated...{p}
+
+## MGM06 g0 s0150
+JP: おーい!{n}何やってるんだよ、二人とも。{p}
+EN: Hey! What are you two up to?{p}
+
+## MGM06 g0 s0151
+JP: あっ、{v4:19}!{n}アンタからも言ってやってよ。{n}恭介君ったら、ぜんっぜんインタビューに{n}付き合ってくれないんだから!{p}{end}
+EN: Oh, {v4:19}! Back me up here. Kyosuke-kun won't do my interview at a~ll!{p}{end}
+
+## MGM06 g0 s0152
+JP: へぇ、今回は恭介がターゲットなのか。{n}で、テーマは何なんだ?{p}{end}
+EN: Huh, so Kyosuke's the target this time. What's the story about?{p}{end}
+
+## MGM06 g0 s0153
+JP: フフフ……、{n}よくぞ聞いてくれたわね!{n}ジャジャ～ン!!{p}{end}
+EN: Heh heh heh... So glad you asked! Ta-daaa!!{p}{end}
+
+## MGM06 g0 s0154
+JP: 『太陽学園七不思議の一つ!{n}{sp}運動神経抜群の風紀委員鑑恭介、{n}{sp}今語るクラブ無所属の真意!!』{p}
+EN: "One of Taiyo High's Seven Mysteries! Star athlete and discipline committee member Kyosuke Kagami reveals why he's in no club!!"{p}
+
+## MGM06 g0 s0155
+JP: へ、へぇ……。{n}相変わらず、すごそうだね……。{p}
+EN: Uh, wow... Sounds intense as always...{p}
+
+## MGM06 g0 s0156
+JP: でしょでしょ～?{n}太P戦で見せたあの雄姿……。{n}ちゃあんと撮ってあるんだからね。{p}{end}
+EN: Right, right~? And his heroic showing at the Taiyo-Pacific Match... I got it all on film, you know.{p}{end}
+
+## MGM06 g0 s0157
+JP: ……ねぇ恭介君?{n}ホンット～～の所、どうしてなの?{p}
+EN: ...So, Kyosuke-kun? What's the re~al reason?{p}
+
+## MGM06 g0 s0159
+JP: せっかくだから、運動部に入ってみたら?{n}なにか入れない理由でもあるのか?{n}そんな事、恭介の勝手だろ{p}
+EN: Why not join a sports club?{n}Is something stopping you?{n}That's Kyosuke's business{p}
+
+## MGM06 g0 s0160
+JP: せっかくだから、{n}運動部に入ってみたらどう?{n}それだけの運動神経があるんだから、{n}何もしないのはもったいないよ。{p}{end}
+EN: Why not give a sports club a try? You're so athletic, it's a waste not to do anything with it.{p}{end}
+
+## MGM06 g0 s0161
+JP: そうそう!{sp}ワタシや{n}{v4:19}だけじゃないわよ。{n}今やみ～んながそう思ってるんだから。{p}
+EN: Exactly! It's not just me and {v4:19}. Eve~ryone thinks so now.{p}
+
+## MGM06 g0 s0162
+JP: 本当に……そうだろうか?{p}{end}
+EN: Is that... really so?{p}{end}
+
+## MGM06 g0 s0163
+JP: ああ、もちろんじゃ!!!{p}{end}
+EN: Yes, of course!!!{p}{end}
+
+## MGM06 g0 s0164
+JP: キャアッ!!{p}{end}
+EN: Eek!!{p}{end}
+
+## MGM06 g0 s0165
+JP: さ、佐渡先生。{n}いきなり大声出さないでくださいよ。{n}驚くじゃないですか。{p}{end}
+EN: S-Sado-sensei. Please don't shout out of nowhere. You startled me.{p}{end}
+
+## MGM06 g0 s0166
+JP: わっはっは、スマンスマン。{p}
+EN: Wahaha, sorry, sorry.{p}
+
+## MGM06 g0 s0167
+JP: しかし聞いたぞきいたぞ、鑑!{n}お前ならどんな運動部に入っても{n}必ず活躍できる!{n}このわしが保証してやる!!{p}
+EN: But I heard, I heard it all, Kagami! You'd shine in any sports club! I guarantee it!!{p}
+
+## MGM06 g0 s0168
+JP: ほらほら、佐渡先生も{n}ああ言ってるじゃない!{n}男ならやるしかないでしょ!!{p}
+EN: See, see, even Sado-sensei says so! If you're a man, you've gotta do it!!{p}
+
+## MGM06 g0 s0169
+JP: そう!{n}男ならばやらねばならぬ!!{n}男にしかできないものを!!!{p}{end}
+EN: Yes! A man must do it!! The thing only a man can do!!!{p}{end}
+
+## MGM06 g0 s0170
+JP: ……男にしかできないもの?{n}それって、もしかして……。{p}
+EN: ...The thing only a man can do? Don't tell me...{p}
+
+## MGM06 g0 s0171
+JP: そうだ!{n}男の身体と魂がぶつかり合う{n}最強の格闘技、相撲だ!!!{p}{end}
+EN: That's right! The mightiest combat sport, where men's bodies and souls collide... sumo!!!{p}{end}
+
+## MGM06 g0 s0172
+JP: えええっ!?{n}恭介君が……相撲……!?{p}
+EN: Whaaat!? Kyosuke-kun... doing sumo...!?{p}
+
+## MGM06 g0 s0173
+JP: 太P戦でもお前の活躍、{n}今もこのまぶたに焼きついておる!!{n}お前なら、{n}いずれ大関横綱間違いなしじゃ!!{p}{end}
+EN: Your feats at the Taiyo-Pacific Match are still burned into my eyes!! You'd make ozeki, even yokozuna, no doubt about it!!{p}{end}
+
+## MGM06 g0 s0174
+JP: ……もっとも、{n}今のお前のままではいかんがな。{p}
+EN: ...Not as you are now, mind you.{p}
+
+## MGM06 g0 s0175
+JP: 僕に、足りないものがある、と?{p}
+EN: You mean I'm lacking something?{p}
+
+## MGM06 g0 s0176
+JP: そう!!{n}最低でも、{n}あと30キロは太らねばならん!!{p}
+EN: Yes!! You need to put on 30 kilos at the very least!!{p}
+
+## MGM06 g0 s0177
+JP: （100キロ近い恭介……{n}{sp}………………全然想像できない）{p}
+EN: (Kyosuke at nearly 100 kilos... ..........I can't picture it at all.){p}
+
+## MGM06 g0 s0178
+JP: だが、心配せんでもいい!!{n}このわしがついておるからにはな、{n}毎日万全の食事と訓練によって、{n}超一流の力士に育ててやる!!{p}
+EN: But don't you worry!! With me in your corner, perfect meals and training every day will make you a top-class wrestler!!{p}
+
+## MGM06 g0 s0179
+JP: ……確かにスゴいスクープだけど……{n}それだけは止めた方がいいと思うな……。{p}
+EN: ...It'd be a huge scoop, sure... but I really think you shouldn't...{p}
+
+## MGM06 g0 s0180
+JP: ……佐渡先生。{n}あいにくですが、{n}僕は相撲を始めるつもりはありません。{n}では、失礼します。{p}
+EN: ...Sado-sensei. I'm sorry, but I have no intention of taking up sumo. If you'll excuse me.{p}
+
+## MGM06 g0 s0181
+JP: むぅ?{n}……そうか、残念じゃな。{n}金の卵を逃したわい……。{n}……{v1}よ、お前は……{p}{end}
+EN: Hm? ...I see, a pity. The golden egg got away... ...{v1}, what about you...{p}{end}
+
+## MGM06 g0 s0182
+JP: 佐渡先生、それじゃこれで。{n}ラン、またな!{p}
+EN: Well, Sado-sensei, I'll be going. See ya, Ran!{p}
+
+## MGM06 g0 s0183
+JP: むむぅ!{n}どいつもこいつも、{n}話を最後まで聞けというに!{n}……………………ジロッ。{p}
+EN: Hmph! Every last one of you! Hear a man out to the end! ..........*glare*{p}
+
+## MGM06 g0 s0184
+JP: さ～てと、急いで現像しなきゃ。{n}先生、じゃあね!{p}{end}
+EN: Okay~, gotta hurry and develop these. Bye, sensei!{p}{end}
+
+## MGM06 g0 s0185
+JP: はぁ…………寂しい……。{p}{end}
+EN: Sigh.......... So lonely...{p}{end}
+
+## MGM06 g0 s0186
+JP: なぁ、恭介……もしかして、{n}何か運動部に入れない理由でも{n}あるんじゃないのか?{p}
+EN: Hey, Kyosuke... Is there some reason you can't join a sports club?{p}
+
+## MGM06 g0 s0187
+JP: いや、僕は……{p}
+EN: No, I'm...{p}
+
+## MGM06 g0 s0188
+JP: それよ!!{n}恭介君の事だから、{n}きっと過去にツラ～イ出来事が{n}あったに違いないわ!!{p}{end}
+EN: That's it!! Knowing Kyosuke-kun, he must have something pai~nful in his past!!{p}{end}
+
+## MGM06 g0 s0189
+JP: ……人の話を聞けよ。{p}{end}
+EN: ...Listen to me.{p}{end}
+
+## MGM06 g0 s0190
+JP: あるいは、怪我を隠して{n}チームの勝利を導いたヒーロー!!{n}そして彼は傷ついたまま、{n}いずこへと去っていくのね!!{p}{end}
+EN: Or he's a hero who hid an injury to lead his team to victory!! And then, still wounded, he vanished without a trace!!{p}{end}
+
+## MGM06 g0 s0191
+JP: （……もう、彼女は誰にも止められない。{n}{sp}大体、チームって何だよ……?）{p}{end}
+EN: (...Nobody can stop her now. And what team, anyway...?){p}{end}
+
+## MGM06 g0 s0192
+JP: ……バカバカしい。{n}じゃあな、二人とも。{p}{end}
+EN: ...Ridiculous. See you, you two.{p}{end}
+
+## MGM06 g0 s0193
+JP: あっ、恭介君!{n}……まぁいいわ。{n}もう一度彼の過去を{n}探ってみる必要があるわね。{p}{end}
+EN: Ah, Kyosuke-kun! ...Oh well. Looks like I need to dig into his past some more.{p}{end}
+
+## MGM06 g0 s0194
+JP: （……災難だな、恭介も。）{p}
+EN: (...Poor Kyosuke.){p}
+
+## MGM06 g0 s0195
+JP: でも{v4:19}、{n}アンタもやるじゃん!{n}いい目のつけどころしてるよ!{n}……実は、記者に向いてるかもね!!{p}
+EN: But {v4:19}, you're not bad yourself! You've got a good eye! ...You might actually make a good reporter!!{p}
+
+## MGM06 g0 s0196
+JP: そ、そうかな……。{n}でも、ランにはかなわないけどな。{p}{end}
+EN: R-really... I'm nowhere near you, though, Ran.{p}{end}
+
+## MGM06 g0 s0197
+JP: あったりまえじゃな～い!!{n}年季が違うわよ。{n}ま、もしその気ならいずれ{n}私のアシとして使ってあげてもいいわよ。{p}
+EN: Obvio~usly!! I've got way more experience. Well, if you're interested, someday I might let you be my legman.{p}
+
+## MGM06 g0 s0198
+JP: あ、ありがと……{p}{end}
+EN: Th-thanks...{p}{end}
+
+## MGM06 g0 s0199
+JP: そんなの、個人の勝手じゃないか。{n}恭介にも恭介なりの{n}都合ってものがあるんだろうし。{p}{end}
+EN: That's his own business. Kyosuke must have his own reasons.{p}{end}
+
+## MGM06 g0 s0200
+JP: {v4:2}……。{p}
+EN: {v4:2}...{p}
+
+## MGM06 g0 s0201
+JP: なによ……{v4:19}、{n}アンタもアタシの取材のジャマする気?{n}もしそうなら、ただじゃおかないわよ!{p}{end}
+EN: What... {v4:19}, are you gonna get in the way of my story too? If you are, you'll be sorry!{p}{end}
+
+## MGM06 g0 s0202
+JP: 邪魔する気なんてないよ。{n}ただ、ランがあまりにも無遠慮すぎるから。{n}誰だって、聞かれたくない事の一つや二つ、{n}あるじゃないか。{p}
+EN: I'm not trying to get in the way. You're just way too pushy, Ran. Everyone has a thing or two they don't want to be asked about.{p}
+
+## MGM06 g0 s0203
+JP: ん～～もういいわよ!{n}今日のところは勘弁してあげる。{n}でも、このネタは逃さないわよ!{p}{end}
+EN: Mmm, fine! I'll let it go for today. But I'm not letting this story get away!{p}{end}
+
+## MGM06 g0 s0204
+JP: （ランは足音を立てて去っていった。{n}{sp}ま、今回だけは我慢してもらおう。）{p}{end}
+EN: (Ran stomped off. Well, she'll just have to put up with it this once.){p}{end}
+
+## MGM06 g0 s0205
+JP: ……{v4:2}。{n}すまなかったね、{v4:2}。{n}妙な事に巻き込んでしまった。{p}{end}
+EN: ...{v4:2}. I'm sorry, {v4:2}. I dragged you into something strange.{p}{end}
+
+## MGM06 g0 s0206
+JP: いや、いいんだよ。{n}それに、友達が困ってるのを、{n}黙って見過ごすような俺じゃないぜ。{p}{end}
+EN: Nah, it's fine. Besides, I'm not the kind of guy who just stands by when a friend's in trouble.{p}{end}
+
+## MGM06 g0 s0207
+JP: {v4:2}……ありがとう。{p}{end}
+EN: {v4:2}... Thank you.{p}{end}
+
+## MGM06 g1 s0000
+JP: あれっ?{n}もう誰もいないと思っていた教室に{n}誰かいるわ?{p}{end}
+EN: Huh? I thought the classroom would be empty by now, but somebody's here.{p}{end}
+
+## MGM06 g1 s0001
+JP: あらぁ、{v1}{col:0}さん{col:-}じゃない!{p}{end}
+EN: Oh my, if it isn't {v1}{col:0}-san{col:-}!{p}{end}
+
+## MGM06 g1 s0007
+JP: 実は私もケーキ好きなんだ!{n}一緒に行きましょ!{p}
+EN: Actually, I love cake too! Let's go together!{p}
+
+## MGM06 g1 s0010
+JP: （ひゃ～っ!{n}{sp}ふたりともほんとによく食べるなあ……{n}{sp}昼間の弁当は少なくて遅いのに……）{p}
+EN: (Whoa! These two can really eat... And at lunch they eat tiny bentos so slowly...){p}
+
+## MGM06 g1 s0014
+JP: いいわよ!{n}明日はやめとくわ{p}{end}
+EN: Sure!{n}I'll pass tomorrow{p}{end}
+
+## MGM06 g1 s0015
+JP: いいわよ、明日も行きましょ!{p}{end}
+EN: Sure, let's go tomorrow too!{p}{end}
+
+## MGM06 g1 s0016
+JP: さっすが!{n}{v8:1}は話が分かるから{n}だ～い好き!{n}じゃあ明日も教室に集合ね!{p}
+EN: That's what I like to hear! I lo~ve how you get it, {v8:1}! So we'll meet in the classroom tomorrow too!{p}
+
+## MGM06 g1 s0018
+JP: あ、明日も!?{n}ちょ、ちょっと遠慮しとくわ。{p}{end}
+EN: T-tomorrow too!? Uh, I think I'll pass.{p}{end}
+
+## MGM06 g1 s0020
+JP: それでもやっぱり明日行くんだ……。{n}（やっぱりひなたのケーキ好きは{n}{sp}異常だわ……）{p}{end}
+EN: So she's still going tomorrow anyway... (Hinata's cake obsession really isn't normal...){p}{end}
+
+## MGM06 g1 s0021
+JP: ご、ごめん。{n}ちょっと今日はお腹の調子が悪いの。{n}また今度ね!{p}
+EN: S-sorry. My stomach's a little off today. Next time, okay?{p}
+
+## MGM06 g1 s0025
+JP: でも今日は{n}そんな気分じゃなかったからいいわ!{n}さてと、どこに行こうかな?{p}
+EN: But I wasn't in the mood today anyway, so whatever! Now, where should I go?{p}
+
+## MGM06 g1 s0026
+JP: 何やら、放課後のグラウンドで{n}ロイとボーマンとティファニーが{n}3人で何か話してるわね?{p}
+EN: Roy, Boman and Tiffany are on the field after school, talking about something.{p}
+
+## MGM06 g1 s0028
+JP: さっきから3人集まって{n}何話してるの?{p}
+EN: What have you three been talking about?{p}
+
+## MGM06 g1 s0032
+JP: へぇ～、試験対策を?{p}{end}
+EN: Huh, planning for exams?{p}{end}
+
+## MGM06 g1 s0036
+JP: じゃあ一緒にやろうかな{n}そんな事につき合ってられない{p}{end}
+EN: Sure, let's do it together{n}I can't be bothered with that{p}{end}
+
+## MGM06 g1 s0037
+JP: そうね、{n}私も試験に自信があるわけじゃないし。{n}よかったら仲間に入れてよ。{p}
+EN: Yeah, I'm not that confident about the exams either. Mind if I join you?{p}
+
+## MGM06 g1 s0043
+JP: グッバーイ……って。{n}まだほとんど何もしてないじゃない。{n}ティファニーは楽観的というか、{n}単純というか……。{p}{end}
+EN: "Goodbye"...? We've barely done anything. Tiffany's either an optimist or just simple...{p}{end}
+
+## MGM06 g1 s0044
+JP: 悪いけど、私はパスさせてもらうわ。{n}試験対策なんて、そんなくだらない事{n}する必要はないもの。{p}{end}
+EN: Sorry, but I'll pass. There's no need to do something as pointless as studying for exams.{p}{end}
+
+## MGM06 g1 s0048
+JP: わ、私は冷静に判断して……{n}ゴ、ゴメンナサーイ!{p}{end}
+EN: I-I was just being objective... S-sorry!!{p}{end}
+
+## MGM06 g1 s0051
+JP: ふぁ～～あ……。{n}退屈な授業ばかりで、{n}気が滅入っちゃうよ～。{n}たまには気分転換でもしなくっちゃね。{p}{end}
+EN: Yaaawn... Nothing but boring classes gets me so down~. I've gotta take a break now and then.{p}{end}
+
+## MGM06 g1 s0052
+JP: あれ?{n}あそこにいるのは岩みたいね。{n}一体なにやってるのかしら?{p}{end}
+EN: Huh? Is that Gan over there? What on earth is he doing?{p}{end}
+
+## MGM06 g1 s0054
+JP: ま、いいか。{n}そっとしておいてあげましょ。{p}
+EN: Oh well. I'll leave him be.{p}
+
+## MGM06 g1 s0055
+JP: 岩、なにやってるの?{p}{end}
+EN: Gan, what are you doing?{p}{end}
+
+## MGM06 g1 s0056
+JP: おう、{v3:11}{col:0}さん{col:-}!{n}おぬしもここへはよく来るのかのぅ?{p}{end}
+EN: Hey, {v3:11}{col:0}-san{col:-}! You come up here a lot too?{p}{end}
+
+## MGM06 g1 s0057
+JP: うん、いい気晴らしになるしね。{n}……って、岩。{n}そのおにぎりの山は、なあに?{p}{end}
+EN: Yeah, it's a nice break. ...Wait, Gan. What's that mountain of rice balls?{p}{end}
+
+## MGM06 g1 s0059
+JP: （ワシ用って……{n}{sp}どうみたって百個近くあるけど……）{p}
+EN: ("Just for me"... There's gotta be close to a hundred of them...){p}
+
+## MGM06 g1 s0060
+JP: 一個ちょうだい{n}いつもこんなに食べてるの?{n}これは私があずかるわ{p}{end}
+EN: Give me one{n}You always eat this much?{n}I'll hold onto these{p}{end}
+
+## MGM06 g1 s0061
+JP: おいしそーねぇ……。{n}そんなの見てたらお腹へってきちゃった。{n}岩、一個くれない?{p}{end}
+EN: Those look yummy... Looking at them is making me hungry. Gan, can I have one?{p}{end}
+
+## MGM06 g1 s0063
+JP: うん。岩ったら、いっつも{n}おいしそうに食べてるんだもん。{n}一度食べてみたかったのよ。{p}{end}
+EN: Yeah. You always look like you're enjoying them so much, Gan. I've always wanted to try one.{p}{end}
+
+## MGM06 g1 s0066
+JP: （もぐもぐもぐ……{n}{sp}ん?{sp}こ、これは!!）{p}{end}
+EN: (Munch munch munch... Hm? Th-this is!!){p}{end}
+
+## MGM06 g1 s0068
+JP: うまいも何も、このおにぎり最高よ!{n}なんていうか……。{n}口では表現しきれないわ。{p}{end}
+EN: Good? This rice ball is the best! It's... I can't even put it into words.{p}{end}
+
+## MGM06 g1 s0070
+JP: 本当?{n}岩、アリガト。{p}
+EN: Really? Thanks, Gan.{p}
+
+## MGM06 g1 s0072
+JP: （岩も喜んでいるみたい。{n}{sp}でも、おいしいおにぎりだったなぁ。）{p}{end}
+EN: (Gan looks happy. That really was a yummy rice ball.){p}{end}
+
+## MGM06 g1 s0073
+JP: それにしても、岩。{n}この量はちょっと食べ過ぎなんじゃないの?{p}{end}
+EN: Still, Gan. Isn't this way too much to eat?{p}{end}
+
+## MGM06 g1 s0075
+JP: （うわぁ……本当かなあ。{n}{sp}人間の限界をこえてるんじゃない?）{p}
+EN: (Wow... Is that true? That's gotta be past human limits.){p}
+
+## MGM06 g1 s0078
+JP: （岩は階段を降りていった。{n}{sp}しかし、いくら美味そうなおにぎりでも、{n}{sp}あの量は……私なんて、{n}{sp}見ただけで胸焼けしちゃったわ。）{p}
+EN: (Gan went down the stairs. They looked good, but that many... I got heartburn just looking at them.){p}
+
+## MGM06 g1 s0079
+JP: 岩、いくらなんでも食べ過ぎよ。{n}だから、このおにぎりは{n}私があずかっといてあげる。{p}
+EN: Gan, that's way too much, seriously. So I'll hold onto these rice balls for you.{p}
+
+## MGM06 g1 s0081
+JP: うん。{n}これも、岩の身体を心配して……{p}
+EN: Yeah. I'm just worried about your health, Gan...{p}
+
+## MGM06 g1 s0082
+JP: {v3:11}{col:0}さん{col:-}!!{n}いくらおぬしでも許さんぞ!!{n}おにぎりを返さんかい!!{p}{end}
+EN: {v3:11}{col:0}-san{col:-}!! Even you ain't gettin' away with this!! Gimme back my rice balls!!{p}{end}
+
+## MGM06 g1 s0085
+JP: （や、やば～!{n}{sp}岩ったら、完全にキレてる!?）{p}{end}
+EN: (Uh-oh~! Gan's totally lost it!?){p}{end}
+
+## MGM06 g1 s0090
+JP: 岩……気持ちはわからないでもないけど、{n}少しやり過ぎよ……。{n}それと{v8:10}、{n}もう勘弁してあげて?{p}{end}
+EN: Gan... I understand how you feel, but you went a little too far... And {v8:10}, won't you let him off now?{p}{end}
+
+## MGM06 g1 s0091
+JP: う、うん…{n}岩、私が悪かったわ。{n}はい、おにぎり。{p}
+EN: Y-yeah... Gan, I'm sorry. Here, your rice balls.{p}
+
+## MGM06 g1 s0092
+JP: う、うむ。{n}ワシもちとやり過ぎたわい。{n}すまんかったのう、{v3:11}{col:0}さん{col:-}。{p}{end}
+EN: Uh, yeah. I went a mite too far myself. Sorry 'bout that, {v3:11}{col:0}-san{col:-}.{p}{end}
+
+## MGM06 g1 s0094
+JP: ふふふ。{n}……{v8:10}、驚いたでしょう?{p}{end}
+EN: Hee hee. ...{v8:10}, that scared you, didn't it?{p}{end}
+
+## MGM06 g1 s0095
+JP: うん……{n}怒った岩は、手がつけられないわね。{n}アキラがいてくれてよかった。{p}
+EN: Yeah... There's no handling Gan when he's mad. I'm glad you were here, Akira.{p}
+
+## MGM06 g1 s0097
+JP: わかったわ。{n}サンキュ、アキラ。{p}{end}
+EN: Got it. Thanks, Akira.{p}{end}
+
+## MGM06 g1 s0098
+JP: （これからは気をつけなくちゃ……）{p}
+EN: (I'd better be careful from now on...){p}
+
+## MGM06 g1 s0099
+JP: 保健室に来てみると、{n}ベッドの側にバツがいた。{n}どうやら誰かの看病してるみたい。{p}{end}
+EN: In the infirmary, Batsu was by one of the beds. Looks like he's looking after someone.{p}{end}
+
+## MGM06 g1 s0101
+JP: ううん、そういうわけじゃ{n}ないんだけど……。{n}そこに誰か寝てるの?{p}
+EN: No, it's not that... Is somebody sleeping there?{p}
+
+## MGM06 g1 s0103
+JP: お父さん?{n}……ああ、雷蔵学園長のことね。{n}どうしたの?{n}学園長、体調でも悪いの?{p}
+EN: Your dad? ...Oh, Principal Raizo. What happened? Is the principal sick?{p}
+
+## MGM06 g1 s0104
+JP: いや、ちょっとした頭痛だよ。{n}……よくあるんだ、{n}突然ヒドイ頭痛におそわれて……{n}しばらく寝れば治るらしいんだけどよ。{p}
+EN: Nah, just a headache. ...He gets 'em a lot. Out of nowhere, a nasty headache hits him... Supposedly it goes away if he sleeps a while.{p}
+
+## MGM06 g1 s0105
+JP: しばらくつきあう{n}ジャマしちゃ悪いので立ち去る{p}
+EN: Keep them company for a while{n}Leave so I don't intrude{p}
+
+## MGM06 g1 s0106
+JP: 親子水入らずをジャマしちゃ悪いし、{n}私そろそろ行くわね。{n}親孝行、しっかり頑張りなさいよ。{p}
+EN: I shouldn't intrude on family time, so I'll get going. Be good to your dad, okay?{p}
+
+## MGM06 g1 s0109
+JP: それで、付きそってあげてるのね。{n}それじゃ、私も少しつきあうわ。{n}一人じゃ退屈でしょ?{p}
+EN: So you're staying by his side. Then I'll keep you company for a bit. It's boring alone, right?{p}
+
+## MGM06 g1 s0111
+JP: そりゃそうよ。{n}バツにとっては、お父さんなんだから。{p}{end}
+EN: Of course. He's your dad, after all.{p}{end}
+
+## MGM06 g1 s0117
+JP: わしにも理由はわからんのだが、{n}時々強い頭痛に襲われるのだよ。{n}そうなるともう、{n}業務に差し支えるのでな……{p}{end}
+EN: I myself don't know the reason, but now and then I'm struck by a severe headache. When that happens, it interferes with my duties...{p}{end}
+
+## MGM06 g1 s0120
+JP: ウフフ。{n}学園長、やっぱりそういうトコロは、{n}バツと似てますね。{p}{end}
+EN: Hee hee. Principal, you really are like Batsu that way.{p}{end}
+
+## MGM06 g1 s0126
+JP: え?{n}似てると思うけど。{p}{end}
+EN: Huh? I think you do, though.{p}{end}
+
+## MGM06 g1 s0129
+JP: ん?{sp}どうしたの、バツ。{p}{end}
+EN: Hm? What's wrong, Batsu?{p}{end}
+
+## MGM06 g1 s0132
+JP: ……飛び出していっちゃった……。{n}そんなにショックだったのかしら?{n}学園長に似てるのが……、{n}ん?{sp}学園長?{p}{end}
+EN: ...He ran out... Was it that much of a shock? Looking like the principal... Hm? The principal?{p}{end}
+
+## MGM06 g1 s0136
+JP: やっぱり似てないですね。{n}私の気のせいでした。{p}
+EN: Actually, you're not alike. Must've been my imagination.{p}
+
+## MGM06 g1 s0140
+JP: （う……、なんだか学園長が、{n}{sp}淋しそう……。{n}{sp}変なコトいっちゃったかな……?）{p}
+EN: (Ugh... the principal looks kind of lonely... Did I say something weird...?){p}
+
+## MGM06 g1 s0141
+JP: 学園長の体調もだいぶ良くなった{n}みたいですね。{n}それじゃ私、そろそろ帰ります。{p}
+EN: The principal seems to be feeling much better. I'll be heading home now.{p}
+
+## MGM06 g1 s0145
+JP: （こうして、私はバツと一緒に帰った。{n}{sp}バツは何もいわなかったけど、{n}{sp}学園長に似てるといわれるのは、{n}{sp}やっぱりイヤみたい……）{p}
+EN: (And so I went home with Batsu. He didn't say anything, but he really does hate being told he's like the principal...){p}
+
+## MGM06 g1 s0147
+JP: あれ……ランちゃんと恭介だよね。{p}{end}
+EN: Huh... that's Ran-chan and Kyosuke, right?{p}{end}
+
+## MGM06 g1 s0149
+JP: ま、いいかな。{n}あの二人に関わると色々{n}ややこしくなりそうだし…{p}{end}
+EN: Oh well. Getting involved with those two would just make things complicated...{p}{end}
+
+## MGM06 g1 s0150
+JP: ねえ、二人とも何やってるの?{p}{end}
+EN: Hey, what are you two up to?{p}{end}
+
+## MGM06 g1 s0151
+JP: あっ、{v8:19}!{n}アンタからも言ってやってよ。{n}恭介君ったら、ぜんっぜんインタビューに{n}付き合ってくれないんだから!{p}{end}
+EN: Oh, {v8:19}! Back me up here. Kyosuke-kun won't do my interview at a~ll!{p}{end}
+
+## MGM06 g1 s0152
+JP: へぇ、今回は恭介がターゲットなのね。{n}で、テーマは何?{p}
+EN: Huh, so Kyosuke's the target this time. What's the story about?{p}
+
+## MGM06 g1 s0155
+JP: へ、へぇ……。{n}相変わらず、すごそうね……。{p}{end}
+EN: Uh, wow... Sounds intense as always...{p}{end}
+
+## MGM06 g1 s0159
+JP: せっかくだから、運動部に入ってみたら?{n}なにか入れない理由でもあるの?{n}そんな事、恭介の勝手でしょ{p}
+EN: Why not join a sports club?{n}Is something stopping you?{n}That's Kyosuke's business{p}
+
+## MGM06 g1 s0160
+JP: せっかくだから、{n}運動部に入ってみたらどう?{n}それだけの運動神経があるんだから、{n}何もしないのはもったいないわよ。{p}
+EN: Why not give a sports club a try? You're so athletic, it's a waste not to do anything with it.{p}
+
+## MGM06 g1 s0161
+JP: そうそう!{sp}ワタシや{n}{v8:19}だけじゃないわよ。{n}今やみ～んながそう思ってるんだから。{p}
+EN: Exactly! It's not just me and {v8:19}. Eve~ryone thinks so now.{p}
+
+## MGM06 g1 s0165
+JP: さ、佐渡先生。{n}いきなり大声出さないでくださいよ。{n}ビックリするじゃないですか。{p}{end}
+EN: S-Sado-sensei. Please don't shout out of nowhere. You startled me.{p}{end}
+
+## MGM06 g1 s0170
+JP: ……男にしかできないもの?{n}それって、もしかして……{p}{end}
+EN: ...The thing only a man can do? Don't tell me...{p}{end}
+
+## MGM06 g1 s0177
+JP: （100キロ近い恭介って……{n}{sp}………………全然想像できない）{p}
+EN: (Kyosuke at nearly 100 kilos... ..........I can't picture it at all.){p}
+
+## MGM06 g1 s0178
+JP: だが、心配せんでもええ!!{n}このわしがついておるからにはな、{n}毎日万全の食事と訓練によって、{n}超一流の力士に育ててやるわ!!{p}{end}
+EN: But don't you worry!! With me in your corner, perfect meals and training every day will make you a top-class wrestler!!{p}{end}
+
+## MGM06 g1 s0181
+JP: むぅ?{n}……そうか、残念じゃな。{n}金の卵を逃したわい……。{n}……{v0}よ、お前は……{p}{end}
+EN: Hm? ...I see, a pity. The golden egg got away... ...{v0}, what about you...{p}{end}
+
+## MGM06 g1 s0182
+JP: 佐渡先生、それじゃこれで。{n}ランちゃん、またね!{p}{end}
+EN: Well, Sado-sensei, I'll be going. See you, Ran-chan!{p}{end}
+
+## MGM06 g1 s0186
+JP: ねぇ、恭介……もしかして、{n}何か運動部に入れない理由でも{n}あるんじゃない?{p}
+EN: Hey, Kyosuke... Is there some reason you can't join a sports club?{p}
+
+## MGM06 g1 s0191
+JP: （……もう、彼女は誰にも止められない。{n}{sp}大体、チームって何なんだろ……?）{p}{end}
+EN: (...Nobody can stop her now. And what team, anyway...?){p}{end}
+
+## MGM06 g1 s0194
+JP: （……災難ね、恭介も。）{p}{end}
+EN: (...Poor Kyosuke.){p}{end}
+
+## MGM06 g1 s0195
+JP: でも{v8:19}、{n}アンタもやるじゃん!{n}いい目のつけどころしてるよ!{n}……実は、記者に向いてるかもね!!{p}
+EN: But {v8:19}, you're not bad yourself! You've got a good eye! ...You might actually make a good reporter!!{p}
+
+## MGM06 g1 s0196
+JP: そ、そうかな……。{n}でも、ランちゃんにはかなわないけどね。{p}
+EN: R-really... I'm nowhere near you, though, Ran-chan.{p}
+
+## MGM06 g1 s0198
+JP: あ、ありがと……。{p}
+EN: Th-thanks...{p}
+
+## MGM06 g1 s0199
+JP: そんなの、個人の勝手じゃない。{n}恭介にも恭介なりの{n}都合ってものがあるんだろうし。{p}
+EN: That's his own business. Kyosuke must have his own reasons.{p}
+
+## MGM06 g1 s0200
+JP: {v7:2}……。{p}
+EN: {v7:2}...{p}
+
+## MGM06 g1 s0201
+JP: なによ……{v8:19}、{n}アンタもアタシの取材のジャマする気?{n}もしそうなら、ただじゃおかないわよ!{p}{end}
+EN: What... {v8:19}, are you gonna get in the way of my story too? If you are, you'll be sorry!{p}{end}
+
+## MGM06 g1 s0202
+JP: 邪魔する気なんてないわ。ただ、{n}ランちゃんがあまりにも無遠慮すぎるから。{n}誰だって、聞かれたくない事の一つや二つ、{n}あるじゃない。{p}
+EN: I'm not trying to get in the way. You're just way too pushy, Ran-chan. Everyone has a thing or two they don't want to be asked about.{p}
+
+## MGM06 g1 s0204
+JP: （ランちゃんは足音を立てて去っていった。{n}{sp}ま、今回だけは我慢してもらいましょ。）{p}
+EN: (Ran-chan stomped off. Well, she'll just have to put up with it this once.){p}
+
+## MGM06 g1 s0205
+JP: ……{v7:2}、すまなかったね。{n}妙な事に巻き込んでしまった。{p}{end}
+EN: ...{v7:2}, I'm sorry. I dragged you into something strange.{p}{end}
+
+## MGM06 g1 s0206
+JP: ううん、いいの。{n}それに、友達が困ってるのを、{n}黙って見過ごすような私じゃないわ。{p}
+EN: It's okay. Besides, I'm not the kind of girl who just stands by when a friend's in trouble.{p}
+
+## MGM06 g1 s0207
+JP: {v7:2}……ありがとう。{p}{end}
+EN: {v7:2}... Thank you.{p}{end}
+

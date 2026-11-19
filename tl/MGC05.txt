@@ -1,0 +1,664 @@
+## MGC05 g0 s0000
+JP: さてと、野球部の練習に行こう。{p}
+EN: Okay, time to head to baseball club practice.{p}
+
+## MGC05 g0 s0001
+JP: 来たな、{v1}{col:0}君{col:-}。{n}今回が初めての特別練習日だな。{n}準備はいいか?{p}
+EN: There you are, {v1}{col:0}-kun{col:-}. This is your first special practice day, huh. Ready?{p}
+
+## MGC05 g0 s0002
+JP: 前にもいったが、各クラブでは{n}毎月初めに、特別練習をおこなう。{p}
+EN: Like I said before, every club holds special practice at the start of each month.{p}
+
+## MGC05 g0 s0003
+JP: 練習によって、パラメータを{n}大きく成長させることができるから、{n}気を抜くなよ。{p}
+EN: Practice can really boost your stats, so don't slack off.{p}
+
+## MGC05 g0 s0004
+JP: よし、その前に、{n}入部してから今日までの、{n}クラブの成果を見てみよう。{p}
+EN: Okay, but first, let's look at your club results from when you joined until today.{p}
+
+## MGC05 g0 s0005
+JP: ふうん、いい調子でパラメータが{n}上がってきているようだな。{n}この調子でがんばれよ。{p}
+EN: Hmm, looks like your stats are coming along nicely. Keep it up.{p}
+
+## MGC05 g0 s0006
+JP: それじゃ、特別練習にかかろう。{n}練習を選んだら、俺が説明してやるから、{n}好きなのを選んでくれ。{p}
+EN: Now, on to special practice. Pick a drill and I'll explain it, so choose whichever you like.{p}
+
+## MGC05 g0 s0007
+JP: お疲れさま。{n}今月はこれくらいにしておこう。{p}{end}
+EN: Good work. That's enough for this month.{p}{end}
+
+## MGC05 g0 s0008
+JP: 1年は、まだまだこれからだからな。{n}ちゃんと目標をもって、{n}特別練習を選んでいった方がいいぞ。{n}その方が絶対強くなれる。{p}{end}
+EN: The year's only getting started. Pick your special practice with a clear goal in mind. You'll get way stronger that way.{p}{end}
+
+## MGC05 g0 s0009
+JP: 今月は中間試験があるはずだ。{n}筆記試験だから予習はできないが、{n}がんばれよ。{n}よし、じゃまた来月な。{p}{end}
+EN: There should be a midterm this month. It's a written test, so you can't prep for it in Exam Prep, but good luck. Okay, see you next month.{p}{end}
+
+## MGC05 g0 s0010
+JP: さてと、バレー部の練習に行こう。{p}{end}
+EN: Okay, time to head to volleyball club practice.{p}{end}
+
+## MGC05 g0 s0011
+JP: 来たな、{v0}!{n}今回が初めての特別練習日だな。{n}気合入ってるか?{p}
+EN: There you are, {v0}! Your first special practice day! Are you fired up?{p}
+
+## MGC05 g0 s0012
+JP: クラブの説明の時も話したが、{n}各クラブでは毎月初めに、{n}特別練習を行う。{p}{end}
+EN: Like I said at the club orientation, every club holds special practice at the start of each month.{p}{end}
+
+## MGC05 g0 s0013
+JP: 特別練習によって、パラメータを{n}大きく成長させることが可能だ。{n}忘れるなよ!{p}{end}
+EN: Special practice can boost your stats big-time. Don't forget it!{p}{end}
+
+## MGC05 g0 s0015
+JP: よしよし、マジメに練習している{n}ようだな。順調に成長している。{n}この調子でがんばれよ。{p}
+EN: Good, good, looks like you've been practicing seriously. You're growing right on track. Keep it up!{p}
+
+## MGC05 g0 s0016
+JP: それじゃ、特別練習にかかろう。{n}練習の効果については、俺が説明してやる。{n}説明を聞いて自分があげたい{n}パラメータを考えて選ぶんだぞ。{p}{end}
+EN: Now, on to special practice. I'll explain what each drill does. Listen, think about which stats you want to raise, and choose!{p}{end}
+
+## MGC05 g0 s0017
+JP: グーだ!!{n}初めてにしては、上出来だな!{p}{end}
+EN: Great stuff!! Not bad at all for your first time!{p}{end}
+
+## MGC05 g0 s0018
+JP: しかし1年はこれからだ!{n}この僕がビシビシしごいてやるから{n}しっかりついてこいよ!{n}いっしょにバレーの星を目指そう!{p}{end}
+EN: But the year's just getting started! I'm gonna work you hard, so keep up! Let's aim to be volleyball stars together!{p}{end}
+
+## MGC05 g0 s0019
+JP: 今月はここまでだ。{n}あ、そうそう中間試験が近いからな、{n}しっかり勉強しておけよ。{n}じゃ、また来月に会おう!{p}
+EN: That's it for this month. Oh, right, midterms are coming up, so study hard. See you next month!{p}
+
+## MGC05 g0 s0020
+JP: さてと、サッカー部の練習に行こう。{p}
+EN: Okay, time to head to soccer club practice.{p}
+
+## MGC05 g0 s0021
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今回が初めての特別練習ですよね。{n}私もなんです……緊張しちゃって。{p}
+EN: Good morning, {v0}{col:0}-kun{col:-}. This is your first special practice, isn't it? It's mine too... I'm so nervous.{p}
+
+## MGC05 g0 s0022
+JP: ええと、入学式の時にも{n}説明しましたけど、{n}各クラブでは、毎月初めに{n}特別練習を行うそうです。{p}
+EN: Um, I explained this at the entrance ceremony too, but apparently every club holds special practice at the start of each month.{p}
+
+## MGC05 g0 s0023
+JP: この練習で、パラメータを大きく{n}上げることができるみたいですね。{n}がんばってください。{p}
+EN: It seems this practice can raise your stats a lot. Please do your best.{p}
+
+## MGC05 g0 s0024
+JP: ええと、じゃその前に、{n}入部してから今日までの、{n}クラブの成果を見てみましょう。{p}{end}
+EN: Um, before that, let's look at your club results from when you joined until today.{p}{end}
+
+## MGC05 g0 s0025
+JP: どうですか?{n}私よくわからないんですが、{n}パラメータ、上がってるみたいですね。{p}
+EN: How is it? I don't really understand it, but your stats seem to be going up.{p}
+
+## MGC05 g0 s0026
+JP: それではそろそろ特別練習を{n}始めましょうか。{n}練習の効果は私が説明します。{n}なんでも聞いてください。{p}{end}
+EN: Well then, shall we start special practice? I'll explain what each drill does. Please ask me anything.{p}{end}
+
+## MGC05 g0 s0027
+JP: どうでした?{n}私にはうまくいったように{n}見えましたけど……。{p}{end}
+EN: How was it? It looked like it went well to me...{p}{end}
+
+## MGC05 g0 s0028
+JP: まだまだ初めてですからね、{n}これから1年、{n}いっしょにがんばりましょうね。{p}
+EN: It's only the beginning. Let's work hard together this year.{p}
+
+## MGC05 g0 s0029
+JP: 今月の伝達事項は……、{n}ええと中間試験があるみたいです。{n}何か勉強しておいた方がいいですね。{n}それではまた来月に……。{p}
+EN: This month's announcements... Um, it seems there's a midterm. It might be good to study a bit. Well then, see you next month...{p}
+
+## MGC05 g0 s0030
+JP: さてと、相撲部の練習に行こう。{p}
+EN: Okay, time to head to sumo club practice.{p}
+
+## MGC05 g0 s0031
+JP: はっはっはっ、来たなヒヨっこ!{n}今回が初の特別練習だろう?{n}わしがみっちり鍛えてやるから{n}覚悟しろよ!{p}
+EN: Hahaha, there you are, greenhorn! This is your first special practice, eh? I'm gonna drill you hard, so brace yourself!{p}
+
+## MGC05 g0 s0032
+JP: よしよし。{n}前にもいったが、毎月初めの{n}特別練習は各クラブでおこなっている。{p}{end}
+EN: Good, good. Like I said before, every club holds special practice at the start of each month.{p}{end}
+
+## MGC05 g0 s0033
+JP: この練習は、能力をガーンと上げるからな!{n}気合い入れていけよ!{p}
+EN: This practice'll boost your abilities big-time! Put your back into it!{p}
+
+## MGC05 g0 s0034
+JP: さてと、それじゃまず、{n}入部してから今日までの{n}練習の成果をみてみるかの。{p}
+EN: Now then, first let's see what your training's done for you since you joined.{p}
+
+## MGC05 g0 s0035
+JP: どうだ?{n}成長しとるか?{n}マジメにやっとれば、{n}ガンガン強くなれるはずよ。{p}
+EN: Well? Growing? Train seriously and you're bound to get stronger fast.{p}
+
+## MGC05 g0 s0036
+JP: よぅし、それじゃ特別練習といくかの。{n}練習の効果はわしが説明してやる。{n}自分のあげたい能力を考えて{n}選ぶんだぞ!{p}{end}
+EN: Right, now for special practice. I'll explain what each drill does. Think about which abilities you want to raise, then choose!{p}{end}
+
+## MGC05 g0 s0037
+JP: よぉしよし。{n}今月はこれくらいにしておこう。{p}{end}
+EN: Good, good. That'll do for this month.{p}{end}
+
+## MGC05 g0 s0038
+JP: お前はもっと筋肉をつけんといかん。{n}それには相撲部は最適だぞ。{n}1年間気合い入れてがんばれよ。{p}
+EN: You need to put on more muscle. Sumo's perfect for that. Give it everything you've got this year.{p}
+
+## MGC05 g0 s0039
+JP: さてと、おっそうそう、{n}今月は中間試験があるらしいな。{n}クラブだけじゃなく勉強もしておけよ。{n}よし、じゃまた来月な。{p}{end}
+EN: Now then... oh, right, seems there's a midterm this month. Don't just do club, study too. All right, see you next month.{p}{end}
+
+## MGC05 g0 s0040
+JP: さてと、美術部の練習に行こう。{p}
+EN: Okay, time to head to art club practice.{p}
+
+## MGC05 g0 s0041
+JP: はーい、来たわね{v0}{col:0}クン{col:-}。{n}今回が特別練習初めてだっけ?{n}私に任せれば大丈夫!{n}まかせといて!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Is this your first special practice? Just leave it to me and you'll be fine! I've got this!{p}{end}
+
+## MGC05 g0 s0042
+JP: コレ前にもいったけど、{n}特別練習は、毎月初めに{n}各クラブでおこなってる、{n}重要な練習なのね。{p}{end}
+EN: I said this before, but special practice is an important practice every club holds at the start of each month.{p}{end}
+
+## MGC05 g0 s0043
+JP: この練習で、パラメータが{n}大きく上がるから、がんばった方が{n}いいわよ。{p}
+EN: This practice raises your stats a lot, so you'd better work hard.{p}
+
+## MGC05 g0 s0044
+JP: さ～てと、その前に……{n}ええと何だっけ。そうそう、{n}入部してからのクラブの成果ね。{n}みてみましょう。{p}{end}
+EN: Okay~, but first... um, what was it? Oh right, your club results since you joined. Let's take a look.{p}{end}
+
+## MGC05 g0 s0045
+JP: どう?{sp}いい感じで伸びてきてる?{n}じゃ、この調子でがんばってね。{p}{end}
+EN: Well? Growing nicely? Then keep it up.{p}{end}
+
+## MGC05 g0 s0046
+JP: ええと。それじゃ特別練習をしましょうか。{n}練習の効果は、私が教えてあげるわ。{n}何でも聞きなさい。{p}{end}
+EN: Um. Okay, let's do special practice. I'll tell you what each drill does. Ask me anything.{p}{end}
+
+## MGC05 g0 s0047
+JP: はい、おつかれさま。{n}今月はこれでおしまいね。{p}
+EN: Okay, good work. That's it for this month.{p}
+
+## MGC05 g0 s0048
+JP: まだまだ始まったばかりだからね。{n}これからもがんばっていきましょう。{n}美術部は人数は少ないけど、{n}いいクラブだよ。{p}
+EN: We're only just getting started. Let's keep working hard. The art club's small, but it's a good club.{p}
+
+## MGC05 g0 s0049
+JP: ええと、あと何だっけ……。{n}そうそう、今月は中間試験ね。{n}筆記試験だから、勉強しといた方が{n}いいよ。じゃ、また来月ね。{p}
+EN: Um, what else was there... Oh right, midterms this month. It's a written test, so you'd better study. See you next month.{p}
+
+## MGC05 g0 s0050
+JP: さてと、吹奏楽部の練習に行こう。{p}{end}
+EN: Okay, time to head to brass band practice.{p}{end}
+
+## MGC05 g0 s0051
+JP: ……あ……{v0}{col:0}君{col:-}。{n}いらっしゃい。{n}今日が初めての特別練習ね……。{n}がんばりましょう。{p}{end}
+EN: ...Oh... {v0}{col:0}-kun{col:-}. Welcome. Today is your first special practice... Let's do our best.{p}{end}
+
+## MGC05 g0 s0052
+JP: ……前にもいったけど……{n}この特別練習は、各クラブで{n}毎月初めにおこなっている{n}練習です。{p}
+EN: ...As I said before... every club holds this special practice at the start of each month.{p}
+
+## MGC05 g0 s0053
+JP: ……ここで集中して練習することで、{n}実力を大きく伸ばすことが{n}できるわよ……。{p}
+EN: ...If you focus and practice hard here... your skills can grow a lot...{p}
+
+## MGC05 g0 s0054
+JP: ……と、とりあえず、入部してから{n}今日までのクラブの成果なんだけど……。{p}{end}
+EN: ...F-for now, here are your club results from when you joined until today...{p}{end}
+
+## MGC05 g0 s0055
+JP: ……こんな感じね。{n}悪くないわ……。{n}この調子でがんばって……。{p}{end}
+EN: ...Like this. Not bad... Keep it up...{p}{end}
+
+## MGC05 g0 s0056
+JP: ……それじゃ……特別練習ね。{n}どういう効果があるのかは、{n}私が説明するわ……。{n}どれでも好きなのを選んでね……。{p}{end}
+EN: ...Now... special practice. I'll explain what each drill does... Choose whichever you like...{p}{end}
+
+## MGC05 g0 s0057
+JP: ……はい、おつかれさま……。{n}今月の練習はここまでね。{p}
+EN: ...Yes, good work... That's all for this month's practice.{p}
+
+## MGC05 g0 s0058
+JP: ……まだまだ先は長いけど、{n}がんばりましょうね……。{p}{end}
+EN: ...We still have a long way to go, but let's do our best...{p}{end}
+
+## MGC05 g0 s0059
+JP: あ、そうそう。{n}今月は中間試験があるそうよ。{n}勉強もしないとね……。{n}それじゃまた来月に……。{p}
+EN: Oh, right. I hear there's a midterm this month. We have to study too... Well then, see you next month...{p}
+
+## MGC05 g0 s0060
+JP: さてと、演劇部の練習に行こう。{p}
+EN: Okay, time to head to drama club practice.{p}
+
+## MGC05 g0 s0061
+JP: やぁ来たね、{v0}{col:0}クン{col:-}。{n}今日が初めての特別練習の日でしょう?{n}準備はいい?{p}{end}
+EN: Ah, you've come, {v0}{col:0}-kun{col:-}. Today's your first special practice day, isn't it? Are you ready?{p}{end}
+
+## MGC05 g0 s0062
+JP: 前にもいったけど、各クラブでは{n}毎月初めにこの特別練習を{n}おこなうの。{p}
+EN: As I said before, every club holds this special practice at the start of each month.{p}
+
+## MGC05 g0 s0063
+JP: この練習はパラメータが{n}大きく上がるから、重要みたいよ。{n}がんばってみることね。{p}{end}
+EN: This practice raises your stats a lot, so it seems it's important. Give it your best.{p}{end}
+
+## MGC05 g0 s0064
+JP: さてと、その前に{n}入部してから今日までの{n}クラブの成果を確認しよう。{p}{end}
+EN: Now then, before that, let's check your club results since you joined.{p}{end}
+
+## MGC05 g0 s0065
+JP: どう?{sp}演劇部に入った成果が出てる?{n}普通にやってれば、ちゃんと成長する{n}はずだから、気にしなくてもいいけど。{p}
+EN: Well? Is joining drama paying off? If you just keep at it, you'll grow properly, so there's no need to worry.{p}
+
+## MGC05 g0 s0066
+JP: それじゃ、特別練習をしようか。{n}私が内容の説明をしてあげるから、{n}好きな練習を選んで。{p}
+EN: Now, shall we do special practice? I'll explain what each one involves, so pick the one you like.{p}
+
+## MGC05 g0 s0067
+JP: よし。{n}今日はここまでにしましょう。{n}どう、思ったように上がった?{p}
+EN: All right. Let's stop here for today. Well, did your stats rise the way you hoped?{p}
+
+## MGC05 g0 s0068
+JP: まだまだ先は長い。{n}1年かけて、じっくり{n}理想の自分を作ることね。{p}
+EN: We still have a long way to go. Take the whole year to carefully build your ideal self.{p}
+
+## MGC05 g0 s0069
+JP: 今月は中間試験があるはずよ。{n}まぁたまには勉強でもしておくことね。{n}じゃ、また来月ね。{p}
+EN: There should be a midterm this month. Do some studying once in a while, won't you? See you next month.{p}
+
+## MGC05 g0 s0070
+JP: さてと、化学部の練習に行こう。{p}
+EN: Okay, time to head to chemistry club practice.{p}
+
+## MGC05 g0 s0071
+JP: やぁ来たな。{n}{v0}{col:0}君{col:-}だったか。{n}確か今日が初めての特別練習だろう。{n}準備はいいかね。{p}
+EN: Ah, there you are. {v0}{col:0}-kun{col:-}, wasn't it? Today's your first special practice, I believe. Ready?{p}
+
+## MGC05 g0 s0072
+JP: 前にもいったが、各クラブでは{n}毎月初めに特別練習をおこなう。{n}それは、ここ化学部でも{n}例外ではない。{p}{end}
+EN: As I said before, every club holds special practice at the start of each month. The chemistry club is no exception.{p}{end}
+
+## MGC05 g0 s0073
+JP: 普段の活動ではおざなりになりがちな、{n}細かい実習をみっちりおこなうからな。{n}その分、成長度は大きいだろう。{p}
+EN: We'll be doing intensive hands-on work, the fine details that get skimped on in regular activities. So you'll grow all the more.{p}
+
+## MGC05 g0 s0074
+JP: よし。{n}その前に、入部してからの{n}クラブ活動の成果ってヤツを{n}見せてもらおうじゃないか。{p}{end}
+EN: Right. But first, let's have a look at these so-called club results of yours since you joined.{p}{end}
+
+## MGC05 g0 s0075
+JP: ふむふむ。なるほど。{n}まぁそこそこがんばってるみたいだな。{n}この調子でがんばれよ。{p}
+EN: Mm-hm. I see. Well, you seem to be working reasonably hard. Keep it up.{p}
+
+## MGC05 g0 s0076
+JP: よしよし。じゃ、さっそく{n}特別練習といこう。{n}練習の説明は僕がするから、{n}説明を聞いて、好きな練習を選びな。{p}{end}
+EN: Good, good. Then let's get right to special practice. I'll explain the drills, so listen and pick the one you like.{p}{end}
+
+## MGC05 g0 s0077
+JP: よしよし。お疲れさん。{n}今月はこんなモンにしておこう。{p}
+EN: Good, good. Nice work. That'll do for this month.{p}
+
+## MGC05 g0 s0078
+JP: まだまだ先は長いんだ。{n}僕がじっくり育ててあげよう。{p}{end}
+EN: We've still got a long way to go. I'll take my time raising you right.{p}{end}
+
+## MGC05 g0 s0079
+JP: さてさて。{n}今月は中間試験があるんだろう?{n}勉強しとかないとダメだぞ。{n}じゃ、がんばれよ。また来月な。{p}
+EN: Now, now. There's a midterm this month, isn't there? You'd better study. Well, good luck. See you next month.{p}
+
+## MGC05 g0 s0080
+JP: さてと、帰宅部だから帰るか。{p}{end}
+EN: Okay, I'm in the Go-Home Club, so I guess I'll go home.{p}{end}
+
+## MGC05 g0 s0081
+JP: はーい、私が帰宅部の監督を任されてるの。{n}今日は特別練習の日でしょ?{n}帰るのはまだ早いわよ。{p}{end}
+EN: Hi there. I've been put in charge of the Go-Home Club. It's special practice day today, right? It's too early to go home.{p}{end}
+
+## MGC05 g0 s0082
+JP: 他のクラブではね、毎月初めに{n}特別練習の日をもうけてるの。{n}実は、帰宅部も例外じゃなくてね。{p}{end}
+EN: The other clubs hold a special practice day at the start of each month. And actually, the Go-Home Club's no exception.{p}{end}
+
+## MGC05 g0 s0083
+JP: まぁ他のクラブと違って、{n}特別な練習するワケじゃないけど。{n}一応、パラメータを成長させることは{n}できるみたいよ。{p}{end}
+EN: Well, unlike the other clubs, you don't do any special drills. But apparently you can still raise your stats.{p}{end}
+
+## MGC05 g0 s0084
+JP: さてと。それじゃとりあえず、{n}あなたの入学式から今日までの{n}帰宅部っぷりを確認させて{n}もらおうかしら。{p}
+EN: Now then. For starters, let me check how you've done as a Go-Home member since the entrance ceremony.{p}
+
+## MGC05 g0 s0085
+JP: ふ～ん……ま、こんなモノかしらね。{n}帰宅部だからね。{p}{end}
+EN: Hmm... Well, I guess this is about right. It's the Go-Home Club, after all.{p}{end}
+
+## MGC05 g0 s0086
+JP: それじゃ、特別練習（?）に{n}かかりましょうか。{n}今日の帰りにしたいことを{n}選択してね。{p}
+EN: Now, shall we get to special practice (?)? Pick what you want to do on your way home today.{p}
+
+## MGC05 g0 s0087
+JP: ……ま、帰宅部だから{n}こんなモノかしら。{p}{end}
+EN: ...Well, it's the Go-Home Club, so I guess this is about right.{p}{end}
+
+## MGC05 g0 s0088
+JP: パラメータを成長させるには、{n}効率が悪いと思うけど……、{n}ま、運がよければ何とかなるんじゃない?{p}{end}
+EN: It's not a very efficient way to raise stats... but if you're lucky, it might work out, right?{p}{end}
+
+## MGC05 g0 s0089
+JP: じゃ、今月はこれでおしまいね。{n}あ、そうそう中間試験が近いから、{n}勉強しておいた方がいいかもよ。{n}じゃあね。{p}{end}
+EN: Well, that's it for this month. Oh, right, midterms are coming up, so you might want to study. Bye.{p}{end}
+
+## MGC05 g1 s0000
+JP: さてと、野球部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to baseball club practice.{p}
+
+## MGC05 g1 s0001
+JP: 来たね、{v1}{col:0}さん{col:-}。{n}今回が初めての特別練習日だね。{n}準備はいいかな?{p}
+EN: There you are, {v1}{col:0}-san{col:-}. This is your first special practice day, huh. Ready?{p}
+
+## MGC05 g1 s0002
+JP: 前にもいったけど、各クラブでは{n}毎月初めに、特別練習をおこなう。{p}{end}
+EN: Like I said before, every club holds special practice at the start of each month.{p}{end}
+
+## MGC05 g1 s0010
+JP: さてと、バレー部の練習に行こうかな。{p}{end}
+EN: Okay, I guess I'll head to volleyball club practice.{p}{end}
+
+## MGC05 g1 s0020
+JP: さてと、サッカー部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to soccer club practice.{p}
+
+## MGC05 g1 s0021
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今回が初めての特別練習よね。{n}私もなの……緊張しちゃって。{p}{end}
+EN: Good morning, {v1}{col:0}-chan{col:-}. This is your first special practice, right? Mine too... I'm so nervous.{p}{end}
+
+## MGC05 g1 s0022
+JP: ええと、入学式の時にも{n}説明したけど、{n}各クラブでは、毎月初めに{n}特別練習を行うそうです。{p}
+EN: Um, I explained this at the entrance ceremony too, but apparently every club holds special practice at the start of each month.{p}
+
+## MGC05 g1 s0023
+JP: この練習で、パラメータを大きく{n}上げることができるみたいね。{n}がんばってね。{p}{end}
+EN: It seems this practice can raise your stats a lot. Good luck.{p}{end}
+
+## MGC05 g1 s0025
+JP: どうですか?{n}私よくわからないけど、{n}パラメータ、上がってるみたいね。{p}
+EN: How is it? I don't really get it, but your stats seem to be going up.{p}
+
+## MGC05 g1 s0026
+JP: それではそろそろ特別練習を{n}始めましょうか。{n}練習の効果は私が説明するから、{n}なんでも聞いてね。{p}{end}
+EN: Well then, shall we start special practice? I'll explain what each drill does, so ask me anything.{p}{end}
+
+## MGC05 g1 s0027
+JP: どう?{n}私にはうまくいったように{n}見えたけど……。{p}
+EN: How was it? It looked like it went well to me...{p}
+
+## MGC05 g1 s0028
+JP: まだまだ初めてだからね、{n}これから1年、{n}いっしょにがんばりましょうね。{p}{end}
+EN: It's only the beginning. Let's work hard together this year.{p}{end}
+
+## MGC05 g1 s0030
+JP: さてと、相撲部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to sumo club practice.{p}
+
+## MGC05 g1 s0031
+JP: はっはっはっ、来たなヒヨっこ!{n}今回が初の特別練習だろう?{n}相撲の稽古なんて初めてだろうから、{n}わしが基礎からみっちり教えてやろう!{p}{end}
+EN: Hahaha, there you are, greenhorn! This is your first special practice, eh? I bet you've never trained in sumo, so I'll drill you hard from the basics!{p}{end}
+
+## MGC05 g1 s0033
+JP: この練習は、能力をガーンと上げるからな!{n}気合い入れていけよ!{n}女だからといって容赦はせんぞ!{p}
+EN: This practice'll boost your abilities big-time! Put your back into it! Don't expect me to go easy just 'cause you're a girl!{p}
+
+## MGC05 g1 s0037
+JP: よぉしよし。{n}今月はこれくらいにしておこう。{n}お前はスジがいい。これなら新相撲でも{n}いいトコロまでいけそうだ?{p}
+EN: Good, good. That'll do for this month. You've got a knack for this. At this rate, you could go far in women's sumo!{p}
+
+## MGC05 g1 s0040
+JP: さてと、美術部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to art club practice.{p}
+
+## MGC05 g1 s0041
+JP: はーい、来たわね{v1}{col:0}ちゃん{col:-}。{n}今回が特別練習初めてだっけ?{n}私に任せれば大丈夫!{n}まかせといて!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Is this your first special practice? Just leave it to me and you'll be fine! I've got this!{p}
+
+## MGC05 g1 s0050
+JP: さてと、吹奏楽部の練習に行こうかな。{p}{end}
+EN: Okay, I guess I'll head to brass band practice.{p}{end}
+
+## MGC05 g1 s0051
+JP: ……あ……{v1}{col:0}さん{col:-}。{n}いらっしゃい。{n}今日が初めての特別練習ね……。{n}がんばりましょう。{p}
+EN: ...Oh... {v1}{col:0}-san{col:-}. Welcome. Today is your first special practice... Let's do our best.{p}
+
+## MGC05 g1 s0060
+JP: さてと、演劇部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to drama club practice.{p}
+
+## MGC05 g1 s0061
+JP: やぁ来たね、{v1}{col:0}さん{col:-}。{n}今日が初めての特別練習の日でしょう?{n}準備はいい?{p}{end}
+EN: Ah, you've come, {v1}{col:0}-san{col:-}. Today's your first special practice day, isn't it? Are you ready?{p}{end}
+
+## MGC05 g1 s0070
+JP: さてと、化学部の練習に行こうかな。{p}
+EN: Okay, I guess I'll head to chemistry club practice.{p}
+
+## MGC05 g6 s0000
+JP: {col:3}『打撃練習』{col:-}だな。{n}{col:0}攻撃力{col:-}が大きく上がるトレーニングだ。{n}{col:0}潜在能力{col:-}も少し上がるが、{n}かわりに{col:0}防御力{col:-}が少し下がる。{p}{end}
+EN: {col:3}Batting Practice{col:-}, huh. It raises {col:0}Attack{col:-} a lot. {col:0}Potential{col:-} goes up a little too, but {col:0}Defense{col:-} drops a little.{p}{end}
+
+## MGC05 g6 s0001
+JP: {col:3}『投球練習』{col:-}だな。{n}{col:0}潜在能力{col:-}が主に上がる練習だ。{n}あとは、{col:0}攻撃力{col:-}、{col:0}知力{col:-}も少し上がるが、{n}かわりに{col:0}根性{col:-}が少し下がるだろう。{p}{end}
+EN: {col:3}Pitching Practice{col:-}, huh. It mainly raises {col:0}Potential{col:-}. {col:0}Attack{col:-} and {col:0}Smarts{col:-} go up a little too, but {col:0}Guts{col:-} will drop a little.{p}{end}
+
+## MGC05 g6 s0002
+JP: {col:3}『守備練習』{col:-}だな。{n}{col:0}防御力{col:-}が大きく上がるトレーニングだ。{n}{col:0}根性{col:-}も少し上がるが、{n}かわりに{col:0}潜在能力{col:-}が少し下がる。{p}
+EN: {col:3}Fielding Practice{col:-}, huh. It raises {col:0}Defense{col:-} a lot. {col:0}Guts{col:-} goes up a little too, but {col:0}Potential{col:-} drops a little.{p}
+
+## MGC05 g6 s0003
+JP: {col:3}『フォーメーション練習』{col:-}だな。{n}{col:0}知力{col:-}が主に上がる練習だ。{n}{col:0}防御力{col:-}と{col:0}潜在能力{col:-}も少し上がるが、{n}かわりに{col:0}体力{col:-}が少し下がる。{p}
+EN: {col:3}Formation Practice{col:-}, huh. It mainly raises {col:0}Smarts{col:-}. {col:0}Defense{col:-} and {col:0}Potential{col:-} go up a little too, but {col:0}Stamina{col:-} drops a little.{p}
+
+## MGC05 g6 s0004
+JP: {col:3}『ダッシュ』{col:-}だな。{n}{col:0}根性{col:-}が大きく上がるトレーニングだ。{n}あとは{col:0}体力{col:-}も少し上がるが、{n}かわりに{col:0}攻撃{col:-}が少し下がるな。{p}{end}
+EN: {col:3}Dash{col:-}, huh. It raises {col:0}Guts{col:-} a lot. {col:0}Stamina{col:-} goes up a little too, but {col:0}Attack{col:-} drops a little.{p}{end}
+
+## MGC05 g6 s0005
+JP: {col:3}『ランニング』{col:-}だな。{n}{col:0}体力{col:-}が大きく上がるトレーニングだ。{n}特に下がるパラメータはないな。{p}{end}
+EN: {col:3}Running{col:-}, huh. It raises {col:0}Stamina{col:-} a lot. No stats really go down.{p}{end}
+
+## MGC05 g6 s0006
+JP: {col:3}『スパイク練習』{col:-}だな!{n}{col:0}攻撃力{col:-}が大きく上がるうえに、{n}{col:0}体力{col:-}が少し上がる!{n}{col:0}知力{col:-}が少し下がるが、気にするな!{p}
+EN: {col:3}Spike Practice{col:-}! It raises {col:0}Attack{col:-} a lot, and {col:0}Stamina{col:-} a little! {col:0}Smarts{col:-} drops a little, but don't sweat it!{p}
+
+## MGC05 g6 s0007
+JP: {col:3}『レシーブ練習』{col:-}だな!{n}{col:0}根性{col:-}が大きく上がるうえに、{n}{col:0}防御力{col:-}も少し上がる!{n}{col:0}潜在能力{col:-}が少し下がるがな。{p}{end}
+EN: {col:3}Receive Practice{col:-}! It raises {col:0}Guts{col:-} a lot, and {col:0}Defense{col:-} a little! {col:0}Potential{col:-} drops a little, though.{p}{end}
+
+## MGC05 g6 s0008
+JP: {col:3}『サーブ練習』{col:-}だな!{n}主に{col:0}攻撃力{col:-}が上がり、{n}あとは{col:0}潜在能力{col:-}、{col:0}知力{col:-}も少し上がるな。{n}{col:0}防御力{col:-}が少し下がるが気にするな!{p}
+EN: {col:3}Serve Practice{col:-}! It mainly raises {col:0}Attack{col:-}, plus {col:0}Potential{col:-} and {col:0}Smarts{col:-} a little. {col:0}Defense{col:-} drops a little, but don't sweat it!{p}
+
+## MGC05 g6 s0009
+JP: {col:3}『トス練習』{col:-}だな!{n}{col:0}潜在能力{col:-}と{col:0}知力{col:-}が{n}同じくらい上がる!{n}{col:0}体力{col:-}が少し下がるがな!{p}{end}
+EN: {col:3}Toss Practice{col:-}! It raises {col:0}Potential{col:-} and {col:0}Smarts{col:-} about equally! {col:0}Stamina{col:-} drops a little, though!{p}{end}
+
+## MGC05 g6 s0010
+JP: {col:3}『ブロック練習』{col:-}だな!{n}{col:0}防御力{col:-}が大きく上がるうえに、{n}{col:0}潜在能力{col:-}も少し上がる!{n}{col:0}根性{col:-}が少し下がるがな!{p}{end}
+EN: {col:3}Block Practice{col:-}! It raises {col:0}Defense{col:-} a lot, and {col:0}Potential{col:-} a little! {col:0}Guts{col:-} drops a little, though!{p}{end}
+
+## MGC05 g6 s0011
+JP: {col:3}『ランニング』{col:-}だな!{n}{col:0}体力{col:-}が大きく上がるぞ!{n}しかも下がるパラメータもない!{p}{end}
+EN: {col:3}Running{col:-}! It raises {col:0}Stamina{col:-} a lot! And no stats go down!{p}{end}
+
+## MGC05 g6 s0012
+JP: {col:3}『シュート練習』{col:-}ですね?{n}この練習は、{col:0}攻撃力{col:-}が大きく、{n}{col:0}根性{col:-}も少し上がります。{n}あと、{col:0}防御力{col:-}が少し下がりますね。{p}{end}
+EN: {col:3}Shooting Practice{col:-}? This one raises {col:0}Attack{col:-} a lot and {col:0}Guts{col:-} a little. And {col:0}Defense{col:-} drops a little.{p}{end}
+
+## MGC05 g6 s0013
+JP: {col:3}『ドリブル練習』{col:-}ですね?{n}この練習は、主に{col:0}知力{col:-}が、{n}あと、{col:0}攻撃力{col:-}と{col:0}防御力{col:-}が上がります。{n}{col:0}潜在能力{col:-}が少し下がりますけど。{p}
+EN: {col:3}Dribbling Practice{col:-}? This one mainly raises {col:0}Smarts{col:-}, plus {col:0}Attack{col:-} and {col:0}Defense{col:-}. {col:0}Potential{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0014
+JP: {col:3}『パス練習』{col:-}ですね?{n}この練習は、{col:0}潜在能力{col:-}が大きく、{n}{col:0}知力{col:-}も少し上がります。{n}あと、{col:0}根性{col:-}が少し下がりますね。{p}{end}
+EN: {col:3}Passing Practice{col:-}? This one raises {col:0}Potential{col:-} a lot and {col:0}Smarts{col:-} a little. And {col:0}Guts{col:-} drops a little.{p}{end}
+
+## MGC05 g6 s0015
+JP: {col:3}『セービング練習』{col:-}ですね?{n}この練習は、{col:0}防御力{col:-}が大きく、{n}{col:0}潜在能力{col:-}が少し上がります。{n}{col:0}体力{col:-}が少し下がりますけど。{p}{end}
+EN: {col:3}Saving Practice{col:-}? This one raises {col:0}Defense{col:-} a lot and {col:0}Potential{col:-} a little. {col:0}Stamina{col:-} drops a little, though.{p}{end}
+
+## MGC05 g6 s0016
+JP: {col:3}『ダッシュ』{col:-}ですね?{n}この練習は、{col:0}根性{col:-}が大きく、{n}{col:0}体力{col:-}が少し上がります。{n}あと、{col:0}攻撃力{col:-}が少し下がりますね。{p}
+EN: {col:3}Dash{col:-}? This one raises {col:0}Guts{col:-} a lot and {col:0}Stamina{col:-} a little. And {col:0}Attack{col:-} drops a little.{p}
+
+## MGC05 g6 s0017
+JP: {col:3}『ランニング』{col:-}ですね?{n}この練習は、{col:0}体力{col:-}が大きく上がりますね。{n}特に下がるパラメータはありません。{p}
+EN: {col:3}Running{col:-}? This one raises {col:0}Stamina{col:-} a lot. No stats go down.{p}
+
+## MGC05 g6 s0018
+JP: {col:3}『股割り』{col:-}か。{n}これは{col:0}防御力{col:-}、{col:0}根性{col:-}を上げる稽古だ。{n}{col:0}知力{col:-}が少し下がるがな。{p}
+EN: {col:3}Matawari Splits{col:-}, eh. This training raises {col:0}Defense{col:-} and {col:0}Guts{col:-}. {col:0}Smarts{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0019
+JP: {col:3}『すり足』{col:-}か。{n}これは主に{col:0}潜在能力{col:-}を上げる稽古だ。{n}それにともなって{col:0}防御力{col:-}、{col:0}体力{col:-}も上がる。{n}{col:0}知力{col:-}が少し下がるがな。{p}
+EN: {col:3}Suriashi Steps{col:-}, eh. This mainly raises {col:0}Potential{col:-}. {col:0}Defense{col:-} and {col:0}Stamina{col:-} rise along with it. {col:0}Smarts{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0020
+JP: {col:3}『四股踏み』{col:-}か。{n}これは、{col:0}攻撃力{col:-}、{col:0}根性{col:-}、{col:0}潜在能力{col:-}を、{n}少しずつ上げる稽古だ。{n}特に下がる能力はないな。{p}
+EN: {col:3}Shiko Stomps{col:-}, eh. This raises {col:0}Attack{col:-}, {col:0}Guts{col:-} and {col:0}Potential{col:-} a little each. Nothing really drops.{p}
+
+## MGC05 g6 s0021
+JP: {col:3}『鉄砲』{col:-}か。{n}これは、{col:0}攻撃力{col:-}を大幅に上げる稽古だ。{n}{col:0}防御力{col:-}が少し下がるがな。{p}{end}
+EN: {col:3}Teppo Slaps{col:-}, eh. This training raises {col:0}Attack{col:-} way up. {col:0}Defense{col:-} drops a little, though.{p}{end}
+
+## MGC05 g6 s0022
+JP: {col:3}『ぶつかり稽古』{col:-}か。{n}これは、主に{col:0}攻撃力{col:-}が、{n}あと{col:0}防御力{col:-}と{col:0}知力{col:-}が少しずつ上がる稽古だ。{n}{col:0}潜在能力{col:-}が少し下がるがな。{p}
+EN: {col:3}Butsukari Drills{col:-}, eh. This mainly raises {col:0}Attack{col:-}, plus {col:0}Defense{col:-} and {col:0}Smarts{col:-} a little each. {col:0}Potential{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0023
+JP: {col:3}『チャンコ』{col:-}だな。{n}これは、{col:0}体力{col:-}を大幅に上げることができる。{n}{col:0}知力{col:-}が少し下がるが、相撲取りは{n}まず食わんとな。{p}
+EN: {col:3}Chanko Stew{col:-}, eh. This raises {col:0}Stamina{col:-} way up. {col:0}Smarts{col:-} drops a little, but a sumo wrestler has to eat!{p}
+
+## MGC05 g6 s0024
+JP: {col:3}『水彩画』{col:-}ね。{n}主に{col:0}潜在能力{col:-}を、あと{col:0}根性{col:-}と{col:0}知力{col:-}を{n}少し高めることができるわ。{n}でも、{col:0}防御力{col:-}が少し下がるみたい。{p}
+EN: {col:3}Watercolor{col:-}. It mainly boosts {col:0}Potential{col:-}, plus {col:0}Guts{col:-} and {col:0}Smarts{col:-} a little. But {col:0}Defense{col:-} seems to drop a little.{p}
+
+## MGC05 g6 s0025
+JP: {col:3}『油彩画』{col:-}ね。{n}{col:0}防御力{col:-}と{col:0}根性{col:-}を高めることができるわ。{n}{col:0}攻撃力{col:-}が少し下がるけどね。{p}{end}
+EN: {col:3}Oil Painting{col:-}. It boosts {col:0}Defense{col:-} and {col:0}Guts{col:-}. {col:0}Attack{col:-} drops a little, though.{p}{end}
+
+## MGC05 g6 s0026
+JP: {col:3}『彫刻』{col:-}ね。{n}{col:0}攻撃力{col:-}を大きく高めることができるわ。{n}あと、{col:0}根性{col:-}も少しね。{n}でも、{col:0}知力{col:-}が少し下がるみたい。{p}{end}
+EN: {col:3}Sculpture{col:-}. It boosts {col:0}Attack{col:-} a lot, and {col:0}Guts{col:-} a little. But {col:0}Smarts{col:-} seems to drop a little.{p}{end}
+
+## MGC05 g6 s0027
+JP: {col:3}『デッサン』{col:-}ね。{n}主に{col:0}知力{col:-}を、あと{col:0}攻撃力{col:-}と{col:0}防御力{col:-}を、{n}少しずつ高めることができるわ。{n}でも、{col:0}潜在能力{col:-}が下がるけどね。{p}{end}
+EN: {col:3}Drawing{col:-}. It mainly boosts {col:0}Smarts{col:-}, plus {col:0}Attack{col:-} and {col:0}Defense{col:-} a little each. But {col:0}Potential{col:-} drops.{p}{end}
+
+## MGC05 g6 s0028
+JP: {col:3}『写生』{col:-}ね。{n}{col:0}体力{col:-}を大きく高めることができるわ。{n}あと、{col:0}防御力{col:-}を少しね。{n}でも、{col:0}根性{col:-}が少し下がるみたい。{p}{end}
+EN: {col:3}Outdoor Sketching{col:-}. It boosts {col:0}Stamina{col:-} a lot, and {col:0}Defense{col:-} a little. But {col:0}Guts{col:-} seems to drop a little.{p}{end}
+
+## MGC05 g6 s0029
+JP: {col:3}『美術鑑賞』{col:-}ね。{n}{col:0}知力{col:-}を大きく高めることができるわ。{n}あと、{col:0}潜在能力{col:-}を少しね。{n}でも、{col:0}体力{col:-}が少し下がるけどね。{p}
+EN: {col:3}Art Appreciation{col:-}. It boosts {col:0}Smarts{col:-} a lot, and {col:0}Potential{col:-} a little. But {col:0}Stamina{col:-} drops a little.{p}
+
+## MGC05 g6 s0030
+JP: ……{col:3}『腹筋』{col:-}ですね。{n}{col:0}防御力{col:-}がかなり大きく{n}上がるみたいです……。{n}あと、{col:0}知力{col:-}が少し下がるかも……。{p}{end}
+EN: ...{col:3}Sit-ups{col:-}. They seem to raise {col:0}Defense{col:-} quite a lot... Also, {col:0}Smarts{col:-} may drop a little...{p}{end}
+
+## MGC05 g6 s0031
+JP: ……{col:3}『管楽器』{col:-}ですね。{n}{col:0}根性{col:-}が大きく上がるみたいです……。{n}あと、{col:0}知力{col:-}も少し。{n}かわりに{col:0}防御力{col:-}が下がるかも……。{p}{end}
+EN: ...{col:3}Wind Instruments{col:-}. They seem to raise {col:0}Guts{col:-} a lot... And {col:0}Smarts{col:-} a little. In exchange, {col:0}Defense{col:-} may drop...{p}{end}
+
+## MGC05 g6 s0032
+JP: ……{col:3}『打楽器』{col:-}ですね。{n}{col:0}攻撃力{col:-}が大きく上がるみたいです……。{n}あと、{col:0}潜在能力{col:-}も少し。{n}{col:0}根性{col:-}が少し下がりますけど……。{p}{end}
+EN: ...{col:3}Percussion{col:-}. It seems to raise {col:0}Attack{col:-} a lot... And {col:0}Potential{col:-} a little. {col:0}Guts{col:-} drops a little, though...{p}{end}
+
+## MGC05 g6 s0033
+JP: ……{col:3}『マーチング』{col:-}ですね。{n}{col:0}体力{col:-}が大きく上がるみたいです……。{n}あと、{col:0}根性{col:-}も少し。{n}かわりに{col:0}攻撃力{col:-}が下がるかも……。{p}{end}
+EN: ...{col:3}Marching{col:-}. It seems to raise {col:0}Stamina{col:-} a lot... And {col:0}Guts{col:-} a little. In exchange, {col:0}Attack{col:-} may drop...{p}{end}
+
+## MGC05 g6 s0034
+JP: ……{col:3}『リズムトレーニング』{col:-}ですね。{n}{col:0}根性{col:-}が大きく上がるみたいです。{n}あと、{col:0}攻撃力{col:-}と{col:0}体力{col:-}も少し。{n}かわりに{col:0}潜在能力{col:-}が少し下がるかも。{p}
+EN: ...{col:3}Rhythm Training{col:-}. It seems to raise {col:0}Guts{col:-} a lot. And {col:0}Attack{col:-} and {col:0}Stamina{col:-} a little. {col:0}Potential{col:-} may drop a little.{p}
+
+## MGC05 g6 s0035
+JP: ……{col:3}『音楽鑑賞』{col:-}ですね。{n}{col:0}潜在能力{col:-}が大きく上がるみたいです。{n}あと、{col:0}知力{col:-}もそこそこ上がりますね。{n}{col:0}体力{col:-}と{col:0}根性{col:-}が少し下がりますけど。{p}
+EN: ...{col:3}Music Appreciation{col:-}. It seems to raise {col:0}Potential{col:-} a lot. {col:0}Smarts{col:-} rises a fair bit too. {col:0}Stamina{col:-} and {col:0}Guts{col:-} drop a little, though.{p}
+
+## MGC05 g6 s0036
+JP: {col:3}『発声練習』{col:-}ですね。{n}この練習は、主に{col:0}潜在能力{col:-}を、他に{n}{col:0}防御力{col:-}と{col:0}体力{col:-}を少し上げることができるわ。{n}{col:0}知力{col:-}は少し下がるけどね。{p}
+EN: {col:3}Voice Training{col:-}. This mainly raises {col:0}Potential{col:-}, plus {col:0}Defense{col:-} and {col:0}Stamina{col:-} a little. {col:0}Smarts{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0037
+JP: {col:3}『ダンス練習』{col:-}ですね。{n}この練習は、{col:0}体力{col:-}を大きく{n}{col:0}攻撃力{col:-}を少し上げることができるわ。{n}でも、{col:0}潜在能力{col:-}は少し下がるみたいよ。{p}
+EN: {col:3}Dance Practice{col:-}. This raises {col:0}Stamina{col:-} a lot and {col:0}Attack{col:-} a little. But {col:0}Potential{col:-} seems to drop a little.{p}
+
+## MGC05 g6 s0038
+JP: {col:3}『演技練習』{col:-}ですね。{n}この練習は主に{col:0}根性{col:-}を、あと{col:0}防御力{col:-}と{n}{col:0}潜在能力{col:-}を少し上げることができるわ。{n}{col:0}攻撃力{col:-}は少し下がるようだけど。{p}
+EN: {col:3}Acting Practice{col:-}. This mainly raises {col:0}Guts{col:-}, plus {col:0}Defense{col:-} and {col:0}Potential{col:-} a little. {col:0}Attack{col:-} seems to drop a little, though.{p}
+
+## MGC05 g6 s0039
+JP: {col:3}『衣装づくり』{col:-}ですね。{n}これは、{col:0}知力{col:-}を大きく上げることできるわ。{n}他に{col:0}根性{col:-}と{col:0}潜在能力{col:-}が少しずつ。{n}{col:0}体力{col:-}が少し多めに下がるけどね。{p}{end}
+EN: {col:3}Costume Making{col:-}. This raises {col:0}Smarts{col:-} a lot, plus {col:0}Guts{col:-} and {col:0}Potential{col:-} a little each. {col:0}Stamina{col:-} drops a bit more, though.{p}{end}
+
+## MGC05 g6 s0040
+JP: {col:3}『ストレッチ』{col:-}ですね。{n}この練習は、主に{col:0}防御力{col:-}を、他に{n}{col:0}攻撃力{col:-}と{col:0}根性{col:-}を少し上げることができるわ。{n}{col:0}潜在能力{col:-}は少し下がるけどね。{p}
+EN: {col:3}Stretching{col:-}. This mainly raises {col:0}Defense{col:-}, plus {col:0}Attack{col:-} and {col:0}Guts{col:-} a little. {col:0}Potential{col:-} drops a little, though.{p}
+
+## MGC05 g6 s0041
+JP: {col:3}『脚本読み』{col:-}ですね。{n}この練習は{col:0}潜在能力{col:-}を大きく、他に{n}{col:0}知力{col:-}も少し多めに上げることができるわ。{n}{col:0}防御力{col:-}と{col:0}根性{col:-}が少し下がるけどね。{p}{end}
+EN: {col:3}Script Reading{col:-}. This raises {col:0}Potential{col:-} a lot and {col:0}Smarts{col:-} a fair bit too. {col:0}Defense{col:-} and {col:0}Guts{col:-} drop a little, though.{p}{end}
+
+## MGC05 g6 s0042
+JP: {col:3}『薬品調合』{col:-}かね?{n}ふむ、これは{col:0}攻撃力{col:-}が大きく上がるな。{n}あとは、{col:0}知力{col:-}も少し上がる。{n}{col:0}体力{col:-}が少し下がるという副作用もある。{p}
+EN: {col:3}Mixing Chemicals{col:-}, is it? Hmm, this raises {col:0}Attack{col:-} a lot. {col:0}Smarts{col:-} goes up a little too. One side effect is that {col:0}Stamina{col:-} drops a little.{p}
+
+## MGC05 g6 s0043
+JP: {col:3}『合成実験』{col:-}かね?{n}ふむ、これは{col:0}防御力{col:-}が大きく上がるな。{n}{col:0}知力{col:-}も少し上がるようだな。{n}{col:0}根性{col:-}が少し下がるという副作用もある。{p}
+EN: {col:3}Synthesis{col:-}, is it? Hmm, this raises {col:0}Defense{col:-} a lot. {col:0}Smarts{col:-} seems to go up a little too. One side effect is that {col:0}Guts{col:-} drops a little.{p}
+
+## MGC05 g6 s0044
+JP: {col:3}『観察・分析』{col:-}かね?{n}ふむ、これは{col:0}体力{col:-}が大きく上がるぞ。{n}{col:0}根性{col:-}も少し上がるようだな。{n}{col:0}攻撃力{col:-}が少し下がるのはやむを得まい。{p}
+EN: {col:3}Observation & Analysis{col:-}, is it? Hmm, this raises {col:0}Stamina{col:-} a lot. {col:0}Guts{col:-} seems to rise a little too. A small drop in {col:0}Attack{col:-} can't be helped.{p}
+
+## MGC05 g6 s0045
+JP: {col:3}『人体実験』{col:-}かね?{n}ふむ、これは……何が上がるかわからんな。{n}いや、上がるか下がるかもわからん。{n}一種のバクチだな。{p}{end}
+EN: {col:3}Human Experiments{col:-}, is it? Hmm, no telling what this one raises. No, no telling if things go up or down at all. A gamble of sorts.{p}{end}
+
+## MGC05 g6 s0046
+JP: {col:3}『動物実験』{col:-}かね?{n}ふむ、これは{col:0}潜在能力{col:-}が大きく高まる。{n}あとは{col:0}根性{col:-}が少し上がるな。{n}かわりに{col:0}防御力{col:-}が少し下がるがな。{p}
+EN: {col:3}Animal Experiments{col:-}, is it? Hmm, this raises {col:0}Potential{col:-} a lot. {col:0}Guts{col:-} goes up a little too. In exchange, {col:0}Defense{col:-} drops a little.{p}
+
+## MGC05 g6 s0047
+JP: {col:3}『レポート』{col:-}かね?{n}ふむ、これは{col:0}知力{col:-}が大きく上がるな。{n}ついでに{col:0}根性{col:-}も少し高まる。{n}かわりに{col:0}潜在能力{col:-}が少し低下するようだ。{p}
+EN: {col:3}Lab Report{col:-}, is it? Hmm, this raises {col:0}Smarts{col:-} a lot. {col:0}Guts{col:-} gets a little boost too. In exchange, {col:0}Potential{col:-} seems to drop a little.{p}
+
+## MGC05 g6 s0048
+JP: {col:3}『カラオケ』{col:-}ね。{n}どのパラメータかはわからないけど、{n}自分の長所を、少しだけ確実に、{n}伸ばす効果があるわ。{p}
+EN: {col:3}Karaoke{col:-}. I can't say which stat, but it reliably raises one of your strengths a little.{p}
+
+## MGC05 g6 s0049
+JP: {col:3}『アルバイト』{col:-}ね。{n}これもどのパラメータかはわからないけど、{n}自分の短所を、少しだけ確実に、{n}おぎなう効果があるわ。{p}{end}
+EN: {col:3}Part-Time Job{col:-}. I can't say which stat this one either, but it reliably shores up one of your weaknesses a little.{p}{end}
+
+## MGC05 g6 s0050
+JP: {col:3}『ウィンドウショッピング』{col:-}ね。{n}これは自分の長所が大きく変化するわ。{n}増えるか減るかはわからないけど{n}うまくいけば大きくのびるわ。{p}
+EN: {col:3}Window Shopping{col:-}. This makes a big change to your strengths. It could go up or down, but if it goes well, it'll grow a lot.{p}
+
+## MGC05 g6 s0051
+JP: {col:3}『買い食い』{col:-}ね。{n}これは、自分の短所が大きく変化するわ。{n}増えるか減るかはわからないけど、{n}うまくいけば大きく伸びるわよ。{p}
+EN: {col:3}Snacking{col:-}. This makes a big change to your weaknesses. It could go up or down, but if it goes well, it'll grow a lot.{p}
+
+## MGC05 g6 s0052
+JP: {col:3}『ゲームセンター』{col:-}ね。{n}何が上がるワケじゃないけど、{n}全体的に少し上がるんじゃないかしら。{p}
+EN: {col:3}Arcade{col:-}. Nothing in particular goes up, but I'd say everything rises a little overall.{p}
+
+## MGC05 g6 s0053
+JP: {col:3}『昼寝』{col:-}ね。{n}これはまったく、{n}何にもかわらないわ。{n}ホントにおやすみね。{p}
+EN: {col:3}Nap{col:-}. This changes absolutely nothing. It really is just a rest.{p}
+

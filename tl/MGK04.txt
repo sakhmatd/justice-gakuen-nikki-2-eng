@@ -1,0 +1,1468 @@
+## MGK04 g0 s0000
+JP: {col:0}『熱血青春日記2』{col:-}へようこそ!{n}これから一年間よろしくね。{p}
+EN: Welcome to {col:0}Hot-Blooded Youth Diary 2{col:-}! Let's have a great year together.{p}
+
+## MGK04 g0 s0001
+JP: とりあえず、入学試験が始まるまで、{n}私が案内するわね。{p}
+EN: For now, I'll show you around until the entrance exam starts.{p}
+
+## MGK04 g0 s0002
+JP: 私?{n}私はクラス委員長よ。{n}委員長って呼んでね。{n}私のこと……知らないかな?{p}{end}
+EN: Me? I'm the class Chairperson. Just call me Chairperson. You don't... know who I am?{p}{end}
+
+## MGK04 g0 s0003
+JP: まぁいいわ。{n}このゲームについて、{n}何かわからないことがあったら{n}なんでも説明してあげるわよ。{p}
+EN: Oh, never mind. If there's anything about this game you don't get, I'll explain it.{p}
+
+## MGK04 g0 s0004
+JP: ゲームの目的{sp}{sp}{sp}{sp}操作方法{n}キャラの登録{sp}{sp}{sp}{sp}ゲームの流れ{n}キャラの成長{sp}{sp}{sp}{sp}委員長について{n}特にない{p}{end}
+EN: The goal{sp}{sp}{sp}{sp}{sp}{sp}Controls{n}Registering{sp}{sp}{sp}{sp}Game flow{n}Growth{sp}{sp}{sp}{sp}{sp}{sp}{sp}About you{n}That's all{p}{end}
+
+## MGK04 g0 s0005
+JP: あなた、そんなことも{n}知らずにここに来たの?{n}いいわ、説明してあげる。{p}
+EN: You came here without even knowing that? Fine, I'll explain.{p}
+
+## MGK04 g0 s0006
+JP: このゲームの目的は、高校入学から{n}2年生に進級するまでの1年間の{n}学生生活を通して、自分だけの{n}{col:0}EDITキャラクター{col:-}を作ることよ。{p}
+EN: The goal is to spend one year of high school, from enrollment until 2nd year, and make your very own {col:0}EDIT character{col:-}.{p}
+
+## MGK04 g0 s0007
+JP: ここで、作成したキャラクターは、{n}{col:0}『EDITキャラクターの登録』{col:-}で{n}登録すれば、各モードで{n}使用できるようになるわ。{p}{end}
+EN: Register the character you make here with {col:0}"Register EDIT Character"{col:-} and you can use it in every mode.{p}{end}
+
+## MGK04 g0 s0008
+JP: 登録自体は、ゲームの途中のデータでも{n}できるわよ。{n}最後までクリアする必要はないわ。{p}{end}
+EN: You can register it even with data from partway through. You don't have to finish the game.{p}{end}
+
+## MGK04 g0 s0009
+JP: ま……キャラクターの作成よりも、{n}純粋に学生生活を楽しむ人も{n}多いみたいね。{n}それは人それぞれだと思うわ。{p}
+EN: Then again... plenty of people just enjoy the school life instead of making a character. To each their own.{p}
+
+## MGK04 g0 s0010
+JP: ゲームの目的はこんなトコロね。{n}他に何か聞きたい?{p}
+EN: That's about it for the goal. Anything else you want to ask?{p}
+
+## MGK04 g0 s0011
+JP: 操作方法は基本的に、{n}方向キーでアイコン・選択肢の選択{n}{col:8}{CIRCLE}{col:-}・{col:8}{SQUARE}{col:-}・{col:9}{TRIANGLE}{col:-}・{col:10}{L1}{col:-}ボタンで決定{n}{col:9}{CROSS}{col:-}・{col:10}{L2}{col:-}ボタンでキャンセルね。{p}{end}
+EN: Basically, use the D-pad to pick icons and choices, {col:8}{CIRCLE}{col:-} {col:8}{SQUARE}{col:-} {col:9}{TRIANGLE}{col:-} {col:10}{L1}{col:-} to confirm, and {col:9}{CROSS}{col:-} {col:10}{L2}{col:-} to cancel.{p}{end}
+
+## MGK04 g0 s0012
+JP: メッセージをすすめるのも、{n}{col:8}{CIRCLE}{col:-}・{col:8}{SQUARE}{col:-}・{col:9}{TRIANGLE}{col:-}・{col:10}{L1}{col:-}ボタンよ。{n}あと、{col:9}{TRIANGLE}{col:-}ボタンで、次の選択肢まで{n}メッセージをとばすことができるわ。{p}
+EN: To advance messages, also use {col:8}{CIRCLE}{col:-} {col:8}{SQUARE}{col:-} {col:9}{TRIANGLE}{col:-} {col:10}{L1}{col:-}. The {col:9}{TRIANGLE}{col:-} button also skips messages up to the next choice.{p}
+
+## MGK04 g0 s0013
+JP: ミニゲームの操作法は、そのゲームの{n}{col:0}『操作説明』{col:-}を参考にしてね。{p}{end}
+EN: For minigame controls, see that game's {col:0}"Controls"{col:-} screen.{p}{end}
+
+## MGK04 g0 s0014
+JP: 操作方法はこんなトコロね。{n}他に何か聞きたい?{p}
+EN: That's about it for controls. Anything else you want to ask?{p}
+
+## MGK04 g0 s0015
+JP: キャラの登録についてね。{n}このあと、入学願書を書いてもらうけど、{n}これがキャラの登録の代わりになるわ。{p}
+EN: About registering your character. In a moment you'll fill out an application form, and that counts as registering.{p}
+
+## MGK04 g0 s0016
+JP: 名前や志望高校は問題ないわね?{n}今年から、ジャスティス学園への{n}一般入学が可能になったそうよ。{p}
+EN: Your name and the school you're applying to are easy, right? Starting this year, Justice High takes regular applicants too.{p}
+
+## MGK04 g0 s0017
+JP: その他の項目は、あなたの現在の能力を{n}判断するのに使わせてもらうわ。{n}誕生日、得意な科目、好きな言葉……。{p}
+EN: The other items are used to judge your current abilities. Your birthday, best subject, favorite word...{p}
+
+## MGK04 g0 s0018
+JP: 特に、好きな言葉は、{n}そのキャラクターのCPU時の性格にも{n}大きく影響を与えるから、{n}注意して選んでね。{p}{end}
+EN: Your favorite word in particular has a big effect on the character's personality when the CPU controls it, so choose carefully.{p}{end}
+
+## MGK04 g0 s0019
+JP: 入学願書を書いたら、{n}あとは顔写真の登録ね。{n}好きなパーツを選んで、{n}自分の顔にするといいわ。{p}
+EN: Once the form's done, all that's left is your photo. Pick the parts you like and make your own face.{p}
+
+## MGK04 g0 s0020
+JP: 髪型が気に入らなければ、{n}{col:0}セレクトボタン{col:-}で選択できるわよ。{p}
+EN: If you don't like the hairstyle, you can change it with the {col:0}SELECT button{col:-}.{p}
+
+## MGK04 g0 s0021
+JP: キャラの登録については{n}こんなトコロね。{n}他に聞きたいこと、ある?{p}
+EN: That's about it for registering. Anything else you want to ask?{p}
+
+## MGK04 g0 s0022
+JP: ゲームの流れね。{n}ゲームの期間は1年間だから、{n}それぞれの季節に応じて、{n}学校行事があるわ。{p}{end}
+EN: How the game flows. The game lasts one year, and each season has its own school events.{p}{end}
+
+## MGK04 g0 s0023
+JP: 定期試験や、臨海合宿、学園祭などね。{n}もちろん、クリスマスや初詣、{n}バレンタインデーやホワイトデーも{n}あるわよ。{p}{end}
+EN: Like regular exams, the Seaside Camp and the school festival. And of course there's Christmas, New Year's, Valentine's Day and White Day.{p}{end}
+
+## MGK04 g0 s0024
+JP: 月単位の話をすると、{n}まず月のはじめに、{n}クラブの特別練習があるわ。{n}これについてはあとで説明するけど。{p}{end}
+EN: Month by month, there's special club practice at the start of each month. I'll explain that later, though.{p}{end}
+
+## MGK04 g0 s0025
+JP: そして、月の半ばに、{n}今度は校内のいろんなトコロを{n}移動できる日があるの。{p}
+EN: Then, in the middle of the month, there's a day when you can move around to all sorts of places at school.{p}
+
+## MGK04 g0 s0026
+JP: 移動できる場所は、{col:0}教室{col:-}、{col:0}グラウンド{col:-}、{n}{col:0}屋上{col:-}、{col:0}体育館{col:-}、{col:0}保健室{col:-}の他に、{n}{col:0}部室棟{col:-}の6ヶ所ね。あ、月によっては、{n}移動できない場所もあるから注意してね。{p}{end}
+EN: You can go to the {col:0}Classroom{col:-}, {col:0}Field{col:-}, {col:0}Roof{col:-}, {col:0}Gym{col:-}, {col:0}Infirmary{col:-} and {col:0}Clubhouse{col:-}. Some months, you can't go to some of them.{p}{end}
+
+## MGK04 g0 s0027
+JP: あとは……さっきいった学校行事ね。{n}ゲームの流れについては{n}こんなトコロね。{n}他に何か聞きたい?{p}{end}
+EN: And then there are the school events I mentioned. That's about it for how the game flows. Anything else you want to ask?{p}{end}
+
+## MGK04 g0 s0028
+JP: キャラの成長についてね。{n}このゲームで、キャラを成長させるのは{n}基本的に{col:0}クラブ活動{col:-}ね。{p}
+EN: About growing your character. In this game, you mainly grow through {col:0}club activities{col:-}.{p}
+
+## MGK04 g0 s0029
+JP: クラブに所属していれば、{n}それだけで全体的にパラメータが、{n}成長していくわ。{p}{end}
+EN: Just being in a club raises your stats across the board.{p}{end}
+
+## MGK04 g0 s0030
+JP: また、月のはじめには、{n}各クラブ毎に{col:0}特別練習{col:-}の日が{n}設けられていて、特定のパラメータを{n}大きく伸ばすことができるわ。{p}{end}
+EN: Also, at the start of each month, every club holds a {col:0}special practice{col:-} day, where you can raise certain stats a lot.{p}{end}
+
+## MGK04 g0 s0031
+JP: このあたりについては、クラブ説明の時に、{n}また詳しく説明するわ。{n}入学式のあとに、クラブ説明が{n}あるはずよ。{p}{end}
+EN: I'll go over that in detail when the clubs are explained. There should be a club orientation after the entrance ceremony.{p}{end}
+
+## MGK04 g0 s0032
+JP: あと、成長させる方法として、{n}五輪祭や定期試験など、学校行事でも{n}能力が伸びるでしょうね。{n}いい成績を出せれば、だけど。{p}{end}
+EN: Your abilities can also grow at school events like the Gorin Festival and regular exams. If you do well, that is.{p}{end}
+
+## MGK04 g0 s0033
+JP: キャラの成長については、{n}こんなトコロね。{n}他に何か聞きたい?{p}
+EN: That's about it for growth. Anything else you want to ask?{p}
+
+## MGK04 g0 s0034
+JP: 私?{n}私は委員長よ。{n}ひなたさんの友達なんだけど。{n}ひなたさんのコトは知ってるわよね?{p}
+EN: Me? I'm the Chairperson. I'm a friend of Hinata-san's. You know Hinata-san, right?{p}
+
+## MGK04 g0 s0035
+JP: 私のことはどうでもいいわ。{n}他に聞きたいこと、ある?{p}{end}
+EN: Never mind me. Anything else you want to ask?{p}{end}
+
+## MGK04 g0 s0036
+JP: そう。それじゃ、そろそろ{n}入学試験が始まるみたいだから、{n}早めに入学願書を提出して、{n}試験会場に向かった方がいいわよ。{p}
+EN: I see. Well, the entrance exam's about to start, so you'd better hand in your application soon and head to the exam room.{p}
+
+## MGK04 g0 s0037
+JP: 入学試験は今年から筆記試験のハズよ。{n}実技試験は、期末試験と学年末試験だけ{n}みたいね。{p}
+EN: Starting this year, the entrance exam is supposed to be a written test. The practical exams are just the finals and the year-end exam.{p}
+
+## MGK04 g0 s0038
+JP: それじゃね。{n}また、入学式で会いましょう。{p}
+EN: See you, then. I'll see you at the entrance ceremony.{p}
+
+## MGK04 g0 s0039
+JP: それでは、{n}この学校に入学してもらうために{n}簡単な試験を行って{n}あなたの実力をみせてもらうわ。{p}
+EN: Now then, to get into this school, you'll take a simple exam and show me what you're capable of.{p}
+
+## MGK04 g0 s0040
+JP: 入学試験は筆記試験形式で、{n}問題が十問、次々と出題されるから、{n}正解だと思う答と{n}同じ記号のボタンを押してね。{p}
+EN: The entrance exam is written. Ten questions will come one after another. Press the button with the same symbol as the answer you think is right.{p}
+
+## MGK04 g0 s0041
+JP: 正解すると、正解の点数に加えて、{n}タイムボーナスがかけられるわ。{p}{end}
+EN: Each right answer gets you its points, plus a time bonus.{p}{end}
+
+## MGK04 g0 s0042
+JP: このタイムボーナスは{n}早く答えれば答えるほど{n}多くかけられるから{n}早く答えるように努力してね。{p}
+EN: The faster you answer, the bigger the time bonus, so try to answer quickly.{p}
+
+## MGK04 g0 s0043
+JP: しっかり勉強していれば答えられる{n}簡単な問題ばかりだから大丈夫よね。{p}{end}
+EN: They're all easy questions if you've studied properly, so you'll be fine, right?{p}{end}
+
+## MGK04 g0 s0044
+JP: それじゃあ始めるわよ。{p}
+EN: All right, let's begin.{p}
+
+## MGK04 g0 s0045
+JP: さすがね、{v1}{col:0}クン{col:-}。{p}
+EN: Impressive, {v1}{col:0}-kun{col:-}.{p}
+
+## MGK04 g0 s0046
+JP: 知識力は確かなようね。{n}感心したわ。{p}{end}
+EN: Your knowledge is solid. I'm impressed.{p}{end}
+
+## MGK04 g0 s0047
+JP: 一応、一般的な知識は持っているようね。{p}
+EN: Well, you seem to have the general knowledge, at least.{p}
+
+## MGK04 g0 s0048
+JP: 全然正解できていないじゃない!{n}ちゃんと勉強しているの?{p}{end}
+EN: You barely got any right! Are you even studying?{p}{end}
+
+## MGK04 g0 s0049
+JP: その上、{n}的確に素早く状況を判断して{n}正解しているし、すばらしいわ。{p}{end}
+EN: On top of that, you read each question quickly and accurately. Excellent.{p}{end}
+
+## MGK04 g0 s0050
+JP: 判断は素早くできているみたいね。{p}{end}
+EN: Your judgment seems quick enough.{p}{end}
+
+## MGK04 g0 s0051
+JP: もっと早く答えられないかしら。{n}あなたならできるはずよ。{p}{end}
+EN: Can't you answer any faster? I know you can.{p}{end}
+
+## MGK04 g0 s0052
+JP: もう胸を張って入学を許可できるわ。{n}これからの高校生活頑張ってね!{p}
+EN: I can admit you with pride. Good luck with your high school life!{p}
+
+## MGK04 g0 s0053
+JP: 入学を許可するけど、{n}これから伸びるか下がるかはあなた次第よ。{n}気を抜かずに頑張ってね。{p}{end}
+EN: You're admitted, but whether you improve or slip from here is up to you. Don't let your guard down.{p}{end}
+
+## MGK04 g0 s0054
+JP: 一応入学は許可するけれど、{n}この成績じゃこれからが少し心配ね。{p}
+EN: You're admitted, but with these grades, I'm a little worried about what comes next.{p}
+
+## MGK04 g0 s0055
+JP: 入学してからは気合を入れないと{n}落ちこぼれるわよ!{p}
+EN: Once you're in, you'll fall behind if you don't get fired up!{p}
+
+## MGK04 g0 s0056
+JP: そんな事になってほしくないから{n}勉強頑張ってね。{p}{end}
+EN: I don't want that to happen, so study hard.{p}{end}
+
+## MGK04 g1 s0045
+JP: さすがね、{v1}{col:0}さん{col:-}。{p}
+EN: Impressive, {v1}{col:0}-san{col:-}.{p}
+
+## MGK04 g2 s0000
+JP: 教室{p}{end}
+EN: Classroom{p}{end}
+
+## MGK04 g2 s0001
+JP: グラウンド{p}
+EN: Field{p}
+
+## MGK04 g2 s0002
+JP: 屋上{p}{end}
+EN: Roof{p}{end}
+
+## MGK04 g2 s0003
+JP: 体育館{p}
+EN: Gym{p}
+
+## MGK04 g2 s0004
+JP: 保健室{p}
+EN: Infirmary{p}
+
+## MGK04 g2 s0005
+JP: 君{p}
+EN: -kun{p}
+
+## MGK04 g2 s0006
+JP: クン{p}{end}
+EN: -kun{p}{end}
+
+## MGK04 g2 s0007
+JP: さん{p}{end}
+EN: -san{p}{end}
+
+## MGK04 g2 s0008
+JP: ちゃん{p}
+EN: -chan{p}
+
+## MGK04 g2 s0009
+JP: 太陽学園{p}{end}
+EN: Taiyo High{p}{end}
+
+## MGK04 g2 s0010
+JP: 五輪高校{p}{end}
+EN: Gorin High{p}{end}
+
+## MGK04 g2 s0011
+JP: パシフィックHS{p}{end}
+EN: Pacific High{p}{end}
+
+## MGK04 g2 s0012
+JP: 外道高校{p}{end}
+EN: Gedo High{p}{end}
+
+## MGK04 g2 s0013
+JP: ジャスティス学園{p}{end}
+EN: Justice High{p}{end}
+
+## MGK04 g2 s0014
+JP: 月を決めてください{n}{sp}1{sp}4{sp}710{n}{sp}2{sp}5{sp}811{n}{sp}3{sp}6{sp}912{p}{end}
+EN: Pick a month{n}{sp}1{sp}4{sp}7{sp}10{n}{sp}2{sp}5{sp}8{sp}11{n}{sp}3{sp}6{sp}9{sp}12{p}{end}
+
+## MGK04 g2 s0015
+JP: 日を決めてください{n}{sp}1{sp}4{sp}71013161922252831{n}{sp}2{sp}5{sp}811141720232629{n}{sp}3{sp}6{sp}912151821242730{p}{end}
+EN: Pick a day{n}{sp}1{sp}4{sp}7{sp}10{sp}13{sp}16{sp}19{sp}22{sp}25{sp}28{sp}31{n}{sp}2{sp}5{sp}8{sp}11{sp}14{sp}17{sp}20{sp}23{sp}26{sp}29{n}{sp}3{sp}6{sp}9{sp}12{sp}15{sp}18{sp}21{sp}24{sp}27{sp}30{p}{end}
+
+## MGK04 g2 s0016
+JP: 学校を決めてください{n}太陽学園{sp}{sp}{sp}{sp}{sp}{sp}外道{n}五輪高校{sp}{sp}{sp}{sp}{sp}{sp}ジャスティス{n}パシフィック{p}
+EN: Pick a school{n}Taiyo{sp}{sp}{sp}{sp}{sp}{sp}{sp}Gedo{n}Gorin{sp}{sp}{sp}{sp}{sp}{sp}{sp}Justice{n}Pacific{p}
+
+## MGK04 g2 s0017
+JP: 性別を決めてください?{n}男{n}女{p}
+EN: Pick a gender{n}Male{n}Female{p}
+
+## MGK04 g2 s0018
+JP: クラブを決めてください{n}野球部{sp}{sp}{sp}相撲部{sp}{sp}{sp}演劇部{n}バレー部{sp}{sp}美術部{sp}{sp}{sp}化学部{n}サッカー部{sp}吹奏楽部{sp}{sp}帰宅部{p}
+EN: Pick a club{n}Baseball{sp}{sp}Sumo{sp}{sp}{sp}{sp}Drama{n}Volleyball{sp}Art{sp}{sp}{sp}{sp}Chemistry{n}Soccer{sp}{sp}{sp}Brass Band{sp}Go-Home{p}
+
+## MGK04 g2 s0019
+JP: よろしいですか?{n}YES{n}NO{p}
+EN: Is that OK?{n}YES{n}NO{p}
+
+## MGK04 g2 s0020
+JP: CLEAR!{p}{end}
+EN: {x:a1ff}{x:a67f}{x:a2ff}{x:a0ff}{x:a97f}{x:90ff}{p}{end}
+
+## MGK04 g2 s0021
+JP: {sp}NO{sp}{sp}DATA{p}
+EN: =
+
+## MGK04 g2 s0022
+JP: DATA{sp}ERROR{p}{end}
+EN: =
+
+## MGK04 g2 s0023
+JP: {sp}{sp}月{sp}{sp}日{p}{end}
+EN: {sp}{sp}/{sp}{sp}{p}{end}
+
+## MGK04 g2 s0024
+JP: 部室棟{p}
+EN: Clubhouse{p}
+
+## MGK04 g2 s0025
+JP: {col:4}攻撃力{col:-}{p}
+EN: {col:4}Attack{col:-}{p}
+
+## MGK04 g2 s0026
+JP: {col:4}防御力{col:-}{p}
+EN: {col:4}Defense{col:-}{p}
+
+## MGK04 g2 s0027
+JP: {col:4}体力{col:-}{p}{end}
+EN: {col:4}Stamina{col:-}{p}{end}
+
+## MGK04 g2 s0028
+JP: {col:4}根性{col:-}{p}{end}
+EN: {col:4}Guts{col:-}{p}{end}
+
+## MGK04 g2 s0029
+JP: {col:4}潜在能力{col:-}{p}{end}
+EN: {col:4}Potential{col:-}{p}{end}
+
+## MGK04 g2 s0030
+JP: {col:4}スピード{col:-}{p}{end}
+EN: {col:4}Speed{col:-}{p}{end}
+
+## MGK04 g2 s0031
+JP: {col:4}パンチ{col:-}{p}
+EN: {col:4}Punch{col:-}{p}
+
+## MGK04 g2 s0032
+JP: {col:4}キック{col:-}{p}
+EN: {col:4}Kick{col:-}{p}
+
+## MGK04 g2 s0033
+JP: {col:4}知力{col:-}{p}{end}
+EN: {col:4}Smarts{col:-}{p}{end}
+
+## MGK04 g2 s0034
+JP: {col:4}攻撃力{col:-}が、{sp}{sp}上がった!!{p}
+EN: {col:4}Attack{col:-}    {sp}{sp}rose!!{p}
+
+## MGK04 g2 s0035
+JP: {col:4}防御力{col:-}が、{sp}{sp}上がった!!{p}
+EN: {col:4}Defense{col:-}  {sp}{sp}rose!!{p}
+
+## MGK04 g2 s0036
+JP: {col:4}体力{col:-}が、{sp}{sp}上がった!!{p}{end}
+EN: {col:4}Stamina{col:-}{sp}{sp}rose!!{p}{end}
+
+## MGK04 g2 s0037
+JP: {col:4}根性{col:-}が、{sp}{sp}上がった!!{p}{end}
+EN: {col:4}Guts{col:-}    {sp}{sp}rose!!{p}{end}
+
+## MGK04 g2 s0038
+JP: {col:4}潜在能力{col:-}が、{sp}{sp}上がった!!{p}{end}
+EN: {col:4}Potential{col:-}  {sp}{sp}rose!!{p}{end}
+
+## MGK04 g2 s0039
+JP: {col:4}スピード{col:-}が、{sp}{sp}上がった!!{p}{end}
+EN: {col:4}Speed{col:-}      {sp}{sp}rose!!{p}{end}
+
+## MGK04 g2 s0040
+JP: {col:4}パンチ{col:-}が、{sp}{sp}上がった!!{p}
+EN: {col:4}Punch{col:-}    {sp}{sp}rose!!{p}
+
+## MGK04 g2 s0041
+JP: {col:4}キック{col:-}が、{sp}{sp}上がった!!{p}
+EN: {col:4}Kick{col:-}      {sp}{sp}rose!!{p}
+
+## MGK04 g2 s0042
+JP: {col:4}知力{col:-}が、{sp}{sp}上がった!!{p}{end}
+EN: {col:4}Smarts{col:-}  {sp}{sp}rose!!{p}{end}
+
+## MGK04 g2 s0043
+JP: {col:4}攻撃力{col:-}が、{sp}{sp}下がった!!{p}
+EN: {col:4}Attack{col:-}    {sp}{sp}dropped!!{p}
+
+## MGK04 g2 s0044
+JP: {col:4}防御力{col:-}が、{sp}{sp}下がった!!{p}
+EN: {col:4}Defense{col:-}  {sp}{sp}dropped!!{p}
+
+## MGK04 g2 s0045
+JP: {col:4}体力{col:-}が、{sp}{sp}下がった!!{p}{end}
+EN: {col:4}Stamina{col:-}{sp}{sp}dropped!!{p}{end}
+
+## MGK04 g2 s0046
+JP: {col:4}根性{col:-}が、{sp}{sp}下がった!!{p}{end}
+EN: {col:4}Guts{col:-}    {sp}{sp}dropped!!{p}{end}
+
+## MGK04 g2 s0047
+JP: {col:4}潜在能力{col:-}が、{sp}{sp}下がった!!{p}{end}
+EN: {col:4}Potential{col:-}  {sp}{sp}dropped!!{p}{end}
+
+## MGK04 g2 s0048
+JP: {col:4}スピード{col:-}が、{sp}{sp}下がった!!{p}{end}
+EN: {col:4}Speed{col:-}      {sp}{sp}dropped!!{p}{end}
+
+## MGK04 g2 s0049
+JP: {col:4}パンチ{col:-}が、{sp}{sp}下がった!!{p}
+EN: {col:4}Punch{col:-}    {sp}{sp}dropped!!{p}
+
+## MGK04 g2 s0050
+JP: {col:4}キック{col:-}が、{sp}{sp}下がった!!{p}
+EN: {col:4}Kick{col:-}      {sp}{sp}dropped!!{p}
+
+## MGK04 g2 s0051
+JP: {col:4}知力{col:-}が、{sp}{sp}下がった!!{p}{end}
+EN: {col:4}Smarts{col:-}  {sp}{sp}dropped!!{p}{end}
+
+## MGK04 g2 s0052
+JP: {col:1}進める{col:-}{n}イベントを開始します。{p}
+EN: {col:1}Advance{col:-}{n}Start the event.{p}
+
+## MGK04 g2 s0053
+JP: {col:1}移動{col:-}{n}日程を進めます{p}{end}
+EN: {col:1}Move{col:-}{n}Advance the schedule.{p}{end}
+
+## MGK04 g2 s0054
+JP: {col:1}ステータス{col:-}{n}自分の情報、他のキャラの友好度と{n}愛情度を確認します。{p}
+EN: {col:1}Status{col:-}{n}Check your info and the friendship and love levels of other characters.{p}
+
+## MGK04 g2 s0055
+JP: {col:1}日記{col:-}{n}データの管理、メッセージスピードの{n}設定変更や、ミニゲームの練習などを{n}行います。{p}{end}
+EN: {col:1}Diary{col:-}{n}Manage data, change the message speed, practice minigames and more.{p}{end}
+
+## MGK04 g2 s0056
+JP: {col:1}バックアップ{col:-}{n}データのセーブ・ロードを行います。{p}{end}
+EN: {col:1}Backup{col:-}{n}Save or load your data.{p}{end}
+
+## MGK04 g2 s0057
+JP: {col:1}メッセージスピード{col:-}{n}メッセージの表示されるスピードを{n}変更します。{p}
+EN: {col:1}Text Speed{col:-}{n}Change how fast messages are shown.{p}
+
+## MGK04 g2 s0058
+JP: {col:1}クラブの練習{col:-}{n}五輪祭などでおこなう、ミニゲームの{n}練習ができます。{p}
+EN: {col:1}Club Practice{col:-}{n}Practice the minigames played at events like the Gorin Festival.{p}
+
+## MGK04 g2 s0059
+JP: {col:1}決戦!{sp}炎のスプリント{col:-}{n}ミニゲームの{n}{col:0}『決戦!{sp}炎のスプリント』{col:-}の練習を{n}おこないます。{p}{end}
+EN: {col:1}Showdown! Blazing Sprint{col:-}{n}Practice the minigame{n}{col:0}"Showdown! Blazing Sprint"{col:-}.{p}{end}
+
+## MGK04 g2 s0060
+JP: {col:1}Doki―Waku―Dance{col:-}{n}ミニゲームの{n}{col:0}『Doki―Waku―Dance』{col:-}の{n}練習をおこないます。{p}{end}
+EN: {col:1}Doki-Waku-Dance{col:-}{n}Practice the minigame{n}{col:0}"Doki-Waku-Dance"{col:-}.{p}{end}
+
+## MGK04 g2 s0061
+JP: {col:1}PK戦{col:-}{n}ミニゲームの{n}{col:0}『ロベルトのPK戦』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}PK Shootout{col:-}{n}Practice the minigame{n}{col:0}"Roberto's PK Shootout"{col:-}.{p}
+
+## MGK04 g2 s0062
+JP: {col:1}サービスエース{col:-}{n}ミニゲームの{n}{col:0}『夏のサービスエース』{col:-}の練習を{n}おこないます。{p}{end}
+EN: {col:1}Service Ace{col:-}{n}Practice the minigame{n}{col:0}"Natsu's Service Ace"{col:-}.{p}{end}
+
+## MGK04 g2 s0063
+JP: {col:1}ホームラン競争{col:-}{n}ミニゲームの{n}{col:0}『将馬のホームラン競争』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}Home Run Derby{col:-}{n}Practice the minigame{n}{col:0}"Shoma's Home Run Derby"{col:-}.{p}
+
+## MGK04 g2 s0064
+JP: {col:1}爆裂シュート{col:-}{n}ミニゲームの{n}{col:0}『ロベルトの爆裂シュート』{col:-}の練習を{n}おこないます。{p}
+EN: {col:1}Explosive Shot{col:-}{n}Practice the minigame{n}{col:0}"Roberto's Explosive Shot"{col:-}.{p}
+
+## MGK04 g2 s0065
+JP: {col:1}実技試験予習{col:-}{n}定期試験の練習を行うことができます。{p}
+EN: {col:1}Exam Prep{col:-}{n}Practice for the regular skill exams.{p}
+
+## MGK04 g2 s0066
+JP: {col:1}終了{col:-}{n}ゲームを終了します。{p}
+EN: {col:1}Quit{col:-}{n}Quit the game.{p}
+
+## MGK04 g2 s0067
+JP: {col:1}教室{col:-}{n}帰りがけの生徒や、遊んでる生徒の{n}多い場所です。{p}
+EN: {col:1}Classroom{col:-}{n}A place full of students heading home or hanging out.{p}
+
+## MGK04 g2 s0068
+JP: {col:1}グラウンド{col:-}{n}体育会系のクラブが主に{n}利用しています。{p}{end}
+EN: {col:1}Field{col:-}{n}Mostly used by the athletic clubs.{p}{end}
+
+## MGK04 g2 s0069
+JP: {col:1}屋上{col:-}{n}景色がいいので、ヒマつぶしに{n}来ている生徒も多いようです。{p}{end}
+EN: {col:1}Roof{col:-}{n}It has a nice view, so lots of students come here to kill time.{p}{end}
+
+## MGK04 g2 s0070
+JP: {col:1}体育館{col:-}{n}クラブが利用していることが多いです。{p}{end}
+EN: {col:1}Gym{col:-}{n}Often used by the clubs.{p}{end}
+
+## MGK04 g2 s0071
+JP: {col:1}保健室{col:-}{n}校内唯一の安らぎの場。{n}ベッドを求めて体を休めにくる生徒も{n}います。{p}{end}
+EN: {col:1}Infirmary{col:-}{n}The only place of peace at school. Some students come here looking for a bed to rest in.{p}{end}
+
+## MGK04 g2 s0072
+JP: {col:1}部室棟{col:-}{n}体育会系・文化系の{n}各クラブの部室があります。{n}クラブ前や練習後の生徒がよくいます。{p}{end}
+EN: {col:1}Clubhouse{col:-}{n}Home to the rooms of all the sports and culture clubs. Students often hang around before and after practice.{p}{end}
+
+## MGK04 g2 s0073
+JP: 誰にしますか{n}バツ{sp}将馬{sp}ロイ{sp}エッ{sp}英雄{sp}隼人{sp}ラン{n}ひな{sp}夏{sp}{sp}ティ{sp}アキ{sp}響子{sp}醍醐{n}恭介{sp}ロベ{sp}ボー{sp}岩{sp}{sp}雹{sp}{sp}流{p}{end}
+EN: Who?{n}Bats{sp}Shom{sp}Roy{sp}Edge{sp}Hide{sp}Haya{sp}Ran{n}Hina{sp}Nats{sp}Tiff{sp}Akir{sp}Kyok{sp}Daig{n}Kyos{sp}Robe{sp}Boma{sp}Gan{sp}Hyo{sp}Naga{p}{end}
+
+## MGK04 g2 s0074
+JP: どのイベントですか{n}突発1{sp}誕生1{n}突発2{sp}誕生2{n}突発3{p}
+EN: Which event?{n}Rand1{sp}Bday1{n}Rand2{sp}Bday2{n}Rand3{p}
+
+## MGK04 g2 s0075
+JP: バツ{p}{end}
+EN: Batsu{p}{end}
+
+## MGK04 g2 s0076
+JP: ひなた{p}
+EN: Hinata{p}
+
+## MGK04 g2 s0077
+JP: 恭介{p}{end}
+EN: Kyosuke{p}{end}
+
+## MGK04 g2 s0078
+JP: 将馬{p}{end}
+EN: Shoma{p}{end}
+
+## MGK04 g2 s0079
+JP: 夏{p}
+EN: Natsu{p}
+
+## MGK04 g2 s0080
+JP: ロベルト{p}{end}
+EN: Roberto{p}{end}
+
+## MGK04 g2 s0081
+JP: ロイ{p}{end}
+EN: Roy{p}{end}
+
+## MGK04 g2 s0082
+JP: ティファニー{p}{end}
+EN: Tiffany{p}{end}
+
+## MGK04 g2 s0083
+JP: ボーマン{p}{end}
+EN: Boman{p}{end}
+
+## MGK04 g2 s0084
+JP: エッジ{p}
+EN: Edge{p}
+
+## MGK04 g2 s0085
+JP: アキラ{p}
+EN: Akira{p}
+
+## MGK04 g2 s0086
+JP: 岩{p}
+EN: Gan{p}
+
+## MGK04 g2 s0087
+JP: 英雄{p}{end}
+EN: Hideo{p}{end}
+
+## MGK04 g2 s0088
+JP: 響子{p}{end}
+EN: Kyoko{p}{end}
+
+## MGK04 g2 s0089
+JP: 雷蔵{p}{end}
+EN: Raizo{p}{end}
+
+## MGK04 g2 s0090
+JP: 雹{p}
+EN: Hyo{p}
+
+## MGK04 g2 s0091
+JP: 隼人{p}{end}
+EN: Hayato{p}{end}
+
+## MGK04 g2 s0092
+JP: 醍醐{p}{end}
+EN: Daigo{p}{end}
+
+## MGK04 g2 s0093
+JP: 流{p}
+EN: Nagare{p}
+
+## MGK04 g2 s0094
+JP: ラン{p}{end}
+EN: Ran{p}{end}
+
+## MGK04 g2 s0095
+JP: あきら{p}
+EN: Akira{p}
+
+## MGK04 g2 s0096
+JP: サクラ{p}
+EN: Sakura{p}
+
+## MGK04 g2 s0097
+JP: 委員長{p}
+EN: Chairperson{p}
+
+## MGK04 g2 s0098
+JP: 修一{p}{end}
+EN: Shuichi{p}{end}
+
+## MGK04 g2 s0099
+JP: 光太郎{p}
+EN: Kotaro{p}
+
+## MGK04 g2 s0100
+JP: まり{p}{end}
+EN: Mari{p}{end}
+
+## MGK04 g2 s0101
+JP: 金山{p}{end}
+EN: Kanayama{p}{end}
+
+## MGK04 g2 s0102
+JP: こずえ{p}
+EN: Kozue{p}
+
+## MGK04 g2 s0103
+JP: 静音{p}{end}
+EN: Shizune{p}{end}
+
+## MGK04 g2 s0104
+JP: 小百合{p}
+EN: Sayuri{p}
+
+## MGK04 g2 s0105
+JP: ハカセ{p}
+EN: Hakase{p}
+
+## MGK04 g2 s0106
+JP: 喫茶店へ行く{p}{end}
+EN: Cafe{p}{end}
+
+## MGK04 g2 s0107
+JP: グラウンドへ行く{p}{end}
+EN: Field{p}{end}
+
+## MGK04 g2 s0108
+JP: 屋台村へ行く{p}{end}
+EN: Food stalls{p}{end}
+
+## MGK04 g2 s0109
+JP: 演劇を見に行く{p}
+EN: The play{p}
+
+## MGK04 g2 s0110
+JP: 腕相撲大会へ行く{p}{end}
+EN: Arm wrestling{p}{end}
+
+## MGK04 g2 s0111
+JP: お化け屋敷へ行く{p}{end}
+EN: Haunted house{p}{end}
+
+## MGK04 g2 s0112
+JP: 生徒会室へ行く{p}
+EN: Council room{p}
+
+## MGK04 g2 s0113
+JP: {col:0}『愛用の赤グローブ』{col:-}{n}バツがくれた、試験を手伝ったお礼。{n}攻撃力{sp}大幅UP!{p}{end}
+EN: {col:0}"Favorite Red Gloves"{col:-}{n}Batsu's thanks for help with the exam.{n}Attack way up!{p}{end}
+
+## MGK04 g2 s0114
+JP: {col:0}『缶コーヒー』{col:-}{n}バツの、バイトを手伝ったお礼。{n}潜在能力{sp}大幅UP!{p}{end}
+EN: {col:0}"Canned Coffee"{col:-}{n}Batsu's thanks for helping at his job.{n}Potential way up!{p}{end}
+
+## MGK04 g2 s0115
+JP: {col:0}『忍び道具・風車』{col:-}{n}バツがくれた誕生日プレゼント。{n}攻撃力{sp}大幅UP!{p}
+EN: {col:0}"Ninja Tool: Pinwheel"{col:-}{n}A birthday present from Batsu.{n}Attack way up!{p}
+
+## MGK04 g2 s0116
+JP: {col:0}『山盛りのおかし』{col:-}{n}ひなたに、勝負で勝った賞品。{n}体力{sp}大幅UP!{p}
+EN: {col:0}"Mountain of Snacks"{col:-}{n}Prize for beating Hinata in a contest.{n}Stamina way up!{p}
+
+## MGK04 g2 s0117
+JP: {col:0}『手作り蜜漬けレモン』{col:-}{n}ひなたの手作り。とても甘い。{n}根性{sp}大幅UP!{p}
+EN: {col:0}"Homemade Honey Lemons"{col:-}{n}Made by Hinata. Very sweet.{n}Guts way up!{p}
+
+## MGK04 g2 s0118
+JP: {col:0}『ひなたとおそろいのシューズ』{col:-}{n}ひなたがくれた誕生日プレゼント。{n}攻撃力{sp}大幅UP!{p}{end}
+EN: {col:0}"Shoes Matching Hinata's"{col:-}{n}A birthday present from Hinata.{n}Attack way up!{p}{end}
+
+## MGK04 g2 s0119
+JP: {col:0}『詰め将棋テキスト』{col:-}{n}恭介のくれた、詰め将棋のテキスト。{n}知力{sp}大幅UP!{p}
+EN: {col:0}"Shogi Puzzle Book"{col:-}{n}A book of shogi puzzles from Kyosuke.{n}Smarts way up!{p}
+
+## MGK04 g2 s0120
+JP: {col:0}『おそろいの白ラン』{col:-}{n}恭介のくれた、看病のお礼。{n}防御力{sp}大幅UP!{p}{end}
+EN: {col:0}"Matching White Uniform"{col:-}{n}Kyosuke's thanks for nursing him.{n}Defense way up!{p}{end}
+
+## MGK04 g2 s0121
+JP: {col:0}『誕生花の花束』{col:-}{n}恭介がくれた誕生日プレゼント。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Birth Flower Bouquet"{col:-}{n}A birthday present from Kyosuke.{n}Potential way up!{p}
+
+## MGK04 g2 s0122
+JP: {col:0}『プロテイン』{col:-}{n}将馬のトレーニング後の必需品。{n}攻撃力{sp}大幅UP!{p}
+EN: {col:0}"Protein"{col:-}{n}Shoma's must-have after training.{n}Attack way up!{p}
+
+## MGK04 g2 s0123
+JP: {col:0}『修一のグローブ』{col:-}{n}将馬の、部室掃除を手伝ったお礼。{n}防御力{sp}大幅UP!{p}{end}
+EN: {col:0}"Shuichi's Glove"{col:-}{n}Shoma's thanks for clubroom cleaning.{n}Defense way up!{p}{end}
+
+## MGK04 g2 s0124
+JP: {col:0}『将馬のサインボール』{col:-}{n}将馬がくれた誕生日プレゼント。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Shoma's Signed Ball"{col:-}{n}A birthday present from Shoma.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0125
+JP: {col:0}『スポーツタオル』{col:-}{n}夏の、モップ掛けを手伝ったお礼。{n}防御力{sp}大幅UP!{p}{end}
+EN: {col:0}"Sports Towel"{col:-}{n}Natsu's thanks for helping her mop.{n}Defense way up!{p}{end}
+
+## MGK04 g2 s0126
+JP: {col:0}『夏の手作り弁当』{col:-}{n}夏が作ってくれたお弁当。{n}体力{sp}大幅UP!{p}
+EN: {col:0}"Natsu's Homemade Lunch"{col:-}{n}A lunch Natsu made for you.{n}Stamina way up!{p}
+
+## MGK04 g2 s0127
+JP: {col:0}『夏からの手紙』{col:-}{n}夏がくれた誕生日プレゼント。{n}知力{sp}大幅UP!{p}{end}
+EN: {col:0}"Letter from Natsu"{col:-}{n}A birthday present from Natsu.{n}Smarts way up!{p}{end}
+
+## MGK04 g2 s0128
+JP: {col:0}『ブラジル風ハンバーガー』{col:-}{n}ロベルトがおごってくれたハンバーガー。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Brazilian Burger"{col:-}{n}A burger Roberto treated you to.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0129
+JP: {col:0}『サッカーシューズ』{col:-}{n}ロベルトの練習につき合ったお礼。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Soccer Cleats"{col:-}{n}Thanks for helping Roberto practice.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0130
+JP: {col:0}『ロベルトのサンバイザー』{col:-}{n}ロベルトがくれた誕生日プレゼント。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Roberto's Sun Visor"{col:-}{n}A birthday present from Roberto.{n}Defense way up!{p}
+
+## MGK04 g2 s0131
+JP: {col:0}『アボガド』{col:-}{n}ロイの、お気に入りのアメリカンフード。{n}体力{sp}大幅UP!{p}
+EN: {col:0}"Avocado"{col:-}{n}Roy's favorite American food.{n}Stamina way up!{p}
+
+## MGK04 g2 s0132
+JP: {col:0}『ロイのピアス』{col:-}{n}ロイの気持ち。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Roy's Earrings"{col:-}{n}Roy's feelings for you.{n}Potential way up!{p}
+
+## MGK04 g2 s0133
+JP: {col:0}『男性用ブリーフ』{col:-}{n}ロイがくれた誕生日プレゼント。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Men's Briefs"{col:-}{n}A birthday present from Roy.{n}Defense way up!{p}
+
+## MGK04 g2 s0134
+JP: {col:0}『ティファニーのシールプリント写真』{col:-}{n}ティファニーとのゲームセンターの記念。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Tiffany's Photo Stickers"{col:-}{n}A memento of the arcade with Tiffany.{n}Potential way up!{p}
+
+## MGK04 g2 s0135
+JP: {col:0}『ティファニーの子犬』{col:-}{n}ティファニーがみつけた捨て犬。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Tiffany's Puppy"{col:-}{n}A stray dog Tiffany found.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0136
+JP: {col:0}『星印のバンダナ』{col:-}{n}ティファニーがくれた誕生日プレゼント。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Star Bandana"{col:-}{n}A birthday present from Tiffany.{n}Defense way up!{p}
+
+## MGK04 g2 s0137
+JP: {col:0}『ミニ募金箱』{col:-}{n}ボーマンの、募金箱作りを手伝ったお礼。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Mini Charity Box"{col:-}{n}Thanks for helping Boman make charity boxes.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0138
+JP: {col:0}『讃美歌のテープ』{col:-}{n}ボーマンがくれた、賛美歌の練習用テープ。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Hymn Tape"{col:-}{n}A hymn practice tape from Boman.{n}Potential way up!{p}
+
+## MGK04 g2 s0139
+JP: {col:0}『スタミナスープ』{col:-}{n}ボーマンがくれた誕生日プレゼント。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Stamina Soup"{col:-}{n}A birthday present from Boman.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0140
+JP: {col:0}『飛び出しナイフ型のクシ』{col:-}{n}エッジの定期券を拾ったお礼。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Switchblade Comb"{col:-}{n}Thanks for finding Edge's train pass.{n}Potential way up!{p}
+
+## MGK04 g2 s0141
+JP: {col:0}『エッジのナイフ』{col:-}{n}エッジのやきそばパンのお礼。{n}攻撃力{sp}大幅UP!{p}{end}
+EN: {col:0}"Edge's Knife"{col:-}{n}Edge's thanks for the yakisoba bun.{n}Attack way up!{p}{end}
+
+## MGK04 g2 s0142
+JP: {col:0}『気合ハチマキ』{col:-}{n}エッジがくれた誕生日プレゼント。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Fighting Spirit Headband"{col:-}{n}A birthday present from Edge.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0143
+JP: {col:0}『ロックマン印の絆創膏』{col:-}{n}アキラがしてくれた、キズの手当。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Mega Man Bandage"{col:-}{n}Akira patched up your cut.{n}Defense way up!{p}
+
+## MGK04 g2 s0144
+JP: {col:0}『ヘルメット』{col:-}{n}アキラがくれた、二人乗り用のヘルメット。{n}防御力{sp}大幅UP!{p}{end}
+EN: {col:0}"Helmet"{col:-}{n}A passenger helmet from Akira.{n}Defense way up!{p}{end}
+
+## MGK04 g2 s0145
+JP: {col:0}『迷彩柄のハンカチ』{col:-}{n}アキラがくれた誕生日プレゼント。{n}潜在能力{sp}大幅UP!{p}{end}
+EN: {col:0}"Camo Handkerchief"{col:-}{n}A birthday present from Akira.{n}Potential way up!{p}{end}
+
+## MGK04 g2 s0146
+JP: {col:0}『補習用テキスト』{col:-}{n}岩の、迷惑をかけたお詫び。{n}知力{sp}大幅UP!{p}{end}
+EN: {col:0}"Remedial Textbook"{col:-}{n}Gan's apology for the trouble.{n}Smarts way up!{p}{end}
+
+## MGK04 g2 s0147
+JP: {col:0}『岩の腹巻き』{col:-}{n}岩と昼飯をつき合った時のお礼。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Gan's Belly Warmer"{col:-}{n}Thanks for having lunch with Gan.{n}Defense way up!{p}
+
+## MGK04 g2 s0148
+JP: {col:0}『岩特製ふりかけ』{col:-}{n}岩がくれた誕生日プレゼント。{n}体力{sp}大幅UP!{p}
+EN: {col:0}"Gan's Special Furikake"{col:-}{n}A birthday present from Gan.{n}Stamina way up!{p}
+
+## MGK04 g2 s0149
+JP: {col:0}『響子先生宛てのラブレター』{col:-}{n}英雄先生の、秘めた想い。{n}潜在能力{sp}大幅UP!{p}{end}
+EN: {col:0}"Love Letter to Kyoko-sensei"{col:-}{n}Hideo-sensei's secret feelings.{n}Potential way up!{p}{end}
+
+## MGK04 g2 s0150
+JP: {col:0}『島津流料理皆伝の書』{col:-}{n}英雄先生がくれた料理の本。{n}知力{sp}大幅UP!{p}{end}
+EN: {col:0}"Shimazu-Style Cookbook"{col:-}{n}A cookbook from Hideo-sensei.{n}Smarts way up!{p}{end}
+
+## MGK04 g2 s0151
+JP: {col:0}『島津流恋愛術秘伝の書』{col:-}{n}英雄先生がくれた誕生日プレゼント。{n}知力{sp}大幅UP!{p}
+EN: {col:0}"Shimazu-Style Secret Love Manual"{col:-}{n}A birthday present from Hideo-sensei.{n}Smarts way up!{p}
+
+## MGK04 g2 s0152
+JP: {col:0}『健康優良児証明書』{col:-}{n}響子先生がくれた、健康の証明。{n}体力{sp}大幅UP!{p}
+EN: {col:0}"Certificate of Health"{col:-}{n}Kyoko-sensei's proof you're healthy.{n}Stamina way up!{p}
+
+## MGK04 g2 s0153
+JP: {col:0}『響子の初恋の思い出』{col:-}{n}響子先生が吹っ切った、過去の思い出。{n}潜在能力{sp}大幅UP!{p}
+EN: {col:0}"Kyoko's First Love"{col:-}{n}A memory Kyoko-sensei finally let go of.{n}Potential way up!{p}
+
+## MGK04 g2 s0154
+JP: {col:0}『携帯ツボ押し機』{col:-}{n}響子先生がくれた誕生日プレゼント。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Pocket Acupressure Tool"{col:-}{n}A birthday present from Kyoko-sensei.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0155
+JP: {col:0}『雹の期待』{col:-}{n}雹の、将来の補佐役としての期待。{n}潜在能力{sp}大幅UP!{p}{end}
+EN: {col:0}"Hyo's Expectations"{col:-}{n}Hyo's hopes for his future right hand.{n}Potential way up!{p}{end}
+
+## MGK04 g2 s0156
+JP: {col:0}『スペシャルAの制服』{col:-}{n}雹の心を支える者の証。{n}知力{sp}大幅UP!{p}{end}
+EN: {col:0}"Special A Uniform"{col:-}{n}Proof that you are Hyo's support.{n}Smarts way up!{p}{end}
+
+## MGK04 g2 s0157
+JP: {col:0}『白い手袋』{col:-}{n}雹がくれた誕生日プレゼント。{n}攻撃力{sp}大幅UP!{p}
+EN: {col:0}"White Gloves"{col:-}{n}A birthday present from Hyo.{n}Attack way up!{p}
+
+## MGK04 g2 s0158
+JP: {col:0}『牛丼特盛り卵付き』{col:-}{n}隼人に、ランニング勝負で勝ったご褒美。{n}根性{sp}大幅UP!{p}
+EN: {col:0}"Jumbo Beef Bowl with Egg"{col:-}{n}Your prize for outrunning Hayato-sensei.{n}Guts way up!{p}
+
+## MGK04 g2 s0159
+JP: {col:0}『熱血ホイッスル』{col:-}{n}隼人に勝利した証。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Hot-Blooded Whistle"{col:-}{n}Proof you beat Hayato-sensei.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0160
+JP: {col:0}『熱血ランニング』{col:-}{n}隼人がくれた誕生日プレゼント。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Hot-Blooded Tank Top"{col:-}{n}A birthday present from Hayato-sensei.{n}Defense way up!{p}
+
+## MGK04 g2 s0161
+JP: {col:0}『男の生き方指南』{col:-}{n}醍醐の、男の生き方。{n}攻撃力{sp}大幅UP!{p}{end}
+EN: {col:0}"Guide to Manhood"{col:-}{n}Daigo's way of living as a man.{n}Attack way up!{p}{end}
+
+## MGK04 g2 s0162
+JP: {col:0}『醍醐の学ラン』{col:-}{n}醍醐が男と認めた証。{n}防御力{sp}大幅UP!{p}
+EN: {col:0}"Daigo's School Coat"{col:-}{n}Proof Daigo sees you as a real man.{n}Defense way up!{p}
+
+## MGK04 g2 s0163
+JP: {col:0}『男の十ヶ条』{col:-}{n}醍醐がくれた誕生日プレゼント。{n}根性{sp}大幅UP!{p}{end}
+EN: {col:0}"Ten Rules of Manhood"{col:-}{n}A birthday present from Daigo.{n}Guts way up!{p}{end}
+
+## MGK04 g2 s0164
+JP: {col:0}『流のセーム』{col:-}{n}流の買い物を手伝ったお礼。{n}潜在能力{sp}大幅UP!{p}{end}
+EN: {col:0}"Nagare's Swim Towel"{col:-}{n}Thanks for helping Nagare shop.{n}Potential way up!{p}{end}
+
+## MGK04 g2 s0165
+JP: {col:0}『水中メガネ』{col:-}{n}流が水難防止のお守りにくれたメガネ。{n}防御力{sp}大幅UP!{p}{end}
+EN: {col:0}"Swim Goggles"{col:-}{n}Nagare's lucky charm against drowning.{n}Defense way up!{p}{end}
+
+## MGK04 g2 s0166
+JP: {col:0}『シュノーケル』{col:-}{n}流がくれた誕生日プレゼント。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Snorkel"{col:-}{n}A birthday present from Nagare.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0167
+JP: {col:0}『ヒナ救出の写真』{col:-}{n}ランが撮った、決定的瞬間。{n}体力{sp}大幅UP!{p}{end}
+EN: {col:0}"Chick Rescue Photo"{col:-}{n}Ran's shot of the big moment.{n}Stamina way up!{p}{end}
+
+## MGK04 g2 s0168
+JP: {col:0}『ラン特別製アルバム』{col:-}{n}ランが撮った、自分の写真のアルバム。{n}根性{sp}大幅UP!{p}
+EN: {col:0}"Ran's Special Album"{col:-}{n}An album of Ran's photos of you.{n}Guts way up!{p}
+
+## MGK04 g2 s0169
+JP: {col:0}『入学式のスナップ写真』{col:-}{n}ランが撮った、入学式の写真。{n}知力{sp}大幅UP!{p}{end}
+EN: {col:0}"Entrance Ceremony Snapshot"{col:-}{n}Ran's photo of the entrance ceremony.{n}Smarts way up!{p}{end}
+
+## MGK04 g3 s0000
+JP: {col:1}{mm}月{dd}日{col:-}{n}授業も終わったし、特に予定もない。{n}少し校内をブラブラしてみよう。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Classes are over and I have no plans. I'll wander around school a bit.{p}{end}
+
+## MGK04 g3 s0003
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐ夏休みだ。{n}授業も終わったし、特に予定もない。{n}少し校内をブラブラしてみよう。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Summer break is almost here. Classes are over and I have no plans. I'll wander around school a bit.{p}{end}
+
+## MGK04 g3 s0004
+JP: {col:1}{mm}月{dd}日{col:-}{n}夏休み中だが、ちょっと学校に来てみた。{n}せっかくだから、しばらく校内を{n}ブラブラしてみよう。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}It's summer break, but I came to school anyway. Since I'm here, I'll wander around a while.{p}
+
+## MGK04 g3 s0005
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐ学園祭だ。{n}授業も終わったし、特に予定もない。{n}少し校内をブラブラしてみよう。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}The school festival is almost here. Classes are over and I have no plans. I'll wander around school a bit.{p}{end}
+
+## MGK04 g3 s0008
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐクリスマスだ。{n}授業も終わったし、特に予定もない。{n}少し校内をブラブラしてみよう。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Christmas is almost here. Classes are over and I have no plans. I'll wander around school a bit.{p}{end}
+
+## MGK04 g3 s0011
+JP: どこへいこうか?{p}{end}
+EN: Where should I go?{p}{end}
+
+## MGK04 g3 s0012
+JP: 教室に残っていよう。{p}{end}
+EN: I'll stay in the classroom.{p}{end}
+
+## MGK04 g3 s0013
+JP: グラウンドに行ってみよう。{p}
+EN: I'll check out the field.{p}
+
+## MGK04 g3 s0014
+JP: 屋上に上ってみようか。{p}
+EN: Maybe I'll go up to the roof.{p}
+
+## MGK04 g3 s0015
+JP: 体育館に行ってみよう。{p}
+EN: I'll check out the gym.{p}
+
+## MGK04 g3 s0016
+JP: 保健室にでも行ってみるか。{p}
+EN: Maybe I'll drop by the infirmary.{p}
+
+## MGK04 g3 s0017
+JP: 教室にもどってみるか。{p}
+EN: Maybe I'll head back to the classroom.{p}
+
+## MGK04 g3 s0018
+JP: {col:1}{mm}月{dd}日{col:-}{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{p}{end}
+
+## MGK04 g3 s0020
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は1学期の中間試験の日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the first-term midterm exam.{p}{end}
+
+## MGK04 g3 s0021
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は太陽学園と{n}パシフィックHSでは太P戦が、{n}五輪高校では五輪高新人戦がある。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today Taiyo High and Pacific High have the Taiyo-Pacific Match, and Gorin High has its Rookie Meet.{p}{end}
+
+## MGK04 g3 s0022
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は1学期の期末試験の日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the first-term final exam.{p}{end}
+
+## MGK04 g3 s0023
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日から一泊二日、臨海合宿がある。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}The overnight Seaside Camp starts today.{p}{end}
+
+## MGK04 g3 s0024
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は学園祭だ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the school festival.{p}
+
+## MGK04 g3 s0025
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は2学期の中間試験の日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the second-term midterm exam.{p}{end}
+
+## MGK04 g3 s0026
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は五輪祭の日だ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the Gorin Festival.{p}
+
+## MGK04 g3 s0027
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は2学期の期末試験の日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the second-term final exam.{p}{end}
+
+## MGK04 g3 s0028
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日はクリスマス・イブだ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is Christmas Eve.{p}{end}
+
+## MGK04 g3 s0029
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は元旦、新しい年の始まりだ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}It's New Year's Day, the start of a new year.{p}
+
+## MGK04 g3 s0030
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日はバレンタインデーだ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is Valentine's Day.{p}{end}
+
+## MGK04 g3 s0031
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は学年末試験の日だ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the year-end exam.{p}
+
+## MGK04 g3 s0032
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は進級試験の日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the promotion exam.{p}{end}
+
+## MGK04 g3 s0033
+JP: {col:1}{mm}月{dd}日{col:-}{n}長かった一年も終わり、今日は終業式だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}The long year is over. Today is the closing ceremony.{p}{end}
+
+## MGK04 g3 s0034
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、春の遠足だ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the spring field trip.{p}
+
+## MGK04 g3 s0035
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、7月最後の土曜日だ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the last Saturday in July.{p}
+
+## MGK04 g3 s0036
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日はホワイトデーだ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is White Day.{p}{end}
+
+## MGK04 g3 s0037
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、夏休み最後の土曜日だ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today is the last Saturday of summer break.{p}{end}
+
+## MGK04 g4 s0000
+JP: {col:1}{mm}月{dd}日{col:-}{n}授業終了。今日は特に予定もないし、{n}少し校内をブラブラしてみようかな。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Classes are done. No plans today, so maybe I'll wander around school a bit.{p}{end}
+
+## MGK04 g4 s0003
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐ夏休みだわ。{n}授業は終わったけど、特に予定もないし、{n}少し校内をブラブラしてみようかな。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Summer break is almost here. Classes are done and I have no plans, so maybe I'll wander around school a bit.{p}
+
+## MGK04 g4 s0004
+JP: {col:1}{mm}月{dd}日{col:-}{n}夏休み中だけど、ちょっと学校に来てみた。{n}せっかくだし、もう少し校内を{n}ブラブラしてみよう。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}It's summer break, but I came to school anyway. Since I'm here, I'll wander around a little longer.{p}
+
+## MGK04 g4 s0005
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐ学園祭ね。{n}授業は終わったけど、特に予定もないし、{n}少し校内をブラブラしてみようかな。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}The school festival is coming up. Classes are done and I have no plans, so maybe I'll wander around school a bit.{p}{end}
+
+## MGK04 g4 s0008
+JP: {col:1}{mm}月{dd}日{col:-}{n}もうすぐクリスマス。{n}授業は終わったけど、特に予定もないし、{n}少し校内をブラブラしてみようかな。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Christmas is coming up. Classes are done and I have no plans, so maybe I'll wander around school a bit.{p}
+
+## MGK04 g4 s0011
+JP: どこへいこうかな?{p}
+EN: Where should I go, hmm?{p}
+
+## MGK04 g4 s0012
+JP: 教室に残ってようっと。{p}
+EN: I'll just stay in the classroom.{p}
+
+## MGK04 g4 s0013
+JP: グラウンドに行ってみようかな。{p}
+EN: Maybe I'll check out the field.{p}
+
+## MGK04 g4 s0014
+JP: 屋上に上ってみようかな。{p}{end}
+EN: Maybe I'll go up to the roof.{p}{end}
+
+## MGK04 g4 s0015
+JP: 体育館に行ってみよっと。{p}{end}
+EN: I'll go check out the gym.{p}{end}
+
+## MGK04 g4 s0016
+JP: 保健室にでも行ってみようか。{p}{end}
+EN: Maybe I'll stop by the infirmary.{p}{end}
+
+## MGK04 g4 s0017
+JP: 教室にもどってみよっと。{p}{end}
+EN: I'll go back to the classroom.{p}{end}
+
+## MGK04 g4 s0020
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は1学期の中間試験の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the first-term midterm exam.{p}{end}
+
+## MGK04 g4 s0021
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は太陽学園と{n}パシフィックHSでは太P戦が、{n}五輪高校では五輪高新人戦があるみたい。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Looks like Taiyo High and Pacific High have the Taiyo-Pacific Match today, and Gorin High has its Rookie Meet.{p}
+
+## MGK04 g4 s0022
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は1学期の期末試験の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the first-term final exam.{p}{end}
+
+## MGK04 g4 s0024
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は学園祭だわ。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the school festival!{p}{end}
+
+## MGK04 g4 s0025
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は2学期の中間試験の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the second-term midterm exam.{p}{end}
+
+## MGK04 g4 s0026
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、五輪祭の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the Gorin Festival.{p}{end}
+
+## MGK04 g4 s0027
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は2学期の期末試験の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the second-term final exam.{p}{end}
+
+## MGK04 g4 s0028
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、クリスマス・イブね。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's Christmas Eve.{p}
+
+## MGK04 g4 s0029
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は元旦、新しい年の始まりね。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}It's New Year's Day, the start of a brand-new year.{p}
+
+## MGK04 g4 s0030
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日はバレンタインデー。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's Valentine's Day.{p}
+
+## MGK04 g4 s0031
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は学年末試験の日ね。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the year-end exam.{p}
+
+## MGK04 g4 s0032
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は進級試験の日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the promotion exam.{p}{end}
+
+## MGK04 g4 s0033
+JP: {col:1}{mm}月{dd}日{col:-}{n}長かった一年も終わり、今日は終業式。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}The long year is over. Today's the closing ceremony.{p}
+
+## MGK04 g4 s0034
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、春の遠足ね。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the spring field trip.{p}
+
+## MGK04 g4 s0035
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、7月最後の土曜日ね。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the last Saturday in July.{p}
+
+## MGK04 g4 s0036
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日はホワイトデーだわ。{p}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's White Day!{p}
+
+## MGK04 g4 s0037
+JP: {col:1}{mm}月{dd}日{col:-}{n}今日は、夏休み最後の土曜日ね。{p}{end}
+EN: {col:1}{mm}/{dd}{col:-}{n}Today's the last Saturday of summer break.{p}{end}
+
+## MGK04 g5 s0000
+JP: どれをおこないますか?{n}セーブ{n}ロード{n}メニューに戻る{p}
+EN: What do you want to do?{n}Save{n}Load{n}Back to menu{p}
+
+## MGK04 g5 s0001
+JP: メモリーカードをチェックしています。{n}しばらくお待ちください。{p}
+EN: Checking memory card.{n}Please wait.{p}
+
+## MGK04 g5 s0002
+JP: 0123456789月日{sp}{p}
+EN: {x:987f}{x:98ff}{x:997f}{x:99ff}{x:9a7f}{x:9aff}{x:9b7f}{x:9bff}{x:9c7f}{x:9cff}{x:97ff}{t: }{sp}{p}
+
+## MGK04 g5 s0003
+JP: 何番にデータをセーブしますか?{p}
+EN: Save data to which slot?{p}
+
+## MGK04 g5 s0004
+JP: 番にセーブします。{n}よろしいですか?{n}はい{n}いいえ{p}
+EN: : save to this slot.{n}Is that OK?{n}Yes{n}No{p}
+
+## MGK04 g5 s0005
+JP: 番にはすでにデータがあります。{n}上書きしますか?{n}はい{n}いいえ{p}
+EN:  already has data.{n}Overwrite it?{n}Yes{n}No{p}
+
+## MGK04 g5 s0006
+JP: セーブ中です。{n}メモリーカードを抜かないでください。{p}{end}
+EN: Saving.{n}Do not remove the memory card.{p}{end}
+
+## MGK04 g5 s0007
+JP: セーブが終了しました。{p}
+EN: Save complete.{p}
+
+## MGK04 g5 s0008
+JP: 何番のデータをロードしますか?{p}
+EN: Load which slot?{p}
+
+## MGK04 g5 s0009
+JP: 番のデータをロードします。{n}よろしいですか?{n}はい{n}いいえ{p}
+EN: : load this slot.{n}Is that OK?{n}Yes{n}No{p}
+
+## MGK04 g5 s0010
+JP: 終了する前にデータをセーブします。{n}よろしいですか?{n}はい{n}いいえ{p}
+EN: Save the data before quitting.{n}Is that OK?{n}Yes{n}No{p}
+
+## MGK04 g5 s0011
+JP: CLEARデータをセーブします。{n}よろしいですか?{n}はい{n}いいえ{p}{end}
+EN: Save CLEAR data.{n}Is that OK?{n}Yes{n}No{p}{end}
+
+## MGK04 g5 s0012
+JP: セーブせずにゲームを終了します。{n}よろしいですか?{n}はい{n}いいえ{p}{end}
+EN: Quit the game without saving.{n}Is that OK?{n}Yes{n}No{p}{end}
+
+## MGK04 g5 s0013
+JP: セーブできました。{n}何かボタンを押してください。{p}{end}
+EN: Saved.{n}Press any button.{p}{end}
+
+## MGK04 g5 s0014
+JP: お疲れ様でした。{n}何かボタンを押すと{n}モードセレクト画面に戻ります。{p}{end}
+EN: Thanks for playing.{n}Press any button to return{n}to the mode select screen.{p}{end}
+
+## MGK04 g5 s0015
+JP: メモリーカードが初期化されていません。{n}初期化しますか?{n}はい{n}いいえ{p}
+EN: The memory card is not formatted.{n}Format it?{n}Yes{n}No{p}
+
+## MGK04 g5 s0016
+JP: メモリーカードを初期化中です。{n}メモリーカードを抜かないで下さい。{p}
+EN: Formatting memory card.{n}Do not remove the memory card.{p}
+
+## MGK04 g5 s0017
+JP: 初期化できました。{p}
+EN: Format complete.{p}
+
+## MGK04 g5 s0018
+JP: CLEARデータはロードできません。{p}{end}
+EN: CLEAR data can't be loaded.{p}{end}
+
+## MGK04 g5 s0019
+JP: データが壊れているのでロードできません。{p}{end}
+EN: The data is corrupted and can't be loaded.{p}{end}
+
+## MGK04 g5 s0020
+JP: メモリーカードが差さっていません{p}{end}
+EN: No memory card inserted{p}{end}
+
+## MGK04 g5 s0021
+JP: メモリーカードが壊れています{p}{end}
+EN: The memory card is damaged{p}{end}
+
+## MGK04 g5 s0022
+JP: メモリーカードが初期化されていません{p}{end}
+EN: The memory card is not formatted{p}{end}
+
+## MGK04 g5 s0023
+JP: ファイルがありません{p}{end}
+EN: No file found{p}{end}
+
+## MGK04 g5 s0024
+JP: メモリーカードがいっぱいです{n}セーブするには1ブロック必要です{p}
+EN: The memory card is full{n}Saving needs 1 free block{p}
+
+## MGK04 g5 s0025
+JP: データがありません{p}
+EN: No data{p}
+
+## MGK04 g5 s0026
+JP: 初期化できませんでした{p}
+EN: Could not format{p}
+
+## MGK04 g5 s0027
+JP: セーブできませんでした{p}
+EN: Could not save{p}
+
+## MGK04 g5 s0028
+JP: ロードできませんでした{p}
+EN: Could not load{p}
+
+## MGK04 g5 s0029
+JP: チェックできませんでした{p}{end}
+EN: Could not check{p}{end}
+
+## MGK04 g5 s0030
+JP: {col:0}CANCEL={col:9}{CROSS}{col:-}{p}{end}
+EN: =
+
+## MGK04 g6 s0000
+JP: 次のキャラクターの中で{n}太陽学園の生徒でないのは誰?{p}{end}
+EN: Which of these characters is not a Taiyo High student?{p}{end}
+
+## MGK04 g6 s0005
+JP: 熱血青春日記2で入学できない学校は{n}次のうちどれ?{p}
+EN: Which school can't you enroll in in Hot-Blooded Youth Diary 2?{p}
+
+## MGK04 g6 s0006
+JP: 玉川南高校{p}
+EN: Tamagawa-Minami High{p}
+
+## MGK04 g6 s0008
+JP: パシフィックハイスクール{p}{end}
+EN: Pacific High{p}{end}
+
+## MGK04 g6 s0010
+JP: ティファニーは{n}次のうちのどの高校の生徒?{p}
+EN: Which school does Tiffany attend?{p}
+
+## MGK04 g6 s0015
+JP: エッジは{n}次のうちのどの高校の生徒?{p}{end}
+EN: Which school does Edge attend?{p}{end}
+
+## MGK04 g6 s0020
+JP: カメラをいつも手に持っている{n}新キャラクターのランは{n}何部に所属している?{p}
+EN: Ran, the new character who always has a camera in hand, is in which club?{p}
+
+## MGK04 g6 s0021
+JP: 新聞部{p}
+EN: Newspaper Club{p}
+
+## MGK04 g6 s0022
+JP: 放送部{p}
+EN: Broadcasting Club{p}
+
+## MGK04 g6 s0023
+JP: 写真部{p}
+EN: Photography Club{p}
+
+## MGK04 g6 s0024
+JP: 報道部{p}
+EN: Press Club{p}
+
+## MGK04 g6 s0025
+JP: 私立ジャスティス学園で{n}男のプレイヤーキャラクターは{n}全部で何人いる?{p}
+EN: How many male playable characters are there in Rival Schools?{p}
+
+## MGK04 g6 s0026
+JP: 14人{p}
+EN: 14{p}
+
+## MGK04 g6 s0027
+JP: 13人{p}
+EN: 13{p}
+
+## MGK04 g6 s0028
+JP: 12人{p}
+EN: 12{p}
+
+## MGK04 g6 s0029
+JP: 15人{p}
+EN: 15{p}
+
+## MGK04 g6 s0030
+JP: このゲームの正式タイトルは{n}「私立ジャスティス学園??」{n}??は何?{p}{end}
+EN: This game's official title is "Rival Schools: ??" What goes in the ??{p}{end}
+
+## MGK04 g6 s0031
+JP: 熱血青春日記2{p}
+EN: Hot-Blooded Youth Diary 2{p}
+
+## MGK04 g6 s0032
+JP: 熱血青春日記エボリューション{p}{end}
+EN: Hot-Blooded Youth Diary Evolution{p}{end}
+
+## MGK04 g6 s0033
+JP: 熱血青春日記エボリューション2{p}
+EN: Hot-Blooded Youth Diary Evolution 2{p}
+
+## MGK04 g6 s0034
+JP: エボリューション2{p}
+EN: Evolution 2{p}
+
+## MGK04 g6 s0035
+JP: めがねをかけているキャラクターは{n}次のうち誰?{p}
+EN: Which of these characters wears glasses?{p}
+
+## MGK04 g6 s0040
+JP: 男子校制なのは{n}次の学校のうちどれ?{p}{end}
+EN: Which of these schools is boys-only?{p}{end}
+
+## MGK04 g6 s0045
+JP: 太陽学園の中で{n}もっとも大きな行事といえば何?{p}
+EN: What is Taiyo High's biggest event?{p}
+
+## MGK04 g6 s0046
+JP: 太P戦{p}
+EN: Taiyo-Pacific Match{p}
+
+## MGK04 g6 s0047
+JP: 五輪祭{p}
+EN: Gorin Festival{p}
+
+## MGK04 g6 s0048
+JP: サマースクール{p}
+EN: Summer School{p}
+
+## MGK04 g6 s0049
+JP: 秀祭{p}{end}
+EN: Shu Festival{p}{end}
+
+## MGK04 g6 s0050
+JP: サッカーを得意とする{n}キャラクターは次のうち誰?{p}{end}
+EN: Which of these characters is best at soccer?{p}{end}
+
+## MGK04 g6 s0055
+JP: 手にグローブをはめていない{n}キャラクターは次のうち誰?{p}
+EN: Which of these characters doesn't wear gloves?{p}
+
+## MGK04 g6 s0060
+JP: ジャスティス学園の教師である英雄は{n}何担当の教師?{p}
+EN: Hideo, a Justice High teacher, teaches which subject?{p}
+
+## MGK04 g6 s0061
+JP: 国語{p}{end}
+EN: Japanese{p}{end}
+
+## MGK04 g6 s0062
+JP: 数学{p}{end}
+EN: Math{p}{end}
+
+## MGK04 g6 s0063
+JP: 英語{p}{end}
+EN: English{p}{end}
+
+## MGK04 g6 s0064
+JP: 社会{p}{end}
+EN: Social Studies{p}{end}
+
+## MGK04 g6 s0065
+JP: 次の4人のうちで、{n}一番身長が高いのは誰?{p}
+EN: Which of these four is the tallest?{p}
+
+## MGK04 g6 s0070
+JP: 次の4人のうち男性でないのは誰?{p}{end}
+EN: Which of these four is not male?{p}{end}
+
+## MGK04 g6 s0075
+JP: 太陽学園で体育の教師といえば{n}次のうち誰?{p}
+EN: Who is the PE teacher at Taiyo High?{p}
+
+## MGK04 g6 s0076
+JP: 熱血隼人{p}{end}
+EN: Hayato Nekketsu{p}{end}
+
+## MGK04 g6 s0080
+JP: 外道高校の伝説の総番長である{n}醍醐は誰の兄?{p}{end}
+EN: Daigo, Gedo High's legendary top boss, is whose older brother?{p}{end}
+
+## MGK04 g6 s0085
+JP: ジャスティス学園生徒会長である{n}雹の双子の弟にあたるのは誰?{p}{end}
+EN: Who is the younger twin brother of Hyo, Justice High's student council president?{p}{end}
+
+## MGK04 g6 s0089
+JP: 雫{p}
+EN: Shizuku{p}
+
+## MGK04 g6 s0090
+JP: 野球のバットをいつも背負っている{n}キャラクターは次のうち誰?{p}{end}
+EN: Which of these characters always carries a baseball bat on their back?{p}{end}
+
+## MGK04 g6 s0095
+JP: 新キャラクターである{n}五輪高校水泳部のエース、流は{n}高校何年生?{p}{end}
+EN: Nagare, a new character and Gorin's swim ace, is in which year?{p}{end}
+
+## MGK04 g6 s0096
+JP: 3年生{p}
+EN: 3rd year{p}
+
+## MGK04 g6 s0097
+JP: 2年生{p}
+EN: 2nd year{p}
+
+## MGK04 g6 s0098
+JP: 1年生{p}
+EN: 1st year{p}
+
+## MGK04 g6 s0099
+JP: 実はすでに卒業している{p}
+EN: Already graduated{p}
+

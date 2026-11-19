@@ -1,0 +1,320 @@
+## MGK09 g0 s0000
+JP: 今日から2学期かぁ。{n}やれやれ、また面倒な授業が{n}始まるよ……。{p}{end}
+EN: Second term starts today, huh. Ugh, back to boring classes again...{p}{end}
+
+## MGK09 g0 s0001
+JP: はぁい、{v0}{col:0}君{col:-}。{n}夏休みは楽しかった?{n}いつまでも夏休みボケしてちゃダメよ。{p}
+EN: Hiii, {v0}{col:0}-kun{col:-}. Did you enjoy summer break? You can't stay in vacation mode forever, you know.{p}
+
+## MGK09 g0 s0002
+JP: 委員長……、{n}どうしたの、今日は。{p}
+EN: Chairperson... What's up today?{p}
+
+## MGK09 g0 s0003
+JP: やっぱり忘れてるわね。{n}今日は2学期の初日、{n}クラブ変更を受け付ける日よ。{n}声かけといてよかったわ。{p}{end}
+EN: I knew you'd forget. Today's the first day of second term, the day they take club changes. Good thing I came to tell you.{p}{end}
+
+## MGK09 g0 s0004
+JP: ああ……そういえば。{n}クラブかぁ。{n}他のクラブもおもしろそうだけどな。{p}
+EN: Oh... right. Clubs, huh. The other clubs do look kinda fun.{p}
+
+## MGK09 g0 s0005
+JP: まぁ、いろいろやってみるのも{n}いいと思うわよ。{n}どう?{sp}かわってみる?{p}
+EN: Well, I think trying different things is good. So? Want to switch?{p}
+
+## MGK09 g0 s0006
+JP: そのまま{n}かわる{p}{end}
+EN: Stay{n}Switch{p}{end}
+
+## MGK09 g0 s0007
+JP: いや、やめておくよ。{n}俺は今のクラブのままでいい。{p}
+EN: Nah, I'll pass. I'm fine with the club I've got.{p}
+
+## MGK09 g0 s0008
+JP: そう。一つのことを続けるのも{n}いいことだと思うわ。{n}それじゃ、またね。{p}
+EN: I see. Sticking with one thing is good too. See you, then.{p}
+
+## MGK09 g0 s0009
+JP: そうだな、かわってみよう。{n}どのクラブがいいかな。{p}
+EN: Yeah, I'll switch. Which club should I go for?{p}
+
+## MGK09 g0 s0012
+JP: 野球部ね。{n}{col:0}体力{col:-}、{col:0}攻撃力{col:-}、{col:0}根性{col:-}が上がりやすくて、{n}{col:0}知力{col:-}が少し下がるわね。{n}野球部に入る?{p}{end}
+EN: The baseball club. {col:0}Stamina{col:-}, {col:0}Attack{col:-} and {col:0}Guts{col:-} rise easily, and {col:0}Smarts{col:-} drops a little. Join the baseball club?{p}{end}
+
+## MGK09 g0 s0014
+JP: バレー部ね。{n}{col:0}攻撃力{col:-}、{col:0}体力{col:-}が上がりやすくて、{n}特に下がるパラメータもないわね。{n}バレー部に入る?{p}{end}
+EN: The volleyball club. {col:0}Attack{col:-} and {col:0}Stamina{col:-} rise easily, and no stat really drops. Join the volleyball club?{p}{end}
+
+## MGK09 g0 s0016
+JP: サッカー部ね。{n}{col:0}防御力{col:-}を中心にバランスよく上がって{n}特に下がるパラメータはないわね。{n}サッカー部に入ってみる?{p}
+EN: The soccer club. Your stats rise evenly, mostly {col:0}Defense{col:-}, and no stat really drops. Want to join the soccer club?{p}
+
+## MGK09 g0 s0018
+JP: 相撲部ね。{n}{col:0}攻撃力{col:-}、{col:0}防御力{col:-}が上がりやすくて、{n}{col:0}知力{col:-}、{col:0}潜在能力{col:-}が下がりやすいわね。{n}相撲部に入ってみる?{p}
+EN: The sumo club. {col:0}Attack{col:-} and {col:0}Defense{col:-} rise easily, but {col:0}Smarts{col:-} and {col:0}Potential{col:-} tend to drop. Want to join the sumo club?{p}
+
+## MGK09 g0 s0020
+JP: 美術部ね。{n}{col:0}潜在能力{col:-}、{col:0}知力{col:-}が上がりやすくて、{n}他は、下がらないけど上がりにくいわね。{n}美術部に入る?{p}{end}
+EN: The art club. {col:0}Potential{col:-} and {col:0}Smarts{col:-} rise easily. The rest won't drop, but they're slow to rise. Join the art club?{p}{end}
+
+## MGK09 g0 s0022
+JP: 吹奏楽部ね。{n}{col:0}防御力{col:-}、{col:0}知力{col:-}、{col:0}潜在能力{col:-}が上がりやすく、{n}{col:0}攻撃力{col:-}が下がりやすいわね。{n}吹奏楽部に入る?{p}
+EN: The brass band. {col:0}Defense{col:-}, {col:0}Smarts{col:-} and {col:0}Potential{col:-} rise easily, but {col:0}Attack{col:-} tends to drop. Join the brass band?{p}
+
+## MGK09 g0 s0024
+JP: 演劇部ね。{n}{col:0}根性{col:-}、{col:0}潜在能力{col:-}、{col:0}知力{col:-}が上がりやすく、{n}{col:0}防御力{col:-}が下がりやすいわね。{n}演劇部に入ってみる?{p}
+EN: The drama club. {col:0}Guts{col:-}, {col:0}Potential{col:-} and {col:0}Smarts{col:-} rise easily, but {col:0}Defense{col:-} tends to drop. Want to join the drama club?{p}
+
+## MGK09 g0 s0026
+JP: 化学部ね。{n}{col:0}知力{col:-}、{col:0}潜在能力{col:-}が上がりやすくて、{n}{col:0}体力{col:-}が下がりやすいわね。{n}化学部に入ってみる?{p}{end}
+EN: The chemistry club. {col:0}Smarts{col:-} and {col:0}Potential{col:-} rise easily, but {col:0}Stamina{col:-} tends to drop. Want to join the chemistry club?{p}{end}
+
+## MGK09 g0 s0028
+JP: 帰宅部……ね。{n}パラメータは何が上がるのかは、運頼みね。{n}帰宅部に……っていうか、{n}他のクラブに入るの、やめる?{p}{end}
+EN: The Go-Home Club... huh. Which stats go up is pure luck. So you want the Go-Home... I mean, you want to quit clubs?{p}{end}
+
+## MGK09 g0 s0030
+JP: やめるのね。{n}それじゃ、どのクラブにするか、{n}選んでちょうだい。{p}{end}
+EN: Not that one, then. Go ahead and pick a club.{p}{end}
+
+## MGK09 g0 s0031
+JP: それじゃ、決定ね。{n}一応、各クラブで挨拶は{n}しておいた方がいいわよ。{n}私はこれで、失礼するわ。{p}
+EN: Then it's settled. You should go say hello at your new club, just in case. I'll be off now.{p}
+
+## MGK09 g0 s0032
+JP: そう……、{n}それじゃ私が面倒みることに{n}なるから、よろしくね。{p}
+EN: I see... Then I'll be the one looking after you. Nice to have you.{p}
+
+## MGK09 g0 s0033
+JP: 帰宅部といっても、{n}やることは他のクラブと同じだから、{n}説明はしないわよ。{n}それじゃ、今日はこれで。お疲れさま。{p}{end}
+EN: It's the Go-Home Club, but it works the same as the other clubs, so I won't explain. That's all for today. Good work.{p}{end}
+
+## MGK09 g0 s0034
+JP: やぁ、{v1}{col:0}君{col:-}じゃないか。{n}そうか、2学期から野球部にくるのか。{p}{end}
+EN: Hey, if it isn't {v1}{col:0}-kun{col:-}. So you're joining the baseball club this term.{p}{end}
+
+## MGK09 g0 s0035
+JP: 修一さん、よろしくお願いします。{p}{end}
+EN: I'm in your hands, Shuichi-san.{p}{end}
+
+## MGK09 g0 s0036
+JP: まぁそう堅くなるなよ。{n}俺も、他の部員と同じように{n}扱うつもりだから、そのつもりでな。{p}
+EN: Hey, don't be so stiff. I'm gonna treat you like any other member, so keep that in mind.{p}
+
+## MGK09 g0 s0037
+JP: あと、明日の特別練習では、{n}クラブの成果は、今までのクラブの{n}成果をみることになるかな。{p}{end}
+EN: Oh, and at tomorrow's special practice, I think the club results will be from your old club.{p}{end}
+
+## MGK09 g0 s0038
+JP: うん、じゃまた明日会おう。{n}じゃな。{p}{end}
+EN: Okay, see you tomorrow. Later.{p}{end}
+
+## MGK09 g0 s0039
+JP: よぉ来たな、{v0}!{n}お前はいつかここへ来ると、{n}信じていたぞ!{p}{end}
+EN: So you came, {v0}! I always believed you'd end up here someday!{p}{end}
+
+## MGK09 g0 s0040
+JP: 沖田先生、よろしくお願いします。{p}{end}
+EN: I'm in your hands, Okita-sensei.{p}{end}
+
+## MGK09 g0 s0041
+JP: うむ!{n}しかし、途中入部だからといって、{n}特別扱いはしないぞ!{sp}他の部員と{n}同じようにビシビシ行くからな!{p}
+EN: Right! But joining midyear won't get you special treatment! I'll drive you hard like everyone else!{p}
+
+## MGK09 g0 s0042
+JP: あと、明日の特別練習では、{n}クラブの成果だけ、前のクラブの{n}成果をみることになるな。{p}{end}
+EN: Oh, and at tomorrow's special practice, just the club results will be from your old club.{p}{end}
+
+## MGK09 g0 s0043
+JP: うむ、それじゃまた明日。{n}気合を入れていけよ!{p}
+EN: Right, see you tomorrow. Bring your fighting spirit!{p}
+
+## MGK09 g0 s0044
+JP: あ、{v0}{col:0}君{col:-}。{n}ようこそサッカー部へ。{n}よろしくお願いしますね。{p}{end}
+EN: Oh, {v0}{col:0}-kun{col:-}. Welcome to the soccer club. I look forward to working with you.{p}{end}
+
+## MGK09 g0 s0045
+JP: こちらこそよろしく、まり。{p}
+EN: Same here, Mari.{p}
+
+## MGK09 g0 s0046
+JP: 慣れないから、大変でしょうけど、{n}やることは基本的に他のクラブと{n}同じですから。がんばってくださいね。{p}
+EN: It'll be hard while you get used to it, but basically we do the same things as the other clubs. Please do your best.{p}
+
+## MGK09 g0 s0047
+JP: あと、明日の特別練習では、{n}クラブの成果だけ、今までのクラブの{n}成果を見ることになりますね。{p}{end}
+EN: Oh, and at tomorrow's special practice, just the club results will be from your old club.{p}{end}
+
+## MGK09 g0 s0048
+JP: それじゃ、明日から{n}よろしくお願いします。{p}
+EN: Well then, I look forward to working with you from tomorrow.{p}
+
+## MGK09 g0 s0049
+JP: よぉ来たな、{v1}。{n}お前が今までどこのクラブに{n}いたのか知らんが、{n}ビシビシしごいてやるから覚悟しろよ。{p}
+EN: So you came, {v1}. I don't know what club you were in before, but I'll drill you hard, so brace yourself.{p}
+
+## MGK09 g0 s0050
+JP: 監督、こちらこそ{n}よろしくお願いします。{p}{end}
+EN: Likewise, Coach. I'm in your hands.{p}{end}
+
+## MGK09 g0 s0051
+JP: ふふっ、いい心がけだ。{n}慣れてないかもしれんが、{n}他の部員と同じように扱うからな、{n}特別扱いはせんぞ。{p}
+EN: Heh, that's the spirit. You may not be used to it, but I'll treat you like the other members. No special treatment.{p}
+
+## MGK09 g0 s0052
+JP: あと、明日の特別練習では{n}クラブの成果だけ、前のクラブの{n}成果をみる。その後は相撲部の{n}流儀でいくぞ。{p}
+EN: Oh, and at tomorrow's special practice, just the club results come from your old club. After that, we do it the sumo way.{p}
+
+## MGK09 g0 s0053
+JP: それじゃ、また明日。{n}気合い入れておけよ。{p}
+EN: Well, see you tomorrow. Bring your fighting spirit.{p}
+
+## MGK09 g0 s0054
+JP: あ、来たわね{v0}{col:0}クン{col:-}。{n}美術部へようこそ、{n}新入部員はいつでも大歓迎よ。{p}
+EN: Oh, there you are, {v0}{col:0}-kun{col:-}. Welcome to the art club. New members are always welcome.{p}
+
+## MGK09 g0 s0055
+JP: よろしくお願いします、こずえ先輩。{p}
+EN: I'm in your hands, Kozue-senpai.{p}
+
+## MGK09 g0 s0056
+JP: 堅苦しい挨拶は抜き抜き。{n}私も特別扱いするつもりはないから、{n}普通に、普通にね。{p}{end}
+EN: No need for stiff greetings. I'm not giving you special treatment either, so just act normal, normal.{p}{end}
+
+## MGK09 g0 s0057
+JP: あと、明日の特別練習では、{n}クラブの成果だけ、今までのクラブの{n}成果を見ることになるわね。{p}
+EN: Oh, and at tomorrow's special practice, just the club results will be from your old club.{p}
+
+## MGK09 g0 s0058
+JP: それじゃ、明日から{n}よろしくね。{p}{end}
+EN: Well then, see you tomorrow.{p}{end}
+
+## MGK09 g0 s0059
+JP: ……あ、{v0}{col:0}君{col:-}。{n}ああ、転部ですね。{n}これからよろしくお願いします。{p}
+EN: ...Oh, {v0}{col:0}-kun{col:-}. Ah, you're transferring in. I look forward to working with you.{p}
+
+## MGK09 g0 s0060
+JP: こちらこそよろしく、{n}静音さん。{p}{end}
+EN: Likewise, Shizune-san.{p}{end}
+
+## MGK09 g0 s0061
+JP: 慣れてないかもしれませんが、{n}一応、練習は他の部員にあわせて{n}もらいますね。{p}{end}
+EN: You may not be used to it yet, but... you'll be practicing along with the other members.{p}{end}
+
+## MGK09 g0 s0062
+JP: ……あと、明日の特別練習では、{n}クラブの成果だけ、今までのクラブの{n}成果を見ることになります。{p}
+EN: ...Oh, and at tomorrow's special practice, just the club results will be from your old club.{p}
+
+## MGK09 g0 s0063
+JP: ……それでは、明日から{n}よろしくお願いします。{p}
+EN: ...Well then, I look forward to working with you from tomorrow.{p}
+
+## MGK09 g0 s0064
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}来ましたね。{n}演劇部へようこそ!{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. You came. Welcome to the drama club!{p}{end}
+
+## MGK09 g0 s0065
+JP: 小百合先輩、よろしくお願いします。{p}
+EN: I'm in your hands, Sayuri-senpai.{p}
+
+## MGK09 g0 s0066
+JP: よろしくね。{n}特別扱いしないから、そのつもりでね。{n}明日からビシビシいくわよ。{p}
+EN: Glad to have you. I won't be giving you special treatment, so be ready. We start hard tomorrow.{p}
+
+## MGK09 g0 s0068
+JP: それじゃ、明日から{n}よろしくお願いね。{p}
+EN: Well then, I look forward to working with you from tomorrow.{p}
+
+## MGK09 g0 s0069
+JP: おお、{v0}{col:0}君{col:-}だな。{n}ふむふむ、化学部に入るのか。{n}なるほど。{p}
+EN: Oh, it's {v0}{col:0}-kun{col:-}. Mm-hm, joining the chemistry club, are you? I see, I see.{p}
+
+## MGK09 g0 s0070
+JP: よろしくお願いします、{n}加瀬先生。{p}
+EN: Nice to meet you, Kase-sensei.{p}
+
+## MGK09 g0 s0071
+JP: ハカセ、と呼びたまえ。{n}よしよし、まぁやってることは{n}他と同じだから、説明はいらんだろ。{n}特別扱いしないから、そのつもりでな。{p}
+EN: Call me Hakase. Good, good. Well, we do the same as everyone else, so you won't need an explanation. No special treatment, mind you.{p}
+
+## MGK09 g0 s0072
+JP: あと、明日の特別練習では、{n}クラブの成果だけ、今までのクラブの{n}成果を見ることになるかな。{p}
+EN: Oh, and at tomorrow's special practice, I believe just the club results will be from your old club.{p}
+
+## MGK09 g0 s0073
+JP: それじゃ、明日から来るように。{n}がんばれよ。{p}{end}
+EN: Well then, come by starting tomorrow. Keep at it.{p}{end}
+
+## MGK09 g1 s0000
+JP: 今日から2学期ね。{n}あ～あ、また面倒な授業が{n}始まるわ……。{p}{end}
+EN: Second term starts today. Ugh, back to boring classes again...{p}{end}
+
+## MGK09 g1 s0001
+JP: はぁい、{v1}{col:0}さん{col:-}。{n}夏休みは楽しかった?{n}いつまでも夏休みボケしてちゃダメよ。{p}{end}
+EN: Hiii, {v1}{col:0}-san{col:-}. Did you enjoy summer break? You can't stay in vacation mode forever, you know.{p}{end}
+
+## MGK09 g1 s0002
+JP: あ、委員長。{n}どうしたの、今日は。{p}
+EN: Oh, Chairperson. What's up today?{p}
+
+## MGK09 g1 s0004
+JP: あ……そういえば。{n}クラブの変更ねぇ。{n}他のクラブもおもしろそうだけどね。{p}
+EN: Oh... right. Switching clubs, huh. The other clubs do look kinda fun.{p}
+
+## MGK09 g1 s0007
+JP: う～ん、やめておくわ。{n}私は今のクラブのままでいいわ。{p}
+EN: Hmm, I'll pass. I'm fine with the club I've got.{p}
+
+## MGK09 g1 s0009
+JP: そうね、かわってみようかな。{n}どのクラブがいいかしら。{p}
+EN: Yeah, maybe I'll switch. Which club should I go for?{p}
+
+## MGK09 g1 s0034
+JP: やぁ、{v1}{col:0}さん{col:-}じゃないか。{n}そうか、2学期から野球部にくるのか。{p}
+EN: Hey, if it isn't {v1}{col:0}-san{col:-}. So you're joining the baseball club this term.{p}
+
+## MGK09 g1 s0035
+JP: 修一先輩、よろしくお願いします。{p}{end}
+EN: I'm in your hands, Shuichi-senpai.{p}{end}
+
+## MGK09 g1 s0044
+JP: あ、{v1}{col:0}ちゃん{col:-}。{n}ようこそサッカー部へ。{n}よろしくね。{p}{end}
+EN: Oh, {v1}{col:0}-chan{col:-}. Welcome to the soccer club. Glad to have you.{p}{end}
+
+## MGK09 g1 s0045
+JP: こちらこそよろしくね、{n}まりちゃん。{p}{end}
+EN: Same here, Mari-chan.{p}{end}
+
+## MGK09 g1 s0046
+JP: 慣れないから、大変だと思うけど、{n}やることは基本的に他のクラブと{n}同じだから。がんばってね。{p}{end}
+EN: It'll be hard while you get used to it, but basically we do the same things as the other clubs. Do your best, okay?{p}{end}
+
+## MGK09 g1 s0047
+JP: あと、明日の特別練習では、{n}クラブの成果だけ、今までのクラブの{n}成果を見ることになるわ。{p}{end}
+EN: Oh, and at tomorrow's special practice, just the club results will be from your old club.{p}{end}
+
+## MGK09 g1 s0049
+JP: よぉ来たな、{v0}。{n}女だからといって、容赦はせん。{n}おまえを新相撲の旗頭にしてやるから、{n}ビシビシしごいていくぞ!{p}{end}
+EN: So you came, {v0}. Being a girl won't earn you any mercy. I'll make you the standard-bearer of women's sumo, so I'll drill you hard!{p}{end}
+
+## MGK09 g1 s0050
+JP: 佐渡先生、こちらこそ{n}よろしくお願いします。{p}{end}
+EN: Likewise, Sado-sensei. I'm in your hands.{p}{end}
+
+## MGK09 g1 s0054
+JP: あ、来たわね{v1}{col:0}ちゃん{col:-}。{n}美術部へようこそ、{n}新入部員はいつでも大歓迎よ。{p}{end}
+EN: Oh, there you are, {v1}{col:0}-chan{col:-}. Welcome to the art club. New members are always welcome.{p}{end}
+
+## MGK09 g1 s0059
+JP: ……あ、{v1}{col:0}さん{col:-}。{n}ああ、転部ですね。{n}これからよろしくお願いします。{p}{end}
+EN: ...Oh, {v1}{col:0}-san{col:-}. Ah, you're transferring in. I look forward to working with you.{p}{end}
+
+## MGK09 g1 s0060
+JP: こちらこそよろしくね、{n}静音ちゃん。{p}{end}
+EN: Likewise, Shizune-chan.{p}{end}
+
+## MGK09 g1 s0064
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}来ましたね。{n}演劇部へようこそ!{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. You came. Welcome to the drama club!{p}{end}
+

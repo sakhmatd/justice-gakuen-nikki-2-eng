@@ -1,0 +1,38 @@
+# Diary title / new-game menu and Continue list (MGTIT.BIZ strings, drawn
+# from the MA_TIT.BIZ TIM0 glyph sheet; tools/build_mgtit.py).
+# ID: EN text. RE: private/re/title/findings.org.
+# Card messages 6-16 match the in-game g5 message-file wording (MGK04).
+
+# menu (x,y fixed)
+s0: Enroll
+s1: Continue
+# CROSS on the menu
+s2: Return to the mode select screen?
+# keep Yes at cell 0 and No at cell 4 (x 260)
+s3: Yes     No
+s4: Checking memory card.
+s5: Please wait.
+# card messages (centred on x 512)
+s6: No memory card inserted
+s7: The memory card is damaged
+s8: The memory card is not formatted
+s9: No file found
+s10: The memory card is full
+s11: Saving needs 1 free block
+s12: No data
+s13: Could not format
+s14: Could not save
+s15: Could not load
+s16: Press any button.
+# list header
+s17: Which data will you start with?
+
+# school cells in the list (72x20 Taiyo/Gorin/Gedo, 80x20 Pacific/Justice)
+school_taiyo: Taiyo
+school_gorin: Gorin
+school_gedo: Gedo
+school_pacific: Pacific
+school_justice: Justice
+# date marker cells (20x20): month cell -> "/", day cell -> blank
+date_month: /
+date_day:

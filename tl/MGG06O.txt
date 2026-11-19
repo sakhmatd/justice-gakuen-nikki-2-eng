@@ -1,0 +1,536 @@
+## MGG06O g0 s0000
+JP: 今日は、五輪高校の春の名物、{n}新人戦の日だ。{p}{end}
+EN: Today's the Rookie Meet, Gorin High's big spring event.{p}{end}
+
+## MGG06O g0 s0001
+JP: 五輪祭ほどではないにしても、{n}新入生の力量をはかる、{n}重要な行事だからな。{n}がんばらないと。{p}{end}
+EN: It's not as big as the Gorin Festival, but it's an important event for sizing up the new students. Gotta do my best.{p}{end}
+
+## MGG06O g0 s0002
+JP: よぉ、{v1}{col:0}君{col:-}。{n}ここにいたのか。{n}探したぞ。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. There you are. I was looking for you.{p}
+
+## MGG06O g0 s0003
+JP: 修一さん。{n}あ、流さんも。{n}おはようございます。{p}{end}
+EN: Shuichi-san. Oh, Nagare-san too. Good morning.{p}{end}
+
+## MGG06O g0 s0004
+JP: …………おはよう……。{p}
+EN: ..........Morning...{p}
+
+## MGG06O g0 s0005
+JP: 今日は新人戦だな。{n}調子はどうだ?{n}たしか、参加種目は{n}『爆裂シュート』だったよな。{p}{end}
+EN: Today's the Rookie Meet. How're you feeling? Your event is the Explosive Shot, right?{p}{end}
+
+## MGG06O g0 s0006
+JP: …………新人戦では……、{n}自分の専門とは関係なく、{n}参加種目を組まれる……。{p}{end}
+EN: ..........At the Rookie Meet... they assign your event... no matter what your specialty is...{p}{end}
+
+## MGG06O g0 s0007
+JP: …………苦手な競技かも{n}しれないが、がんばれよ……。{p}{end}
+EN: ..........It might not be your sport... but do your best...{p}{end}
+
+## MGG06O g0 s0008
+JP: そうか、種目は選べないんですよね。{p}
+EN: Right, we don't get to choose our events.{p}
+
+## MGG06O g0 s0009
+JP: その点、秋の五輪祭では三種目から{n}選ぶことができるからな、{n}今から練習しておいても{n}ソンはないぞ。{p}
+EN: The Gorin Festival in the fall is different. You pick from three events, so it can't hurt to start practicing now.{p}
+
+## MGG06O g0 s0010
+JP: …………どっちにせよ、{n}水泳はないがな……。{p}{end}
+EN: ..........Either way... there's no swimming...{p}{end}
+
+## MGG06O g0 s0011
+JP: ま、新人戦といっても深刻な{n}大会じゃないから、{n}腕試しだと思ってがんばれよ。{p}{end}
+EN: Well, the Rookie Meet isn't a serious competition. Think of it as testing yourself and give it your best.{p}{end}
+
+## MGG06O g0 s0012
+JP: …………あっちで、{n}将馬達が探している……。{n}いってやれ……。{p}
+EN: ..........Over there... Shoma and the others are looking for you... Go on...{p}
+
+## MGG06O g0 s0013
+JP: そうだった、俺達はお前を探しに{n}来たんだったな。{n}じゃ、またあとでな。{p}
+EN: Oh, that's right, that's why we came looking for you. Catch you later.{p}
+
+## MGG06O g0 s0014
+JP: チクショーーーーーッ!!{n}全然ダメだーーーッ!!{p}{end}
+EN: Daaamn it!! I totally blew it!!{p}{end}
+
+## MGG06O g0 s0015
+JP: どうしたんだ、将馬?{p}{end}
+EN: What's wrong, Shoma?{p}{end}
+
+## MGG06O g0 s0016
+JP: ふふっ、将馬がね、{n}『爆裂シュート』に出場して{n}きたんだけど、{n}成績が悪くてね。{p}{end}
+EN: Heh, Shoma just did the Explosive Shot, and his score was pretty bad.{p}{end}
+
+## MGG06O g0 s0017
+JP: やっと来たな、{v3:5}。{n}そういえばお前も『爆裂シュート』に{n}出場するんだったよな。{p}{end}
+EN: There you are, {v3:5}. Come to think of it, you're in the Explosive Shot too, right?{p}{end}
+
+## MGG06O g0 s0018
+JP: ちくしょう、{n}バット使わせてくれりゃー、{n}絶対負けねぇのによーっ!{p}
+EN: Dammit, if they'd let me use a bat, I'd never lose!{p}
+
+## MGG06O g0 s0019
+JP: ふふっ、それじゃ{n}『爆裂シュート』じゃないでしょ。{p}
+EN: Heh, then it wouldn't be the Explosive Shot anymore.{p}
+
+## MGG06O g0 s0020
+JP: そうやって専門外のことをやって{n}運動能力を試すのが、{n}この新人戦の目的らしいぜ。{p}{end}
+EN: Testing your athletic ability outside your specialty is supposedly the whole point of the Rookie Meet.{p}{end}
+
+## MGG06O g0 s0021
+JP: 一流のアスリートなら何やっても{n}ちゃんと結果を出せるハズだからな。{p}
+EN: 'Cause a first-rate athlete should get results at anything.{p}
+
+## MGG06O g0 s0022
+JP: じゃ、オイラはダメってことかーーーっ!{n}だいたいロベルト、なんでお前も{n}『爆裂シュート』なんだよっ!{p}{end}
+EN: So you're sayin' I'm no good?! And Roberto, why the heck are you in the Explosive Shot too?!{p}{end}
+
+## MGG06O g0 s0023
+JP: くじ引きで決まったことだからなぁ。{n}ま、運も実力のウチ、ってことか?{n}ちなみに俺は、利き足と逆の脚で{n}蹴らされて、8700点かな。{p}
+EN: They drew lots for it. Well, luck's part of skill, right? For the record, they made me kick with my weaker foot, and I got 8700.{p}
+
+## MGG06O g0 s0024
+JP: で、アタシが4000点ね。{n}ちょっとしたもんでしょう?{p}
+EN: And I got 4000. Not bad, huh?{p}
+
+## MGG06O g0 s0025
+JP: へぇ～、女の子でそれだけ{n}だせればすごいよ。{n}夏も専門じゃないしね。{p}{end}
+EN: Wow, that's great for a girl. And it's not your specialty either, Natsu.{p}{end}
+
+## MGG06O g0 s0026
+JP: クソーーーッ!{n}夏にも負けた～～～っ!{p}
+EN: Daaamn! I lost to Natsu too!!{p}
+
+## MGG06O g0 s0027
+JP: なんかよほど点数が{n}悪かったんだろうな。{n}将馬はいったい何点だったんだ?{p}{end}
+EN: His score must've been really bad. Shoma, how many points did you get?{p}{end}
+
+## MGG06O g0 s0028
+JP: …………2500点。{p}{end}
+EN: ..........2500.{p}{end}
+
+## MGG06O g0 s0029
+JP: それは悪いな{n}そんなモンだよ{p}{end}
+EN: That's bad{n}That's about normal{p}{end}
+
+## MGG06O g0 s0030
+JP: それは確かに悪い点だな。{n}夏より悪いもんな。{n}全部一枚抜きで、{n}だいたいそれぐらいかな?{p}{end}
+EN: That really is a bad score. Worse than Natsu. About what you'd get knocking out one panel per shot?{p}{end}
+
+## MGG06O g0 s0031
+JP: てめぇバカにしやがったな!{n}クッソーーーッ、こうなったら勝負だ!{n}オイラより点が低かったら、{n}しょうちしねぇぞ!!{p}
+EN: You're makin' fun of me! Daaamn, that's it, it's a contest! If ya score lower than me, you're dead meat!!{p}
+
+## MGG06O g0 s0032
+JP: 勝負って……いいのか?{n}俺が2500点以上とればいいんだろ?{n}不公平じゃないか?{p}{end}
+EN: A contest... you sure? I just need to beat 2500, right? Isn't that unfair?{p}{end}
+
+## MGG06O g0 s0033
+JP: お?{sp}自信満々だな。{n}まぁ、将馬より悪い点なんて{n}そうそうとれないと思うが。{p}{end}
+EN: Oh? Pretty confident. Well, I doubt anyone could do worse than Shoma.{p}{end}
+
+## MGG06O g0 s0034
+JP: ロベルト～～～!{n}オマエな～～～!!{p}{end}
+EN: Robertooo! You little...!!{p}{end}
+
+## MGG06O g0 s0035
+JP: ロベルトも将馬も、それくらいにして。{n}{v6:4}、そろそろ出番みたいよ。{n}用意した方がいいんじゃない?{p}{end}
+EN: Roberto, Shoma, that's enough. {v6:4}, looks like you're up soon. Better get ready, don't you think?{p}{end}
+
+## MGG06O g0 s0036
+JP: がんばってこいよ。{n}将馬に負けないようにな。{p}{end}
+EN: Go get 'em. Don't lose to Shoma.{p}{end}
+
+## MGG06O g0 s0037
+JP: オイラより悪かったら、{n}覚悟しておけよ!{p}{end}
+EN: If you do worse than me, you're in for it!{p}{end}
+
+## MGG06O g0 s0038
+JP: そんなモンじゃないか?{n}サッカーが得意なワケじゃないんだから。{n}はじめてやったら、{n}それくらいだとおもうけど。{p}
+EN: Isn't that about normal? You're not a soccer guy. I'd say that's what you'd get your first time.{p}
+
+## MGG06O g0 s0039
+JP: そ、そうか?{n}そうだよな。{n}オイラは野球部だもんな。{p}{end}
+EN: R-really? Yeah, that's right. I'm in the baseball club, after all.{p}{end}
+
+## MGG06O g0 s0040
+JP: 将馬クン～、{n}それじゃ新人戦の意味がないだろう?{n}これはもっと基本的な{n}運動センスをだな……。{p}
+EN: Shoma-kun~, then what'd be the point of the Rookie Meet? This is about basic athletic sense...{p}
+
+## MGG06O g0 s0041
+JP: まぁいいじゃない。{n}{v6:4}、そろそろ出番じゃない?{n}用意した方がいいわよ。{p}{end}
+EN: Oh, let it go. {v6:4}, aren't you up soon? Better get ready.{p}{end}
+
+## MGG06O g0 s0042
+JP: がんばってこいよ。{n}将馬みたいにならないようにな。{p}
+EN: Go get 'em. Just don't end up like Shoma.{p}
+
+## MGG06O g0 s0043
+JP: ロベルト～～ッ!{n}お前な～～～!!{p}
+EN: Robertooo! You little...!!{p}
+
+## MGG06O g0 s0044
+JP: お疲れさま。{n}やるじゃないか、{n}{v3:5}がそんなにスゴイなんて{n}思ってなかったぞ。{p}
+EN: Good work. Not bad! I had no idea you were that good, {v3:5}.{p}
+
+## MGG06O g0 s0045
+JP: さすがね。{n}かっこよかったよ、{n}{v6:4}。{p}
+EN: Impressive. You looked cool, {v6:4}.{p}
+
+## MGG06O g0 s0047
+JP: ん?{sp}将馬クン、{n}何かいったかい?{p}
+EN: Hm? Shoma-kun, did you say something?{p}
+
+## MGG06O g0 s0048
+JP: ……けだよ。{p}{end}
+EN: ...I lost.{p}{end}
+
+## MGG06O g0 s0049
+JP: 何だって?{n}よく聞こえないな。{p}
+EN: What was that? I can't hear you.{p}
+
+## MGG06O g0 s0050
+JP: オイラの負けだっつってんだろ!{n}何度も言わせるんじゃねぇよっ!{p}
+EN: I said I lost! Don't make me say it again!{p}
+
+## MGG06O g0 s0051
+JP: ふふっ、賭けは俺の勝ちだな。{n}ま、気にするなよ。{n}公正な条件じゃなかったし、{n}人間、誰でも調子が悪いときがあるって。{p}{end}
+EN: Heh, I win the bet. Don't sweat it. The conditions weren't fair, and everybody has off days.{p}{end}
+
+## MGG06O g0 s0052
+JP: ふん、今回は素直に負けを認めてやらあ。{n}よぉし、次は負けねぇように、{n}特訓だ!!{p}{end}
+EN: Hmph, fine, I'll admit it this time. All right, so I don't lose next time... special training!!{p}{end}
+
+## MGG06O g0 s0053
+JP: ふふっ、がんばるんだよ、将馬。{n}{v6:4}も、お疲れさま。{p}{end}
+EN: Heh, hang in there, Shoma. Good work, {v6:4}.{p}{end}
+
+## MGG06O g0 s0054
+JP: 次っていってもなぁ、{n}もう機会はないんだが……。{n}ま、『五輪祭』にむけて{n}練習はしておいた方がいいがな……。{p}{end}
+EN: Next time, huh... There isn't one, though... Well, practicing for the Gorin Festival is a good idea...{p}{end}
+
+## MGG06O g0 s0055
+JP: よしっ!{n}河原まで走るぞ!{n}みんな、行くぞっ!!{p}{end}
+EN: Okay! We're runnin' to the riverbank! Come on, everybody!!{p}{end}
+
+## MGG06O g0 s0056
+JP: なんだ、俺達もかよ!?{p}
+EN: What, us too?!{p}
+
+## MGG06O g0 s0057
+JP: ……なんだよ、{n}全然「そんなモン」じゃ{n}ないじゃねぇか。{p}{end}
+EN: ...What the heck? That was nowhere near "about normal."{p}{end}
+
+## MGG06O g0 s0058
+JP: オイラに同情するフリして{n}バカにしてたのか?{n}クソッ!{p}
+EN: Ya pretended to feel sorry for me, but you were makin' fun of me? Dammit!{p}
+
+## MGG06O g0 s0059
+JP: まぁ、そう言うなって。{n}コレが基本的な運動センスの差、{n}ってヤツさ。{p}{end}
+EN: Now, now, don't say that. That's what they call a difference in basic athletic sense.{p}{end}
+
+## MGG06O g0 s0060
+JP: クソーーーッ。{p}
+EN: Daaamn.{p}
+
+## MGG06O g0 s0061
+JP: 将馬、ちょっと大人げないよ。{n}せっかく{v6:4}が{n}いい成績をとったんだから、{n}喜んであげなさいよ。{p}
+EN: Shoma, that's kinda childish. {v6:4} got a great score, so be happy for him.{p}
+
+## MGG06O g0 s0062
+JP: な、夏……。{n}わかったよ……。{n}よかったな、{v3:3}。{n}お疲れさん。{p}{end}
+EN: N-Natsu... Fine... Nice job, {v3:3}. Good work.{p}{end}
+
+## MGG06O g0 s0063
+JP: しょ、将馬……。{n}なんか慰めるようなコト{n}言っちゃって、悪かったかな……。{p}
+EN: Sh-Shoma... I feel kinda bad, saying all that to make him feel better...{p}
+
+## MGG06O g0 s0064
+JP: こうして、新人戦は{n}無事終了した……。{p}
+EN: And so the Rookie Meet came to a peaceful end...{p}
+
+## MGG06O g0 s0065
+JP: お疲れさま。{n}ま、まぁまぁってトコロだな。{n}将馬ほどはヒドくはないし。{p}
+EN: Good work. Well, so-so, I'd say. At least it's not as bad as Shoma.{p}
+
+## MGG06O g0 s0066
+JP: ふふ、得点は私の勝ちね!{n}どう、見直した?{p}
+EN: Heh, I win on points! Well, impressed?{p}
+
+## MGG06O g0 s0067
+JP: ふん、なんだよ、{n}自信たっぷりだったから、{n}もっとスゴイのかと思ったぜ。{p}{end}
+EN: Hmph, what's this? You were so cocky, I figured you'd do somethin' amazing.{p}{end}
+
+## MGG06O g0 s0068
+JP: 残念だけど、勝負はお前の勝ちだな。{n}でもまぁ、夏に負けてるんじゃ、{n}似たようなモンだ。{p}
+EN: Too bad, but ya win the contest. Still, ya lost to Natsu, so it's about the same.{p}
+
+## MGG06O g0 s0069
+JP: 将馬、{n}また、そんな負け惜しみを……。{p}
+EN: Shoma, being a sore loser again...{p}
+
+## MGG06O g0 s0070
+JP: いいよ、その通りだし。{n}俺ももうちょっといくと{n}思ったんだけどな……。{p}
+EN: It's fine, he's right. I thought I'd do a bit better too...{p}
+
+## MGG06O g0 s0071
+JP: ま、誰でも調子が悪いときは{n}あるからな。{n}将馬も{v3:5}も、{n}そんなに気を落とすなよ。{p}
+EN: Well, everyone has off days. Shoma, {v3:5}, don't let it get you down.{p}
+
+## MGG06O g0 s0072
+JP: そうね。{n}とにかく、今日はお疲れさま。{n}もう競技もすべて終わったみたいだし、{n}そろそろ帰りましょ。{p}
+EN: Right. Anyway, good work today. Looks like all the events are over, so let's head home.{p}
+
+## MGG06O g0 s0073
+JP: そうだな……。{n}お疲れさん、{v3:3}。{p}
+EN: Yeah... Good work, {v3:3}.{p}
+
+## MGG06O g0 s0074
+JP: お互い女に負けてちゃ{n}世話ないよなぁ。{n}相手は男みたいな女だけどよ……。{p}{end}
+EN: Both of us losin' to a girl. How pathetic. Though she's a girl who's practically a guy...{p}{end}
+
+## MGG06O g0 s0075
+JP: また、将馬ったら……!{n}くやしかったら、{n}もっとがんばんなさい。{p}{end}
+EN: Shoma, again...! If it bugs you, try harder.{p}{end}
+
+## MGG06O g0 s0076
+JP: くそっ、言い返せねぇ……。{n}あ～あ、ホントにオイラ達も{n}もっとがんばらないといけねぇな。{p}{end}
+EN: Dang, can't argue with that... Man, we really gotta try harder too.{p}{end}
+
+## MGG06O g0 s0077
+JP: まったくだ。{n}俺ももうちょっといけると{n}思ったんだけどなぁ。{p}{end}
+EN: You said it. I thought I'd do a bit better too.{p}{end}
+
+## MGG06O g0 s0078
+JP: ふふっ、がんばれがんばれ。{n}将馬も{v3:5}も、{n}実力はそんなもんじゃないはずだ。{n}そうだろ?{p}{end}
+EN: Heh, hang in there, both of you. Shoma, {v3:5}, you're better than that. Right?{p}{end}
+
+## MGG06O g0 s0079
+JP: もちろんだっつーの。{n}見てろよ、夏。{n}ギャフンといわせてやるからよ!{p}{end}
+EN: Obviously. Watch me, Natsu. I'll make ya eat your words!{p}{end}
+
+## MGG06O g0 s0080
+JP: ふふっ、期待してるわよ。{n}競技もすべて終わったみたいだし、{n}そろそろ帰りましょうか。{p}{end}
+EN: Heh, I'm looking forward to it. Looks like all the events are over, so shall we head home?{p}{end}
+
+## MGG06O g0 s0081
+JP: そうだな。{n}みんな今日はお疲れさん、{n}それじゃ帰ろうぜ。{p}{end}
+EN: Yeah. Good work today, everyone. Let's head home.{p}{end}
+
+## MGG06O g0 s0082
+JP: こうして、新人戦は{n}なんとか終了した……。{p}
+EN: And so the Rookie Meet somehow came to an end...{p}
+
+## MGG06O g0 s0083
+JP: お疲れさま。{n}どうした、体調でも悪かったのか?{n}将馬より悪いなんて……。{p}{end}
+EN: Good work. What happened, were you feeling sick? Worse than Shoma...{p}{end}
+
+## MGG06O g0 s0084
+JP: ホント。{n}それとも、練習不足かな?{n}もっといけると思ったんだけど……。{p}
+EN: Really. Or not enough practice? I thought you'd do better...{p}
+
+## MGG06O g0 s0085
+JP: フッフッフッ、{n}えらそうにいってたわりには、{n}全然ダメだったな、{v3:3}{col:0}クン{col:-}。{p}
+EN: Heh heh heh, for all your big talk, you totally bombed, {v3:3}{col:0}-kun{col:-}.{p}
+
+## MGG06O g0 s0086
+JP: 覚悟はできてるよな、{n}{v3:3}。{n}ええと、さっきは何ていってたんだっけ?{n}オイラのこと、「悪い点」だったか?{p}{end}
+EN: You ready for this, {v3:3}? Uh, what was it you said before? My score was "bad"?{p}{end}
+
+## MGG06O g0 s0087
+JP: やめなさいよ、将馬。{n}大人げない。{p}
+EN: Cut it out, Shoma. Don't be childish.{p}
+
+## MGG06O g0 s0088
+JP: ふふ～ん、勝負は俺の勝ちだな!{n}ま、夏の顔に免じて、これくらいで{n}カンベンしてやるぜ。{p}
+EN: Heh heh, I win the contest! Well, for Natsu's sake, I'll let ya off easy.{p}
+
+## MGG06O g0 s0089
+JP: うう……スミマセン。{p}{end}
+EN: Ugh... Sorry.{p}{end}
+
+## MGG06O g0 s0090
+JP: 自慢できた記録じゃないと{n}思うがなぁ。{p}
+EN: I wouldn't call that a record worth bragging about.{p}
+
+## MGG06O g0 s0091
+JP: ロベルトッ!{n}それ言っちゃ、おしまいだって!{p}{end}
+EN: Roberto! Don't go sayin' that!{p}{end}
+
+## MGG06O g0 s0092
+JP: ハハハッ。{n}ね、競技もすべて終わったみたいだし、{n}そろそろ帰らない?{p}{end}
+EN: Hahaha. Hey, looks like all the events are over. Wanna head home?{p}{end}
+
+## MGG06O g0 s0093
+JP: そうだなっ!{n}よしっ、帰るか。{p}
+EN: Yeah! Okay, let's go home.{p}
+
+## MGG06O g0 s0094
+JP: いやいや、そんなモン、そんなモンだよ。{n}オイラ達はこの種目、得意じゃないからな。{n}そんなモンだって。{n}な、{v3:3}。{p}{end}
+EN: Nah, nah, that's about normal, about normal. We're no good at this event. It's normal. Right, {v3:3}?{p}{end}
+
+## MGG06O g0 s0095
+JP: そ、そうそう。そんなモンだって。{n}……ハァ。{p}{end}
+EN: Y-yeah, yeah. It's about normal... *sigh*{p}{end}
+
+## MGG06O g0 s0096
+JP: 将馬らしくないよ、そんな言い方。{n}もっとがんばんなきゃダメじゃない。{p}{end}
+EN: That doesn't sound like you, Shoma. You've gotta try harder than that.{p}{end}
+
+## MGG06O g0 s0097
+JP: うっ……。{n}たしかにそうだけどよ……。{p}
+EN: Ugh... I know, but...{p}
+
+## MGG06O g0 s0098
+JP: 夏のいうとおりだ。{n}将馬も{v3:5}も、{n}実力はこんなモノじゃないんだろ?{p}{end}
+EN: Natsu's right. Shoma, {v3:5}, you're both better than this, aren't you?{p}{end}
+
+## MGG06O g0 s0099
+JP: 次の『五輪祭』は種目を選べるんだから、{n}得意な種目を練習しとけよ。{p}
+EN: The Gorin Festival lets you pick your event, so practice one you're good at.{p}
+
+## MGG06O g0 s0100
+JP: そうね。{n}二人とも、応援してるわよ。{n}ね、競技もすべて終わったみたいだし、{n}そろそろ帰らない?{p}
+EN: Right. I'm rooting for you both. Hey, looks like all the events are over. Wanna head home?{p}
+
+## MGG06O g0 s0101
+JP: そうだな。{n}よし、それじゃさっそく特訓だ!{n}{v3:3}!{sp}競走するぞ!{p}{end}
+EN: Yeah. Okay, time for special training! {v3:3}! Race ya!{p}{end}
+
+## MGG06O g0 s0102
+JP: よしっ!!{p}
+EN: You're on!!{p}
+
+## MGG06O g1 s0000
+JP: 今日は、五輪高校の春の名物、{n}新人戦の日よ。{p}{end}
+EN: Today's the Rookie Meet, Gorin High's big spring event.{p}{end}
+
+## MGG06O g1 s0001
+JP: 五輪祭ほどではないにしても、{n}新入生の力量をはかる、{n}重要な行事だし。{n}がんばらないとね。{p}
+EN: It's not as big as the Gorin Festival, but it's an important event for sizing up the new students. I'd better do my best.{p}
+
+## MGG06O g1 s0002
+JP: よぉ、{v1}{col:0}さん{col:-}。{n}ここにいたのか。{n}探したぞ。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. There you are. I was looking for you.{p}{end}
+
+## MGG06O g1 s0003
+JP: 修一先輩。{n}あ、流先輩も。{n}おはようございます。{p}{end}
+EN: Shuichi-senpai. Oh, Nagare-senpai too. Good morning.{p}{end}
+
+## MGG06O g1 s0015
+JP: どうしたのよ、将馬?{p}{end}
+EN: What's wrong, Shoma?{p}{end}
+
+## MGG06O g1 s0017
+JP: やっと来たな、{v7:5}。{n}そういえばお前も『爆裂シュート』に{n}出場するんだったよな。{p}{end}
+EN: There you are, {v7:5}. Come to think of it, you're in the Explosive Shot too, right?{p}{end}
+
+## MGG06O g1 s0027
+JP: なんかよほど点数が{n}悪かったみたいね。{n}将馬はいったい何点だったの?{p}{end}
+EN: His score must've been really bad. Shoma, how many points did you get?{p}{end}
+
+## MGG06O g1 s0029
+JP: それは悪いわね{n}そんなモノよ{p}{end}
+EN: That's bad{n}That's about normal{p}{end}
+
+## MGG06O g1 s0030
+JP: それは確かに悪い点ね。{n}夏より悪いんだもん。{n}全部一枚抜きで、{n}だいたいそれぐらいかな?{p}{end}
+EN: That really is a bad score. Worse than Natsu. About what you'd get knocking out one panel per shot?{p}{end}
+
+## MGG06O g1 s0032
+JP: 勝負って……いいの?{n}私が2500点以上とればいいんでしょ?{n}不公平じゃない?{p}
+EN: A contest... you sure? I just need to beat 2500, right? Isn't that unfair?{p}
+
+## MGG06O g1 s0035
+JP: ロベルトも将馬も、それくらいにして。{n}{v7:4}、そろそろ出番みたいよ。{n}用意した方がいいんじゃない?{p}{end}
+EN: Roberto, Shoma, that's enough. {v7:4}, looks like you're up soon. Better get ready, don't you think?{p}{end}
+
+## MGG06O g1 s0038
+JP: そんなモノじゃないかな?{n}サッカーが得意なワケじゃないんだから。{n}はじめてやったら、{n}それくらいだとおもうけど。{p}{end}
+EN: Isn't that about normal? You're not a soccer player. I'd say that's what you'd get your first time.{p}{end}
+
+## MGG06O g1 s0041
+JP: まぁいいじゃない。{n}{v7:4}、そろそろ出番じゃない?{n}用意した方がいいわよ。{p}{end}
+EN: Oh, let it go. {v7:4}, aren't you up soon? Better get ready.{p}{end}
+
+## MGG06O g1 s0044
+JP: お疲れさま。{n}やるじゃないか、{n}{v7:5}がそんなにスゴイなんて{n}思ってなかったぞ。{p}
+EN: Good work. Not bad! I had no idea you were that good, {v7:5}.{p}
+
+## MGG06O g1 s0045
+JP: さすがね。{n}かっこよかったよ、{n}{v7:4}。{p}
+EN: Impressive. You looked cool, {v7:4}.{p}
+
+## MGG06O g1 s0047
+JP: ん?{sp}将馬クン、{n}何かいったかな?{p}
+EN: Hm? Shoma-kun, did you say something?{p}
+
+## MGG06O g1 s0049
+JP: 何ですって?{n}よく聞こえないわね。{p}
+EN: What was that? I can't hear you.{p}
+
+## MGG06O g1 s0050
+JP: 俺の負けだっつってんだろ!{n}何度も言わせるんじゃねぇよっ!{p}
+EN: I said I lost! Don't make me say it again!{p}
+
+## MGG06O g1 s0051
+JP: ふふっ、賭けは私の勝ちね。{n}ま、気にしないで。{n}公正な条件じゃなかったし、{n}人間、誰でも調子が悪いときがあるわよ。{p}
+EN: Heh, I win the bet. Don't sweat it. The conditions weren't fair, and everybody has off days.{p}
+
+## MGG06O g1 s0053
+JP: ふふっ、がんばるんだよ、将馬。{n}{v7:4}も、お疲れさま。{p}{end}
+EN: Heh, hang in there, Shoma. Good work, {v7:4}.{p}{end}
+
+## MGG06O g1 s0056
+JP: ええっ?{sp}私達も!?{p}{end}
+EN: Huh? Us too!?{p}{end}
+
+## MGG06O g1 s0061
+JP: 将馬、ちょっと大人げないよ。{n}せっかく{v7:4}が{n}いい成績をとったんだから、{n}喜んであげなさいよ。{p}
+EN: Shoma, that's kinda childish. {v7:4} got a great score, so be happy for her.{p}
+
+## MGG06O g1 s0063
+JP: しょ、将馬……。{n}なんか慰めるようなコト{n}言っちゃって、ごめんなさいね……。{p}{end}
+EN: Sh-Shoma... Sorry, saying all that to make you feel better...{p}{end}
+
+## MGG06O g1 s0070
+JP: いいわよ、その通りだし。{n}私ももうちょっといくと{n}思ったんだけどな……。{p}{end}
+EN: It's fine, he's right. I thought I'd do a bit better too...{p}{end}
+
+## MGG06O g1 s0071
+JP: ま、誰でも調子が悪いときは{n}あるからな。{n}将馬も{v7:5}も、{n}そんなに気を落とすなよ。{p}
+EN: Well, everyone has off days. Shoma, {v7:5}, don't let it get you down.{p}
+
+## MGG06O g1 s0074
+JP: 2人とも負けてちゃ、世話ないよなぁ。{n}もっとも、相手は男みたいな女だけどな。{p}{end}
+EN: We both lost, how pathetic. Though she's a girl who's practically a guy.{p}{end}
+
+## MGG06O g1 s0077
+JP: まったくだわ。{n}私ももうちょっといけると{n}思ったんだけどなぁ。{p}
+EN: You said it. I thought I'd do a bit better too.{p}
+
+## MGG06O g1 s0078
+JP: ふふっ、がんばれがんばれ。{n}将馬も{v7:5}も、{n}実力はそんなもんじゃないはずだ。{n}そうだろ?{p}{end}
+EN: Heh, hang in there, both of you. Shoma, {v7:5}, you're better than that. Right?{p}{end}
+
+## MGG06O g1 s0085
+JP: フッフッフッ、{n}えらそうにいってたわりには、{n}全然ダメだったな、{v3:3}{col:0}さん{col:-}。{p}
+EN: Heh heh heh, for all your big talk, you totally bombed, {v3:3}{col:0}-san{col:-}.{p}
+
+## MGG06O g1 s0095
+JP: そ、そうそう。そんなモンよね。{n}……ハァ。{p}
+EN: Y-yeah, yeah. It's about normal... *sigh*{p}
+
+## MGG06O g1 s0098
+JP: 夏のいうとおりだ。{n}将馬も{v7:5}も、{n}実力はこんなモノじゃないんだろ?{p}{end}
+EN: Natsu's right. Shoma, {v7:5}, you're both better than this, aren't you?{p}{end}
+
+## MGG06O g1 s0102
+JP: よぉしっ!!{p}{end}
+EN: You're on!!{p}{end}
+

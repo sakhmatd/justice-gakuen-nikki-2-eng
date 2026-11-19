@@ -1,0 +1,2612 @@
+## MGK03 g0 s0000
+JP: とうとう学年末試験がきてしまった……。{n}なんか一年て早いなあ…。{p}{end}
+EN: The year-end exam is finally here... A year sure goes by fast...{p}{end}
+
+## MGK03 g0 s0001
+JP: 最後の試験は{n}この俺自身の体で確かめてやるぜ!{n}最後ぐらいビシッと決めてくれよ!{n}じゃあ始めるぜ!{p}
+EN: For the last exam, I'm testin' you myself, with my own body! At least nail this last one! Let's go!{p}
+
+## MGK03 g0 s0002
+JP: 合格だ!{n}やっぱりお前は{n}いいもん持ってるじゃねえか!{p}
+EN: You pass! I knew you had the goods!{p}
+
+## MGK03 g0 s0003
+JP: 来年は一年生の見本になるように{n}良い先輩になるんだぜ!{p}
+EN: Next year, be a good senpai and set an example for the first-years!{p}
+
+## MGK03 g0 s0004
+JP: どうした、どうした!{n}一年間を無駄に過ごしてきたのか?{p}
+EN: What's wrong, what's wrong!? Did you waste a whole year?{p}
+
+## MGK03 g0 s0005
+JP: 4月には後輩が入ってくるんだぜ!{n}はずかしくないように、{n}自習をもっとしておくんだな!{p}
+EN: You'll have juniors comin' in April! Study more on your own so you don't embarrass yourself!{p}
+
+## MGK03 g0 s0006
+JP: もう一年生も終わりかあ……。{n}高校の一年間て、{n}早いけど色んな事があったよなあ……。{p}{end}
+EN: First year's already over, huh... A year of high school goes by fast, but a lot sure happened...{p}{end}
+
+## MGK03 g0 s0007
+JP: あっ、いたいた!{n}さ、進級試験の時間よ!{n}始めようか!{p}
+EN: Oh, there you are! OK, it's time for your promotion exam! Let's get started!{p}
+
+## MGK03 g0 s0008
+JP: 進級試験って……{n}さくらが試験をするの?{p}{end}
+EN: A promotion exam... You're the one giving it, Sakura?{p}{end}
+
+## MGK03 g0 s0009
+JP: そうよ!{n}わたしに勝てば、進級させてあげるよ!{n}あなたの力、あなたの気持ちを{n}わたしに見せて!{sp}いくよ!{p}{end}
+EN: That's right! Beat me and I'll let you move up! Show me your strength and your feelings! Here I come!{p}{end}
+
+## MGK03 g0 s0010
+JP: さすがね……これなら合格よ。{n}私の気持ち……、{n}分かってくれたんだね……。{p}
+EN: Nice going... That's a pass. So you understood... how I feel...{p}
+
+## MGK03 g0 s0011
+JP: うれしい……。{n}あなたならきっと……。{p}
+EN: I'm so happy... I knew you could...{p}
+
+## MGK03 g0 s0012
+JP: 残念だわ……不合格ね。{n}やっぱりあなたじゃないのかナ……。{p}
+EN: Too bad... You fail. Maybe it isn't you after all...{p}
+
+## MGK03 g0 s0013
+JP: 進級試験なんてウソ。{n}あなたの実力を見たかっただけよ……。{n}もっと強くなって{n}あの人を超えてほしかった……。{p}{end}
+EN: There's no promotion exam. I just wanted to see what you could really do... I wanted you to get stronger and surpass that person...{p}{end}
+
+## MGK03 g0 s0014
+JP: あ、あの人って……{n}誰の事言ってるんだ?{n}……これで試験は終わりなのかな?{p}
+EN: Th-that person... Who's she talking about? ...So is the exam over now?{p}
+
+## MGK03 g0 s0015
+JP: 今日は、ホワイトデーだよな。{p}{end}
+EN: Today's White Day, huh.{p}{end}
+
+## MGK03 g0 s0016
+JP: 本命チョコをくれた人に、お返しをしよう!{n}誰にお返しをしようかな……。{p}
+EN: I'll give a return gift to whoever gave me true-love chocolate! Who should it be...?{p}
+
+## MGK03 g0 s0020
+JP: やっぱり、バツだよな!{p}
+EN: It's gotta be Batsu!{p}
+
+## MGK03 g0 s0021
+JP: バツから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Batsu, so I'll pick someone else.{p}
+
+## MGK03 g0 s0022
+JP: やっぱり、ひなただよな!{p}{end}
+EN: It's gotta be Hinata!{p}{end}
+
+## MGK03 g0 s0023
+JP: ひなたから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Hinata, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0024
+JP: やっぱり、恭介だよな!{p}
+EN: It's gotta be Kyosuke!{p}
+
+## MGK03 g0 s0025
+JP: 恭介から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Kyosuke, so I'll pick someone else.{p}
+
+## MGK03 g0 s0026
+JP: やっぱり、将馬だよな!{p}
+EN: It's gotta be Shoma!{p}
+
+## MGK03 g0 s0027
+JP: 将馬から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Shoma, so I'll pick someone else.{p}
+
+## MGK03 g0 s0028
+JP: やっぱり、夏だよな!{p}{end}
+EN: It's gotta be Natsu!{p}{end}
+
+## MGK03 g0 s0029
+JP: 夏から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Natsu, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0030
+JP: やっぱり、ロベルトだよな!{p}
+EN: It's gotta be Roberto!{p}
+
+## MGK03 g0 s0031
+JP: ロベルトから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Roberto, so I'll pick someone else.{p}
+
+## MGK03 g0 s0032
+JP: やっぱり、ロイだよな!{p}
+EN: It's gotta be Roy!{p}
+
+## MGK03 g0 s0033
+JP: ロイから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Roy, so I'll pick someone else.{p}
+
+## MGK03 g0 s0034
+JP: やっぱり、ティファニーだよな!{p}
+EN: It's gotta be Tiffany!{p}
+
+## MGK03 g0 s0035
+JP: ティファニーから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Tiffany, so I'll pick someone else.{p}
+
+## MGK03 g0 s0036
+JP: やっぱり、ボーマンだよな!{p}
+EN: It's gotta be Boman!{p}
+
+## MGK03 g0 s0037
+JP: ボーマンから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Boman, so I'll pick someone else.{p}
+
+## MGK03 g0 s0038
+JP: やっぱり、エッジだよな!{p}{end}
+EN: It's gotta be Edge!{p}{end}
+
+## MGK03 g0 s0039
+JP: エッジから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Edge, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0040
+JP: やっぱり、アキラだよな!{p}{end}
+EN: It's gotta be Akira!{p}{end}
+
+## MGK03 g0 s0041
+JP: アキラから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Akira, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0042
+JP: やっぱり、岩だよな!{p}{end}
+EN: It's gotta be Gan!{p}{end}
+
+## MGK03 g0 s0043
+JP: 岩から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Gan, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0044
+JP: やっぱり、英雄先生だよな!{p}
+EN: It's gotta be Hideo-sensei!{p}
+
+## MGK03 g0 s0045
+JP: 英雄先生から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Hideo-sensei, so I'll pick someone else.{p}
+
+## MGK03 g0 s0046
+JP: やっぱり、響子先生だよな!{p}
+EN: It's gotta be Kyoko-sensei!{p}
+
+## MGK03 g0 s0047
+JP: 響子先生から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Kyoko-sensei, so I'll pick someone else.{p}
+
+## MGK03 g0 s0048
+JP: やっぱり、雹さんだよな!{p}{end}
+EN: It's gotta be Hyo-san!{p}{end}
+
+## MGK03 g0 s0049
+JP: 雹さんから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Hyo-san, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0050
+JP: やっぱり、隼人先生だよな!{p}
+EN: It's gotta be Hayato-sensei!{p}
+
+## MGK03 g0 s0051
+JP: 隼人先生から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Hayato-sensei, so I'll pick someone else.{p}
+
+## MGK03 g0 s0052
+JP: やっぱり、醍醐先輩だよな!{p}
+EN: It's gotta be Daigo-senpai!{p}
+
+## MGK03 g0 s0053
+JP: 醍醐先輩から{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Daigo-senpai, so I'll pick someone else.{p}
+
+## MGK03 g0 s0054
+JP: やっぱり、流さんだよな!{p}{end}
+EN: It's gotta be Nagare-san!{p}{end}
+
+## MGK03 g0 s0055
+JP: 流さんから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}{end}
+EN: I didn't get true-love chocolate from Nagare-san, so I'll pick someone else.{p}{end}
+
+## MGK03 g0 s0056
+JP: やっぱり、ランだよな!{p}
+EN: It's gotta be Ran!{p}
+
+## MGK03 g0 s0057
+JP: ランから{n}本命チョコをもらってないから、{n}他の人にしよう。{p}
+EN: I didn't get true-love chocolate from Ran, so I'll pick someone else.{p}
+
+## MGK03 g0 s0058
+JP: さて、学校に行って、渡すとするかな!{p}{end}
+EN: Well, guess I'll head to school and hand it over!{p}{end}
+
+## MGK03 g0 s0059
+JP: ……って、誰からも本命チョコを{n}もらってないんだから、{n}俺には関係ないじゃないか!{p}
+EN: ...Wait, I didn't get true-love chocolate from anybody, so this has nothing to do with me!{p}
+
+## MGK03 g0 s0060
+JP: 楽でイイよな!{n}あはははははははは……!!{p}
+EN: Nice and easy for me! Ahahahahahahaha...!!{p}
+
+## MGK03 g0 s0062
+JP: 学校にでも行くか……。{p}
+EN: Guess I'll head to school or something...{p}
+
+## MGK03 g0 s0065
+JP: ん!?{sp}手裏剣……じゃなくて、{n}なんだこりゃ?{p}
+EN: Hm!? A shuriken... no, wait. What's this?{p}
+
+## MGK03 g0 s0066
+JP: フフフ……。{n}俺からのバレンタインのお返しだよ!{n}今日は、ホワイトデーだからね!{p}{end}
+EN: Heh heh... It's my return gift for Valentine's! Today's White Day, after all!{p}{end}
+
+## MGK03 g0 s0067
+JP: {v3:0}!{sp}オレにか!?{n}ま、まさか、お返しがもらえるとは{n}思ってなかったぜ……。{p}
+EN: {v3:0}! For me!? I-I never figured I'd get anything back...{p}
+
+## MGK03 g0 s0068
+JP: あ、ありがとうな!{p}
+EN: Th-thanks!{p}
+
+## MGK03 g0 s0069
+JP: へへ……、{n}でも、味なマネしてくれるじゃねぇか……。{n}オレが渡したときと同じやり方で{n}返してくるなんてな!{p}
+EN: Heh... Pretty slick move, though... Givin' it back the same way I gave it to you!{p}
+
+## MGK03 g0 s0070
+JP: えへへ……。{n}なぁ、バツ、{n}これから、ちょっと付き合ってくれないか?{n}行きたいところがあるんだ!{p}{end}
+EN: Hehe... Hey, Batsu, could you come with me for a bit? There's somewhere I wanna go!{p}{end}
+
+## MGK03 g0 s0071
+JP: あぁ、構わねぇよ。{n}今日は、とことん付き合ってやるぜ!{p}
+EN: Yeah, sure. Today I'll go wherever you want!{p}
+
+## MGK03 g0 s0072
+JP: なんだよ、遊園地じゃねぇか。{n}ここに用があるのか?{p}
+EN: What's this, the amusement park? You got business here?{p}
+
+## MGK03 g0 s0073
+JP: うん!{n}いつか2人だけで、{n}来たいと思ってたんだ。{p}
+EN: Yep! I always wanted to come here someday, just the two of us.{p}
+
+## MGK03 g0 s0074
+JP: さぁ、中に入ろう!{n}そろそろ、ちょうどイイ時間になるよ!{p}{end}
+EN: C'mon, let's go in! It's almost the perfect time!{p}{end}
+
+## MGK03 g0 s0075
+JP: ちょうどイイ時間って……、{n}何がだ?{p}{end}
+EN: The perfect time... for what?{p}{end}
+
+## MGK03 g0 s0076
+JP: 行けばわかるよ。{n}さぁ、行こう!{p}{end}
+EN: You'll see when we get there. C'mon, let's go!{p}{end}
+
+## MGK03 g0 s0077
+JP: キレイな夕焼けじゃないか……。{n}なるほどな、コイツを見ようと思ったら、{n}今がイイ時間だな。{p}
+EN: Now that's a nice sunset... Got it. If you wanna see this, now's the perfect time.{p}
+
+## MGK03 g0 s0078
+JP: フフフ……。{n}俺のとっておきの場所なんだ。{p}
+EN: Heh heh... This is my secret spot.{p}
+
+## MGK03 g0 s0079
+JP: なぁ、さっきもらったヤツ、{n}開けてもいいよな?{p}
+EN: Hey, that thing you gave me earlier... Mind if I open it?{p}
+
+## MGK03 g0 s0081
+JP: ハハハ……!{n}手裏剣の形のクッキーか!{n}こんなのがあるんだな!{n}俺っぽくて、いいじゃねぇか。{p}{end}
+EN: Hahaha...! Shuriken cookies! Didn't know they made these! Very me. I like it.{p}{end}
+
+## MGK03 g0 s0082
+JP: だろ?{n}バツに合うものを……って、{n}探すのに苦労したんだから!{n}あはは……。{p}{end}
+EN: Right? It was a pain finding something that suited you, Batsu! Ahaha...{p}{end}
+
+## MGK03 g0 s0083
+JP: へへ……、{n}ちょっと感動しちまったぜ……。{p}
+EN: Heh... I'm kinda touched...{p}
+
+## MGK03 g0 s0084
+JP: {v3:0}がオレのために{n}こんなにしてくれるなんてな……。{p}{end}
+EN: Never thought {v3:0} would go this far for me...{p}{end}
+
+## MGK03 g0 s0085
+JP: サ、サンキューな……、{n}{v3:0}……。{p}
+EN: Th-thanks... {v3:0}...{p}
+
+## MGK03 g0 s0086
+JP: （フフフ……、よかった。{n}{sp}バツもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Batsu seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0087
+JP: ひなた!{n}これから帰るのか?{p}{end}
+EN: Hinata! Heading home?{p}{end}
+
+## MGK03 g0 s0088
+JP: あっ、{v6:1}!{n}うん、そうだよ。{p}
+EN: Oh, {v6:1}! Yeah, I am.{p}
+
+## MGK03 g0 s0089
+JP: よかったら、{n}ちょっと付き合ってくれないかな?{n}一緒に行きたいところがあるんだ!{p}{end}
+EN: If you're up for it, could you come with me for a bit? There's somewhere I wanna go with you!{p}{end}
+
+## MGK03 g0 s0090
+JP: う、うん……。いいよ。{p}
+EN: O-okay... Sure.{p}
+
+## MGK03 g0 s0091
+JP: あはは……!{sp}遊園地じゃない!{n}{v6:1}が一緒に来たいって、{n}遊園地のことだったの?{p}{end}
+EN: Ahaha...! It's the amusement park! This is where you wanted to come with me, {v6:1}?{p}{end}
+
+## MGK03 g0 s0092
+JP: でも、もうすぐ夕方だよ……。{p}{end}
+EN: But it's almost evening...{p}{end}
+
+## MGK03 g0 s0093
+JP: ちょうどイイ時間だよ。{n}さぁ、中に入ろう!{p}
+EN: That's the perfect time. C'mon, let's go in!{p}
+
+## MGK03 g0 s0094
+JP: わぁ……、{n}キレイな夕焼けだね……。{n}それで、ちょうどイイ時間だって{n}いってたんだ。{p}{end}
+EN: Wow... What a pretty sunset... So that's what you meant by the perfect time.{p}{end}
+
+## MGK03 g0 s0095
+JP: これを、私に見せるために、{n}連れてきてくれたんだね……。{p}{end}
+EN: You brought me here to show me this...{p}{end}
+
+## MGK03 g0 s0096
+JP: えへへ……、それだけじゃないんだ。{n}ねぇ、ひなた!{n}今日は、何の日か知ってる?{p}
+EN: Hehe... That's not all. Hey, Hinata! Do you know what day it is today?{p}
+
+## MGK03 g0 s0097
+JP: ホ、ホワイトデー……だよね。{p}{end}
+EN: I-it's White Day... right?{p}{end}
+
+## MGK03 g0 s0098
+JP: ハイ!{sp}これっ!{n}ひなたへのお返しだよ。{p}{end}
+EN: Here, this! It's your return gift, Hinata.{p}{end}
+
+## MGK03 g0 s0099
+JP: あ、ありがとう……。{n}{v6:1}が、{n}今日、何もいってきてくれなかったから、{n}お返しはもらえないんだと思ってたよ……。{p}{end}
+EN: Th-thank you... You didn't say anything all day, {v6:1}, so I figured I wasn't getting one...{p}{end}
+
+## MGK03 g0 s0100
+JP: ゴメンゴメン!{n}今日、ひなたとデートして、{n}そのときに渡すつもりだったからね。{p}
+EN: Sorry, sorry! I was planning to give it to you on our date today.{p}
+
+## MGK03 g0 s0101
+JP: もちろん、{n}ひなたが付き合ってくれたらの{n}話だったんだけどね。{p}
+EN: That is, if you agreed to come with me.{p}
+
+## MGK03 g0 s0102
+JP: フフフ……。{n}ねぇ、開けてみてもいい?{p}
+EN: Hee hee... Hey, can I open it?{p}
+
+## MGK03 g0 s0104
+JP: わぁ……っ!{n}イルカさんのクッキーだ!{p}
+EN: Wow...! Dolphin cookies!{p}
+
+## MGK03 g0 s0105
+JP: さ、さすがに、俺は、{n}ひなたみたいに手作りってわけには、{n}いかなかったけどね……。{n}あはは……!{p}{end}
+EN: W-well, I couldn't exactly make them by hand like you did, Hinata... Ahaha...!{p}{end}
+
+## MGK03 g0 s0107
+JP: ねぇ、{v6:1}……。{n}私の作ったチョコ……、{n}やっぱり、おいしくなかったよね……?{p}
+EN: Hey, {v6:1}... The chocolate I made... It really didn't taste good, did it...?{p}
+
+## MGK03 g0 s0108
+JP: そ、そんなことないって!{n}ちゃんと、おいしかったよ。{p}{end}
+EN: Th-that's not true! It was really good.{p}{end}
+
+## MGK03 g0 s0109
+JP: {v6:1}、ウソついてる……。{n}渡した後、心配になって{n}私も残りを食べてみたけど、{n}おいしくなかったよ……。{p}
+EN: You're lying, {v6:1}... After I gave it to you, I got worried and tried the leftovers. They weren't good...{p}
+
+## MGK03 g0 s0110
+JP: こんなに、{v6:1}が、{n}私のためにしてくれたのに、{n}私は、チョコレートのひとつも{n}満足に作ってあげられなかったと思うと……{p}
+EN: You did all this for me, {v6:1}, and I couldn't even make you one decent chocolate... When I think about that...{p}
+
+## MGK03 g0 s0111
+JP: 情けなく……なってきちゃって……{n}うっ……うっ…………{p}
+EN: I just feel... so pathetic... *sniff*... *sniff*......{p}
+
+## MGK03 g0 s0113
+JP: ホ、ホラ!{n}そんなことで、泣かなくてもイイよ!{p}
+EN: H-hey! You don't have to cry over that!{p}
+
+## MGK03 g0 s0114
+JP: ただのおいしいチョコなんて、{n}お金さえあれば、{n}いつでも食べられるだろ?{p}{end}
+EN: Any old tasty chocolate, you can eat whenever you want if you've got the money, right?{p}{end}
+
+## MGK03 g0 s0115
+JP: ひなたが{n}一生懸命作ってくれたチョコだから、{n}俺はウレシかったし、{n}おいしいと思ったんだよ!{p}{end}
+EN: You worked hard to make that chocolate for me, Hinata. That's why I was happy, and why it tasted good to me!{p}{end}
+
+## MGK03 g0 s0116
+JP: で、でも…………{p}{end}
+EN: B-but......{p}{end}
+
+## MGK03 g0 s0117
+JP: 泣きやんでくれないなら、{n}俺は、ここから飛び降りて、{n}先に帰っちゃうけどイイか?{p}{end}
+EN: If you don't stop crying, I'll jump off right here and go home ahead of you. That OK?{p}{end}
+
+## MGK03 g0 s0118
+JP: そ、そんなことしたら、{n}ケガしちゃうよ……。{n}バカね……、{v6:1}は……。{p}
+EN: I-if you do that, you'll get hurt... You're such a dummy, {v6:1}...{p}
+
+## MGK03 g0 s0119
+JP: へへ……。{n}俺はバカだから、{n}ホントに飛び降りちゃうぜ!{p}{end}
+EN: Heh heh... I'm a dummy, so I'll really jump!{p}{end}
+
+## MGK03 g0 s0120
+JP: さぁ!{sp}俺が飛び降りなくてもイイように、{n}泣き止んでくれよ!{sp}な?{p}
+EN: C'mon! Stop crying so I don't have to jump! OK?{p}
+
+## MGK03 g0 s0121
+JP: う、うん……。{n}今日は、ありがとう……、{n}{v6:1}……。{p}{end}
+EN: O-okay... Thank you for today... {v6:1}...{p}{end}
+
+## MGK03 g0 s0122
+JP: こうして、{n}ひなたと遊園地で夜まで遊んで、{n}ホワイトデーは過ぎていった……。{p}{end}
+EN: And so Hinata and I played at the amusement park until night, and White Day went by...{p}{end}
+
+## MGK03 g0 s0123
+JP: 恭介!{n}ちょっと、イイかな……?{p}{end}
+EN: Kyosuke! Got a minute...?{p}{end}
+
+## MGK03 g0 s0124
+JP: {v4:2}、{n}僕に何か用かい?{p}{end}
+EN: {v4:2}. Is there something you need from me?{p}{end}
+
+## MGK03 g0 s0125
+JP: これを、恭介に渡そうと思ってさ……。{p}{end}
+EN: I wanted to give you this, Kyosuke...{p}{end}
+
+## MGK03 g0 s0126
+JP: ハイ!{n}バレンタインのときのお返しだよ!{n}今日は、ホワイトデーだからね!{p}{end}
+EN: Here! My return gift for Valentine's! Today's White Day, after all!{p}{end}
+
+## MGK03 g0 s0127
+JP: 僕にか?{n}驚いたな……。{n}キミからお返しをもらえるとは{n}思わなかったよ……。{p}{end}
+EN: For me? That's a surprise... I never expected a return gift from you...{p}{end}
+
+## MGK03 g0 s0128
+JP: えへへ……。{n}なぁ、恭介……、{n}これから、ちょっと付き合ってくれないか?{n}一緒に行きたいところがあるんだ!{p}
+EN: Hehe... Hey, Kyosuke... could you come with me for a bit? There's somewhere I wanna go with you!{p}
+
+## MGK03 g0 s0129
+JP: 構わないよ。{n}今日は、特別な日だからね。{p}{end}
+EN: I don't mind. Today is a special day, after all.{p}{end}
+
+## MGK03 g0 s0130
+JP: 遊園地?{n}ここに来たかったのか?{p}{end}
+EN: An amusement park? This is where you wanted to come?{p}{end}
+
+## MGK03 g0 s0131
+JP: うん!{n}いつか恭介と2人だけで{n}来たいと思ってたんだ。{p}
+EN: Yep! I always wanted to come here someday, just you and me, Kyosuke.{p}
+
+## MGK03 g0 s0133
+JP: ちょうどイイ時間?{n}何がだい?{p}
+EN: The perfect time? For what?{p}
+
+## MGK03 g0 s0135
+JP: キレイな夕焼けだな……。{n}ここから見るには、{n}確かに、今がちょうどイイ時間だよ。{p}{end}
+EN: What a beautiful sunset... From here, now really is the perfect time.{p}{end}
+
+## MGK03 g0 s0136
+JP: フフフ……。{n}ここは、俺のとっておきの場所なんだ。{p}
+EN: Heh heh... This is my secret spot.{p}
+
+## MGK03 g0 s0137
+JP: そうだ、さっきもらったプレゼント、{n}開けてみてもいいかな?{p}
+EN: Oh, right. Mind if I open the present you gave me earlier?{p}
+
+## MGK03 g0 s0138
+JP: うん!{sp}いいよ。{p}{end}
+EN: Sure! Go ahead.{p}{end}
+
+## MGK03 g0 s0140
+JP: ハハハ……。{n}クッキーか……。{n}ずいぶん、かわいいお返しだな。{p}
+EN: Hahaha... Cookies... Quite a cute return gift.{p}
+
+## MGK03 g0 s0141
+JP: ちょっと、苦みのあるクッキーなんだ。{n}結構、おいしいから、{n}恭介にと思ってさ。{p}
+EN: They're a little bitter. They're pretty good, so I thought of you, Kyosuke.{p}
+
+## MGK03 g0 s0142
+JP: ちょっと、感激したな……。{p}
+EN: I'm rather moved...{p}
+
+## MGK03 g0 s0143
+JP: {v4:2}が{n}こんなにも僕に気を使ってくれるなんて{n}思わなかったよ……。{p}
+EN: I never thought {v4:2} would be so thoughtful toward me...{p}
+
+## MGK03 g0 s0144
+JP: 今日は、ありがとう……。{n}{v4:2}……。{p}{end}
+EN: Thank you for today... {v4:2}...{p}{end}
+
+## MGK03 g0 s0145
+JP: （フフフ……、よかった。{n}{sp}恭介もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Kyosuke seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0146
+JP: どうしたんだ、{v3:3}。{n}オイラに用か?{p}{end}
+EN: What's up, {v3:3}? You need me for somethin'?{p}{end}
+
+## MGK03 g0 s0147
+JP: 将馬……、{n}甘いもの……好きか?{p}{end}
+EN: Shoma... Do you... like sweets?{p}{end}
+
+## MGK03 g0 s0148
+JP: あ、あぁ……、好きだけど。{p}
+EN: Y-yeah... I do.{p}
+
+## MGK03 g0 s0149
+JP: じゃあ……、{n}ハイ!{sp}これ!{p}{end}
+EN: Then... here! This!{p}{end}
+
+## MGK03 g0 s0150
+JP: も、もももも、もしかして、{n}これは、お返しってやつか?{p}
+EN: I-i-i-is this, like, one of them return gifts?{p}
+
+## MGK03 g0 s0151
+JP: そう!{n}バレンタインのときのお返しだよ!{n}今日は、ホワイトデーだからね!{p}{end}
+EN: Yep! My return gift for Valentine's! Today's White Day, after all!{p}{end}
+
+## MGK03 g0 s0152
+JP: オ、オイラ……、{n}スゲェうれしいよ!!{p}
+EN: I-I'm... super happy!!{p}
+
+## MGK03 g0 s0153
+JP: えへへ……。{n}なぁ、将馬、{n}これから、ちょっと付き合ってくれないか?{n}行きたいところがあるんだ!{p}{end}
+EN: Hehe... Hey, Shoma, could you come with me for a bit? There's somewhere I wanna go!{p}{end}
+
+## MGK03 g0 s0154
+JP: あぁ、いいぜ!{n}オイラ、今日はオマエのために{n}使うって決めたからな!{p}{end}
+EN: Yeah, sure! I already decided today's all for you!{p}{end}
+
+## MGK03 g0 s0155
+JP: なんだよ、遊園地じゃないか。{n}ここに用があるのか?{p}
+EN: What's this, the amusement park? You got business here?{p}
+
+## MGK03 g0 s0158
+JP: ちょうどイイ時間って、何だよ?{p}
+EN: The perfect time for what?{p}
+
+## MGK03 g0 s0160
+JP: キレイな夕焼けだな!{n}なるほどな、これを見ようと思ったら、{n}今がイイ時間だもんな!{p}
+EN: Nice sunset! Got it. If ya wanna see this, now's the time!{p}
+
+## MGK03 g0 s0162
+JP: なぁ、さっきもらったヤツ、{n}開けてもいいだろ?{p}
+EN: Hey, that thing you gave me earlier... I can open it, right?{p}
+
+## MGK03 g0 s0164
+JP: オォッ!{n}バットとボールのクッキーかぁ!{n}まさに、オイラのあげたチョコの{n}お返しだな!{p}
+EN: Whoa! Bat and ball cookies! The perfect payback for the chocolate I gave ya!{p}
+
+## MGK03 g0 s0165
+JP: だろ?{n}どんなのを返そうかなぁ……って、{n}考えるのに苦労したんだからな!{p}{end}
+EN: Right? It took me forever to figure out what to give you!{p}{end}
+
+## MGK03 g0 s0166
+JP: あ、あはは……、{n}て、照れちまうよな……。{p}
+EN: A-ahaha... Th-this is kinda embarrassin'...{p}
+
+## MGK03 g0 s0167
+JP: {v3:3}が、{n}オイラのために{n}こんなにしてくれるなんてな……。{p}
+EN: Never figured {v3:3} would go this far for me...{p}
+
+## MGK03 g0 s0168
+JP: あ、ありがとうな……。{n}{v3:3}……。{p}
+EN: Th-thanks... {v3:3}...{p}
+
+## MGK03 g0 s0169
+JP: （フフフ……、よかった。{n}{sp}将馬もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Shoma seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0170
+JP: よぉっ、夏!{n}今日は練習ないんだろ?{n}一緒に帰らないか?{p}{end}
+EN: Hey, Natsu! No practice today, right? Wanna walk home together?{p}{end}
+
+## MGK03 g0 s0171
+JP: あ、{v6:4}……、{n}えぇ、いいわよ……。{p}{end}
+EN: Oh, {v6:4}... Yeah, sure...{p}{end}
+
+## MGK03 g0 s0172
+JP: あ、あれ!?{n}下駄箱の中に何か入ってる……。{p}{end}
+EN: Wh-what!? There's something in my shoe locker...{p}{end}
+
+## MGK03 g0 s0173
+JP: なんだろ……?{sp}これ。{p}
+EN: What's this...?{p}
+
+## MGK03 g0 s0174
+JP: どうかしたのか?{p}{end}
+EN: Something wrong?{p}{end}
+
+## MGK03 g0 s0175
+JP: な、なんでもないよ。{n}さぁ、帰ろ。{p}
+EN: N-nothing. C'mon, let's go.{p}
+
+## MGK03 g0 s0176
+JP: そうだ、{n}ちょっと寄りたいところがあるんだ。{n}付き合ってくれよ。{p}{end}
+EN: Oh yeah, there's somewhere I wanna stop by. Come with me.{p}{end}
+
+## MGK03 g0 s0177
+JP: え、えぇ……、いいわよ。{p}{end}
+EN: Y-yeah... Sure.{p}{end}
+
+## MGK03 g0 s0178
+JP: 遊園地?{n}ここに用があるの?{p}{end}
+EN: The amusement park? You've got business here?{p}{end}
+
+## MGK03 g0 s0179
+JP: あぁ!{sp}そろそろ、{n}ちょうどイイ時間になるからな。{n}さぁ、入ろうぜ!{p}{end}
+EN: Yeah! It's almost the perfect time. C'mon, let's go in!{p}{end}
+
+## MGK03 g0 s0181
+JP: わぁ……。{n}キレイな夕焼けね……。{n}だから、時間がどうのっていってたんだ。{p}
+EN: Wow... What a pretty sunset... So that's what all that talk about the time was.{p}
+
+## MGK03 g0 s0182
+JP: えへへ……。{n}ちょっとイイだろ?{n}俺のとっておきの場所なんだ。{p}
+EN: Hehe... Nice, huh? It's my secret spot.{p}
+
+## MGK03 g0 s0183
+JP: なぁ、夏。{n}今日は、何の日か知ってる?{p}
+EN: Hey, Natsu. Do you know what day it is today?{p}
+
+## MGK03 g0 s0184
+JP: ホ、ホワイトデー……でしょ。{p}{end}
+EN: I-it's White Day... isn't it?{p}{end}
+
+## MGK03 g0 s0185
+JP: 俺からのお返しは、ないのかなぁ……とか、{n}思ってたりする?{p}
+EN: Are you maybe thinking I'm not giving you a return gift?{p}
+
+## MGK03 g0 s0186
+JP: す、少し……。{n}あっ、でもイイんだ。{n}こうして、誘ってくれたんだし、{n}そんなのなくてもね……。{p}
+EN: A-a little... Oh, but it's fine. You invited me out like this, so I don't need anything...{p}
+
+## MGK03 g0 s0187
+JP: 実はもう、ちゃんと渡してあるよ。{n}キャンディが入っているやつをね。{p}
+EN: Actually, I already gave it to you. The one with candy inside.{p}
+
+## MGK03 g0 s0188
+JP: …………?{n}あっ!{sp}もしかして、さっきの!{p}
+EN: ......? Oh! Don't tell me, the one from before!{p}
+
+## MGK03 g0 s0189
+JP: やっぱり……、{n}キャンディが入ってる。{p}
+EN: I knew it... There's candy inside.{p}
+
+## MGK03 g0 s0190
+JP: これ……、{v6:4}が{n}アタシにくれたの?{p}{end}
+EN: This... is from you, {v6:4}?{p}{end}
+
+## MGK03 g0 s0191
+JP: ピンポーン!{sp}正解。{p}{end}
+EN: Ding ding! Correct.{p}{end}
+
+## MGK03 g0 s0192
+JP: も、もう……。{n}直接、渡してくれればイイのに……。{n}他の男の子からだと思ったから、{n}どう断ろうかなぁって、考えちゃった。{p}{end}
+EN: G-geez... You could've just handed it to me... I thought it was from some other guy, so I was thinking about how to turn him down.{p}{end}
+
+## MGK03 g0 s0193
+JP: 相手がどんなヤツかも{n}確かめないで、断っちゃうのか?{p}{end}
+EN: You'd turn him down without even checking who he was?{p}{end}
+
+## MGK03 g0 s0194
+JP: だって……、{n}アタシには、どうでもいいもの……。{n}目の前の、誰かさん以外はね……。{p}
+EN: Well... Nobody else matters to me... Except a certain someone right in front of me...{p}
+
+## MGK03 g0 s0195
+JP: あはは……!{n}ア、アタシ、ナニいってんだろ!?{n}うれしくて、頭がパニックしちゃったよ。{p}
+EN: Ahaha...! Wh-what am I saying!? I'm so happy my head's in a panic.{p}
+
+## MGK03 g0 s0196
+JP: い、今のナシだからね!{n}あ、あはは……。{p}{end}
+EN: Th-that didn't count, OK!? A-ahaha...{p}{end}
+
+## MGK03 g0 s0197
+JP: （フフフ……、よかった。{n}{sp}夏もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Natsu seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0198
+JP: ロベルト……、まだ練習なのか?{p}
+EN: Roberto... Still practicing?{p}
+
+## MGK03 g0 s0199
+JP: いや、今日はもう終りだよ。{n}何か用事なのか?{p}{end}
+EN: Nah, I'm done for today. Need something?{p}{end}
+
+## MGK03 g0 s0200
+JP: う、うん。{n}これを渡そうと思ってさ。{p}{end}
+EN: Y-yeah. I wanted to give you this.{p}{end}
+
+## MGK03 g0 s0201
+JP: こりゃ、驚いたな……。{n}もしかして、この間のお返しかい?{p}{end}
+EN: Well, this is a surprise... Is this a return gift for the other day?{p}{end}
+
+## MGK03 g0 s0203
+JP: う、うれしいよ……。{n}ありがとう!{p}
+EN: Th-this makes me really happy... Thanks!{p}
+
+## MGK03 g0 s0204
+JP: えへへ……。{n}なぁ、ロベルト!{n}これから、ちょっと付き合ってくれないか?{n}行きたいところがあるんだ!{p}{end}
+EN: Hehe... Hey, Roberto! Could you come with me for a bit? There's somewhere I wanna go!{p}{end}
+
+## MGK03 g0 s0205
+JP: あぁ、いいぜ!{n}今日は、目一杯付き合うよ!{p}
+EN: Yeah, sure! I'm all yours today!{p}
+
+## MGK03 g0 s0206
+JP: 遊園地?{n}行きたいとこってのは、ここか?{p}{end}
+EN: An amusement park? This is where you wanted to go?{p}{end}
+
+## MGK03 g0 s0209
+JP: 何が、ちょうどイイ時間なんだ?{p}
+EN: The perfect time for what?{p}
+
+## MGK03 g0 s0211
+JP: 夕焼けかぁ……。{n}ここから見るとキレイなもんだな……。{p}
+EN: A sunset, huh... It sure looks beautiful from here...{p}
+
+## MGK03 g0 s0212
+JP: これを見るなら、{n}今の時間が確かに一番いいよ。{p}
+EN: If you're gonna see this, now's definitely the best time.{p}
+
+## MGK03 g0 s0214
+JP: なぁ、さっきもらったヤツ、{n}今開けてもいいだろ?{p}{end}
+EN: Hey, that thing you gave me earlier... Can I open it now?{p}{end}
+
+## MGK03 g0 s0216
+JP: ハハハ……。{n}こいつはイイな!{n}サッカーボール模様のクッキーとはね。{p}{end}
+EN: Hahaha... Now this is great! Soccer-ball cookies!{p}{end}
+
+## MGK03 g0 s0218
+JP: すまないな、{n}気を使わせて……。{p}{end}
+EN: Sorry for making you go to all this trouble...{p}{end}
+
+## MGK03 g0 s0219
+JP: {v3:5}が俺のために{n}こんなにしてくれるなんて、{n}思いもしなかったよ……。{p}
+EN: I never imagined {v3:5} would go this far for me...{p}
+
+## MGK03 g0 s0220
+JP: ありがとう……。{n}{v3:5}……。{p}{end}
+EN: Thanks... {v3:5}...{p}{end}
+
+## MGK03 g0 s0221
+JP: （フフフ……、よかった。{n}{sp}ロベルトもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Roberto seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0222
+JP: ロイ!{n}ちょっと、イイかな……?{p}{end}
+EN: Roy! Got a minute...?{p}{end}
+
+## MGK03 g0 s0223
+JP: {v3:6}じゃないか。{n}ボクに何か用かい?{p}{end}
+EN: If it isn't {v3:6}. Something you need from me?{p}{end}
+
+## MGK03 g0 s0224
+JP: これを、ロイに渡そうと思ってさ……。{p}{end}
+EN: I wanted to give you this, Roy...{p}{end}
+
+## MGK03 g0 s0226
+JP: ボクにかい?{n}ハハ……、驚いたよ。{n}キミからお返しをもらえるとは{n}思わなかったからな……。{p}
+EN: For me? Ha ha... I'm surprised. I never thought I'd get a return gift from you...{p}
+
+## MGK03 g0 s0227
+JP: えへへ……。{n}なぁ、ロイ……、{n}これから、ちょっと付き合ってくれないか?{n}一緒に行きたいところがあるんだ!{p}
+EN: Hehe... Hey, Roy... could you come with me for a bit? There's somewhere I wanna go with you!{p}
+
+## MGK03 g0 s0228
+JP: {v3:6}の行くところなら、{n}どこへだって付き合うぜ!{p}{end}
+EN: Wherever {v3:6} wants to go, I'll come along!{p}{end}
+
+## MGK03 g0 s0229
+JP: 遊園地?{n}ここか、行きたいところっていうのは?{p}
+EN: An amusement park? This is where you wanted to go?{p}
+
+## MGK03 g0 s0230
+JP: うん!{n}いつかロイと2人だけで{n}来たいと思ってたんだ。{p}
+EN: Yep! I always wanted to come here someday, just you and me, Roy.{p}
+
+## MGK03 g0 s0234
+JP: 夕焼けかぁ……。{n}コイツを見に来たわけだな。{n}確かに、今がちょうどイイ時間だよ。{p}{end}
+EN: A sunset, huh... So this is what we came to see. Now really is the perfect time.{p}{end}
+
+## MGK03 g0 s0236
+JP: そうだ、{v3:6}。{n}さっきもらったプレゼント、{n}開けてみてもいいか?{p}{end}
+EN: Oh, right, {v3:6}. Mind if I open the present you gave me earlier?{p}{end}
+
+## MGK03 g0 s0240
+JP: ちょっと、苦みのあるクッキーなんだ。{n}結構、おいしいから、{n}ロイにと思ってさ。{p}
+EN: They're a little bitter. They're pretty good, so I thought of you, Roy.{p}
+
+## MGK03 g0 s0241
+JP: こういうのは……、{n}いまだに、照れるもんだな……。{p}
+EN: This kind of thing... still makes me blush...{p}
+
+## MGK03 g0 s0242
+JP: {v3:6}が、{n}こんなにも、ボクに気を使ってくれるとは、{n}思ってなかったよ……。{p}
+EN: I never thought {v3:6} would be so thoughtful toward me...{p}
+
+## MGK03 g0 s0243
+JP: 今日は、ありがとう……。{n}感謝するよ、{v3:6}……。{p}{end}
+EN: Thank you for today... I mean it, {v3:6}...{p}{end}
+
+## MGK03 g0 s0244
+JP: （フフフ……、よかった。{n}{sp}ロイもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Roy seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0245
+JP: ティファニー!{n}ちょっと、イイかな……?{p}{end}
+EN: Tiffany! Got a minute...?{p}{end}
+
+## MGK03 g0 s0246
+JP: ハイ!{sp}{v3:7}!{n}ミーに何かゴヨウですか?{p}{end}
+EN: Hi, {v3:7}! Is there something you need from me?{p}{end}
+
+## MGK03 g0 s0247
+JP: これを、ティファニーに{n}渡そうと思ってさ……。{p}
+EN: I wanted to give you this, Tiffany...{p}
+
+## MGK03 g0 s0249
+JP: ワァオ!{sp}プレゼント!{n}サンキューね、{v3:7}!{p}{end}
+EN: Wow! A present! Thank you, {v3:7}!{p}{end}
+
+## MGK03 g0 s0250
+JP: やっぱり、{n}あのときのタックルが効きました……。{n}本気でやっておいて、よかったです。{p}{end}
+EN: So that tackle really worked... I'm glad I went all out.{p}{end}
+
+## MGK03 g0 s0251
+JP: あはは……。{n}確かに、あのタックルは効いたけど……。{n}タックルが効いたからってわけじゃ{n}ないんだけどね……。{p}{end}
+EN: Ahaha... Sure, that tackle hit hard... but that's not really why...{p}{end}
+
+## MGK03 g0 s0252
+JP: それはともかく……、{n}これから、ちょっと付き合ってくれないか?{n}一緒に行きたいところがあるんだ!{p}{end}
+EN: Anyway... could you come with me for a bit? There's somewhere I wanna go with you!{p}{end}
+
+## MGK03 g0 s0253
+JP: もちろん、OKね!{n}今日は、{v3:7}と{n}いっぱいデートしまーす!{p}{end}
+EN: Of course, it's OK! Today I'm going on a biiig date with {v3:7}!{p}{end}
+
+## MGK03 g0 s0254
+JP: {v3:7}が{n}行きたいっていってたのは、ここですか?{p}
+EN: Is this where you wanted to go, {v3:7}?{p}
+
+## MGK03 g0 s0255
+JP: そう!{sp}遊園地!{n}いつかティファニーと{n}2人だけで来たいと思ってたんだ。{p}{end}
+EN: Yep! The amusement park! I always wanted to come here someday, just you and me, Tiffany.{p}{end}
+
+## MGK03 g0 s0257
+JP: ちょうどイイ時間って、{n}何がですか?{p}{end}
+EN: The perfect time for what?{p}{end}
+
+## MGK03 g0 s0259
+JP: ロマンティックな夕焼けです……。{n}{v3:7}がいったとおり、{n}ナイスなタイミングだったネ!{p}{end}
+EN: A romantic sunset... Just like you said, {v3:7}, it's perfect timing!{p}{end}
+
+## MGK03 g0 s0261
+JP: オウッ!{sp}忘れるとこでした。{n}さっきもらったプレゼント、{n}開けてもOKですか?{p}
+EN: Oh! I almost forgot. Is it OK if I open the present you gave me?{p}
+
+## MGK03 g0 s0262
+JP: うん!{sp}開けてみてよ。{p}
+EN: Yeah! Go ahead and open it.{p}
+
+## MGK03 g0 s0264
+JP: ワァオ!{sp}お星さまがいっぱいネ!{n}これ、何ですか?{p}
+EN: Wow! So many little stars! What are these?{p}
+
+## MGK03 g0 s0265
+JP: コンペイトーっていうお菓子だよ。{n}なめると、とっても甘いんだ。{n}ティファニーは、{n}食べたことないんじゃないかと思ってね。{p}{end}
+EN: It's a candy called konpeito. It's really sweet when you suck on it. I figured you'd probably never had it, Tiffany.{p}{end}
+
+## MGK03 g0 s0266
+JP: フフフ……。{n}今日の{v3:7}は、{n}パーフェクト、100点満点ネ……。{p}{end}
+EN: Hee hee... Today, {v3:7}, you get a perfect 100 out of 100...{p}{end}
+
+## MGK03 g0 s0267
+JP: ミーはとっても感激しました……。{p}{end}
+EN: I'm so very touched...{p}{end}
+
+## MGK03 g0 s0268
+JP: 今日は、ステキなホワイトデーを{n}プレゼントしてくれて、ありがとう……。{p}
+EN: Thank you for giving me such a wonderful White Day...{p}
+
+## MGK03 g0 s0269
+JP: （フフフ……、よかった。{n}{sp}ティファニーも喜んでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Tiffany seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0270
+JP: ボーマン!{n}ちょっと、イイかな……?{p}{end}
+EN: Boman! Got a minute...?{p}{end}
+
+## MGK03 g0 s0271
+JP: どうしたんですか、{v4:8}?{n}私が手伝えることなら、{n}何でもいってください。{p}{end}
+EN: What is it, {v4:8}? If there is anything I can help with, please just say so.{p}{end}
+
+## MGK03 g0 s0272
+JP: あはは……!{n}そうじゃないんだ。{n}これを、ボーマンに渡そうと思ってさ……。{p}
+EN: Ahaha...! It's not that. I wanted to give you this, Boman...{p}
+
+## MGK03 g0 s0274
+JP: あ、ありがとうございます。{n}いいんですか?{n}私がいただいて……。{p}{end}
+EN: Th-thank you very much. Is it truly all right for me to have this...?{p}{end}
+
+## MGK03 g0 s0275
+JP: えへへ……、もちろん!{p}
+EN: Hehe... Of course!{p}
+
+## MGK03 g0 s0276
+JP: ついでといったら、何だけど……、{n}これから、ちょっと付き合ってくれないか?{n}一緒に行きたいところがあるんだ!{p}{end}
+EN: And while I'm at it... could you come with me for a bit? There's somewhere I wanna go with you!{p}{end}
+
+## MGK03 g0 s0277
+JP: えぇ、ご一緒させていただきますよ。{n}{v4:8}のお願いを{n}聞かないわけには、いきませんからね。{p}{end}
+EN: Yes, I would be glad to come. I could never refuse a request from {v4:8}.{p}{end}
+
+## MGK03 g0 s0278
+JP: {v4:8}が{n}行きたいといっていたのは、{n}この遊園地ですか?{p}
+EN: Is this amusement park where you wished to go, {v4:8}?{p}
+
+## MGK03 g0 s0279
+JP: うん!{n}いつかボーマンと{n}2人だけで来たいと思ってたんだ。{p}
+EN: Yep! I always wanted to come here someday, just you and me, Boman.{p}
+
+## MGK03 g0 s0281
+JP: 何が、ちょうどイイ時間なんですか?{p}
+EN: The perfect time for what, may I ask?{p}
+
+## MGK03 g0 s0283
+JP: キレイな夕焼けですね……。{n}なるほど。{n}これを見ようと思ったら、{n}今がちょうどイイ時間ですからね。{p}
+EN: What a beautiful sunset... I see. If one wishes to see this, now is indeed the perfect time.{p}
+
+## MGK03 g0 s0285
+JP: そうだ、{v4:8}。{n}さっきもらったプレゼントを{n}開けてみてもいいですか?{p}{end}
+EN: Oh, yes, {v4:8}. May I open the present you gave me earlier?{p}{end}
+
+## MGK03 g0 s0288
+JP: ハハハ……。{n}クッキーですか。{n}ありがとうございます。{p}
+EN: Ha ha ha... Cookies. Thank you very much.{p}
+
+## MGK03 g0 s0289
+JP: ちょっと、苦みのあるクッキーなんだ。{n}結構、おいしいから、{n}ボーマンにと思ってさ。{p}
+EN: They're a little bitter. They're pretty good, so I thought of you, Boman.{p}
+
+## MGK03 g0 s0290
+JP: ………………。{n}私は今、非常に感動しています……。{p}
+EN: ...... I am deeply moved right now...{p}
+
+## MGK03 g0 s0291
+JP: {v4:8}から、{n}こんなにしていただけるなんて、{n}思ってもみませんでしたからね……。{p}
+EN: I never imagined you would do so much for me, {v4:8}...{p}
+
+## MGK03 g0 s0292
+JP: 今日は、ありがとう……。{n}感謝していますよ、{n}{v4:8}……。{p}{end}
+EN: Thank you for today... I am truly grateful, {v4:8}...{p}{end}
+
+## MGK03 g0 s0293
+JP: （フフフ……、よかった。{n}{sp}ボーマンもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Boman seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0294
+JP: エッジ!{n}ちょっとイイかな……?{p}{end}
+EN: Edge! Got a minute...?{p}{end}
+
+## MGK03 g0 s0295
+JP: あぁ、{n}どうせ、今から帰るだけだからな。{p}{end}
+EN: Yeah. I was just headin' home anyway.{p}{end}
+
+## MGK03 g0 s0296
+JP: これを渡そうと思ってさ……。{n}ハイ!{p}{end}
+EN: I wanted to give you this... Here!{p}{end}
+
+## MGK03 g0 s0297
+JP: こ、こりゃあ……、{n}もしかして、お返しってヤツかよ!?{p}
+EN: Wh-whoa... Is this one of them return gift things!?{p}
+
+## MGK03 g0 s0299
+JP: わ、わりィな……。{n}ありがとよ……。{p}{end}
+EN: Th-thanks, I owe ya... Appreciate it...{p}{end}
+
+## MGK03 g0 s0300
+JP: えへへ……。{n}なぁ、エッジ、{n}これから、ちょっと付き合ってくれないか?{n}行きたいところがあるんだ!{p}
+EN: Hehe... Hey, Edge, could you come with me for a bit? There's somewhere I wanna go!{p}
+
+## MGK03 g0 s0301
+JP: ハハ……!{n}水クセぇこといってんじゃねぇよ!{n}どこでも付き合ってやるぜ!{p}{end}
+EN: Hah...! Don't be such a stranger! I'll go anywhere with ya!{p}{end}
+
+## MGK03 g0 s0302
+JP: 何だぁ?{sp}遊園地じゃねぇか……。{n}ここに、来たかったのか?{p}
+EN: Huh? The amusement park... This is where ya wanted to come?{p}
+
+## MGK03 g0 s0305
+JP: ちょうどイイ時間って、何がだよ?{p}{end}
+EN: The perfect time for what?{p}{end}
+
+## MGK03 g0 s0307
+JP: コイツぁ、キレイな夕焼けだな……。{n}なるほど、これを見るには、{n}今がイイ頃合いだな。{p}{end}
+EN: Now that's a nice sunset... Got it. If ya wanna see this, now's the time.{p}{end}
+
+## MGK03 g0 s0309
+JP: おっと、そうだ!{n}なぁ、さっきもらったヤツ、{n}開けてもイイだろ?{p}{end}
+EN: Oh, right! Hey, that thing ya gave me earlier... I can open it, right?{p}{end}
+
+## MGK03 g0 s0311
+JP: おぉっ!{n}クッキーかぁ……。{n}チョコで文字まで入ってるぜ……。{p}
+EN: Whoa! Cookies, huh... There's even writin' on 'em in chocolate...{p}
+
+## MGK03 g0 s0312
+JP: 「{col:5}♥{col:-}{sp}虎血羅狐素」……。{n}こ…こちらこそ…かぁ!{p}{end}
+EN: "{col:5}♥{col:-} RITE BAK ATCHA"... R-right back atcha, huh!{p}{end}
+
+## MGK03 g0 s0313
+JP: ギャハハ……!{n}なかなか、うまいじゃねぇか!{p}{end}
+EN: Gyahaha...! That's pretty clever!{p}{end}
+
+## MGK03 g0 s0315
+JP: へへ……、{n}て、照れちまうぜ、まったく……。{p}{end}
+EN: Heh... Th-this is embarrassin', geez...{p}{end}
+
+## MGK03 g0 s0316
+JP: {v3:9}が、{n}オレのために{n}こうまでしてくれるとはよ……。{p}
+EN: Never thought {v3:9} would go this far for me...{p}
+
+## MGK03 g0 s0317
+JP: あ、ありがとよ……。{n}{v3:9}……。{p}{end}
+EN: Th-thanks... {v3:9}...{p}{end}
+
+## MGK03 g0 s0318
+JP: （フフフ……、よかった。{n}{sp}エッジもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Edge seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0319
+JP: どうしたんだ、{v3:10}?{n}こんなところに引っ張ってきて……。{p}{end}
+EN: What is it, {v3:10}? Dragging me out here...{p}{end}
+
+## MGK03 g0 s0320
+JP: なぁ、アキラ、{n}ちょっと、メット取ってくれないかな……。{p}{end}
+EN: Hey, Akira, could you take off your helmet for a sec...?{p}{end}
+
+## MGK03 g0 s0321
+JP: ハハ……。{n}おかしなヤツだな。{n}ちょっと待ってろ。{p}
+EN: Heh... You're a strange one. Hold on.{p}
+
+## MGK03 g0 s0322
+JP: （ゴソゴソ……）{p}{end}
+EN: (*rustle rustle*...){p}{end}
+
+## MGK03 g0 s0323
+JP: はい……。{n}取ったけど……、何かあるの?{p}{end}
+EN: There... I took it off... What is it?{p}{end}
+
+## MGK03 g0 s0324
+JP: えへへ……。{n}これを渡そうと思ってさ!{p}
+EN: Hehe... I wanted to give you this!{p}
+
+## MGK03 g0 s0325
+JP: バレンタインのときのお返しだよ!{n}今日は、ホワイトデーだからね!{p}{end}
+EN: My return gift for Valentine's! Today's White Day, after all!{p}{end}
+
+## MGK03 g0 s0326
+JP: あ、ありがとう……。{n}お返ししてくれるなんて……、{n}思ってなかったよ……。{p}
+EN: Th-thank you... I didn't think you'd give me anything back...{p}
+
+## MGK03 g0 s0327
+JP: ちゃんと、{n}アキラの顔を見て、渡したかったんだ。{n}でも、他の人に見られたらマズイだろ?{n}だから、ここで渡すことにしたんだ。{p}
+EN: I wanted to see your face when I gave it to you, Akira. But it'd be bad if anyone else saw, right? So I picked this spot.{p}
+
+## MGK03 g0 s0328
+JP: そうだったんだ……、フフフ……。{p}{end}
+EN: So that's why... Hee hee...{p}{end}
+
+## MGK03 g0 s0329
+JP: なぁ、アキラ、{n}これから、ちょっと付き合ってくれないか?{n}一緒に行きたいところがあるんだ!{p}
+EN: Hey, Akira, could you come with me for a bit? There's somewhere I wanna go with you!{p}
+
+## MGK03 g0 s0330
+JP: うん、いいよ……。{p}
+EN: Mm, sure...{p}
+
+## MGK03 g0 s0331
+JP: 遊園地……?{n}ここに来たかったの……?{p}
+EN: The amusement park...? This is where you wanted to come...?{p}
+
+## MGK03 g0 s0334
+JP: ちょうどイイ時間って……、{n}何が……?{p}
+EN: The perfect time... for what...?{p}
+
+## MGK03 g0 s0336
+JP: キレイな夕焼けだね……。{n}それでさっき、今がイイ時間だって{n}いってたんだね……。{p}{end}
+EN: What a pretty sunset... So that's why you said now was the perfect time...{p}{end}
+
+## MGK03 g0 s0338
+JP: ねぇ、{v5:10}……。{n}さっきもらったお返し……、{n}開けてもイイでしょ……?{p}
+EN: Hey, {v5:10}... The gift you gave me earlier... Can I open it...?{p}
+
+## MGK03 g0 s0339
+JP: あぁ、開けてみて!{p}
+EN: Yeah, go ahead!{p}
+
+## MGK03 g0 s0341
+JP: わぁ……、カワイイね……。{n}ちっちゃなバイクのクッキーが{n}いっぱい入ってる……。{p}{end}
+EN: Wow... They're so cute... It's full of tiny motorbike cookies...{p}{end}
+
+## MGK03 g0 s0342
+JP: えへへ……、ちょっとイイだろ?{n}アキラにお返しするのに、{n}何がイイかなって、あちこち回って{n}それを見つけたんだ。{p}{end}
+EN: Hehe... Nice, huh? I went all over trying to figure out what to give you, Akira, and found these.{p}{end}
+
+## MGK03 g0 s0343
+JP: ……………………{n}ちょっと……、{n}ジンときちゃった……。{p}{end}
+EN: ............ That kind of... really got to me...{p}{end}
+
+## MGK03 g0 s0344
+JP: {v5:10}が、{n}私のために{n}こんなにしてくれるなんて……。{p}{end}
+EN: You'd do all this for me, {v5:10}...{p}{end}
+
+## MGK03 g0 s0345
+JP: ありがとう……、{n}{v5:10}……。{n}大事に食べるからね……。{p}
+EN: Thank you... {v5:10}... I'll savor every one...{p}
+
+## MGK03 g0 s0346
+JP: （フフフ……、よかった。{n}{sp}アキラもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Akira seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0347
+JP: どうしたんじゃい、{v3:11}?{n}こんなところに引っ張ってきおって……。{p}{end}
+EN: What's the matter, {v3:11}? Draggin' me out here like this...{p}{end}
+
+## MGK03 g0 s0348
+JP: これを、岩に渡そうと思ってね!{p}
+EN: I wanted to give you this, Gan!{p}
+
+## MGK03 g0 s0349
+JP: こ、これは……。{n}もしかして、{n}この間のお返しというヤツかのう……?{p}{end}
+EN: Wh-why, this here... Could it be one of them return gifts for the other day...?{p}{end}
+
+## MGK03 g0 s0351
+JP: す、すまんのう……。{n}ワシは、ウレシイわい……。{p}{end}
+EN: Th-thank ya kindly... This makes me mighty happy...{p}{end}
+
+## MGK03 g0 s0352
+JP: えへへ……。{n}なぁ、岩!{n}これから、ちょっと付き合ってくれないか?{n}行きたいところがあるんだ!{p}
+EN: Hehe... Hey, Gan! Could you come with me for a bit? There's somewhere I wanna go!{p}
+
+## MGK03 g0 s0353
+JP: ガハハハ……!{n}{v3:11}の行きたいところなら、{n}たとえ、火の中水の中、{n}どこにでも、ついていってやるぞい!{p}
+EN: Gahahaha...! Wherever {v3:11} wants to go, I'll follow ya, through fire and water!{p}
+
+## MGK03 g0 s0354
+JP: なんじゃ?{n}この遊園地に用があるのかのう?{p}
+EN: What's this? Ya got business at this here amusement park?{p}
+
+## MGK03 g0 s0357
+JP: 何が、イイ時間なんじゃ?{p}{end}
+EN: Perfect time for what, now?{p}{end}
+
+## MGK03 g0 s0359
+JP: キレイな夕焼けじゃのう……。{n}なるほど、これを見るなら、{n}この時間がイイじゃろうのう!{p}
+EN: Now ain't that a pretty sunset... I see, if ya wanna watch this, now's the time fer sure!{p}
+
+## MGK03 g0 s0361
+JP: のう?{n}さっきもらったヤツを{n}開けてもいいかのう?{p}
+EN: Say, mind if I open the thing ya gave me earlier?{p}
+
+## MGK03 g0 s0363
+JP: クッキーに、チョコで文字が{n}書いてあるぞい……。{p}{end}
+EN: There's writin' on these cookies in chocolate...{p}{end}
+
+## MGK03 g0 s0364
+JP: 「{col:5}♥{col:-}{sp}がっぷり四つ」……。{n}こりゃ、イイわい!{n}ガハハ……!!{p}
+EN: "{col:5}♥{col:-} LOCKED IN TIGHT"... Now that's a good one! Gahaha...!!{p}
+
+## MGK03 g0 s0365
+JP: えへへ……、{n}一生懸命、考えたんだからな!{p}
+EN: Hehe... I thought really hard about that one!{p}
+
+## MGK03 g0 s0366
+JP: て、照れるのう……。{p}{end}
+EN: Th-this is embarrassin'...{p}{end}
+
+## MGK03 g0 s0367
+JP: {v3:11}がワシのために{n}こうもしてくれるとは、{n}思いもせんかったわい……。{p}
+EN: Never figured {v3:11} would go this far fer me...{p}
+
+## MGK03 g0 s0368
+JP: あ、ありがとうのう……!{n}{v3:11}……。{p}{end}
+EN: Th-thank ya kindly...! {v3:11}...{p}{end}
+
+## MGK03 g0 s0369
+JP: （フフフ……、よかった。{n}{sp}岩もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Gan seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0370
+JP: 英雄先生!{n}ちょっと、イイですか?{p}
+EN: Hideo-sensei! Do you have a minute?{p}
+
+## MGK03 g0 s0371
+JP: {v0}{col:0}君{col:-}じゃないか、{n}どうしたのかね?{p}
+EN: Why, {v0}{col:0}-kun{col:-}. What is it?{p}
+
+## MGK03 g0 s0372
+JP: これを渡そうと思って……。{p}
+EN: I wanted to give you this...{p}
+
+## MGK03 g0 s0373
+JP: ハイ!{n}バレンタインのときのお返しです!{n}今日は、ホワイトデーですからね!{p}
+EN: Here! It's my return gift for Valentine's! Today's White Day, after all!{p}
+
+## MGK03 g0 s0374
+JP: わ、私にかね……?{n}い、いやぁ……、すまないね……。{n}有り難く受け取っておくよ……。{p}{end}
+EN: F-for me...? W-well now... how kind of you... I'll gratefully accept it...{p}{end}
+
+## MGK03 g0 s0375
+JP: えへへ……。{n}ねぇ、英雄先生、{n}これから、付き合ってもらえませんか?{n}行きたいところがあるんです。{p}
+EN: Hehe... Hey, Hideo-sensei, could you come with me? There's somewhere I want to go.{p}
+
+## MGK03 g0 s0376
+JP: あぁ、構わんよ。{n}こうして、お返しまでもらったんだ。{n}断わったりはできんよ。{n}ハハハ……。{p}
+EN: Of course, I don't mind. You even gave me a gift. I could hardly refuse. Ha ha ha...{p}
+
+## MGK03 g0 s0377
+JP: 遊園地……。{n}行きたいといっていたのは、ここかね?{p}
+EN: An amusement park... This is where you wanted to go?{p}
+
+## MGK03 g0 s0378
+JP: えぇ!{n}いつか英雄先生と2人だけで、{n}来たいと思ってたんですよ。{p}{end}
+EN: Yes! I always wanted to come here someday, just you and me, Hideo-sensei.{p}{end}
+
+## MGK03 g0 s0379
+JP: さぁ、中に入りましょう!{n}そろそろ、ちょうどイイ時間になりますよ!{p}
+EN: Let's go in! It's almost the perfect time!{p}
+
+## MGK03 g0 s0380
+JP: ちょうどイイ時間?{n}何がだね?{p}
+EN: The perfect time? For what?{p}
+
+## MGK03 g0 s0381
+JP: 行けばわかりますよ。{n}さぁ、行きましょう!{p}
+EN: You'll see when we get there. Come on, let's go!{p}
+
+## MGK03 g0 s0382
+JP: ほぉ……、{n}キレイな夕焼けだねぇ……。{n}なるほど、これを見ようと思ったら、{n}今がイイ時間だね。{p}
+EN: Oh my... What a beautiful sunset... I see, if one wants to see this, now is the perfect time.{p}
+
+## MGK03 g0 s0383
+JP: フフフ……。{n}俺のとっておきの場所なんですよ。{p}
+EN: Heh heh... This is my secret spot.{p}
+
+## MGK03 g0 s0384
+JP: そうだ、さっきもらったお返しを{n}開けてもいいかね?{p}
+EN: Oh yes, may I open the gift you gave me earlier?{p}
+
+## MGK03 g0 s0385
+JP: えぇ、どうぞ。{p}
+EN: Sure, go ahead.{p}
+
+## MGK03 g0 s0387
+JP: ハハハ……!{n}漢字のクッキーかね!{n}よく、こんなのを見つけたね。{p}{end}
+EN: Ha ha ha...! Kanji cookies! However did you find these?{p}{end}
+
+## MGK03 g0 s0388
+JP: イイでしょ!{n}どんなのを返そうかなぁ……って、{n}あちこち回って、見つけたんですよ!{p}
+EN: Nice, right? I went all over thinking about what to give you, and found these!{p}
+
+## MGK03 g0 s0389
+JP: 私は、うれしいよ……。{p}
+EN: I'm very happy...{p}
+
+## MGK03 g0 s0390
+JP: {v0}{col:0}君{col:-}が、{n}私のために{n}こんなにも尽してくれるとは……。{p}
+EN: To think {v0}{col:0}-kun{col:-} would go to such lengths for me...{p}
+
+## MGK03 g0 s0391
+JP: 本当に、ありがとう!{n}{v0}{col:0}君{col:-}!{p}{end}
+EN: Thank you so much, {v0}{col:0}-kun{col:-}!{p}{end}
+
+## MGK03 g0 s0392
+JP: （フフフ……、よかった。{n}{sp}英雄先生もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Hideo-sensei seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0394
+JP: あら!?{n}{v1}{col:0}クン{col:-}……。{n}どうかしたの……?{p}
+EN: Oh!? {v1}{col:0}-kun{col:-}... What's the matter...?{p}
+
+## MGK03 g0 s0395
+JP: これを響子先生に渡そうと思って……。{p}{end}
+EN: I wanted to give you this, Kyoko-sensei...{p}{end}
+
+## MGK03 g0 s0398
+JP: ちゃんと、お返ししてくれるなんて、{n}{v1}{col:0}クン{col:-}も、{n}なかなかマメね。{p}{end}
+EN: Returning the favor properly? You're quite the thoughtful one, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MGK03 g0 s0399
+JP: えへへ……、{n}響子先生のためですからね!{p}{end}
+EN: Heh heh... It's for you, Kyoko-sensei, after all!{p}{end}
+
+## MGK03 g0 s0400
+JP: ねぇ、響子先生!{n}これから、付き合ってもらえませんか?{n}一緒に行きたいところがあるんです。{p}
+EN: Hey, Kyoko-sensei! Could you come with me now? There's somewhere I want to go with you.{p}
+
+## MGK03 g0 s0401
+JP: フフフ……。{n}こうして、お返しまでもらっちゃったら、{n}断われないわね。{n}いいわ、一緒に行きましょ!{p}
+EN: Hee hee... After getting a return gift and everything, I can't really say no. All right, let's go!{p}
+
+## MGK03 g0 s0402
+JP: 遊園地ね……。{n}行きたいっていってたのは、ここのこと?{p}
+EN: The amusement park... Is this the place you wanted to go?{p}
+
+## MGK03 g0 s0403
+JP: えぇ!{n}いつか響子先生と2人だけで、{n}来たいと思ってたんですよ。{p}{end}
+EN: Yeah! I've always wanted to come here someday, just you and me, Kyoko-sensei.{p}{end}
+
+## MGK03 g0 s0405
+JP: ちょうどイイ時間って、何のこと?{p}{end}
+EN: What do you mean, just the right time?{p}{end}
+
+## MGK03 g0 s0407
+JP: キレイな夕焼けねぇ……。{n}これを見ようと思ったら、{n}確かに今でないとダメよね。{p}
+EN: What a lovely sunset... If you want to see this, it really has to be right now, doesn't it.{p}
+
+## MGK03 g0 s0408
+JP: フフフ……。{n}ここ、俺のとっておきの場所なんですよ。{p}{end}
+EN: Heh heh... This is my secret spot.{p}{end}
+
+## MGK03 g0 s0409
+JP: そうだ、さっきもらったお返しを{n}開けてみてもいいかしら?{p}{end}
+EN: Oh, that's right. Mind if I open the gift you gave me earlier?{p}{end}
+
+## MGK03 g0 s0412
+JP: フフフ……。{n}ウィスキーボンボンね。{n}フンパツしてくれちゃって……。{p}{end}
+EN: Hee hee... Whiskey bonbons. You really splurged...{p}{end}
+
+## MGK03 g0 s0413
+JP: えへへ……、ちょっとね!{n}でも……、響子先生には、{n}やっぱり、それかなって思って……。{p}
+EN: Heh heh... A little! But... for you, Kyoko-sensei, I figured it had to be those...{p}
+
+## MGK03 g0 s0414
+JP: ………………。{n}ちょっと、照れちゃうわね……。{p}
+EN: .........This is a little embarrassing...{p}
+
+## MGK03 g0 s0415
+JP: {v1}{col:0}クン{col:-}が{n}こんなに、私のためにしてくれるなんて{n}思ってなかったもの……。{p}{end}
+EN: I never thought you'd go this far for me, {v1}{col:0}-kun{col:-}...{p}{end}
+
+## MGK03 g0 s0416
+JP: ありがとう……。{n}{v1}{col:0}クン{col:-}……。{p}
+EN: Thank you... {v1}{col:0}-kun{col:-}...{p}
+
+## MGK03 g0 s0417
+JP: （フフフ……、よかった。{n}{sp}響子先生もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Kyoko-sensei seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0418
+JP: 雹さん……。{n}ちょっと、イイですか?{p}{end}
+EN: Hyo-san... Do you have a moment?{p}{end}
+
+## MGK03 g0 s0419
+JP: {v0}か……。{n}何か用か……?{p}
+EN: {v0}... What do you want...?{p}
+
+## MGK03 g0 s0420
+JP: これを……、{n}雹さんに渡そうと思って……。{p}
+EN: I wanted to give you this, Hyo-san...{p}
+
+## MGK03 g0 s0421
+JP: バレンタインのときのお返しです!{n}今日は、ホワイトデーですからね!{p}
+EN: It's a return gift for Valentine's! Today's White Day, after all!{p}
+
+## MGK03 g0 s0422
+JP: 私にか……?{n}フッ……、律義なやつだ。{p}
+EN: For me...? Heh... How very dutiful of you.{p}
+
+## MGK03 g0 s0423
+JP: えへへ……。{n}雹さん……、{n}これから、付き合ってもらえませんか?{n}行きたいところがあるんです。{p}
+EN: Heh heh... Hyo-san... Would you come somewhere with me now? There's a place I want to go.{p}
+
+## MGK03 g0 s0424
+JP: まぁ、いいだろう。{n}今日は、そういう日だというからな……。{p}
+EN: Very well. I am told today is that sort of day...{p}
+
+## MGK03 g0 s0425
+JP: 遊園地……。{n}行きたいといっていたのは、ここか?{p}{end}
+EN: An amusement park... This is where you wished to go?{p}{end}
+
+## MGK03 g0 s0426
+JP: えぇ!{n}いつか雹さんと2人だけで、{n}来たいと思ってたんですよ。{p}
+EN: Yes! I've always wanted to come here someday, just you and me, Hyo-san.{p}
+
+## MGK03 g0 s0428
+JP: ちょうどイイ時間?{n}何のことだ?{p}{end}
+EN: The right time? What do you mean by that?{p}{end}
+
+## MGK03 g0 s0430
+JP: 夕焼けか……。{n}確かに、これを見ようと思ったら、{n}今がイイ時間だな。{p}{end}
+EN: A sunset... Indeed, if one wishes to see this, now is the right time.{p}{end}
+
+## MGK03 g0 s0432
+JP: そうだ、さっき渡したお返し、{n}開けてみてくださいよ!{p}{end}
+EN: Oh, right, go ahead and open the gift I gave you earlier!{p}{end}
+
+## MGK03 g0 s0433
+JP: あぁ……。{p}
+EN: Very well...{p}
+
+## MGK03 g0 s0435
+JP: ハハハ……。{n}この私に、このような{n}西洋菓子を贈るとはな……。{p}
+EN: Ha ha ha... To think someone would give me, of all people, Western confections...{p}
+
+## MGK03 g0 s0436
+JP: えへへ……。{n}ちょっと、苦みのあるクッキーですよ。{n}結構、おいしいから{n}雹さんにと思って……。{p}
+EN: Heh heh... They're cookies with a bit of a bitter taste. They're pretty good, so I thought of you, Hyo-san...{p}
+
+## MGK03 g0 s0437
+JP: フフ……。{n}私に臆することなく、{n}そこまで、ズケズケとものを言うのは、{n}お前くらいなものだ……。{p}{end}
+EN: Heh... You are the only one who speaks to me so bluntly, without a trace of fear...{p}{end}
+
+## MGK03 g0 s0438
+JP: 不思議と怒る気もせんがな……。{p}
+EN: Strangely, it does not even anger me...{p}
+
+## MGK03 g0 s0439
+JP: とりあえず、礼をいっておくぞ……。{n}いろいろと苦労が{n}あったことだろうからな。{p}
+EN: At any rate, I shall thank you... You must have gone to a great deal of trouble.{p}
+
+## MGK03 g0 s0440
+JP: （フフフ……、よかった。{n}{sp}雹さんもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Hyo-san seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0444
+JP: ハイ!{sp}これ!{n}バレンタインのときのお返しです。{n}今日は、ホワイトデーですからね!{p}
+EN: Here, this is for you! A return gift for Valentine's. Today's White Day, after all!{p}
+
+## MGK03 g0 s0446
+JP: やっぱり、俺とオマエは、{n}熱血という名の赤い糸で{n}結ばれているに違いねぇぜ……。{p}{end}
+EN: Just like I thought... You and me are tied together by the red thread of hot blood, no doubt about it...{p}{end}
+
+## MGK03 g0 s0447
+JP: えへへ……。{n}隼人先生、これから{n}ちょっと付き合ってくれませんか?{n}行きたいところがあるんですけど……。{p}{end}
+EN: Heh heh... Hayato-sensei, could you come with me for a bit? There's somewhere I want to go...{p}{end}
+
+## MGK03 g0 s0448
+JP: あぁ、付き合ってやるぜ!{n}オマエが行きたいなら、{n}地球の反対側でもな!{n}ハハハ……!{p}{end}
+EN: Sure, I'll come along! If you wanna go somewhere, I'd follow ya to the other side of the planet! Ha ha ha!{p}{end}
+
+## MGK03 g0 s0449
+JP: 遊園地じゃねぇか……。{n}オマエが来たいってのは、ここか?{p}{end}
+EN: The amusement park, huh... This is where ya wanted to come?{p}{end}
+
+## MGK03 g0 s0450
+JP: えぇ!{n}いつか、2人だけで来たいなって{n}思ってたんです。{p}{end}
+EN: Yeah! I always thought it'd be nice to come here someday, just the two of us.{p}{end}
+
+## MGK03 g0 s0451
+JP: さぁ、中に入りましょう!{n}そろそろ、イイ時間になりますよ!{p}
+EN: Come on, let's go in! It's almost the right time!{p}
+
+## MGK03 g0 s0452
+JP: イイ時間?{n}いったい、何のことだ?{p}
+EN: The right time? What're ya talkin' about?{p}
+
+## MGK03 g0 s0453
+JP: まぁまぁ!{n}行けばわかりますよ。{n}さぁ、行きましょう!{p}
+EN: Now, now! You'll see when we get there. Come on, let's go!{p}
+
+## MGK03 g0 s0454
+JP: フッ……。{n}キレイな夕焼けじゃねぇか……。{n}確かに、こいつをながめるには、{n}ちょうどイイ時間だぜ……。{p}
+EN: Heh... Now that's one fine sunset... Yep, it's just the right time to take in a view like this...{p}
+
+## MGK03 g0 s0455
+JP: フフフ……。{n}ここは、俺のとっておきの{n}場所なんですよ。{p}{end}
+EN: Heh heh... This is my secret favorite spot.{p}{end}
+
+## MGK03 g0 s0456
+JP: そうだ、{n}さっきオマエからもらった包み……、{n}まだ、中を見せてもらってなかったな。{p}
+EN: Oh yeah, that package ya gave me earlier... I still haven't seen what's inside.{p}
+
+## MGK03 g0 s0458
+JP: ほぉ……。{n}クッキーってやつだな。{n}ごていねいに、チョコで文字まで{n}入ってやがる……。{p}
+EN: Well, well... Cookies, huh. And ya even went and wrote words on 'em in chocolate...{p}
+
+## MGK03 g0 s0459
+JP: 「熱血!{n}{sp}それは、夕焼けと同じ燃える赤!」……。{p}
+EN: "Hot blood! The same burning red as the sunset!"...{p}
+
+## MGK03 g0 s0460
+JP: フッ……。{n}やられたぜ……。{n}すべて計算ずくの演出とはな……。{p}
+EN: Heh... Ya got me... So the whole thing was planned down to the last detail, huh...{p}
+
+## MGK03 g0 s0461
+JP: えへへ……。{n}隼人先生に贈る、イイ言葉はないかなって、{n}一生懸命考えましたからね!{p}
+EN: Heh heh... I thought really hard about a good line to give you, Hayato-sensei!{p}
+
+## MGK03 g0 s0462
+JP: まったく、うれしいじゃねぇか……。{p}
+EN: Man, if that don't make me happy...{p}
+
+## MGK03 g0 s0463
+JP: {v3:16}が俺のために{n}ここまでやってくれるとはな……。{p}
+EN: Never thought {v3:16} would go this far for me...{p}
+
+## MGK03 g0 s0464
+JP: 今、俺は、猛烈に感動しているぜ!{n}ありがとうよ……。{p}{end}
+EN: Right now, I'm moved like you wouldn't believe! Thanks, kid...{p}{end}
+
+## MGK03 g0 s0465
+JP: （フフフ……、よかった。{n}{sp}隼人先生もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Hayato-sensei seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0466
+JP: 醍醐先輩!{n}ちょっと、イイですか?{p}
+EN: Daigo-senpai! Do you have a minute?{p}
+
+## MGK03 g0 s0467
+JP: {v4:17}か……。{n}どうかしたのか?{p}
+EN: {v4:17}... What is it?{p}
+
+## MGK03 g0 s0468
+JP: これを……、{n}醍醐先輩に渡そうと思って……。{p}{end}
+EN: I wanted to give you this, Daigo-senpai...{p}{end}
+
+## MGK03 g0 s0470
+JP: 俺にか?{n}すまんな、気を使わせて……。{p}
+EN: For me? Sorry you went to the trouble...{p}
+
+## MGK03 g0 s0471
+JP: えへへ……、当然のことですよ!{p}
+EN: Heh heh... It's the least I could do!{p}
+
+## MGK03 g0 s0472
+JP: あの、醍醐先輩……?{n}これから、付き合ってもらえませんか?{n}行きたいところがあるんです。{p}{end}
+EN: Um, Daigo-senpai...? Could you come with me now? There's somewhere I want to go.{p}{end}
+
+## MGK03 g0 s0473
+JP: あぁ、構わんさ。{n}今日は、お前に付き合う日だからな。{p}{end}
+EN: Sure, I don't mind. Today's the day I go along with you.{p}{end}
+
+## MGK03 g0 s0475
+JP: えぇ!{n}いつか醍醐先輩と2人だけで、{n}来たいと思ってたんですよ。{p}{end}
+EN: Yeah! I've always wanted to come here someday, just you and me, Daigo-senpai.{p}{end}
+
+## MGK03 g0 s0479
+JP: キレイな夕焼けだな……。{n}確かに、これを見ようと思ったら、{n}今がイイ時間だな。{p}
+EN: Nice sunset... Yeah, if you wanna see this, now's the time.{p}
+
+## MGK03 g0 s0484
+JP: ハハ……。{n}クッキーか……。{n}ずいぶん、かわいいお返しだな。{p}{end}
+EN: Ha... Cookies, huh... That's a pretty cute return gift.{p}{end}
+
+## MGK03 g0 s0485
+JP: えへへ……。{n}醍醐先輩、意外と{n}甘いお菓子でも大丈夫みたいだから、{n}クッキーにしてみました。{p}{end}
+EN: Heh heh... You seem to be fine with sweets, surprisingly, so I went with cookies.{p}{end}
+
+## MGK03 g0 s0486
+JP: ハハハ……。{n}照れくさいものだな……。{p}
+EN: Ha ha ha... This is kind of embarrassing...{p}
+
+## MGK03 g0 s0487
+JP: {v4:17}が、俺のために{n}こうも尽してくれるとは……。{p}{end}
+EN: Never thought you'd go this far for me, {v4:17}...{p}{end}
+
+## MGK03 g0 s0488
+JP: 礼をいうぞ、{v4:17}……。{n}ありがとう……。{p}{end}
+EN: I mean it, {v4:17}... Thank you...{p}{end}
+
+## MGK03 g0 s0489
+JP: （フフフ……、よかった。{n}{sp}醍醐先輩もよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Daigo-senpai seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g0 s0490
+JP: 流さぁーん!{n}いらっしゃいますかぁーーーっ?{p}{end}
+EN: Nagare-saaan! Are you heeere!?{p}{end}
+
+## MGK03 g0 s0493
+JP: うわぁっ!{n}流さん……、泳いでたんですね……。{p}
+EN: Whoa! Nagare-san... You were swimming...{p}
+
+## MGK03 g0 s0497
+JP: …………すまないな……。{p}{end}
+EN: ..........Sorry about that...{p}{end}
+
+## MGK03 g0 s0498
+JP: えへへ……。{n}流さん……、これから、{n}ちょっと付き合ってもらえませんか?{n}一緒に行きたいところがあるんです!{p}{end}
+EN: Heh heh... Nagare-san, could you come with me for a bit now? There's somewhere I want to go with you!{p}{end}
+
+## MGK03 g0 s0499
+JP: …………わかった。{n}支度してくる……。{p}
+EN: ..........All right. I'll go get ready...{p}
+
+## MGK03 g0 s0500
+JP: …………遊園地?{n}ここでいいのか……?{p}
+EN: ..........An amusement park? This is the place...?{p}
+
+## MGK03 g0 s0501
+JP: えぇ!{n}いつか2人だけで、{n}来たいと思ってたんです。{p}{end}
+EN: Yeah! I've always wanted to come here someday, just the two of us.{p}{end}
+
+## MGK03 g0 s0502
+JP: さぁ、中に入りましょう!{n}そろそろ、{n}ちょうどイイ時間になりますからね!{p}{end}
+EN: Come on, let's go in! It's almost just the right time!{p}{end}
+
+## MGK03 g0 s0503
+JP: …………ちょうどイイ時間……?{p}
+EN: ..........Just the right time...?{p}
+
+## MGK03 g0 s0505
+JP: …………キレイな、{n}夕焼けだな……。{p}{end}
+EN: ..........What a beautiful... sunset...{p}{end}
+
+## MGK03 g0 s0506
+JP: フフフ……。{n}ここからだと、これくらいの時間に{n}一番キレイに夕焼けが見えるんですよ。{p}{end}
+EN: Heh heh... From here, this is about when the sunset looks the most beautiful.{p}{end}
+
+## MGK03 g0 s0507
+JP: ここは、俺のとっておきの場所なんです。{p}
+EN: This is my secret spot.{p}
+
+## MGK03 g0 s0509
+JP: …………イルカ……{n}……クジラ……カメ……。{p}{end}
+EN: ..........A dolphin... ...a whale... a turtle...{p}{end}
+
+## MGK03 g0 s0510
+JP: えへへ……。{n}それ!{sp}なかなか、イイでしょ?{p}{end}
+EN: Heh heh... Those! Pretty nice, huh?{p}{end}
+
+## MGK03 g0 s0511
+JP: 流さんへのお返しは、{n}海の動物クッキーにしました。{p}
+EN: For your return gift, Nagare-san, I went with sea animal cookies.{p}
+
+## MGK03 g0 s0512
+JP: 食べると速く泳げるようになるかも{n}しれませんね……!{n}あはは……!{p}
+EN: Maybe eating them will make you swim faster...! Ahaha...!{p}
+
+## MGK03 g0 s0513
+JP: …………すまないな。{n}気を使わせて……。{p}{end}
+EN: ..........Sorry... for the trouble...{p}{end}
+
+## MGK03 g0 s0514
+JP: …………うまく言葉にできないが……、{n}感謝している……ありがとう……。{p}
+EN: ..........I can't really put it into words... but I'm grateful... Thank you...{p}
+
+## MGK03 g0 s0515
+JP: …………特に、{n}このカメがイイな……。{p}
+EN: ..........I especially... like this turtle...{p}
+
+## MGK03 g0 s0516
+JP: （フフフ……、よかった。{n}{sp}流さんもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}
+EN: (Heh heh... Good. Nagare-san seemed happy with it, too. Today really turned into a great White Day...){p}
+
+## MGK03 g0 s0517
+JP: ハァイ!{n}新聞部のインタビューなんだけど、{n}ホワイトデーに、どんなお返しをしたか{n}聞かせてくれないかなぁ?{p}
+EN: Hiya! It's an interview for the newspaper club. Could you tell me what you gave back on White Day?{p}
+
+## MGK03 g0 s0518
+JP: よう!{sp}ラン!{n}今度は、ホワイトデーの特集か?{p}
+EN: Hey, Ran! A White Day special this time?{p}
+
+## MGK03 g0 s0519
+JP: なんだ、{v4:19}かぁ……。{n}いらないわよ!{n}アンタのインタビューなんて!{p}{end}
+EN: Oh, it's just {v4:19}... Forget it! I don't need YOUR interview!{p}{end}
+
+## MGK03 g0 s0520
+JP: かわいそうだからと思って、{n}チョコあげたのに、{n}ワタシに、お返しもしないなんて……。{p}{end}
+EN: I gave you chocolate 'cause I felt sorry for you, and you didn't even give me anything back...{p}{end}
+
+## MGK03 g0 s0521
+JP: アンタ……、{n}自分で生意気だと思わない?{p}{end}
+EN: Don't you think you've got some nerve?{p}{end}
+
+## MGK03 g0 s0522
+JP: どうせ、他の女の子にでもあげて、{n}イチャイチャしてたんでしょ?{p}
+EN: I bet you gave something to some other girl and got all lovey-dovey, right?{p}
+
+## MGK03 g0 s0523
+JP: ハハハ……。{n}誰にもあげてないよ。{n}今から渡すんだからな。{p}
+EN: Ha ha ha... I haven't given anything to anyone. I'm about to give it now.{p}
+
+## MGK03 g0 s0524
+JP: ハイ!{sp}これ!{p}
+EN: Here, this is for you!{p}
+
+## MGK03 g0 s0525
+JP: な、なによ……今ごろ……。{n}お……遅いじゃない……。{n}待ちくたびれちゃったわよ……。{p}{end}
+EN: Wh-what's this... now of all times... Y-you're late... I got tired of waiting...{p}{end}
+
+## MGK03 g0 s0526
+JP: ゴメンゴメン!{n}なぁ、ラン!{sp}取材は明日にしろよ。{p}
+EN: Sorry, sorry! Hey, Ran! Save the reporting for tomorrow.{p}
+
+## MGK03 g0 s0527
+JP: 一緒に行きたいところがあるんだ。{n}付き合えよ!{p}
+EN: There's somewhere I want to go with you. Come on!{p}
+
+## MGK03 g0 s0529
+JP: 遊園地?{n}ここに何かあるの?{p}{end}
+EN: The amusement park? Is there something here?{p}{end}
+
+## MGK03 g0 s0530
+JP: そろそろ、ちょうどイイ時間だな。{n}さぁ、中に入ろう!{p}{end}
+EN: It's almost just the right time. Come on, let's go in!{p}{end}
+
+## MGK03 g0 s0531
+JP: ちょうどイイって?{p}
+EN: Just the right time?{p}
+
+## MGK03 g0 s0533
+JP: キレイな夕焼けね……。{n}それで、今がイイ時間だっていってたのね。{p}{end}
+EN: What a pretty sunset... So that's what you meant by the right time.{p}{end}
+
+## MGK03 g0 s0534
+JP: あ、あはは……。{n}ア、アタシ、バカだよね……。{p}
+EN: A-ahaha... I-I'm such an idiot, huh...{p}
+
+## MGK03 g0 s0535
+JP: せっかく、{v4:19}が{n}こんなに気を使ってくれようとしてたのに、{n}さっきは、あんなこと言っちゃって……。{p}
+EN: You went to all this trouble for me, {v4:19}, and I said all that stuff earlier...{p}
+
+## MGK03 g0 s0536
+JP: ゴメンね……。{n}アタシのこと、キライになった?{p}
+EN: Sorry... Do you hate me now?{p}
+
+## MGK03 g0 s0537
+JP: なぁ、ラン。{n}さっきのインタビューだけど……{p}{end}
+EN: Hey, Ran. About that interview earlier...{p}{end}
+
+## MGK03 g0 s0538
+JP: 俺は……、{n}「一番大切な女の子に、{n}{sp}夕焼けをお返ししました」{n}……って答えにしとくよ。{p}{end}
+EN: Put me down for... "I gave a sunset back to the girl who matters most to me."{p}{end}
+
+## MGK03 g0 s0539
+JP: な、なな、何よ急に!{n}バ、バカ……!{p}{end}
+EN: Wh-wh-what's that all of a sudden! Y-you idiot...!{p}{end}
+
+## MGK03 g0 s0540
+JP: でも、うれしいよ……。{n}ありがとう……。{p}{end}
+EN: But I'm happy... Thank you...{p}{end}
+
+## MGK03 g0 s0541
+JP: ねぇ!{sp}今のセリフ!{n}もう1回いってよ!{p}{end}
+EN: Hey! That line just now! Say it one more time!{p}{end}
+
+## MGK03 g0 s0542
+JP: いきなりだったから、{n}録音してなかったのよ……。{n}お願い!{p}
+EN: It was so sudden, I didn't get it recorded... Please!{p}
+
+## MGK03 g0 s0543
+JP: あはは……!{sp}イヤだよ。{p}{end}
+EN: Ahaha...! No way.{p}{end}
+
+## MGK03 g0 s0544
+JP: ねぇ、いいでしょ……?{n}一番大きく載せるから……、ね?{n}一生のお願い!{p}
+EN: Come on, please...? I'll run it as the top story... OK? I'm begging you!{p}
+
+## MGK03 g0 s0545
+JP: （フフフ……、よかった。{n}{sp}ランもよろこんでくれたみたいだし、{n}{sp}ホント、今日は{n}{sp}いいホワイトデーになったな……）{p}{end}
+EN: (Heh heh... Good. Ran seemed happy with it, too. Today really turned into a great White Day...){p}{end}
+
+## MGK03 g1 s0000
+JP: とうとう学年末試験がきてしまったわ……。{n}なんか一年て早いなあ……。{p}{end}
+EN: So the year-end exam is finally here... A year sure goes by fast...{p}{end}
+
+## MGK03 g1 s0006
+JP: もう一年生も終わりかあ……。{n}高校の一年間て、{n}早いけど色んな事があったなあ……。{p}
+EN: First year's almost over... A year of high school goes by fast, but so much happened...{p}
+
+## MGK03 g1 s0009
+JP: そうよ!{n}わたしに勝てば、進級させてあげるよ!{n}あなたの力、あなたの気持ちを{n}私に見せて!{sp}いくよ!{p}{end}
+EN: That's right! Beat me and I'll let you move up a year! Show me your strength and your feelings! Here I come!{p}{end}
+
+## MGK03 g1 s0012
+JP: 残念だわ……不合格よ。{n}やっぱりあなたじゃないのかナ……。{p}
+EN: Too bad... You failed. Maybe it isn't you after all...{p}
+
+## MGK03 g1 s0013
+JP: 進級試験なんてウソ。{n}あなたの実力をみたかっただけよ……。{n}もっと強くなって{n}あの人を超えてほしかった……。{p}{end}
+EN: The promotion exam was a lie. I just wanted to see what you could really do... I wanted you to get stronger and surpass that person...{p}{end}
+
+## MGK03 g1 s0014
+JP: あ、あの人って……{n}誰の事言ってるのかしら?{n}……これで試験は終わり?{p}
+EN: Th-that person...? Who's she talking about? ...So is that the end of the exam?{p}
+
+## MGK03 g1 s0015
+JP: 今日は、ホワイトデーね!{n}2月14日にまいた種の、収穫の日よ!{p}
+EN: Today's White Day! Harvest day for the seeds I sowed on February 14th!{p}
+
+## MGK03 g1 s0016
+JP: お返しもらえるかな……。{n}今日は早めに、学校に行ってみよっと!{p}
+EN: Will I get anything back...? I'll head to school early today!{p}
+
+## MGK03 g1 s0017
+JP: やっぱり、朝の教室で!{n}……っていうパターンよね……!{n}きっと……!{p}{end}
+EN: It'll be in the classroom in the morning, of course! ...That's how it always goes...! I just know it...!{p}{end}
+
+## MGK03 g1 s0018
+JP: まだかなぁ……。{p}{end}
+EN: Any minute now...{p}{end}
+
+## MGK03 g1 s0019
+JP: あ、朝の教室は、{n}いつ人が来るか、わからないものね……。{n}渡せなくて当然よ……、うん。{p}
+EN: W-well, you never know when someone'll walk into the classroom in the morning... Of course nobody could give it to me then... Yeah.{p}
+
+## MGK03 g1 s0020
+JP: こうして、お昼休みに廊下で待ってれば、{n}そっと、渡してくれるハズよ!{n}ドキドキしちゃうな……。{p}
+EN: If I wait in the hallway at lunch, someone's sure to slip it to me quietly! My heart's pounding...{p}
+
+## MGK03 g1 s0021
+JP: ろ、廊下はダメよね……、{n}人が通るもの……。{p}{end}
+EN: Th-the hallway's no good either, huh... People walk by...{p}{end}
+
+## MGK03 g1 s0022
+JP: こうして放課後に、{n}ひとりで屋上にいれば、{n}声の掛けやすさバツグンよね!{p}{end}
+EN: If I'm all alone on the roof after school, I'm super easy to approach!{p}{end}
+
+## MGK03 g1 s0023
+JP: 必ず来るわよ……、必ず。{p}{end}
+EN: Someone'll come... definitely.{p}{end}
+
+## MGK03 g1 s0024
+JP: げ、下校時間になっちゃった……。{n}わ、私……、もう帰っちゃうよ……!?{p}
+EN: I-it's already time to go home... I-I'm leaving, you know...!?{p}
+
+## MGK03 g1 s0026
+JP: こ、これは、もしかして……、{n}『お返しはナシ』ってこと!?{p}
+EN: C-could this mean... "No return gift"!?{p}
+
+## MGK03 g1 s0027
+JP: ど、どっと疲れちゃった……。{n}か……帰って寝よっと……。{p}{end}
+EN: I'm totally wiped out... G-guess I'll go home and sleep...{p}{end}
+
+## MGK03 g1 s0028
+JP: あっ!!{n}そういえば、私……{n}誰にもチョコあげてなかったんだ……。{p}
+EN: Oh!! Come to think of it... I never gave chocolate to anyone...{p}
+
+## MGK03 g1 s0029
+JP: そりゃ、お返しも何もないわよね!{n}あはははは……!{p}
+EN: Well, of course I didn't get anything back! Ahahahaha...!{p}
+
+## MGK03 g1 s0030
+JP: ちょっと……、{n}風が冷たいわ……。{n}さびしい……………………。{p}
+EN: Brr... The wind's cold... So lonely..........{p}
+
+## MGK03 g1 s0031
+JP: なぁ、{v3:0}……、{n}ちょっといいか?{p}
+EN: Hey, {v3:0}... Got a sec?{p}
+
+## MGK03 g1 s0032
+JP: な、なに……。{p}
+EN: Wh-what is it...{p}
+
+## MGK03 g1 s0033
+JP: これをオマエに渡そうと思ってさ。{p}{end}
+EN: I wanted to give you this.{p}{end}
+
+## MGK03 g1 s0034
+JP: これって、もしかして……。{p}
+EN: Is this... by any chance...{p}
+
+## MGK03 g1 s0035
+JP: バ、バレンタインデーのときの、{n}お返しだ……。{n}取っとけよ……。{p}{end}
+EN: I-it's a return gift for Valentine's Day... Take it...{p}{end}
+
+## MGK03 g1 s0036
+JP: あ、ありがとう……。{n}うれしいよ……。{p}
+EN: Th-thanks... I'm really happy...{p}
+
+## MGK03 g1 s0037
+JP: へへ……、{n}やっぱ照れくさいもんだな……。{n}こういうのはよ……。{p}{end}
+EN: Heh... Stuff like this sure is embarrassing...{p}{end}
+
+## MGK03 g1 s0038
+JP: なぁ……、{n}放課後、オレに付き合えよ……。{n}一緒に行きたいところがあるんだ。{p}{end}
+EN: Hey... come with me after school. There's somewhere I wanna go with you.{p}{end}
+
+## MGK03 g1 s0040
+JP: ……キレイ。{n}夜の海って、こんなにキレイなんだね。{p}
+EN: ...Beautiful. I never knew the sea at night was this beautiful.{p}
+
+## MGK03 g1 s0041
+JP: へへ……、{n}オレの気に入りの場所なんだ。{n}ちょっと、遠いけどな……。{p}{end}
+EN: Heh... It's my favorite spot. Kinda far, though...{p}{end}
+
+## MGK03 g1 s0042
+JP: オマエと一緒に歩きたいと思ってさ。{n}さ、さぁ、行こうぜ……。{p}{end}
+EN: I wanted to walk here with you. C-c'mon, let's go...{p}{end}
+
+## MGK03 g1 s0043
+JP: （フフフ……。{n}{sp}バツったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Batsu's getting all shy...){p}{end}
+
+## MGK03 g1 s0044
+JP: （こうして、{n}{sp}海に誘ってもらえるなんて、{n}{sp}今日は、いい思い出になりそうだわ……）{p}{end}
+EN: (Getting invited to the sea like this... Today's gonna be a wonderful memory...){p}{end}
+
+## MGK03 g1 s0045
+JP: こうして、{n}バツと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Batsu.{p}{end}
+
+## MGK03 g1 s0046
+JP: ねぇ、{v8:1}……、{n}ちょっといいかな?{p}{end}
+EN: Hey, {v8:1}... Got a sec?{p}{end}
+
+## MGK03 g1 s0048
+JP: これを、キミに渡そうと思ってさ。{p}{end}
+EN: I wanted to give you this.{p}{end}
+
+## MGK03 g1 s0050
+JP: バ、バレンタインデーのときの、{n}お返しだよ……。{n}受け取ってよ……。{p}{end}
+EN: I-it's a return gift for Valentine's Day... Take it, OK...?{p}{end}
+
+## MGK03 g1 s0052
+JP: フフフ……、{n}やっぱ照れちゃうよね……。{n}こういうのって……。{p}
+EN: Hehe... This kind of thing's embarrassing, huh...{p}
+
+## MGK03 g1 s0053
+JP: ねぇ……、{n}放課後、付き合ってよ……。{n}一緒に行きたいところがあるんだ。{p}{end}
+EN: Hey... come with me after school. There's somewhere I wanna go with you.{p}{end}
+
+## MGK03 g1 s0056
+JP: でしょ?{p}{end}
+EN: Right?{p}{end}
+
+## MGK03 g1 s0057
+JP: {v8:1}と一緒に{n}歩きたいと思って……。{n}さ、さぁ、行こうよ……。{p}
+EN: I wanted to walk here with you, {v8:1}... C-come on, let's go...{p}
+
+## MGK03 g1 s0058
+JP: （フフフ……。{n}{sp}ひなたったら、照れちゃって……）{p}
+EN: (Hee hee... Hinata's getting all shy...){p}
+
+## MGK03 g1 s0060
+JP: こうして、{n}ひなたと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Hinata.{p}
+
+## MGK03 g1 s0061
+JP: {v7:2}……、{n}ちょっといいかい?{p}
+EN: {v7:2}... Do you have a moment?{p}
+
+## MGK03 g1 s0063
+JP: これを、キミに渡そうと思ってね。{p}{end}
+EN: I wanted to give you this.{p}{end}
+
+## MGK03 g1 s0065
+JP: バレンタインデーのときの、{n}お返しだよ……。{n}キミに受け取って欲しいんだ……。{p}
+EN: It's a return gift for Valentine's Day... I'd like you to have it...{p}
+
+## MGK03 g1 s0067
+JP: さすがの僕でも、こういうことは、{n}やっぱり照れるものだな……。{p}
+EN: Even I get embarrassed by this sort of thing, it seems...{p}
+
+## MGK03 g1 s0068
+JP: そうだ……、{n}放課後、付き合ってくれないか……。{n}行きたいところがあるんだ。{n}キミと一緒にね……。{p}
+EN: Oh, right... Would you come with me after school? There's somewhere I'd like to go. With you...{p}
+
+## MGK03 g1 s0071
+JP: ちょっと遠いのが問題だが、{n}僕はここに来るのが好きなんだ……。{p}
+EN: It's a bit far, which is a problem, but I like coming here...{p}
+
+## MGK03 g1 s0072
+JP: こういう日に、{n}キミと一緒に来たいと思ってね……。{n}さぁ、行こうか……。{p}{end}
+EN: On a day like this, I wanted to come here with you... Shall we go?{p}{end}
+
+## MGK03 g1 s0073
+JP: （フフフ……。{n}{sp}恭介ったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Kyosuke's getting all shy...){p}{end}
+
+## MGK03 g1 s0075
+JP: こうして、{n}恭介と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Kyosuke.{p}{end}
+
+## MGK03 g1 s0076
+JP: なぁ、{v3:3}……、{n}ちょっといいかな?{p}{end}
+EN: Hey, {v3:3}... Got a sec?{p}{end}
+
+## MGK03 g1 s0078
+JP: これを、オマエに渡そうと思ってさ!{p}
+EN: I wanted to give ya this!{p}
+
+## MGK03 g1 s0080
+JP: バ、バレンタインデーのときの、{n}お返しだよ……。{n}受け取ってくんねぇかな……。{p}
+EN: I-it's a return gift for Valentine's Day... Would ya take it...?{p}
+
+## MGK03 g1 s0082
+JP: ヘヘ……、{n}やっぱ、照れるよな……。{n}こういうのって……。{p}
+EN: Heh heh... This kinda thing's embarrassin', huh...{p}
+
+## MGK03 g1 s0083
+JP: なぁ……、{n}放課後、付き合ってくれよ……。{n}一緒に行きたいところがあるんだ。{p}{end}
+EN: Hey... come with me after school, will ya? There's somewhere I wanna go with ya.{p}{end}
+
+## MGK03 g1 s0086
+JP: オイラ、ここで{n}たまに練習したりするんだ……。{p}
+EN: I come here to practice sometimes...{p}
+
+## MGK03 g1 s0087
+JP: 今日は、オマエと一緒に{n}歩きたいと思ってさ……。{n}さ、さぁ、行こうぜ……。{p}
+EN: Today I wanted to walk here with ya... C-c'mon, let's go...{p}
+
+## MGK03 g1 s0088
+JP: （フフフ……。{n}{sp}将馬ったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Shoma's getting all shy...){p}{end}
+
+## MGK03 g1 s0090
+JP: こうして、{n}将馬と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Shoma.{p}{end}
+
+## MGK03 g1 s0091
+JP: ねぇ、{v7:4}……、{n}ちょっといい?{p}{end}
+EN: Hey, {v7:4}... Got a sec?{p}{end}
+
+## MGK03 g1 s0093
+JP: これを、アンタに渡そうと思ってさ。{p}
+EN: I wanted to give you this.{p}
+
+## MGK03 g1 s0095
+JP: バ、バレンタインデーのときの、{n}お返しよ……。{n}受け取って欲しいんだけど……。{p}
+EN: I-it's a return gift for Valentine's Day... I'd like you to take it...{p}
+
+## MGK03 g1 s0097
+JP: やっぱ照れちゃうわね……。{n}こういうのって……。{p}{end}
+EN: This kind of thing's embarrassing, huh...{p}{end}
+
+## MGK03 g1 s0098
+JP: ねぇ……、{n}放課後、付き合ってよ……。{n}一緒に行きたいところがあるの。{p}
+EN: Hey... come with me after school. There's somewhere I wanna go with you.{p}
+
+## MGK03 g1 s0102
+JP: アンタと一緒に歩きたいと思って……。{n}さ、さぁ、行こう……。{p}{end}
+EN: I wanted to walk here with you... C-come on, let's go...{p}{end}
+
+## MGK03 g1 s0103
+JP: （フフフ……。{n}{sp}夏ったら、照れちゃって……）{p}
+EN: (Hee hee... Natsu's getting all shy...){p}
+
+## MGK03 g1 s0105
+JP: こうして、{n}夏と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Natsu.{p}
+
+## MGK03 g1 s0106
+JP: {v7:5}……、{n}ちょっといいかな?{p}
+EN: {v7:5}... Got a minute?{p}
+
+## MGK03 g1 s0108
+JP: これを、お前に渡そうと思ってさ。{p}{end}
+EN: I wanted to give you this.{p}{end}
+
+## MGK03 g1 s0110
+JP: バレンタインデーのときの、{n}お返しだよ……。{n}受け取ってくれないか……?{p}{end}
+EN: It's a return gift for Valentine's Day... Will you take it...?{p}{end}
+
+## MGK03 g1 s0112
+JP: ハハ……、{n}どうもこういうのは、照れるな……。{p}
+EN: Ha ha... This kind of thing always gets me embarrassed...{p}
+
+## MGK03 g1 s0113
+JP: そうだ……、{n}放課後、付き合ってくれないか……?{n}一緒に行きたいところがあるんだ。{p}
+EN: Oh, right... Will you come with me after school...? There's somewhere I want to go with you.{p}
+
+## MGK03 g1 s0116
+JP: たまに、ここに来て、{n}海をながめたりするんだ……。{p}
+EN: Sometimes I come here and just look at the sea...{p}
+
+## MGK03 g1 s0117
+JP: 今日は、{n}お前と一緒に歩きたいと思ってな……。{n}さぁ、行こうぜ……。{p}{end}
+EN: Today, I wanted to walk here with you... Come on, let's go...{p}{end}
+
+## MGK03 g1 s0118
+JP: （フフフ……。{n}{sp}ロベルトったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Roberto's getting all shy...){p}{end}
+
+## MGK03 g1 s0120
+JP: こうして、{n}ロベルトと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Roberto.{p}{end}
+
+## MGK03 g1 s0121
+JP: {v3:6}……、{n}ちょっといいかい?{p}
+EN: {v3:6}... Got a minute?{p}
+
+## MGK03 g1 s0125
+JP: バレンタインデーのときの、{n}ボクからのお返しだよ……。{n}キミに、受け取って欲しいんだ……。{p}
+EN: It's my return gift for Valentine's Day... I want you to have it...{p}
+
+## MGK03 g1 s0127
+JP: やっぱり、照れるよな……。{n}こういうのって……。{p}{end}
+EN: This kind of thing's kinda embarrassing, huh...{p}{end}
+
+## MGK03 g1 s0128
+JP: そうだ……、{n}放課後、付き合ってくれないか?{n}一緒に行きたいところがあるんだ。{p}
+EN: Oh, right... Will you come with me after school? There's somewhere I want to go with you.{p}
+
+## MGK03 g1 s0131
+JP: ボクの、日本で数少ない{n}気に入りの場所なんだ。{p}
+EN: It's one of the few places in Japan I really like.{p}
+
+## MGK03 g1 s0132
+JP: キミと一緒に歩きたいと思ってね……。{n}さぁ、行こうか……。{p}
+EN: I wanted to walk here with you... Come on, let's go...{p}
+
+## MGK03 g1 s0133
+JP: （フフフ……。{n}{sp}ロイったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Roy's getting all shy...){p}{end}
+
+## MGK03 g1 s0135
+JP: こうして、{n}ロイと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Roy.{p}{end}
+
+## MGK03 g1 s0136
+JP: ハイ!{sp}{v3:7}!{n}ちょっといいですか?{p}{end}
+EN: Hiii, {v3:7}! Got a minute?{p}{end}
+
+## MGK03 g1 s0138
+JP: これを、ユーにプレゼントね!{p}{end}
+EN: This is a present for you!{p}{end}
+
+## MGK03 g1 s0140
+JP: バレンタインデーのときの、{n}シカエシです……。{n}受け取って、プリーズ……。{p}
+EN: It is my payback for Valentine's Day... Take it, please...{p}
+
+## MGK03 g1 s0141
+JP: あ、ありがとう……。{n}（お返しってことよね……、きっと）{p}{end}
+EN: Th-thanks... (She means a return gift... I'm sure){p}{end}
+
+## MGK03 g1 s0142
+JP: フフフ……、{n}照れちゃうネ……。{p}{end}
+EN: Hee hee... I'm so embarrassed...{p}{end}
+
+## MGK03 g1 s0143
+JP: ねぇ……、{n}放課後、付き合ってくださーい。{n}一緒に行きたいところアリます。{p}
+EN: Hey... come with me after school, pleeease. There is somewhere I want to go with you.{p}
+
+## MGK03 g1 s0146
+JP: ミーのお気に入りの場所です……。{p}{end}
+EN: This is my favorite place...{p}{end}
+
+## MGK03 g1 s0147
+JP: ユーと一緒に歩きたいと思って……。{n}さぁ、行こうよ……。{p}{end}
+EN: I wanted to walk here with you... Come on, let's go...{p}{end}
+
+## MGK03 g1 s0148
+JP: （フフフ……。{n}{sp}ティファニーったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Tiffany's getting all shy...){p}{end}
+
+## MGK03 g1 s0150
+JP: こうして、{n}ティファニーと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Tiffany.{p}{end}
+
+## MGK03 g1 s0151
+JP: {v4:8}……、{n}ちょっといいですか?{p}{end}
+EN: {v4:8}... Do you have a moment?{p}{end}
+
+## MGK03 g1 s0153
+JP: これを、君に{n}渡そうと思ったものですから……。{p}
+EN: I wished to give this to you...{p}
+
+## MGK03 g1 s0155
+JP: バレンタインデーのときの、{n}お返しですよ……。{n}ぜひ、受け取って欲しいのです……。{p}
+EN: It is a return gift for Valentine's Day... I would very much like you to accept it...{p}
+
+## MGK03 g1 s0157
+JP: よかった……。{n}受け取っていただけないかもしれないと、{n}心配だったのですよ……。{p}{end}
+EN: Thank goodness... I was worried you might not accept it...{p}{end}
+
+## MGK03 g1 s0158
+JP: そうだ……、{n}放課後、付き合っていただけませんか?{n}一緒に行きたいところがあるのです。{p}
+EN: Oh, yes... Would you come with me after school? There is a place I would like to go with you.{p}
+
+## MGK03 g1 s0161
+JP: ここに来ると、{n}いつも、心が休まるのですよ。{p}{end}
+EN: Whenever I come here, my heart is at peace.{p}{end}
+
+## MGK03 g1 s0162
+JP: 今日は、君と一緒に{n}歩きたいと思ったものですから……。{n}さぁ、行きましょう……。{p}{end}
+EN: Today, I wished to walk here with you... Now, let us go...{p}{end}
+
+## MGK03 g1 s0163
+JP: （フフフ……。{n}{sp}ボーマンったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Boman's getting all shy...){p}{end}
+
+## MGK03 g1 s0165
+JP: こうして、{n}ボーマンと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Boman.{p}{end}
+
+## MGK03 g1 s0166
+JP: よぉ、{v3:9}……、{n}ちょっといいか?{p}
+EN: Yo, {v3:9}... Got a sec?{p}
+
+## MGK03 g1 s0168
+JP: これを、オマエに渡そうと思ってよ。{p}
+EN: Figured I'd give ya this.{p}
+
+## MGK03 g1 s0170
+JP: バ、バレンタインデーのときの、{n}お返しってヤツだな……。{n}取っとけよ……。{p}
+EN: I-it's one of them Valentine's Day return gifts... Take it...{p}
+
+## MGK03 g1 s0172
+JP: そ、そんな顔すんなよ……、{n}て、照れるじゃねェかよ……。{p}{end}
+EN: D-don't gimme that look... I-it's embarrassin'...{p}{end}
+
+## MGK03 g1 s0173
+JP: あ、そうだ……、{n}放課後、付き合えよ……。{n}一緒に行きたいところがあンだ。{p}
+EN: Oh, right... come with me after school. There's somewhere I wanna go with ya.{p}
+
+## MGK03 g1 s0176
+JP: た、たまにゃあ、{n}オレだって、ビシッと決めねェとな……。{p}{end}
+EN: E-even I gotta play it cool once in a while...{p}{end}
+
+## MGK03 g1 s0177
+JP: オマエに、{n}この海を見せてやりてェと思って、{n}連れてきてやったんだよ……。{n}さ、さぁ、行こぜ。{p}
+EN: I wanted to show ya this sea, so I brought ya here... C-c'mon, let's go.{p}
+
+## MGK03 g1 s0178
+JP: （フフフ……。{n}{sp}エッジったら、照れちゃって……）{p}
+EN: (Hee hee... Edge's getting all shy...){p}
+
+## MGK03 g1 s0180
+JP: こうして、{n}エッジと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Edge.{p}
+
+## MGK03 g1 s0181
+JP: ねぇ、{v8:10}……、{n}ちょっといいかな?{p}{end}
+EN: Hey, {v8:10}... Do you have a moment?{p}{end}
+
+## MGK03 g1 s0183
+JP: これを……、{n}あなたに渡そうと思って……。{p}
+EN: I wanted to... give you this...{p}
+
+## MGK03 g1 s0185
+JP: バ、バレンタインデーのときの、{n}お返しだよ……。{n}受け取って欲しいんだ……。{p}{end}
+EN: I-it's a return gift for Valentine's Day... I'd like you to have it...{p}{end}
+
+## MGK03 g1 s0188
+JP: ねぇ……、{n}放課後、付き合って……。{n}一緒に行きたいところがあるの……。{p}{end}
+EN: Um... will you come with me after school...? There's somewhere I want to go...{p}{end}
+
+## MGK03 g1 s0191
+JP: 私、よくここに来るの……。{p}
+EN: I come here a lot...{p}
+
+## MGK03 g1 s0192
+JP: 今日は、あなたと一緒に{n}歩きたいと思って……。{n}さ、さぁ、行こうよ……。{p}{end}
+EN: Today, I wanted to walk here with you... C-come on, let's go...{p}{end}
+
+## MGK03 g1 s0193
+JP: （フフフ……。{n}{sp}アキラったら、照れちゃって……）{p}
+EN: (Hee hee... Akira's getting all shy...){p}
+
+## MGK03 g1 s0195
+JP: こうして、{n}アキラと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Akira.{p}
+
+## MGK03 g1 s0196
+JP: のう、{v3:11}{col:0}さん{col:-}……、{n}ちょっといいかのう?{p}
+EN: Say, {v3:11}{col:0}-san{col:-}... Got a minute?{p}
+
+## MGK03 g1 s0198
+JP: これを、おぬしに渡そうと思ってのう。{p}{end}
+EN: Figured I'd give ya this.{p}{end}
+
+## MGK03 g1 s0200
+JP: バ、バレンタインデーのときの、{n}お返しじゃい……。{n}受け取ってくれんかのう……。{p}{end}
+EN: I-it's a return gift for Valentine's Day... Won't ya take it?{p}{end}
+
+## MGK03 g1 s0202
+JP: ワシは、こういうのに慣れとらんから、{n}照れるわい……。{p}
+EN: I ain't used to this kinda thing, so it's got me all embarrassed...{p}
+
+## MGK03 g1 s0203
+JP: のう……、{n}放課後、付き合ってくれんかのう。{n}一緒に行きたいところがあるんじゃ。{p}{end}
+EN: Say... would ya come with me after school? There's somewhere I wanna go with ya.{p}{end}
+
+## MGK03 g1 s0206
+JP: お、おぬしが喜ぶかと思おて、{n}連れて来たんじゃ……。{p}{end}
+EN: I-I reckoned you'd like it, so I brought ya here...{p}{end}
+
+## MGK03 g1 s0207
+JP: さ、さぁ……、{n}ちょっと向こうまで{n}歩いてみるかのう……。{p}
+EN: W-well now... how 'bout we walk on over thataway a spell...{p}
+
+## MGK03 g1 s0208
+JP: （フフフ……。{n}{sp}岩ったら、照れちゃって……）{p}
+EN: (Hee hee... Gan's getting all shy...){p}
+
+## MGK03 g1 s0210
+JP: こうして、{n}岩と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Gan.{p}
+
+## MGK03 g1 s0211
+JP: {v0}{col:0}君{col:-}……、{n}ちょっといいかね?{p}
+EN: {v0}{col:0}-kun{col:-}... Do you have a moment?{p}
+
+## MGK03 g1 s0212
+JP: ハ、ハイ……、{n}なんですか?{p}{end}
+EN: Y-yes... What is it?{p}{end}
+
+## MGK03 g1 s0213
+JP: これを、君に渡そうと思ってね。{p}
+EN: I wanted to give you this.{p}
+
+## MGK03 g1 s0215
+JP: バ、バレンタインデーのときの、{n}お返しだよ……。{n}ぜひ、受け取ってくれたまえ……。{p}
+EN: I-it's a return gift for Valentine's Day... Please, do accept it...{p}
+
+## MGK03 g1 s0216
+JP: あ、ありがとございます……。{n}うれしいです、英雄先生……。{p}
+EN: Th-thank you very much... I'm so happy, Hideo-sensei...{p}
+
+## MGK03 g1 s0217
+JP: い、いやぁ……、{n}ど、どうもこういうのは、{n}照れるね……。{p}
+EN: W-well now... Th-this sort of thing is rather embarrassing...{p}
+
+## MGK03 g1 s0218
+JP: そ、それから……、{n}放課後、私に付き合ってくれんかね……。{n}一緒に行きたいところがあるんだよ。{p}
+EN: A-and also... would you come with me after school? There's somewhere I'd like to go with you.{p}
+
+## MGK03 g1 s0220
+JP: ……キレイ。{n}夜の海って、こんなにキレイなんですね。{p}{end}
+EN: ...Beautiful. I never knew the sea at night was this beautiful.{p}{end}
+
+## MGK03 g1 s0221
+JP: ハ、ハハ……。{n}若者は、こういう雰囲気に{n}憧れるんじゃないかと思ってね……。{n}ここに、誘ってみたんだよ……。{p}{end}
+EN: Ha, ha ha... I thought young people might long for this sort of atmosphere... So I invited you here...{p}{end}
+
+## MGK03 g1 s0222
+JP: さ、さぁ、{n}一緒に向こうまで、{n}歩いてみようじゃないか……。{p}{end}
+EN: W-well, shall we walk over that way together?{p}{end}
+
+## MGK03 g1 s0223
+JP: （フフフ……。{n}{sp}英雄先生ったら、照れちゃって……）{p}{end}
+EN: (Hee hee... Hideo-sensei's getting all shy...){p}{end}
+
+## MGK03 g1 s0225
+JP: こうして、{n}英雄先生と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Hideo-sensei.{p}{end}
+
+## MGK03 g1 s0226
+JP: ねぇ、{v1}{col:0}さん{col:-}……、{n}ちょっといいかしら?{p}{end}
+EN: Say, {v1}{col:0}-san{col:-}... Got a moment?{p}{end}
+
+## MGK03 g1 s0227
+JP: なんですか、響子先生。{p}
+EN: What is it, Kyoko-sensei?{p}
+
+## MGK03 g1 s0228
+JP: これを、あなたに渡そうと思ってね。{p}
+EN: I wanted to give you this.{p}
+
+## MGK03 g1 s0230
+JP: そう!{n}バレンタインデーのときのお返し……。{n}受け取って欲しいの……。{p}
+EN: That's right! A return gift for Valentine's Day... I'd like you to have it...{p}
+
+## MGK03 g1 s0231
+JP: あ、ありがとうございます……。{n}うれしいです……。{p}
+EN: Th-thank you so much... I'm really happy...{p}
+
+## MGK03 g1 s0232
+JP: フフフ……、{n}なんか照れちゃうわね……。{n}こういうのって……。{p}
+EN: Hee hee... This kind of thing's a little embarrassing, isn't it...{p}
+
+## MGK03 g1 s0233
+JP: ねぇ……、{n}放課後、付き合ってくれない?{n}一緒に行きたいところがあるのよ。{p}
+EN: Say... will you come with me after school? There's somewhere I want to go with you.{p}
+
+## MGK03 g1 s0236
+JP: フフフ……、{n}なかなかイイでしょ?{p}
+EN: Hee hee... Pretty nice, isn't it?{p}
+
+## MGK03 g1 s0237
+JP: あなたと一緒に歩きたいなと思って……。{n}さぁ、行きましょ!{p}
+EN: I thought I'd like to take a walk with you... Come on, let's go!{p}
+
+## MGK03 g1 s0238
+JP: （フフフ……。{n}{sp}響子先生ったら、{n}{sp}赤くなっちゃって……）{p}{end}
+EN: (Hee hee... Kyoko-sensei's turning red...){p}{end}
+
+## MGK03 g1 s0240
+JP: こうして、{n}響子先生と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Kyoko-sensei.{p}{end}
+
+## MGK03 g1 s0241
+JP: {v0}……、{n}ここにいたか……。{p}{end}
+EN: {v0}... So here you are...{p}{end}
+
+## MGK03 g1 s0242
+JP: 雹クンどうしたの……?{p}
+EN: What's up, Hyo-kun...?{p}
+
+## MGK03 g1 s0243
+JP: これを、{n}お前に渡しておこうと思ってな。{p}{end}
+EN: I thought I would give you this.{p}{end}
+
+## MGK03 g1 s0245
+JP: いつぞやの礼だ……。{n}受け取っておけ。{p}
+EN: In thanks for the other day... Accept it.{p}
+
+## MGK03 g1 s0247
+JP: フフ……、{n}それは何よりだ。{p}{end}
+EN: Heh... I am glad to hear it.{p}{end}
+
+## MGK03 g1 s0248
+JP: 放課後、私に付き合え。{n}一緒に行きたいところがある。{p}{end}
+EN: Come with me after school. There is a place I wish to go with you.{p}{end}
+
+## MGK03 g1 s0250
+JP: ……キレイ。{n}夜の海って、こんなにキレイなんだ。{p}{end}
+EN: ...Beautiful. I never knew the sea at night was this beautiful.{p}{end}
+
+## MGK03 g1 s0251
+JP: この景色を、{n}お前に見せておこうと思ってな……。{p}{end}
+EN: I wished to show you this view...{p}{end}
+
+## MGK03 g1 s0252
+JP: 来たついでだ、すこし歩くとするか。{n}行くぞ……。{p}{end}
+EN: Since we have come this far, let us walk a little. Come...{p}{end}
+
+## MGK03 g1 s0253
+JP: （フフフ……。{n}{sp}雹クン、照れてるのかな……?）{p}{end}
+EN: (Hee hee... Is Hyo-kun embarrassed...?){p}{end}
+
+## MGK03 g1 s0255
+JP: こうして、{n}雹クンと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Hyo-kun.{p}
+
+## MGK03 g1 s0256
+JP: {v3:16}……!{n}ちょうどいいところに、いやがったぜ!{p}{end}
+EN: {v3:16}...! There ya are, just when I need ya!{p}{end}
+
+## MGK03 g1 s0257
+JP: な、なんですか……?{n}隼人先生……。{p}{end}
+EN: Wh-what is it...? Hayato-sensei...{p}{end}
+
+## MGK03 g1 s0258
+JP: これを、オマエにやろうと思ってな。{p}
+EN: Figured I'd give ya this.{p}
+
+## MGK03 g1 s0260
+JP: あぁ、そうだぜ……!{n}あのときの、お返しってヤツだ。{n}エンリョはいらねぇ、取っときな……。{p}
+EN: Yep, that's right...! It's a return gift for that time. No need to be shy, take it...{p}
+
+## MGK03 g1 s0261
+JP: あ、ありがとうございます……。{n}隼人先生……。{p}
+EN: Th-thank you very much... Hayato-sensei...{p}
+
+## MGK03 g1 s0262
+JP: フフフ……、よしな。{n}照れるじゃねぇか……。{p}{end}
+EN: Heh heh, cut it out. You're embarrassin' me...{p}{end}
+
+## MGK03 g1 s0263
+JP: ついでといっちゃあ、なんだが、{n}放課後、俺に付き合え。{n}いいところに、連れてってやるぜ……。{p}{end}
+EN: And while I'm at it, come with me after school. I'll take ya somewhere nice...{p}{end}
+
+## MGK03 g1 s0266
+JP: 昼の海は、心を燃やさせ、{n}夜の海は、心を洗うのさ……。{p}
+EN: The sea by day sets your heart on fire, and the sea by night washes it clean...{p}
+
+## MGK03 g1 s0267
+JP: 今日は、オマエと一緒に{n}ここを歩きたいと思ってな……。{n}さぁ、行くぜ……。{p}
+EN: Today, I wanted to walk here with ya... C'mon, let's go...{p}
+
+## MGK03 g1 s0268
+JP: （フフフ……。{n}{sp}隼人先生ったら、{n}{sp}カッコつけちゃって……）{p}
+EN: (Hee hee... Hayato-sensei's trying to act cool...){p}
+
+## MGK03 g1 s0270
+JP: こうして、{n}隼人先生と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Hayato-sensei.{p}{end}
+
+## MGK03 g1 s0271
+JP: {v4:17}……、{n}ここにいたのか。{p}{end}
+EN: {v4:17}... So this is where you were.{p}{end}
+
+## MGK03 g1 s0272
+JP: どうしたんですか?{n}醍醐先輩……。{p}
+EN: What is it, Daigo-senpai...?{p}
+
+## MGK03 g1 s0273
+JP: これを、お前に渡そうと思ってな。{p}{end}
+EN: Figured I'd give you this.{p}{end}
+
+## MGK03 g1 s0275
+JP: この前のお返しだ。{n}受け取っておけ……。{p}{end}
+EN: A return for the other day. Take it...{p}{end}
+
+## MGK03 g1 s0276
+JP: あ、ありがとうございます……。{n}醍醐先輩……。{p}
+EN: Th-thank you very much... Daigo-senpai...{p}
+
+## MGK03 g1 s0277
+JP: フフ……、{n}柄にもないことだな。{n}こういうのは……。{p}{end}
+EN: Heh... This kind of thing isn't my style...{p}{end}
+
+## MGK03 g1 s0278
+JP: {v4:17}……、{n}放課後、付き合わないか?{n}一緒に行きたいところがあるんだが……。{p}{end}
+EN: {v4:17}... Wanna come with me after school? There's somewhere I'd like to go with you...{p}{end}
+
+## MGK03 g1 s0281
+JP: お前と2人なら、{n}こういうところも、悪くない……。{p}
+EN: With just the two of us, a place like this isn't half bad...{p}
+
+## MGK03 g1 s0282
+JP: さぁ、すこし歩くとするか……。{p}
+EN: Well, let's walk a bit...{p}
+
+## MGK03 g1 s0283
+JP: （フフフ……。{n}{sp}醍醐先輩、照れてるのかな……）{p}{end}
+EN: (Hee hee... Is Daigo-senpai embarrassed...?){p}{end}
+
+## MGK03 g1 s0285
+JP: こうして、{n}醍醐先輩と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}{end}
+EN: And so White Day night went by, walking along the beach with Daigo-senpai.{p}{end}
+
+## MGK03 g1 s0286
+JP: …………{v7:18}、{n}ここにいたのか……。{p}{end}
+EN: ..........{v7:18}... So you were here...{p}{end}
+
+## MGK03 g1 s0287
+JP: どうしたんですか?{n}流先輩……。{p}{end}
+EN: What is it, Nagare-senpai...?{p}{end}
+
+## MGK03 g1 s0288
+JP: …………オマエに{n}これをやる……。{p}
+EN: ..........This... is for you...{p}
+
+## MGK03 g1 s0290
+JP: …………お返しだ。{n}取っておけ……。{p}{end}
+EN: ..........A return gift. Keep it...{p}{end}
+
+## MGK03 g1 s0291
+JP: あ、ありがとうございます……。{n}流先輩……。{p}{end}
+EN: Th-thank you very much... Nagare-senpai...{p}{end}
+
+## MGK03 g1 s0292
+JP: …………気にすることはない……。{p}{end}
+EN: ..........Don't mention it...{p}{end}
+
+## MGK03 g1 s0293
+JP: …………放課後、付き合わないか?{n}行きたいところがある……。{p}{end}
+EN: ..........Want to come with me after school? There's somewhere I want to go...{p}{end}
+
+## MGK03 g1 s0297
+JP: …………少し歩くか……。{p}{end}
+EN: ..........Let's walk a little...{p}{end}
+
+## MGK03 g1 s0298
+JP: （フフフ……。{n}{sp}流先輩、照れてるのかな……）{p}
+EN: (Hee hee... Is Nagare-senpai embarrassed...?){p}
+
+## MGK03 g1 s0300
+JP: こうして、{n}流先輩と夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Nagare-senpai.{p}
+
+## MGK03 g1 s0301
+JP: ねぇ、{v8:19}……、{n}ちょっといいかな?{p}{end}
+EN: Hey, {v8:19}... Got a sec?{p}{end}
+
+## MGK03 g1 s0305
+JP: バレンタインデーのときの{n}お返しよ……。{n}取っといてよ……。{p}{end}
+EN: It's a return gift for Valentine's Day... Keep it, OK...?{p}{end}
+
+## MGK03 g1 s0307
+JP: なんか、照れちゃうわね……。{n}こういうのって……。{p}
+EN: This kind of thing's kinda embarrassing, huh...{p}
+
+## MGK03 g1 s0311
+JP: ちょっと、イイでしょ?{p}
+EN: Pretty nice, huh?{p}
+
+## MGK03 g1 s0312
+JP: アンタと一緒に歩きたいと思ってさ……。{n}さ、さぁ、行こうよ……。{p}{end}
+EN: I wanted to walk here with you... C-come on, let's go...{p}{end}
+
+## MGK03 g1 s0313
+JP: （フフフ……。{n}{sp}ランちゃんったら、照れちゃって……）{p}
+EN: (Hee hee... Ran-chan's getting all shy...){p}
+
+## MGK03 g1 s0315
+JP: こうして、{n}ランちゃんと夜の浜辺を歩いて{n}ホワイトデーの夜は過ぎていった。{p}
+EN: And so White Day night went by, walking along the beach with Ran-chan.{p}
+

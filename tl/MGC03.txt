@@ -1,0 +1,460 @@
+## MGC03 g0 s0000
+JP: さてと、今日は最後の特別練習の日だ。{n}野球部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to baseball club practice.{p}{end}
+
+## MGC03 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}特別練習も今回でおしまいだ。{n}悔いがのこらないようにな。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. This is the last special practice. Make sure you don't leave any regrets.{p}
+
+## MGC03 g0 s0002
+JP: それから、とりあえず{n}今日がクラブ納めになる。{n}3月は、クラブはお休みだ。{p}
+EN: Also, today's the last club day of the year. The club takes March off.{p}
+
+## MGC03 g0 s0003
+JP: 普段のクラブ活動もないから、{n}今日の報告が最後になるな。{p}{end}
+EN: There are no regular club activities either, so today's report is the last one.{p}{end}
+
+## MGC03 g0 s0005
+JP: 1年間の成果としては、どうだ?{n}満足できる結果になっているか?{p}
+EN: So how did your year turn out? Are you happy with the results?{p}
+
+## MGC03 g0 s0006
+JP: よし、それじゃ次は、{n}最後の特別練習だ。{n}好きな練習を選んでくれ。{p}
+EN: All right, next up is the last special practice. Pick whatever drill you like.{p}
+
+## MGC03 g0 s0007
+JP: よし、お疲れさん。{n}この1年よくがんばったな。{n}もっと自分に自信をもっていいぞ。{p}{end}
+EN: All right, good work. You really worked hard this year. You can have more confidence in yourself.{p}{end}
+
+## MGC03 g0 s0008
+JP: 一応いっておくと、{n}今月は学年末試験と{n}進級試験があるな。{n}ま、お前なら大丈夫だと思うが。{p}
+EN: Just so you know, this month there's the year-end exam and the promotion exam. Well, I'm sure you'll be fine.{p}
+
+## MGC03 g0 s0009
+JP: さてと、これでとりあえず{n}俺の役目は終わりだ。{n}お前がどれだけがんばったかは、{n}今の能力値を見ればわかる。{p}
+EN: Well, that about wraps up my job. Your current stats show just how hard you've worked.{p}
+
+## MGC03 g0 s0010
+JP: お疲れさま。{n}あと少し、がんばれよ。{n}じゃあな。{p}{end}
+EN: Good work. Hang in there a little longer. See ya.{p}{end}
+
+## MGC03 g0 s0011
+JP: さてと、今日は最後の特別練習の日だ。{n}バレー部の練習に行くか。{p}
+EN: Well, today's the last special practice day. Time to head to volleyball club practice.{p}
+
+## MGC03 g0 s0012
+JP: 来たな、{v0}!{n}特別練習も今日でおしまいだ。{n}最後まで気合い入れていくぞ!{p}{end}
+EN: There you are, {v0}! Today's the last special practice. Let's give it everything right to the end!{p}{end}
+
+## MGC03 g0 s0016
+JP: どうだ、この1年の成果は?{n}満足いく結果になったか?{p}{end}
+EN: So, how about this year's results? Happy with how it turned out?{p}{end}
+
+## MGC03 g0 s0017
+JP: よし、それじゃ次は、{n}最後の特別練習だ。{n}好きな練習を選んでくれ!{p}
+EN: All right, next up is the last special practice. Pick whatever drill you like!{p}
+
+## MGC03 g0 s0018
+JP: グーッだ!!{n}お前は最高の生徒だな!{n}お前ほど鍛えがいのある生徒は初めてだ。{p}{end}
+EN: Great stuff!! You're the best student there is! I've never had a student so worth training!{p}{end}
+
+## MGC03 g0 s0019
+JP: 一応いっておくと、{n}今月は学年末試験と進級試験がある。{n}まぁお前なら問題ないと思うがな。{p}{end}
+EN: Just so you know, this month there's the year-end exam and the promotion exam. Well, I doubt you'll have any trouble.{p}{end}
+
+## MGC03 g0 s0020
+JP: さてと、これでとりあえず、{n}僕の役目は終わりだ。{n}初めに目標にしたように、成長できたか?{n}自分の胸に聞いてみろ。{p}{end}
+EN: Well, that about wraps up my job. Did you grow the way you aimed to at the start? Ask your own heart.{p}{end}
+
+## MGC03 g0 s0021
+JP: 最後に、お疲れさま。{n}あと少し、がんばれよ。{n}じゃあな。{p}{end}
+EN: Last of all, good work. Hang in there a little longer. See ya.{p}{end}
+
+## MGC03 g0 s0022
+JP: さてと、今日は最後の特別練習の日だ。{n}サッカー部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to soccer club practice.{p}{end}
+
+## MGC03 g0 s0023
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、3月の特別練習の日です。{n}最後の特別練習になりますが、{n}がんばっていきましょうね。{p}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is March's special practice day. It's the last one, so let's do our best.{p}
+
+## MGC03 g0 s0024
+JP: それから、とりあえず{n}今日がクラブ納めになります。{n}3月は、クラブはお休みですから。{p}{end}
+EN: Also, today is the last club day of the year. The club is off in March.{p}{end}
+
+## MGC03 g0 s0025
+JP: 普段のクラブ活動もないので、{n}今日の報告が最後になりますね。{p}{end}
+EN: There are no regular club activities either, so today's report will be the last one.{p}{end}
+
+## MGC03 g0 s0027
+JP: どうですか?{n}私には、{v0}{col:0}君{col:-}、{n}だいぶかわったように見えるけど、{n}満足できる結果になりました?{p}{end}
+EN: How is it? To me, {v0}{col:0}-kun{col:-}, you seem to have changed a lot. Are you happy with the results?{p}{end}
+
+## MGC03 g0 s0028
+JP: それでは、次は最後の特別練習です。{n}好きな練習を選んでくださいね。{p}
+EN: Next is the last special practice. Please pick whichever drill you like.{p}
+
+## MGC03 g0 s0029
+JP: はい、お疲れさまです。{n}これ、タオルです。{n}1年間ホントにがんばりましたね。{p}{end}
+EN: Okay, good work. Here, a towel. You really worked hard all year.{p}{end}
+
+## MGC03 g0 s0030
+JP: 一応今月の伝達事項をいっておきますね。{n}ええと今月は、学年末試験と{n}進級テストがありますね。{n}最後ですから、がんばってください。{p}{end}
+EN: Here are this month's announcements, just in case. Um, there's the year-end exam and the promotion test. It's the last one, so do your best.{p}{end}
+
+## MGC03 g0 s0031
+JP: ええと……、これでとりあえず、{n}私の役目は終わりです。{n}1年間、お疲れさまでした。{p}
+EN: Um... that wraps up my job for now. Thank you for all your hard work this year.{p}
+
+## MGC03 g0 s0032
+JP: あと少しで、1年も終わりです。{n}がんばってくださいね。{n}それでは、また……。{p}{end}
+EN: The year's almost over. Please hang in there. Well, see you...{p}{end}
+
+## MGC03 g0 s0033
+JP: さてと、今日は最後の特別練習の日だ。{n}相撲部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to sumo club practice.{p}{end}
+
+## MGC03 g0 s0034
+JP: 来たな、{v1}!{n}特別練習も今日でおしまいだ。{n}最後だからって、気を抜くなよ!{p}
+EN: There you are, {v1}! Today's the last special practice. Don't you slack off just 'cause it's the last one!{p}
+
+## MGC03 g0 s0036
+JP: 普段のクラブ活動もないから、{n}今日の報告が最後になる。{p}
+EN: There are no regular club activities either, so today's report is the last.{p}
+
+## MGC03 g0 s0038
+JP: 1年間の結果として、どうだ?{n}満足できるモノになったか?{p}{end}
+EN: So, how did your year turn out? Happy with it?{p}{end}
+
+## MGC03 g0 s0039
+JP: よし、それじゃ次は、{n}最後の特別練習だ。{n}好きな練習を選ぶがいい。{p}
+EN: Good. Now, the last special practice. Pick whatever drill you like.{p}
+
+## MGC03 g0 s0040
+JP: よしよし、いいだろう。{n}この1年間よくがんばったな。{n}お前の努力はわしが一番よくしっているぞ。{n}もっと胸をはれ、胸を。{p}
+EN: Good, good, that'll do. You worked hard this year. I know your effort better than anyone. Stick your chest out, now!{p}
+
+## MGC03 g0 s0041
+JP: 一応いっておくと、今月は{n}学年末試験と進級試験があるらしいな。{n}まぁ、お前なら何がきても{n}大丈夫だと思うが。{p}{end}
+EN: Just so you know, seems there's a year-end exam and a promotion exam this month. Well, I'm sure you'll handle whatever comes.{p}{end}
+
+## MGC03 g0 s0042
+JP: さてと、これでとりあえず{n}わしの役目は終わりだな。{n}お前ほどできのいい弟子は初めてだ。{n}それはお前の能力値を見ればわかるだろう。{p}{end}
+EN: Well, that about wraps up my job. I've never had a pupil as good as you. Your stats should tell you that.{p}{end}
+
+## MGC03 g0 s0043
+JP: 1年間、お疲れさん。{n}あと少しだ、がんばれよ。{n}じゃあな。{p}
+EN: Good work this year. Just a little longer, hang in there. So long.{p}
+
+## MGC03 g0 s0044
+JP: さてと、今日は最後の特別練習の日だ。{n}美術部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to art club practice.{p}{end}
+
+## MGC03 g0 s0045
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}特別練習も今日でおしまいよ。{n}最後までがんばってね。{p}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Today's the last special practice. Hang in there till the end.{p}
+
+## MGC03 g0 s0046
+JP: それから、とりあえず{n}今日がクラブ納めになるわ。{n}3月は、クラブはお休みだからね。{p}
+EN: Also, today's the last club day of the year. The club's off in March.{p}
+
+## MGC03 g0 s0047
+JP: 普段のクラブ活動もないから、{n}今日の報告が最後ね。{p}
+EN: No regular club activities either, so today's report is the last one.{p}
+
+## MGC03 g0 s0049
+JP: どう?{n}1年の成果として、{n}満足のできる結果になった?{p}
+EN: So? Are you happy with how your year turned out?{p}
+
+## MGC03 g0 s0050
+JP: ええと。それじゃ次は、{n}最後の特別練習ね。{n}好きな練習を選んでね。{p}
+EN: Um, okay. Next is the last special practice. Pick whatever drill you like.{p}
+
+## MGC03 g0 s0051
+JP: はい、おつかれさま。{n}1年間、よくがんばったね。{n}あなたの上達ぶりって{n}スゴイと思うな。{p}{end}
+EN: Okay, good work. You worked really hard this year. I think you've come amazingly far.{p}{end}
+
+## MGC03 g0 s0052
+JP: ええと、そうそう、{n}一応、今月は学年末試験に進級試験ね。{n}がんばってね。{p}{end}
+EN: Um, oh right, just so you know, this month there's the year-end exam and the promotion exam. Good luck.{p}{end}
+
+## MGC03 g0 s0053
+JP: さて、と。これでとりあえず、{n}私の役目はおしまいね。{n}できればこのまま、{n}美術部をもり立てて欲しいわ。{p}
+EN: Okay, that wraps up my job. If you can, I'd love for you to keep the art club going strong.{p}
+
+## MGC03 g0 s0054
+JP: お疲れさま。{n}あと少し、がんばってね。{n}それじゃ、ね。{p}
+EN: Good work. Hang in there a little longer. See ya.{p}
+
+## MGC03 g0 s0055
+JP: さてと、今日は最後の特別練習の日だ。{n}吹奏楽部の練習に行くか。{p}
+EN: Well, today's the last special practice day. Time to head to brass band practice.{p}
+
+## MGC03 g0 s0056
+JP: {v0}{col:0}君{col:-}、{n}今日は最後の特別練習の日ですね。{n}がんばりましょう……。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, today is the last special practice day... Let's do our best...{p}{end}
+
+## MGC03 g0 s0057
+JP: それから、……とりあえず{n}今日がクラブ納めになります。{n}3月は、クラブはお休みね。{p}
+EN: Also... today is the last club day of the year. The club is off in March.{p}
+
+## MGC03 g0 s0058
+JP: 普段のクラブ活動もないから、{n}今日の報告が最後ということになります。{p}{end}
+EN: There are no regular club activities either, so today's report will be the last.{p}{end}
+
+## MGC03 g0 s0060
+JP: ……はい、どうですか?{n}思ったように成長できました?{p}{end}
+EN: ...Well, how is it? Did you grow the way you hoped?{p}{end}
+
+## MGC03 g0 s0061
+JP: それじゃ最後の特別練習ね。{n}好きな練習を選んでね……。{p}
+EN: Now, the last special practice. Please pick whichever drill you like...{p}
+
+## MGC03 g0 s0062
+JP: おつかれさま。{n}{v0}{col:0}君{col:-}は、ホントに{n}この1年がんばったと思うわ。{n}わたくしがいうんだから間違いありません。{p}{end}
+EN: Good work. I think you truly worked hard this year, {v0}{col:0}-kun{col:-}. And when I say so, I mean it.{p}{end}
+
+## MGC03 g0 s0063
+JP: あ、そうそう……{n}一応、今月の学校行事は学年末試験に{n}進級試験ね。がんばりましょう。{p}{end}
+EN: Oh, right... This month's school events are the year-end exam and the promotion exam. Let's do our best.{p}{end}
+
+## MGC03 g0 s0064
+JP: ……ええと、これでとりあえず、{n}わたくしの役目は終わりです。{n}1年間、お世話になりました。{p}
+EN: ...Um, that concludes my duties. Thank you for everything this year.{p}
+
+## MGC03 g0 s0065
+JP: ホントにお疲れさま。{n}あと少し、がんばってね。{n}それじゃ……。{p}
+EN: Truly, good work. Hang in there a little longer. Well then...{p}
+
+## MGC03 g0 s0066
+JP: さてと、今日は最後の特別練習の日だ。{n}演劇部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to drama club practice.{p}{end}
+
+## MGC03 g0 s0067
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}今日が最後の特別練習日ね。{n}どう?{sp}準備はいい?{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. Today's the last special practice day. So? Are you ready?{p}{end}
+
+## MGC03 g0 s0068
+JP: それから、とりあえず{n}今日がクラブ納めになります。{n}3月は、クラブはお休みですからね。{p}
+EN: Also, today is the last club day of the year. The club is off in March.{p}
+
+## MGC03 g0 s0069
+JP: 普段のクラブ活動もなくなるから、{n}今日の報告が最後ね。{p}
+EN: There won't be regular club activities either, so today's report is the last one.{p}
+
+## MGC03 g0 s0070
+JP: さてと、それじゃその、{n}先月のクラブ活動の成果から{n}みてみましょう。{p}{end}
+EN: Now then, let's look at last month's club results.{p}{end}
+
+## MGC03 g0 s0071
+JP: 1年間の成果として、どう?{n}満足できる結果になった?{p}{end}
+EN: So, how about your year? Are you happy with the results?{p}{end}
+
+## MGC03 g0 s0072
+JP: それじゃ、{n}最後の特別練習をしましょうか。{n}好きな練習を選んでね。{p}
+EN: Now, shall we do the last special practice? Pick whatever drill you like.{p}
+
+## MGC03 g0 s0073
+JP: はい、今日はこれでおしまいね。{n}この1年間、よくがんばりましたね。{n}もっと胸を張っていいと思うよ。{p}
+EN: Okay, that's it for today. You worked hard this year. I think you can hold your head higher.{p}
+
+## MGC03 g0 s0074
+JP: 今月は一応……学年末試験と進級試験ね。{n}まぁそのへんはもう、大丈夫だよね?{p}
+EN: This month there's... the year-end exam and the promotion exam. Well, you're fine with those by now, right?{p}
+
+## MGC03 g0 s0075
+JP: さて……これでとりあえず、{n}私の役目は終りね。{n}まさかキミがここまでになるとは{n}思わなかったわ。{p}{end}
+EN: Well... that wraps up my job. I never imagined you'd come this far.{p}{end}
+
+## MGC03 g0 s0076
+JP: 1年間、お疲れさま。{n}あと少し、がんばってね。{n}それじゃ!{p}
+EN: Good work this year. Hang in there a little longer. See you!{p}
+
+## MGC03 g0 s0077
+JP: さてと、今日は最後の特別練習の日だ。{n}化学部の練習に行くか。{p}{end}
+EN: Well, today's the last special practice day. Time to head to chemistry club practice.{p}{end}
+
+## MGC03 g0 s0078
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}今日が最後の特別練習だな。{n}なんかこう、感慨深いモノがあるな。{p}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Today's the last special practice. It's rather moving, somehow.{p}
+
+## MGC03 g0 s0079
+JP: それから、とりあえず{n}今日がクラブ納めになる。{n}3月は、クラブはお休みだな。{p}{end}
+EN: Also, today's the last club day of the year. The club takes March off.{p}{end}
+
+## MGC03 g0 s0080
+JP: 普段のクラブ活動も休みだから、{n}今日の報告が最後になるかな。{p}{end}
+EN: Regular club activities are off too, so today's report will be the last, I suppose.{p}{end}
+
+## MGC03 g0 s0081
+JP: ふむふむ、それじゃいつも通り、{n}先月のクラブ活動の成果からだ。{p}
+EN: Mm-hm, now then, as usual, last month's club results first.{p}
+
+## MGC03 g0 s0082
+JP: どうだ?{sp}1年間の成果は出たか?{n}思ったように成長できたか?{p}{end}
+EN: Well? Did your year pay off? Did you grow the way you hoped?{p}{end}
+
+## MGC03 g0 s0084
+JP: なるほどなるほど。{n}お疲れさん。{n}よくがんばったな。{n}僕は君のことを誇りに思うよ。{p}
+EN: I see, I see. Good work. You worked hard. I'm proud of you.{p}
+
+## MGC03 g0 s0085
+JP: ええと、一応いっておくと、{n}今月は学年末試験と、進級試験があるな。{n}ま、君なら大丈夫だろ。{p}
+EN: Er, just so you know, this month there's the year-end exam and the promotion exam. Well, you'll be fine.{p}
+
+## MGC03 g0 s0086
+JP: さてさて、これでとりあえず{n}僕の役目も終わりだ。{n}君がどれだけがんばったか、{n}僕が一番知っている。{p}
+EN: Well, well, that about wraps up my job too. I know better than anyone how hard you worked.{p}
+
+## MGC03 g0 s0087
+JP: よしよし、お疲れさん。{n}あと少し、がんばれよ。{n}じゃあな。{p}
+EN: Good, good, good work. Hang in there a little longer. See you.{p}
+
+## MGC03 g0 s0088
+JP: さてと、今日は最後の特別練習の日だ。{n}委員長と遊んでくるかな。{p}
+EN: Well, today's the last special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC03 g0 s0089
+JP: はーい、{v0}{col:0}君{col:-}。{n}今日は最後の特別練習日よ。{n}最後くらい、ぴしっと気合をいれて{n}いきましょう。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. Today's the last special practice day. Let's put some real effort in, at least for the last one.{p}{end}
+
+## MGC03 g0 s0090
+JP: ええとそれから、とりあえず{n}普通のクラブだと、{n}今日がクラブ納めになるのね。{n}3月中は、クラブはお休みだし。{p}{end}
+EN: Um, also, for regular clubs, today's the last club day of the year. Clubs are off all through March.{p}{end}
+
+## MGC03 g0 s0091
+JP: だから、帰宅部も活動しないから、{n}今日の報告が最後になるわ。{p}{end}
+EN: So the Go-Home Club won't meet either, which makes today's report the last one.{p}{end}
+
+## MGC03 g0 s0092
+JP: さてと、それじゃいつもどおりに、{n}先月の帰宅部の成果からね。{p}{end}
+EN: Now then, as usual, let's start with last month's Go-Home Club results.{p}{end}
+
+## MGC03 g0 s0093
+JP: どう?{n}ちゃんと成長してる?{n}満足はできる?{p}{end}
+EN: So? Are you growing properly? Happy with it?{p}{end}
+
+## MGC03 g0 s0094
+JP: それじゃ次は、{n}最後の特別練習ね。{n}いつもと同じことしかできないけど。{p}
+EN: Next is the last special practice. Not that we can do anything different from usual.{p}
+
+## MGC03 g0 s0095
+JP: お疲れさま。{n}帰宅部にしては、がんばったと思うけど。{p}{end}
+EN: Good work. I think you tried pretty hard, for the Go-Home Club.{p}{end}
+
+## MGC03 g0 s0096
+JP: ええと、一応いっておくと、{n}学年末試験と進級試験があるわね。{n}あなたなら大丈夫でしょ?{p}
+EN: Um, just so you know, there's the year-end exam and the promotion exam. You'll be fine, right?{p}
+
+## MGC03 g0 s0097
+JP: さてと、これでとりあえず、{n}私の役目も終りね。{n}帰宅部担当なんて割に合わないけど、{n}まぁあなたに会えて楽しかったわ。{p}{end}
+EN: Well, that wraps up my job too. Being in charge of the Go-Home Club hardly pays off, but it was fun getting to know you.{p}{end}
+
+## MGC03 g0 s0098
+JP: お疲れさま。{n}あと少し、がんばってね。{n}それじゃ。{p}
+EN: Good work. Hang in there a little longer. See you.{p}
+
+## MGC03 g1 s0000
+JP: さてと、今日は最後の特別練習の日ね。{n}野球部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to baseball club practice!{p}{end}
+
+## MGC03 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}特別練習も今回でおしまいだ。{n}悔いがのこらないようにね。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. This is the last special practice. Make sure you don't leave any regrets.{p}{end}
+
+## MGC03 g1 s0011
+JP: さてと、今日は最後の特別練習の日ね。{n}バレー部の練習に行こうっと。{p}
+EN: Well, today's the last special practice day. Off to volleyball club practice!{p}
+
+## MGC03 g1 s0022
+JP: さてと、今日は最後の特別練習の日ね。{n}サッカー部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to soccer club practice!{p}{end}
+
+## MGC03 g1 s0023
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、3月の特別練習の日ね。{n}最後の特別練習になるけど、{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today is March's special practice day. It's the last one, so let's do our best.{p}{end}
+
+## MGC03 g1 s0024
+JP: それから、とりあえず{n}今日がクラブ納めになります。{n}3月は、クラブはお休みだから。{p}
+EN: Also, today's the last club day of the year. The club is off in March.{p}
+
+## MGC03 g1 s0025
+JP: 普段のクラブ活動もないので、{n}今日の報告が最後になるわね。{p}
+EN: There are no regular club activities either, so today's report will be the last one.{p}
+
+## MGC03 g1 s0027
+JP: どう?{n}私には、{v1}{col:0}ちゃん{col:-}、{n}だいぶかわったように見えるけど、{n}満足できる結果になった?{p}
+EN: How is it? To me, {v1}{col:0}-chan{col:-}, you seem to have changed a lot. Are you happy with the results?{p}
+
+## MGC03 g1 s0028
+JP: それでは、次は最後の特別練習ね。{n}好きな練習を選んでね。{p}{end}
+EN: Next is the last special practice. Pick whichever drill you like.{p}{end}
+
+## MGC03 g1 s0029
+JP: はい、お疲れさま。{n}これ、タオルよ。{n}1年間ホントにがんばったね。{p}
+EN: Okay, good work. Here, a towel. You really worked hard all year.{p}
+
+## MGC03 g1 s0030
+JP: 一応今月の伝達事項をいっておくね。{n}ええと今月は、学年末試験と{n}進級テストがありますね。{n}最後ですから、がんばってね。{p}
+EN: Here are this month's announcements, just in case. Um, there's the year-end exam and the promotion test. It's the last one, so do your best.{p}
+
+## MGC03 g1 s0031
+JP: ええと……、これでとりあえず、{n}私の役目は終わりです。{n}1年間、お疲れさま。{p}{end}
+EN: Um... that wraps up my job for now. Thanks for all your hard work this year.{p}{end}
+
+## MGC03 g1 s0032
+JP: あと少しで、1年も終わりよ。{n}がんばってね。{n}それでは、また……。{p}
+EN: The year's almost over. Hang in there. Well, see you...{p}
+
+## MGC03 g1 s0033
+JP: さてと、今日は最後の特別練習の日ね。{n}相撲部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to sumo club practice!{p}{end}
+
+## MGC03 g1 s0034
+JP: 来たな、{v0}!{n}特別練習も今日でおしまいだ。{n}最後だからって、気を抜くなよ!{p}
+EN: There you are, {v0}! Today's the last special practice. Don't you slack off just 'cause it's the last one!{p}
+
+## MGC03 g1 s0042
+JP: さてと、これでとりあえず{n}わしの役目は終わりだな。{n}男でないのが悔やまれるが……、お前なら{n}世間を新相撲に注目させることができる。{p}
+EN: Well, that about wraps up my job. A shame you're not a man... but you could get the whole country watching women's sumo.{p}
+
+## MGC03 g1 s0044
+JP: さてと、今日は最後の特別練習の日ね。{n}美術部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to art club practice!{p}{end}
+
+## MGC03 g1 s0045
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}特別練習も今日でおしまいよ。{n}最後までがんばってね。{p}{end}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Today's the last special practice. Hang in there till the end.{p}{end}
+
+## MGC03 g1 s0055
+JP: さてと、今日は最後の特別練習の日ね。{n}吹奏楽部の練習に行こうっと。{p}
+EN: Well, today's the last special practice day. Off to brass band practice!{p}
+
+## MGC03 g1 s0056
+JP: {v1}{col:0}さん{col:-}、{n}今日は最後の特別練習の日ですね。{n}がんばりましょう……。{p}
+EN: {v1}{col:0}-san{col:-}, today is the last special practice day... Let's do our best...{p}
+
+## MGC03 g1 s0062
+JP: おつかれさま。{n}{v1}{col:0}さん{col:-}は、ホントに{n}この1年がんばったと思うわ。{n}わたくしがいうんだから間違いありません。{p}
+EN: Good work. I think you truly worked hard this year, {v1}{col:0}-san{col:-}. And when I say so, I mean it.{p}
+
+## MGC03 g1 s0066
+JP: さてと、今日は最後の特別練習の日ね。{n}演劇部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to drama club practice!{p}{end}
+
+## MGC03 g1 s0067
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今日が最後の特別練習日ね。{n}どう?{sp}準備はいい?{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. Today's the last special practice day. So? Are you ready?{p}{end}
+
+## MGC03 g1 s0077
+JP: さてと、今日は最後の特別練習の日ね。{n}化学部の練習に行こうっと。{p}{end}
+EN: Well, today's the last special practice day. Off to chemistry club practice!{p}{end}
+
+## MGC03 g1 s0088
+JP: さてと、今日は最後の特別練習の日ね。{n}委員長と遊んでくるかな。{p}
+EN: Well, today's the last special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC03 g1 s0089
+JP: はーい、{v1}{col:0}さん{col:-}。{n}今日は最後の特別練習日よ。{n}最後くらい、ぴしっと気合をいれて{n}いきましょう。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. Today's the last special practice day. Let's put some real effort in, at least for the last one.{p}
+

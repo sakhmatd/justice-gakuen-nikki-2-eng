@@ -1,0 +1,502 @@
+#+TITLE: Nekketsu Seishun Nikki 2 MTL glossary
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+Names and fixed terms for every translator. Official Western (Rival
+Schools) names, honorifics kept. Add a row when a new name or recurring
+term is settled. The tl files remain the final authority: grep
+=tl/*.txt= when a term is missing here, then the first game's
+=private/n1-tl/*.txt=.
+
+Taken over from the first game's glossary on 2026-11-17. Rows for names
+and terms new in this game go into the matching section. Justice High
+(ジャスティス学園) is a playable school in this game (files MGGnnJ).
+
+* Characters
+| JP           | EN                | note                         |
+|--------------+-------------------+------------------------------|
+| バツ         | Batsu             | Taiyo                        |
+| ひなた       | Hinata            | Taiyo                        |
+| 恭介, 鑑     | Kyosuke (Kagami)  | Taiyo                        |
+| 英雄         | Hideo-sensei      | Taiyo teacher (Shimazu)      |
+| 島津         | Shimazu-sensei    | same person as Hideo         |
+| 響子         | Kyoko-sensei      | nurse (Minazuki)             |
+| 将馬         | Shoma             | Gorin                        |
+| 夏           | Natsu             | Gorin; 夏 is also "summer"   |
+| ロベルト     | Roberto           | Gorin                        |
+| 隼人         | Hayato-sensei     | Taiyo PE teacher; 熱血隼人 = Hayato Nekketsu |
+| エッジ       | Edge              | Gedo; real name 山田 栄二 = Eiji Yamada (Eiji-kun) |
+| アキラ       | Akira (Kazama)    | Gedo                         |
+| 岩           | Gan               | Gedo; 石動クン = Isurugi-kun  |
+| 醍醐         | Daigo-senpai      | Gedo legend                  |
+| 雷蔵, 忌野   | Raizo (Imawano)   | Justice principal, Batsu's father; 雷蔵学園長 = Principal Raizo |
+| 雹           | Hyo, Hyo-san      | student council; Hyo-kun from the female MC |
+| ロイ         | Roy               | Pacific (Bromwell)           |
+| ティファニー | Tiffany           | Pacific (Lords)              |
+| ボーマン     | Boman             | Pacific (Delgado)            |
+| デルフォン   | Delphonne         |                              |
+| 修一         | Shuichi-kun       | Shoma's older brother, captain |
+| 兄さん / 兄貴 | Big brother / Bro | how Akira addresses Daigo    |
+
+* New characters in this game
+Found in the name table (group slot 2) and not in the first game's
+glossary. Names confirmed by the user (2026-11-17) except where noted.
+Ran and Nagare are in Project Justice, so their official Western names
+apply. Speaker labels and item names may name more.
+| JP     | EN                | note                                     |
+|--------+-------------------+------------------------------------------|
+| ラン   | Ran (Hibiki)      | Project Justice                          |
+| 流     | Nagare (Namikawa) | Project Justice; 流 also occurs in words |
+| 修一   | Shuichi-kun       | Shoma's older brother; only mentioned in |
+|        |                   | the first game, a character here         |
+| 光太郎 | Kotaro            | volleyball adviser Okita; 光太郎先生 =   |
+|        |                   | Kotaro-sensei                            |
+| まり   | Mari              | new                                      |
+| 金山   | Kanayama          | sumo coach's ring name; see below        |
+| こずえ | Kozue             | new                                      |
+| 静音   | Shizune           | new                                      |
+| 小百合 | Sayuri            | new                                      |
+| 委員長 | Chairperson       | iinchou, used as a nickname              |
+| サクラ | Sakura            |                                          |
+| あきら | Akira             | hiragana spelling                        |
+| ハカセ | Hakase            | chemistry teacher Kase; see below        |
+| 春     | Haru (Ayuhara)    | Natsu's older brother, college student   |
+| かおり | Kaori             | lost girl (MGM09)                        |
+- ハカセ is "Hakase" (user, 2026-11-17), kept romanized like the
+  honorifics. He is the chemistry club's teacher, 加瀬 兵衛 (Kase Hyoe,
+  given name probably read ひょうえ; MGG04G "担当は加瀬 兵衛先生"), who
+  says "don't call me sensei, call me Hakase" (a pun on his name). Write
+  "Hakase" with no honorific. 加瀬先生 stays "Kase-sensei".
+- Full names: 月嶋 小百合 Sayuri Tsukishima, 山吹 こずえ Kozue Yamabuki,
+  九条 静音 Shizune Kujo, 七瀬 まり Mari Nanase, 沖田 光太郎 Kotaro Okita
+  (沖田先生 Okita-sensei), 佐渡 源五郎 Gengoro Sado, 加瀬 兵衛 Hyoe Kase,
+  沢村 修一 Shuichi Sawamura. Seniors take -senpai from a first-year
+  (流先輩 Nagare-senpai); the male MC also says Nagare-san/Shuichi-san
+  where the JP has さん.
+- 金山 is the sumo ring name (四股名) of the outside sumo coach 佐渡 源五郎
+  (Sado Gengoro), called 監督 or 佐渡先生. Speaker label and ring name:
+  "Kanayama". 佐渡先生 is "Sado-sensei", 監督 "Coach". 佐渡 金山先生 is
+  "Sado Kanayama-sensei" (the Chairperson mixes the two).
+- あきら vs アキラ (checked 2026-11-17, against the user's first guess):
+  アキラ is the helmeted, boyish persona, and あきら is the bare-faced
+  girl. Evidence: MGK10 g6 s0070, MGM02 g0 s0431 (Daigo: the helmeted
+  アキラ is a made-up personality), MGG04O g0 s0472-0490. Both are "Akira"
+  in EN. Helmeted Akira speaks curtly and formally; bare-faced Akira uses
+  soft girl's speech (style.org). The text does not mark the persona by
+  spelling: アキラ (~700 uses) covers both, also in narration after the
+  helmet comes off, and あきら occurs only in Daigo's MGM02 scene and the
+  MGK10 g6 s0070 quiz. Write plain "Akira" with no colour; the portrait
+  and the voice show the persona. Where a line contrasts the two, say it
+  in words ("helmeted Akira", "Akira without her helmet").
+
+* Schools and places
+| JP             | EN           |
+|----------------+--------------|
+| 太陽学園       | Taiyo High   |
+| 五輪高校       | Gorin High   |
+| パシフィックHS | Pacific High |
+| 外道高校       | Gedo High    |
+| ジャスティス学園 | Justice High |
+| 教室           | Classroom    |
+| グラウンド     | Field        |
+| 屋上           | Roof         |
+| 体育館         | Gym          |
+| 保健室         | Infirmary    |
+| 本館2F         | Main Bldg. 2F |
+| 別館           | Annex        |
+| 広場           | plaza        |
+| 中庭           | courtyard    |
+| 臨海合宿       | Seaside Camp |
+| 玉川南高校     | Tamagawa-Minami High |
+| 部室棟         | Clubhouse    |
+| 生徒会室       | Council room |
+| 秀祭           | Shu Festival |
+| 五輪高新人戦   | Rookie Meet  |
+
+* Terms
+| JP          | EN                   |
+|-------------+----------------------|
+| 校歌 | Anthem (titles: "<School> Anthem") |
+| 修羅 / 羅刹 / 鬼 / 仏 | Asura / Fiend / Oni / Buddha (Gedo anthem) |
+| ツープラトン | Team Up (official, no hyphen) |
+| 完全燃焼アタック | Burning Vigor Attack |
+| 熱血受け身, 受け身 | Breakfall (N1 lessons; option label too, user) |
+| 根性カウンター | Tardy Counter       |
+| 熱血コンボ  | Burning Combo        |
+| エアバースト | Air Burst           |
+| 総番長      | top boss             |
+| 学園長      | the principal ("sir") |
+| 課外授業    | Activities           |
+| 気を溜める / 気を放つ | Charge ki / Release ki |
+| はいっ! / それっ! (Hayato) | "Hup!" / "Now!" |
+| 爆裂シュート / 爆裂Vゴール | Explosive Shot (minigame) / Victory Goal (Roberto BVA) |
+| 白ラン      | white uniform        |
+| 手刀        | knife-hand (strike)  |
+| ヤマトダマシイ | "Yamato spirit"    |
+| 水仙 / かすみ草 | narcissus / baby's breath |
+| 忌野流漢方薬 | "Imawano-Style Herbal Medicine" (item) |
+| 謎の声      | Mysterious Voice (speaker label) |
+| 仁義        | honor (Daigo)        |
+| 消灯        | lights-out           |
+| ババ抜き    | Old Maid             |
+| 大和魂      | Yamato spirit (MBMS08 used "Japanese spirit") |
+| 裏の裏をかく | double bluff        |
+| 太P戦       | Taiyo-Pacific Match  |
+| ホームラン競争 / PK戦 | Home Run Derby / PK Shootout |
+| バレーサービス合戦 | volleyball serve contest |
+| 風紀委員 / 美化委員 | disciplinary / cleanup committee |
+| スイカ割り / 線香花火 | watermelon splitting / sparklers |
+| Wスカイアタック | Final Spike (Natsu2 Team Up) |
+| ダブルホームラン打法 | Grand Slam (Shoma Team Up) |
+| トラップWシュート | Double Shot (Roberto Team Up) |
+| 五輪祭      | Gorin Festival       |
+| サービス合戦 | serve contest       |
+| 一般生徒    | Student (speaker label) |
+| 理想の生徒  | the ideal student    |
+| ケーキらしきモノ | "Cake-Like Thing" (item) |
+| 三色おにぎり | "Three-Color Rice Ball" (item) |
+| やまぶき印の特製おにぎりセット | "Yamabuki Brand Special Rice Ball Set" |
+| 忌野流護身術の本 | "Imawano-Style Self-Defense Book" (item) |
+| うめ/かつお/明太子/野沢菜 | Pickled plum / Bonito / Spicy cod roe / Pickled greens |
+| 学園祭      | school festival      |
+| 肝試し      | test of courage      |
+| おフダ      | (paper) charm (not talisman) |
+| 腕相撲      | arm wrestling        |
+| 三高        | tall, rich and educated |
+| 正波拳 / 実直拳 | Seihaken / Jicchokuken (Hideo) |
+| 忍者武芸秘伝ノ書 | "Secret Ninja Arts Manual" (item) |
+| 軸移動      | sidestep             |
+| 空手九段    | 9th-dan in karate    |
+| 赤のリストバンド | "Red Wristband" (item) |
+| 島津英雄サイン色紙 | "Hideo Shimazu Autograph" (item) |
+| 私立ジャスティス学園, ジャス学 (the game, e.g. Edge's quizzes) | Rival Schools |
+| ストリートファイターZERO | Street Fighter Alpha |
+| バンパイアセイヴァー | Darkstalkers 3 |
+| ポケットファイター | Pocket Fighter |
+| 熱血ハチマキ | "Hot-Blooded Headband" (item) |
+| バリバリヘアスプレー | "Super-Hold Hairspray" (item) |
+| 夏のハンカチ | "Natsu's Handkerchief" (item) |
+| 男子生徒    | Male Student (speaker label) |
+| リフティング | juggling (Knee/Head/Heel/Elbow) |
+| 精神/キック/パンチ/スタミナカード | Spirit / Kick / Punch / Stamina Card |
+| 四字熟語 quiz (一日一善 etc.) | quiz on meanings, kanji romanized |
+| 補習授業    | remedial class       |
+| やまぶき商店 | the Yamabuki Store  |
+| やきそばパン | yakisoba bun        |
+| 死の介護    | Final Prescription (Kyoko BVA) |
+| 雹の金ボタン | "Hyo's Gold Button" (item) |
+| 忌野家伝来護身符 | "Imawano Heirloom Charm" (item) |
+| スタミナラーメン | "Stamina Ramen" (item) |
+| シールプリント写真 | "Photo Stickers" (item) |
+| 電話番号    | "Phone Number" (item) |
+| バイクのキーホルダー | "Motorcycle Keychain" (item) |
+| エッジのバンダナ | "Edge's Bandana" (item) |
+| ジャンボミックスおにぎり | "Jumbo Mixed Rice Ball" (item) |
+| 不良学生 / リーダーらしき男 / 子供達 | Delinquent / Gang Leader / Kids (labels) |
+| 炎舞脚      | Enbukyaku (Hinata) |
+| ガッツアッパー | Guts Upper (Batsu) |
+| 気合弾 / 全開気合弾 | Guts Bullet / Super Guts Bullet (Batsu) |
+| 常勝学院    | Josho Academy        |
+| 通信教育    | correspondence course |
+| 商店街 / 購買部 | shopping district / school store |
+| 1年A組      | Class 1-A            |
+| あまった夕刊 / 通信教育空手セット / はげヅラ | "Leftover Evening Paper" / "Mail-Order Karate Set" / "Bald Wig" (items) |
+| おごりの昼飯 / 手作り弁当 / 手作りケーキ | "Free Lunch" / "Homemade Lunch" / "Homemade Cake" (items) |
+| 護符 (Hyo's heirloom) | amulet        |
+| マイスタンプ | "My Stamp" (arcade) |
+| 子供 / 犬 / 中学生 | Kid / Dog / Middle Schooler (labels) |
+| 高校生の集団の一人 | High School Thug (label) |
+| 岩特製にぎりめし | "Gan's Special Rice Ball" (item) |
+| 極 竜也ステッカー | "Tatsuya Kiwami Sticker" (item, reading guessed) |
+| 男の勲章    | "Medal of Manhood" (item) |
+| 熱血竹刀    | "Hot-Blooded Shinai" (item) |
+| 燃える熱血赤ジャージ | "Burning Hot-Blooded Red Tracksuit" (item) |
+| 忌野流通信講座 | "Imawano-Style Correspondence Course" (item) |
+| 立ちガード / しゃがみガード | standing guard / crouching guard |
+| 上段蹴り / 下段蹴り / 中段パンチ | High kick / Low kick / Mid punch |
+| 男の優しさ  | "a man's kindness" (Daigo) |
+| 血祭り      | "Bloodbath" (Edge's logo) |
+| さくらちゃん | Sakura-chan         |
+| ドクロシール | "Skull Sticker" (item) |
+| ピアス (Roy's gift) | "Earrings" (item) |
+| 愛の募金    | Love Fund (charity drive) |
+| バーニングティーチャー | Burning Teacher |
+| 指輪 / 募金の羽根 | "Ring" / "Charity Feather" (items) |
+| 挨拶代わりのキッス / 本気キッス | "Greeting Kiss" / "Real Kiss" (items) |
+| ボーマンの育てた花 | "Boman's Flowers" (item) |
+| いきまショー (Tiffany) | Let's go! |
+| 赤ジャージ (Batsu for Hayato) | "Red Tracksuit" |
+| 熱血青春日記 | Hot-Blooded Youth Diary |
+| 愛と友情のツープラトン | Team Up Technique (official; no "Love & Friendship") |
+| パーティーの伝説 | the legend about this party |
+| 恵斬り (=裏斬り, misread) / 破壊 | "Backstab" / "Destruction" (Edge's logo) |
+| たこ焼き    | "Takoyaki" (item) |
+| EDITキャラクター | EDIT character |
+| 漢字 quizzes (Gan) | English spelling quiz, correct answer kept in place |
+| item get    | Got {col:0}"Item"{col:-}!! |
+| 知力 (stat, new) | Smarts (fits the stat-line gap) |
+| 好きな言葉 | favorite word (entry form) |
+| 決戦! 炎のスプリント | Showdown! Blazing Sprint (minigame) |
+| 喫茶店 / 屋台村 / 演劇を見に行く | Cafe / Food stalls / The play (festival) |
+| 腕相撲大会 / お化け屋敷 | Arm wrestling / Haunted house (festival) |
+| <stat>大幅UP | <Stat> way up! |
+| 進級試験 / 学年末試験 | promotion exam / year-end exam |
+| 新聞部 / 放送部 / 写真部 / 報道部 | Newspaper / Broadcasting / Photography / Press Club |
+| 雫 | Shizuku |
+| ロックマン印の絆創膏 | "Mega Man Bandage" (item) |
+| 島津流料理皆伝の書 | "Shimazu-Style Cookbook" (item) |
+| 島津流恋愛術秘伝の書 | "Shimazu-Style Secret Love Manual" (item) |
+| 流のセーム | "Nagare's Swim Towel" (item) |
+| 熱血ランニング | "Hot-Blooded Tank Top" (item) |
+| ヒナ救出の写真 | "Chick Rescue Photo" (item; ヒナ = baby bird) |
+| スペシャルAの制服 | "Special A Uniform" (item) |
+| 帰宅部 | Go-Home Club ("Go-Home" in tight menus) |
+| 部 (any club) | "club", also for sports ("baseball club") |
+| 普段のクラブ活動 / 特別練習 | regular club activities / special practice |
+| 文化系 / 体育会系クラブ | Culture Clubs / Sports Clubs |
+| 雷蔵先生, 雷蔵学園長 | Principal Raizo |
+| 修兄ちゃん / 流兄ちゃん | "my bro Shuichi" / "big bro Nagare" (Shoma) |
+| ジェットコースター・ベガ | Roller Coaster Vega |
+| サイコドライブ | Psycho Drive |
+| 新相撲 | women's sumo |
+| 世界最大級 (Ferris wheel) | "one of the world's biggest" |
+| ネルソン / エアトン | Nelson / Ayrton (Roberto's twin brothers) |
+| 水泳部 | swim club |
+| 健康測定 | health checkup |
+| 実技試験 / 期末試験 | practical exam / final exam |
+| 親父 (Batsu of Raizo) | "old man"; others: "your old man", "your dad" |
+| 七不思議 | Seven Mysteries |
+| アシ (Ran's helper) | legman |
+| 島津流体操術 | Shimazu-Style Calisthenics |
+| プールの係員 | Pool Attendant (label) |
+| 不良 (from kids) | punk |
+| 子供（兄） / 子供（弟） / both | Older Kid / Younger Kid / Kids (labels) |
+| 観客 | Crowd (label) |
+| PT戦 | Pacific-Taiyo Match (Pacific side of 太P戦) |
+| 短距離走 | the sprint |
+| 夏祭り / 浴衣 | summer festival / yukata |
+| ヨーヨー釣り / 金魚すくい / 射的 | yo-yo fishing / goldfish scooping / shooting gallery |
+| 子犬 / 女の人 / スリ | Puppy / Woman / Pickpocket (labels) |
+| 屋台のオヤジ | Stall Owner (label) |
+| ひったくり | Purse Snatcher (label; スリ is Pickpocket) |
+| 屋台 / フランクフルト | stalls / frankfurter |
+| トウモロコシの早食い | corn-eating race |
+| 遠泳 / ビーチフラッグ | long-distance swim / beach flags |
+| かき氷大食い選手権 | "Shaved Ice Eating Championship" |
+| 山くずし | "Topple the Mountain" (sand-pile game) |
+| ゲテモノコンビ | Freak Duo |
+| ゲテモノペア | Freak Pair |
+| アニキ (Shoma of Shuichi) | "Bro" |
+| ロケット / 手持ち / 打ち上げ花火 | bottle rockets / handheld / aerial fireworks |
+| レジデント・イビル / おいしんぼうバンザイ | "Resident Evil" / "Foodie Banzai" |
+| 夏っちゃん | Natsu-chan |
+| ダンのお面 / 豪鬼のお面 | "Dan mask" / "Akuma mask" |
+| りんごアメ / わたアメ | candy apple / cotton candy |
+| たこ焼き / たい焼き / お好み焼き | takoyaki / taiyaki / okonomiyaki |
+| 焼きイカ / 焼きトウモロコシ | grilled squid / grilled corn |
+| こうして…夏祭りの夜は過ぎていった | "And so the summer festival night went by, ..." |
+| 騎馬戦 | piggyback battle (pairs, pool event) |
+| 迷子センター | lost child center |
+| ダンス大会 | dance contest |
+| 応援団 | cheering squad |
+| 文化祭の実行委員, 実行委員 | festival committee |
+| 腕相撲大会 (in lines) | arm wrestling tournament |
+| 根性/潜在能力/防御力/体力/知力/攻撃力カード | Guts / Potential / Defense / Stamina / Smarts / Attack Card |
+| card get | Got the {col:0}"X Card"{col:-}! Your {col:0}X{col:-} went up a little! |
+| 焼きソバ / 焼きソバ屋 / イカ焼き | yakisoba / yakisoba stand / grilled squid |
+| サッカーボールたこ焼き | "Soccer Ball Takoyaki" |
+| モンブラン / ショートケーキ / チーズケーキ | Mont Blanc / shortcake / cheesecake |
+| ヒーローインタビュー / 突撃インタビュー | hero interview / ambush interview (Ran) |
+| 学校を選びなおす (partner menus) | Pick another school |
+| 女の子 / 母親 / チアリーダー | Little Girl / Mother / Cheerleader (labels) |
+| 忌野流 攻メノ型 / 守リノ型 | "Imawano-Style Attack Form" / "Imawano-Style Defense Form" |
+| 斬り込み隊長 (Edge) | the gang's spearhead |
+| 接待プレー | go easy and play the good host |
+| ウソついたら針千本 (Gan) | "Cross my heart!" |
+| 試験に出る実技 (mode) | "Exam Prep" |
+| 中段攻撃 | mid attack |
+| あっちむいてほい / あいこで | "Look That Way" ("Look that way~..." / "Hoi!") / "Tie, again..." |
+| サービスエース (Gorin Festival event) | Service Ace ("The volleyball Service Ace" in menus) |
+| 五輪祭 エキシビションマッチ | the Gorin Festival exhibition match |
+| 愚民 (Hyo) | ignorant masses |
+| オス! (to Daigo) | Osu! |
+| {v0}選手 (Ran) | {v0} (選手 dropped) |
+| 忌野流 体力増強術 / 潜在能力開眼法 | "Imawano-Style Stamina Training" / "Imawano-Style Potential Awakening" |
+| 忌野流 懸想術 (Raizo) | "Imawano-Style Love Spell" |
+| ミニ募金箱 | "Mini Charity Box" (item) |
+| 愛用の赤グローブ / 讃美歌のテープ | "Favorite Red Gloves" / "Hymn Tape" (items) |
+| ファイヤーアタック (Natsu) | Blazing Spike (official, not "Fire Attack") |
+| 張り手 (Gan) | sumo slap |
+| 生徒指導室 | guidance office |
+| 他の人を誘う / 別の人を (name grids) | Someone else; grids write Hideo-sensei, Kyoko-sensei, Hayato-sensei, Daigo-senpai |
+| Xと一緒だと楽しいから / 夜道では頼りになりそうだから (MGK12) | It's fun being with X / He'd be handy on a dark night (girls: She'd love to see the tree) |
+| 夜道では頼りになるかな (MGK12) | you'd be good to have around on a dark night |
+| 中庭で語り合ったのだった (MGK12) | (After that, X and I talked in the courtyard until the party ended.) |
+| 一文字君 (Hideo of Batsu) | Ichimonji-kun |
+| 肩パット (Batsu of Hideo) | Shoulder Pads |
+| 期末試験復習課題 | "Final Exam Review Assignment" |
+| 早飯食らい対決 | speed-eating showdown |
+| 真剣白刃取り | bare-handed blade catch |
+| 紅白戦 | scrimmage (intra-squad) |
+| 特別体力強化メニュー | "Special Fitness Boost Menu" |
+| 根性神社 / 恋愛神社 | Guts Shrine / Love Shrine (first game) |
+| 初詣 | (first) shrine visit; "hatsumode" for the 初モーテル pun (MGK01) |
+| おみくじ 中吉 / 大凶 | omikuji; "Middle Blessing" / "Great Curse" |
+| 絵馬 | ema ("ema wish plaque" on first mention) |
+| 破魔矢 | hamaya, a "demon-breaking arrow" |
+| おせち / クリキントン / 甘酒 | osechi / kuri kinton / amazake |
+| 晴れ着 | kimono |
+| モチつき大会 | mochi-pounding contest |
+| ジャスティススピナー | Justice Spinner (plastic tops) |
+| 黒勾玉 | the Black Magatama |
+| 寒中水泳 / 八丈島 | midwinter swim / Hachijojima |
+| 忌野流 精神鍛練法 / 知性洗練法 | "Imawano-Style Spirit Training" / "Imawano-Style Mind Refinement" |
+| プライズマシン / 対戦格闘ゲーム | crane game / fighting game (arcade) |
+| 外道アレックス (Edge) | "Gedo Alex"; スト3 = Street Fighter III / SF3 |
+| 響子先生宛てのラブレター | "Love Letter to Kyoko-sensei" (item) |
+| 義理チョコ / お義理 | obligation chocolate (first game) |
+| 本命 | special someone (first game) |
+| 複雑な気分だな (MGK02) | I've got mixed feelings about this... |
+| 睡眠学習 (Edge) | sleep learnin' |
+| 旋蹴舞 (Hinata) | Dancing Cyclone Kick |
+| ギャラリーの生徒 | Spectator (label) |
+| 上段ガード / 下段ガード | High guard / Low guard |
+| 音楽ゲーム | music game (arcade) |
+| 定期券 | train pass |
+| 飛び出しナイフ型のクシ | "Switchblade Comb" (item) |
+| バイオハザード2 / デザート・イーグル | Resident Evil 2 / Desert Eagle |
+| 職員室 | staff room |
+| 分身魔球 (Shoma) | Hundred Balls |
+| 一軍 / レギュラー | first string / (starting) lineup |
+| 雑用委員 | chore committee |
+| 人体デッサン | figure drawing |
+| 幽霊部員 | no-show members |
+| 猫だまし | nekodamashi clap |
+| 階段レシーブ (Kotaro) | "Staircase Receive" |
+| 2回宙返りジェットスパイク (Kotaro) | "Double-Loop Jet Spike" |
+| 大津波ブロック (Kotaro) | "Great Tsunami Block" |
+| 全日本 | All-Japan team |
+| 合同発表会 / 優秀賞 | joint recital / Award of Excellence |
+| ミスこずえ (Boman) | Miss Kozue |
+| お地蔵さん | Jizo statues |
+| クスリ (Hakase) | medicine |
+| 響子君 (principal) | Kyoko-kun |
+| 本命チョコ | true-love chocolate |
+| お返し (White Day) | return gift |
+| シカエシ (Tiffany's slip for お返し) | payback |
+| とっておきの場所 | my secret spot |
+| コンペイトー | konpeito |
+| クラブ納め | the last club day of the year |
+| 進級テスト (Mari) | promotion test (進級試験 stays promotion exam) |
+| Xと夜の浜辺を歩いて...ホワイトデーの夜は過ぎていった | And so White Day night went by, walking along the beach with X. |
+| White Day closer, male MC (MGK03) | (Heh heh... Good. X seemed happy with it, too. Today really turned into a great White Day...) |
+| 終業式 | closing ceremony |
+| 洗脳術 (Hyo) | brainwashing ("my brainwashing") |
+| 心の暗黒 (Hyo) | the darkness in (your) heart |
+| 片腕 / 右腕 (Hyo) | right hand |
+| 世界征服 | conquering the world |
+| 特攻服 | biker gang uniform |
+| フェイロン | Fei Long (Street Fighter actor) |
+| 好感度 | affection (EMTBL) |
+| アレックス | Alex (Akira's cat) |
+| 肩当て (Hideo) | shoulder warmer |
+| 腹巻 (Gan) | belly warmer |
+| 食い放題 | all-you-can-eat |
+| 神月財閥 | the Kanzuki family |
+| サガット | Sagat-san |
+| ケン・マスターズ格闘術 | "Ken Masters Fighting Style" |
+| サイキョ～流格闘術 | "Saikyo-Style Fighting" |
+| 熱血戦術指導 (EDIT) | "Tactics Training" (made up; real menu label unchecked) |
+| リーグ戦 (mode) | "League" (TITLE label10) |
+| EDITキャラクターの登録 | "Register EDIT Character" (TITLE label: EDIT Register) |
+| 三者面談 | parent-teacher meeting |
+| セービング練習 | Saving Practice (activity); saves / keeper drills in talk |
+| ぞうすい / 鍋焼きうどん | rice porridge / nabeyaki udon |
+| エースで4番 / 二軍の補欠 | ace and cleanup hitter / second-string benchwarmer |
+| 大回転打法 (Shoma) | Big Spin Swing (not a move; literal) |
+| セ・リーグ / Jリーグ | Central League / J.League |
+| 保健体育 | health class |
+| カツサンド | cutlet sandwich |
+| 生命の宿りし日 (Boman) | "O day on which life was given" (birthday) |
+| ゼニはいそげ (Tiffany's slip for 善は急げ) | "strike while the money is hot" / "...iron is hot" |
+| ミウシナッタ (Tiffany's slip for 見そこなった) | "I overlooked you" / "misjudged" |
+| ゲンキョウ (Tiffany's slip for 勉強, MGM05) | "malpractice" / "practice" |
+| イショウテンメイ (Tiffany's slip for 一生懸命) | "working my bones to the fingers" |
+| ヒョーシキ / ダイビョーブ (MGM05) | "common nonsense" / "all wrong" (localized gags) |
+| おにぎり博士 (Gan) | rice ball professor |
+| たらこ | Cod roe (明太子 stays Spicy cod roe) |
+| 塾 | cram school |
+| ゲームセンター | arcade (not "game center") |
+| 夏からの手紙 / ロイのピアス / 男性用ブリーフ | "Letter from Natsu" / "Roy's Earrings" / "Men's Briefs" (items) |
+| サッカーシューズ / ロベルトのサンバイザー | "Soccer Cleats" / "Roberto's Sun Visor" (items) |
+| ヘルメット / 迷彩柄のハンカチ | "Helmet" / "Camo Handkerchief" (items, Akira) |
+| 気合ハチマキ | "Fighting Spirit Headband" (item, Edge) |
+| 白い手袋 / 熱血ホイッスル | "White Gloves" / "Hot-Blooded Whistle" (items) |
+| 醍醐の学ラン / 男の十ヶ条 | "Daigo's School Coat" / "Ten Rules of Manhood" (items) |
+| 水中メガネ / シュノーケル | "Swim Goggles" / "Snorkel" (items, Nagare) |
+| ラン特別製アルバム / 入学式のスナップ写真 | "Ran's Special Album" / "Entrance Ceremony Snapshot" (items) |
+| 男の子 (label) | Little Boy (女の子 = Little Girl) |
+| 不良風の集団の一人 (label) | Delinquent (same as 不良学生) |
+| 超エリート (Hyo) | "super elite" |
+| ハデめのトランクス / セクシーなビキニタイプ / 競泳用 | Flashy trunks / Sexy bikini briefs / A racing suit, as usual (male MC menu) |
+| ワンピース / ビキニ / 競泳用 | One-piece / Bikini / Racing suit (female MC menu) |
+| ブーメラン (swimsuit) | "boomerang" |
+| ライフセービング | lifesaving |
+| ハートフルページ | the heartwarming page (page 3, family section) |
+| 記者根性 | reporter guts |
+| 購買部 (Extras shop) | School Store |
+| おまけ / おまけを見る | Extras / View Extras |
+| 熱血カード | Hot-Blooded Card ("Card No." where space is short) |
+| 熱血ポスター / 熱血イラスト集 | Hot-Blooded Poster / Hot-Blooded Art Book |
+| J学サントラCD | Rival Schools OST CD |
+| ジャスティス学園 (as a product: ムック, ドラマアルバム) | Rival Schools (fan book, drama CD) |
+| <name> ED1 / ED2 / 日記 | <name> Ending 1 / Ending 2 / Diary ("End N" if short) |
+| 素顔あきら | Unmasked Akira |
+| スタッフロール | Staff Credits |
+| クラブ紹介 / 夏の日の思い出 / クリスマスの思い出 | Club Intros / Summer Memories / Christmas Memories |
+| 売り切れ / 入荷未定 | Sold Out / Not in Stock |
+| ポケットジャスティス / ポケジャス | Poke-Jus (PocketStation app; as in the mode select, tl/TITLE.txt desc5) |
+| メッセージカード | Message Card |
+| 一人で遊ぶ(モード) | 1P Mode |
+| 操作説明 (PocketStation menu) | How to Play |
+
+* Honorifics
+- 君, クン -> -kun. さん -> -san. ちゃん -> -chan. 先生 -> -sensei.
+  先輩 -> -senpai.
+
+* Move names
+Official Western (Rival Schools) names from =moves.pdf= (StrategyWiki).
+The full JP -> EN table with confidence and file list is in
+[[file:re/moves/mapping.org]]. Use its official column for
+every special move, Burning Vigor Attack and Team Up Technique. EDIT-only
+variants reuse the official base name (空中 = Air, 全開 = Super).
+- Romanised names keep the PDF spelling: Seihaken, Shouou-Ken,
+  Shinkuu-Hadoken, Roppu-Zuki, Haruichiban, Fire Senpuu-Kyaku.
+- Team Up Techniques (MBMS13, EDITCM sheet): Double Guts Bullet, Guts &
+  Power, Last Symphony, Love & Peace, Praise & Spirit, Double Shot,
+  Bloody Nightmare, Double Rising Tornado, Double Power Buster, Active
+  Volcano, Shin Seihaken, Crossfire Kick, Shungokusatsu, Final Spike,
+  Ningen-Taihou, Bridge Drop, Heart Attack (究極の愛の波動), Rest &
+  Relax (究極の矯正術, Kyoko), Super Parry (男の中の男, Daigo), Gang
+  Buster (連撃連舞, Akira), Neo Synchronous Attack (協奏連撃蹴, Akira),
+  Synchronized Attack (シンクロナイズドアタック, Nagare; new, Capcom
+  wiki). The owners come from the face icons on the year-end select
+  screen (MGBGE03); user choice, 2026-11-17.
+  Here the select screen (tl/TEAMUP.txt) writes every name in full.
+- No official match, kept literal: Blow Rush (ブローラッシュ), Screw
+  Piledriver, Stamp Kick.
+- New in this game (MGK10 quiz). From moves.pdf: Kyoujyuu-Reppa,
+  Imawano Kyoujyuu-Reppa (狂獣裂破), Yasha-Guruma (夜叉車), Counter
+  Thrust (クロスカウンター, Hayato). Guessed from the unmatched official
+  names: Lightning Strike (幻影ブレイカー), Best Rush (ヘブンズラッシュ),
+  Leg Up (放舞), Phoenix Fist (無双突き, weakest guess). Literal, not in
+  the PDF: Super Flash Attack (スーパーフラッシュ攻撃, Ran), Individual
+  Medley (個人メドレー, Nagare), Cross Slash (十文字斬り, Hyo's sword).
+- EDIT cards (tl/EDITCM.txt, matched by command against moves.pdf):
+  Phoenix Fist (無双突き, now confirmed by command), Phoenix Kick
+  (無双蹴り), Phoenix Fury (無双正拳突き), Skull Aura (気功塊), Air
+  Rebel Aura (硬気功塊, likely), Devastation Kick (気合キック, likely),
+  Super Devastation Kick (熱血気合キック). Literal, no official name:
+  Dive (飛び込み), Super Flutter Kick (超バタ足), Cartwheel (側転), Shock
+  Wave, Triple Screw Piledriver, Back Talk (背中語り), A Man's Back
+  (男の背中), Groovy Special, Super Cartwheel, Mouth-to-Mouth, Extra!
+  Extra!, Scoop Grab (いただきスクープ, placeholder).

@@ -1,0 +1,804 @@
+## MGT01 g0 s0000
+JP: 放課後。{n}今日の授業も終わったし、家に帰ろう……。{n}あれ?{sp}神社の境内から聞いたことのある{n}声が聞こえるな。アレは……。{p}{end}
+EN: After school. Classes are done for today, so time to head home... Huh? I hear a familiar voice from the shrine grounds. That's...{p}{end}
+
+## MGT01 g0 s0001
+JP: 「いっち、にの、さーーーん!!」{p}{end}
+EN: "One, two, THREEEE!!"{p}{end}
+
+## MGT01 g0 s0002
+JP: お、あそこで練習してるのは、{n}ひなたと……委員長だな。{n}ひなたが委員長に{n}何か教えてるみたいだけど?{p}{end}
+EN: Oh, that's Hinata practicing over there... and the Chairperson. Looks like Hinata's teaching her something?{p}{end}
+
+## MGT01 g0 s0003
+JP: 違う違う、もっとこう、{n}いっち、にの、さーーーん!!{sp}だって。{p}
+EN: No, no, more like this. One, two, THREEEE!! See?{p}
+
+## MGT01 g0 s0004
+JP: よぉ、ひなた、委員長。{n}格闘技の練習?{p}
+EN: Hey, Hinata, Chairperson. Martial arts practice?{p}
+
+## MGT01 g0 s0005
+JP: あ、{v6:1}。{n}委員長が格闘技を{n}習いたいっていうから……{n}ちょっと基本をね。{p}
+EN: Oh, {v6:1}. The Chairperson said she wants to learn martial arts... so I'm showing her the basics.{p}
+
+## MGT01 g0 s0006
+JP: 格闘技って……{n}ひなたのは通信教育だろ?{n}大丈夫なの?{p}
+EN: Martial arts... Yours is from a correspondence course, right? Is that OK?{p}
+
+## MGT01 g0 s0007
+JP: もう{v6:1}、{n}通信教育だからってバカにしてるでしょ?{n}私のはね、由緒正しき、{n}ケン・マスターズ格闘術なのよ!?{p}{end}
+EN: Geez, {v6:1}! You think it's a joke 'cause it's by mail, huh? Mine is the time-honored Ken Masters fighting style!{p}{end}
+
+## MGT01 g0 s0008
+JP: へぇ……。{n}聞いたことはあるけどな。{p}{end}
+EN: Huh... I've heard of it, at least.{p}{end}
+
+## MGT01 g0 s0009
+JP: でも、ひなたさん、{n}いきなりこれは難しすぎない?{n}私には、どう考えてもこれで炎がでるとは、{n}思えないんだけど……。{p}
+EN: But Hinata-san, isn't this way too hard to start with? No matter how I look at it, I can't see flames coming out of this...{p}
+
+## MGT01 g0 s0010
+JP: そうかなぁ……。{p}{end}
+EN: You think so...?{p}{end}
+
+## MGT01 g0 s0011
+JP: う～ん、素人相手に炎舞脚は{n}ムリだと思うけど。{p}
+EN: Hmm, I doubt a total beginner can pull off Enbukyaku.{p}
+
+## MGT01 g0 s0012
+JP: でね、私の方でも{n}通信教育の資料を集めてみたの。{n}私には、よくわからないから、{n}どっちがいいか、見てもらえる?{p}
+EN: So, I gathered some correspondence course brochures myself. I can't tell them apart, so could you look and tell me which is better?{p}
+
+## MGT01 g0 s0013
+JP: 俺で役に立てるかな……、{n}ナニナニ、『サイキョ～流格闘術』?{n}聞いたことはあるような気がするな。{p}{end}
+EN: Not sure I'll be much help... Let's see, "Saikyo-Style Fighting"? I feel like I've heard of it.{p}{end}
+
+## MGT01 g0 s0014
+JP: 私も、聞いたことは{n}あるような気がするなぁ。{n}{v6:1}は、どっちが{n}いいと思う?{p}{end}
+EN: I feel like I've heard of it too. {v6:1}, which one do you think is better?{p}{end}
+
+## MGT01 g0 s0015
+JP: ケン・マスターズ格闘術{n}サイキョ～流格闘術{p}
+EN: Ken Masters Fighting Style{n}Saikyo-Style Fighting{p}
+
+## MGT01 g0 s0016
+JP: う～ん、ひなたの{n}『ケン・マスターズ格闘術』かなぁ。{n}全米チャンピオンらしいし……。{p}{end}
+EN: Hmm, I'd say Hinata's "Ken Masters Fighting Style." He's supposedly the U.S. champion, after all...{p}{end}
+
+## MGT01 g0 s0017
+JP: ふむふむ、やっぱり?{n}よかった。{p}{end}
+EN: Mm-hm, I thought so. Good.{p}{end}
+
+## MGT01 g0 s0018
+JP: ただ、初心者向けではないよな。{n}委員長にはツライかもね。{p}{end}
+EN: Still, it's not really for beginners. It might be rough for the Chairperson.{p}{end}
+
+## MGT01 g0 s0019
+JP: そうね……、{n}普通の格闘技から始めた方が{n}無難かもね……。{p}
+EN: I suppose... Maybe starting with regular martial arts would be safer...{p}
+
+## MGT01 g0 s0020
+JP: ありがと、相談に乗ってくれて。{n}ひなたさんも、ゴメンね、{n}時間とらせちゃって。{p}
+EN: Thanks for the advice. And sorry, Hinata-san, for taking up your time.{p}
+
+## MGT01 g0 s0021
+JP: う～ん、名前のイメージからすると、{n}『サイキョ～流格闘術』かなぁ。{n}タイトルのピンクの胴着の人も、{n}バッチリ決まってるしね!{p}{end}
+EN: Hmm, going by the name, I'd say "Saikyo-Style Fighting." The guy in the pink gi on the cover looks pretty sharp, too!{p}{end}
+
+## MGT01 g0 s0022
+JP: そうなの?{n}私には怪しい人に見えるけど……。{p}{end}
+EN: Really? He just looks shady to me...{p}{end}
+
+## MGT01 g0 s0023
+JP: 内容は……上級になればなるほど、{n}怪しくなるけど、{n}初心者には……いいのかも……なぁ?{p}
+EN: The content... gets shadier the more advanced it gets, but for beginners... it might be fine...? Maybe?{p}
+
+## MGT01 g0 s0024
+JP: なんだかよくわからないねぇ。{n}やっぱり委員長には、{n}通信教育より、普通の格闘技の方が{n}無難かもねぇ……。{p}{end}
+EN: I can't really make sense of it. Chairperson, maybe regular martial arts would be safer for you than a correspondence course...{p}{end}
+
+## MGT01 g0 s0025
+JP: そうね……。{n}ありがと、相談に乗ってくれて。{n}ひなたさんも、ゴメンね。{n}時間をとらせちゃって。{p}
+EN: I suppose... Thanks for the advice. And sorry, Hinata-san, for taking up your time.{p}
+
+## MGT01 g0 s0026
+JP: 私の方こそゴメンね。{n}役に立てなくって……。{p}{end}
+EN: No, I'm the one who's sorry. I wasn't any help...{p}{end}
+
+## MGT01 g0 s0027
+JP: ……いっちゃった。{n}悪いコトしちゃったかな。{p}{end}
+EN: ...She left. Did I do something wrong?{p}{end}
+
+## MGT01 g0 s0028
+JP: ひなたは自分がいいと{n}思ってやったんだろ?{n}間違ってないと思うよ。{n}それに……。{p}{end}
+EN: You did what you thought was best, right? I don't think you were wrong. Besides...{p}{end}
+
+## MGT01 g0 s0029
+JP: こっちの『ケン・マスターズ格闘術』の{n}方は、攻め方も技も、{n}ひなたにピッタリだよ。{p}
+EN: This "Ken Masters Fighting Style" suits you perfectly, Hinata. The attacks and the moves both.{p}
+
+## MGT01 g0 s0030
+JP: そうかな……ふふっ、そうね。{n}私もそう思う。{p}{end}
+EN: You think so... Hehe, yeah. I think so too.{p}{end}
+
+## MGT01 g0 s0031
+JP: じゃ、そろそろ帰ろうか。{p}{end}
+EN: Well, shall we head home?{p}{end}
+
+## MGT01 g0 s0033
+JP: 今日は学校が早く終わったので、{n}ひなたと神社で練習をする{n}約束をしている。{n}早く行かないとな……。{p}
+EN: School let out early today, so I promised Hinata we'd practice at the shrine. Better hurry...{p}
+
+## MGT01 g0 s0034
+JP: 「やっ!{sp}はっ!{n}{sp}えーーーい!!{n}{sp}燃えちゃえーーーっ!」{p}{end}
+EN: "Yah! Hah! Hyaaah!! Burn uuup!!"{p}{end}
+
+## MGT01 g0 s0035
+JP: （……なんだか、{n}{sp}陽気な放火魔みたいだな……）{p}{end}
+EN: (...She sounds like a cheerful arsonist...){p}{end}
+
+## MGT01 g0 s0036
+JP: ごめん、ひなた遅くなっちゃった。{n}待った?{p}
+EN: Sorry I'm late, Hinata. Been waiting long?{p}
+
+## MGT01 g0 s0037
+JP: あ、{v6:1}!{n}遅い遅い!{n}待ちくたびれて始めちゃったよ!{p}
+EN: Oh, {v6:1}! Too slow, too slow! I got tired of waiting and started without you!{p}
+
+## MGT01 g0 s0038
+JP: ごめんな。{n}それじゃ、さっそくやろうか。{n}組み手の練習でいいのかな?{p}{end}
+EN: Sorry. Well then, let's get right to it. Sparring practice, right?{p}{end}
+
+## MGT01 g0 s0039
+JP: うん!{n}じゃ、いっくよーーーっ!{p}{end}
+EN: Yeah! OK, here I come!{p}{end}
+
+## MGT01 g0 s0040
+JP: {face:15}・・・・・・・・・・{face:255}{n}……ガシッ!……バキッ!……{n}{face:15}・・・・・・・・・・{face:255}{n}……ガッガッ!……ドスッ!……{p}{end}
+EN: {face:15}..........{face:255}{n}...Whack!... Crack!...{n}{face:15}..........{face:255}{n}...Bam, bam!... Thud!...{p}{end}
+
+## MGT01 g0 s0041
+JP: ふぅ……あいかわらずやるな、ひなた。{p}{end}
+EN: Phew... You're as good as ever, Hinata.{p}{end}
+
+## MGT01 g0 s0042
+JP: まだまだ!{n}これからよっ!{p}
+EN: Not yet! I'm just getting started!{p}
+
+## MGT01 g0 s0043
+JP: ちょっと一休みしよう。{n}もう1時間以上、やってるよ。{p}{end}
+EN: Let's take a quick break. We've been at it for over an hour.{p}{end}
+
+## MGT01 g0 s0044
+JP: あ……そうだね、一休みしよっか。{p}{end}
+EN: Oh... yeah, let's take a break.{p}{end}
+
+## MGT01 g0 s0045
+JP: へへ、私いいもの作ってきたんだ{col:5}♥{col:-}{n}はい、これ!{p}
+EN: Hehe, I made something good{col:5}♥{col:-} Here, this!{p}
+
+## MGT01 g0 s0046
+JP: これは……蜜漬けのレモンか。{n}スポーツの時にはいいんだよね、これ。{p}
+EN: This is... lemons soaked in honey. These are great when you're doing sports.{p}
+
+## MGT01 g0 s0047
+JP: ひなたって気が利くね{col:5}♥{col:-}{n}ひなたが作ったってコトはおいしいの?{p}{end}
+EN: You're so thoughtful{col:5}♥{col:-}{n}Since you made it, is it any good?{p}{end}
+
+## MGT01 g0 s0048
+JP: へぇぇ、ひなたって気が利くんだね。{n}どれどれ……いただきまーす。{p}{end}
+EN: Wow, Hinata, you're really thoughtful. Let's see... Don't mind if I do.{p}{end}
+
+## MGT01 g0 s0049
+JP: どーぞ!{n}……どう?{sp}おいしい?{p}{end}
+EN: Go ahead! ...Well? Is it good?{p}{end}
+
+## MGT01 g0 s0050
+JP: う、うん……おいしいよ。{n}ありがと{col:5}♥{col:-}{p}{end}
+EN: Y-yeah... it's good. Thanks{col:5}♥{col:-}{p}{end}
+
+## MGT01 g0 s0051
+JP: （……これは蜜にさらに大量の砂糖が……{n}{sp}甘すぎるなぁ……）{p}{end}
+EN: (...She put a ton of sugar on top of the honey... It's way too sweet...){p}{end}
+
+## MGT01 g0 s0052
+JP: よかった、喜んでもらえて。{n}こういうこと、あんまりしないから、{n}慣れてなくて……。{n}ね、ホントにちゃんとできてる?{p}
+EN: I'm glad you like it. I don't do this kind of thing much, so I'm not used to it... Hey, did it really turn out OK?{p}
+
+## MGT01 g0 s0053
+JP: もちろん!{n}甘すぎだよ{p}
+EN: Of course!{n}It's way too sweet{p}
+
+## MGT01 g0 s0054
+JP: もちろんだよ!{n}ありがとう、ひなた!!{p}
+EN: Of course! Thanks, Hinata!!{p}
+
+## MGT01 g0 s0055
+JP: よかった!{n}じゃ、好きなだけ食べてね!{p}
+EN: Great! Then eat as much as you want!{p}
+
+## MGT01 g0 s0056
+JP: （う……ちょっと気分が悪いかも……）{p}{end}
+EN: (Ugh... I might be feeling a little sick...){p}{end}
+
+## MGT01 g0 s0057
+JP: う～ん、ちょっと甘すぎだよ。{n}砂糖、入れすぎじゃない?{n}蜂蜜漬けだから、砂糖はそんなに{n}入れなくてもよかったかもね。{p}{end}
+EN: Hmm, it's a bit too sweet. Didn't you add too much sugar? They're soaked in honey, so you probably didn't need that much.{p}{end}
+
+## MGT01 g0 s0058
+JP: え?{sp}ホント!?{n}どれ……パクッ……そうかな?{n}こんなものじゃない?{p}{end}
+EN: Huh? Really!? Let's see... *munch*... You think? Isn't this about right?{p}{end}
+
+## MGT01 g0 s0059
+JP: （ううっ……ちょっと{n}{sp}味覚が違うのかも……）{p}
+EN: (Ugh... Maybe our taste buds are just different...){p}
+
+## MGT01 g0 s0060
+JP: う～ん、私甘いの好きだから、{n}つい、ね……。{n}ムリしなくていいよ、{v6:1}。{p}{end}
+EN: Hmm, I love sweet stuff, so I kinda got carried away... You don't have to force yourself, {v6:1}.{p}{end}
+
+## MGT01 g0 s0061
+JP: いや、ムリにってワケじゃ……。{n}スポーツした後にはコレくらいで{n}ちょうどいいよ。{p}{end}
+EN: No, I'm not forcing myself... After sports, this much is just right.{p}{end}
+
+## MGT01 g0 s0062
+JP: ……さ、そろそろ練習再開しようか!{n}ひなたのおかげで、元気が出たよ!{p}{end}
+EN: ...Well, let's get back to practice! You gave me a boost, Hinata!{p}{end}
+
+## MGT01 g0 s0063
+JP: ホント?{n}じゃ、やろうか!{p}
+EN: Really? Then let's go!{p}
+
+## MGT01 g0 s0064
+JP: （……こうして、この日は暗くなるまで{n}{sp}練習した……）{p}
+EN: (...And so we practiced until it got dark...){p}
+
+## MGT01 g0 s0065
+JP: {col:0}『手作り蜜漬けレモン』{col:-}を手に入れた!!{p}
+EN: Got {col:0}"Homemade Honey Lemons"{col:-}!!{p}
+
+## MGT01 g0 s0066
+JP: ひなたが作ったってコトは、{n}ホントにおいしいの?{p}{end}
+EN: Since you made it, Hinata, is it actually any good?{p}{end}
+
+## MGT01 g0 s0067
+JP: ああ、信用してないね!?{n}たしかに味見してないけど……{n}おいしいよ、きっと。{p}{end}
+EN: Hey, you don't trust me, do you!? OK, I didn't taste-test it... but I'm sure it's good.{p}{end}
+
+## MGT01 g0 s0068
+JP: 味見してないって……{n}自分でも信用してないんじゃないの?{p}{end}
+EN: You didn't taste it... So you don't trust it either, huh?{p}{end}
+
+## MGT01 g0 s0069
+JP: いやぁ……そうかな?{p}{end}
+EN: Well... you think?{p}{end}
+
+## MGT01 g0 s0070
+JP: ひどいなぁ、俺は毒味役か?{p}
+EN: Harsh. So I'm your guinea pig?{p}
+
+## MGT01 g0 s0071
+JP: そんなに言うんだったら、{n}食べなくてもいいよ!{n}せっかく作ってきたのに!{p}{end}
+EN: If you're gonna be like that, you don't have to eat it! And after I went to the trouble of making it!{p}{end}
+
+## MGT01 g0 s0072
+JP: あ、ひなた……!{p}{end}
+EN: Ah, Hinata...!{p}{end}
+
+## MGT01 g0 s0073
+JP: じゃね!{n}練習つきあってくれてアリガトっ!{p}
+EN: See ya! Thanks for practicing with me!{p}
+
+## MGT01 g0 s0074
+JP: あ……いっちゃった……。{n}悪いことしちゃったかな……。{p}
+EN: Ah... she left... Was that mean of me...?{p}
+
+## MGT01 g0 s0075
+JP: 放課後。{n}今日も、ひなたと神社で練習をする{n}約束をしている。{n}この前遅れたから、少し早めにいこう。{p}
+EN: After school. I promised to practice with Hinata at the shrine again today. I was late last time, so I'll head over a bit early.{p}
+
+## MGT01 g0 s0076
+JP: ……あれ?{sp}静かだな。{n}まだ来てないのかな?{p}{end}
+EN: ...Huh? It's quiet. Is she not here yet?{p}{end}
+
+## MGT01 g0 s0077
+JP: ぶらりと一回りしてみたが、{n}誰もいないな。{n}ひなたはまだ来ていないみたいだ。{p}{end}
+EN: I wandered around a bit, but nobody's here. Looks like Hinata hasn't come yet.{p}{end}
+
+## MGT01 g0 s0079
+JP: 来ないな……、ひなた。{n}ボーッとしてても仕方がない。{n}せっかく神社に来てるんだから、{n}たまにはお参りしてみよう。{p}{end}
+EN: Hinata's not coming... No point just standing around. Since I'm at a shrine anyway, maybe I'll say a prayer for once.{p}{end}
+
+## MGT01 g0 s0080
+JP: どれどれ、お賽銭と。{n}……チャリーーン……{n}さて、何をお祈りしようかな?{p}{end}
+EN: Let's see, an offering... *Clink*... Now, what should I pray for?{p}{end}
+
+## MGT01 g0 s0081
+JP: ひなたよりもっと強くなれますように{n}ひなたともっと仲良くなれますように{p}
+EN: To get stronger than Hinata{n}To get closer to Hinata{p}
+
+## MGT01 g0 s0082
+JP: ひなたより、{n}もっと強くなれますように……。{n}練習でボコボコにされませんように……。{p}{end}
+EN: May I get much stronger than Hinata... May I not get beaten to a pulp in practice...{p}{end}
+
+## MGT01 g0 s0083
+JP: {face:15}・・・・・・・・・・{face:255}{n}ふぅ……効果あるかなぁ……?{p}
+EN: {face:15}..........{face:255} Phew... Will it work, I wonder...?{p}
+
+## MGT01 g0 s0084
+JP: 「隙アリッ!!」{p}{end}
+EN: "You're wide open!!"{p}{end}
+
+## MGT01 g0 s0085
+JP: ゴスゥッッ!!{p}
+EN: WHAM!!{p}
+
+## MGT01 g0 s0086
+JP: イテテ!{n}ひ、ひなた!?{n}何するんだよ、いきなり!!{p}{end}
+EN: Owww! H-Hinata!? What was that for, out of nowhere!?{p}{end}
+
+## MGT01 g0 s0087
+JP: ふっふっふ、そんなので私より{n}強くなろうなんて百年早いわよ!{p}{end}
+EN: Heh heh heh, beat me with a wish like that? A hundred years too early!{p}{end}
+
+## MGT01 g0 s0088
+JP: あ……聞いてたのか?{n}……ひなたも人が悪いなぁ。{n}しかし、いきなり人を後ろから{n}蹴るなよな!{p}{end}
+EN: Ah... you heard that? ...That's low, Hinata. And don't just kick people from behind out of nowhere!{p}{end}
+
+## MGT01 g0 s0089
+JP: だって隙だらけなんだもん。{n}{v6:1}なら避けれると{n}思ったんだけどな。{n}買いかぶってたみたいね{col:5}♥{col:-}{p}{end}
+EN: You were wide open. I thought you'd be able to dodge it, {v6:1}. Guess I overestimated you{col:5}♥{col:-}{p}{end}
+
+## MGT01 g0 s0090
+JP: ちぇっ、ヒドイな。{n}よぉし、正々堂々、勝負だ!{p}
+EN: Tch, harsh. All right, let's fight fair and square!{p}
+
+## MGT01 g0 s0091
+JP: いいわよぉ、{n}どっからでもかかってらっしゃい!!{p}{end}
+EN: Fine by me! Come at me from wherever you like!!{p}{end}
+
+## MGT01 g0 s0092
+JP: {face:15}・・・・・・・・・・{face:255}{n}……ガッ!……バキッ!{n}{face:15}・・・・・・・・・・{face:255}{p}
+EN: {face:15}..........{face:255}{n}...Bam!... Crack!{n}{face:15}..........{face:255}{p}
+
+## MGT01 g0 s0093
+JP: ……ふぅ……ダメだ。{n}ひなたの元気さにはかなわないや。{p}
+EN: ...Phew... No good. I can't match your energy, Hinata.{p}
+
+## MGT01 g0 s0094
+JP: ふふっ……{n}{v6:1}……。{n}格闘技って、楽しいね!{p}
+EN: Hehe... {v6:1}... Martial arts are fun, huh!{p}
+
+## MGT01 g0 s0095
+JP: ひなた……そうだな。{p}{end}
+EN: Hinata... Yeah.{p}{end}
+
+## MGT01 g0 s0096
+JP: ひなたと、{n}もっと仲良くなれますように……。{n}このまま、ひなたとずっといっしょに{n}いられますように……。{p}{end}
+EN: May I get closer to Hinata... May I stay together with Hinata like this forever...{p}{end}
+
+## MGT01 g0 s0098
+JP: ……ガタッ!{p}{end}
+EN: ...Clatter!{p}{end}
+
+## MGT01 g0 s0099
+JP: ん?{sp}誰かいるのかな?{p}
+EN: Hm? Is someone there?{p}
+
+## MGT01 g0 s0100
+JP: あ……ひなた。{n}いつからそこに……、{n}ひょっとして、聞いてた?{p}
+EN: Ah... Hinata. How long have you been there... Wait, did you hear that?{p}
+
+## MGT01 g0 s0101
+JP: ……え!?{sp}何?{sp}何の話?{p}
+EN: ...Huh!? What? Hear what?{p}
+
+## MGT01 g0 s0102
+JP: （……聞いてなかったのかな?{n}{sp}今のリアクションは{n}{sp}聞いてたのかも……）{p}
+EN: (...Maybe she didn't hear? Though that reaction makes me think she did...){p}
+
+## MGT01 g0 s0103
+JP: いや、何でもないよ。{n}それより、遅かったね。{n}何かあったの?{p}{end}
+EN: No, it's nothing. More importantly, you're late. Did something happen?{p}{end}
+
+## MGT01 g0 s0104
+JP: ちょっとね、{n}委員長につかまってただけ……。{p}{end}
+EN: Kinda. The Chairperson just caught me...{p}{end}
+
+## MGT01 g0 s0105
+JP: 委員長ったらね、一応{n}この前の『サイキョ～流格闘術』の{n}詳しい教材を取り寄せてみたんだって。{p}{end}
+EN: So the Chairperson actually ordered the full materials for that "Saikyo-Style Fighting" from before.{p}{end}
+
+## MGT01 g0 s0106
+JP: そしたらね、格闘の中身じゃなくて、{n}いかに相手を挑発するかとか、{n}自分をかっこよく見せるかってことしか{n}書いてなくって……、{p}{end}
+EN: And it turns out it wasn't about fighting at all. All it talked about was how to taunt your opponent and how to make yourself look cool...{p}{end}
+
+## MGT01 g0 s0107
+JP: 内容がないって怒ってたよ。{n}やっぱり{v6:1}の{n}いうとおりにして{n}おけばよかったって。{p}
+EN: She was mad there was nothing to it. She said she should've just listened to you, {v6:1}.{p}
+
+## MGT01 g0 s0108
+JP: へぇ……そうなんだ。{n}俺もよくわからなかったから、{n}適当なこといったけど、{n}それでよかったんだな。{p}
+EN: Huh... really. I didn't really know either, so I just said whatever, but I guess it worked out.{p}
+
+## MGT01 g0 s0109
+JP: うん……。{p}
+EN: Yeah...{p}
+
+## MGT01 g0 s0110
+JP: さっ、そろそろ練習しましょうか!{n}今日もがんばるわよぉっ!{p}
+EN: OK, let's get practicing! I'm giving it my all today too!{p}
+
+## MGT01 g0 s0111
+JP: うん、やるかっ!{p}{end}
+EN: Yeah, let's do it!{p}{end}
+
+## MGT01 g0 s0113
+JP: ゴメンね、送ってもらっちゃって。{n}こんなに暗くなってるとは{n}思わなかったから……。{p}
+EN: Sorry for making you walk me home. I didn't think it'd get this dark...{p}
+
+## MGT01 g0 s0114
+JP: いいって、いいって。{n}こうしていっしょに帰れるんだし。{n}さっそく御利益があったな。{p}
+EN: It's fine, it's fine. This way we get to walk home together. Looks like my prayer's already paying off.{p}
+
+## MGT01 g0 s0115
+JP: 御利益って……さっきの?{p}{end}
+EN: Paying off... You mean that prayer from before?{p}{end}
+
+## MGT01 g0 s0116
+JP: ああ……やっぱり聞いてたんだ……。{p}
+EN: Ah... so you did hear it...{p}
+
+## MGT01 g0 s0117
+JP: ごめん……。{p}{end}
+EN: Sorry...{p}{end}
+
+## MGT01 g0 s0118
+JP: 私もね、{v6:1}と、{n}ずっといっしょにいたいな。{p}{end}
+EN: You know, I want to be with you forever too, {v6:1}.{p}{end}
+
+## MGT01 g0 s0119
+JP: だって……{n}{face:15}・・・・・・・・・・{face:255}{p}{end}
+EN: Because... {face:15}..........{face:255}{p}{end}
+
+## MGT01 g0 s0120
+JP: だって?{p}{end}
+EN: Because?{p}{end}
+
+## MGT01 g0 s0121
+JP: だ、だってホラ、{n}{v6:1}って格闘技うまいし、{n}ずっといっしょに練習できたらなぁって!{p}
+EN: B-because, y'know, you're good at martial arts, {v6:1}, so I thought it'd be nice if we could keep practicing together!{p}
+
+## MGT01 g0 s0123
+JP: ここまででいいわ!{n}ありがとう、{v6:1}!{n}じゃ、またね!!{p}{end}
+EN: This is far enough! Thanks, {v6:1}! See you!!{p}{end}
+
+## MGT01 g0 s0124
+JP: ……ひなた……。{p}{end}
+EN: ...Hinata...{p}{end}
+
+## MGT01 g0 s0125
+JP: ピンポーン!{p}{end}
+EN: *Ding-dong!*{p}{end}
+
+## MGT01 g0 s0126
+JP: ん!?{n}誰か来たぞ。{n}一体誰だろう?{p}{end}
+EN: Hm!? Someone's here. Who could it be?{p}{end}
+
+## MGT01 g0 s0127
+JP: やっほー!{n}こんにちわ!{p}{end}
+EN: Yoo-hoo! Hi there!{p}{end}
+
+## MGT01 g0 s0128
+JP: ひなたじゃないか!{n}どうしたんだ?{p}
+EN: Hinata! What's up?{p}
+
+## MGT01 g0 s0129
+JP: はい!{n}これ、{v6:1}に!{p}
+EN: Here! This is for you, {v6:1}!{p}
+
+## MGT01 g0 s0131
+JP: んもう!{n}自分の誕生日も忘れちゃったの?{p}{end}
+EN: Geez! Did you forget your own birthday?{p}{end}
+
+## MGT01 g0 s0132
+JP: そっか、{n}俺、今日誕生日だったんだ。{p}{end}
+EN: Oh, right. Today's my birthday.{p}{end}
+
+## MGT01 g0 s0133
+JP: あけてみていい?{p}{end}
+EN: Can I open it?{p}{end}
+
+## MGT01 g0 s0134
+JP: うん、いいよ!{p}
+EN: Yeah, go ahead!{p}
+
+## MGT01 g0 s0135
+JP: {col:0}『ひなたとおそろいのシューズ』{col:-}{n}を手に入れた!{p}
+EN: Got {col:0}"Shoes Matching Hinata's"{col:-}!{p}
+
+## MGT01 g0 s0136
+JP: うわー、ちょうどこれ欲しかったんだ!{n}ありがとう!{p}
+EN: Wow, I was just wanting a pair of these! Thanks!{p}
+
+## MGT01 g0 s0137
+JP: 喜んでもらえてよかった。{n}じゃあ今度はいてきてよ。{p}
+EN: I'm glad you like them. Wear them next time, OK?{p}
+
+## MGT01 g0 s0138
+JP: ああ、もちろん。{n}……ありがと、ひなた。{p}{end}
+EN: Yeah, of course. ...Thanks, Hinata.{p}{end}
+
+## MGT01 g0 s0139
+JP: えへへ、じゃあ帰るね!{p}
+EN: Hehe, I'm heading home then!{p}
+
+## MGT01 g0 s0140
+JP: ひなたが俺の誕生日を{n}覚えててくれたなんて感激～!{p}
+EN: Hinata remembered my birthday... I'm so touched~!{p}
+
+## MGT01 g0 s0141
+JP: はい!{n}ちょっと遅れたけど{n}これ、{v6:1}に!{p}
+EN: Here! It's a little late, but this is for you, {v6:1}!{p}
+
+## MGT01 g0 s0142
+JP: ちょっと遅れたって何が?{p}{end}
+EN: A little late? For what?{p}{end}
+
+## MGT01 g0 s0144
+JP: そっか、{n}俺、この前誕生日だったんだ。{p}
+EN: Oh, right. My birthday was the other day.{p}
+
+## MGT01 g1 s0000
+JP: 放課後。{n}今日の授業も終わったし、家に帰ろうっと。{n}あ、神社の境内から聞いたことのある声が{n}聞こえるわ。アレは……。{p}{end}
+EN: After school. Classes are done for today, so I'll head home. Oh, I hear a familiar voice from the shrine grounds. That's...{p}{end}
+
+## MGT01 g1 s0002
+JP: あ、あそこで練習してるのは、{n}ひなたと……委員長ね。{n}ひなたが委員長に{n}何か教えてるみたいだわ?{p}{end}
+EN: Oh, that's Hinata practicing over there... and the Chairperson. Looks like Hinata's teaching her something?{p}{end}
+
+## MGT01 g1 s0004
+JP: はぁい、ひなた、委員長。{n}格闘技の練習?{p}{end}
+EN: Hiya, Hinata, Chairperson. Martial arts practice?{p}{end}
+
+## MGT01 g1 s0005
+JP: あ、{v8:1}。{n}委員長が格闘技を{n}習いたいっていうから……{n}ちょっと基本をね。{p}
+EN: Oh, {v8:1}. The Chairperson said she wants to learn martial arts... so I'm showing her the basics.{p}
+
+## MGT01 g1 s0006
+JP: 格闘技って……{n}ひなたのって通信教育でしょ?{n}大丈夫なの?{p}
+EN: Martial arts... Yours is from a correspondence course, isn't it? Is that OK?{p}
+
+## MGT01 g1 s0007
+JP: もう{v8:1}!{n}通信教育だからってバカにしてるでしょ?{n}私のはね、由緒正しき、{n}ケン・マスターズ格闘術なのよ!?{p}{end}
+EN: Geez, {v8:1}! You think it's a joke 'cause it's by mail, huh? Mine is the time-honored Ken Masters fighting style!{p}{end}
+
+## MGT01 g1 s0008
+JP: ふぅん……。{n}聞いたことはあるけど……。{p}{end}
+EN: Hmm... I've heard of it, but...{p}{end}
+
+## MGT01 g1 s0011
+JP: う～ん、素人相手に炎舞脚は{n}ムリだと思うけどナ。{p}{end}
+EN: Hmm, I doubt a total beginner can pull off Enbukyaku.{p}{end}
+
+## MGT01 g1 s0013
+JP: 私で役に立てるかしら……、{n}ええと、『サイキョ～流格闘術』?{n}聞いたことはあるような気がするわね。{p}
+EN: I wonder if I'll be any help... Let's see, "Saikyo-Style Fighting"? I feel like I've heard of it.{p}
+
+## MGT01 g1 s0014
+JP: 私も、聞いたことは{n}あるような気がするなぁ。{n}{v8:1}は、どっちが{n}いいと思う?{p}{end}
+EN: I feel like I've heard of it too. {v8:1}, which one do you think is better?{p}{end}
+
+## MGT01 g1 s0018
+JP: ただ、初心者向けじゃないみたいね。{n}委員長にはツライんじゃないかな。{p}{end}
+EN: Still, it doesn't seem to be for beginners. It might be rough for the Chairperson.{p}{end}
+
+## MGT01 g1 s0021
+JP: う～ん、名前のイメージからすると、{n}『サイキョ～流格闘術』かなぁ。{n}タイトルのピンクの胴着の人も、{n}バッチリ決まってるしネ!{p}{end}
+EN: Hmm, going by the name, I'd say "Saikyo-Style Fighting." The guy in the pink gi on the cover looks pretty sharp, too!{p}{end}
+
+## MGT01 g1 s0023
+JP: 内容は……上級になればなるほど、{n}怪しくなるけど、{n}初心者には……いいのかも……しれない?{p}
+EN: The content... gets shadier the more advanced it gets, but for beginners... it might be fine...? Maybe?{p}
+
+## MGT01 g1 s0028
+JP: ひなたは自分がいいと{n}思ってやったんでしょ?{n}間違ってないと思うわ。{n}それに……。{p}
+EN: You did what you thought was best, didn't you? I don't think you were wrong. Besides...{p}
+
+## MGT01 g1 s0029
+JP: こっちの『ケン・マスターズ格闘術』の{n}方は、攻め方も技も、{n}ひなたにピッタリだもの。{p}{end}
+EN: This "Ken Masters Fighting Style" suits you perfectly, Hinata. The attacks and the moves both.{p}{end}
+
+## MGT01 g1 s0033
+JP: 今日は学校が早く終わったから、{n}ひなたと神社で練習をする{n}約束をしている。{n}早く行かないとね……。{p}
+EN: School let out early today, so I promised Hinata we'd practice at the shrine. I'd better hurry...{p}
+
+## MGT01 g1 s0035
+JP: （……なんだか、{n}{sp}陽気な放火魔みたいねぇ……）{p}{end}
+EN: (...She sounds like a cheerful arsonist...){p}{end}
+
+## MGT01 g1 s0037
+JP: あ、{v8:1}!{n}遅い遅い!{n}待ちくたびれて始めちゃったよ!{p}
+EN: Oh, {v8:1}! Too slow, too slow! I got tired of waiting and started without you!{p}
+
+## MGT01 g1 s0038
+JP: ごめんネ。{n}それじゃ、さっそくやろっか。{n}組み手の練習でいい?{p}
+EN: Sorry. Well then, let's get right to it. Sparring practice, OK?{p}
+
+## MGT01 g1 s0040
+JP: {face:15}・・・・・・・・・・{face:255}{n}……ガシッ!……ビシッ!……{n}{face:15}・・・・・・・・・・{face:255}{n}……ガッガッ!……パシッ!……{p}{end}
+EN: {face:15}..........{face:255}{n}...Whack!... Smack!...{n}{face:15}..........{face:255}{n}...Bam, bam!... Thwack!...{p}{end}
+
+## MGT01 g1 s0041
+JP: ふぅ……あいかわらず強いねー、{n}ひなたは。{p}
+EN: Phew... You're as strong as ever, Hinata.{p}
+
+## MGT01 g1 s0043
+JP: ちょっと一休みしない?{n}もう1時間以上、やってるよ。{p}{end}
+EN: Wanna take a quick break? We've been at it for over an hour.{p}{end}
+
+## MGT01 g1 s0046
+JP: これは……蜜漬けのレモンね。{n}スポーツの時にはいいのよね、これ。{p}{end}
+EN: This is... lemons soaked in honey. These are great when you're doing sports.{p}{end}
+
+## MGT01 g1 s0048
+JP: へぇぇ、ひなたって気が利くね。{n}じゃ私ももらっちゃおっかな……{n}いただきまーす。{p}{end}
+EN: Wow, Hinata, you're really thoughtful. Guess I'll have some too... Don't mind if I do.{p}{end}
+
+## MGT01 g1 s0050
+JP: う、うん……おいしいヨ。{n}ありがと{col:5}♥{col:-}{p}{end}
+EN: Y-yeah... it's good. Thanks{col:5}♥{col:-}{p}{end}
+
+## MGT01 g1 s0054
+JP: もちろんよ!{n}ありがとう、ひなた!!{p}{end}
+EN: Of course! Thanks, Hinata!!{p}{end}
+
+## MGT01 g1 s0056
+JP: （う……ちょっと気分が悪い～……）{p}
+EN: (Ugh... I feel kinda sick~...){p}
+
+## MGT01 g1 s0057
+JP: う～ん、ちょっと甘すぎかナ。{n}砂糖、入れすぎじゃない?{n}蜂蜜漬けだから、砂糖はそんなに{n}入れなくてもよかったかもネ。{p}{end}
+EN: Hmm, it's a bit too sweet. Didn't you add too much sugar? They're soaked in honey, so you probably didn't need that much.{p}{end}
+
+## MGT01 g1 s0059
+JP: （ふぅん……ちょっと{n}{sp}味覚が違うのかな……）{p}
+EN: (Hmm... Maybe our taste buds are just different...){p}
+
+## MGT01 g1 s0060
+JP: う～ん、私甘いの好きだから、{n}つい、ね……。{n}ムリしなくていいよ、{v8:1}。{p}{end}
+EN: Hmm, I love sweet stuff, so I kinda got carried away... You don't have to force yourself, {v8:1}.{p}{end}
+
+## MGT01 g1 s0061
+JP: ううん、ムリにってワケじゃ……。{n}スポーツした後にはコレくらいで{n}ちょうどいいよ。{p}
+EN: No, I'm not forcing myself... After sports, this much is just right.{p}
+
+## MGT01 g1 s0062
+JP: ……さ、そろそろ練習再開しよっか!{n}ひなたのおかげで、元気が出たよ!{p}{end}
+EN: ...Well, let's get back to practice! You gave me a boost, Hinata!{p}{end}
+
+## MGT01 g1 s0066
+JP: ひなたが作ったってコトは、{n}ホントにおいしい?{p}
+EN: Since you made it, Hinata, is it really any good?{p}
+
+## MGT01 g1 s0070
+JP: ひどいなぁ、私は毒味役?{p}{end}
+EN: Harsh. So I'm your guinea pig?{p}{end}
+
+## MGT01 g1 s0075
+JP: 放課後。{n}今日も、ひなたと神社で練習をする{n}約束をしている。{n}この前遅れたから、少し早めにいこっと。{p}{end}
+EN: After school. I promised to practice with Hinata at the shrine again today. I was late last time, so I'll head over a bit early.{p}{end}
+
+## MGT01 g1 s0076
+JP: ……あれ?{sp}静かね。{n}まだ来てないのかナ?{p}
+EN: ...Huh? It's quiet. Is she not here yet?{p}
+
+## MGT01 g1 s0077
+JP: ぶらりと一回りしてみたけど、{n}誰もいないみたい。{n}ひなたはまだ来ていないみたいネ。{p}
+EN: I wandered around a bit, but nobody seems to be here. Looks like Hinata hasn't come yet.{p}
+
+## MGT01 g1 s0079
+JP: 遅いなぁ……、ひなた。{n}ボーッとしてても仕方がないし……{n}せっかく神社に来てるんだし、{n}たまにはお参りしてみようかな。{p}
+EN: Hinata's late... No point just standing around... Since I'm at a shrine anyway, maybe I'll say a prayer for once.{p}
+
+## MGT01 g1 s0080
+JP: ええっと、お賽銭と。{n}……チャリーーン……{n}さて、何をお祈りしようかな?{p}{end}
+EN: Let's see, an offering... *Clink*... Now, what should I pray for?{p}{end}
+
+## MGT01 g1 s0086
+JP: イテテ!{n}ひ、ひなた!?{n}何するのよ、いきなり!!{p}
+EN: Owww! H-Hinata!? What was that for, out of nowhere!?{p}
+
+## MGT01 g1 s0088
+JP: あ……聞いてたの?{n}……ひなたも人が悪いわねぇ。{n}でも、いきなり人を後ろから{n}蹴るなんて、ヒドイわね、もう!{p}{end}
+EN: Ah... you heard that? ...That's low, Hinata. Still, kicking someone from behind out of nowhere? That's mean, geez!{p}{end}
+
+## MGT01 g1 s0089
+JP: だって隙だらけなんだもん。{n}{v8:1}なら避けれると{n}思ったんだけどな。{n}買いかぶってたみたいね{col:5}♥{col:-}{p}{end}
+EN: You were wide open. I thought you'd be able to dodge it, {v8:1}. Guess I overestimated you{col:5}♥{col:-}{p}{end}
+
+## MGT01 g1 s0090
+JP: ひなた～、いうじゃない。{n}こうなったら、正々堂々勝負してあげるわ!{p}
+EN: Hinata~, big talk. Fine, I'll take you on fair and square!{p}
+
+## MGT01 g1 s0093
+JP: ……ふぅ……全然ダメ。{n}ひなたの元気さにはかなわないわ。{p}{end}
+EN: ...Phew... I'm no good. I can't match your energy, Hinata.{p}{end}
+
+## MGT01 g1 s0094
+JP: ふふっ……{n}{v8:1}……。{n}格闘技って、楽しいね!{p}
+EN: Hehe... {v8:1}... Martial arts are fun, huh!{p}
+
+## MGT01 g1 s0095
+JP: ひなた……そうね。{p}
+EN: Hinata... Yeah.{p}
+
+## MGT01 g1 s0103
+JP: ううん、何でもないヨ。{n}それより、遅かったね。{n}何かあったの?{p}
+EN: No, it's nothing. More importantly, you're late. Did something happen?{p}
+
+## MGT01 g1 s0107
+JP: 内容がないって怒ってたよ。{n}やっぱり{v8:1}の{n}いうとおりにして{n}おけばよかったって。{p}
+EN: She was mad there was nothing to it. She said she should've just listened to you, {v8:1}.{p}
+
+## MGT01 g1 s0108
+JP: ふぅん……そうなんだ。{n}私もよくわからなかったから、{n}適当なこといったけど、{n}それでよかったんだネ。{p}{end}
+EN: Hmm... really. I didn't really know either, so I just said whatever, but I guess it worked out.{p}{end}
+
+## MGT01 g1 s0111
+JP: うん、やろっか!{p}{end}
+EN: Yeah, let's do it!{p}{end}
+
+## MGT01 g1 s0114
+JP: ううん、私も方向同じだし、{n}こうしていっしょに帰れるんだから。{n}さっそく御利益があったみたいネ。{p}{end}
+EN: No, we're going the same way anyway, and this way we get to walk home together. Looks like my prayer's already paying off.{p}{end}
+
+## MGT01 g1 s0116
+JP: ああ……やっぱり聞いてたの……?{p}{end}
+EN: Ah... so you did hear it...?{p}{end}
+
+## MGT01 g1 s0118
+JP: 私もね、{v8:1}と、{n}ずっといっしょにいたいな。{p}{end}
+EN: You know, I want to be with you forever too, {v8:1}.{p}{end}
+
+## MGT01 g1 s0121
+JP: だ、だってホラ、{n}{v8:1}って格闘技うまいし、{n}ずっといっしょに練習できたらなぁって!{p}
+EN: B-because, y'know, you're good at martial arts, {v8:1}, so I thought it'd be nice if we could keep practicing together!{p}
+
+## MGT01 g1 s0123
+JP: ここまででいいわ!{n}ありがとう、{v8:1}!{n}じゃ、またね!!{p}{end}
+EN: This is far enough! Thanks, {v8:1}! See you!!{p}{end}
+
+## MGT01 g1 s0126
+JP: あれ!?{n}誰か来たみたい。{n}一体誰かしら?{p}
+EN: Huh!? Sounds like someone's here. Who could it be?{p}
+
+## MGT01 g1 s0128
+JP: ひなたじゃない!{n}どうしたの?{p}
+EN: Hinata! What's up?{p}
+
+## MGT01 g1 s0129
+JP: はい!{n}これ、{v8:1}に!{p}
+EN: Here! This is for you, {v8:1}!{p}
+
+## MGT01 g1 s0132
+JP: そっか、{n}私、今日誕生日だったんだ。{p}{end}
+EN: Oh, right. Today's my birthday.{p}{end}
+
+## MGT01 g1 s0138
+JP: ええ、もちろん。{n}……ありがと、ひなた。{p}{end}
+EN: Yeah, of course. ...Thanks, Hinata.{p}{end}
+
+## MGT01 g1 s0140
+JP: ひなたが私の誕生日を{n}覚えててくれたなんて感激～!{p}
+EN: Hinata remembered my birthday... I'm so touched~!{p}
+
+## MGT01 g1 s0141
+JP: はい!{n}ちょっと遅れたけど{n}これ、{v8:1}に!{p}
+EN: Here! It's a little late, but this is for you, {v8:1}!{p}
+
+## MGT01 g1 s0144
+JP: そっか、{n}私、この前誕生日だったんだ。{p}
+EN: Oh, right. My birthday was the other day.{p}
+

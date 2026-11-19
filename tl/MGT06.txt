@@ -1,0 +1,332 @@
+## MGT06 g0 s0000
+JP: やぁ!{n}{v3:6}、今帰りかい?{p}
+EN: Hey! {v3:6}, heading home now?{p}
+
+## MGT06 g0 s0001
+JP: ロイじゃないか。{n}今日は補習があって{n}ちょっと遅くなっちゃったんだよ。{p}
+EN: Roy! I had a remedial class today, so I'm running a bit late.{p}
+
+## MGT06 g0 s0002
+JP: 今日は車で迎えが来るんだ。{n}よかったら、いっしょに乗ってかないか?{p}
+EN: A car's picking me up today. Want a ride with me?{p}
+
+## MGT06 g0 s0003
+JP: ロイ!{sp}邪魔しないでネ!{n}{v3:7}は今日ミーと{n}一緒に帰る約束してたネ!{p}{end}
+EN: Roy! Don't get in the way! {v3:7} promised to go home with me today!{p}{end}
+
+## MGT06 g0 s0004
+JP: う、う～ん。{n}ど、どうしよう?{p}
+EN: Uh, umm... Wh-what should I do?{p}
+
+## MGT06 g0 s0005
+JP: ロイと一緒に帰る{n}ティファニーと帰る{p}{end}
+EN: Go home with Roy{n}Go home with Tiffany{p}{end}
+
+## MGT06 g0 s0006
+JP: 一緒に帰ろう、ロイ!{p}{end}
+EN: Let's go home together, Roy!{p}{end}
+
+## MGT06 g0 s0007
+JP: OK!{n}ボクのリムジンで{n}ちょっとドライブして帰ろうぜ!{p}{end}
+EN: OK! Let's take a little drive in my limo on the way home!{p}{end}
+
+## MGT06 g0 s0008
+JP: レディに冷たいなんて最低ネー!{n}もう{v3:7}の事なんて知らないから!{p}{end}
+EN: Being cold to a lady is the worst! I don't care about you anymore, {v3:7}!{p}{end}
+
+## MGT06 g0 s0009
+JP: ティファニーには{n}嫌われたかもしれないけど、{n}ロイが俺と帰りたがっていたのが{n}分かってちょっとうれしい……。{p}{end}
+EN: Tiffany might hate me now, but I'm kinda happy to know Roy wanted to go home with me...{p}{end}
+
+## MGT06 g0 s0010
+JP: 一緒に帰ろう、ティファニー!{p}{end}
+EN: Let's go home together, Tiffany!{p}{end}
+
+## MGT06 g0 s0011
+JP: OK!{n}じゃあ、帰りにショッピングしまショー!{p}
+EN: OK! Then let's go shopping on the way home!{p}
+
+## MGT06 g0 s0012
+JP: キミがそんな軟派な奴だとは残念だよ!{n}ま、せいぜいティファニーの{n}荷物持ちでもやるんだな!{p}
+EN: Shame. I didn't think you were such a flirt! Well, enjoy carrying Tiffany's bags!{p}
+
+## MGT06 g0 s0013
+JP: そこまで言わなくてもいいのに……。{p}
+EN: He didn't have to go that far...{p}
+
+## MGT06 g0 s0014
+JP: {v3:6}、今ちょっといいかい?{p}
+EN: {v3:6}, got a minute?{p}
+
+## MGT06 g0 s0015
+JP: ロイ、どうしたの。{n}俺なら全然かまわないけど。{p}
+EN: What's up, Roy? Sure, I don't mind.{p}
+
+## MGT06 g0 s0016
+JP: 今度の休みの日あいてるかな?{p}{end}
+EN: Are you free on our next day off?{p}{end}
+
+## MGT06 g0 s0017
+JP: あいてるけど何かあるの?{p}{end}
+EN: I'm free, but what's up?{p}{end}
+
+## MGT06 g0 s0018
+JP: よかったら、{n}ボクと遊びに行かないか?{p}
+EN: If you want, how about hanging out with me?{p}
+
+## MGT06 g0 s0019
+JP: う～ん、行ってもいいけど……。{n}一体どこに行くつもりなの?{p}
+EN: Hmm, I wouldn't mind... But where are you planning to go?{p}
+
+## MGT06 g0 s0020
+JP: キミが行きたい所なら{n}どこへでもいいぜ!{p}{end}
+EN: Anywhere you want to go is fine with me!{p}{end}
+
+## MGT06 g0 s0021
+JP: う～ん、どこに行こうかなあ?{p}{end}
+EN: Hmm, where should we go?{p}{end}
+
+## MGT06 g0 s0022
+JP: 遊園地{n}動物園{p}
+EN: Amusement park{n}Zoo{p}
+
+## MGT06 g0 s0023
+JP: 遊園地行こうよ!{p}{end}
+EN: Let's go to the amusement park!{p}{end}
+
+## MGT06 g0 s0024
+JP: OK!{n}でも遊園地を選択するなんて{n}{v3:6}は意外と子供なんだなあ。{p}{end}
+EN: OK! But the amusement park? You're more of a kid than I thought, {v3:6}.{p}{end}
+
+## MGT06 g0 s0025
+JP: でも、そんな所が少し好きだぜ……。{p}
+EN: ...But I kinda like that about you.{p}
+
+## MGT06 g0 s0026
+JP: 今度の休みの日を楽しみにしてるぜ!{p}
+EN: I'm looking forward to our day off!{p}
+
+## MGT06 g0 s0027
+JP: ちょっと楽しみ……。{p}{end}
+EN: I'm kinda excited...{p}{end}
+
+## MGT06 g0 s0028
+JP: 動物園行こうよ!{p}{end}
+EN: Let's go to the zoo!{p}{end}
+
+## MGT06 g0 s0029
+JP: ワット!{n}動物園だって!{p}{end}
+EN: What! The zoo!?{p}{end}
+
+## MGT06 g0 s0030
+JP: ボクが匂いに敏感な事を{n}知っててわざと言っているな!{p}{end}
+EN: You know I've got a sensitive nose! You're saying that on purpose!{p}{end}
+
+## MGT06 g0 s0031
+JP: OK、OK!{n}もうキミを誘わないよ!{p}{end}
+EN: OK, OK! I won't invite you again!{p}{end}
+
+## MGT06 g0 s0032
+JP: わざとじゃないのに……。{p}{end}
+EN: I didn't do it on purpose...{p}{end}
+
+## MGT06 g0 s0033
+JP: ヘイ!{sp}{v3:6}!{p}
+EN: Hey! {v3:6}!{p}
+
+## MGT06 g0 s0034
+JP: ロイ、どうしたんだ?{n}こんな朝っぱらから。{p}
+EN: Roy, what's up? It's so early in the morning.{p}
+
+## MGT06 g0 s0035
+JP: 今からボクの家で{n}パーティーをしないか!{p}{end}
+EN: How about a party at my place, right now!{p}{end}
+
+## MGT06 g0 s0036
+JP: 今からって学校はどうするんだ?{n}今日は響子先生の保健体育があるし……。{p}
+EN: Right now? What about school? Today we've got Kyoko-sensei's health class...{p}
+
+## MGT06 g0 s0037
+JP: 今から{v3:6}と{n}二人だけのパーティーをしたいんだよ、{n}ボクの招待ではお気に召さないのかい?{p}{end}
+EN: I want a party right now, just the two of us, {v3:6}. Is my invitation not good enough for you?{p}{end}
+
+## MGT06 g0 s0038
+JP: 喜んで{n}断る{p}{end}
+EN: Gladly{n}Turn him down{p}{end}
+
+## MGT06 g0 s0039
+JP: 全然!{n}俺だってロイと{n}二人きりでいたいよ……。{p}{end}
+EN: Not at all! I want to be alone with you too, Roy...{p}{end}
+
+## MGT06 g0 s0040
+JP: {v3:6}……。{n}そうだ!{n}これをぜひ受け取ってくれ!{p}{end}
+EN: {v3:6}... Oh, I know! Please, take this!{p}{end}
+
+## MGT06 g0 s0041
+JP: {col:0}『ロイのピアス』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Roy's Earrings"{col:-}!{p}
+
+## MGT06 g0 s0042
+JP: ありがとうロイ……。{n}初めて二人の心が通じた気がする……。{p}
+EN: Thanks, Roy... I feel like our hearts finally connected...{p}
+
+## MGT06 g0 s0043
+JP: やっぱり授業に出るよ。{p}
+EN: I think I'll go to class after all.{p}
+
+## MGT06 g0 s0044
+JP: そうかい!{n}もうちょっとキミとは気が合うと{n}思っていたのに残念だよ!{p}{end}
+EN: Is that so! Too bad. I thought we got along better than that!{p}{end}
+
+## MGT06 g0 s0045
+JP: まっ!{n}せいぜい低レベルな授業でも受けて{n}頑張るがいいさ!{p}
+EN: Well! Go sit through your low-level classes, and good luck with that!{p}
+
+## MGT06 g0 s0046
+JP: 今のでだいぶ嫌われたみたい……。{p}{end}
+EN: Looks like he really hates me now...{p}{end}
+
+## MGT06 g0 s0047
+JP: キーッ!{n}バタン!{p}
+EN: Screech! Slam!{p}
+
+## MGT06 g0 s0048
+JP: ん!?{n}車の音がするぞ?{n}誰か来たのかな?{p}
+EN: Hm!? Is that a car? Did somebody come?{p}
+
+## MGT06 g0 s0049
+JP: ハッピーバースデイ!{sp}{v3:6}!{p}{end}
+EN: Happy birthday, {v3:6}!{p}{end}
+
+## MGT06 g0 s0050
+JP: なんだロイか、{n}車で来るから誰が来たのかと思ったよ!{p}{end}
+EN: Oh, it's you, Roy. You came by car, so I wondered who it was!{p}{end}
+
+## MGT06 g0 s0051
+JP: 今日は{v3:6}の誕生日だと{n}思い出したんでね。{n}運転手に運転させて来たのさ。{p}{end}
+EN: I remembered today's your birthday, {v3:6}. So I had my driver bring me over.{p}{end}
+
+## MGT06 g0 s0052
+JP: わざわざ家にまで来てくれて{n}ありがとう。{p}{end}
+EN: Thanks for coming all the way to my house.{p}{end}
+
+## MGT06 g0 s0053
+JP: これは、{n}ボクからのほんの気持ちだ。{n}受け取ってくれ。{p}
+EN: This is just a little something from me. Take it.{p}
+
+## MGT06 g0 s0054
+JP: うわ!{n}でかっ!{n}一体何が入ってるんだ?{n}ロイ!{sp}開けてみてもいい?{p}{end}
+EN: Whoa! It's huge! What's in it? Roy! Can I open it?{p}{end}
+
+## MGT06 g0 s0055
+JP: オーケイ!{p}
+EN: Okay!{p}
+
+## MGT06 g0 s0056
+JP: よーし開けるぞ!{p}{end}
+EN: All right, opening it!{p}{end}
+
+## MGT06 g0 s0057
+JP: ……な、なんだこれ?{p}{end}
+EN: ...Wh-what is this?{p}{end}
+
+## MGT06 g0 s0058
+JP: {col:0}『男性用ブリーフ』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Men's Briefs"{col:-}!{p}{end}
+
+## MGT06 g0 s0059
+JP: アメリカでは、{n}「身だしなみは下着から」というぐらい{n}大切なものだから、{v3:6}も{n}見習ってもらおうと思ってな。{p}{end}
+EN: In America, they say "good grooming starts with your underwear." It's that important, so I thought you should follow suit, {v3:6}.{p}{end}
+
+## MGT06 g0 s0060
+JP: 一年分あるから、{n}さすがの君でもノープロブレムだろう。{n}大事に使ってくれよ!{p}{end}
+EN: There's a year's supply, so even you should have no problem. Use them well!{p}{end}
+
+## MGT06 g0 s0061
+JP: 俺ってそんなに汚いイメージあったの!?{p}
+EN: Do I really come off as that grubby!?{p}
+
+## MGT06 g0 s0062
+JP: 少し遅れてしまったが、{n}ハッピーバースデイ{v3:6}!{p}{end}
+EN: It's a little late, but happy birthday, {v3:6}!{p}{end}
+
+## MGT06 g0 s0064
+JP: こないだが{v3:6}の誕生日だったと{n}思い出したんでね。{n}運転手に運転させて来たのさ。{p}{end}
+EN: I remembered your birthday was the other day, {v3:6}. So I had my driver bring me over.{p}{end}
+
+## MGT06 g1 s0001
+JP: ロイじゃない。{n}今日は補習があって{n}ちょっと遅くなっちゃったの。{p}{end}
+EN: Roy! I had a remedial class today, so I'm running a bit late.{p}{end}
+
+## MGT06 g1 s0006
+JP: 一緒に帰りましょ、ロイ!{p}{end}
+EN: Let's go home together, Roy!{p}{end}
+
+## MGT06 g1 s0008
+JP: 同じレディなのに{n}冷たくするなんて最低ネー!{n}もう{v3:7}の事なんて知らないから!{p}
+EN: We're both ladies, and you're cold to me? That's the worst! I don't care about you anymore, {v3:7}!{p}
+
+## MGT06 g1 s0009
+JP: ティファニーには{n}嫌われたかもしれないけど、{n}ロイが私と帰りたがっていたのが{n}分かったのがちょっとうれしい……。{p}{end}
+EN: Tiffany might hate me now, but I'm kinda happy to know Roy wanted to go home with me...{p}{end}
+
+## MGT06 g1 s0010
+JP: 一緒に帰りましょ、ティファニー!{p}{end}
+EN: Let's go home together, Tiffany!{p}{end}
+
+## MGT06 g1 s0012
+JP: キミがそんな女の子だったとは残念だよ!{n}ま、せいぜいティファニーの{n}荷物持ちでもやるんだな!{p}{end}
+EN: Shame. I didn't think you were that kind of girl! Well, enjoy carrying Tiffany's bags!{p}{end}
+
+## MGT06 g1 s0015
+JP: ロイ、どうしたの。{n}私なら全然かまわないけど。{p}
+EN: What's up, Roy? Sure, I don't mind.{p}
+
+## MGT06 g1 s0034
+JP: どうしたの、ロイ?{n}こんな朝早くに。{p}{end}
+EN: What's up, Roy? It's so early in the morning.{p}{end}
+
+## MGT06 g1 s0036
+JP: 今からって学校はどうするの?{n}今日は響子先生の保健体育があるし……。{p}{end}
+EN: Right now? What about school? Today we've got Kyoko-sensei's health class...{p}{end}
+
+## MGT06 g1 s0039
+JP: 全然!{n}私だってロイと{n}二人きりでいたいよ……。{p}{end}
+EN: Not at all! I want to be alone with you too, Roy...{p}{end}
+
+## MGT06 g1 s0043
+JP: やっぱり授業に出るわ。{p}
+EN: I think I'll go to class after all.{p}
+
+## MGT06 g1 s0048
+JP: ん!?{n}車の音がするわ?{n}誰か来たのかしら?{p}{end}
+EN: Hm!? Is that a car? Did somebody come?{p}{end}
+
+## MGT06 g1 s0050
+JP: あら、ロイじゃない。{n}車で来るから誰が来たのかと思ったわよ。{p}{end}
+EN: Oh, it's you, Roy. You came by car, so I wondered who it was.{p}{end}
+
+## MGT06 g1 s0054
+JP: うわァ!{n}でっか～い!{n}一体何が入ってるの?{n}ロイ!{sp}開けてみてもいい?{p}{end}
+EN: Whoaaa! It's huuuge! What's in it? Roy! Can I open it?{p}{end}
+
+## MGT06 g1 s0056
+JP: よーし開けるわよ!{p}
+EN: All right, opening it!{p}
+
+## MGT06 g1 s0057
+JP: ……な、なにこれ?{p}
+EN: ...Wh-what is this?{p}
+
+## MGT06 g1 s0059
+JP: アメリカでは、{n}女の子が男の下着をはくのが{n}最もクールなんだ。{n}{v3:6}も見習ってみたらどうだ。{p}{end}
+EN: In America, the coolest thing is a girl wearing guys' underwear. Why not follow suit, {v3:6}?{p}{end}
+
+## MGT06 g1 s0061
+JP: 男の子の下着一年分って……。{n}親に見つかったら{n}きっと変態扱いされちゃうだろうなあ。{p}{end}
+EN: A year's supply of boys' underwear... If my parents find these, they'll think I'm some kind of pervert.{p}{end}
+
+## MGT06 g1 s0063
+JP: あら、ロイじゃない。{n}車で来るから誰が来たのかと思ったわよ!{p}{end}
+EN: Oh, it's you, Roy. You came by car, so I wondered who it was!{p}{end}
+

@@ -1,0 +1,17 @@
+# Festival mode menu (DAT1/MINISEL, DAT2/MINITTL0-C), built by
+# tools/build_minittl.py: menu items and record label in the label atlas
+# (tools/minittl_atlas.py), the header logo in the MINITTL0 background
+# (tools/fest_menu.py). Game names follow tl/MINITTL.txt; the record label
+# and header follow the first game's patch (N1 FEST.txt).
+# 観戦モード opens a CPU-vs-CPU fight titled WATCH MODE in the game's HUD.
+# The menu column is 24 px high per item; '|' in header breaks the line.
+header: Gorin|Festival
+f_hr: Shoma's Home Run Derby
+f_pk: Roberto's PK Shootout
+f_shoot: Roberto's Explosive Shot
+f_ace: Natsu's Service Ace
+f_sprint: Showdown! Blazing Sprint
+f_dance: Doki-Waku-Dance
+f_watch: Watch Mode
+f_back: Back to Mode Menu
+f_record: Best Record

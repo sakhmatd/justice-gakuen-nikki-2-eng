@@ -1,0 +1,424 @@
+## MGK05 g0 s0000
+JP: 中間試験か。{n}この高校に入って初めての試験だな。{n}いっちょやってやるぜ!{p}{end}
+EN: Midterms, huh. My first exam since starting high school. Time to show 'em what I've got!{p}{end}
+
+## MGK05 g0 s0001
+JP: あら{v1}{col:0}クン{col:-}。{n}今日はいつもよりすごい意気込みね。{p}{end}
+EN: Oh, {v1}{col:0}-kun{col:-}. You're really fired up today.{p}{end}
+
+## MGK05 g0 s0002
+JP: でも、あんまり意気込み過ぎて{n}空回りしないように頑張ってね。{p}{end}
+EN: Just don't get so worked up that you trip over yourself. Good luck.{p}{end}
+
+## MGK05 g0 s0003
+JP: やるじゃない{v1}{col:0}クン{col:-}!{n}ほれぼれするわ。{p}
+EN: Nice work, {v1}{col:0}-kun{col:-}! I'm swooning.{p}
+
+## MGK05 g0 s0004
+JP: ヤマ勘が少し外れたようね。{p}
+EN: Looks like your guesswork missed the mark a little.{p}
+
+## MGK05 g0 s0005
+JP: 間違いが多いわよ。{n}さては、一夜づけね。{p}{end}
+EN: Lots of mistakes. You crammed all night, didn't you?{p}{end}
+
+## MGK05 g0 s0006
+JP: その上、{n}判断力も増しているようだし、{n}言うことないわね。{p}
+EN: And your judgment's sharper too. I couldn't ask for more.{p}
+
+## MGK05 g0 s0007
+JP: あなたならもっと早く答えられるわ。{n}先生信じてる……。{p}
+EN: You can answer faster than that. I believe in you...{p}
+
+## MGK05 g0 s0008
+JP: もっと「一人で遊ぶ」モードで{n}反射神経も養いなさい!{p}{end}
+EN: Play more in "1P Mode" and work on your reflexes!{p}{end}
+
+## MGK05 g0 s0009
+JP: その調子で次の試験も頑張ってね!{p}{end}
+EN: Keep it up for the next exam too!{p}{end}
+
+## MGK05 g0 s0010
+JP: 次の試験では{n}もっと上を目指して頑張ってね!{p}{end}
+EN: Aim even higher on the next exam!{p}{end}
+
+## MGK05 g0 s0011
+JP: こんな成績じゃ{n}次の試験も心配だわ。{p}{end}
+EN: With grades like these, I'm worried about the next exam.{p}{end}
+
+## MGK05 g0 s0012
+JP: 今からならまだ間に合うから{n}これで落ち込まずに頑張って!{p}{end}
+EN: There's still time to catch up, so don't let this get you down. Hang in there!{p}{end}
+
+## MGK05 g1 s0000
+JP: 中間試験かぁ。{n}この高校に入って、初めての試験ね。{n}頑張っちゃうんだから!{p}
+EN: Midterms, huh. My first exam since starting high school. I'm gonna give it my all!{p}
+
+## MGK05 g1 s0001
+JP: あら{v1}{col:0}さん{col:-}。{n}今日はいつもよりすごい意気込みね。{p}{end}
+EN: Oh, {v1}{col:0}-san{col:-}. You're really fired up today.{p}{end}
+
+## MGK05 g1 s0003
+JP: やるじゃない{v1}{col:0}さん{col:-}!{n}ほれぼれするわ。{p}
+EN: Nice work, {v1}{col:0}-san{col:-}! I'm swooning.{p}
+
+## MGK05 g6 s0000
+JP: ダッシュの操作として正しいのは{n}次のうちどれ?{p}
+EN: Which of these is the correct way to dash?{p}
+
+## MGK05 g6 s0001
+JP: 方向キー前方向へ2回{p}{end}
+EN: D-pad forward twice{p}{end}
+
+## MGK05 g6 s0002
+JP: 方向キー後ろ方向へ2回{p}
+EN: D-pad back twice{p}
+
+## MGK05 g6 s0003
+JP: 方向キー上方向へ2回{p}{end}
+EN: D-pad up twice{p}{end}
+
+## MGK05 g6 s0004
+JP: 方向キー下方向へ2回{p}{end}
+EN: D-pad down twice{p}{end}
+
+## MGK05 g6 s0005
+JP: 「根性カウンター」が出せるのは{n}プレイヤーが何状態の時?{p}{end}
+EN: A "Tardy Counter" can be done while the player is doing what?{p}{end}
+
+## MGK05 g6 s0006
+JP: ガード中{p}{end}
+EN: Guarding{p}{end}
+
+## MGK05 g6 s0007
+JP: やられ中{p}{end}
+EN: Getting hit{p}{end}
+
+## MGK05 g6 s0008
+JP: 攻撃中{p}
+EN: Attacking{p}
+
+## MGK05 g6 s0009
+JP: ダッシュ中{p}
+EN: Dashing{p}
+
+## MGK05 g6 s0010
+JP: 軸移動の正しい操作方法は{n}次のうちどれ?{p}{end}
+EN: Which is the correct input for a sidestep?{p}{end}
+
+## MGK05 g6 s0011
+JP: キックボタン2個同時押し{p}{end}
+EN: Both kick buttons at once{p}{end}
+
+## MGK05 g6 s0012
+JP: パンチボタン2個同時押し{p}{end}
+EN: Both punch buttons at once{p}{end}
+
+## MGK05 g6 s0013
+JP: 弱攻撃2個同時押し{p}
+EN: Both weak attacks at once{p}
+
+## MGK05 g6 s0014
+JP: 強攻撃2個同時押し{p}
+EN: Both strong attacks at once{p}
+
+## MGK05 g6 s0015
+JP: 根性ゲージ2本消費して{n}相棒と2人で繰り出す技の正式名称は{n}次のうちどれ?{p}
+EN: Partners team up for a move that uses two Vigor bars. What is its official name?{p}
+
+## MGK05 g6 s0016
+JP: 愛と友情のツープラトン{p}
+EN: Team Up of Love & Friendship{p}
+
+## MGK05 g6 s0017
+JP: 愛と誠のツープラトン{p}{end}
+EN: Team Up of Love & Sincerity{p}{end}
+
+## MGK05 g6 s0018
+JP: ヴァリアブルアタック{p}{end}
+EN: Variable Attack{p}{end}
+
+## MGK05 g6 s0019
+JP: 愛と正義のツープラトン{p}
+EN: Team Up of Love & Justice{p}
+
+## MGK05 g6 s0020
+JP: 「愛と友情のツ―プラトン」の発動時に{n}最も有効な反撃技は次のうちどれ?{p}
+EN: What's the best counter when the enemy launches a "Team Up Technique"?{p}
+
+## MGK05 g6 s0021
+JP: 投げ技{p}
+EN: Throw{p}
+
+## MGK05 g6 s0022
+JP: パンチ攻撃{p}
+EN: Punch attack{p}
+
+## MGK05 g6 s0023
+JP: キック攻撃{p}
+EN: Kick attack{p}
+
+## MGK05 g6 s0024
+JP: ダッシュ攻撃{p}{end}
+EN: Dash attack{p}{end}
+
+## MGK05 g6 s0025
+JP: 強攻撃の後、{n}「熱血コンボ」としてつなげられない{n}攻撃は次のうちどれ?{p}
+EN: After a strong attack, which of these can't be linked in a "Burning Combo"?{p}
+
+## MGK05 g6 s0026
+JP: 弱攻撃{p}
+EN: Weak attack{p}
+
+## MGK05 g6 s0027
+JP: 方向キー入れ強攻撃{p}
+EN: Direction + strong attack{p}
+
+## MGK05 g6 s0028
+JP: 必殺技{p}
+EN: Special move{p}
+
+## MGK05 g6 s0029
+JP: 完全燃焼アタック{p}{end}
+EN: Burning Vigor Attack{p}{end}
+
+## MGK05 g6 s0030
+JP: 「根性カウンター」として出せないのは{n}次のうちどれ?{p}{end}
+EN: Which of these can't be done as a "Tardy Counter"?{p}{end}
+
+## MGK05 g6 s0031
+JP: 強攻撃{p}
+EN: Strong attack{p}
+
+## MGK05 g6 s0035
+JP: 「愛と友情のツープラトン」中に{n}攻撃側が攻撃ボタンを連打すると{n}何が起こる?{p}{end}
+EN: During a "Team Up Technique," what happens if the attacker mashes the attack buttons?{p}{end}
+
+## MGK05 g6 s0036
+JP: 攻撃力がアップする{p}
+EN: Attack goes up{p}
+
+## MGK05 g6 s0037
+JP: 防御力がアップする{p}
+EN: Defense goes up{p}
+
+## MGK05 g6 s0038
+JP: 根性ゲージがたまる{p}
+EN: The Vigor gauge fills{p}
+
+## MGK05 g6 s0039
+JP: 交代する{p}{end}
+EN: The partners switch{p}{end}
+
+## MGK05 g6 s0040
+JP: 「熱血受け身」の方法として{n}正しくないのは次のうちどれ?{p}{end}
+EN: Which of these is NOT a way to do a "Breakfall"?{p}{end}
+
+## MGK05 g6 s0041
+JP: 方向キーを連打する{p}
+EN: Mash the D-pad{p}
+
+## MGK05 g6 s0042
+JP: ボタンを2個押す{p}{end}
+EN: Press two buttons{p}{end}
+
+## MGK05 g6 s0043
+JP: 方向キーを押しながら、ボタンを押す{p}
+EN: Hold a direction and press a button{p}
+
+## MGK05 g6 s0044
+JP: ボタンを3個押す{p}{end}
+EN: Press three buttons{p}{end}
+
+## MGK05 g6 s0045
+JP: 投げの操作方法として{n}正しいのは次のうちどれ?{p}
+EN: Which is the correct input for a throw?{p}
+
+## MGK05 g6 s0050
+JP: 「愛と友情のツープラトン」の{n}発動方法として正しいのは{n}次のうちどれ?{p}
+EN: Which is the correct way to launch a "Team Up Technique"?{p}
+
+## MGK05 g6 s0054
+JP: 方向キー2回転{p}
+EN: Rotate the D-pad twice{p}
+
+## MGK05 g6 s0055
+JP: 相棒と交代できるタイミングは{n}次のうちどれ?{p}{end}
+EN: When can you switch with your partner?{p}{end}
+
+## MGK05 g6 s0056
+JP: ラウンド終了時{p}
+EN: At the end of a round{p}
+
+## MGK05 g6 s0057
+JP: ゲームオーバー時{p}{end}
+EN: At game over{p}{end}
+
+## MGK05 g6 s0058
+JP: 愛と友情のツープラトン中{p}{end}
+EN: During a Team Up Technique{p}{end}
+
+## MGK05 g6 s0059
+JP: 完全燃焼アタック中{p}
+EN: During a Burning Vigor Attack{p}
+
+## MGK05 g6 s0060
+JP: 相手の投げに対して{n}投げ抜けができるものは{n}次の種類のうちどれ?{p}{end}
+EN: Which of these enemy throws can you break out of?{p}{end}
+
+## MGK05 g6 s0061
+JP: 空中投げ{p}{end}
+EN: Air throw{p}{end}
+
+## MGK05 g6 s0062
+JP: 背後投げ{p}{end}
+EN: Back throw{p}{end}
+
+## MGK05 g6 s0063
+JP: しゃがみ投げ{p}{end}
+EN: Crouching throw{p}{end}
+
+## MGK05 g6 s0064
+JP: すべてできる{p}{end}
+EN: All of them{p}{end}
+
+## MGK05 g6 s0065
+JP: 根性ゲージは{n}最大いくつまでためることができる?{p}{end}
+EN: How many bars can the Vigor gauge hold at most?{p}{end}
+
+## MGK05 g6 s0066
+JP: 9{p}
+EN: 9{p}
+
+## MGK05 g6 s0067
+JP: 7{p}
+EN: 7{p}
+
+## MGK05 g6 s0068
+JP: 5{p}
+EN: 5{p}
+
+## MGK05 g6 s0069
+JP: 3{p}
+EN: 3{p}
+
+## MGK05 g6 s0070
+JP: 根性ゲージがたまると{n}あるパラメータがアップします。{n}それは何?{p}{end}
+EN: As the Vigor gauge fills, one stat goes up. Which one?{p}{end}
+
+## MGK05 g6 s0071
+JP: 攻撃力{p}
+EN: Attack{p}
+
+## MGK05 g6 s0072
+JP: 防御力{p}
+EN: Defense{p}
+
+## MGK05 g6 s0073
+JP: 根性{p}{end}
+EN: Guts{p}{end}
+
+## MGK05 g6 s0074
+JP: 体力{p}{end}
+EN: Stamina{p}{end}
+
+## MGK05 g6 s0075
+JP: 通常よりも高いジャンプを行う{n}「ハイジャンプ」の正しい操作方法は?{p}
+EN: How do you do a "High Jump," which goes higher than a normal jump?{p}
+
+## MGK05 g6 s0076
+JP: 方向キーを下上と素早く入力{p}
+EN: Quickly press down, then up{p}
+
+## MGK05 g6 s0077
+JP: 方向キーを上に長く入れる{p}{end}
+EN: Hold up on the D-pad{p}{end}
+
+## MGK05 g6 s0078
+JP: キックボタン同時押し{p}{end}
+EN: Both kick buttons at once{p}{end}
+
+## MGK05 g6 s0079
+JP: パンチボタン同時押し{p}{end}
+EN: Both punch buttons at once{p}{end}
+
+## MGK05 g6 s0080
+JP: 根性ゲージが一番たまる方法は{n}次のうちどれ?{p}{end}
+EN: What's the best way to fill the Vigor gauge?{p}{end}
+
+## MGK05 g6 s0081
+JP: 挑発{p}{end}
+EN: Taunting{p}{end}
+
+## MGK05 g6 s0082
+JP: 攻撃を当てる{p}{end}
+EN: Landing hits{p}{end}
+
+## MGK05 g6 s0083
+JP: ダメージを受ける{p}{end}
+EN: Taking damage{p}{end}
+
+## MGK05 g6 s0084
+JP: 攻撃を空振りする{p}{end}
+EN: Whiffing attacks{p}{end}
+
+## MGK05 g6 s0085
+JP: 中段攻撃をガードできないのは{n}次のうちどれ?{p}{end}
+EN: Which of these can't block a mid attack?{p}{end}
+
+## MGK05 g6 s0086
+JP: しゃがみガード{p}
+EN: Crouching guard{p}
+
+## MGK05 g6 s0087
+JP: 立ちガード{p}
+EN: Standing guard{p}
+
+## MGK05 g6 s0088
+JP: 空中ガード{p}
+EN: Air guard{p}
+
+## MGK05 g6 s0089
+JP: どれでもガードできる{p}{end}
+EN: All of them can{p}{end}
+
+## MGK05 g6 s0090
+JP: 勝利ポーズ中に{n}方向キーを押すと{n}勝利ポーズ中に{n}何ができるようになる?{p}{end}
+EN: What can you do if you press the D-pad during your victory pose?{p}{end}
+
+## MGK05 g6 s0091
+JP: カメラアングルを変えられる{p}
+EN: Change the camera angle{p}
+
+## MGK05 g6 s0092
+JP: 相棒と交代できる{p}{end}
+EN: Switch with your partner{p}{end}
+
+## MGK05 g6 s0093
+JP: 根性ゲージをためられる{p}
+EN: Fill the Vigor gauge{p}
+
+## MGK05 g6 s0094
+JP: 勝利ポーズが選択できる{p}
+EN: Choose your victory pose{p}
+
+## MGK05 g6 s0095
+JP: プレイヤーのカラーは{n}全部で何色ある?{p}
+EN: How many colors does each player have in all?{p}
+
+## MGK05 g6 s0096
+JP: 8色{p}{end}
+EN: 8 colors{p}{end}
+
+## MGK05 g6 s0097
+JP: 2色{p}{end}
+EN: 2 colors{p}{end}
+
+## MGK05 g6 s0098
+JP: 6色{p}{end}
+EN: 6 colors{p}{end}
+
+## MGK05 g6 s0099
+JP: 12色{p}
+EN: 12 colors{p}
+

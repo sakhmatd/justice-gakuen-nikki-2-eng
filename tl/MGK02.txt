@@ -1,0 +1,2248 @@
+## MGK02 g0 s0000
+JP: 今日は、バレンタインデーか……。{p}{end}
+EN: Today's Valentine's Day, huh...{p}{end}
+
+## MGK02 g0 s0001
+JP: もし……、{n}チョコレートをもらえるんだったら、{n}誰からがイイかなぁ……。{p}{end}
+EN: If... I could get chocolate from someone, who would I want it from...?{p}{end}
+
+## MGK02 g0 s0002
+JP: バツ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ひなた{n}恭介{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}将馬{n}夏{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}ロベルト{n}ロイ{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人{p}
+EN: Batsu               Hinata{n}Kyosuke             Shoma{n}Natsu               Roberto{n}Roy                 Someone else{p}
+
+## MGK02 g0 s0003
+JP: ティファニー{sp}{sp}{sp}{sp}ボーマン{n}エッジ{sp}{sp}{sp}{sp}{sp}{sp}{sp}アキラ{n}岩{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}英雄{n}響子{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人{p}
+EN: Tiffany             Boman{n}Edge                Akira{n}Gan                 Hideo{n}Kyoko               Someone else{p}
+
+## MGK02 g0 s0004
+JP: 雹{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}隼人{n}醍醐{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}流{n}ラン{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}他の人{p}{end}
+EN: Hyo                 Hayato{n}Daigo               Nagare{n}Ran                 Someone else{p}{end}
+
+## MGK02 g0 s0005
+JP: やっぱり、バツからだよな!{p}
+EN: It's gotta be Batsu!{p}
+
+## MGK02 g0 s0006
+JP: やっぱり、ひなたからだよな!{p}{end}
+EN: It's gotta be Hinata!{p}{end}
+
+## MGK02 g0 s0007
+JP: やっぱり、恭介からだよな!{p}
+EN: It's gotta be Kyosuke!{p}
+
+## MGK02 g0 s0008
+JP: やっぱり、将馬からだよな!{p}
+EN: It's gotta be Shoma!{p}
+
+## MGK02 g0 s0009
+JP: やっぱり、夏からだよな!{p}{end}
+EN: It's gotta be Natsu!{p}{end}
+
+## MGK02 g0 s0010
+JP: やっぱり、ロベルトからだよな!{p}
+EN: It's gotta be Roberto!{p}
+
+## MGK02 g0 s0011
+JP: やっぱり、ロイからだよな!{p}
+EN: It's gotta be Roy!{p}
+
+## MGK02 g0 s0012
+JP: やっぱり、ティファニーからだよな!{p}
+EN: It's gotta be Tiffany!{p}
+
+## MGK02 g0 s0013
+JP: やっぱり、ボーマンからだよな!{p}
+EN: It's gotta be Boman!{p}
+
+## MGK02 g0 s0014
+JP: やっぱり、エッジからだよな!{p}{end}
+EN: It's gotta be Edge!{p}{end}
+
+## MGK02 g0 s0015
+JP: やっぱり、アキラからだよな!{p}{end}
+EN: It's gotta be Akira!{p}{end}
+
+## MGK02 g0 s0016
+JP: やっぱり、岩からだよな!{p}{end}
+EN: It's gotta be Gan!{p}{end}
+
+## MGK02 g0 s0017
+JP: やっぱり、英雄先生からだよな!{p}
+EN: It's gotta be Hideo-sensei!{p}
+
+## MGK02 g0 s0018
+JP: やっぱり、響子先生からだよな!{p}
+EN: It's gotta be Kyoko-sensei!{p}
+
+## MGK02 g0 s0019
+JP: やっぱり、雹さんからだよな!{p}{end}
+EN: It's gotta be Hyo-san!{p}{end}
+
+## MGK02 g0 s0020
+JP: やっぱり、隼人先生からだよな!{p}
+EN: It's gotta be Hayato-sensei!{p}
+
+## MGK02 g0 s0021
+JP: やっぱり、醍醐先輩からだよな!{p}
+EN: It's gotta be Daigo-senpai!{p}
+
+## MGK02 g0 s0022
+JP: やっぱり、流さんからだよな!{p}{end}
+EN: It's gotta be Nagare-san!{p}{end}
+
+## MGK02 g0 s0023
+JP: やっぱり、ランからだよな!{p}
+EN: It's gotta be Ran!{p}
+
+## MGK02 g0 s0024
+JP: でも、なかなか、{n}そううまくは、いかないよなぁ……。{n}あはは……。{p}
+EN: But things never go that smoothly, huh... Ahaha...{p}
+
+## MGK02 g0 s0025
+JP: さて、学校に行くとするかな。{p}{end}
+EN: Well, guess I'll head to school.{p}{end}
+
+## MGK02 g0 s0026
+JP: ハッ!{sp}背中に殺気!!{p}
+EN: Huh! Killing intent behind me!!{p}
+
+## MGK02 g0 s0027
+JP: （パシッ!!）{p}
+EN: (Catch!!){p}
+
+## MGK02 g0 s0028
+JP: ぬっ!{sp}手裏剣……じゃなくて、{n}なんだこれは?{p}
+EN: Hm! A shuriken... no, wait. What is this?{p}
+
+## MGK02 g0 s0029
+JP: ハハハ……、{n}さすがだな、{v3:0}!{p}{end}
+EN: Hahaha... Nice catch, {v3:0}!{p}{end}
+
+## MGK02 g0 s0030
+JP: そいつは、オレからのプレゼントだ……。{n}とっときな……。{p}{end}
+EN: That's a present from me... Hang on to it...{p}{end}
+
+## MGK02 g0 s0031
+JP: じゃ、じゃあな……。{p}{end}
+EN: S-see ya...{p}{end}
+
+## MGK02 g0 s0032
+JP: あはは……!{n}バツも、おかしなことするなぁ……。{p}{end}
+EN: Ahaha...! Batsu sure does weird stuff...{p}{end}
+
+## MGK02 g0 s0033
+JP: でも、何が入ってるんだろう?{n}ちょっと、開けて見てみるかな……。{p}{end}
+EN: I wonder what's inside, though. Guess I'll open it and see...{p}{end}
+
+## MGK02 g0 s0034
+JP: ……………………。{n}チョ、チョコレート……。{p}{end}
+EN: ...... Ch-chocolate...{p}{end}
+
+## MGK02 g0 s0035
+JP: ということは、{n}さっき背中に感じたのは、{n}殺気じゃなくて、その……。{p}{end}
+EN: Which means... what I felt behind me earlier wasn't killing intent, it was...{p}{end}
+
+## MGK02 g0 s0036
+JP: う、うーん……。{n}複雑な気分だな……。{p}
+EN: Uh, umm... I've got mixed feelings about this...{p}
+
+## MGK02 g0 s0037
+JP: あれ……?{n}なんか……、{n}チョコレートのにおいがする……。{p}
+EN: Huh...? Something... smells like chocolate...{p}
+
+## MGK02 g0 s0038
+JP: {v6:1}!{n}チョ、チョコレート持ってきたんだ……。{n}受け取ってくれる?{p}
+EN: {v6:1}! I-I brought you chocolate... Will you take it?{p}
+
+## MGK02 g0 s0039
+JP: あ、ありがとう!{n}もちろん、いただくよ!{p}{end}
+EN: Th-thanks! Of course I will!{p}{end}
+
+## MGK02 g0 s0040
+JP: クンクン……、{n}ひなた、これ手作り?{p}{end}
+EN: *Sniff sniff*... Hinata, is this homemade?{p}{end}
+
+## MGK02 g0 s0041
+JP: う、うん……。{n}でも、どうしてわかったの?{p}
+EN: Y-yeah... But how'd you know?{p}
+
+## MGK02 g0 s0042
+JP: だって、ひなたから{n}チョコレートのにおいがするからね。{p}
+EN: 'Cause you smell like chocolate, Hinata.{p}
+
+## MGK02 g0 s0043
+JP: そ、そっかぁ……、{n}自分では気がつかなかったよ……。{p}{end}
+EN: R-really...? I didn't even notice...{p}{end}
+
+## MGK02 g0 s0044
+JP: 本を見ながら、作ってみたんだ。{n}ちょっとだけでもいいから、{n}食べて欲しいな……。{p}{end}
+EN: I made it following a book. Even if you just have a little, I'd like you to try it...{p}{end}
+
+## MGK02 g0 s0045
+JP: （フフフ……、慣れない手つきで{n}{sp}チョコレートに悪戦苦闘する{n}{sp}ひなたの姿が目に浮かぶよ……）{p}
+EN: (Heh heh... I can just picture Hinata fumbling around, battling with the chocolate...){p}
+
+## MGK02 g0 s0046
+JP: （残さず食べないとな……）{p}
+EN: (I'd better eat every last bit...){p}
+
+## MGK02 g0 s0047
+JP: あ、{v6:1}!{n}ハイ、義理チョコだよ!{p}
+EN: Oh, {v6:1}! Here, obligation chocolate!{p}
+
+## MGK02 g0 s0049
+JP: たくさん手作りして配ろうと{n}思ったんだけど……、{n}失敗して、スゴイ変になっちゃった。{p}{end}
+EN: I was gonna make a whole bunch to hand out, but... I messed up and they came out super weird.{p}{end}
+
+## MGK02 g0 s0050
+JP: でも、こういうのは気持ちの問題だから、{n}ものすごぉーく変でもいいよね!{n}あはは……!{p}{end}
+EN: But it's the thought that counts, so it's fine even if they're suuuper weird, right? Ahaha...!{p}{end}
+
+## MGK02 g0 s0051
+JP: じゃあ、絶対食べてね!{n}バイバイ!{p}
+EN: So you'd better eat it! Bye-bye!{p}
+
+## MGK02 g0 s0052
+JP: （う、うーん……。{n}{sp}本人が、あんなに変だっていうんだから、{n}{sp}やっぱり、変なんだろうなぁ……）{p}{end}
+EN: (Uh, umm... If she says herself it's that weird, it's gotta be pretty weird...){p}{end}
+
+## MGK02 g0 s0053
+JP: （家に帰ってから開けた方が、{n}{sp}安全かも……）{p}
+EN: (It might be safer to open it at home...){p}
+
+## MGK02 g0 s0054
+JP: （変な義理チョコかぁ……。{n}{sp}トホホ……）{p}
+EN: (Weird obligation chocolate, huh... Sigh...){p}
+
+## MGK02 g0 s0055
+JP: 「やぁ、{v4:2}……」{p}
+EN: "Hey, {v4:2}..."{p}
+
+## MGK02 g0 s0056
+JP: 恭介か?{n}何か用か?{p}{end}
+EN: Kyosuke? What's up?{p}{end}
+
+## MGK02 g0 s0057
+JP: 「おっと、振り向いちゃダメだ。{n}{sp}そのまま、座ってて……」{p}
+EN: "Whoa, don't turn around. Just stay sitting there..."{p}
+
+## MGK02 g0 s0058
+JP: 「5秒かぞえたら、{n}{sp}振り向いてもいいよ。」{p}{end}
+EN: "Count to five, then you can turn around."{p}{end}
+
+## MGK02 g0 s0059
+JP: あはは……。{n}変な遊びを覚えてきたな。{n}じゃあ、かぞえるぞ。{p}{end}
+EN: Ahaha... You've picked up a weird game. OK, I'm counting.{p}{end}
+
+## MGK02 g0 s0060
+JP: {face:15}1・2・3・4・5……{face:255}{p}
+EN: {face:15}1, 2, 3, 4, 5...{face:255}{p}
+
+## MGK02 g0 s0061
+JP: ん!?{sp}何だこれ?{n}恭介のかな……?{p}{end}
+EN: Hm!? What's this? Is it Kyosuke's...?{p}{end}
+
+## MGK02 g0 s0062
+JP: フフフ……、違うよ!{n}僕から{v4:2}への{n}プレゼントだよ。{p}
+EN: Heh heh... Nope! It's a present from me to you, {v4:2}.{p}
+
+## MGK02 g0 s0063
+JP: じゃあ……。{p}{end}
+EN: Well then...{p}{end}
+
+## MGK02 g0 s0064
+JP: プレゼントかぁ!{n}何が入ってるんだろう。{n}ちょっと見てみるかな……。{p}{end}
+EN: A present! I wonder what's inside. Let's take a look...{p}{end}
+
+## MGK02 g0 s0066
+JP: チョコレートだ……。{p}{end}
+EN: It's chocolate...{p}{end}
+
+## MGK02 g0 s0067
+JP: プ、プレゼントは、うれしいけど……。{n}今日、チョコレートをもらうと、{n}複雑な気分だな……。{n}あはは……。{p}{end}
+EN: I-I'm happy to get a present, but... getting chocolate today gives me mixed feelings... Ahaha...{p}{end}
+
+## MGK02 g0 s0068
+JP: なんだよ、将馬。{n}こんなところに呼び出して……。{n}何か用があるんだろ?{p}
+EN: What's up, Shoma? Calling me out here... You need something, right?{p}
+
+## MGK02 g0 s0069
+JP: あ、あぁ……、{n}その……なんだ……。{n}オ、オマエ……、甘いものは好きか?{p}{end}
+EN: Y-yeah... Um... the thing is... D-do ya like sweet stuff?{p}{end}
+
+## MGK02 g0 s0070
+JP: へ!?{n}あぁ、好きだけど……。{p}
+EN: Huh!? Yeah, I like it...{p}
+
+## MGK02 g0 s0071
+JP: な、ならこれをやるよ!{n}選ぶのに苦労したんだからな!{p}{end}
+EN: Th-then take this! It was a pain pickin' it out, y'know!{p}{end}
+
+## MGK02 g0 s0072
+JP: それと……、他のヤツらには、{n}ナイショだからなッ!{n}じゃ、じゃあなッ!{p}
+EN: And... don't you tell the other guys! S-see ya!{p}
+
+## MGK02 g0 s0074
+JP: やっぱり、{n}これはチョコレートなんだよな……。{p}
+EN: Yep, this has gotta be chocolate...{p}
+
+## MGK02 g0 s0075
+JP: どんなのが入ってるんだろう。{n}ちょっと見てみるかな……。{p}{end}
+EN: I wonder what kind it is. Guess I'll take a look...{p}{end}
+
+## MGK02 g0 s0076
+JP: わぁ……。{n}バットとボールの形のチョコが{n}ギッシリ入ってる……。{p}{end}
+EN: Wow... It's crammed full of bat- and ball-shaped chocolates...{p}{end}
+
+## MGK02 g0 s0077
+JP: ゆ、友情以上のものが、{n}このチョコレートには、{n}込められているような気がするぞ……。{p}{end}
+EN: I-I get the feeling there's something more than friendship packed into this chocolate...{p}{end}
+
+## MGK02 g0 s0078
+JP: う、うーん……、{n}複雑な気分だな……。{p}
+EN: Uh, umm... I've got mixed feelings about this...{p}
+
+## MGK02 g0 s0079
+JP: よおっ!{n}夏じゃないか、何してるんだ?{p}
+EN: Yo! Natsu, what are you doing?{p}
+
+## MGK02 g0 s0080
+JP: えっ!?{n}あ!{sp}{v6:4}!{p}
+EN: Huh!? Ah! {v6:4}!{p}
+
+## MGK02 g0 s0081
+JP: え、えっと……、{n}なんでもないわよ……。{p}{end}
+EN: Uh, um... It's nothing...{p}{end}
+
+## MGK02 g0 s0082
+JP: でも、そこは、{n}俺の下駄箱なんだけど……。{p}
+EN: But, uh, that's my shoe locker...{p}
+
+## MGK02 g0 s0083
+JP: …………。{n}見つかっちゃったから、{n}今、渡すね……。{p}{end}
+EN: ...... Well, you caught me, so I'll give it to you now...{p}{end}
+
+## MGK02 g0 s0084
+JP: ハイ、これ……。{n}昨日の夜に、ガンバって作ったの……。{p}
+EN: Here, this... I worked hard on it last night...{p}
+
+## MGK02 g0 s0085
+JP: 夏の手作りチョコレートかぁ!{n}ありがとう!{p}
+EN: Homemade chocolate from Natsu! Thanks!{p}
+
+## MGK02 g0 s0086
+JP: こっそり、{v6:4}の{n}下駄箱に入れておこうと{n}思ったんだけど……{p}{end}
+EN: I was gonna sneak it into your shoe locker, {v6:4}, but...{p}{end}
+
+## MGK02 g0 s0087
+JP: 他の女の子からのチョコが入ってたら、{n}どうしようって考えてるうちに、{n}本人が来ちゃった……。{p}{end}
+EN: While I was worrying what I'd do if there was chocolate from some other girl in there, you showed up...{p}{end}
+
+## MGK02 g0 s0088
+JP: おかしいね……。{n}フフフ……。{p}
+EN: Silly, huh... Hehe...{p}
+
+## MGK02 g0 s0089
+JP: （か、かわいいこと{n}{sp}言ってくれるよな……。{n}{sp}大事に持って帰らないとな……）{p}
+EN: (Sh-she says the cutest things... I'd better take this home carefully...){p}
+
+## MGK02 g0 s0090
+JP: あっ!{sp}{v6:4}!{n}ちょうど、いいところにいたわね。{n}ほら、これあげる!{p}{end}
+EN: Ah! {v6:4}! Perfect timing. Here, this is for you!{p}{end}
+
+## MGK02 g0 s0091
+JP: わぁ、チョコレート!{n}ありがとう!{p}
+EN: Wow, chocolate! Thanks!{p}
+
+## MGK02 g0 s0092
+JP: それにしても、{n}ずいぶん、いっぱいチョコレートを{n}持って歩いてるんだな……。{p}{end}
+EN: Still, you're carrying an awful lot of chocolate around...{p}{end}
+
+## MGK02 g0 s0093
+JP: それ、全部配るのか?{p}{end}
+EN: Are you handing all of it out?{p}{end}
+
+## MGK02 g0 s0094
+JP: え、えっと……、こっちのは、{n}アタシがもらった分だから……。{p}{end}
+EN: Uh, um... These ones are the ones I got...{p}{end}
+
+## MGK02 g0 s0095
+JP: （な、夏は、女の子に人気だからなぁ……。{n}{sp}男でも、そんなにもらえるヤツは、{n}{sp}なかなかいないぞ……）{p}
+EN: (N-Natsu's popular with the girls... Not many guys get that many...){p}
+
+## MGK02 g0 s0096
+JP: さぁ!{sp}今日中に、{n}この義理チョコを全部配らないとね!{n}じゃあね!{sp}{p}{end}
+EN: Right! I've gotta hand out all this obligation chocolate today! Bye!{p}{end}
+
+## MGK02 g0 s0097
+JP: （夏にとっては、{n}{sp}これも数ある義理チョコのひとつかぁ。{n}{sp}トホホ……）{p}{end}
+EN: (To Natsu, this is just one obligation chocolate out of many, huh. Sigh...){p}{end}
+
+## MGK02 g0 s0098
+JP: なんだよ、ロベルト。{n}こんなところに呼び出して……。{n}何か用があるのか?{p}{end}
+EN: What's up, Roberto? Calling me out here... You need something?{p}{end}
+
+## MGK02 g0 s0099
+JP: あ、あぁ……、{n}れ、練習に付き合ってもらおうと{n}思ってね……。{p}
+EN: Y-yeah... I, uh, thought you could help me practice...{p}
+
+## MGK02 g0 s0100
+JP: ふーん……。{p}{end}
+EN: Hmm...{p}{end}
+
+## MGK02 g0 s0101
+JP: わ、わかったよ……、{n}正直にいうよ……。{p}{end}
+EN: F-fine... I'll be honest...{p}{end}
+
+## MGK02 g0 s0102
+JP: これを渡そうと思って、呼んだんだ。{n}俺らしいデザインのものがあったんでな。{n}{v3:5}にと思って……。{p}{end}
+EN: I called you here to give you this. I found one with a design that's so me. I thought of you, {v3:5}...{p}{end}
+
+## MGK02 g0 s0103
+JP: このことは、{n}他のヤツらには、秘密にしてくれよ……。{n}じゃ、じゃあなッ!{p}{end}
+EN: Keep this a secret from the others, OK...? S-see ya!{p}{end}
+
+## MGK02 g0 s0107
+JP: わぁ……。{n}サッカーボールの形のチョコが{n}いっぱい入ってる……。{p}{end}
+EN: Wow... It's full of soccer-ball-shaped chocolates...{p}{end}
+
+## MGK02 g0 s0110
+JP: 何だよ、ロイ!{n}こんなところに呼び出して。{p}
+EN: What's up, Roy! Calling me out here.{p}
+
+## MGK02 g0 s0111
+JP: い、いやぁ、すまない。{n}{v3:6}に、{n}これをプレゼントしようと思ってね。{p}{end}
+EN: S-sorry about that. I wanted to give you this, {v3:6}.{p}{end}
+
+## MGK02 g0 s0112
+JP: えへへ……。{n}ありがとう……!{n}何が入ってるんだ?{p}
+EN: Hehe... Thanks...! What's inside?{p}
+
+## MGK02 g0 s0113
+JP: それは、後でひとりのときに、{n}確かめてみてくれよ。{p}
+EN: Check it out later, when you're alone.{p}
+
+## MGK02 g0 s0114
+JP: 今日は、ボクにとって、{n}何をもらうよりも、それを渡すことの方が{n}重要だったからな……。{p}
+EN: Today, giving you that mattered more to me than getting anything...{p}
+
+## MGK02 g0 s0115
+JP: じゃ、じゃあな!{sp}バイ!{p}{end}
+EN: S-see ya! Bye!{p}{end}
+
+## MGK02 g0 s0116
+JP: 何のことかよくわからないけど……、{n}さっそく、何が入ってるか、{n}見てみるとするかな……。{p}{end}
+EN: I don't really get what he meant, but... let's see what's inside right away...{p}{end}
+
+## MGK02 g0 s0117
+JP: ……………………。{n}…………チョ、チョコレート。{p}{end}
+EN: ...... ...Ch-chocolate.{p}{end}
+
+## MGK02 g0 s0118
+JP: う、うーん……。{n}このチョコレートは、{n}何を意味してるんだろう……。{p}{end}
+EN: Uh, umm... What is this chocolate supposed to mean...?{p}{end}
+
+## MGK02 g0 s0119
+JP: ふ、複雑な気分だなぁ……。{p}
+EN: I've got m-mixed feelings about this...{p}
+
+## MGK02 g0 s0120
+JP: 「{v3:7}!」{p}
+EN: "{v3:7}!"{p}
+
+## MGK02 g0 s0121
+JP: へ?{sp}誰か呼んだ?{p}
+EN: Huh? Did somebody call me?{p}
+
+## MGK02 g0 s0122
+JP: おわっ!!{p}
+EN: Whoaaa!!{p}
+
+## MGK02 g0 s0123
+JP: ハイ!{sp}{v3:7}!{n}ミーが心をこめて選んだ、{n}スウィートなチョコを持ってきました!{p}
+EN: Hi! {v3:7}! I brought you sweet chocolate that I picked out with all my heart!{p}
+
+## MGK02 g0 s0124
+JP: {v3:7}がこのチョコを食べれば、{n}ミーも{v3:7}も、{n}万事ハッピーね!{p}
+EN: If {v3:7} eats this chocolate, then {v3:7} and I will both be happy!{p}
+
+## MGK02 g0 s0125
+JP: ゴホゴホ……、{n}なんだ、ティファニーか……。{p}{end}
+EN: *Cough cough*... Oh, it's Tiffany...{p}{end}
+
+## MGK02 g0 s0126
+JP: あ、ありがとう……。{n}で、でも……、{n}なんで、いきなりタックルなんだ……?{p}
+EN: Th-thanks... B-but... why'd you suddenly tackle me...?{p}
+
+## MGK02 g0 s0127
+JP: OH!{sp}それは……、{n}バレンタインデーは、彼に思い切って{n}タックルしましょう!……って、{n}星占いに書いてたからです!{p}{end}
+EN: OH! That's... because my horoscope said, "On Valentine's Day, tackle your guy with all your might!"{p}{end}
+
+## MGK02 g0 s0128
+JP: {v3:7}も気持ち良く{n}受け取ってくれたし、{n}やっぱり、星占いはオトメのバイブルね。{n}フフフ……。{p}{end}
+EN: {v3:7} took it so happily too. Horoscopes really are a girl's bible. Hee hee...{p}{end}
+
+## MGK02 g0 s0129
+JP: （そ、それは……、{n}{sp}アタックしましょう!{sp}って{n}{sp}書いてあったんだと思うぞ……ゴフッ）{p}{end}
+EN: (I-I bet it said "throw yourself at him"... Gack){p}{end}
+
+## MGK02 g0 s0130
+JP: ハイ!{sp}{v3:7}!{n}義理チョコ配りに来ました!{p}
+EN: Hi! {v3:7}! I came to hand out obligation chocolate!{p}
+
+## MGK02 g0 s0132
+JP: 義理チョコをたくさん配ると、{n}3倍も4倍にもなって返ってきて、{n}ハッピーになれるって聞きました!{p}{end}
+EN: I heard that if you hand out lots of obligation chocolate, it comes back three or four times over and you get happy!{p}{end}
+
+## MGK02 g0 s0133
+JP: {v3:7}も、{n}何倍にもして返してくださーい!{n}それじゃあ、バイバイ～!{p}
+EN: {v3:7}, please pay me back many times over too! Bye-bye~!{p}
+
+## MGK02 g0 s0134
+JP: （だ、誰だ……、ティファニーに{n}{sp}余計なことを教えたのは……）{p}
+EN: (Wh-who told Tiffany that...?){p}
+
+## MGK02 g0 s0135
+JP: （あの調子だと、ホントに倍返しを{n}{sp}迫ってきそうだぞ……。{n}{sp}高い義理チョコだよ……トホホ）{p}{end}
+EN: (The way she is, she'll really come demanding it back double... What pricey obligation chocolate... Sigh.){p}{end}
+
+## MGK02 g0 s0136
+JP: ボーマン、来たぞ!{p}
+EN: Boman, I'm here!{p}
+
+## MGK02 g0 s0137
+JP: あぁ、すいません。{n}呼び出したりして……。{p}
+EN: Ah, I am sorry for calling you out like this...{p}
+
+## MGK02 g0 s0138
+JP: 今日は、バレンタインデーですからね。{n}{v4:8}に、{n}プレゼントを用意してきたのです。{p}{end}
+EN: Today is Valentine's Day, after all. I have prepared a present for you, {v4:8}.{p}{end}
+
+## MGK02 g0 s0139
+JP: さぁ、受け取ってください。{p}
+EN: Please, accept it.{p}
+
+## MGK02 g0 s0141
+JP: よかった……。{n}無事にプレゼントを{n}渡すことができました……。{p}
+EN: Thank goodness... I was able to give you the present safely...{p}
+
+## MGK02 g0 s0142
+JP: 神も、喜んでおられることでしょう……。{n}それでは、失礼します。{p}
+EN: Surely God is pleased as well... Now, if you will excuse me.{p}
+
+## MGK02 g0 s0143
+JP: う、うーん……。{n}ボーマンにとっては{n}何でもないことかもしれないけど、{n}ち、ちょっと複雑な気分だな……。{p}{end}
+EN: Uh, umm... It might be nothing special to Boman, but I've got kinda m-mixed feelings about this...{p}{end}
+
+## MGK02 g0 s0144
+JP: 予想はつくけど……、{n}一応、何が入っているのか{n}見てみるかな……。{p}
+EN: I can guess, but... I guess I'll see what's inside anyway...{p}
+
+## MGK02 g0 s0145
+JP: ……やっぱり、チョコだよ。{n}……しかも、すごくラブリーなやつ。{p}
+EN: ...Yep, chocolate. ...And a really lovey-dovey kind, too.{p}
+
+## MGK02 g0 s0146
+JP: う、うーん……。{p}{end}
+EN: Uh, umm...{p}{end}
+
+## MGK02 g0 s0147
+JP: よう!{sp}{v3:9}!{n}ちょっと来いよ!{p}{end}
+EN: Yo! {v3:9}! C'mere a sec!{p}{end}
+
+## MGK02 g0 s0148
+JP: なんだよ、エッジ。{n}どうかしたのか?{p}{end}
+EN: What is it, Edge? Something up?{p}{end}
+
+## MGK02 g0 s0149
+JP: オマエに、{n}これをやろうと思ってな……。{n}岩たちにはナイショだぜ!{p}
+EN: Figured I'd give ya this... Keep it secret from Gan and them!{p}
+
+## MGK02 g0 s0150
+JP: ありがとう!{n}何が入ってるんだ?{p}{end}
+EN: Thanks! What's inside?{p}{end}
+
+## MGK02 g0 s0151
+JP: （バリバリバリ……）{p}{end}
+EN: (Riiip riiip...){p}{end}
+
+## MGK02 g0 s0152
+JP: うわぁッッ!!{sp}バカ!{n}ここで開けるなよッ!!{p}
+EN: Whoaaa!! Idiot! Don't open it here!!{p}
+
+## MGK02 g0 s0153
+JP: ……チョ、チョコレート。{n}ホワイトチョコで{n}文字まで入ってる……。{p}
+EN: ...Ch-chocolate. There's even writing on it in white chocolate...{p}
+
+## MGK02 g0 s0154
+JP: 「{col:5}♥{col:-}{sp}夜露死苦」……。{n}エ、エッジ……?{p}{end}
+EN: "{col:5}♥{col:-} Be Good To Me," in gang graffiti kanji... E-Edge...?{p}{end}
+
+## MGK02 g0 s0155
+JP: う、うるせぇな……。{n}寝ないで考えたんだぜ。{n}取っとけよ……{p}{end}
+EN: Sh-shut up... I stayed up all night thinkin' it up. Just keep it...{p}{end}
+
+## MGK02 g0 s0156
+JP: う、うん……。{n}ありがとう……。{p}{end}
+EN: O-OK... Thanks...{p}{end}
+
+## MGK02 g0 s0157
+JP: （あ、あとで開けた方が{n}{sp}良かったみたいだな……）{p}
+EN: (L-looks like I should've opened it later...){p}
+
+## MGK02 g0 s0158
+JP: （なんか……変な……雰囲気に……{n}{sp}なっちゃった……ぞ……）{p}{end}
+EN: (Things... got... kinda... weird... now...){p}{end}
+
+## MGK02 g0 s0159
+JP: どうしたんだ、アキラ?{n}こんなとこに引っ張ってきて……。{p}{end}
+EN: What's up, Akira? Dragging me all the way here...{p}{end}
+
+## MGK02 g0 s0160
+JP: こ、ここなら、大丈夫だろう……。{n}ちょっと待ってろ、今メットをとるからな。{p}
+EN: Th-this should be safe... Wait a second. I'm taking off my helmet.{p}
+
+## MGK02 g0 s0161
+JP: （なんだよ、いったい……。{n}{sp}今日のアキラは、なんか変だぞ……）{p}{end}
+EN: (What the heck is going on...? Akira's acting really weird today...){p}{end}
+
+## MGK02 g0 s0162
+JP: あ、あの……、{n}今日は特別な日だから……。{p}
+EN: U-um... Today's a special day, so...{p}
+
+## MGK02 g0 s0163
+JP: き、昨日、{n}ガンバって作ったんだけど……。{p}
+EN: I-I worked really hard making it yesterday, but...{p}
+
+## MGK02 g0 s0165
+JP: やっぱり、いえないよ……。{p}
+EN: I just can't say it...{p}
+
+## MGK02 g0 s0166
+JP: （あーっ!!{n}{sp}じれったいなぁ!{sp}何なんだよ!）{p}{end}
+EN: (Argh!! This is driving me nuts! What is it!?){p}{end}
+
+## MGK02 g0 s0167
+JP: だ、だから……、{n}今日はバレンタインだから、{n}チョコレートをお前にやるといってるんだ!{p}
+EN: L-like I said... it's Valentine's, so I'm giving you chocolate!{p}
+
+## MGK02 g0 s0168
+JP: あ、ありがとう!{n}うれしいよ!{p}
+EN: Th-thanks! I'm really happy!{p}
+
+## MGK02 g0 s0169
+JP: いいから、早く持っていけよ!{n}は、恥ずかしいだろうが!!{p}{end}
+EN: Just take it already! Th-this is embarrassing!!{p}{end}
+
+## MGK02 g0 s0170
+JP: （フフフ……。{n}{sp}素顔のままで、渡そうと{n}{sp}努力してくれたのか……）{p}{end}
+EN: (Heh heh... She tried her best to give it to me without her helmet...){p}{end}
+
+## MGK02 g0 s0171
+JP: （大事に食べないとな……）{p}
+EN: (I'd better savor it...){p}
+
+## MGK02 g0 s0172
+JP: なんだよ、アキラ。{n}こんなところに引っ張ってきて……。{p}
+EN: What's up, Akira? Dragging me out here...{p}
+
+## MGK02 g0 s0173
+JP: いやぁ、スマン。{n}これは、{v3:10}の分だ。{n}取っておけ。{p}{end}
+EN: Ah, sorry. This one's yours, {v3:10}. Take it.{p}{end}
+
+## MGK02 g0 s0174
+JP: チョコレート!{n}あ、ありがとう!{p}{end}
+EN: Chocolate! Th-thanks!{p}{end}
+
+## MGK02 g0 s0175
+JP: ハハハ……、{n}いっとくが、義理チョコだからな。{p}
+EN: Hahaha... Just so you know, it's obligation chocolate.{p}
+
+## MGK02 g0 s0176
+JP: 人に見られると、{n}後がややこしいからな。{n}こっそり渡すことにしたんだ。{p}
+EN: If people saw, it'd get messy later. So I decided to give it to you on the sly.{p}
+
+## MGK02 g0 s0177
+JP: これから、{n}エッジと岩にも、渡してくるよ。{p}
+EN: Now I'm off to give Edge and Gan theirs too.{p}
+
+## MGK02 g0 s0178
+JP: オレがやらないと、{n}1個ももらえなさそうだからなぁ……、{n}お前たちは。{n}ハハハ……!{p}{end}
+EN: If I don't, you guys probably wouldn't get a single one... Hahaha...!{p}{end}
+
+## MGK02 g0 s0179
+JP: じゃあな!{p}
+EN: See you!{p}
+
+## MGK02 g0 s0180
+JP: （なんだ、義理かぁ……。{n}{sp}トホホ……）{p}{end}
+EN: (Oh, just obligation, huh... Sigh...){p}{end}
+
+## MGK02 g0 s0181
+JP: 岩、どうしたんだよ、{n}こんなところに連れてきて……。{p}{end}
+EN: Gan, what's up? Bringing me all the way out here...{p}{end}
+
+## MGK02 g0 s0182
+JP: い、いやぁ、{v3:11}に{n}これをやろうと思ったんでのう……。{p}
+EN: W-well, y'see, I reckoned I'd give {v3:11} this here...{p}
+
+## MGK02 g0 s0183
+JP: エッジたちには、ナイショじゃぞ。{n}あやつらは、{n}ちゃかすに決まっとるからのう……。{p}
+EN: Don't go tellin' Edge and them. Those two'd rib me somethin' fierce, sure as anythin'...{p}
+
+## MGK02 g0 s0184
+JP: わかったよ!{n}で、何が入ってるんだ?{p}{end}
+EN: Got it! So, what's inside?{p}{end}
+
+## MGK02 g0 s0187
+JP: 「ワシの{col:5}♥{col:-}のぶちかまし!」……。{n}が、岩……?{p}
+EN: "Charge of My {col:5}♥{col:-}!"... G-Gan...?{p}
+
+## MGK02 g0 s0188
+JP: そ、そこは、どうでもええんじゃよ。{n}腹が減ったら、食えばええんじゃ……。{p}{end}
+EN: Th-that part don't matter none. Just eat it when ya get hungry...{p}{end}
+
+## MGK02 g0 s0189
+JP: う、うん……。{n}そうするよ……。{p}{end}
+EN: O-OK... I'll do that...{p}{end}
+
+## MGK02 g0 s0192
+JP: {v0}{col:0}君{col:-}!{n}ちょうどいいところにいたね。{p}{end}
+EN: {v0}{col:0}-kun{col:-}! You came along at just the right time.{p}{end}
+
+## MGK02 g0 s0193
+JP: いやぁ……、{n}これを君にあげようと思ってたんだよ。{p}
+EN: Well... I was hoping to give you this.{p}
+
+## MGK02 g0 s0194
+JP: あ、ありがとうございます……。{p}
+EN: Th-thank you very much...{p}
+
+## MGK02 g0 s0195
+JP: でも、イイんですか?{n}他のみんなが聞いたら、怒りますよ。{n}エコヒイキだって。{p}{end}
+EN: But is it really OK? Everyone else will get mad if they hear. They'll call it favoritism.{p}{end}
+
+## MGK02 g0 s0196
+JP: そ、それはそうなんだが……。{n}どうしても、渡しておきたくてだね……。{n}その……。{p}{end}
+EN: W-well, that is true, but... I simply had to give it to you... You see...{p}{end}
+
+## MGK02 g0 s0197
+JP: フフフ……、わかりました。{n}みんなには黙っておきますから、{n}安心してください。{p}
+EN: Heh heh... All right. I won't tell anyone, so don't worry.{p}
+
+## MGK02 g0 s0198
+JP: そ、そうか!{sp}すまんね。{n}じゃあ、私はこれで……。{p}
+EN: R-really! Thank you. Well, I will be going, then...{p}
+
+## MGK02 g0 s0199
+JP: 英雄先生、何をくれたんだろう?{n}チョコレートだったりして!{n}……まさかね。{p}
+EN: What did Hideo-sensei give me? Maybe it's chocolate! ...Nah, no way.{p}
+
+## MGK02 g0 s0200
+JP: ちょっと、開けて見てみようかな。{p}{end}
+EN: Guess I'll open it and take a look.{p}{end}
+
+## MGK02 g0 s0201
+JP: ……………………。{n}ホントに、チョコレートだ……。{p}
+EN: ...... It really is chocolate...{p}
+
+## MGK02 g0 s0202
+JP: な、なんか、{n}英雄先生の照れ具合といい……、{n}教師と生徒の関係以上のものを{n}このチョコレートから感じる……。{p}{end}
+EN: S-somehow... between that and how bashful Hideo-sensei was... I sense something beyond teacher and student in this chocolate...{p}{end}
+
+## MGK02 g0 s0204
+JP: 響子先生いますか～っ?{p}
+EN: Kyoko-senseiii, are you here~?{p}
+
+## MGK02 g0 s0205
+JP: あ、あら!?{n}{v1}{col:0}クン{col:-}……。{n}どうかしたの……。{p}
+EN: O-oh, my!? {v1}{col:0}-kun{col:-}... What's the matter...?{p}
+
+## MGK02 g0 s0206
+JP: えへへ……。{n}響子先生に会いに行ったら、{n}チョコレートくれるって{n}聞いたんですけど……。{p}{end}
+EN: Hehe... I heard that if I came to see you, Kyoko-sensei, you'd give me chocolate...{p}{end}
+
+## MGK02 g0 s0207
+JP: ち、ちょっと待っててね。{p}{end}
+EN: J-just wait a moment.{p}{end}
+
+## MGK02 g0 s0208
+JP: ハイ、これ……。{p}{end}
+EN: Here, this...{p}{end}
+
+## MGK02 g0 s0209
+JP: あれ?{n}みんなが持ってたチョコより、{n}ずいぶん大きいですね……。{p}{end}
+EN: Huh? It's a lot bigger than the ones everyone else had...{p}{end}
+
+## MGK02 g0 s0210
+JP: そ、そんなことないわよ……。{n}気のせいよ、気のせい……。{p}{end}
+EN: N-no, it's not... It's your imagination, just your imagination...{p}{end}
+
+## MGK02 g0 s0211
+JP: さぁ、もってって……。{n}でも、みんなには{n}見つからないようにね!{p}{end}
+EN: Go on, take it... But don't let the others see!{p}{end}
+
+## MGK02 g0 s0212
+JP: （やっぱり、{n}{sp}俺のは特別って感じだよな……）{p}
+EN: (Mine's definitely special, huh...){p}
+
+## MGK02 g0 s0213
+JP: （えへへ……。{n}{sp}ちょっと、うれしいな……）{p}{end}
+EN: (Hehe... That makes me kinda happy...){p}{end}
+
+## MGK02 g0 s0214
+JP: こんにちは～っ!{n}響子先生遊びに来ました～っ!{p}
+EN: Hellooo! Kyoko-sensei, I came to hang out~!{p}
+
+## MGK02 g0 s0215
+JP: あら、あなたもなの?{n}{v1}{col:0}クン{col:-}……。{n}しょうがないわね……。{p}
+EN: Oh, you too? {v1}{col:0}-kun{col:-}... Oh, all right...{p}
+
+## MGK02 g0 s0216
+JP: ハイ、ひとつ持っていきなさい。{p}
+EN: Here, take one.{p}
+
+## MGK02 g0 s0217
+JP: わぁ、チョコレート!{n}俺にくれるんですか?{p}
+EN: Wow, chocolate! It's for me?{p}
+
+## MGK02 g0 s0218
+JP: フフフ……。{n}今日の保健室は、義理チョコの{n}大盤振る舞いね。{p}{end}
+EN: Hee hee... The infirmary's handing out obligation chocolate by the armful today.{p}{end}
+
+## MGK02 g0 s0219
+JP: 朝から、あなたみたいな子が{n}チョコレートをもらいに、{n}ひっきりなしに来てるのよ……。{p}{end}
+EN: Ever since this morning, kids like you have been coming nonstop to get chocolate...{p}{end}
+
+## MGK02 g0 s0220
+JP: ケガして来られるよりは、{n}この方がイイんだけどね……。{n}フフフ……。{p}{end}
+EN: Still, it beats them coming in hurt... Hee hee...{p}{end}
+
+## MGK02 g0 s0221
+JP: （せっかく、{n}{sp}響子先生に会いに来たのに、{n}{sp}義理チョコしかもらえなかったよ……。{n}{sp}トホホ……）{p}
+EN: (I came all this way to see Kyoko-sensei, and all I got was obligation chocolate... Sigh...){p}
+
+## MGK02 g0 s0222
+JP: あ!{sp}雹さん、こんにちは!{n}何か考え事ですか?{p}
+EN: Ah! Hyo-san, hello! Are you thinking about something?{p}
+
+## MGK02 g0 s0223
+JP: …………………………。{p}
+EN: ......{p}
+
+## MGK02 g0 s0224
+JP: ん!?{sp}{v0}か!{p}
+EN: Hm!? {v0}!{p}
+
+## MGK02 g0 s0225
+JP: ちょうどいい……、{n}今すぐ自分の下駄箱にいってみろ!{p}{end}
+EN: Good timing... Go to your shoe locker this instant!{p}{end}
+
+## MGK02 g0 s0226
+JP: どうしてですか?{p}{end}
+EN: Why?{p}{end}
+
+## MGK02 g0 s0227
+JP: 私が落ち着かないからだ!{n}これ以上いわせるなッ!{p}{end}
+EN: Because I cannot settle down until you do! Do not make me say any more!{p}{end}
+
+## MGK02 g0 s0228
+JP: ハ、ハイッ!!{p}
+EN: Y-yes, sir!!{p}
+
+## MGK02 g0 s0229
+JP: いやぁ……、{n}おっかなかったなぁ……、雹さん。{p}
+EN: Whew... That was scary... Hyo-san, I mean.{p}
+
+## MGK02 g0 s0230
+JP: でも、俺の下駄箱に、{n}何があるっていうんだ?{p}{end}
+EN: But what could be in my shoe locker?{p}{end}
+
+## MGK02 g0 s0231
+JP: （ガサゴソ……）{p}{end}
+EN: (Rustle rustle...){p}{end}
+
+## MGK02 g0 s0232
+JP: チョコレートだ!{n}誰からだろう……。{p}{end}
+EN: Chocolate! Who's it from...?{p}{end}
+
+## MGK02 g0 s0233
+JP: ………………雹さんからだ。{p}
+EN: ...... It's from Hyo-san.{p}
+
+## MGK02 g0 s0234
+JP: う、うーん……、{n}ふ、複雑な気分だな……。{p}
+EN: Uh, umm... I've got m-mixed feelings about this...{p}
+
+## MGK02 g0 s0235
+JP: こっそり、{n}持って帰ることにしよう……。{p}{end}
+EN: I'll take it home without anyone seeing...{p}{end}
+
+## MGK02 g0 s0236
+JP: おっと……、{n}ここから先は、ただでは通さねぇぜ!{p}{end}
+EN: Hold it... Nobody gets past here for free!{p}{end}
+
+## MGK02 g0 s0237
+JP: は、隼人先生……。{n}どうしたんですか?{p}
+EN: H-Hayato-sensei... What's going on?{p}
+
+## MGK02 g0 s0238
+JP: フッ……。{n}この俺に待ち伏せまでさせるたぁ……、{n}まったく、たいしたヤツだぜ!{n}オマエは……。{p}
+EN: Heh... Makin' me lie in wait for ya... You're really somethin', you are!{p}
+
+## MGK02 g0 s0239
+JP: さぁ!{sp}答えろ!{n}オマエには、俺の『熱き魂の結晶』を{n}受け取る勇気があるか?{p}{end}
+EN: Now! Answer me! Have ya got the guts to accept the "Crystal of My Burning Soul"?{p}{end}
+
+## MGK02 g0 s0240
+JP: なんだか、よくわからないけど、{n}もらえるものは、もらっときますよ……。{n}ありがとうございます。{p}
+EN: I don't really get it, but I'll take whatever I'm given... Thank you.{p}
+
+## MGK02 g0 s0241
+JP: あっさり受け取りやがった……。{n}その度量の大きさ……、{n}ますます気に入ったぜ……。{p}
+EN: Took it, just like that... What a big heart... I like ya more and more...{p}
+
+## MGK02 g0 s0242
+JP: しっかり食って、{n}もっと強くなるんだぜ!{n}あばよッ!{p}{end}
+EN: Eat up and get stronger! Later!{p}{end}
+
+## MGK02 g0 s0243
+JP: 隼人先生、何をくれたんだろう……。{n}今日は、バレンタインデーだし、{n}やっぱり、チョコなのかな……。{p}
+EN: What did Hayato-sensei give me...? It's Valentine's Day, so... maybe it really is chocolate...{p}
+
+## MGK02 g0 s0245
+JP: あ……、{n}ホワイトチョコで{n}文字が書いてあるぞ……。{p}{end}
+EN: Ah... There's writing on it in white chocolate...{p}{end}
+
+## MGK02 g0 s0246
+JP: 「熱血!{n}{sp}それは、俺とオマエとの絆……」{n}{sp}……だって。{p}
+EN: "Burning spirit! It's the bond between you and me..." ...it says.{p}
+
+## MGK02 g0 s0247
+JP: きょ、教師と生徒の関係以上のものが、{n}このチョコレートには、{n}込められているような気がするぞ……。{p}
+EN: I-I get the feeling there's something beyond teacher and student packed into this chocolate...{p}
+
+## MGK02 g0 s0249
+JP: 醍醐先輩、来ましたけど……。{p}{end}
+EN: Daigo-senpai, I'm here...{p}{end}
+
+## MGK02 g0 s0250
+JP: スマンな。{n}こんなところに呼び出して……。{p}
+EN: Sorry. Calling you out here like this...{p}
+
+## MGK02 g0 s0251
+JP: これを{v4:17}に{n}やろうと思ってな。{p}{end}
+EN: Figured I'd give this to you, {v4:17}.{p}{end}
+
+## MGK02 g0 s0252
+JP: あ、ありがとうございます!{n}醍醐先輩からのプレゼントなんて、{n}俺、すごくうれしいです!{p}
+EN: Th-thank you very much! A present from Daigo-senpai... I'm so happy!{p}
+
+## MGK02 g0 s0253
+JP: ハハハ……、そうか?{n}まぁ、差し入れみたいなものと{n}思ってくれ。{p}{end}
+EN: Hahaha... That so? Well, think of it as a little care package.{p}{end}
+
+## MGK02 g0 s0254
+JP: お前には期待しているからな。{n}じゃあな……。{p}{end}
+EN: I've got high hopes for you. Later...{p}{end}
+
+## MGK02 g0 s0255
+JP: えへへ……。{n}醍醐先輩からプレゼントを{n}もらえるなんて、ツイてるよな!{p}
+EN: Hehe... A present from Daigo-senpai! I'm so lucky!{p}
+
+## MGK02 g0 s0256
+JP: 何が入っているんだろう……。{p}{end}
+EN: I wonder what's inside...{p}{end}
+
+## MGK02 g0 s0257
+JP: ……チョ、チョコレート。{p}{end}
+EN: ...Ch-chocolate.{p}{end}
+
+## MGK02 g0 s0258
+JP: う、うーん……。{n}醍醐先輩は、差し入れみたいなものって{n}いってたけど……{p}{end}
+EN: Uh, umm... Daigo-senpai said it was like a care package, but...{p}{end}
+
+## MGK02 g0 s0259
+JP: バレンタインデーに男の人から{n}チョコレートをもらうと、{n}ちょっと、複雑な気分だな……。{p}
+EN: Getting chocolate from a guy on Valentine's Day gives me kinda mixed feelings...{p}
+
+## MGK02 g0 s0260
+JP: あれぇ!?{n}流さんが呼んでるっていうから来たのに、{n}いないぞ……。{p}
+EN: Huh!? I heard Nagare-san was asking for me, but he's not here...{p}
+
+## MGK02 g0 s0261
+JP: （ザッパァァァンッ!!）{p}{end}
+EN: (SPLAAASH!!){p}{end}
+
+## MGK02 g0 s0262
+JP: うわぁ!{n}流さん、泳いでたんですね……。{p}{end}
+EN: Whoa! Nagare-san, you were swimming...{p}{end}
+
+## MGK02 g0 s0263
+JP: …………食え……。{p}
+EN: ......Eat......{p}
+
+## MGK02 g0 s0264
+JP: へ!?{n}あ、あぁ……、チョコレートですか。{n}今日はバレンタインデーですもんね。{p}
+EN: Huh!? Oh, uh... chocolate? Right, it's Valentine's Day.{p}
+
+## MGK02 g0 s0265
+JP: ありがとうございます。{n}こういう日に、後輩に差し入れなんて、{n}流さんも粋ですね。{p}{end}
+EN: Thanks. Treating your juniors on a day like this... That's classy of you, Nagare-san.{p}{end}
+
+## MGK02 g0 s0268
+JP: ち、ちょっと、流さん!{p}
+EN: H-hey, wait, Nagare-san!{p}
+
+## MGK02 g0 s0269
+JP: な、なにか、違う意味が{n}このチョコレートには、{n}込められているような気がする……。{p}
+EN: I-I get the feeling there's some other meaning packed into this chocolate...{p}
+
+## MGK02 g0 s0271
+JP: でも、どこに{n}チョコレートをしまってたんだろう……。{p}{end}
+EN: But where was he keeping the chocolate...?{p}{end}
+
+## MGK02 g0 s0272
+JP: やっぱり、帽子の中かなぁ……。{p}
+EN: In his swim cap, I bet...{p}
+
+## MGK02 g0 s0273
+JP: ハァイ!{sp}{v4:19}!{p}{end}
+EN: Hiii! {v4:19}!{p}{end}
+
+## MGK02 g0 s0274
+JP: あっ、間違えた。{n}俺は向こうに行こうとしてたんだった……。{n}じゃあな、ラン。{p}{end}
+EN: Oops, my mistake. I was heading the other way... See ya, Ran.{p}{end}
+
+## MGK02 g0 s0275
+JP: コラコラ!{sp}待ちなさいよ!{p}
+EN: Hey, hey! Hold it right there!{p}
+
+## MGK02 g0 s0276
+JP: えへへ……。{n}今日はバレンタインデーだから、{n}男性諸君に感想を聞いて回ってるのよ。{p}
+EN: Hehe... It's Valentine's Day, so I'm going around asking the boys how it's going.{p}
+
+## MGK02 g0 s0277
+JP: 「人生の明暗を分かつ、{n}{sp}バレンタインデー!{n}{sp}男子生徒の泣き笑い!」{n}{sp}……って、企画を組もうと思ってね!{p}{end}
+EN: "Valentine's Day, the day that splits lives into light and dark! The tears and laughter of the boys!" ...That's the feature I'm planning!{p}{end}
+
+## MGK02 g0 s0278
+JP: （やっぱり、{n}{sp}そんなことだろうと思ったよ……。{n}{sp}血も涙もない企画だな……）{p}
+EN: (Yep, I figured it'd be something like that... What a heartless feature...){p}
+
+## MGK02 g0 s0279
+JP: （ランが、ああいう顔してるときは、{n}{sp}ロクなことがないからな……）{p}
+EN: (When Ran makes that face, nothing good ever comes of it...){p}
+
+## MGK02 g0 s0280
+JP: で、{v4:19}は、{n}もらえたの?{p}
+EN: So, {v4:19}, did you get any?{p}
+
+## MGK02 g0 s0281
+JP: あ、あぁ!{sp}もちろんさ!{n}たくさんもらい過ぎて、持ち切れないから、{n}タクシーで帰ろうと思ってるくらいだよ!{p}
+EN: Y-yeah! Of course! I got so many I can't carry them all, I'm thinking of taking a cab home!{p}
+
+## MGK02 g0 s0282
+JP: ふーん、そう……。{n}じゃあ、これはいらないわよね……。{p}
+EN: Hmm, is that so... Then you won't be needing this...{p}
+
+## MGK02 g0 s0283
+JP: 1つももらえなくて、{n}かわいそうかなぁって思って、{n}用意しといたんだけど……。{p}
+EN: I thought you might not get a single one and felt sorry for you, so I made one, but...{p}
+
+## MGK02 g0 s0284
+JP: 俺が悪かったです!{n}有り難く頂戴します!{p}{end}
+EN: I was wrong! I humbly accept!{p}{end}
+
+## MGK02 g0 s0285
+JP: フフフ……。{n}お願いされちゃ、仕方ないわよね……。{n}ハイ、どうぞ!{p}
+EN: Hee hee... Well, if you're begging, I guess I've got no choice... Here you go!{p}
+
+## MGK02 g0 s0286
+JP: で、感想は?{p}{end}
+EN: So, how do you feel?{p}{end}
+
+## MGK02 g0 s0287
+JP: と、とっても幸せです……。{n}ハ、ハハハ……。{p}{end}
+EN: S-so very happy... Ha, hahaha...{p}{end}
+
+## MGK02 g0 s0288
+JP: 素直でよろしい!{n}あはは……!{p}
+EN: Good, honest answer! Ahaha...!{p}
+
+## MGK02 g0 s0289
+JP: じゃあな、ラン!{n}サンキューな!{p}{end}
+EN: See ya, Ran! Thanks!{p}{end}
+
+## MGK02 g0 s0290
+JP: あっ!{sp}{v4:19}!{p}
+EN: Oh! {v4:19}!{p}
+
+## MGK02 g0 s0291
+JP: そ、それ義理だけど……手作りだし……、{n}義理だけど、義理は反対の意味なんだから、{n}ちゃんと……食べてよ……。{p}{end}
+EN: I-it's obligation, but... it's homemade... It's obligation, but obligation means the opposite, so... make sure you... eat it...{p}{end}
+
+## MGK02 g0 s0292
+JP: え!?{n}あぁ、もちろんだよ!{p}{end}
+EN: Huh!? Oh, of course I will!{p}{end}
+
+## MGK02 g0 s0293
+JP: （義理は反対の意味……?{n}{sp}義理の反対って……、なんだ?）{p}
+EN: (Obligation means the opposite...? What's the opposite of obligation?){p}
+
+## MGK02 g0 s0294
+JP: あら、{v4:19}!{n}探す手間が、はぶけちゃったわ。{p}{end}
+EN: Oh, {v4:19}! You saved me the trouble of looking for you.{p}{end}
+
+## MGK02 g0 s0295
+JP: ハイ、お義理!{n}有り難く頂戴しなさいよ!{p}{end}
+EN: Here, obligation chocolate! Accept it gratefully!{p}{end}
+
+## MGK02 g0 s0296
+JP: あぁ、チョコレートか……。{n}バレンタインデーだもんな。{p}
+EN: Oh, chocolate... It's Valentine's Day, huh.{p}
+
+## MGK02 g0 s0297
+JP: 何よ!{sp}もうちょっと、{n}嬉しそうな顔できないの?{p}{end}
+EN: What!? Can't you look a little happier than that?{p}{end}
+
+## MGK02 g0 s0298
+JP: まぁ、いいわ!{n}ちゃんと、10倍にして返してよ!{n}逃げても、取り立てに行くからね!{p}
+EN: Well, whatever! Just pay me back tenfold! Even if you run, I'll come collect!{p}
+
+## MGK02 g0 s0299
+JP: じゃあね～っ!{p}
+EN: Bye~!{p}
+
+## MGK02 g0 s0300
+JP: お、おい!{sp}ラン!{n}あ～ぁ、言うだけいって{n}行っちゃった。{p}
+EN: H-hey! Ran! Aw, she said her piece and took off.{p}
+
+## MGK02 g0 s0301
+JP: 高くつきそうな義理チョコだな……。{n}トホホ……。{p}{end}
+EN: That's gonna be some pricey obligation chocolate... Sigh...{p}{end}
+
+## MGK02 g0 s0302
+JP: もらえたチョコは全部で1個か。{p}
+EN: So I got 1 chocolate in total.{p}
+
+## MGK02 g0 s0303
+JP: もらえたチョコは全部で2個か。{p}
+EN: So I got 2 chocolates in total.{p}
+
+## MGK02 g0 s0304
+JP: もらえたチョコは全部で3個か。{p}
+EN: So I got 3 chocolates in total.{p}
+
+## MGK02 g0 s0305
+JP: もらえたチョコは全部で4個か。{p}
+EN: So I got 4 chocolates in total.{p}
+
+## MGK02 g0 s0306
+JP: もらえたチョコは全部で5個か。{p}
+EN: So I got 5 chocolates in total.{p}
+
+## MGK02 g0 s0307
+JP: もらえたチョコは全部で6個か。{p}
+EN: So I got 6 chocolates in total.{p}
+
+## MGK02 g0 s0308
+JP: もらえたチョコは全部で7個か。{p}
+EN: So I got 7 chocolates in total.{p}
+
+## MGK02 g0 s0309
+JP: もらえたチョコは全部で8個か。{p}
+EN: So I got 8 chocolates in total.{p}
+
+## MGK02 g0 s0310
+JP: もらえたチョコは全部で9個か。{p}
+EN: So I got 9 chocolates in total.{p}
+
+## MGK02 g0 s0311
+JP: もらえたチョコは全部で10個か。{p}{end}
+EN: So I got 10 chocolates in total.{p}{end}
+
+## MGK02 g0 s0312
+JP: もらえたチョコは全部で11個か。{p}{end}
+EN: So I got 11 chocolates in total.{p}{end}
+
+## MGK02 g0 s0313
+JP: もらえたチョコは全部で12個か。{p}{end}
+EN: So I got 12 chocolates in total.{p}{end}
+
+## MGK02 g0 s0314
+JP: もらえたチョコは全部で13個か。{p}{end}
+EN: So I got 13 chocolates in total.{p}{end}
+
+## MGK02 g0 s0315
+JP: もらえたチョコは全部で14個か。{p}{end}
+EN: So I got 14 chocolates in total.{p}{end}
+
+## MGK02 g0 s0316
+JP: もらえたチョコは全部で15個か。{p}{end}
+EN: So I got 15 chocolates in total.{p}{end}
+
+## MGK02 g0 s0317
+JP: もらえたチョコは全部で16個か。{p}{end}
+EN: So I got 16 chocolates in total.{p}{end}
+
+## MGK02 g0 s0318
+JP: もらえたチョコは全部で17個か。{p}{end}
+EN: So I got 17 chocolates in total.{p}{end}
+
+## MGK02 g0 s0319
+JP: もらえたチョコは全部で18個か。{p}{end}
+EN: So I got 18 chocolates in total.{p}{end}
+
+## MGK02 g0 s0320
+JP: もらえたチョコは全部で19個か。{p}{end}
+EN: So I got 19 chocolates in total.{p}{end}
+
+## MGK02 g0 s0321
+JP: やっぱり、バツからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Batsu really made me happy.{p}
+
+## MGK02 g0 s0322
+JP: やっぱり、ひなたからもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Hinata really made me happy.{p}{end}
+
+## MGK02 g0 s0323
+JP: やっぱり、恭介からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Kyosuke really made me happy.{p}
+
+## MGK02 g0 s0324
+JP: やっぱり、将馬からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Shoma really made me happy.{p}
+
+## MGK02 g0 s0325
+JP: やっぱり、夏からもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Natsu really made me happy.{p}{end}
+
+## MGK02 g0 s0326
+JP: やっぱり、ロベルトからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Roberto really made me happy.{p}
+
+## MGK02 g0 s0327
+JP: やっぱり、ロイからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Roy really made me happy.{p}
+
+## MGK02 g0 s0328
+JP: やっぱり、ティファニーからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Tiffany really made me happy.{p}
+
+## MGK02 g0 s0329
+JP: やっぱり、ボーマンからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Boman really made me happy.{p}
+
+## MGK02 g0 s0330
+JP: やっぱり、エッジからもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Edge really made me happy.{p}{end}
+
+## MGK02 g0 s0331
+JP: やっぱり、アキラからもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Akira really made me happy.{p}{end}
+
+## MGK02 g0 s0332
+JP: やっぱり、岩からもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Gan really made me happy.{p}{end}
+
+## MGK02 g0 s0333
+JP: やっぱり、英雄先生からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Hideo-sensei really made me happy.{p}
+
+## MGK02 g0 s0334
+JP: やっぱり、響子先生からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Kyoko-sensei really made me happy.{p}
+
+## MGK02 g0 s0335
+JP: やっぱり、雹さんからもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Hyo-san really made me happy.{p}{end}
+
+## MGK02 g0 s0336
+JP: やっぱり、隼人先生からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Hayato-sensei really made me happy.{p}
+
+## MGK02 g0 s0337
+JP: やっぱり、醍醐先輩からもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Daigo-senpai really made me happy.{p}
+
+## MGK02 g0 s0338
+JP: やっぱり、流さんからもらえたのは{n}うれしかったなぁ。{p}{end}
+EN: Still, getting one from Nagare-san really made me happy.{p}{end}
+
+## MGK02 g0 s0339
+JP: やっぱり、ランからもらえたのは{n}うれしかったなぁ。{p}
+EN: Still, getting one from Ran really made me happy.{p}
+
+## MGK02 g0 s0340
+JP: 今日は、{n}気持ち良く寝れそうだよ……。{p}
+EN: I think I'll sleep well tonight...{p}
+
+## MGK02 g0 s0341
+JP: さて、帰るとするかな……。{p}
+EN: Well, guess I'll head home...{p}
+
+## MGK02 g0 s0342
+JP: もらえたチョコは1個だけか。{p}{end}
+EN: Just 1 chocolate, huh.{p}{end}
+
+## MGK02 g0 s0348
+JP: まあ、もらえないよりは、{n}マシだったな……。{p}{end}
+EN: Well, it beats getting none...{p}{end}
+
+## MGK02 g0 s0351
+JP: 結局、誰からもチョコレートを{n}もらえなかったよ……。{p}{end}
+EN: In the end, I didn't get chocolate from anyone...{p}{end}
+
+## MGK02 g0 s0352
+JP: 帰ろ……。{p}
+EN: Guess I'll go home...{p}
+
+## MGK02 g1 s0000
+JP: ついに、この日がやってきたわね……。{n}決戦の日!{n}そう!{sp}バレンタインデーがね!!{p}
+EN: At last, the day has come... The day of battle! That's right! Valentine's Day!!{p}
+
+## MGK02 g1 s0001
+JP: バーゲンと同じくらい{n}大事なイベントですものね。{n}当然、私も……{p}{end}
+EN: It's every bit as important as a big sale, after all. So naturally, I'm...{p}{end}
+
+## MGK02 g1 s0002
+JP: 渡すわよ!{n}渡さない……{p}{end}
+EN: Giving chocolate!{n}Not giving any...{p}{end}
+
+## MGK02 g1 s0003
+JP: もちろん、{n}本命のこの人にね!{p}
+EN: Giving it to that special someone, of course!{p}
+
+## MGK02 g1 s0007
+JP: チョコは、どんなのがイイかしらねぇ……。{n}あの人の好みは、たしか……{p}{end}
+EN: What kind of chocolate should I get...? If I remember right, that person likes...{p}{end}
+
+## MGK02 g1 s0008
+JP: 甘いミルクチョコよね!{n}渋いビターチョコよね!{n}歯ごたえのナッツチョコよね!{p}{end}
+EN: Sweet milk chocolate!{n}Rich dark chocolate!{n}Crunchy nut chocolate!{p}{end}
+
+## MGK02 g1 s0009
+JP: これで準備OK!{n}バッチリ決めるわよ!{p}
+EN: All set! Time to nail this!{p}
+
+## MGK02 g1 s0010
+JP: フッ…………。{n}そういえば、私には渡すべき人なんて{n}いなかったわよね……。{p}
+EN: Heh.......... Come to think of it, I don't have anyone to give chocolate to...{p}
+
+## MGK02 g1 s0011
+JP: 色恋沙汰とは無縁の、{n}寂しい女なのよ、私は。{n}……フフ。{p}{end}
+EN: I'm just a lonely woman with no love life to speak of. ...Heh heh.{p}{end}
+
+## MGK02 g1 s0012
+JP: バツ、ちょっとイイかな……?{p}{end}
+EN: Batsu, got a sec...?{p}{end}
+
+## MGK02 g1 s0013
+JP: な、なんだよ……。{p}
+EN: Wh-what is it...?{p}
+
+## MGK02 g1 s0014
+JP: あ、あのね…………。{p}{end}
+EN: U-um..........{p}{end}
+
+## MGK02 g1 s0016
+JP: 英語の辞書持ってない?{p}
+EN: Do you have an English dictionary?{p}
+
+## MGK02 g1 s0017
+JP: ハ、ハハ……。{n}バレンタインデーに、もったいぶった{n}話し方すんなよ……。{n}き、期待しちまったじゃねぇかよ!!{p}{end}
+EN: Ha, haha... Don't talk all mysterious like that on Valentine's Day... Y-ya got my hopes up!!{p}{end}
+
+## MGK02 g1 s0018
+JP: そ、それはそれで、{n}ちゃんと用意してあるよ……。{p}{end}
+EN: W-well, I did get that ready for you too...{p}{end}
+
+## MGK02 g1 s0019
+JP: ハイ、ナッツチョコ……。{n}今日、バレンタインデーだから、{n}バツにと思って、持ってきたんだ……。{p}
+EN: Here, nut chocolate... It's Valentine's Day, so I brought this for you, Batsu...{p}
+
+## MGK02 g1 s0020
+JP: ホ、ホントかよ!{n}わ、わりぃな……、{n}催促しちまったみたいで。{p}
+EN: S-seriously!? S-sorry... Feels like I went and begged for it.{p}
+
+## MGK02 g1 s0021
+JP: ちゃんと、オレの好きなチョコを{n}選んでくれてるんだな……。{n}ちょっと感激しちまったぜ……。{n}サ、サンキューな……。{p}
+EN: You even picked the kind I like... Man, I'm kinda touched... Th-thanks...{p}
+
+## MGK02 g1 s0022
+JP: そ、そうだ!{n}英語の辞書がいるんだったよな!{p}{end}
+EN: Oh, r-right! You needed an English dictionary!{p}{end}
+
+## MGK02 g1 s0023
+JP: 待ってろ!{n}恭介からブンどってでも、{n}持ってきてやるからな!{p}{end}
+EN: Wait here! I'll get you one, even if I gotta yank it outta Kyosuke's hands!{p}{end}
+
+## MGK02 g1 s0024
+JP: フフフ……、よかった。{n}バツがよろこんでくれて……。{n}もってきた甲斐があったな……。{p}{end}
+EN: Heh heh... I'm so glad Batsu liked it... It was worth bringing...{p}{end}
+
+## MGK02 g1 s0032
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}バツにと思って、持ってきたんだ……。{p}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Batsu...{p}
+
+## MGK02 g1 s0034
+JP: サ、サンキューな……。{p}
+EN: Th-thanks...{p}
+
+## MGK02 g1 s0038
+JP: ねぇねぇ、{v8:1}!{n}チョコレート、誰かにあげたの?{p}{end}
+EN: Hey, hey, {v8:1}! Have you given chocolate to anyone yet?{p}{end}
+
+## MGK02 g1 s0039
+JP: う、ううん……、{n}こ、これからあげるとこ……。{p}
+EN: N-no... I-I'm just about to...{p}
+
+## MGK02 g1 s0040
+JP: ハイ、ミルクチョコ……。{n}今日、バレンタインデーだから、{n}ひなたにと思って、持ってきたんだ。{p}{end}
+EN: Here, milk chocolate... It's Valentine's Day, so I brought this for you, Hinata.{p}{end}
+
+## MGK02 g1 s0041
+JP: あはは……!{n}私にあげてどうするのよ!{p}
+EN: Ahaha...! What're you giving it to me for!{p}
+
+## MGK02 g1 s0042
+JP: や、やっぱり、変かな……。{n}あはは……。{p}{end}
+EN: I-it's weird after all, huh... Ahaha...{p}{end}
+
+## MGK02 g1 s0043
+JP: でも、もらっちゃおうかな……。{n}そのチョコ、私大好きだし!{p}
+EN: But maybe I'll take it anyway... I love this kind!{p}
+
+## MGK02 g1 s0044
+JP: そうだ!{n}お昼休みに、一緒に食べようよ!{p}{end}
+EN: Oh, I know! Let's eat it together at lunch!{p}{end}
+
+## MGK02 g1 s0045
+JP: （フフフ……。{n}{sp}よかった、受け取ってもらえて……）{p}{end}
+EN: (Heh heh... I'm glad she took it...){p}{end}
+
+## MGK02 g1 s0048
+JP: ハイ、これ……。{n}今日、バレンタインデーだから、{n}ひなたにと思って、持ってきたんだ。{p}{end}
+EN: Here, this... It's Valentine's Day, so I brought this for you, Hinata.{p}{end}
+
+## MGK02 g1 s0051
+JP: でも、もらっちゃおうかな……。{n}せっかくだし!{p}
+EN: But maybe I'll take it anyway... Since you brought it!{p}
+
+## MGK02 g1 s0054
+JP: ねぇ、恭介……。{n}ちょっと、イイかな……?{p}
+EN: Hey, Kyosuke... Got a sec...?{p}
+
+## MGK02 g1 s0055
+JP: ん……?{n}何だい?{p}
+EN: Hm...? What is it?{p}
+
+## MGK02 g1 s0056
+JP: え、えっとね……。{n}渡したいものがあるんだけど……。{p}{end}
+EN: W-well... There's something I want to give you...{p}{end}
+
+## MGK02 g1 s0057
+JP: ハイ、ビターチョコ……。{n}今日、バレンタインデーだから、{n}恭介にと思って、持ってきたんだ……。{p}
+EN: Here, dark chocolate... It's Valentine's Day, so I brought this for you, Kyosuke...{p}
+
+## MGK02 g1 s0058
+JP: {v7:2}……。{n}キミも、チョコを{n}学校に持ってきているのか?{p}{end}
+EN: {v7:2}... You brought chocolate to school too?{p}{end}
+
+## MGK02 g1 s0059
+JP: 本来なら、{n}学業に関係ないものは、没収!{n}……と、いいたいところだけど……{p}
+EN: Normally, anything unrelated to schoolwork gets confiscated! ...Is what I'd like to say, but...{p}
+
+## MGK02 g1 s0060
+JP: そうなると、このチョコも{n}没収して職員室に持って行かなければ{n}ならなくなるからね。{p}
+EN: Then I'd have to confiscate this chocolate too and take it to the staff room.{p}
+
+## MGK02 g1 s0061
+JP: 今日は、目をつむることにするよ。{p}{end}
+EN: So today, I'll look the other way.{p}{end}
+
+## MGK02 g1 s0062
+JP: 僕の趣味にピッタリのチョコだよ。{n}ありがとう……。{p}
+EN: It's exactly my kind of chocolate. Thank you...{p}
+
+## MGK02 g1 s0063
+JP: （フフフ……、よかった。{n}{sp}恭介に受け取ってもらえて……。{n}{sp}勇気を出した甲斐があったな……）{p}
+EN: (Heh heh... I'm glad Kyosuke took it... Working up my courage paid off...){p}
+
+## MGK02 g1 s0067
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}恭介にと思って、持ってきたんだ……。{p}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Kyosuke...{p}
+
+## MGK02 g1 s0072
+JP: ありがとう……。{p}{end}
+EN: Thank you...{p}{end}
+
+## MGK02 g1 s0074
+JP: ねぇ、将馬……、{n}ちょっと、いいかな……?{p}
+EN: Hey, Shoma... Got a sec...?{p}
+
+## MGK02 g1 s0075
+JP: なんだよ、{v3:3}!{p}{end}
+EN: What is it, {v3:3}!{p}{end}
+
+## MGK02 g1 s0076
+JP: まさか……、{n}オマエも、オイラから{n}ロベルトにチョコを渡してくれって、{n}頼みに来たんじゃねぇだろうな!{p}
+EN: Don't tell me... you came to ask me to pass your chocolate to Roberto too!{p}
+
+## MGK02 g1 s0078
+JP: な、なんだよ……、{n}違うのかよ……。{p}{end}
+EN: Wh-what... That ain't it?{p}{end}
+
+## MGK02 g1 s0079
+JP: ミルクチョコ……。{n}今日、バレンタインデーだから、{n}将馬にと思って、持ってきたんだけど……。{p}{end}
+EN: Milk chocolate... It's Valentine's Day, so I brought this for you, Shoma...{p}{end}
+
+## MGK02 g1 s0080
+JP: オ、オオオオ、オイラにかよッ!!{n}ホ、ホ、ホントかッ!!{p}{end}
+EN: F-f-f-for ME!? S-s-seriously!?{p}{end}
+
+## MGK02 g1 s0081
+JP: …………うん。{p}
+EN: ..........Yeah.{p}
+
+## MGK02 g1 s0082
+JP: サ、サンキューなッ!!{n}このチョコ、オイラ大好きだよ!{p}
+EN: Th-thanks!! I love this kind!{p}
+
+## MGK02 g1 s0083
+JP: な、なぁ!{sp}練習を見ていってくれよ!{n}いいとこ見せるからさッ!{n}えへへ……。{p}{end}
+EN: H-hey! Stick around and watch practice! I'll show ya somethin' good! Hehe...{p}{end}
+
+## MGK02 g1 s0084
+JP: （フフフ……。{n}{sp}将馬もよろこんでくれたみたいだし、{n}{sp}あげてよかったな……）{p}
+EN: (Heh heh... Shoma looked happy too. I'm glad I gave it to him...){p}
+
+## MGK02 g1 s0090
+JP: このチョコレート……、{n}今日、バレンタインデーだから、{n}将馬にと思って、持ってきたんだけど……。{p}{end}
+EN: This chocolate... It's Valentine's Day, so I brought it for you, Shoma...{p}{end}
+
+## MGK02 g1 s0093
+JP: サ、サンキューなッ!!{p}
+EN: Th-thanks!!{p}
+
+## MGK02 g1 s0096
+JP: えへへ……。{n}ねぇ、夏……、{n}ちょっと、いいかな……?{p}
+EN: Hehe... Hey, Natsu... Got a sec...?{p}
+
+## MGK02 g1 s0097
+JP: フフフ……、なに?{n}ニヤニヤしちゃってさ。{p}
+EN: Heh heh, what? You're grinning ear to ear.{p}
+
+## MGK02 g1 s0098
+JP: ハイ、ナッツチョコ……。{n}今日、バレンタインデーだから、{n}夏にと思って、持ってきたんだ。{p}{end}
+EN: Here, nut chocolate... It's Valentine's Day, so I brought this for you, Natsu.{p}{end}
+
+## MGK02 g1 s0099
+JP: ハァ……、アンタまで……。{n}みんな、女のアタシにチョコあげて、{n}ウレシイのかねぇ……。{p}
+EN: Sigh... You too... What do you all get out of giving chocolate to me? I'm a girl...{p}
+
+## MGK02 g1 s0100
+JP: そ、そう……。{p}
+EN: O-oh...{p}
+
+## MGK02 g1 s0101
+JP: 他の女の子からは受け取るのに……、{n}私のは……、{n}受け取って……くれないんだ……。{p}
+EN: You take them from the other girls, but mine... you won't... take...{p}
+
+## MGK02 g1 s0102
+JP: ち、ちょっと……、{n}そんな深刻な顔しないでよ!{p}
+EN: H-hey... Don't look so serious!{p}
+
+## MGK02 g1 s0103
+JP: わ、わかったよ。{n}そのチョコ好きだし、もらっとくよ。{p}{end}
+EN: O-okay, okay. I like this kind, so I'll take it.{p}{end}
+
+## MGK02 g1 s0104
+JP: ホント!{p}{end}
+EN: Really!{p}{end}
+
+## MGK02 g1 s0105
+JP: なに?{n}コロッと明るくなっちゃってさ!{n}おかしな子だね、フフフ……。{p}{end}
+EN: What? You perked right up! You're a funny one. Heh heh...{p}{end}
+
+## MGK02 g1 s0106
+JP: （よかった、{n}{sp}受け取ってもらえて……。{n}{sp}もってきた甲斐があったな……）{p}
+EN: (I'm glad she took it... It was worth bringing...){p}
+
+## MGK02 g1 s0109
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}夏にと思って、持ってきたんだ。{p}{end}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Natsu.{p}{end}
+
+## MGK02 g1 s0114
+JP: わ、わかったよ。{n}せっかく持ってきてくれたんだし、{n}もらっとくよ!{p}
+EN: O-okay, okay. You went to the trouble of bringing it, so I'll take it!{p}
+
+## MGK02 g1 s0118
+JP: どうしたんだ、{v7:5}。{n}俺に何か用があるんだろ?{p}
+EN: What's up, {v7:5}? You need something from me, right?{p}
+
+## MGK02 g1 s0121
+JP: いい出しにくいなら、俺が当ててみようか?{n}{v7:5}は、{n}バレンタインのチョコを渡すために、{n}俺をここに呼び出した……違うか?{p}{end}
+EN: If it's hard to say, want me to guess? {v7:5}, you called me out here to give me Valentine's chocolate... Am I wrong?{p}{end}
+
+## MGK02 g1 s0122
+JP: あ、当たり……。{n}ハイ、ナッツチョコ……。{n}今日、バレンタインデーだから、{n}ロベルトにと思って、持ってきたの……。{p}
+EN: Y-you got it... Here, nut chocolate... It's Valentine's Day, so I brought this for you, Roberto...{p}
+
+## MGK02 g1 s0123
+JP: こ、こりゃ驚いたな……。{n}そうだといいなと思って、{n}いってみただけなんだが……。{n}まさか、本当にそうだとはね。{p}
+EN: W-well, this is a surprise... I only said it because I hoped it was true... Didn't think it really was.{p}
+
+## MGK02 g1 s0124
+JP: ありがとう、うれしいよ!{n}俺の好きなチョコだ。{p}
+EN: Thanks, I'm really happy! It's my favorite kind.{p}
+
+## MGK02 g1 s0125
+JP: 今日は、練習を見に来てくれよ。{n}{v7:5}に、{n}最高のプレイを見せることを約束するよ。{p}{end}
+EN: Come watch practice today. I promise I'll show you my best play, {v7:5}.{p}{end}
+
+## MGK02 g1 s0126
+JP: （よかった……。{n}{sp}ロベルトに受け取ってもらえて……。{n}{sp}持ってきた甲斐があったな……）{p}{end}
+EN: (I'm glad... Roberto took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0131
+JP: あ、当たり……。{n}ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}ロベルトにと思って、持ってきたの……。{p}
+EN: Y-you got it... Here, chocolate... It's Valentine's Day, so I brought this for you, Roberto...{p}
+
+## MGK02 g1 s0133
+JP: ありがとう、うれしいよ!{p}{end}
+EN: Thanks, I'm really happy!{p}{end}
+
+## MGK02 g1 s0136
+JP: どうしたんだ、{v3:6}?{n}こんなところに呼び出したりして……。{p}
+EN: What's up, {v3:6}? Calling me out to a place like this...{p}
+
+## MGK02 g1 s0138
+JP: ハイ、ビターチョコ……。{n}今日、バレンタインデーだから、{n}ロイにと思って、持ってきたんだ……。{p}
+EN: Here, dark chocolate... It's Valentine's Day, so I brought this for you, Roy...{p}
+
+## MGK02 g1 s0139
+JP: ボクにかい?{p}{end}
+EN: For me?{p}{end}
+
+## MGK02 g1 s0141
+JP: ありがとう……。{n}こういうチョコなら、ボクも好きだよ。{p}
+EN: Thank you... I like this kind of chocolate too.{p}
+
+## MGK02 g1 s0142
+JP: 実は……、{n}もしかしたら、こういう用事で{n}ボクを呼んだんじゃないかと思って、{n}ドキドキしてたんだ。{p}
+EN: Actually... I had a feeling this might be why you called me, and my heart was pounding.{p}
+
+## MGK02 g1 s0143
+JP: キミのこととなると、{n}このボクでも舞い上がってしまうことが{n}あるみたいだな……。{n}ハハハ……。{p}
+EN: When it comes to you, even I get carried away sometimes, I guess... Hahaha...{p}
+
+## MGK02 g1 s0144
+JP: （フフフ……、よかった。{n}{sp}ロイに受け取ってもらえて……。{n}{sp}もってきた甲斐があったな……）{p}{end}
+EN: (Heh heh... I'm glad Roy took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0147
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}ロイにと思って、持ってきたんだ……。{p}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Roy...{p}
+
+## MGK02 g1 s0150
+JP: ありがとう……。{n}キミからもらえるなんて、うれしいよ。{p}
+EN: Thank you... I'm happy to get one from you.{p}
+
+## MGK02 g1 s0154
+JP: ティファニー、{n}ちょっとイイかな……?{p}
+EN: Tiffany, got a sec...?{p}
+
+## MGK02 g1 s0155
+JP: ハイ、{v3:7}!{n}ミーに何かゴヨウですか?{p}
+EN: Hi, {v3:7}! You need something from me?{p}
+
+## MGK02 g1 s0156
+JP: えへへ……。{n}ティファニーに、{n}これを渡そうと思ってね……。{p}{end}
+EN: Hehe... I wanted to give you this, Tiffany...{p}{end}
+
+## MGK02 g1 s0157
+JP: ハイ、ミルクチョコ……。{n}今日、バレンタインデーだから、{n}ティファニーにと思って、持ってきたんだ。{p}
+EN: Here, milk chocolate... It's Valentine's Day, so I brought this for you, Tiffany.{p}
+
+## MGK02 g1 s0158
+JP: ワァオッ!{sp}バレンタインチョコレート!{n}ミーも知ってまーす!{p}{end}
+EN: Wow! Valentine's chocolate! I know about this!{p}{end}
+
+## MGK02 g1 s0159
+JP: 好きな人にあげるチョコって、{n}ホントですか?{p}{end}
+EN: Is it true you give it to someone you like?{p}{end}
+
+## MGK02 g1 s0160
+JP: う、うん……。{n}義理チョコってのもあるけど、{n}基本はそうね……。{p}{end}
+EN: Y-yeah... There's obligation chocolate too, but basically, yes...{p}{end}
+
+## MGK02 g1 s0161
+JP: じゃあ、{v3:7}は、{n}ミーのことが好きですか?{p}
+EN: Then, {v3:7}, do you like me?{p}
+
+## MGK02 g1 s0162
+JP: そ、そういうことになるわね……。{p}{end}
+EN: I-I guess that's what it means...{p}{end}
+
+## MGK02 g1 s0163
+JP: ホントは、男の子に{n}あげるんだけどね……。{n}あはは……。{p}{end}
+EN: You're really supposed to give it to boys, though... Ahaha...{p}{end}
+
+## MGK02 g1 s0164
+JP: ノンノン!{n}そんなことは、ノープロブレムね!{n}ミーは好きっていわれるの、大好き!{p}{end}
+EN: No, no! That is no problem at all! I love it when people say they like me!{p}{end}
+
+## MGK02 g1 s0165
+JP: 今日は、きっと、{n}チョコを食べた人が{n}ハッピーになる日に違いないでーす。{p}{end}
+EN: Today must be the day that makes everyone who eats chocolate happy!{p}{end}
+
+## MGK02 g1 s0166
+JP: イッショに食べれば、{n}{v3:7}もハッピーになって、{n}万事OKネ!{p}{end}
+EN: If we eat it together, {v3:7} will be happy too, and everything is A-OK!{p}{end}
+
+## MGK02 g1 s0167
+JP: フフフ……。{n}ミーは、このチョコ大好きでーす!{n}イッショに食べようよ!{p}
+EN: Hee hee... I loooove this chocolate! Let's eat it together!{p}
+
+## MGK02 g1 s0168
+JP: （よかった……。{n}{sp}ティファニーが受け取ってくれて……。{n}{sp}もってきた甲斐があったな……）{p}
+EN: (I'm glad... Tiffany took it... It was worth bringing...){p}
+
+## MGK02 g1 s0172
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}ティファニーにと思って、持ってきたんだ。{p}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Tiffany.{p}
+
+## MGK02 g1 s0182
+JP: さぁ!{sp}向こうで{n}イッショに食べようよ!{p}{end}
+EN: Come on! Let's go eat it together over there!{p}{end}
+
+## MGK02 g1 s0184
+JP: どうしたんですか、{v4:8}?{n}こんなところに連れてきて……。{p}{end}
+EN: What is the matter, {v4:8}? Bringing me to a place like this...{p}{end}
+
+## MGK02 g1 s0185
+JP: え、えっと……。{n}あのね……、{n}渡したいものがあるんだけど……。{p}{end}
+EN: W-well... Um... There's something I want to give you...{p}{end}
+
+## MGK02 g1 s0186
+JP: ハイ、ビターチョコ……。{n}今日、バレンタインデーだから、{n}ボーマンにと思って、持ってきたんだ……。{p}
+EN: Here, dark chocolate... It's Valentine's Day, so I brought this for you, Boman...{p}
+
+## MGK02 g1 s0187
+JP: {v4:8}とバレンタインデーを{n}祝えるとは、うれしい限りです。{p}{end}
+EN: To celebrate Valentine's Day with you, {v4:8}... I could not be happier.{p}{end}
+
+## MGK02 g1 s0188
+JP: しかも、私の好きなチョコですよ。{n}ありがとうございます。{p}{end}
+EN: And it is my favorite kind of chocolate. Thank you very much.{p}{end}
+
+## MGK02 g1 s0189
+JP: ここで開けてみても、いいですか?{n}よろしれば、ここで{n}一緒に食べようじゃありませんか。{p}
+EN: May I open it here? If you like, let us eat it together right here.{p}
+
+## MGK02 g1 s0190
+JP: （フフフ……、よかった。{n}{sp}ボーマンに受け取ってもらえて……。{n}{sp}もってきた甲斐があったな……）{p}{end}
+EN: (Heh heh... I'm glad Boman took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0193
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}ボーマンにと思って、持ってきたんだ……。{p}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Boman...{p}
+
+## MGK02 g1 s0195
+JP: チョコレートをもらえるなんて、{n}思ってもみませんでしたよ……。{n}ありがとうございます。{p}
+EN: I never imagined I would receive chocolate... Thank you very much.{p}
+
+## MGK02 g1 s0198
+JP: ここが、エッジの机よね……。{n}チョコを入れておいて、{n}こっそり隠れて、エッジがくるのを{n}待ってみよっと……。{p}{end}
+EN: So this is Edge's desk... I'll slip the chocolate inside, then hide and wait for Edge to show up...{p}{end}
+
+## MGK02 g1 s0200
+JP: 「あ～ぁ、{n}{sp}今日もよく睡眠学習したぜ……。{n}{sp}さぁて、帰るとしますかなって……」{p}
+EN: "Ahh, another good day of sleep learnin'... Welp, guess it's time to head home..."{p}
+
+## MGK02 g1 s0201
+JP: 「な、なんだ!{sp}こ、こりゃあ!{n}{sp}チ、チョコじゃねぇか!」{p}
+EN: "Wh-what the!? Wh-what's this!? Ch-chocolate!?"{p}
+
+## MGK02 g1 s0202
+JP: 「オオッ!{n}{sp}{v3:9}からかぁ!!{n}{sp}チョコもオレの趣味に合わせて{n}{sp}あるじゃねぇか!」{p}{end}
+EN: "Whoa! It's from {v3:9}!! And it's even the kind I like!"{p}{end}
+
+## MGK02 g1 s0203
+JP: 「へへ……、俺にホレたか!?{n}{sp}まったく、しょうがねぇなぁ!{n}{sp}ハハハ……!」{p}
+EN: "Heh heh... Fell for me, huh!? Geez, what can ya do! Hahaha...!"{p}
+
+## MGK02 g1 s0204
+JP: エッジ!{p}{end}
+EN: Edge!{p}{end}
+
+## MGK02 g1 s0205
+JP: うわぁっと!!{p}
+EN: Whoaaa!!{p}
+
+## MGK02 g1 s0206
+JP: お、おう……、{n}{v3:9}……。{p}
+EN: O-oh... {v3:9}...{p}
+
+## MGK02 g1 s0207
+JP: な、何もいわなくてイイぜ。{n}オマエの気持ちはわかった……。{p}
+EN: Y-ya don't gotta say nothin'. I know how ya feel...{p}
+
+## MGK02 g1 s0208
+JP: オレも男だ!{n}だまってオレについて来なッ!{p}
+EN: I'm a man, ain't I! Just shut up and follow me!{p}
+
+## MGK02 g1 s0209
+JP: （フフフ……、{n}{sp}カッコつけちゃって……）{p}
+EN: (Heh heh... Look at him, trying to act cool...){p}
+
+## MGK02 g1 s0210
+JP: （でも、よかった!{n}{sp}エッジに受け取ってもらえて……。{n}{sp}もってきた甲斐があったな……）{p}{end}
+EN: (But I'm glad! Edge took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0215
+JP: 「オオッ!{n}{sp}{v3:9}からかぁ!!」{p}{end}
+EN: "Whoa! It's from {v3:9}!!"{p}{end}
+
+## MGK02 g1 s0224
+JP: ごめんね、アキラ……、{n}無理に引っ張ってきちゃって……。{p}{end}
+EN: Sorry, Akira... for dragging you out here...{p}{end}
+
+## MGK02 g1 s0225
+JP: ううん……、{n}でも、どうしたの?{p}{end}
+EN: It's okay... But what's this about?{p}{end}
+
+## MGK02 g1 s0226
+JP: こ、これを{n}渡そうと思ってね……。{p}
+EN: I-I wanted to give you this...{p}
+
+## MGK02 g1 s0227
+JP: ハイ、ミルクチョコ……。{n}今日、バレンタインデーだから、{n}アキラにと思って、持ってきたんだ……。{p}{end}
+EN: Here, milk chocolate... It's Valentine's Day, so I brought this for you, Akira...{p}{end}
+
+## MGK02 g1 s0228
+JP: えっ!?{n}わ、私……、{n}女の子だよ……。{p}{end}
+EN: Huh!? B-but I'm... a girl...{p}{end}
+
+## MGK02 g1 s0229
+JP: あはは……!{n}そんなことわかってるわよ!{p}{end}
+EN: Ahaha...! I know that!{p}{end}
+
+## MGK02 g1 s0230
+JP: ジャマになるものじゃないし、{n}受け取ってよ。{n}もし、ジャマになったら、{n}食べちゃえばイイんだし!{sp}ね?{p}
+EN: It won't get in the way, so take it. And if it ever does, you can just eat it! Right?{p}
+
+## MGK02 g1 s0231
+JP: フフフ……、{n}それも、そうね……。{n}このチョコ、私好きだし……。{n}もらっておこうかな。{p}
+EN: Hee hee... I guess that's true... And I like this kind... Maybe I'll take it.{p}
+
+## MGK02 g1 s0232
+JP: ありがとう、{n}{v8:10}……。{p}{end}
+EN: Thank you, {v8:10}...{p}{end}
+
+## MGK02 g1 s0233
+JP: でも、女の子同士で{n}こんなことしてるなんて、{n}おかしいね、……フフフ。{p}
+EN: But two girls doing this... it's kind of funny. ...Hee hee.{p}
+
+## MGK02 g1 s0234
+JP: （よかった。{n}{sp}アキラが受け取ってくれて……。{n}{sp}もってきた甲斐があったな……）{p}{end}
+EN: (I'm glad. Akira took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0238
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}アキラにと思って、持ってきたんだ……。{p}{end}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Akira...{p}{end}
+
+## MGK02 g1 s0242
+JP: フフフ……、{n}それも、そうね……。{n}もらっておこうかな。{p}{end}
+EN: Hee hee... I guess that's true... Maybe I'll take it.{p}{end}
+
+## MGK02 g1 s0246
+JP: どうしたんじゃ、{v3:11}{col:0}さん{col:-}?{n}こんなところに連れてきおって……。{p}
+EN: What's up, {v3:11}{col:0}-san{col:-}? Draggin' me all the way out here...{p}
+
+## MGK02 g1 s0247
+JP: えへへ……。{n}岩に、これを渡そうと思ってね……。{p}{end}
+EN: Hehe... I wanted to give you this, Gan...{p}{end}
+
+## MGK02 g1 s0248
+JP: ハイ、ミルクチョコ……。{n}今日、バレンタインデーだから、{n}岩にと思って、持ってきたんだ……。{p}{end}
+EN: Here, milk chocolate... It's Valentine's Day, so I brought this for you, Gan...{p}{end}
+
+## MGK02 g1 s0249
+JP: こ、これは……、すまんのう……。{n}チョコをもらえるとは、{n}思ってもみんかったわい……。{p}
+EN: W-well now... thank ya kindly... Never figured I'd be gettin' chocolate...{p}
+
+## MGK02 g1 s0250
+JP: しかも、{n}ワシの大好きなチョコじゃしのう。{n}{v3:11}{col:0}さん{col:-}とワシは、{n}馬が合うわい!{p}
+EN: And it's my favorite kind to boot. You and me sure see eye to eye, {v3:11}{col:0}-san{col:-}!{p}
+
+## MGK02 g1 s0251
+JP: フフフ……、そうね!{n}それ、おしりにバンソウコウを張った、{n}お相撲さんのチョコなんだ!{n}岩がよろこぶと思って!{p}
+EN: Heh heh, right! It's a chocolate sumo wrestler with a bandage on his butt! I knew you'd love it!{p}
+
+## MGK02 g1 s0252
+JP: 選ぶのに苦労したんだから!{n}あはは……!{p}{end}
+EN: It took me forever to pick! Ahaha...!{p}{end}
+
+## MGK02 g1 s0253
+JP: ぜ、前言撤回じゃ……。{p}
+EN: I t-take that back...{p}
+
+## MGK02 g1 s0256
+JP: ハイ、チョコレート……。{n}今日、バレンタインデーだから、{n}岩にと思って、持ってきたんだ……。{p}{end}
+EN: Here, chocolate... It's Valentine's Day, so I brought this for you, Gan...{p}{end}
+
+## MGK02 g1 s0258
+JP: {v3:11}{col:0}さん{col:-}は、{n}センスが良いから、きっと、{n}オシャレなチョコなんじゃろうのう!{p}{end}
+EN: {v3:11}{col:0}-san{col:-}, you got good taste, so I reckon it's somethin' real fancy!{p}{end}
+
+## MGK02 g1 s0259
+JP: フフフ……、まあね!{n}それ、おしりにバンソウコウを張った、{n}お相撲さんのチョコなんだ!{n}岩がよろこぶと思って!{p}
+EN: Heh heh, you bet! It's a chocolate sumo wrestler with a bandage on his butt! I knew you'd love it!{p}
+
+## MGK02 g1 s0262
+JP: ん?{n}{v0}{col:0}君{col:-}じゃないか。{n}さっきの授業でわからないところでも{n}あったのかね?{p}
+EN: Hm? Why, it's {v0}{col:0}-kun{col:-}. Was there something in the last class you didn't understand?{p}
+
+## MGK02 g1 s0263
+JP: そ、そうじゃないんです……。{n}あの……、これ……{p}{end}
+EN: N-no, that's not it... Um... this...{p}{end}
+
+## MGK02 g1 s0264
+JP: ミルクチョコです……。{n}今日は、バレンタインデーだから、{n}英雄先生にと思って、持ってきたんです。{p}{end}
+EN: It's milk chocolate... It's Valentine's Day, so I brought it for you, Hideo-sensei.{p}{end}
+
+## MGK02 g1 s0265
+JP: わっ、わわわわ、私にかね?{p}
+EN: F-f-f-for me?{p}
+
+## MGK02 g1 s0266
+JP: し、しかし、教師が生徒から{n}こういうことをしてもらうのは……、{n}その……。{p}
+EN: B-but for a teacher to accept something like this from a student is... well...{p}
+
+## MGK02 g1 s0267
+JP: ダメ……ですか……?{p}{end}
+EN: Is it... not allowed...?{p}{end}
+
+## MGK02 g1 s0268
+JP: い、いやぁ……、{n}そんな顔しないでくれたまえ……。{p}
+EN: N-now, now... please don't make that face...{p}
+
+## MGK02 g1 s0269
+JP: わ、わかった……、いただくよ……。{n}そのチョコは、私の好物だしね。{p}
+EN: V-very well... I'll accept it... That chocolate happens to be a favorite of mine.{p}
+
+## MGK02 g1 s0270
+JP: しかし、まだまだ私も、{n}若い先生に負けとらんということかな。{n}ハハハ……。{p}
+EN: Still, it seems I can hold my own against the younger teachers yet. Hahaha...{p}
+
+## MGK02 g1 s0271
+JP: （フフフ……。{n}{sp}よかった……、{n}{sp}受け取ってもらえて……）{p}{end}
+EN: (Heh heh... I'm glad... he took it...){p}{end}
+
+## MGK02 g1 s0274
+JP: チョコレートです……。{n}今日は、バレンタインデーだから、{n}英雄先生にと思って、持ってきたんです。{p}{end}
+EN: It's chocolate... It's Valentine's Day, so I brought it for you, Hideo-sensei.{p}{end}
+
+## MGK02 g1 s0279
+JP: わ、わかった……、いただくよ……。{p}
+EN: V-very well... I'll accept it...{p}
+
+## MGK02 g1 s0282
+JP: こんにちは～～っ!{n}響子先生いますか?{p}
+EN: Hellooo! Is Kyoko-sensei here?{p}
+
+## MGK02 g1 s0283
+JP: あら、{v1}{col:0}さん{col:-}。{n}また、男子生徒が義理チョコを{n}ねだりに来たのかと思ったわ。{p}
+EN: Oh, {v1}{col:0}-san{col:-}. I thought it was another boy coming to beg for obligation chocolate.{p}
+
+## MGK02 g1 s0284
+JP: フフフ……。{n}その逆ですよ。{p}{end}
+EN: Hee hee... It's the other way around.{p}{end}
+
+## MGK02 g1 s0285
+JP: ハイ、ビターチョコです……。{n}今日、バレンタインデーだから、{n}響子先生にと思って、持ってきたんです。{p}{end}
+EN: Here, dark chocolate... It's Valentine's Day, so I brought it for you, Kyoko-sensei.{p}{end}
+
+## MGK02 g1 s0286
+JP: ウフフ……、ありがと!{n}私、このチョコ大好きなのよ。{p}{end}
+EN: Ufufu... Thanks! I love this kind.{p}{end}
+
+## MGK02 g1 s0287
+JP: でも、女の子から{n}私がもらうとは思わなかったわ……。{p}{end}
+EN: But I never expected to get one from a girl...{p}{end}
+
+## MGK02 g1 s0288
+JP: 響子先生、知らないんですか?{n}先生は女子にも{n}すごい人気なんですよ!{p}{end}
+EN: Don't you know, Kyoko-sensei? You're super popular with the girls too!{p}{end}
+
+## MGK02 g1 s0289
+JP: あら、そうなの?{n}じゃあ、みんなが遊びに来てもいいように、{n}保健室を大きくしてもらおうかしら。{n}フフフ……。{p}{end}
+EN: Oh, is that so? Then maybe I'll have them make the infirmary bigger, so everyone can come visit. Hee hee...{p}{end}
+
+## MGK02 g1 s0290
+JP: （よかった……、{n}{sp}響子先生に受け取ってもらえて……。{n}{sp}もってきた甲斐があったな……）{p}{end}
+EN: (I'm glad... Kyoko-sensei took it... It was worth bringing...){p}{end}
+
+## MGK02 g1 s0294
+JP: ハイ、チョコレートです……。{n}今日、バレンタインデーだから、{n}響子先生にと思って、持ってきたんです。{p}{end}
+EN: Here, chocolate... It's Valentine's Day, so I brought it for you, Kyoko-sensei.{p}{end}
+
+## MGK02 g1 s0295
+JP: ウフフ……、ありがと!{p}
+EN: Ufufu... Thanks!{p}
+
+## MGK02 g1 s0300
+JP: {v0}か……。{n}どうかしたのか?{p}{end}
+EN: {v0}... Is something the matter?{p}{end}
+
+## MGK02 g1 s0301
+JP: あ、あの……、{n}これ、受け取って欲しいんだけど……。{p}{end}
+EN: U-um... I'd like you to take this...{p}{end}
+
+## MGK02 g1 s0302
+JP: ビターチョコ……。{n}今日、バレンタインデーだから、{n}雹クンにと思って、持ってきたの……。{p}{end}
+EN: Dark chocolate... It's Valentine's Day, so I brought this for you, Hyo-kun...{p}{end}
+
+## MGK02 g1 s0303
+JP: フッ……、{n}菓子を通じて、{n}想いを伝えるというやつか……。{p}
+EN: Hmph... Conveying one's feelings through sweets, is it...{p}
+
+## MGK02 g1 s0304
+JP: 俗人の習慣だな……。{p}{end}
+EN: A vulgar custom of the masses...{p}{end}
+
+## MGK02 g1 s0305
+JP: ダメ……かな……。{p}
+EN: Is it... no good...?{p}
+
+## MGK02 g1 s0306
+JP: フフ……、そんな顔をするな。{n}同じチョコでも、その手のものなら、{n}食せんわけではないからな。{p}{end}
+EN: Heh... Do not make that face. Chocolate of that sort is not something I refuse to eat.{p}{end}
+
+## MGK02 g1 s0307
+JP: それでお前の気が済むというのなら、{n}頂いておこう……。{p}
+EN: If accepting it will put your mind at ease, I shall take it...{p}
+
+## MGK02 g1 s0308
+JP: （よかった……。{n}{sp}雹クンに受け取ってもらえて……。{n}{sp}勇気を出した甲斐があったな……）{p}{end}
+EN: (I'm glad... Hyo-kun took it... Working up my courage paid off...){p}{end}
+
+## MGK02 g1 s0311
+JP: チョコレート……。{n}今日、バレンタインデーだから、{n}雹クンにと思って、持ってきたの……。{p}{end}
+EN: Chocolate... It's Valentine's Day, so I brought this for you, Hyo-kun...{p}{end}
+
+## MGK02 g1 s0315
+JP: フフ……、そんな顔をするな。{p}{end}
+EN: Heh... Do not make that face.{p}{end}
+
+## MGK02 g1 s0318
+JP: フフ……。{n}待ってたぜ、{v3:16}。{n}オマエがここを通るのをな……。{p}
+EN: Heh heh... Been waitin' for ya, {v3:16}. Waitin' for you to come by here...{p}
+
+## MGK02 g1 s0319
+JP: 俺に、何か用があるんじゃねぇか?{n}いや、あるはずだぜッ!!{n}とびっきり大事なことが、ひとつなッ!!{p}
+EN: You got somethin' for me, don'tcha? Nah, ya gotta! One super-important thing!!{p}
+
+## MGK02 g1 s0320
+JP: え、えぇ…………。{n}ありますよ……。{p}{end}
+EN: Y-yes...... I do...{p}{end}
+
+## MGK02 g1 s0321
+JP: ハイ、ビターチョコです……。{n}今日、バレンタインデーだから、{n}隼人先生にと思って、持ってきたんです。{p}{end}
+EN: Here, dark chocolate... It's Valentine's Day, so I brought it for you, Hayato-sensei.{p}{end}
+
+## MGK02 g1 s0322
+JP: まったく、泣かせるじゃねぇか……。{n}俺の好みに{n}バッチリ合わせてくるとはな……。{p}{end}
+EN: Man, you're gonna make me cry... Hittin' my taste right on the nose...{p}{end}
+
+## MGK02 g1 s0323
+JP: やっぱり、俺とオマエは、{n}熱血という名の赤い糸で{n}結ばれているにちがいねぇぜ……。{p}
+EN: You and me gotta be tied together by a red string of fate called "hot blood"...{p}
+
+## MGK02 g1 s0324
+JP: 今日の俺の晩飯は、こいつに決まりだ!{n}オマエのハート、この俺の胃袋で{n}しっかり受け止めてやるぜッ!!{p}{end}
+EN: This here's my dinner tonight! I'll take your heart right into this stomach of mine!!{p}{end}
+
+## MGK02 g1 s0325
+JP: じゃあな!{sp}ありがとうよッ!{p}{end}
+EN: See ya! Thanks a bunch!{p}{end}
+
+## MGK02 g1 s0326
+JP: う、うーん……。{n}そういってもらえると、うれしいけど……。{p}
+EN: U-um... I'm glad you feel that way, but...{p}
+
+## MGK02 g1 s0327
+JP: 晩ご飯も、ちゃんと食べた方がイイと{n}思うけどなぁ……。{p}
+EN: I really think you should eat a proper dinner too...{p}
+
+## MGK02 g1 s0331
+JP: ハイ、チョコレートです……。{n}今日、バレンタインデーだから、{n}隼人先生にと思って、持ってきたんです。{p}{end}
+EN: Here, chocolate... It's Valentine's Day, so I brought it for you, Hayato-sensei.{p}{end}
+
+## MGK02 g1 s0332
+JP: まったく、泣かせるじゃねぇか……。{n}ちゃんと用意してるとはな……。{p}
+EN: Man, you're gonna make me cry... Ya actually got me somethin'...{p}
+
+## MGK02 g1 s0338
+JP: どうした、{v4:17}。{n}お前も空を見に来たのか?{p}
+EN: What is it, {v4:17}? You come to look at the sky too?{p}
+
+## MGK02 g1 s0339
+JP: い、いえ……、{n}醍醐先輩に渡したいものがあって……。{p}{end}
+EN: N-no... There's something I want to give you, Daigo-senpai...{p}{end}
+
+## MGK02 g1 s0340
+JP: ミルクチョコ……。{n}今日、バレンタインデーだから、{n}醍醐先輩にと思って、持ってきたんです。{p}
+EN: Milk chocolate... It's Valentine's Day, so I brought it for you, Daigo-senpai.{p}
+
+## MGK02 g1 s0341
+JP: チョコか……。{n}同じチョコでも、その手のものなら、{n}俺も食べることがあるからな。{p}{end}
+EN: Chocolate, huh... Well, that kind I'll eat now and then.{p}{end}
+
+## MGK02 g1 s0342
+JP: すまんな、気を使わせて……。{p}{end}
+EN: Sorry you went to the trouble...{p}{end}
+
+## MGK02 g1 s0343
+JP: わ、私が無理矢理、{n}醍醐先輩に持ってきただけですから……。{p}
+EN: I-I'm the one who pushed it on you, Daigo-senpai...{p}
+
+## MGK02 g1 s0344
+JP: フフ……。{n}しかし、おかしなものだな。{p}
+EN: Heh... Funny thing, though.{p}
+
+## MGK02 g1 s0345
+JP: こんな事とは無縁の世界で生きてきた俺が、{n}今はこうして、{n}お前とチョコがどうしたなどと{n}話しているのだからな……。{p}
+EN: I've lived in a world that's got nothing to do with stuff like this. And here I am, talking chocolate with you...{p}
+
+## MGK02 g1 s0346
+JP: ハハハ……。{p}{end}
+EN: Hahaha...{p}{end}
+
+## MGK02 g1 s0347
+JP: （フフフ……。{n}{sp}でも、よかった……。{n}{sp}醍醐先輩に受け取ってもらえて……。{n}{sp}勇気を出した甲斐があったな……）{p}{end}
+EN: (Heh heh... But I'm glad... Daigo-senpai took it... Working up my courage paid off...){p}{end}
+
+## MGK02 g1 s0350
+JP: チョコレート……。{n}今日、バレンタインデーだから、{n}醍醐先輩にと思って、持ってきたんです。{p}
+EN: Chocolate... It's Valentine's Day, so I brought it for you, Daigo-senpai.{p}
+
+## MGK02 g1 s0351
+JP: チョコか……。{p}
+EN: Chocolate, huh...{p}
+
+## MGK02 g1 s0358
+JP: 流せんぱぁーーいっ!{n}いらっしゃいますかぁーーーっ?{p}{end}
+EN: Nagare-senpaaai! Are you heeere?{p}{end}
+
+## MGK02 g1 s0359
+JP: おかしいなぁ……、{n}プールにいるってきいたのに……。{p}{end}
+EN: That's weird... I heard he was at the pool...{p}{end}
+
+## MGK02 g1 s0361
+JP: うわぁっ!{n}流先輩……、泳いでたんですね……。{p}
+EN: Whoa! Nagare-senpai... So you were swimming...{p}
+
+## MGK02 g1 s0362
+JP: …………何か、用か……。{p}{end}
+EN: ..........Need something...{p}{end}
+
+## MGK02 g1 s0363
+JP: こ、これを渡そうと思って……。{p}
+EN: I-I wanted to give you this...{p}
+
+## MGK02 g1 s0364
+JP: ビターチョコ……。{n}今日、バレンタインデーだから、{n}流先輩にと思って、持ってきたんです……。{p}{end}
+EN: Dark chocolate... It's Valentine's Day, so I brought it for you, Nagare-senpai...{p}{end}
+
+## MGK02 g1 s0365
+JP: …………僕にか……?{p}{end}
+EN: ..........For me...?{p}{end}
+
+## MGK02 g1 s0366
+JP: ハ、ハイ……。{p}
+EN: Y-yes...{p}
+
+## MGK02 g1 s0368
+JP: あ、あの……、流先輩……?{p}
+EN: U-um... Nagare-senpai...?{p}
+
+## MGK02 g1 s0369
+JP: …………このチョコはイイ……。{n}ありがとう……。{p}{end}
+EN: ..........This chocolate's good... Thank you...{p}{end}
+
+## MGK02 g1 s0371
+JP: よかった……。{n}流先輩に受け取ってもらえて……。{p}{end}
+EN: I'm glad... Nagare-senpai took it...{p}{end}
+
+## MGK02 g1 s0372
+JP: 帽子の中に入れて持っていくなんて……。{n}ちょっと違うけど、{n}肌身離さず大切にするって感じがして、{n}感激しちゃった……。{p}
+EN: He tucked it into his swim cap to take it along... It's not quite the same, but it felt like he'll keep it close and treasure it. I'm so touched...{p}
+
+## MGK02 g1 s0379
+JP: チョコレート……。{n}今日、バレンタインデーだから、{n}流先輩にと思って、持ってきたんです……。{p}{end}
+EN: Chocolate... It's Valentine's Day, so I brought it for you, Nagare-senpai...{p}{end}
+
+## MGK02 g1 s0384
+JP: …………ありがとう……。{p}{end}
+EN: ..........Thank you...{p}{end}
+
+## MGK02 g1 s0388
+JP: ねぇ、ランちゃん。{n}ちょっと、いいかな……?{p}{end}
+EN: Hey, Ran-chan. Got a sec...?{p}{end}
+
+## MGK02 g1 s0389
+JP: なに?{n}何か面白いネタでもあるの?{p}
+EN: What? Got a juicy scoop for me?{p}
+
+## MGK02 g1 s0390
+JP: そ、そうじゃなくって……。{n}あの、これ……。{p}{end}
+EN: N-no, not that... Um, this...{p}{end}
+
+## MGK02 g1 s0391
+JP: ナッツチョコ……。{n}今日、バレンタインデーだから、{n}ランちゃんに渡そうと思って……。{p}{end}
+EN: Nut chocolate... It's Valentine's Day, so I wanted to give this to you, Ran-chan...{p}{end}
+
+## MGK02 g1 s0392
+JP: こ、これは思わぬ展開ね……。{n}い、いきなりだから、{n}ちょっと、びっくりしちゃった……。{p}
+EN: W-well, this is an unexpected twist... It's so sudden, you kinda caught me off guard...{p}
+
+## MGK02 g1 s0393
+JP: あはは……。{n}や、やっぱり、迷惑かな……。{p}
+EN: Ahaha... I-I guess it's a bother, huh...{p}
+
+## MGK02 g1 s0394
+JP: あっ!{n}ねぇ、写真取らせてくれない?{p}{end}
+EN: Oh! Hey, can I take your picture?{p}{end}
+
+## MGK02 g1 s0395
+JP: え!?{n}う、うん……、イイけど……。{p}{end}
+EN: Huh!? S-sure... I guess...{p}{end}
+
+## MGK02 g1 s0397
+JP: 今の顔!{sp}カワいかったわよ!{n}この写真、ワタシのお気に入りの{n}ひとつになりそうだわ。{p}{end}
+EN: That face just now! So cute! This photo's gonna be one of my favorites.{p}{end}
+
+## MGK02 g1 s0398
+JP: じゃあ、有り難く頂戴しておくわね!{n}このチョコ、ワタシ好きなんだ。{p}
+EN: Well then, I'll gratefully accept this! I like this kind.{p}
+
+## MGK02 g1 s0399
+JP: じゃあね!{p}
+EN: See ya!{p}
+
+## MGK02 g1 s0400
+JP: よかった……、受け取ってもらえて。{n}お気に入りの写真か……。{n}えへへ……、なんか照れちゃうな……。{p}
+EN: I'm glad she took it. One of her favorite photos, huh... Hehe, that's kinda embarrassing...{p}
+
+## MGK02 g1 s0404
+JP: チョコレート……。{n}今日、バレンタインデーだから、{n}ランちゃんに渡そうと思って……。{p}{end}
+EN: Chocolate... It's Valentine's Day, so I wanted to give this to you, Ran-chan...{p}{end}
+
+## MGK02 g1 s0411
+JP: このチョコ、{n}有り難く頂戴しておくわね!{p}{end}
+EN: I'll gratefully accept this chocolate!{p}{end}
+

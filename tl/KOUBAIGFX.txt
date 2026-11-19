@@ -1,0 +1,24 @@
+# Extras shop and Extras top menu graphic labels, built by
+# tools/build_koubai.py. Facts: private/re/shop/findings.org and
+# private/re/extras/findings.org (section KOUBAI0.TIZ). ID: EN text.
+
+# shop header (KOUBAI.TIZ TIM 3, 122x42 at the top centre)
+# JP: 購買部
+store_hdr: School Store
+# points bar label (KOUBAI.TIZ TIM 3, left end of the points bar)
+# JP: 現在のポイント
+points_lbl: Points
+
+# top menu labels (KOUBAI0.TIZ TIM 1, up to 256x40, centred on the cursor bar)
+# JP: 購買部へ行く
+menu_store: Go to the School Store
+# JP: 購入したおまけの一覧
+menu_list: View Purchased Extras
+# JP: モードメニューに戻る
+menu_back: Back to Mode Menu
+# JP: 購買部 (TIM 1 row 140, not seen on screen)
+menu_store2: School Store
+
+# top menu logo (KOUBAI0.TIZ TIM 0, in the background picture)
+# JP: おまけ
+logo: Extras

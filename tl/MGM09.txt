@@ -1,0 +1,2020 @@
+## MGM09 g0 s0000
+JP: 「先手8七銀なら……{n}{sp}ふむ、7七竜で詰み、だな……」{p}
+EN: "If Black plays Silver to 8-7... Hm, then Dragon to 7-7 is mate..."{p}
+
+## MGM09 g0 s0001
+JP: あれ、恭介。{n}何ブツブツ言ってんだよ。{p}
+EN: Hey, Kyosuke. What are you muttering about?{p}
+
+## MGM09 g0 s0002
+JP: {v4:2}か。{n}いや、委員の会議まで時間が空いたのでね。{n}暇つぶしに詰め将棋をやっていたのさ。{p}{end}
+EN: {v4:2}. Nothing much. I had time before the committee meeting, so I was doing shogi puzzles to kill it.{p}{end}
+
+## MGM09 g0 s0003
+JP: へぇ……。{n}そういや恭介はチェスとか将棋とか{n}得意だって言ってたもんな。{p}{end}
+EN: Huh... Come to think of it, you did say you're good at chess and shogi.{p}{end}
+
+## MGM09 g0 s0004
+JP: ふふ、それほどでもないけどね。{n}そうだ。{n}ちょうどいい、相手になってくれないか?{n}最近対戦してなかったからな。{p}
+EN: Heh, I'm not that good. Oh, I know. Perfect timing. How about a game? We haven't played in a while.{p}
+
+## MGM09 g0 s0005
+JP: 受けてたつ{n}ルールわからないから断る{p}{end}
+EN: You're on{n}Don't know the rules, pass{p}{end}
+
+## MGM09 g0 s0006
+JP: ごめん、恭介。{n}俺、実はルールよく知らないんだ。{n}また今度教えてくれよ。{p}{end}
+EN: Sorry, Kyosuke. I don't really know the rules. Teach me sometime, OK?{p}{end}
+
+## MGM09 g0 s0007
+JP: そうか……わかった。{n}それじゃまたな。{p}
+EN: I see... All right. See you, then.{p}
+
+## MGM09 g0 s0008
+JP: （恭介には悪いけど……{n}{sp}どこか別の場所に行こう。）{p}{end}
+EN: (Sorry, Kyosuke... I'll go somewhere else.){p}{end}
+
+## MGM09 g0 s0009
+JP: よーし、受けてたつぜ!{n}手加減は一切しないからな、恭介。{p}{end}
+EN: All right, you're on! I'm not holding back one bit, Kyosuke.{p}{end}
+
+## MGM09 g0 s0010
+JP: それは僕のセリフだよ、{v4:2}。{n}僕も気合を入れさせてもらうとしよう。{p}
+EN: That's my line, {v4:2}. I intend to give this my all as well.{p}
+
+## MGM09 g0 s0011
+JP: （そう言うと恭介は白ランを羽織り、{n}{sp}ポケットから携帯用の{n}{sp}マグネット将棋盤を取り出した。）{p}
+EN: (With that, Kyosuke threw his white uniform over his shoulders and took a magnetic pocket shogi set out of his pocket.){p}
+
+## MGM09 g0 s0012
+JP: …………よし。{n}じゃあ{v4:2}が先攻だ。{p}{end}
+EN: ......All right. You go first, {v4:2}.{p}{end}
+
+## MGM09 g0 s0013
+JP: （どうやって攻める……?）{p}
+EN: (How should I attack...?){p}
+
+## MGM09 g0 s0014
+JP: 定石通り飛車の道を開ける{n}意表をついて端の歩を動かす{p}{end}
+EN: Open the rook's lane, by the book{n}Surprise him with an edge pawn{p}{end}
+
+## MGM09 g0 s0015
+JP: （やはり、恭介の出方を見るためにも、{n}{sp}ここは飛車道を開けて……っと。）{p}{end}
+EN: (To see how Kyosuke plays, I'll open the rook's lane first... like so.){p}{end}
+
+## MGM09 g0 s0016
+JP: ふむ。{n}まずは定石通りだな。{n}ならば僕はこうだ。{p}{end}
+EN: Hm. By the book to start. Then I'll go like this.{p}{end}
+
+## MGM09 g0 s0017
+JP: じゃあ、次はこうしよう……。{p}{end}
+EN: OK, next I'll do this...{p}{end}
+
+## MGM09 g0 s0018
+JP: ふふ、ならばここに…………。{p}{end}
+EN: Heh, then here......{p}{end}
+
+## MGM09 g0 s0021
+JP: あ、あれ?{n}気がつくとずいぶん俺の駒が減ってるぞ。{n}なぜか王様が一人で……って、{n}囲まれてるぞ!{p}{end}
+EN: H-huh? I'm down a ton of pieces all of a sudden. Why's my king all by himself... Wait, he's surrounded!{p}{end}
+
+## MGM09 g0 s0022
+JP: ふふ、いつ気がつくかと思ってたが、{n}まさかここまでとはね。{n}君に残った駒は……王を入れて4枚だね。{n}残念だけど、詰みだよ。{p}
+EN: Heh, I wondered when you'd notice, but I never expected it to take this long. You have... four pieces left, counting your king. Sorry, but that's checkmate.{p}
+
+## MGM09 g0 s0023
+JP: （つ、強い!{n}{sp}ていうか、俺が弱すぎるのか!?）{p}{end}
+EN: (H-he's strong! Or am I just that bad!?){p}{end}
+
+## MGM09 g0 s0024
+JP: 多少物足りなかったが、{n}いい暇つぶしにはなったよ。{n}もうすこし精進しろよ、{v4:2}。{p}{end}
+EN: It wasn't much of a challenge, but it passed the time nicely. Work on your game a bit more, {v4:2}.{p}{end}
+
+## MGM09 g0 s0025
+JP: くっそ～～っっ!!{n}すげー悔しいぞ!{p}{end}
+EN: Daaamn!! That's so frustrating!{p}{end}
+
+## MGM09 g0 s0026
+JP: （相手は恭介だ、{n}{sp}まともにいっても勝ち目はないぞ……{n}{sp}じゃ、こうだ!!）{p}{end}
+EN: (It's Kyosuke. Playing it straight, I don't stand a chance... So, this!!){p}{end}
+
+## MGM09 g0 s0027
+JP: !……{v4:2}、{n}その歩は将棋の定石から外れた一手。{n}それを知ってのことか?{p}{end}
+EN: ...! {v4:2}, that pawn move goes against all shogi theory. Do you realize that?{p}{end}
+
+## MGM09 g0 s0028
+JP: さぁて、どうだろうな。{n}いずれにしても、{n}すでに戦いは始まってるんだぜ。{n}のんきに話しかけてて、いいのか?{p}
+EN: Well now, who knows? Either way, the battle's already started. Should you really be chatting so casually?{p}
+
+## MGM09 g0 s0029
+JP: む……それもそうだ……。{p}{end}
+EN: Hm... You have a point...{p}{end}
+
+## MGM09 g0 s0030
+JP: （よしよし、{n}{sp}恭介は混乱しているみたいだぞ。）{p}{end}
+EN: (Good, good. Looks like Kyosuke's confused.){p}{end}
+
+## MGM09 g0 s0033
+JP: （盤上では白熱した戦いが続いている。{n}{sp}今のところ、恭介がやや優勢か……。{n}{sp}序盤の劣勢を跳ね返すあたり、{n}{sp}やはり恭介は強い。）{p}
+EN: (The battle on the board is heating up. Right now Kyosuke has a slight edge... Bouncing back from a bad opening like that, he really is strong.){p}
+
+## MGM09 g0 s0036
+JP: （……!{sp}この一手は、{n}{sp}勝敗を左右するかもしれないぞ……）{p}{end}
+EN: (...! This move might decide the game...){p}{end}
+
+## MGM09 g0 s0037
+JP: 角で攻勢に出る{n}銀で守備を固める{p}{end}
+EN: Go on the attack with the bishop{n}Shore up the defense with a silver{p}{end}
+
+## MGM09 g0 s0038
+JP: よし、角でその銀をいただきだ!{n}ここから攻めまくってやるぞ!{p}{end}
+EN: OK, my bishop takes that silver! Now I'm going all-out on the attack!{p}{end}
+
+## MGM09 g0 s0039
+JP: ふふ、僕の玉にたどり着けるかな?{p}{end}
+EN: Heh, can you reach my king?{p}{end}
+
+## MGM09 g0 s0040
+JP: （……結局、俺の攻めは全て恭介に{n}{sp}かわされてしまった。{n}{sp}その後の恭介の反撃に、俺は{n}{sp}どうすることもできなかった……）{p}
+EN: (...In the end, Kyosuke dodged every attack I made. And when he struck back, I couldn't do a thing...){p}
+
+## MGM09 g0 s0041
+JP: ふふっ、おしかったな、{v4:2}。{n}もう少し攻めのバリエーションがあれば、{n}僕も危なかったかもね。{p}{end}
+EN: Heh, close one, {v4:2}. With a few more ways to attack, I might have been in trouble.{p}{end}
+
+## MGM09 g0 s0042
+JP: また機会があったら勝負しよう。{n}それまでこれで勉強しておくんだね。{p}
+EN: Let's play again sometime. Until then, study with this.{p}
+
+## MGM09 g0 s0043
+JP: {col:0}『詰め将棋テキスト』{col:-}を手に入れた!!{p}{end}
+EN: Got {col:0}"Shogi Puzzle Book"{col:-}!!{p}{end}
+
+## MGM09 g0 s0044
+JP: （ここは焦っちゃいけない。{n}{sp}耐えて耐えぬけば、{n}{sp}必ず勝機は見えてくるはず!!）{p}
+EN: (Can't get impatient here. If I hold on and keep holding on, I'm bound to see a chance!!){p}
+
+## MGM09 g0 s0045
+JP: ほう……そういう戦法でくるか。{n}これは、長期戦になりそうだな。{p}
+EN: Oh... So that's your strategy. This looks like it'll be a long game.{p}
+
+## MGM09 g0 s0046
+JP: （恭介の言うとおり、戦いは長くなった。{n}{sp}すでに始めてから{n}{sp}1時間が過ぎようとしている。）{p}{end}
+EN: (Just as Kyosuke said, the game dragged on. It's been almost an hour since we started.){p}{end}
+
+## MGM09 g0 s0047
+JP: ……!{n}もうこんな時間か。{n}すまない、{v4:2}。{n}どうやら時間切れのようだ。{p}{end}
+EN: ...! Is it this late already? Sorry, {v4:2}. It seems we're out of time.{p}{end}
+
+## MGM09 g0 s0048
+JP: ふぅ……。{n}とうとう決着はつかなかったな。{p}
+EN: Phew... We never did settle it.{p}
+
+## MGM09 g0 s0049
+JP: 何を言ってる。{n}この続きは明日だ。{n}必ず勝敗はハッキリさせるぞ。{p}{end}
+EN: What are you talking about? We continue tomorrow. We will settle this, one way or another.{p}{end}
+
+## MGM09 g0 s0050
+JP: 正直、キミがここまでやるとは{n}思わなかった。{n}これを貸しておくから、{n}明日まで勉強しておくんだ。{p}{end}
+EN: Honestly, I didn't think you'd do this well. I'll lend you this, so study it before tomorrow.{p}{end}
+
+## MGM09 g0 s0052
+JP: 敵は強ければ強いほど、{n}倒しがいがあるからな。{n}じゃあな、{v4:2}。{p}{end}
+EN: The stronger the opponent, the sweeter the win. See you, {v4:2}.{p}{end}
+
+## MGM09 g0 s0053
+JP: （恭介……少し楽しそうだったな。）{p}
+EN: (Kyosuke... looked like he was having fun.){p}
+
+## MGM09 g0 s0054
+JP: よぅ、岩!{n}今から帰りなのか?{p}
+EN: Yo, Gan! Heading home?{p}
+
+## MGM09 g0 s0055
+JP: そうじゃ。{n}おぬしも帰りなら、{n}一緒につきあわんか?{p}{end}
+EN: That's right. If yer headin' home too, how 'bout comin' along?{p}{end}
+
+## MGM09 g0 s0056
+JP: 一緒に帰る{n}遠慮する{p}{end}
+EN: Walk home with him{n}I'll pass{p}{end}
+
+## MGM09 g0 s0057
+JP: う～ん。{n}悪いんだけど、{n}今日これから行くところがあるんだ。{n}また今度誘ってくれよ。{p}{end}
+EN: Hmm. Sorry, but I've got somewhere to be today. Ask me again sometime.{p}{end}
+
+## MGM09 g0 s0058
+JP: ならしょうがないのう。{n}じゃあサラバじゃ!{p}
+EN: Can't be helped, then. So long!{p}
+
+## MGM09 g0 s0059
+JP: （岩は一人で帰っていった。{n}{sp}さてと、俺も移動しよう。）{p}{end}
+EN: (Gan headed home alone. Well, I'd better get moving too.){p}{end}
+
+## MGM09 g0 s0060
+JP: いいぜ、一緒に帰ろう。{n}ちょうどブラブラしようと{n}思ってたからな。{p}
+EN: Sure, let's go together. I was just thinking about wandering around anyway.{p}
+
+## MGM09 g0 s0061
+JP: なら、繁華街に出てみようかの!{p}
+EN: Then let's head downtown!{p}
+
+## MGM09 g0 s0062
+JP: あれ……?{n}道端で小さな女の子が{n}泣きじゃくっている。{n}辺りには親らしき姿は見えない。{p}
+EN: Huh...? A little girl is sobbing by the side of the road. There's no sign of her parents anywhere.{p}
+
+## MGM09 g0 s0063
+JP: 話しかける{n}通り過ぎる{p}
+EN: Talk to her{n}Walk on by{p}
+
+## MGM09 g0 s0064
+JP: （どうにかしてあげたいけど……{n}{sp}近くに交番もないしなぁ……）{p}
+EN: (I'd like to help her, but... there's no police box nearby either...){p}
+
+## MGM09 g0 s0065
+JP: 一体どうしたんじゃ?{n}お母ちゃんと、{n}はぐれてしもうたのか?{p}{end}
+EN: What's the matter, little one? Got separated from yer mama?{p}{end}
+
+## MGM09 g0 s0066
+JP: （突如、岩が大きな身体を屈ませて、{n}{sp}女の子に話しかけた。{n}{sp}いつもの岩からは想像できない、{n}{sp}優しい声で。）{p}
+EN: (Suddenly Gan crouched his huge body down and spoke to the girl. In a gentle voice I'd never have imagined from him.){p}
+
+## MGM09 g0 s0067
+JP: ほれほれ、{n}そんなに泣いてばかりじゃ{n}わからんぞい。{n}これでも食べてみい。{p}
+EN: There, there. Can't tell what's wrong if ya just keep cryin'. Here, try some of this.{p}
+
+## MGM09 g0 s0068
+JP: （岩がポケットから差し出した{n}{sp}甘そうなミルクチョコを見て、{n}{sp}女の子がちょっと泣き止んだ。）{p}
+EN: (The girl saw the sweet-looking milk chocolate Gan held out from his pocket, and her crying eased a little.){p}
+
+## MGM09 g0 s0069
+JP: うまいか?{n}これはワシも大好物なんじゃ。{p}{end}
+EN: Good, ain't it? It's one of my favorites too.{p}{end}
+
+## MGM09 g0 s0070
+JP: よし!{sp}じゃあ、{n}ワシと一緒にお母ちゃん探そう!{n}なぁに、必ず見つかるから、{n}心配せんでええぞい!{p}
+EN: Alright! Now let's go find yer mama together! Don't ya fret, we'll find her for sure!{p}
+
+## MGM09 g0 s0071
+JP: 岩……よし。{n}じゃあ俺も手伝うよ。{p}
+EN: Gan... OK. I'll help too.{p}
+
+## MGM09 g0 s0072
+JP: …………おぬし、{n}さっき、この子の前を{n}通りすぎようとしたじゃろう?{p}{end}
+EN: ......You. A minute ago ya were gonna walk right past this little one, weren't ya?{p}{end}
+
+## MGM09 g0 s0073
+JP: !!…………。{p}
+EN: !!......{p}
+
+## MGM09 g0 s0074
+JP: そんなやつには、{n}手伝って欲しくないのう。{n}サラバじゃ!{p}{end}
+EN: Don't want help from the likes of that. So long!{p}{end}
+
+## MGM09 g0 s0075
+JP: （…………はぁ。{n}{sp}どうして、{n}{sp}助けてあげなかったのかな……）{p}{end}
+EN: (......Sigh. Why didn't I help her...?){p}{end}
+
+## MGM09 g0 s0076
+JP: （可哀相に……迷子だな。{n}{sp}とりあえず話しかけてみよう。）{p}
+EN: (Poor thing... She's lost. I'll try talking to her.){p}
+
+## MGM09 g0 s0078
+JP: （俺は、その子に声をかけようとしたが、{n}{sp}岩の行動は俺より素早かった。）{p}{end}
+EN: (I went to speak to her, but Gan moved faster than me.){p}{end}
+
+## MGM09 g0 s0079
+JP: （大きな身体を屈ませ、{n}{sp}いつもの岩からは想像できない、{n}{sp}優しい声で。）{p}
+EN: (He crouched his huge body down and spoke in a gentle voice I'd never have imagined from him.){p}
+
+## MGM09 g0 s0084
+JP: （そういって岩は、{n}{sp}女の子を肩に乗せてやった。{n}{sp}始めは怖がっていた女の子も、{n}{sp}次第に笑顔を浮かべるようになった。）{p}{end}
+EN: (With that, Gan lifted the girl onto his shoulders. She was scared at first, but little by little she started to smile.){p}{end}
+
+## MGM09 g0 s0086
+JP: うむ!{n}じゃあどこを探そうかの!?{p}
+EN: Right! So where should we look!?{p}
+
+## MGM09 g0 s0087
+JP: デパートの婦人服売り場へ行く{n}近くの喫茶店へ行く{p}{end}
+EN: Dept. store, women's clothing{n}The cafe nearby{p}{end}
+
+## MGM09 g0 s0088
+JP: （デパートの婦人服売り場に来たぞ。）{p}{end}
+EN: (Here I am at the department store's women's clothing section.){p}{end}
+
+## MGM09 g0 s0089
+JP: {col:3}女の子{col:-}{n}「ママ…………いない……」{p}
+EN: {col:3}Little Girl{col:-}{n}"Mommy...... isn't here..."{p}
+
+## MGM09 g0 s0090
+JP: そうか?{n}じゃ、別の場所に移動じゃ!!{p}
+EN: That so? Then off to the next place!!{p}
+
+## MGM09 g0 s0091
+JP: （すぐそばの喫茶店に入ってみた。）{p}
+EN: (We tried the cafe right nearby.){p}
+
+## MGM09 g0 s0092
+JP: どうじゃ?{n}この中にはいないのか?{p}
+EN: Well? She ain't in here?{p}
+
+## MGM09 g0 s0093
+JP: {col:3}女の子{col:-}{n}「ふぇ……ママ…………どこ?」{p}
+EN: {col:3}Little Girl{col:-}{n}"Waah... Mommy...... where are you?"{p}
+
+## MGM09 g0 s0094
+JP: 岩。{n}ひとまず、はじめにいた場所に{n}戻ってみないか?{p}{end}
+EN: Gan. Why don't we go back to where we first found her?{p}{end}
+
+## MGM09 g0 s0098
+JP: やべ……。{n}次行こう、次!{p}
+EN: Uh-oh... Next place, next!{p}
+
+## MGM09 g0 s0101
+JP: ううむ……{n}{v3:11}よ、ひとまずはじめの場所に{n}戻ってみんか?{p}
+EN: Hmm... {v3:11}, how 'bout we head back to where we started?{p}
+
+## MGM09 g0 s0102
+JP: もしかしたら戻ってるか……、{n}と思ったけど……。{p}{end}
+EN: I thought she might have come back... but...{p}{end}
+
+## MGM09 g0 s0103
+JP: それらしいのは{n}おらんようじゃのう。{p}{end}
+EN: Don't look like anybody's here.{p}{end}
+
+## MGM09 g0 s0104
+JP: {col:3}女の子{col:-}{n}「ママ……ママ…………」{p}{end}
+EN: {col:3}Little Girl{col:-}{n}"Mommy... Mommy......"{p}{end}
+
+## MGM09 g0 s0105
+JP: 大丈夫!!{n}ワシらを信じておれば{n}絶対に大丈夫じゃ!!{n}ウソついたら針千本じゃ!{p}{end}
+EN: It's okay!! Ya trust us and it'll be okay for sure!! Cross my heart!{p}{end}
+
+## MGM09 g0 s0106
+JP: {col:3}母親{col:-}{n}「あっ!!{n}{sp}かおり!{sp}かおり!!」{p}
+EN: {col:3}Mother{col:-}{n}"Oh!! Kaori! Kaori!!"{p}
+
+## MGM09 g0 s0107
+JP: {col:3}女の子{col:-}{n}「あっ、ママだ!」{p}
+EN: {col:3}Little Girl{col:-}{n}"Oh, it's Mommy!"{p}
+
+## MGM09 g0 s0108
+JP: ふう、やっと見つかったか。{n}どうなることかと思ったよ……。{p}
+EN: Phew, we finally found her. I was wondering how this would turn out...{p}
+
+## MGM09 g0 s0109
+JP: {col:3}母親{col:-}{n}「本当に……、{n}{sp}ありがとうございました。」{p}
+EN: {col:3}Mother{col:-}{n}"Thank you... so very much."{p}
+
+## MGM09 g0 s0110
+JP: いや、見つかってよかったわい!{n}どうじゃ?{n}ちゃんと約束守ったじゃろう?{p}{end}
+EN: Nah, just glad we found her! See? I kept my promise, didn't I?{p}{end}
+
+## MGM09 g0 s0111
+JP: {col:3}女の子{col:-}{n}「うん!{n}{sp}ありがとう、お兄ちゃんたち!」{p}
+EN: {col:3}Little Girl{col:-}{n}"Uh-huh! Thank you, big brothers!"{p}
+
+## MGM09 g0 s0112
+JP: （女の子は、{n}{sp}母親の手をしっかり握り、{n}{sp}いつまでも俺たちに{n}{sp}手を振りながら帰っていった……）{p}
+EN: (Holding her mother's hand tight, the girl went home waving at us the whole way...){p}
+
+## MGM09 g0 s0113
+JP: はぁ……よかった。{n}でも、岩。{n}お前やたら子供の扱いうまくないか?{p}
+EN: Phew... Good. But Gan, aren't you weirdly good with kids?{p}
+
+## MGM09 g0 s0114
+JP: そりゃそうじゃ。{n}ウチには、年下の弟妹が6人おるからのう!{n}子供の面倒をみるのは慣れとるんじゃ!{p}{end}
+EN: Course I am. Got six little brothers and sisters at home! I'm used to lookin' after kids!{p}{end}
+
+## MGM09 g0 s0115
+JP: （なるほど……。{n}{sp}しかし今日は、{n}{sp}岩の意外な一面が見れたな……）{p}{end}
+EN: (I see... I sure saw an unexpected side of Gan today...){p}{end}
+
+## MGM09 g0 s0116
+JP: グラウンドに出てみると、{n}ロベルトが一人で練習している{n}トコロだった。{p}
+EN: When I went out to the field, Roberto was practicing on his own.{p}
+
+## MGM09 g0 s0117
+JP: シュッ!{n}それっ!{n}いくぜっ!{n}爆裂!{sp}Vゴール!!{p}{end}
+EN: Hup! Now! Here goes! Explosive! Victory Goal!!{p}{end}
+
+## MGM09 g0 s0118
+JP: （あいかわらず、熱いなぁ。{n}{sp}お、こっちに気づいたみたいだ。）{p}
+EN: (Fired up as always. Oh, looks like he noticed me.){p}
+
+## MGM09 g0 s0119
+JP: よぉ、{v3:5}じゃないか。{n}どうだ、ちょっと練習に{n}つきあわないか?{p}{end}
+EN: Hey, if it isn't {v3:5}. How about helping me practice for a bit?{p}{end}
+
+## MGM09 g0 s0120
+JP: 練習につきあう{n}やめておく{p}
+EN: Help him practice{n}Pass{p}
+
+## MGM09 g0 s0121
+JP: いや、やめておくよ。{n}ちょっと、今日は他に用事があるんだ。{n}ゴメンな。{p}
+EN: Nah, I'll pass. I've got other plans today. Sorry.{p}
+
+## MGM09 g0 s0122
+JP: 気にするな、気にするな。{n}じゃあな、{n}また今度、頼むぜ。{p}{end}
+EN: Don't worry about it. See ya, I'll count on you next time.{p}{end}
+
+## MGM09 g0 s0123
+JP: ロベルトには悪いコトしたかな。{n}……さてと、次は{n}どこにいこうかな。{p}{end}
+EN: Maybe that wasn't nice to Roberto... OK, where to next?{p}{end}
+
+## MGM09 g0 s0124
+JP: そうだな、{n}ちょうど、身体を動かしたかったんだ。{n}つきあってやるよ。{p}{end}
+EN: Sure, I was itching to move around anyway. I'll join you.{p}{end}
+
+## MGM09 g0 s0125
+JP: 助かったよ。ちょっと{n}セービングの練習がしたくてな。{n}シュートは一人でもできるが、{n}セービングは相手がいないとな。{p}
+EN: That's a big help. I wanted to work on my saves. I can practice shooting alone, but saves need a partner.{p}
+
+## MGM09 g0 s0126
+JP: なるほど。{n}じゃ、俺がシュートを{n}撃てばいいのかな?{p}{end}
+EN: Got it. So I just have to take shots?{p}{end}
+
+## MGM09 g0 s0127
+JP: その通り。{n}場所は、そう、そのへんからなら{n}どこでもいいぜ。{n}いろいろなコースに頼むぞ。{p}{end}
+EN: Exactly. From anywhere around there is fine. Mix up the angles for me.{p}{end}
+
+## MGM09 g0 s0128
+JP: よし!{n}任せておけよ、{n}俺の自慢の右足が火を噴くぜ!{p}{end}
+EN: All right! Leave it to me. My trusty right foot's gonna breathe fire!{p}{end}
+
+## MGM09 g0 s0129
+JP: シュッ!{sp}……ガシッ!{n}フッ!{sp}……バシッ!{n}それっ!{sp}……ガシッ!{n}シューッ!{sp}……バシッ!{p}
+EN: Fwoosh! ...Thud! Hff! ...Smack! Hah! ...Thud! Shoom! ...Smack!{p}
+
+## MGM09 g0 s0130
+JP: なかなかいいシュートだ。{n}だがこれじゃ、まだまだ俺から{n}ゴールは奪えないな。{p}{end}
+EN: Not bad shots. But that's not nearly enough to get a goal past me.{p}{end}
+
+## MGM09 g0 s0131
+JP: う～ん、ちょっと調子が{n}出ないだけさ。{n}よし、何か賭けよう!{n}そっちの方が本気がでる!!{p}{end}
+EN: Hmm, I'm just not warmed up. OK, let's bet on something! That'll get me serious!!{p}{end}
+
+## MGM09 g0 s0132
+JP: ほほぉ、この俺とサッカーで{n}勝負しようっていうのか?{n}いいとも、10球PKして、{n}一回でも入ったら、お前の勝ちでどうだ?{p}{end}
+EN: Oho, you want to take me on at soccer? Sure. Ten PKs, and if even one goes in, you win. How's that?{p}{end}
+
+## MGM09 g0 s0133
+JP: よしっ!{sp}その勝負、受けた!!{n}負けた方が、ハンバーガーを{n}おごるってのでどうだ!?{p}{end}
+EN: All right! You're on!! Loser buys burgers. How's that!?{p}{end}
+
+## MGM09 g0 s0134
+JP: いいだろう!{n}よしっ!{n}来い!!{p}{end}
+EN: Fine by me! All right! Bring it!!{p}{end}
+
+## MGM09 g0 s0135
+JP: {face:15}・・・・・・・・・・{face:255}{n}（……と、威勢よく勝負を受けたはいいが、{n}{sp}あっという間に9球止められた……。{n}{sp}残すはあと1球か……。）{p}{end}
+EN: {face:15}..........{face:255} (...I took the bet with gusto, but he stopped nine in no time... Just one shot left...){p}{end}
+
+## MGM09 g0 s0136
+JP: どうした、どうした!{n}調子がいいのは口だけか?{n}ラスト1球くらい、全力で来いよ!{p}{end}
+EN: What's wrong, what's wrong! All talk? Give that last one everything you've got!{p}{end}
+
+## MGM09 g0 s0137
+JP: （ムムッ、くやしい……。{n}{sp}ちょっと本気で考えよう……。{n}{sp}俺の利き足が右足で、{n}{sp}ここ3球は全部左に蹴ってるから……）{p}{end}
+EN: (Grr, so frustrating... Time to think for real... I'm right-footed, and my last three shots all went left...){p}{end}
+
+## MGM09 g0 s0138
+JP: 左とみせかけて右{n}左とみせかけてやっぱり左{n}右とみせかけて左{n}右とみせかけてやっぱり右{p}
+EN: Fake left, go right{n}Fake left, go left after all{n}Fake right, go left{n}Fake right, go right after all{p}
+
+## MGM09 g0 s0139
+JP: （よし!{sp}左とみせかけて右だ!）{p}{end}
+EN: (OK! Fake left, go right!){p}{end}
+
+## MGM09 g0 s0140
+JP: シューッ!!{p}{end}
+EN: Hyah!!{p}{end}
+
+## MGM09 g0 s0141
+JP: 甘い!{n}……バシッ!{p}{end}
+EN: Nope!! ...Smack!{p}{end}
+
+## MGM09 g0 s0142
+JP: ふふっ、フェイントとは考えたな。{n}だが、さすがに4回連続で左ってコトは{n}ないだろうと読んだんだが、{n}バッチリだったな。{p}
+EN: Heh, a feint, smart. But I figured you wouldn't go left four times in a row, and I read it perfectly.{p}
+
+## MGM09 g0 s0143
+JP: （よし!{sp}素直に左に一本にかけるぜ!）{p}
+EN: (OK! I'll bet it all on left, plain and simple!){p}
+
+## MGM09 g0 s0145
+JP: そこだっ!{n}……グハッ!?{p}
+EN: There!! ...Oof!?{p}
+
+## MGM09 g0 s0146
+JP: しまった、思ったより{n}威力があったな。{n}読みは当たってたんだが……{n}ハジかれるとは、俺も修行が足りんぜ……。{p}{end}
+EN: Damn, more power than I expected. I read it right... but it knocked through my hands. I still need more training...{p}{end}
+
+## MGM09 g0 s0147
+JP: そこだっ!{n}……バシッ!!{p}
+EN: There!! ...Smack!!{p}
+
+## MGM09 g0 s0148
+JP: まさか4回連続、左ってコトはないと{n}踏んだんだが……、{n}残念だったな。もう少し威力が{n}あれば、入ってただろうよ。{p}{end}
+EN: I figured you'd never go left four times in a row... Too bad. With a bit more power, it might've gone in.{p}{end}
+
+## MGM09 g0 s0149
+JP: （よし!{sp}今度こそ、右とみせかけて、{n}{sp}裏をかいて左だ!）{p}
+EN: (OK! This time, fake right and outsmart him with left!){p}
+
+## MGM09 g0 s0151
+JP: そっちか!?{n}……グハッ!{p}
+EN: That way!? ...Oof!{p}
+
+## MGM09 g0 s0152
+JP: しまった……、完全に読みがはずれたよ。{n}ナイスフェイントだな。{n}まさか4回連続で左はないと{n}踏んだんだが……。{p}
+EN: Damn... I totally misread it. Nice feint. I figured you'd never go left four times in a row...{p}
+
+## MGM09 g0 s0153
+JP: （よし、次は逆の右に決めてやる!）{p}
+EN: (OK, next I'll nail it the other way, to the right!){p}
+
+## MGM09 g0 s0155
+JP: 甘い!{n}……グハッ!?{p}
+EN: Nope!! ...Oof!?{p}
+
+## MGM09 g0 s0156
+JP: クソッ、はじかれた!{n}読みはあたったが、まさかこんなに{n}パワーがあるとは……、{n}見直したよ。{p}{end}
+EN: Damn, it got through! I read it, but I never thought you had this much power... I'm impressed.{p}{end}
+
+## MGM09 g0 s0157
+JP: 甘い!{n}……バシッ!!{p}
+EN: Nope!! ...Smack!!{p}
+
+## MGM09 g0 s0158
+JP: よしっ!{sp}がっちりキャッチ!{n}読み通りだな。{n}今度は右だろうと思ってたよ。{n}この威力なら、楽勝でキャッチできる。{p}{end}
+EN: Yes! Solid catch! Just as I read it. I figured you'd go right this time. With that little power, it's an easy catch.{p}{end}
+
+## MGM09 g0 s0159
+JP: やるな、{v3:5}。{n}見直したぜ、俺からゴールを{n}奪うとはな。{p}{end}
+EN: Not bad, {v3:5}. I'm impressed. You actually got one past me.{p}{end}
+
+## MGM09 g0 s0160
+JP: くやしいが仕方がない。{n}『ハンバーガー』をおごるよ。{n}ブラジル風のおいしい店があるんだ。{n}帰りに食いに行こう。{p}
+EN: It stings, but a bet's a bet. I'll treat you to a burger. There's a great Brazilian-style place. Let's go eat on the way home.{p}
+
+## MGM09 g0 s0161
+JP: {col:0}『ブラジル風ハンバーガー』{col:-}を{n}おごってもらった!{p}{end}
+EN: Got treated to a {col:0}"Brazilian Burger"{col:-}!{p}{end}
+
+## MGM09 g0 s0162
+JP: ふふっ、サッカーでこの俺に{n}勝とうなんて10年早いぜ、{n}{v3:5}。{n}出直して来るんだな。{p}{end}
+EN: Heh, beating me at soccer? Ten years too early, {v3:5}. Come back when you're ready.{p}{end}
+
+## MGM09 g0 s0163
+JP: というわけで、{n}ハンバーガーをおごってもらおうかな。{n}帰りに食いに行こう。{n}アリガトな!{p}{end}
+EN: So I'll take that burger. Let's go eat on the way home. Thanks!{p}{end}
+
+## MGM09 g0 s0164
+JP: さすがに勝てないか……。{n}……残念。{p}{end}
+EN: Guess I really can't beat him... Too bad.{p}{end}
+
+## MGM09 g0 s0165
+JP: 放課後のグラウンドで{n}ボーマンが何か一生懸命拾っているぞ。{n}何拾っているんだ?{p}
+EN: On the field after school, Boman is picking something up very intently. What's he picking up?{p}
+
+## MGM09 g0 s0166
+JP: ボーマンに話しかける{n}別の場所へ行く{p}{end}
+EN: Talk to Boman{n}Go somewhere else{p}{end}
+
+## MGM09 g0 s0167
+JP: おーい、ボーマン!{n}さっきから何を一生懸命拾ってるんだ?{p}{end}
+EN: Hey, Boman! What've you been picking up so hard?{p}{end}
+
+## MGM09 g0 s0168
+JP: {v4:8}ですか。{n}見てくださいこれを!{n}グラウンドにビンのかけらや大きな石が{n}こんなにも落ちています。{p}
+EN: Ah, {v4:8}. Look at this! There are so many glass shards and big rocks lying on the field.{p}
+
+## MGM09 g0 s0169
+JP: 万が一ここで転んだりすれば{n}大きなケガにつながってしまいます。{n}ですから少しでも安全になるように{n}拾っていたところなのです。{p}{end}
+EN: If someone fell here, they could be badly hurt. So I was picking them up to make it even a little safer.{p}{end}
+
+## MGM09 g0 s0170
+JP: そういわれてみれば{n}結構危ないものが落ちてるなあ。{p}
+EN: Now that you mention it, there's a lot of dangerous stuff lying around.{p}
+
+## MGM09 g0 s0171
+JP: ボーマンの手伝いをする{n}ボーマンを応援する{n}ボーマンを無視する{p}
+EN: Help Boman{n}Cheer Boman on{n}Ignore Boman{p}
+
+## MGM09 g0 s0172
+JP: 一緒に手伝おうか。{p}
+EN: Want me to help?{p}
+
+## MGM09 g0 s0173
+JP: なんて君は優しいんだ、{n}神よ、この者に祝福を!{p}
+EN: How kind you are! O God, bless this person!{p}
+
+## MGM09 g0 s0174
+JP: まったくボーマンはおおげさだなあ。{n}さあ、頑張って拾おうぜ。{p}{end}
+EN: Geez, Boman, you're so dramatic. Come on, let's get picking.{p}{end}
+
+## MGM09 g0 s0175
+JP: 結構いっぱいあったなあ。{n}でも二人でやったから早く片付いたな。{p}
+EN: That was a lot of stuff. But with two of us, it went fast.{p}
+
+## MGM09 g0 s0176
+JP: これもすべて{v4:8}と{n}神のおかげです。{n}感謝。{p}{end}
+EN: This is all thanks to {v4:8} and to God. I am grateful.{p}{end}
+
+## MGM09 g0 s0177
+JP: そ、そんなに感謝しなくてもいいよ。{n}でも、やっぱり良い事やった後は{n}気分がいいなあ。{p}{end}
+EN: Y-you don't have to thank me that much. But it does feel good to do a good deed.{p}{end}
+
+## MGM09 g0 s0178
+JP: そうか、大変だな!{n}がんばれ、ボーマン!{p}{end}
+EN: I see, that's rough! Hang in there, Boman!{p}{end}
+
+## MGM09 g0 s0179
+JP: ありがとう、{n}これも神が私に与えた{n}使命のひとつでしょう。{p}
+EN: Thank you. Surely this, too, is one of the missions God has given me.{p}
+
+## MGM09 g0 s0180
+JP: それでは私は{n}使命を続けさせてもらいます。{p}
+EN: Now, I will continue with my mission.{p}
+
+## MGM09 g0 s0181
+JP: ちょっと冷たかったかなあ。{n}今度会った時は手伝ってあげよう。{p}{end}
+EN: That was kind of cold of me. Next time I see him, I'll help out.{p}{end}
+
+## MGM09 g0 s0182
+JP: 何も無視することはないでしょう!{n}奉仕の精神を持たない人には{n}手伝ってもらう気はありません!{p}{end}
+EN: There is no need to ignore me! I do not want help from someone without a spirit of service!{p}{end}
+
+## MGM09 g0 s0183
+JP: ……私としたことが、{n}少し取り乱しました。{n}気にしないで下さい。{p}{end}
+EN: ...That was unlike me. I lost my composure a little. Please do not mind it.{p}{end}
+
+## MGM09 g0 s0184
+JP: こ、こわ～。{n}お、怒ったボーマンは恐かったなあ。{n}次からはあんまり怒らせないようにしよう。{p}
+EN: Y-yikes. An angry Boman is scary. I'd better not make him that mad again.{p}
+
+## MGM09 g0 s0185
+JP: ボーマンのことだから{n}また仕事させられるかも……。{n}別の場所に行こうっと。{n}どこに行こうかな?{p}
+EN: Knowing Boman, he might put me to work again... I'll go somewhere else. Where should I go?{p}
+
+## MGM09 g0 s0186
+JP: ヘイ!{sp}{v3:6}!{n}お前もそうなのか?{p}
+EN: Hey! {v3:6}! Are you one too?{p}
+
+## MGM09 g0 s0187
+JP: 「何のこと?」と聞き返す{n}ややこしそうだから逃げる{p}
+EN: Ask "What do you mean?"{n}Sounds messy, run for it{p}
+
+## MGM09 g0 s0188
+JP: 一体何のこと?{p}
+EN: What do you mean?{p}
+
+## MGM09 g0 s0189
+JP: ジャパニーズはみんな『ナットウ』という{n}腐ったフードを食べるそうじゃないか。{p}{end}
+EN: I hear all Japanese people eat a rotten food called "natto."{p}{end}
+
+## MGM09 g0 s0190
+JP: ひょっとしてキミもそのフードを{n}食べているのか?{p}{end}
+EN: Don't tell me you eat that food too?{p}{end}
+
+## MGM09 g0 s0191
+JP: 食べている{n}嫌いだから食べていない{p}
+EN: I eat it{n}I hate it, so I don't{p}
+
+## MGM09 g0 s0192
+JP: ああ、いつも食べているよ。{p}
+EN: Yeah, I eat it all the time.{p}
+
+## MGM09 g0 s0193
+JP: シッット!{n}やっぱりジャパニーズは{n}そんなものを食べていたのか。{p}{end}
+EN: Sh-shoot! So the Japanese really do eat that stuff.{p}{end}
+
+## MGM09 g0 s0194
+JP: キミとはフレンドリーな付き合いを{n}望んでいたが、{n}少し考えさせてもらうようにするよ。{p}{end}
+EN: I was hoping we could be friends, but I'll have to think it over a little.{p}{end}
+
+## MGM09 g0 s0195
+JP: ロイも食べてみればいいのに……。{p}{end}
+EN: Roy should just try it...{p}{end}
+
+## MGM09 g0 s0196
+JP: 実は僕も嫌いだから食べないんだよ。{p}
+EN: Actually, I hate it too, so I don't eat it.{p}
+
+## MGM09 g0 s0197
+JP: 話がわかるじゃないか、{v3:6}!{n}そのアメリカンスピリットがあれば{n}フレンドリーな付き合いができそうだ。{p}{end}
+EN: Now you're talking, {v3:6}! With that American spirit, I think we can be good friends.{p}{end}
+
+## MGM09 g0 s0198
+JP: じゃあこのアメリカンフードでも{n}一緒に食べよう。{p}{end}
+EN: Then let's eat some of this American food together.{p}{end}
+
+## MGM09 g0 s0199
+JP: {col:0}『アボガド』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Avocado"{col:-}!{p}
+
+## MGM09 g0 s0200
+JP: これとビターなチョコレートがあれば{n}ボクはゴキゲンなんだ、{n}覚えておいてくれ。{p}
+EN: Give me this and some bitter chocolate and I'm a happy guy. Remember that.{p}
+
+## MGM09 g0 s0201
+JP: お、覚えとくよ。{n}とにかくアボガドありがとう。{n}じゃあね!{p}
+EN: I-I'll remember. Anyway, thanks for the avocado. See ya!{p}
+
+## MGM09 g0 s0202
+JP: お、俺は違うから!{n}じゃあね!{p}
+EN: I-I'm not one! See ya!{p}
+
+## MGM09 g0 s0203
+JP: でも一体何を聞こうとしてたんだろう?{n}ま、いいか。{n}どこ行こうかな?{p}{end}
+EN: But what was he even trying to ask? Oh well. Where to now?{p}{end}
+
+## MGM09 g0 s0204
+JP: 屋上に上がると、雷蔵先生が{n}校庭を見下ろしていた。{n}学生生活をエンジョイする{n}生徒達を眺めて、満足しているようだ。{p}
+EN: When I went up to the roof, Principal Raizo was looking down at the schoolyard. He seemed pleased to watch the students enjoying school life.{p}
+
+## MGM09 g0 s0205
+JP: おお、{v0}{col:0}君{col:-}じゃないか。{n}わしに何か用かね?{p}
+EN: Oh, it's {v0}{col:0}-kun{col:-}. Is there something you need from me?{p}
+
+## MGM09 g0 s0206
+JP: 学園長に教えを乞いにきました{n}特に用事はないです{p}{end}
+EN: I came to ask for your teaching, sir{n}Nothing in particular{p}{end}
+
+## MGM09 g0 s0207
+JP: いや、通りがかっただけで、{n}特に用事はないです。{n}失礼します。{p}
+EN: No, I was just passing by. Nothing in particular. Excuse me.{p}
+
+## MGM09 g0 s0208
+JP: ……さてと、どこに行くかな。{p}{end}
+EN: ...Now, where should I go?{p}{end}
+
+## MGM09 g0 s0209
+JP: 学園長に、教えを乞いに来ました。{n}指導をお願いします!{p}
+EN: I came to ask for your teaching, sir. Please train me!{p}
+
+## MGM09 g0 s0210
+JP: ハッハッハ、よい心がけだ。{n}いいとも、忌野流体術の一手、{n}授けてやろう。{p}{end}
+EN: Ha ha ha, a fine attitude. Very well, I shall teach you a move of Imawano-Style martial arts.{p}{end}
+
+## MGM09 g0 s0211
+JP: では、何がよいかな。{n}『忌野流{sp}攻メノ型』と、{n}『忌野流{sp}守リノ型』、{n}どちらを教えて欲しい?{p}
+EN: Now, what shall it be? The "Imawano-Style Attack Form" or the "Imawano-Style Defense Form"? Which would you like to learn?{p}
+
+## MGM09 g0 s0212
+JP: 『忌野流{sp}攻メノ型』{n}『忌野流{sp}守リノ型』{p}
+EN: "Imawano-Style Attack Form"{n}"Imawano-Style Defense Form"{p}
+
+## MGM09 g0 s0213
+JP: では、『忌野流{sp}攻メノ型』を{n}お願いします。{p}{end}
+EN: Then the "Imawano-Style Attack Form," please.{p}{end}
+
+## MGM09 g0 s0214
+JP: うむ、よかろう。{n}これはあくまで、忌野流の初歩だが、{n}攻撃力を上げるには、有効な練習だ。{n}心して、取り組むように。{p}
+EN: Hm, very well. This is only the basics of Imawano-Style, but it is effective practice for raising your attack. Put your heart into it.{p}
+
+## MGM09 g0 s0215
+JP: では、『忌野流{sp}守リノ型』を{n}お願いします。{p}{end}
+EN: Then the "Imawano-Style Defense Form," please.{p}{end}
+
+## MGM09 g0 s0216
+JP: うむ、よかろう。{n}これはあくまで、忌野流の初歩だが、{n}防御力を上げるには、有効な鍛錬だ。{n}心して取り組むように。{p}{end}
+EN: Hm, very well. This is only the basics of Imawano-Style, but it is effective training for raising your defense. Put your heart into it.{p}{end}
+
+## MGM09 g0 s0217
+JP: （……こうして、雷蔵先生に{n}{sp}忌野流の特訓をしてもらった……）{p}
+EN: (...And so Principal Raizo gave me some Imawano-Style training...){p}
+
+## MGM09 g0 s0218
+JP: ……体育館の中をのぞき込むように、{n}ひそかにカメラを構える女生徒がいる。{n}今度は何を狙っているのか……。{p}{end}
+EN: ...A girl is peeking into the gym, secretly holding up a camera. What's she after this time...{p}{end}
+
+## MGM09 g0 s0219
+JP: ランに声をかける{n}巻き込まれるのはいやだ{p}{end}
+EN: Talk to Ran{n}Don't get dragged in{p}{end}
+
+## MGM09 g0 s0220
+JP: どうせまたロクでもない記事を{n}書こうとしてるんだろう……。{n}悪いけど、付き合ってられないよな。{n}別の場所へ移動だ。{p}
+EN: She's probably out to write another junk article... Sorry, but I can't be bothered. Off somewhere else.{p}
+
+## MGM09 g0 s0221
+JP: おーい、ラン!{n}今度は何狙ってるんだ?{p}
+EN: Hey, Ran! What are you after this time?{p}
+
+## MGM09 g0 s0222
+JP: しーーーーーーっっ!!!!{n}大きな声出さないでよ。{n}も～気がきかないんだから!{n}バレー部のスーパーエース、鮎原夏よ!{p}{end}
+EN: Shhhhhhh!!!! Not so loud! Geez, you're so clueless! It's the volleyball club's super ace, Natsu Ayuhara!{p}{end}
+
+## MGM09 g0 s0223
+JP: 夏がどうかしたのか?{p}{end}
+EN: What about Natsu?{p}{end}
+
+## MGM09 g0 s0224
+JP: ふふ……私の情報によるとね、{n}鮎原夏には年上の彼氏がいるらしいわ!{p}
+EN: Heh heh... According to my sources, Natsu Ayuhara has an older boyfriend!{p}
+
+## MGM09 g0 s0225
+JP: えっ、ホントかよ。{p}
+EN: Huh, seriously?{p}
+
+## MGM09 g0 s0226
+JP: 恐らくね……現時点で、{n}数人の目撃者が確認されているわ。{p}{end}
+EN: Most likely... So far, several eyewitnesses have been confirmed.{p}{end}
+
+## MGM09 g0 s0227
+JP: ……それって、{n}ただの噂話じゃないのか?{p}{end}
+EN: ...Isn't that just a rumor?{p}{end}
+
+## MGM09 g0 s0228
+JP: も～わかってないわねぇ。{n}だから、真実かどうかを{n}ワタシが確かめようとしてるんじゃない!{n}だから、アンタもついてきなさいよ。{p}{end}
+EN: Geez, you don't get it. That's exactly why I'm going to find out if it's true! So you're coming with me.{p}{end}
+
+## MGM09 g0 s0229
+JP: へ?{n}なんで俺が?{p}
+EN: Huh? Why me?{p}
+
+## MGM09 g0 s0230
+JP: つべこべ言わずに、{n}ワタシを手伝えばい・い・の!!{p}
+EN: No buts! You. Just. Help. Me!!{p}
+
+## MGM09 g0 s0231
+JP: しょうがない……手伝うか{n}夏がかわいそうだな……ジャマしよう{p}{end}
+EN: Oh well... I'll help{n}Poor Natsu... I'll get in the way{p}{end}
+
+## MGM09 g0 s0232
+JP: しょうがないな……{n}ランを一人にすると危なっかしいし、{n}ついてってやるよ。{p}
+EN: Oh well... Ran's a hazard on her own, so I'll tag along.{p}
+
+## MGM09 g0 s0233
+JP: （部活を終えた夏は後輩達と別れ、{n}{sp}一人で繁華街に訪れた。{n}{sp}やはり男と待ち合わせなのだろうか……）{p}{end}
+EN: (After practice, Natsu parted with her juniors and went downtown alone. Is she meeting a guy after all...?){p}{end}
+
+## MGM09 g0 s0234
+JP: ……!{n}あ、あれだわ!!{n}ホラ!!{p}
+EN: ...! Th-there he is!! Look!!{p}
+
+## MGM09 g0 s0235
+JP: （ランの指差す先には、{n}{sp}夏の到着に笑顔で手を振っている{n}{sp}大学生風の男がいた。{n}{sp}なかなかハンサムだ。）{p}
+EN: (Where Ran pointed, a college-looking guy was smiling and waving as Natsu arrived. Pretty handsome.){p}
+
+## MGM09 g0 s0236
+JP: やっぱり本当だったのね!{n}さっそく撮らなきゃ!!{n}（パシャパシャッ!!）{p}{end}
+EN: So it's true! Gotta get pictures!! (Click click!!){p}{end}
+
+## MGM09 g0 s0237
+JP: （へぇ……本当だったんだ。{n}{sp}夏がイイ顔で笑ってるよ……）{p}
+EN: (Huh... So it's true. Natsu's smiling so nicely...){p}
+
+## MGM09 g0 s0238
+JP: （その後デパートで男の服を見たて、{n}{sp}その日のデートは終わりらしい。{n}{sp}夏は控えめに手を振りながら{n}{sp}男を見送っている……）{p}{end}
+EN: (After that they picked out clothes for him at a department store, and that seemed to be it for the date. Natsu gave a little wave as he left...){p}{end}
+
+## MGM09 g0 s0239
+JP: 上出来、上出来!{n}今回はアンタがいたからラクだったわ!{n}ふふふ、これだけネタがあれば、{n}後は私の腕の見せ所ね!!{p}{end}
+EN: Great job, great job! It was easy this time thanks to you! Heh heh, with this much material, now it's time to show off my skills!!{p}{end}
+
+## MGM09 g0 s0240
+JP: そうはいかないよ!{p}
+EN: Not so fast!{p}
+
+## MGM09 g0 s0241
+JP: な、夏!?{n}もしかして、バレてたのか!?{p}{end}
+EN: N-Natsu!? Did you know all along!?{p}{end}
+
+## MGM09 g0 s0242
+JP: アンタたちが体育館前で{n}ゴチャゴチャやってた時から、{n}ずっと気づいてたわよ。{p}{end}
+EN: I've known ever since you two were fooling around in front of the gym.{p}{end}
+
+## MGM09 g0 s0243
+JP: （うわっ、カッコ悪ぅ～!!）{p}{end}
+EN: (Ugh, how embarrassing!!){p}{end}
+
+## MGM09 g0 s0244
+JP: 何するつもりかと思ってたけど……、{n}わかんないなぁ。{n}アタシとアニキの買い物が{n}そんなにネタになるの?{p}
+EN: I wondered what you were up to... but I don't get it. Is me shopping with my big brother really such a big story?{p}
+
+## MGM09 g0 s0245
+JP: 兄さん!?{n}うそでしょ?{p}{end}
+EN: Your brother!? You're kidding!{p}{end}
+
+## MGM09 g0 s0246
+JP: ホントだって。{n}鮎原春、大学生だよ。{p}{end}
+EN: It's true. Haru Ayuhara, college student.{p}{end}
+
+## MGM09 g0 s0249
+JP: ……それじゃアタシ、{n}夕ご飯の支度あるから。じゃね!{p}{end}
+EN: ...Anyway, I've gotta go make dinner. Later!{p}{end}
+
+## MGM09 g0 s0250
+JP: ……………………ラン。{p}
+EN: ......Ran.{p}
+
+## MGM09 g0 s0251
+JP: …………ま、まぁ、{n}こういう事もたまにはあるよね!{n}それじゃ、{v4:19}!{n}この次もちゃんと付き合いなさいよ!!{p}
+EN: ......W-well, these things happen sometimes! See ya, {v4:19}! Make sure you come along next time too!!{p}
+
+## MGM09 g0 s0252
+JP: （この次も…………{n}{sp}もう、カンベンして欲しいよ……）{p}
+EN: (Next time too...... Give me a break...){p}
+
+## MGM09 g0 s0253
+JP: よし、じゃあ二人で追っかけよう!{n}（途中でジャマしよう……{n}{sp}やっぱり夏のプライバシーだしな。）{p}{end}
+EN: OK, let's tail them together! (I'll throw her off along the way... It's Natsu's privacy, after all.){p}{end}
+
+## MGM09 g0 s0254
+JP: ちょっと{v4:19}!{n}ホントにこっちであってるんでしょうね?{p}
+EN: Hey, {v4:19}! Are you sure this is the right way?{p}
+
+## MGM09 g0 s0255
+JP: 大丈夫だよ、任せとけって。{n}（……ちゃんと違う向きに歩いてるから。）{p}{end}
+EN: Relax, leave it to me. (...I'm walking the wrong way on purpose.){p}{end}
+
+## MGM09 g0 s0256
+JP: それにしては……見えないわよ?{n}夏なら人込みでも一目で見つかるのに。{p}{end}
+EN: Then how come... I don't see her? Natsu sticks out even in a crowd.{p}{end}
+
+## MGM09 g0 s0257
+JP: （しまった……そりゃそうだ。{n}{sp}180センチ越える女の子って、{n}{sp}街でもそうそういないもんな。）{p}{end}
+EN: (Oops... She's right. You don't see many girls over 180 cm around town.){p}{end}
+
+## MGM09 g0 s0258
+JP: {v4:19}…………アンタまさか、{n}わざと迷ったんじゃないでしょうね?{p}
+EN: {v4:19}...... Don't tell me you got us lost on purpose?{p}
+
+## MGM09 g0 s0259
+JP: （き、記者の目はするどい!{n}{sp}ど、どうやって切り抜ける……?）{p}
+EN: (A reporter's eye is sharp! H-how do I get out of this...?){p}
+
+## MGM09 g0 s0260
+JP: あんなところに有名人が{n}実は……そうなんだ{p}
+EN: Look, a celebrity over there!{n}Actually... you're right{p}
+
+## MGM09 g0 s0261
+JP: ん～と、え～と……あっ!!{n}あそこに「ケン・マスターズ」が{n}歩いてるぞっ!!{p}{end}
+EN: Umm, uhh... Ah!! Look, Ken Masters is walking over there!!{p}{end}
+
+## MGM09 g0 s0262
+JP: えっ、うそっ!{n}ワタシ大ファンなのよ!!{n}ねぇ、どっちに歩いてった!?{p}
+EN: What, no way! I'm a huge fan!! Hey, which way did he go!?{p}
+
+## MGM09 g0 s0263
+JP: そこの角を左に曲がってったみたいだよ。{p}
+EN: Looks like he turned left at that corner.{p}
+
+## MGM09 g0 s0264
+JP: ゴメン、{v4:19}!!{n}今日はこれで解散にするから。{n}じゃね!!{p}
+EN: Sorry, {v4:19}!! That's it for today. Later!!{p}
+
+## MGM09 g0 s0265
+JP: （はぁ……とりあえず騙せたみたいだな……{n}{sp}……でも、明日が恐いよ…………）{p}{end}
+EN: (Phew... Looks like I fooled her for now... But I dread tomorrow......){p}{end}
+
+## MGM09 g0 s0266
+JP: ラン……ごめん。{n}実は…………その通りなんだ……。{p}
+EN: Ran... sorry. Actually...... you're right...{p}
+
+## MGM09 g0 s0267
+JP: うっそ!{sp}ホントなの!?{n}テキトーに言ってみただけなのに!!{n}も～どうしてくれるのよ!{p}
+EN: No way! Really!? I was just guessing!! Geez, how are you gonna make this up to me!?{p}
+
+## MGM09 g0 s0268
+JP: 悪かったよ。{n}おわびに晩飯おごるからさ。{p}{end}
+EN: Sorry. I'll buy you dinner to make up for it.{p}{end}
+
+## MGM09 g0 s0269
+JP: アタリマエよ!!{n}も～こうなったら、今日はとことん{n}付き合いなさいよ!!{p}{end}
+EN: You'd better!! Geez, now you're hanging out with me for the rest of the day!!{p}{end}
+
+## MGM09 g0 s0270
+JP: （言うんじゃなかった……かな。）{p}{end}
+EN: (Maybe I shouldn't have told her...){p}{end}
+
+## MGM09 g0 s0271
+JP: （……俺の悪い予感は的中した。）{p}{end}
+EN: (...My bad feeling was right on the money.){p}{end}
+
+## MGM09 g0 s0272
+JP: （ランに解放されたのは、{n}{sp}午後8時を少し回った頃。{n}{sp}あれから3時間近く、{n}{sp}あちこちを引きずりまわされた。）{p}{end}
+EN: (Ran finally let me go a little after 8 p.m. For nearly three hours she'd dragged me all over the place.){p}{end}
+
+## MGM09 g0 s0273
+JP: （くそぅ……{n}{sp}財布が寂しくなったなぁ…………）{p}{end}
+EN: (Ugh... My wallet's looking awfully thin......){p}{end}
+
+## MGM09 g0 s0274
+JP: ……ドゴッ!{sp}……バキッ!{n}「ヒャハハ!{sp}ナメてんじゃねぇぞ!」{n}……ドスッ!{sp}……ボゴッ!{p}{end}
+EN: ...Thud! ...Crack! "Hyah hah! Don't you mess with me!" ...Whump! ...Pow!{p}{end}
+
+## MGM09 g0 s0275
+JP: 体育館に向かっていると、{n}何やらケンカのような物音がする。{n}しかもあの声は……エッジらしいな。{p}
+EN: On my way to the gym, I heard what sounded like a fight. And that voice... sounds like Edge.{p}
+
+## MGM09 g0 s0276
+JP: 声のする方へいってみる{n}危ないので立ち去る{p}
+EN: Head toward the voice{n}It's dangerous, leave{p}
+
+## MGM09 g0 s0277
+JP: なんか、ヤバそうだなぁ。{n}関わり合いになる前に、{n}他の場所へいってみよう。{p}
+EN: That sounds bad. I'll go somewhere else before I get mixed up in it.{p}
+
+## MGM09 g0 s0278
+JP: ちょっといってみるか……。{n}……静かになったみたいだけど、{n}ケガとかしてたらヤバイよな……。{p}{end}
+EN: Guess I'll take a look... It's gone quiet, but if someone's hurt, that'd be bad...{p}{end}
+
+## MGM09 g0 s0279
+JP: よぉ、{v3:9}。{n}ちょっと遅かったな。{n}もう少し早けりゃ、俺の晴れ姿が{n}見れたのによ。{p}
+EN: Yo, {v3:9}. Ya missed it. If ya'd come a little sooner, ya coulda seen me in my glory.{p}
+
+## MGM09 g0 s0280
+JP: （見ると、エッジの足下に{n}{sp}不良らしき学生が3人ほど{n}{sp}転がっている……）{p}
+EN: (I looked, and three punks were sprawled at Edge's feet...){p}
+
+## MGM09 g0 s0281
+JP: そいつら、エッジがやったの?{p}{end}
+EN: Did you do that to them, Edge?{p}{end}
+
+## MGM09 g0 s0282
+JP: オウよ。{n}3人くらいじゃ、歯ごたえなかったけどな。{n}……そんな顔すんなよ、{n}ナイフなんて使ってねぇって。{p}{end}
+EN: Yup. Three guys weren't much of a workout, though. ...Don't make that face, I didn't use a knife.{p}{end}
+
+## MGM09 g0 s0283
+JP: （たしかに、全員たいしたケガは{n}{sp}していない……が、完全にKOされて{n}{sp}いるみたいだ……）{p}
+EN: (Sure enough, none of them was badly hurt... but they were out cold...){p}
+
+## MGM09 g0 s0284
+JP: さてと、先公が来ると{n}メンドウだからな、{n}とっととズラかるか。{n}{v3:9}、上着とってくれ。{p}
+EN: Well, teachers showin' up would be a pain, so let's get outta here. {v3:9}, grab my jacket.{p}
+
+## MGM09 g0 s0285
+JP: あ、ちょっとエッジ……!{p}{end}
+EN: H-hey, Edge...!{p}{end}
+
+## MGM09 g0 s0286
+JP: さてと、ここまで来れば{n}安心だ。{n}ん?{sp}どうしたんだ、{n}{v3:9}。{p}
+EN: Okay, we're safe this far. Hm? What's with you, {v3:9}?{p}
+
+## MGM09 g0 s0287
+JP: なんでケンカなんかしてたんだ?{n}しかも学校内で……。{p}{end}
+EN: Why were you fighting? At school, too...{p}{end}
+
+## MGM09 g0 s0288
+JP: んーーー別にー……。{n}……ただアイツらよ、女の子に{n}カツアゲしようとしてたからよ……、{p}
+EN: Mmm... no reason... Just, those guys were tryin' to shake down a girl...{p}
+
+## MGM09 g0 s0289
+JP: 弱いものイジメはやめなさいってな。{n}優しく注意してあげたんだけど、{n}いきなり突っかかってきたから、{n}こっちも、つい、な。{p}{end}
+EN: So I told 'em nice and gentle, quit pickin' on the weak. Then they came at me outta nowhere, so I kinda... y'know.{p}{end}
+
+## MGM09 g0 s0290
+JP: へぇ、女の子を守ってあげたんだ……。{p}{end}
+EN: Huh, so you protected a girl...{p}{end}
+
+## MGM09 g0 s0291
+JP: エッジって優しいな{n}エッジらしくないな{p}
+EN: That's kind of you, Edge{n}That's not like you, Edge{p}
+
+## MGM09 g0 s0292
+JP: エッジって優しいんだな。{n}見直したよ。{p}
+EN: You're actually kind, Edge. I'm impressed.{p}
+
+## MGM09 g0 s0293
+JP: カーッ、バカいってんじゃねぇよ。{n}俺は、たまたまその不良が{n}ムカついたからよ……。{p}
+EN: Pfft, don't talk crazy. Those punks just happened to tick me off...{p}
+
+## MGM09 g0 s0294
+JP: アレを助けたのはついでよ、ついで。{n}ま、ケンカになったとたん、{n}すっ飛んで逃げていったんで、{n}名前も聞けなかったんだけどよ……。{p}{end}
+EN: Savin' her was just a bonus. Anyway, the second the fight started she bolted, so I didn't even get her name...{p}{end}
+
+## MGM09 g0 s0295
+JP: やっぱり名前とかケータイの番号とか{n}聞きたかったんじゃないのか?{p}{end}
+EN: Bet you really wanted her name and cell number, huh?{p}{end}
+
+## MGM09 g0 s0296
+JP: てめぇと一緒にすんなってーの。{p}
+EN: Don't lump me in with you.{p}
+
+## MGM09 g0 s0297
+JP: ま、ひさびさのケンカでスカッとしたから{n}OKってことよ。{n}弱すぎて、ちょっと拍子抜けしたけどな。{p}{end}
+EN: Well, a good fight after so long felt great, so it's all good. They were so weak it was kinda a letdown, though.{p}{end}
+
+## MGM09 g0 s0298
+JP: （結局、ケンカは相手が悪かったらしく、{n}{sp}おとがめなしになった。{n}{sp}なんか、やることがエッジらしいなぁ。）{p}
+EN: (In the end, the other guys were in the wrong, so Edge got off scot-free. Somehow that's so Edge.){p}
+
+## MGM09 g0 s0299
+JP: ふふっ、エッジらしくないな、{n}女の子のためにケンカするなんて。{p}
+EN: Heh, that's not like you, Edge, fighting for a girl.{p}
+
+## MGM09 g0 s0300
+JP: ケッ、てめぇに{n}言われたくねぇっつーの。{p}{end}
+EN: Tch, look who's talkin'.{p}{end}
+
+## MGM09 g0 s0301
+JP: 俺はホレ、アレだぜ。{n}弱きを助け、強きをくじく、ってヤツ?{n}弱いものイジメしてるヤツ{n}見てっと、ムカつくんだよ。{p}{end}
+EN: Me, I'm one of those, y'know... help the weak and take down the strong? Seein' guys pick on the weak ticks me off.{p}{end}
+
+## MGM09 g0 s0302
+JP: ……勝つためには、どんな卑怯な{n}ことでもやるっていってた、{n}斬り込み隊長さんのセリフとは{n}思えないなー。{p}{end}
+EN: ...Funny thing to hear from the gang's spearhead, who said he'd do anything to win, no matter how dirty.{p}{end}
+
+## MGM09 g0 s0303
+JP: アレは、相手が強い場合にだなぁ……。{n}それによ、俺は卑怯なケンカは{n}ヤメたんだよ!{sp}これからは{n}正面から堂々といくってな。{p}
+EN: That's for when the other guy's strong... Besides, I quit fightin' dirty! From now on I go at 'em fair and square.{p}
+
+## MGM09 g0 s0304
+JP: ま、そんなわけでよ、{n}いいコトした後は何か清々しいね、{n}我ながら。{p}
+EN: So yeah, doin' a good deed feels kinda refreshin', if I say so myself.{p}
+
+## MGM09 g0 s0305
+JP: （結局、ケンカは相手が悪かったらしく、{n}{sp}おとがめなしになった。{n}{sp}なんか、エッジも変わったなぁ……）{p}
+EN: (In the end, the other guys were in the wrong, so Edge got off scot-free. Edge sure has changed...){p}
+
+## MGM09 g0 s0306
+JP: とりあえず暇なので、{n}保健室に顔を出してみると……、{n}めずらしいな、バツが来てるぞ。{p}{end}
+EN: I had nothing to do, so I dropped by the infirmary... and, surprise, Batsu's here.{p}{end}
+
+## MGM09 g0 s0307
+JP: 話しかける{n}ジャマになるので帰る{p}{end}
+EN: Talk to him{n}I'd be in the way, leave{p}{end}
+
+## MGM09 g0 s0308
+JP: （……どうやらバツは怪我をしたらしい。{n}{sp}治療のジャマをするといけないので、{n}{sp}サッサと別の場所へ行こう。）{p}{end}
+EN: (...Looks like Batsu got hurt. I shouldn't get in the way of his treatment, so I'll head somewhere else.){p}{end}
+
+## MGM09 g0 s0309
+JP: （……どうやらバツは怪我をしたらしい。{n}{sp}顔をしかめながら響子先生に{n}{sp}包帯を巻いてもらっている。）{p}{end}
+EN: (...Looks like Batsu got hurt. He's grimacing while Kyoko-sensei bandages him up.){p}{end}
+
+## MGM09 g0 s0310
+JP: どうしたんだ、バツ?{n}そんな大きな怪我するなんて。{p}
+EN: What happened, Batsu? How'd you get hurt that bad?{p}
+
+## MGM09 g0 s0311
+JP: よぉ……テテテ。{n}ちょっとしくじっちまってな。{n}でも、これぐらい{n}たいしたことねぇぜ。{p}
+EN: Yo... Ow ow ow. Messed up a little, that's all. But this is nothin'.{p}
+
+## MGM09 g0 s0312
+JP: そんな事ばっかり言って……。{n}いい?{n}今日だけは、しっかり静養しなさい。{n}さもないと、怪我が長引くわよ。{p}{end}
+EN: Always saying things like that... Listen. Today, at least, you rest properly. Otherwise that injury will drag on.{p}{end}
+
+## MGM09 g0 s0313
+JP: {v1}{col:0}クン{col:-}、{n}悪いけど彼、{n}家まで送っていってあげて。{n}途中危険だから。{p}{end}
+EN: {v1}{col:0}-kun{col:-}, sorry, but would you walk him home? It could be dangerous on the way.{p}{end}
+
+## MGM09 g0 s0314
+JP: わかりました。{n}行こうぜ、バツ。{p}{end}
+EN: Sure. Come on, Batsu.{p}{end}
+
+## MGM09 g0 s0315
+JP: ああ、すまねぇな……。{p}
+EN: Yeah, sorry 'bout this...{p}
+
+## MGM09 g0 s0316
+JP: あぁ、ついてねぇなぁ……。{n}この足じゃ、今日は{n}新聞配達も無理だな……。{p}{end}
+EN: Man, what rotten luck... With this leg, there's no way I can do my paper route today...{p}{end}
+
+## MGM09 g0 s0317
+JP: じゃあ、うちに遊びにこい{n}今日は休んで、しっかり治せ{p}{end}
+EN: Come over to my place{n}Take today off and heal up{p}{end}
+
+## MGM09 g0 s0318
+JP: 仕方ないさ。{n}もし今日無理して、明日から{n}しばらく動けなくなったら困るだろ?{p}{end}
+EN: Can't be helped. If you push it today and can't move for days after, that'd be worse, right?{p}{end}
+
+## MGM09 g0 s0319
+JP: ああ、わかってるって。{n}よし、ここまででいいぜ。{n}送ってくれてアリガトよ!!{p}{end}
+EN: Yeah, I know. OK, this is far enough. Thanks for walkin' me home!!{p}{end}
+
+## MGM09 g0 s0320
+JP: （バツ……無理して{n}{sp}元気だしてたみたいだな……）{p}
+EN: (Batsu... was forcing himself to act cheerful...){p}
+
+## MGM09 g0 s0321
+JP: じゃあ、暇なんだろ?{n}だったらうちに遊びにこいよ。{n}こないだ買った{n}格ゲーで勝負しようぜ。{p}
+EN: Then you're free, right? Come over to my place. Let's play that fighting game I just bought.{p}
+
+## MGM09 g0 s0322
+JP: ホントか?{n}一度やってみたかったんだ!{p}
+EN: Really? I've always wanted to try one!{p}
+
+## MGM09 g0 s0323
+JP: ……というのが、{n}このゲームの大体のルール。{n}覚えた?{p}
+EN: ...And those are the basic rules of the game. Got it?{p}
+
+## MGM09 g0 s0324
+JP: ちょ、ちょっと待ってくれよ。{n}こんなに沢山覚えきれねぇぞ。{p}
+EN: H-hold on. I can't remember all that.{p}
+
+## MGM09 g0 s0325
+JP: まぁ、基本さえ理解してれば、{n}後はやってみる方が早いよ。{p}{end}
+EN: Well, as long as you get the basics, it's faster to just play.{p}{end}
+
+## MGM09 g0 s0326
+JP: よし、{n}それもそうだな!{n}じゃあ、俺はこいつだ!!{p}
+EN: OK, good point! Then I'm takin' this guy!!{p}
+
+## MGM09 g0 s0327
+JP: そいつで来たか。{n}そいつは浮かせてからが勝負だぜ。{n}じゃあ、俺はこいつ。{n}よぉし、いくぜ!{p}
+EN: That one, huh? With him it's all about launching. OK, I'll take this one. All right, here goes!{p}
+
+## MGM09 g0 s0328
+JP: 相手はバツだ、全力で叩きのめす{n}初心者だし、手加減しよう{p}{end}
+EN: It's Batsu. Crush him at full power{n}He's a beginner. Go easy{p}{end}
+
+## MGM09 g0 s0329
+JP: （バツ相手に手加減は無用!{n}{sp}それがたとえゲームでもだ!!{n}{sp}こないだ練習したコンボでいくぜ!）{p}{end}
+EN: (No mercy against Batsu! Not even in a game!! Time for the combo I've been practicing!){p}{end}
+
+## MGM09 g0 s0330
+JP: これが弱パンチ……え?{n}うわっ!{sp}おい、いきなりかよ!{n}くそ、いてぇ……。{n}5発もくらっちまったぜ。{p}{end}
+EN: So this is light punch... Huh? Whoa! Hey, right off the bat!? Dammit, that hurts... I ate five hits!{p}{end}
+
+## MGM09 g0 s0331
+JP: （まだまだ……{n}{sp}浮かせてからこれで拾って……{n}{sp}最後はこれだ!!{n}{sp}ダメージは大きいぞ!）{p}{end}
+EN: (Not done yet... Launch, pick him up with this... and finish with this!! That's big damage!){p}{end}
+
+## MGM09 g0 s0332
+JP: ちょ、ちょっと待て!!{n}何にもできねぇじゃねぇか!{n}なんか汚ねぇぞ!{p}{end}
+EN: H-hold on!! I can't do anything! That's kinda dirty!{p}{end}
+
+## MGM09 g0 s0333
+JP: （言ってろ!{n}{sp}これでとどめだ……KO!{n}{sp}まずは俺の勝ちだ。）{p}{end}
+EN: (Say what you want! This finishes it... KO! First round's mine.){p}{end}
+
+## MGM09 g0 s0334
+JP: お前……、{n}初心者相手に遠慮しねぇな……。{p}
+EN: You... you don't hold back on a beginner, huh...{p}
+
+## MGM09 g0 s0335
+JP: ん?{n}手加減して欲しかったのか?{n}バツ。{p}{end}
+EN: Hm? Did you want me to go easy on you, Batsu?{p}{end}
+
+## MGM09 g0 s0336
+JP: 馬鹿野郎!{n}相手が強ければ強いほど{n}燃えてくるってもんだ!!{n}行くぜ!!{p}{end}
+EN: Idiot! The stronger the opponent, the more fired up I get!! Here I come!!{p}{end}
+
+## MGM09 g0 s0337
+JP: （……結局この日の対戦は、{n}{sp}52戦して{n}{sp}俺の39勝13敗だった。）{p}
+EN: (...In the end, out of 52 matches that day, I won 39 and lost 13.){p}
+
+## MGM09 g0 s0338
+JP: （だが、次第にバツも上達し、{n}{sp}終盤はバツの方が勝率は高かった。）{p}
+EN: (But Batsu kept getting better, and toward the end he was the one winning more.){p}
+
+## MGM09 g0 s0339
+JP: いや～、遊んだ遊んだ!{n}アリガトよ、{v3:0}。{n}今日は楽しかったぜ!{p}{end}
+EN: Man, that was a blast! Thanks, {v3:0}. I had fun today!{p}{end}
+
+## MGM09 g0 s0340
+JP: （ふぅ……{n}{sp}どうやら喜んでくれたみたいだ。{n}{sp}よかった……）{p}
+EN: (Phew... Looks like he enjoyed it. Good...){p}
+
+## MGM09 g0 s0341
+JP: （はじめてやるゲームで{n}{sp}ボコボコにされたんじゃ{n}{sp}面白さもわからないだろうし……）{p}{end}
+EN: (If he got beat to a pulp the first time he played, he'd never see what's fun about it...){p}{end}
+
+## MGM09 g0 s0342
+JP: （よし!{n}{sp}ここは接待プレーに徹しよう!）{p}
+EN: (OK! I'll go easy and play the good host!){p}
+
+## MGM09 g0 s0343
+JP: よし、こうだな。{n}うりゃっ!!{p}
+EN: OK, like this. Hyaah!!{p}
+
+## MGM09 g0 s0344
+JP: （そうそう、{n}{sp}それで相手を浮かせて……）{p}
+EN: (That's it, launch the opponent...){p}
+
+## MGM09 g0 s0345
+JP: ほっ!{sp}はっ!{sp}とぉっ!!{p}
+EN: Hup! Hah! Hyah!!{p}
+
+## MGM09 g0 s0346
+JP: （浮いてる間に{n}{sp}キックとパンチを……って、おい!{n}{sp}何発入れてるんだ、バツ!）{p}{end}
+EN: (While he's in the air, kicks and punches... Hey! How many hits are you landing, Batsu!?){p}{end}
+
+## MGM09 g0 s0347
+JP: ここだ!{n}ぜんか～い……。{p}
+EN: Now! Full poooower...{p}
+
+## MGM09 g0 s0348
+JP: ま、まずい!!{p}
+EN: Uh-oh!!{p}
+
+## MGM09 g0 s0349
+JP: いっけえぇぇーーーっっ!!!{p}{end}
+EN: Go get 'emmmmm!!!{p}{end}
+
+## MGM09 g0 s0350
+JP: （……危ないと思う間もなく、{n}{sp}俺のキャラは倒されていた。）{p}{end}
+EN: (...Before I knew it, my character was down.){p}{end}
+
+## MGM09 g0 s0351
+JP: （しかしバツ、{n}{sp}初プレイで浮かせ連続技から{n}{sp}超必殺技入れるなんて……）{p}
+EN: (But Batsu, landing a launcher combo into a super on his very first try...){p}
+
+## MGM09 g0 s0352
+JP: （本当にはじめてか!?{n}{sp}……もしそうなら、{n}{sp}アイツの格闘センスは{n}{sp}ゲームにまで対応してるのか!?）{p}{end}
+EN: (Is this really his first time!? ...If it is, does his fighting sense even work in video games!?){p}{end}
+
+## MGM09 g0 s0353
+JP: おい、{v3:0}!!{n}ちょっと弱いんじゃないか?{n}持ち主のくせによ。{p}
+EN: Hey, {v3:0}!! Aren't you kinda weak? It's your own game!{p}
+
+## MGM09 g0 s0354
+JP: い、今のはちょっと油断しただけだ。{n}今度は負けないって!{p}{end}
+EN: Th-that was just me getting careless. I won't lose next time!{p}{end}
+
+## MGM09 g0 s0356
+JP: （……負けた。{n}{sp}いったん狂ったリズムは、{n}{sp}ついにバツが帰るまで{n}{sp}元には戻らなかった……）{p}
+EN: (...I lost. Once my rhythm got thrown off, it never came back before Batsu went home...){p}
+
+## MGM09 g0 s0357
+JP: （バツは喜んでたけど……{n}{sp}…………スゲー悔しいぞ!!!）{p}
+EN: (Batsu was happy and all... but...... I'm so frustrated!!!){p}
+
+## MGM09 g0 s0358
+JP: 保健室に響子先生はいるかなあ。{p}
+EN: I wonder if Kyoko-sensei is in the infirmary.{p}
+
+## MGM09 g0 s0359
+JP: {v0}{col:0}君{col:-}、{n}どこか具合でも悪いのですか?{p}{end}
+EN: {v0}{col:0}-kun{col:-}, are you feeling unwell?{p}{end}
+
+## MGM09 g0 s0360
+JP: （げっ!{n}{sp}なんで英雄先生がここに?）{p}
+EN: (Yikes! Why is Hideo-sensei here?){p}
+
+## MGM09 g0 s0361
+JP: 逆に英雄先生に質問{n}ごまかして逃げる{p}{end}
+EN: Turn the question on Hideo-sensei{n}Fudge it and run{p}{end}
+
+## MGM09 g0 s0362
+JP: 先生の方こそ一体どうしたんですか?{p}
+EN: What are you doing here, sensei?{p}
+
+## MGM09 g0 s0363
+JP: わ、私はちょっと響子先生に{n}最近の生徒の健康面について{n}話し合っていたところですよ。{n}そ、そうですよね響子先生。{p}{end}
+EN: I-I was just discussing the recent health of our students with Kyoko-sensei. R-right, Kyoko-sensei?{p}{end}
+
+## MGM09 g0 s0364
+JP: とりあえずそういうことに{n}しておきましょうか。{n}うふふふ。{p}
+EN: Let's just say that's what it was. Hehehe.{p}
+
+## MGM09 g0 s0365
+JP: う～ん、{n}なんか怪しいなあ。{n}ここはひとつ……。{p}{end}
+EN: Hmm, something's fishy. Time to try a little something...{p}{end}
+
+## MGM09 g0 s0366
+JP: 「先生のシャツにキスマークが!」と言う{n}「あっ!{sp}ねずみだ!」と言う{p}{end}
+EN: Say "Lipstick on your shirt, sensei!"{n}Say "Look! A mouse!"{p}{end}
+
+## MGM09 g0 s0367
+JP: 先生のシャツにキスマークが!{p}{end}
+EN: There's lipstick on your shirt, sensei!{p}{end}
+
+## MGM09 g0 s0368
+JP: えっ!{n}ど、どこにです?{p}{end}
+EN: Wh-what! Wh-where?{p}{end}
+
+## MGM09 g0 s0369
+JP: うそですよ先生。{p}{end}
+EN: Just kidding, sensei.{p}{end}
+
+## MGM09 g0 s0370
+JP: せ、先生を馬鹿にするのも{n}いい加減にしなさい!{p}
+EN: Th-that is enough making a fool of your teacher!{p}
+
+## MGM09 g0 s0371
+JP: わーい、ごめんなさーいっと。{p}{end}
+EN: Waah, I'm sorryyy!{p}{end}
+
+## MGM09 g0 s0372
+JP: やっぱりあの二人の関係は怪しいなあ。{p}{end}
+EN: Those two are definitely up to something.{p}{end}
+
+## MGM09 g0 s0373
+JP: あっ!{sp}ねずみだ!{p}
+EN: Look! A mouse!{p}
+
+## MGM09 g0 s0375
+JP: 大丈夫です、響子先生。{n}この私が……、{n}どこにねずみがいるんです?{p}
+EN: It's all right, Kyoko-sensei. I will... Where is this mouse?{p}
+
+## MGM09 g0 s0376
+JP: 英雄先生に抱きついちゃって{n}お熱いこと。{n}あー熱い、熱い。{p}
+EN: Clinging to Hideo-sensei like that, how hot. Whew, it's getting hot in here.{p}
+
+## MGM09 g0 s0377
+JP: もう、{n}知りません!{p}{end}
+EN: Oh, honestly! I'm not listening!{p}{end}
+
+## MGM09 g0 s0378
+JP: ちょっとこっちに来なさい!{p}
+EN: Come over here this instant!{p}
+
+## MGM09 g0 s0379
+JP: あちゃー。{n}やっぱりちょっとやりすぎたかなあ。{p}
+EN: Oops. Guess I went a little too far.{p}
+
+## MGM09 g0 s0380
+JP: あんまり悪ふざけが過ぎるのは{n}よくないですよ。{p}
+EN: Pranks that go too far are not a good thing, you know.{p}
+
+## MGM09 g0 s0381
+JP: ……でもちょっと感謝してますよ。{p}{end}
+EN: ...But I am a little grateful.{p}{end}
+
+## MGM09 g0 s0382
+JP: なあんだ、{n}英雄先生もやっぱり{n}まんざらじゃなかったんだ。{n}良かった、良かった。{p}{end}
+EN: Aw, so Hideo-sensei doesn't mind after all. Good, good.{p}{end}
+
+## MGM09 g0 s0383
+JP: い、いえ間違えました。{n}それじゃ、失礼します。{p}
+EN: N-no, wrong room. Excuse me.{p}
+
+## MGM09 g0 s0384
+JP: びっくりした。{n}なんで英雄先生がいたんだろう。{n}違う所に行こう。{n}どこに行こうかな?{p}{end}
+EN: That was a shock. Why was Hideo-sensei here? I'll go somewhere else. Where should I go?{p}{end}
+
+## MGM09 g1 s0001
+JP: あれ、恭介。{n}何ブツブツ言ってるの?{p}{end}
+EN: Hey, Kyosuke. What are you muttering about?{p}{end}
+
+## MGM09 g1 s0002
+JP: {v7:2}か。いや、{n}委員の会議まで時間が空いたのでね。{n}暇つぶしに詰め将棋をやっていたのさ。{p}{end}
+EN: {v7:2}. Nothing much. I had time before the committee meeting, so I was doing shogi puzzles to kill it.{p}{end}
+
+## MGM09 g1 s0003
+JP: へぇ……。{n}そういや恭介はチェスとか将棋とか{n}得意だって言ってたもんね。{p}{end}
+EN: Huh... Come to think of it, you did say you're good at chess and shogi.{p}{end}
+
+## MGM09 g1 s0006
+JP: ごめん、恭介。{n}私、実はルールよく知らないのよ。{n}また今度教えてちょうだい?{p}{end}
+EN: Sorry, Kyosuke. I don't really know the rules. Teach me sometime, OK?{p}{end}
+
+## MGM09 g1 s0009
+JP: よーし、受けてたつわよ!{n}手加減は一切しないからね、恭介。{p}
+EN: All right, you're on! I'm not holding back one bit, Kyosuke.{p}
+
+## MGM09 g1 s0010
+JP: それは僕のセリフだよ、{v7:2}。{n}僕も気合を入れさせてもらうとしよう。{p}
+EN: That's my line, {v7:2}. I intend to give this my all as well.{p}
+
+## MGM09 g1 s0012
+JP: …………よし。{n}じゃあ{v7:2}が先攻だ。{p}{end}
+EN: ......All right. You go first, {v7:2}.{p}{end}
+
+## MGM09 g1 s0021
+JP: あ、あれ?{n}気がつくとずいぶん私の駒が減ってるわ。{n}なぜか王様が一人で……って、{n}囲まれてるじゃない!{p}
+EN: H-huh? I'm down a ton of pieces all of a sudden. Why's my king all by himself... Wait, he's surrounded!{p}
+
+## MGM09 g1 s0023
+JP: （つ、強い!{n}{sp}ていうか、私が弱すぎるの!?）{p}
+EN: (H-he's strong! Or am I just that bad!?){p}
+
+## MGM09 g1 s0024
+JP: 多少物足りなかったが、{n}いい暇つぶしにはなったよ。{n}もうすこし精進しろよ、{v7:2}。{p}{end}
+EN: It wasn't much of a challenge, but it passed the time nicely. Work on your game a bit more, {v7:2}.{p}{end}
+
+## MGM09 g1 s0025
+JP: あーもう!!{n}すっごく悔しい!!!{p}
+EN: Argh!! That's so frustrating!!!{p}
+
+## MGM09 g1 s0026
+JP: （相手は恭介よ、{n}{sp}まともにいっても勝ち目はないわ……{n}{sp}じゃ、こうよ!!）{p}{end}
+EN: (It's Kyosuke. Playing it straight, I don't stand a chance... So, this!!){p}{end}
+
+## MGM09 g1 s0027
+JP: !……{v7:2}、{n}その歩は将棋の定石から外れた一手。{n}それを知ってのことか?{p}{end}
+EN: ...! {v7:2}, that pawn move goes against all shogi theory. Do you realize that?{p}{end}
+
+## MGM09 g1 s0028
+JP: さぁて、どうでしょうね。{n}いずれにしても、{n}すでに戦いは始まってるのよ?{n}のんきに話しかけてて、いいのかな?{p}{end}
+EN: Well now, who knows? Either way, the battle's already started, you know. Should you really be chatting so casually?{p}{end}
+
+## MGM09 g1 s0030
+JP: （よしよし、{n}{sp}恭介は混乱しているみたい。）{p}{end}
+EN: (Good, good. Looks like Kyosuke's confused.){p}{end}
+
+## MGM09 g1 s0033
+JP: （盤上では白熱した戦いが続いている。{n}{sp}今のところ、恭介がやや優勢ね……。{n}{sp}序盤の劣勢を跳ね返すあたり、{n}{sp}やはり恭介は強い。）{p}
+EN: (The battle on the board is heating up. Right now Kyosuke has a slight edge... Bouncing back from a bad opening like that, he really is strong.){p}
+
+## MGM09 g1 s0036
+JP: （……!{sp}この一手は、{n}{sp}勝敗を左右するかもしれない……）{p}
+EN: (...! This move might decide the game...){p}
+
+## MGM09 g1 s0038
+JP: よし、角でその銀をいただき!{n}ここから攻めまくってあげるわ!{p}{end}
+EN: OK, my bishop takes that silver! Now I'm going all-out on the attack!{p}{end}
+
+## MGM09 g1 s0040
+JP: （……結局、私の攻めは全て恭介に{n}{sp}かわされてしまった。{n}{sp}その後の恭介の反撃に、私は{n}{sp}どうすることもできなかった……）{p}
+EN: (...In the end, Kyosuke dodged every attack I made. And when he struck back, I couldn't do a thing...){p}
+
+## MGM09 g1 s0041
+JP: ふふっ……、{n}おしかったな、{v7:2}。{n}もう少し攻めのバリエーションがあれば、{n}僕も危なかったかもね。{p}
+EN: Heh... Close one, {v7:2}. With a few more ways to attack, I might have been in trouble.{p}
+
+## MGM09 g1 s0047
+JP: ……!{n}もうこんな時間か。{n}すまない、{v7:2}。{n}どうやら時間切れのようだ。{p}{end}
+EN: ...! Is it this late already? Sorry, {v7:2}. It seems we're out of time.{p}{end}
+
+## MGM09 g1 s0048
+JP: ふぅ……。{n}とうとう決着はつかなかったね。{p}
+EN: Phew... We never did settle it.{p}
+
+## MGM09 g1 s0052
+JP: 敵は強ければ強いほど、{n}倒しがいがあるからな。{n}じゃあな、{v7:2}。{p}{end}
+EN: The stronger the opponent, the sweeter the win. See you, {v7:2}.{p}{end}
+
+## MGM09 g1 s0054
+JP: あら、岩!{n}今から帰りなの?{p}{end}
+EN: Oh, Gan! Heading home?{p}{end}
+
+## MGM09 g1 s0057
+JP: う～ん。{n}悪いんだけど、{n}今日これから行くところがあるの。{n}また今度誘ってちょうだい。{p}
+EN: Hmm. Sorry, but I've got somewhere to be today. Ask me again sometime, OK?{p}
+
+## MGM09 g1 s0059
+JP: （岩は一人で帰っていった。{n}{sp}さてと、私も移動しよう。）{p}{end}
+EN: (Gan headed home alone. Well, I'd better get moving too.){p}{end}
+
+## MGM09 g1 s0060
+JP: いいよ、一緒に帰ろう。{n}ちょうどブラブラしようと{n}思ってたトコだし。{p}{end}
+EN: Sure, let's go together. I was just about to wander around anyway.{p}{end}
+
+## MGM09 g1 s0071
+JP: 岩……よし。{n}じゃあ私も手伝うよ。{p}
+EN: Gan... OK. I'll help too.{p}
+
+## MGM09 g1 s0076
+JP: （可哀相に……迷子じゃない。{n}{sp}とりあえず話しかけてみよう。）{p}
+EN: (Poor thing... She's lost. I'll try talking to her.){p}
+
+## MGM09 g1 s0078
+JP: （私は、その子に声をかけようとしたが、{n}{sp}岩の行動は私より素早かった。）{p}{end}
+EN: (I went to speak to her, but Gan moved faster than me.){p}{end}
+
+## MGM09 g1 s0088
+JP: （デパートの婦人服売り場に来たわ。）{p}{end}
+EN: (Here I am at the department store's women's clothing section.){p}{end}
+
+## MGM09 g1 s0094
+JP: 岩。{n}ひとまず、はじめにいた場所に{n}戻ってみましょう?{p}
+EN: Gan. Let's go back to where we first found her, OK?{p}
+
+## MGM09 g1 s0098
+JP: やば……。{n}次行こう、次!{p}
+EN: Oops... Next place, next!{p}
+
+## MGM09 g1 s0099
+JP: （デパートの婦人服売り場に来たわよ。）{p}
+EN: (Here I am at the department store's women's clothing section.){p}
+
+## MGM09 g1 s0101
+JP: ううむ……{n}{v3:11}{col:0}さん{col:-}よ、{n}ひとまずはじめの場所に戻ってみんか?{p}
+EN: Hmm... {v3:11}{col:0}-san{col:-}, how 'bout we head back to where we started?{p}
+
+## MGM09 g1 s0108
+JP: ふう、やっと見つかったわ。{n}どうなることかと思った……。{p}{end}
+EN: Phew, we finally found her. I was wondering how this would turn out...{p}{end}
+
+## MGM09 g1 s0111
+JP: {col:3}女の子{col:-}{n}「うん!{n}{sp}ありがとう、{n}{sp}お兄ちゃん!{sp}お姉ちゃん!!」{p}
+EN: {col:3}Little Girl{col:-}{n}"Uh-huh! Thank you, big brother! Big sister!!"{p}
+
+## MGM09 g1 s0112
+JP: （女の子は、{n}{sp}母親の手をしっかり握り、{n}{sp}いつまでも私たちに{n}{sp}手を振りながら帰っていった……）{p}
+EN: (Holding her mother's hand tight, the girl went home waving at us the whole way...){p}
+
+## MGM09 g1 s0113
+JP: はぁ……よかった。{n}でも、岩。{n}やたら子供の扱いうまくなかった?{p}{end}
+EN: Phew... Good. But Gan, weren't you weirdly good with kids?{p}{end}
+
+## MGM09 g1 s0115
+JP: （なるほど……。{n}{sp}しかし今日は、{n}{sp}岩の意外な一面が見れたわ……）{p}{end}
+EN: (I see... I sure saw an unexpected side of Gan today...){p}{end}
+
+## MGM09 g1 s0118
+JP: （あいかわらず、熱いプレイね。{n}{sp}あっ、こっちに気づいたみたい。）{p}
+EN: (Such fiery play, as always. Oh, looks like he noticed me.){p}
+
+## MGM09 g1 s0119
+JP: よぉ、{v7:5}じゃないか。{n}どうだ、ちょっと練習に{n}つきあわないか?{p}{end}
+EN: Hey, if it isn't {v7:5}. How about helping me practice for a bit?{p}{end}
+
+## MGM09 g1 s0121
+JP: ううん、やめておくわ。{n}ちょっと、今日は他に用事があるの。{n}ゴメンね。{p}
+EN: No, I'll pass. I've got other plans today. Sorry.{p}
+
+## MGM09 g1 s0123
+JP: ロベルトには悪いコトしちゃったかな。{n}……さて、次はどこにいこうかな。{p}
+EN: Maybe that wasn't nice to Roberto... Well, where to next?{p}
+
+## MGM09 g1 s0124
+JP: そうね。{n}ちょうど身体を動かしたかったところだし、{n}つきあうわよ。{p}
+EN: Sure. I was itching to move around anyway, so I'll join you.{p}
+
+## MGM09 g1 s0126
+JP: なるほどね。{n}じゃあ、私がシュートを撃てばいいの?{p}
+EN: Got it. So I just have to take shots?{p}
+
+## MGM09 g1 s0128
+JP: よぉし!{n}任せて、{n}私の自慢の右足が火を噴くわよ!{p}
+EN: All right! Leave it to me. My trusty right foot's gonna breathe fire!{p}
+
+## MGM09 g1 s0131
+JP: う～ん、まだ調子が出ないだけよ。{n}そうだ、何か賭けない?{n}そっちの方が本気がでるもん!!{p}{end}
+EN: Hmm, I'm just not warmed up yet. Hey, why don't we bet on something? That'll get me serious!!{p}{end}
+
+## MGM09 g1 s0133
+JP: よしっ!{sp}その勝負、受けたわよ!{n}負けた方が、ハンバーガーを{n}おごるってのでどう!?{p}{end}
+EN: All right! You're on! Loser buys burgers. How's that!?{p}{end}
+
+## MGM09 g1 s0135
+JP: {face:15}・・・・・・・・・・{face:255}{n}（……と、威勢よく勝負を受けたものの、{n}{sp}あっという間に9球止められちゃった…。{n}{sp}残すはあと1球か……。）{p}
+EN: {face:15}..........{face:255} (...I took the bet with gusto, but he stopped nine in no time... Just one shot left...){p}
+
+## MGM09 g1 s0137
+JP: （ムムッ、クヤシ～……。{n}{sp}ちょっと本気で考えよう……。{n}{sp}私の利き足が右足で、{n}{sp}ここ3球は全部左に蹴ってるから……）{p}{end}
+EN: (Grr, so frustrating... Time to think for real... I'm right-footed, and my last three shots all went left...){p}{end}
+
+## MGM09 g1 s0139
+JP: （よし!{sp}左とみせかけて右よ!）{p}{end}
+EN: (OK! Fake left, go right!){p}{end}
+
+## MGM09 g1 s0143
+JP: （よし!{sp}素直に左一本にかけるわよ!）{p}
+EN: (OK! I'll bet it all on left, plain and simple!){p}
+
+## MGM09 g1 s0149
+JP: （よし!{sp}今度こそ、右とみせかけて、{n}{sp}裏をかいて左よ!）{p}
+EN: (OK! This time, fake right and outsmart him with left!){p}
+
+## MGM09 g1 s0153
+JP: （よし、次は逆の右に決めてやるわ!）{p}{end}
+EN: (OK, next I'll nail it the other way, to the right!){p}{end}
+
+## MGM09 g1 s0159
+JP: やるな、{v7:5}。{n}見直したぜ、俺からゴールを{n}奪うとはな。{p}{end}
+EN: Not bad, {v7:5}. I'm impressed. You actually got one past me.{p}{end}
+
+## MGM09 g1 s0162
+JP: ふふっ、サッカーでこの俺に{n}勝とうなんて10年早いぜ、{n}{v7:5}。{n}出直して来るんだな。{p}{end}
+EN: Heh, beating me at soccer? Ten years too early, {v7:5}. Come back when you're ready.{p}{end}
+
+## MGM09 g1 s0164
+JP: やっぱり、そんな簡単には{n}勝たせてくれないわよね……。{n}……残念。{p}
+EN: I knew he wouldn't let me win that easily... Too bad.{p}
+
+## MGM09 g1 s0165
+JP: 放課後のグラウンドで{n}ボーマンが何か一生懸命拾っているわ。{n}何拾っているのかしら?{p}
+EN: On the field after school, Boman is picking something up very intently. What could he be picking up?{p}
+
+## MGM09 g1 s0167
+JP: はぁい、ボーマン!{n}さっきから何を一生懸命拾ってるの?{p}
+EN: Hi, Boman! What've you been picking up so hard?{p}
+
+## MGM09 g1 s0170
+JP: そういわれてみれば{n}結構危ないものが落ちてるわね。{p}
+EN: Now that you mention it, there's a lot of dangerous stuff lying around.{p}
+
+## MGM09 g1 s0172
+JP: 一緒に手伝いましょうか。{p}{end}
+EN: Shall I help?{p}{end}
+
+## MGM09 g1 s0174
+JP: まったくボーマンはおおげさね。{n}さあ、頑張って拾いましょう。{p}{end}
+EN: Geez, Boman, you're so dramatic. Come on, let's get picking.{p}{end}
+
+## MGM09 g1 s0175
+JP: 結構いっぱいあったわね。{n}でも二人でやったから早く片付いたわ。{p}
+EN: That was a lot of stuff. But with two of us, it went fast.{p}
+
+## MGM09 g1 s0177
+JP: そ、そんなに感謝しなくてもいいわよ。{n}でも、やっぱり良い事やった後は{n}気分がいいわあ。{p}
+EN: Y-you don't have to thank me that much. But it does feel good to do a good deed.{p}
+
+## MGM09 g1 s0178
+JP: そう、大変ね!{n}がんばって、ボーマン!{p}
+EN: I see, that's rough! Hang in there, Boman!{p}
+
+## MGM09 g1 s0181
+JP: ちょっと冷たかったかしら。{n}今度会った時は手伝ってあげよう。{p}{end}
+EN: That was kind of cold of me. Next time I see him, I'll help out.{p}{end}
+
+## MGM09 g1 s0184
+JP: こ、こわ～。{n}お、怒ったボーマンは恐かったわぁ。{n}次からはあんまり怒らせないようにしよう。{p}
+EN: Y-yikes. An angry Boman is scary. I'd better not make him that mad again.{p}
+
+## MGM09 g1 s0192
+JP: ええ、いつも食べてるわよ。{p}
+EN: Yes, I eat it all the time.{p}
+
+## MGM09 g1 s0196
+JP: 実は私も嫌いだから食べないの。{p}
+EN: Actually, I hate it too, so I don't eat it.{p}
+
+## MGM09 g1 s0201
+JP: お、覚えとくわ。{n}とにかくアボガドありがとう。{n}じゃあね!{p}
+EN: I-I'll remember. Anyway, thanks for the avocado. See ya!{p}
+
+## MGM09 g1 s0202
+JP: わ、私は違うから!{n}じゃあね!{p}
+EN: I-I'm not one! See ya!{p}
+
+## MGM09 g1 s0203
+JP: でも一体何を聞こうとしてたのかしら?{n}ま、いいか。{n}どこ行こうかな?{p}{end}
+EN: But what was he even trying to ask? Oh well. Where to now?{p}{end}
+
+## MGM09 g1 s0204
+JP: 屋上に上がると、雷蔵先生が{n}校庭を見下ろしていた。{n}どうやら、学生生活をエンジョイする{n}生徒達を眺めて、満足しているみたい。{p}{end}
+EN: When I went up to the roof, Principal Raizo was looking down at the schoolyard. He seemed pleased to watch the students enjoying school life.{p}{end}
+
+## MGM09 g1 s0207
+JP: いえ、通りがかっただけで、{n}特に用事はないですけど。{n}それじゃ、失礼しますね。{p}
+EN: No, I was just passing by. Nothing in particular. Excuse me, then.{p}
+
+## MGM09 g1 s0209
+JP: 学園長に、教えを乞いに来ました。{n}ぜひご指導をお願いします!{p}{end}
+EN: I came to ask for your teaching, sir. Please, train me!{p}{end}
+
+## MGM09 g1 s0213
+JP: それじゃあ、『忌野流{sp}攻メノ型』を{n}お願いします。{p}
+EN: Then the "Imawano-Style Attack Form," please.{p}
+
+## MGM09 g1 s0215
+JP: それじゃあ、『忌野流{sp}守リノ型』を{n}お願いします。{p}
+EN: Then the "Imawano-Style Defense Form," please.{p}
+
+## MGM09 g1 s0218
+JP: ……体育館の中をのぞき込むように、{n}ひそかにカメラを構える女生徒がいる。{n}今度は何を狙っているのかな……。{p}
+EN: ...A girl is peeking into the gym, secretly holding up a camera. What's she after this time...{p}
+
+## MGM09 g1 s0220
+JP: どうせまたロクでもない記事を{n}書こうとしてるのよね……。{n}悪いけど、付き合ってられないわ。{n}別の場所へ移動しよ。{p}{end}
+EN: She's probably out to write another junk article... Sorry, but I can't be bothered. Off somewhere else.{p}{end}
+
+## MGM09 g1 s0221
+JP: はぁい、ランちゃん!{n}今度は何狙ってるの?{p}
+EN: Hi, Ran-chan! What are you after this time?{p}
+
+## MGM09 g1 s0223
+JP: 夏がどうかしたの?{p}
+EN: What about Natsu?{p}
+
+## MGM09 g1 s0225
+JP: えっ、ホント!?{p}{end}
+EN: Huh, really!?{p}{end}
+
+## MGM09 g1 s0227
+JP: ……それって、{n}ただの噂話じゃないの?{p}
+EN: ...Isn't that just a rumor?{p}
+
+## MGM09 g1 s0229
+JP: へ?{n}なんで私が?{p}
+EN: Huh? Why me?{p}
+
+## MGM09 g1 s0232
+JP: しょうがない……{n}ランちゃんを一人にすると危なっかしいし、{n}ついてってあげるよ。{p}{end}
+EN: Oh well... Ran-chan's a hazard on her own, so I'll tag along.{p}{end}
+
+## MGM09 g1 s0233
+JP: （部活を終えた夏は後輩達と別れ、{n}{sp}一人で繁華街に訪れた。{n}{sp}やはり男と待ち合わせなのかな……）{p}{end}
+EN: (After practice, Natsu parted with her juniors and went downtown alone. Is she meeting a guy after all...?){p}{end}
+
+## MGM09 g1 s0235
+JP: （ランの指差す先には、{n}{sp}夏の到着に笑顔で手を振っている{n}{sp}大学生風の男がいた。{n}{sp}なかなかハンサムじゃない。）{p}{end}
+EN: (Where Ran pointed, a college-looking guy was smiling and waving as Natsu arrived. Pretty handsome, actually.){p}{end}
+
+## MGM09 g1 s0241
+JP: な、夏!?{n}もしかして、バレてたの!?{p}
+EN: N-Natsu!? Did you know all along!?{p}
+
+## MGM09 g1 s0250
+JP: ……………………ランちゃん。{p}{end}
+EN: ......Ran-chan.{p}{end}
+
+## MGM09 g1 s0251
+JP: …………ま、まぁ、{n}こういう事もたまにはあるよね!{n}それじゃ、{v8:19}!{n}この次もちゃんと付き合いなさいよ!!{p}
+EN: ......W-well, these things happen sometimes! See ya, {v8:19}! Make sure you come along next time too!!{p}
+
+## MGM09 g1 s0253
+JP: よし、じゃあ二人で追っかけよう!{n}（途中でジャマしよう……{n}{sp}やっぱり夏のプライバシーだしね。）{p}{end}
+EN: OK, let's tail them together! (I'll throw her off along the way... It's Natsu's privacy, after all.){p}{end}
+
+## MGM09 g1 s0254
+JP: ちょっと{v8:19}!{n}ホントにこっちであってるんでしょうね?{p}
+EN: Hey, {v8:19}! Are you sure this is the right way?{p}
+
+## MGM09 g1 s0255
+JP: 大丈夫よ、任せときなさいって。{n}（……ちゃんと違う向きに歩いてるから。）{p}{end}
+EN: Relax, just leave it to me. (...I'm walking the wrong way on purpose.){p}{end}
+
+## MGM09 g1 s0257
+JP: （しまった……そりゃそうね。{n}{sp}180センチ越える女の子って、{n}{sp}街でもそうそういないもん。）{p}
+EN: (Oops... She's right. You don't see many girls over 180 cm around town.){p}
+
+## MGM09 g1 s0258
+JP: {v8:19}…………アンタまさか、{n}わざと迷ったんじゃないでしょうね?{p}
+EN: {v8:19}...... Don't tell me you got us lost on purpose?{p}
+
+## MGM09 g1 s0259
+JP: （き、記者の目はするどい!{n}{sp}ど、どうやって切り抜けよう……?）{p}{end}
+EN: (A reporter's eye is sharp! H-how do I get out of this...?){p}{end}
+
+## MGM09 g1 s0261
+JP: ん～と、え～と……あっ!!{n}あそこに「ケン・マスターズ」が{n}歩いてるわよっ!!{p}
+EN: Umm, uhh... Ah!! Look, Ken Masters is walking over there!!{p}
+
+## MGM09 g1 s0263
+JP: そこの角を左に曲がってったみたいよ。{p}{end}
+EN: Looks like he turned left at that corner.{p}{end}
+
+## MGM09 g1 s0264
+JP: ゴメン、{v8:19}!!{n}今日はこれで解散にするから。{n}じゃね!!{p}
+EN: Sorry, {v8:19}!! That's it for today. Later!!{p}
+
+## MGM09 g1 s0265
+JP: （はぁ……とりあえず騙せたみたい……{n}{sp}……でも、明日が恐いよ…………）{p}{end}
+EN: (Phew... Looks like I fooled her for now... But I dread tomorrow......){p}{end}
+
+## MGM09 g1 s0266
+JP: ランちゃん……ごめん。{n}実は…………その通りなんだ……。{p}{end}
+EN: Ran-chan... sorry. Actually...... you're right...{p}{end}
+
+## MGM09 g1 s0268
+JP: 悪かったわ。{n}おわびに夕御飯おごるから。{p}{end}
+EN: Sorry. I'll buy you dinner to make up for it.{p}{end}
+
+## MGM09 g1 s0271
+JP: （……私の悪い予感は的中した。）{p}{end}
+EN: (...My bad feeling was right on the money.){p}{end}
+
+## MGM09 g1 s0273
+JP: （あ～あ……{n}{sp}財布が寂しくなったなぁ…………）{p}{end}
+EN: (Oh man... My wallet's looking awfully thin......){p}{end}
+
+## MGM09 g1 s0275
+JP: 体育館に向かっていると、{n}何やらケンカのような物音がしてきた。{n}しかもあの声は……エッジみたいだけど。{p}
+EN: On my way to the gym, I heard what sounded like a fight. And that voice... sounds like Edge.{p}
+
+## MGM09 g1 s0277
+JP: なんか、ヤバそう……。{n}関わり合いになる前に、{n}他の場所へいきましょ。{p}
+EN: That sounds bad... I'll go somewhere else before I get mixed up in it.{p}
+
+## MGM09 g1 s0278
+JP: ちょっといってみようかな……。{n}……静かになったみたいだけど、{n}ケガとかしてたらヤバイよね……。{p}{end}
+EN: Maybe I'll take a look... It's gone quiet, but if someone's hurt, that'd be bad...{p}{end}
+
+## MGM09 g1 s0281
+JP: その人たち、エッジがやっつけたの?{p}
+EN: Did you beat those guys up, Edge?{p}
+
+## MGM09 g1 s0283
+JP: （たしかに、全員たいしたケガは{n}{sp}していない……けど、{n}{sp}完全にKOされているみたい……）{p}
+EN: (Sure enough, none of them was badly hurt... but they were out cold...){p}
+
+## MGM09 g1 s0285
+JP: あ、ちょっとまってよエッジ……!{p}{end}
+EN: H-hey, wait up, Edge...!{p}{end}
+
+## MGM09 g1 s0287
+JP: なんでケンカなんかしてたの?{n}しかも学校内で……。{p}
+EN: Why were you fighting? At school, too...{p}
+
+## MGM09 g1 s0291
+JP: エッジって優しいね{n}エッジらしくないね{p}
+EN: That's sweet of you, Edge{n}That's not like you, Edge{p}
+
+## MGM09 g1 s0292
+JP: エッジって優しいのね。{n}見直したわ。{p}{end}
+EN: You're actually sweet, Edge. I'm impressed.{p}{end}
+
+## MGM09 g1 s0295
+JP: 本当は、名前とかケータイの番号とか{n}聞きたかったんじゃないの?{p}
+EN: Come on, you really wanted her name and cell number, didn't you?{p}
+
+## MGM09 g1 s0298
+JP: （結局、ケンカは相手が悪かったらしく、{n}{sp}おとがめなしになったみたい。{n}{sp}なんか、やることがエッジらしいわね。）{p}{end}
+EN: (In the end, the other guys were in the wrong, so Edge got off scot-free. Somehow that's so Edge.){p}{end}
+
+## MGM09 g1 s0299
+JP: ふふっ、エッジらしくないわね、{n}女の子のためにケンカするなんて。{p}{end}
+EN: Heh, that's not like you, Edge, fighting for a girl.{p}{end}
+
+## MGM09 g1 s0302
+JP: ……勝つためには、どんな卑怯な{n}ことでもやるっていってた、{n}斬り込み隊長さんのセリフとは{n}思えないわよねー。{p}{end}
+EN: ...Funny thing to hear from the gang's spearhead, who said he'd do anything to win, no matter how dirty.{p}{end}
+
+## MGM09 g1 s0305
+JP: （結局、ケンカは相手が悪かったらしく、{n}{sp}おとがめなしになったみたい。{n}{sp}なんか、エッジも変わったよね……）{p}{end}
+EN: (In the end, the other guys were in the wrong, so Edge got off scot-free. Edge sure has changed...){p}{end}
+
+## MGM09 g1 s0306
+JP: とりあえず暇なので、{n}保健室に顔を出してみると……、{n}めずらしいな、バツが来てるわ。{p}{end}
+EN: I had nothing to do, so I dropped by the infirmary... and, surprise, Batsu's here.{p}{end}
+
+## MGM09 g1 s0310
+JP: どうしたの、バツ?{n}そんな大きな怪我するなんて。{p}{end}
+EN: What happened, Batsu? How'd you get hurt that bad?{p}{end}
+
+## MGM09 g1 s0313
+JP: {v1}{col:0}さん{col:-}、{n}悪いけど彼、{n}家まで送っていってあげて。{n}途中危険だから。{p}{end}
+EN: {v1}{col:0}-san{col:-}, sorry, but would you walk him home? It could be dangerous on the way.{p}{end}
+
+## MGM09 g1 s0314
+JP: わかりました。{n}行こう、バツ。{p}
+EN: Sure. Come on, Batsu.{p}
+
+## MGM09 g1 s0317
+JP: じゃあ、うちに遊びにおいで{n}今日は休んで、しっかり治したら?{p}{end}
+EN: Come over to my place{n}Rest today and heal up, OK?{p}{end}
+
+## MGM09 g1 s0318
+JP: 仕方ないわよ。{n}もし今日無理して、明日から{n}しばらく動けなくなったら困るでしょ?{p}{end}
+EN: Can't be helped. If you push it today and can't move for days after, that'd be worse, right?{p}{end}
+
+## MGM09 g1 s0320
+JP: （バツ……無理して{n}{sp}元気だしてたみたい……）{p}
+EN: (Batsu... was forcing himself to act cheerful...){p}
+
+## MGM09 g1 s0321
+JP: じゃあ、暇なんでしょ?{n}だったらうちに遊びにおいでよ。{n}こないだ買った{n}格ゲーで勝負しよう?{p}{end}
+EN: Then you're free, right? Come over to my place. Let's play that fighting game I just bought, OK?{p}{end}
+
+## MGM09 g1 s0327
+JP: それでいいの?{n}そいつは浮かせてからが勝負よ。{n}じゃあ、私はこれ、と。{n}よぉし、いくわよ!{p}
+EN: You sure about that one? With him it's all about launching. OK, I'll take this one. All right, here I go!{p}
+
+## MGM09 g1 s0329
+JP: （バツ相手に手加減は無用!{n}{sp}それがたとえゲームでも!!{n}{sp}こないだ練習したコンボでいくわよ!）{p}{end}
+EN: (No mercy against Batsu! Not even in a game!! Time for the combo I've been practicing!){p}{end}
+
+## MGM09 g1 s0331
+JP: （まだまだ……{n}{sp}浮かせてからこれで拾って……{n}{sp}最後はこれだ!!{n}{sp}ダメージは大きいわよ!）{p}
+EN: (Not done yet... Launch, pick him up with this... and finish with this!! That's big damage!){p}
+
+## MGM09 g1 s0333
+JP: （言ってなさい!{n}{sp}これでとどめだ……KO!{n}{sp}まずは私の勝ちね。）{p}{end}
+EN: (Say what you want! This finishes it... KO! First round's mine.){p}{end}
+
+## MGM09 g1 s0335
+JP: ん?{n}手加減して欲しかったのかなァ?{n}バツったら。{p}
+EN: Hm? Did you want me to go easy on you, Batsu?{p}
+
+## MGM09 g1 s0337
+JP: （……結局この日の対戦は、{n}{sp}52戦して{n}{sp}私の39勝13敗だった。）{p}
+EN: (...In the end, out of 52 matches that day, I won 39 and lost 13.){p}
+
+## MGM09 g1 s0340
+JP: （ふぅ……{n}{sp}どうやら喜んでくれたみたいね。{n}{sp}よかった……）{p}
+EN: (Phew... Looks like he enjoyed it. Good...){p}
+
+## MGM09 g1 s0341
+JP: （はじめてやるゲームで{n}{sp}ボコボコにされたんじゃ{n}{sp}面白さもわかんないだろうし……）{p}{end}
+EN: (If he got beat to a pulp the first time he played, he'd never see what's fun about it...){p}{end}
+
+## MGM09 g1 s0342
+JP: （よし!{n}{sp}ここは接待プレーに徹しようっと!）{p}
+EN: (OK! I'll go easy and play the good host!){p}
+
+## MGM09 g1 s0346
+JP: （浮いてる間に{n}{sp}キックとパンチを……って、ちょっと!{n}{sp}何発入れてるのよ、バツ!）{p}{end}
+EN: (While he's in the air, kicks and punches... Hey! How many hits are you landing, Batsu!?){p}{end}
+
+## MGM09 g1 s0350
+JP: （……危ないと思う間もなく、{n}{sp}私のキャラは倒されていた。）{p}{end}
+EN: (...Before I knew it, my character was down.){p}{end}
+
+## MGM09 g1 s0352
+JP: （本当にはじめて!?{n}{sp}……もしそうなら、{n}{sp}彼の格闘センスは{n}{sp}ゲームにまで対応してるの!?）{p}{end}
+EN: (Is this really his first time!? ...If it is, does his fighting sense even work in video games!?){p}{end}
+
+## MGM09 g1 s0354
+JP: い、今のはちょっと油断しただけよ。{n}今度は負けないって!{p}{end}
+EN: Th-that was just me getting careless. I won't lose next time!{p}{end}
+
+## MGM09 g1 s0357
+JP: （バツは喜んでたけど……{n}{sp}…………スッゴク悔しい!!!）{p}
+EN: (Batsu was happy and all... but...... I'm sooo frustrated!!!){p}
+
+## MGM09 g1 s0358
+JP: 保健室に響子先生はいるかしら。{p}
+EN: I wonder if Kyoko-sensei is in the infirmary.{p}
+
+## MGM09 g1 s0360
+JP: （エッ!{n}{sp}なんで英雄先生がここに?）{p}
+EN: (Eek! Why is Hideo-sensei here?){p}
+
+## MGM09 g1 s0372
+JP: やっぱりあの二人の関係は怪しいわ。{p}
+EN: Those two are definitely up to something.{p}
+
+## MGM09 g1 s0373
+JP: あっ!{sp}ねずみよっ!{p}{end}
+EN: Look! A mouse!{p}{end}
+

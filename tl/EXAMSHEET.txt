@@ -1,0 +1,62 @@
+# Diary exam sheets (tools/build_examgfx.py): the record sheet SIKEN10
+# (TIM 0x55000) and the result sheets SIKEN20 entries 0-1 (TIM 0x8800).
+# Exam names and column labels follow the first game (tl/EXAMGFX.txt in
+# its patch). A "|" breaks a line. The digits, the % sign and the result
+# row (drawn by SIKEN2 from the SIKEN20 TIM 0 atlas) are not redrawn.
+# RE: private/re/examsheet/findings.org.
+
+JP: 「'９９年度試験」成績表
+EN: '99 Exam Report Card
+
+JP: 試験結果
+EN: Exam Results
+
+JP: 試験
+EN: Exam
+
+JP: 最高記録
+EN: Best Record
+
+JP: 判定
+EN: Result
+
+JP: 記録
+EN: Record
+
+JP: 評価
+EN: Grade
+
+JP: １学期期末試験
+EN: 1st Term Final
+
+JP: ２学期期末試験
+EN: 2nd Term Final
+
+JP: 学年末試験
+EN: Year-End Exam
+
+JP: のこりTIME
+EN: TIME|LEFT
+
+JP: 回
+EN: times
+
+JP: ボタン-戻る
+EN: Back
+
+# Result screen pieces. The big stamps (SIKEN20 TIMs 2, 3) and the small
+# ovals in the SIKEN20 TIM 0 atlas share the JP pass/fail words; the oval
+# keys carry a "small" suffix in full-width brackets. The exam names in the
+# result row are SIKENKK entries 30-32 and use the three exam names above.
+
+JP: 合格
+EN: PASSED
+
+JP: 不合格
+EN: FAILED
+
+JP: 合格（小）
+EN: PASS
+
+JP: 不合格（小）
+EN: FAIL

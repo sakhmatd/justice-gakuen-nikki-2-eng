@@ -1,0 +1,904 @@
+## MGT05 g0 s0000
+JP: {face:1}「あ、あぶなーーーい!!」{face:255}{p}
+EN: {face:1}"Look ouuut!!"{face:255}{p}
+
+## MGT05 g0 s0001
+JP: {face:1}後ろから声が!?{face:255}{p}{end}
+EN: {face:1}A voice from behind!?{face:255}{p}{end}
+
+## MGT05 g0 s0002
+JP: 軸移動で避ける{n}ジャンプでかわす{n}とりあえず、振り向く{p}
+EN: Sidestep it{n}Jump over it{n}Just turn around{p}
+
+## MGT05 g0 s0003
+JP: {face:1}すばやく、横へ避ける!{n}はっ!{face:255}{p}
+EN: {face:1}Quick, dodge to the side! Hah!{face:255}{p}
+
+## MGT05 g0 s0004
+JP: 今、立っていたところを、{n}炎に包まれたサッカーボールが、{n}音をたてて通り過ぎた……。{p}{end}
+EN: A flaming soccer ball roared through the spot where I'd just been standing...{p}{end}
+
+## MGT05 g0 s0005
+JP: {face:1}すばやく、横へ{face:255}……おごっ!?{p}{end}
+EN: {face:1}Quick, dodge to the{face:255}... OOF!?{p}{end}
+
+## MGT05 g0 s0006
+JP: バコーーーン!!{p}{end}
+EN: KABOOOM!!{p}{end}
+
+## MGT05 g0 s0007
+JP: {face:1}すばやく、ジャンプ!!{n}とぅっ!!{face:255}{p}
+EN: {face:1}Quick, jump!! Hup!!{face:255}{p}
+
+## MGT05 g0 s0008
+JP: ジャンプした足下を、{n}炎に包まれたサッカーボールが、{n}音をたてて通り過ぎた……。{p}{end}
+EN: A flaming soccer ball roared by right under my feet...{p}{end}
+
+## MGT05 g0 s0009
+JP: {face:1}すばやく、ジャンプ{face:255}……、{n}うわっ!?{p}{end}
+EN: {face:1}Quick, jum{face:255}... Whoa!?{p}{end}
+
+## MGT05 g0 s0010
+JP: ドコーーーン!!{p}{end}
+EN: WHAMMM!!{p}{end}
+
+## MGT05 g0 s0011
+JP: なんだ!?{n}と、振り向くと目の前に、{n}炎に包まれたサッカーボールが!?{p}
+EN: What!? I turned around, and right in front of me was a flaming soccer ball!?{p}
+
+## MGT05 g0 s0012
+JP: ボゴォーーー!!{p}{end}
+EN: THWOOOMP!!{p}{end}
+
+## MGT05 g0 s0013
+JP: 大丈夫か?{sp}{v3:5}!{n}ケガはないか?{p}
+EN: You okay, {v3:5}!? You hurt?{p}
+
+## MGT05 g0 s0014
+JP: ロベルト～、俺だから{n}避けれたようなものの、{n}普通の人だったら間違いなく、{n}火だるまだったぞ。{p}
+EN: Robertooo, lucky it was me and I could dodge it. Anyone else would've gone up in flames for sure.{p}
+
+## MGT05 g0 s0015
+JP: スマン、{v3:5}。{n}ホントお前で助かったよ。{n}お前なら、当たっても{n}なんとかなるからな。{p}{end}
+EN: Sorry, {v3:5}. Good thing it was you, though. Even if it hit you, you'd be fine.{p}{end}
+
+## MGT05 g0 s0016
+JP: ふ～ん、俺ならどうなってもいいって{n}感じだな。{p}
+EN: Hmm, sounds like you don't care what happens to me.{p}
+
+## MGT05 g0 s0017
+JP: いやいや、そういうつもりはないんだが。{n}ホラ、お前は他の連中とは、{n}鍛え方が違うってことさ。{p}{end}
+EN: No, no, I didn't mean it like that. Look, you're just built tougher than the rest of them.{p}{end}
+
+## MGT05 g0 s0018
+JP: {v3:5}!{n}大丈夫か!?{p}{end}
+EN: {v3:5}! You okay!?{p}{end}
+
+## MGT05 g0 s0019
+JP: いたたた、た、た……。{n}これは……ロベルトの爆裂Vゴールか。{n}服が少しこげてるよ……。{p}
+EN: Ow ow ow, owww... That was... Roberto's Victory Goal. My clothes got a little scorched...{p}
+
+## MGT05 g0 s0020
+JP: スマン、{v3:5}。{n}……でもお前でよかったよ。{n}お前なら鍛え方が違うからな。{p}{end}
+EN: Sorry, {v3:5}. ...Good thing it was you, though. You're built tougher than the rest.{p}{end}
+
+## MGT05 g0 s0021
+JP: ロベルト～、{n}俺ならどうなってもいいって{n}言いぐさだな。{p}{end}
+EN: Robertooo, you make it sound like you don't care what happens to me.{p}{end}
+
+## MGT05 g0 s0022
+JP: いやいや、そんなつもりではないんだが。{n}お前なら、大丈夫だって信じてたぜ。{p}
+EN: No, no, that's not what I meant. I just knew you'd be fine.{p}
+
+## MGT05 g0 s0023
+JP: うまくごまかされてる気がするけど……、{n}まぁいいか。{n}……ロベルト、一人で練習してたのか?{p}
+EN: Feels like you're smoothing it over, but... whatever. ...Roberto, were you practicing alone?{p}
+
+## MGT05 g0 s0024
+JP: ああ……いつものことだがな。{n}さっきまで他の連中もいたんだが……{n}世界を目指すなら、{n}人の倍は練習しないとな。{p}
+EN: Yeah... same as always. The others were here till a bit ago... If you're aiming for the world, you gotta practice twice as hard as anyone.{p}
+
+## MGT05 g0 s0025
+JP: たしかにそうだけど……。{n}一人じゃ効率悪いだろ。{p}{end}
+EN: Sure, but... practicing alone isn't very efficient.{p}{end}
+
+## MGT05 g0 s0026
+JP: 仕方ないさ。{n}人が練習していないときに練習し、{n}人が練習してるときにも練習する。{n}努力するっていうのはそういうことだぜ。{p}{end}
+EN: Can't be helped. You practice when nobody else does, and you practice when they do. That's what hard work is.{p}{end}
+
+## MGT05 g0 s0027
+JP: なるほど……。{n}そういうことなら、{n}今度、俺が手伝ってやろうか?{p}{end}
+EN: I see... In that case, want me to help you out next time?{p}{end}
+
+## MGT05 g0 s0028
+JP: サンキュー、{v3:5}。{n}今日はもう上がるつもりだから、{n}また今度頼むよ。{p}{end}
+EN: Thanks, {v3:5}. I was about to call it a day, so I'll take you up on it next time.{p}{end}
+
+## MGT05 g0 s0029
+JP: OK。{n}それじゃ、そろそろ帰るか。{p}
+EN: OK. Then I guess we should head home.{p}
+
+## MGT05 g0 s0030
+JP: そうだな!!{p}{end}
+EN: You got it!!{p}{end}
+
+## MGT05 g0 s0031
+JP: 今日はロベルトと、{n}二人で練習をする約束をしている。{n}はやく、練習場所にいかないと。{p}{end}
+EN: Today I promised Roberto we'd practice together, just the two of us. I'd better get to the practice spot.{p}{end}
+
+## MGT05 g0 s0032
+JP: しかし、ロベルトも練習熱心だなぁ。{n}クラブ終わってからの練習に{n}つきあって欲しい、なんて。{p}
+EN: Man, Roberto's really dedicated. Asking me to help him practice after club.{p}
+
+## MGT05 g0 s0033
+JP: 爆裂!{sp}リフティング!!{p}{end}
+EN: Explosive! Juggling!!{p}{end}
+
+## MGT05 g0 s0034
+JP: 遅いぞ、{v3:5}。{n}こっちは身体は温まってるから、{n}はやくアップを済ませてくれ。{p}{end}
+EN: You're late, {v3:5}. I'm already warmed up, so hurry and finish your warm-up.{p}{end}
+
+## MGT05 g0 s0035
+JP: さすがに早いな、ロベルト。{n}ちょっと待っててくれ。{n}すぐに準備する。{p}{end}
+EN: Early as always, Roberto. Hang on a sec. I'll get ready right away.{p}{end}
+
+## MGT05 g0 s0037
+JP: おまたせ。{n}さてと、何をやるかな。{p}
+EN: Sorry for the wait. So, what should we do?{p}
+
+## MGT05 g0 s0038
+JP: とりあえず、アップ代わりに{n}パス練習といこう。{n}せっかくだから、一人ではできない{n}練習をしないとな。{p}{end}
+EN: For now, let's do passing drills as a warm-up. Since we're at it, we should practice stuff you can't do alone.{p}{end}
+
+## MGT05 g0 s0039
+JP: よし、それじゃいくぞ。{p}
+EN: All right, here goes.{p}
+
+## MGT05 g0 s0040
+JP: {face:15}・・・・・・・・・・{face:255}{n}ビシッ!……パシッ!{n}ビシッ!……パシッ!{n}{face:15}・・・・・・・・・・{face:255}{p}
+EN: {face:15}..........{face:255} Whap!... Thump! Whap!... Thump! {face:15}..........{face:255}{p}
+
+## MGT05 g0 s0041
+JP: よし、さすが{v3:5}、{n}的確なパスだな。{n}よぉし、次は一対一の練習でもするか。{p}
+EN: Good, nice, {v3:5}. Spot-on passes. All right, next let's do some one-on-one.{p}
+
+## MGT05 g0 s0042
+JP: 俺がドリブルで{n}ボールをキープするから、{n}奪ってみてくれ。{p}
+EN: I'll keep the ball with my dribbling, so try to steal it.{p}
+
+## MGT05 g0 s0043
+JP: いいぞ、来い!{p}
+EN: All right, bring it!{p}
+
+## MGT05 g0 s0044
+JP: {face:15}・・・・・・・・・・{face:255}{n}バッバッ!……ガッ!{n}おっと、こっちだ!……バッ!{n}{face:15}・・・・・・・・・・{face:255}{p}
+EN: {face:15}..........{face:255} Shff shff!... Thunk! Whoops, over here!... Shff! {face:15}..........{face:255}{p}
+
+## MGT05 g0 s0045
+JP: ……ハァ、ハァ、{n}さすがだな、ロベルト。{n}全然ボールにさわらせてもらえない……。{p}{end}
+EN: ...Huff, huff... You're good, Roberto. I can't even touch the ball...{p}{end}
+
+## MGT05 g0 s0046
+JP: ははぁ、さすがにこれは難しいか。{n}よしじゃ、今度は{v3:5}が{n}キープしてみるか?{p}{end}
+EN: Haha, guess that's too tough. Okay then, how about you try keeping it this time, {v3:5}?{p}{end}
+
+## MGT05 g0 s0047
+JP: よし、やってみよう。{p}{end}
+EN: All right, let's try.{p}{end}
+
+## MGT05 g0 s0048
+JP: ……バッ……ガッ!{n}ダメだ、あっさりとられるな。{n}もっと慎重にいかないと……。{p}
+EN: ...Shff... Thunk! No good, he takes it so easily. I need to be more careful...{p}
+
+## MGT05 g0 s0049
+JP: ホラホラ、{n}そんなんじゃドリブルとは{n}いえないぞ!{n}この俺を抜いてみろ!{p}{end}
+EN: Come on, come on, you call that dribbling? Try and get past me!{p}{end}
+
+## MGT05 g0 s0050
+JP: （よし!{n}{sp}意地でもロベルトを抜いてやる!{n}{sp}ここは一発、{n}{sp}俺の華麗なテクニックで……）{p}
+EN: (All right! I'll get past Roberto if it kills me! Time for one of my dazzling moves...){p}
+
+## MGT05 g0 s0051
+JP: 左右にフェイント{n}ボールといっしょにジャンプ{n}ヒールで浮かせて突破{p}
+EN: Feint left and right{n}Jump with the ball{n}Heel flick and break through{p}
+
+## MGT05 g0 s0052
+JP: （左右に細かいフェイント!!{n}{sp}バッバッ!）{p}{end}
+EN: (Quick little feints, left and right!! Shff shff!){p}{end}
+
+## MGT05 g0 s0053
+JP: あまい!{n}こっちだ!!{p}
+EN: Too slow! Over here!!{p}
+
+## MGT05 g0 s0054
+JP: ……と、見せかけてこっちだ!!{p}
+EN: ...Psych! This way!!{p}
+
+## MGT05 g0 s0055
+JP: ババッ!{p}{end}
+EN: Whoosh!{p}{end}
+
+## MGT05 g0 s0056
+JP: し、しまった!{p}
+EN: D-damn it!{p}
+
+## MGT05 g0 s0057
+JP: やった!{n}ロベルトを抜いたぞ!{p}
+EN: Yes! I got past Roberto!{p}
+
+## MGT05 g0 s0058
+JP: ……やられたよ、{n}さすがだな、{v3:5}。{p}{end}
+EN: ...You got me. Nice one, {v3:5}.{p}{end}
+
+## MGT05 g0 s0059
+JP: へへ、見直したか?{p}
+EN: Heh, impressed?{p}
+
+## MGT05 g0 s0060
+JP: 練習相手を頼んでおいて、{n}こういうのも何だが、{n}まさかここまでやるとは{n}思ってなかったな。{p}
+EN: I hate to say it after asking you to practice with me, but I never thought you'd be this good.{p}
+
+## MGT05 g0 s0061
+JP: ザザッ!{p}{end}
+EN: Swish!{p}{end}
+
+## MGT05 g0 s0062
+JP: あまいあまい。{n}この俺をフェイントで抜こうなんて、{n}ちょっとムリな相談だな。{p}{end}
+EN: Too slow, too slow. Getting past me with a feint? That's a pretty tall order.{p}{end}
+
+## MGT05 g0 s0063
+JP: クソッ、いけると思ったのに。{n}さすがロベルト、俺程度じゃ{n}太刀打ちできないか。{p}
+EN: Damn, I thought I had it. That's Roberto for you. Someone like me doesn't stand a chance.{p}
+
+## MGT05 g0 s0064
+JP: （ボールといっしょにジャンプ!{n}{sp}……ってアレ?）{p}
+EN: (Jump with the ball! ...Huh?){p}
+
+## MGT05 g0 s0065
+JP: あまい!{n}バシッ!!{p}{end}
+EN: Too slow! Whap!!{p}{end}
+
+## MGT05 g0 s0066
+JP: くそっ、俺の華麗なジャンプが……!{p}
+EN: Damn, my dazzling jump...!{p}
+
+## MGT05 g0 s0067
+JP: ははっ、マンガじゃないんだから、{n}キープしながらジャンプなんて、{n}なかなかできないって。{p}{end}
+EN: Haha, this isn't a manga. Jumping while keeping the ball isn't that easy.{p}{end}
+
+## MGT05 g0 s0068
+JP: う～ん、やっぱりムリか……。{p}{end}
+EN: Hmm, guess it was impossible after all...{p}{end}
+
+## MGT05 g0 s0069
+JP: （ヒールでボールを!{n}{sp}ガッ!{n}{sp}浮かせて……その間に俺が{n}{sp}ロベルトを抜く!）{p}{end}
+EN: (Heel the ball! Thunk! Flick it up... and while it's in the air, I get past Roberto!){p}{end}
+
+## MGT05 g0 s0070
+JP: ……おいおい、{v3:5}、{n}何やってんだ。{n}ボールを後ろに蹴り飛ばして。{p}
+EN: ...Hey, hey, {v3:5}, what are you doing? You kicked the ball behind you.{p}
+
+## MGT05 g0 s0071
+JP: え?{sp}後ろ……?{n}ホントだ、後ろにテンテンと{n}転がっていく……。{p}{end}
+EN: Huh? Behind me...? He's right, it's bouncing away behind me...{p}{end}
+
+## MGT05 g0 s0072
+JP: お前なぁ、ヒールリフトなんて{n}できないことするんじゃないって。{p}
+EN: Come on, don't try a heel lift when you can't pull it off.{p}
+
+## MGT05 g0 s0073
+JP: ……そうだな、スマン。{p}
+EN: ...Yeah, sorry.{p}
+
+## MGT05 g0 s0075
+JP: ふぅ……ちょっと遅くなったな。{n}{v3:5}、今日はありがとう。{n}おかげで有意義な練習ができたよ。{p}
+EN: Phew... It got kinda late. {v3:5}, thanks for today. That was really useful practice.{p}
+
+## MGT05 g0 s0076
+JP: いやいや。{n}そんなに役に立てなくて、{n}ゴメンな。{p}{end}
+EN: Nah. Sorry I wasn't more help.{p}{end}
+
+## MGT05 g0 s0077
+JP: そんなことないぞ。{n}俺にとって、今日は{n}とても楽しい練習だったよ。{p}
+EN: That's not true. For me, today was a really fun practice.{p}
+
+## MGT05 g0 s0078
+JP: また……練習につきあってくれ。{n}頼むよ、{v3:5}。{p}
+EN: Practice with me... again sometime. I'm counting on you, {v3:5}.{p}
+
+## MGT05 g0 s0079
+JP: ああ……もちろん!{p}
+EN: Yeah... Of course!{p}
+
+## MGT05 g0 s0080
+JP: そうだ……、さっきのフェイントだが、{n}ちゃんとしたサッカーシューズを使えば{n}もっとキレがよくなると思うんだ。{p}{end}
+EN: Oh yeah... about that feint earlier. I think with proper soccer cleats, it'd be a lot sharper.{p}{end}
+
+## MGT05 g0 s0081
+JP: サイズをまちがって買ったシューズが{n}あるんだが、お前使わないか?{n}多分、お前ならサイズがあうと思うんだ。{p}{end}
+EN: I bought a pair of cleats in the wrong size. Want them? I think they'd probably fit you.{p}{end}
+
+## MGT05 g0 s0082
+JP: いいのか?{n}それじゃ……もらっておくよ。{n}ありがとう。{p}
+EN: You sure? Then... I'll take them. Thanks.{p}
+
+## MGT05 g0 s0083
+JP: なに……俺もお前の技術が上がれば{n}うれしいからな……。{p}
+EN: No big deal... If your skills get better, that makes me happy too...{p}
+
+## MGT05 g0 s0084
+JP: {col:0}『サッカーシューズ』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Soccer Cleats"{col:-}!{p}
+
+## MGT05 g0 s0085
+JP: 放課後。{n}ちょっと用があって部室棟に{n}来てみると、部室前にロベルトが{n}立っていた。{p}
+EN: After school. I had some business at the clubhouse, and when I got there, Roberto was standing in front of the club room.{p}
+
+## MGT05 g0 s0086
+JP: やぁ、ロベルト。{n}どうしたんだ、うれしそうだな。{p}{end}
+EN: Hey, Roberto. What's up? You look happy.{p}{end}
+
+## MGT05 g0 s0087
+JP: よぉ、{v3:5}。{n}ふふっ、聞いてくれよ。{n}今日、Jリーグのチームの{n}スカウトに会ったんだ。{p}
+EN: Hey, {v3:5}. Heh, listen to this. Today I met a scout from a J.League team.{p}
+
+## MGT05 g0 s0088
+JP: あ……あのヘンな声の人か。{n}前に見たことあるな。{p}{end}
+EN: Oh... that guy with the weird voice. I've seen him before.{p}{end}
+
+## MGT05 g0 s0089
+JP: ヘンな声だって?{n}それは気がつかなかったな……。{n}いや、声はどうでもいいんだが、{n}スカウトの人にあってね……、{p}
+EN: A weird voice? I never noticed... No, forget the voice. I met the scout, and...{p}
+
+## MGT05 g0 s0090
+JP: 会うのはこれで3回目なんだが、{n}その人は俺の能力を、キーパー以上に{n}フォワードとして評価していると{n}いうんだな。{p}{end}
+EN: It's the third time I've met him, and he says he rates me higher as a forward than as a keeper.{p}{end}
+
+## MGT05 g0 s0091
+JP: プロでもガンガン点が取れるくらいのね!{n}うれしいじゃないか、{n}そんなこといってもらえるなんて。{p}
+EN: Good enough to score plenty even as a pro! Isn't that great, hearing something like that?{p}
+
+## MGT05 g0 s0092
+JP: すごいな、ロベルト。{n}これも日頃の努力のたまものだな。{p}
+EN: That's amazing, Roberto. It's all thanks to your hard work.{p}
+
+## MGT05 g0 s0093
+JP: ふふっ、その意味では、{n}お前のおかげでもあるな。{n}何回も練習につきあってもらったからな。{p}{end}
+EN: Heh, in that sense, it's thanks to you too. You practiced with me so many times.{p}{end}
+
+## MGT05 g0 s0094
+JP: 何いってんだ。{n}お前の実力だよ、すべて。{n}俺はロベルトほど{n}サッカーもうまくないし……。{p}{end}
+EN: What are you talking about? It's all your own skill. I'm not even as good at soccer as you...{p}{end}
+
+## MGT05 g0 s0095
+JP: 何いってるんだ、{n}お前といっしょに練習できることが{n}俺にとって励みになったんだ。{n}お前のおかげさ……。{p}
+EN: What are you saying? Getting to practice with you kept me going. It's thanks to you...{p}
+
+## MGT05 g0 s0097
+JP: でも、困ったことが一つあってね。{n}俺はもちろんフォワードという{n}ポジションも好きだが……、{p}
+EN: But there's one problem. Of course I like playing forward too, but...{p}
+
+## MGT05 g0 s0098
+JP: それ以上に、ゴールキーパーが好きだし、{n}力も入れてきたつもりだ。{n}……それなのに、フォワードとしての{n}評価の方が高いってことは……。{p}{end}
+EN: I like goalkeeper even more, and I've worked harder at it. ...And still, if they rate me higher as a forward...{p}{end}
+
+## MGT05 g0 s0099
+JP: 俺にはキーパーとしての才能が{n}ないんだろうか?{p}
+EN: Maybe I just don't have what it takes to be a keeper?{p}
+
+## MGT05 g0 s0100
+JP: まだまだキーパーとしてはこれからさ{n}フォワードの方が向いてるって{n}スカウトの眼が節穴なのさ{p}
+EN: You've got time to grow as a keeper{n}You're better suited to forward{n}That scout must be blind{p}
+
+## MGT05 g0 s0101
+JP: キーパーとしてはまだまだこれから{n}鍛える余地があるってことさ。{n}ロベルトはまだ高校一年生なんだぜ?{p}
+EN: It just means you've still got room to grow as a keeper. You're only a first-year, Roberto.{p}
+
+## MGT05 g0 s0102
+JP: 卒業まで、まだ2年以上ある。{n}今から鍛え続ければ、キーパーとしても{n}世界中のクラブチームから誘いがくるさ。{p}
+EN: You've still got over two years till graduation. Keep training, and clubs all over the world will want you as a keeper too.{p}
+
+## MGT05 g0 s0103
+JP: それに、世界にはフリーキックを蹴る{n}キーパーだっている。{n}点を取る事はもちろん、今から{n}キーパーをあきらめるのは早すぎるぜ。{p}{end}
+EN: Besides, there are keepers out there who take free kicks. You can score goals too, and it's way too early to give up on keeping.{p}{end}
+
+## MGT05 g0 s0104
+JP: そうだな……。{n}ありがとう、俺がまちがってたよ。{n}俺は、キーパーも、得点もどちらも{n}あきらめないぞ!{p}{end}
+EN: You're right... Thanks, I was wrong. I'm not giving up on keeping or on scoring!{p}{end}
+
+## MGT05 g0 s0105
+JP: そうだ!{sp}その調子!!{n}なにしろ目標はワールドカップだからな!{p}
+EN: That's it! That's the spirit!! After all, your goal is the World Cup!{p}
+
+## MGT05 g0 s0106
+JP: そうとも!{n}まだまだこれからだ!!{n}……{v3:5}、これからも{n}俺といっしょに練習してくれるか?{p}
+EN: You bet! I'm just getting started!! ...{v3:5}, will you keep practicing with me?{p}
+
+## MGT05 g0 s0107
+JP: もちろんだよ、{n}ロベルト。{n}プロになるまでつきあってやるさ。{p}{end}
+EN: Of course, Roberto. I'll stick with you till you go pro.{p}{end}
+
+## MGT05 g0 s0108
+JP: {v3:5}……ありがとう!{p}{end}
+EN: {v3:5}... Thanks!{p}{end}
+
+## MGT05 g0 s0109
+JP: う～ん、俺はたしかにフォワードの方が{n}向いてると思うな。{n}ロベルトのキック力は{n}絶対フォワード向きだよ。{p}{end}
+EN: Hmm, I really do think you're better suited to forward. That kicking power of yours is made for a forward.{p}{end}
+
+## MGT05 g0 s0110
+JP: それに……ドリブル突破も{n}パス回しもうまいしな。{n}ゴール前でキーパーだけなんて{n}もったいないだろ。{p}
+EN: Plus... you're good at dribbling past people and passing. Keeping you stuck in front of the goal is such a waste.{p}
+
+## MGT05 g0 s0111
+JP: おいおい、キーパーを単なる{n}守備固めみたいにいうなよ。{n}キーパーこそゲームをコントロールする{n}力が必要な、重要なポジションなんだぞ。{p}{end}
+EN: Hey now, don't talk about keepers like they're just extra defense. The keeper's a key position. You need the power to control the game.{p}{end}
+
+## MGT05 g0 s0112
+JP: それに、世界にはキーパーをやりながら{n}攻撃参加するキーパーはけっこういるしな。{n}逆にフォワードをやりながら、{n}キーパーはムリだ……。{p}{end}
+EN: Besides, plenty of keepers out there join the attack. But you can't play keeper while playing forward...{p}{end}
+
+## MGT05 g0 s0113
+JP: そうだよ……俺はやっぱり、{n}キーパーがやりたい!{n}その気持ちの方が大事なんじゃないか?{p}
+EN: That's right... I want to be a keeper! Isn't that feeling what matters most?{p}
+
+## MGT05 g0 s0114
+JP: 卒業まで2年以上ある!{n}意地でもキーパーとして{n}スカウトされてみせるぞ!{p}{end}
+EN: I've got over two years till graduation! I'll get scouted as a keeper if it kills me!{p}{end}
+
+## MGT05 g0 s0115
+JP: ロベルト……そうだよな。{n}ごめん、軽はずみなこといって……。{p}{end}
+EN: Roberto... You're right. Sorry, that was thoughtless of me...{p}{end}
+
+## MGT05 g0 s0116
+JP: それはスカウトの眼が節穴なんだよ。{n}ロベルトのキーパーとしての能力を{n}見抜けないなんてさ。{n}それで、ホントにプロのスカウトかね?{p}{end}
+EN: Then the scout must be blind. He can't even see what you can do as a keeper. Is he really a pro scout?{p}{end}
+
+## MGT05 g0 s0117
+JP: {v3:5}……、{n}俺をなぐさめたいのはわかるが、{n}人のことを悪くいってはいけないな。{p}
+EN: {v3:5}... I know you're trying to cheer me up, but you shouldn't badmouth people.{p}
+
+## MGT05 g0 s0118
+JP: きっと……あの人は、{n}俺のキーパーとして、いたらない点に{n}気づいたに違いない。{p}
+EN: I'm sure... he spotted where I'm still lacking as a keeper.{p}
+
+## MGT05 g0 s0119
+JP: 卒業まで2年以上ある、{n}なんとしても、キーパーとしての{n}弱点を克服しないとな!{p}
+EN: I've got over two years till graduation. No matter what, I have to overcome my weak points as a keeper!{p}
+
+## MGT05 g0 s0120
+JP: ロベルト……ごめん、{n}軽はずみなこといって……。{p}{end}
+EN: Roberto... Sorry, that was thoughtless of me...{p}{end}
+
+## MGT05 g0 s0121
+JP: いや……お前の気持ちはうれしいよ。{n}これからも、俺といっしょに{n}練習してくれるか?{p}
+EN: No... I appreciate the thought. Will you keep practicing with me?{p}
+
+## MGT05 g0 s0122
+JP: もちろんさ!{n}ロベルトがプロになるまで、{n}つきあってやるさ。{p}{end}
+EN: Of course! I'll stick with you till you go pro, Roberto.{p}{end}
+
+## MGT05 g0 s0123
+JP: {v3:5}……{n}ありがとうな。{p}{end}
+EN: {v3:5}... Thanks, really.{p}{end}
+
+## MGT05 g0 s0125
+JP: ん!?{n}誰か来たぞ。{n}こんな時間に誰だろう?{p}{end}
+EN: Hm!? Someone's here. Who could it be at this hour?{p}{end}
+
+## MGT05 g0 s0126
+JP: よぉ、{v3:5}。{n}おじゃまするぜ。{p}
+EN: Hey, {v3:5}. Mind if I come in?{p}
+
+## MGT05 g0 s0127
+JP: ロベルトじゃないか。{n}どうしたんだ、こんな時間に。{p}
+EN: Roberto! What's up, coming by this late?{p}
+
+## MGT05 g0 s0128
+JP: ほら、これやるよ。{p}
+EN: Here, this is for you.{p}
+
+## MGT05 g0 s0129
+JP: どうしたんだ?{n}突然プレゼントなんて、{n}気味が悪いな。{p}
+EN: What's this? A present out of nowhere? That's kinda creepy.{p}
+
+## MGT05 g0 s0130
+JP: 何いってんだ、{n}お前、今日誕生日だろう?{p}{end}
+EN: What are you talking about? It's your birthday today, right?{p}{end}
+
+## MGT05 g0 s0131
+JP: そうか、今日は俺の誕生日だったな。{n}すっかり忘れてたよ。{p}{end}
+EN: Oh yeah, today's my birthday. I totally forgot.{p}{end}
+
+## MGT05 g0 s0132
+JP: ホントはもっと盛大に祝ってやろうと{n}思ってたんだが……クラブが終わったら、{n}この時間でな。{n}プレゼントだけでカンベンしてくれ。{p}
+EN: I wanted to throw you a big celebration, but... by the time club ended, it was this late. Hope the present's enough.{p}
+
+## MGT05 g0 s0133
+JP: カンベンなんてそんな……。{n}うれしいよ、ありがとう。{n}開けてみてもいいか?{p}
+EN: Enough? Come on... I'm really happy. Thanks. Can I open it?{p}
+
+## MGT05 g0 s0134
+JP: もちろん。{p}
+EN: Sure.{p}
+
+## MGT05 g0 s0135
+JP: {col:0}『ロベルトのサンバイザー』{col:-}を{n}手に入れた!{p}
+EN: Got {col:0}"Roberto's Sun Visor"{col:-}!{p}
+
+## MGT05 g0 s0136
+JP: なんだ、ロベルトとお揃い?{n}うれしいなぁ、ありがとう!{p}
+EN: Whoa, it matches yours, Roberto? That's awesome, thanks!{p}
+
+## MGT05 g0 s0137
+JP: なに、お前にも似合うかと思ってね。{n}喜んでもらえてうれしいよ。{p}
+EN: Eh, I figured it'd look good on you too. Glad you like it.{p}
+
+## MGT05 g0 s0138
+JP: ああ、誕生日覚えててくれただけでも{n}うれしいのに、こんなプレゼントまで{n}もらって……ありがとう。{p}{end}
+EN: Yeah. Just you remembering my birthday made me happy, and you even got me a present... Thanks.{p}{end}
+
+## MGT05 g0 s0139
+JP: へへ、よせよ。{n}じゃ、俺は帰るぜ。{n}じゃな。{p}{end}
+EN: Heh, cut it out. Well, I'm heading home. Later.{p}{end}
+
+## MGT05 g0 s0140
+JP: わざわざ届けてくれるなんて……{n}うれしいなぁ!{p}
+EN: He came all the way here to bring it... That makes me so happy!{p}
+
+## MGT05 g0 s0141
+JP: ちょっと遅れたけど、{n}ほら、これやるよ。{p}{end}
+EN: It's a little late, but here, this is for you.{p}{end}
+
+## MGT05 g0 s0142
+JP: え?{sp}ちょっと遅れたって?{n}突然プレゼントなんて、{n}気味が悪いな。{p}
+EN: Huh? A little late? A present out of nowhere? That's kinda creepy.{p}
+
+## MGT05 g0 s0143
+JP: 何いってんだ、{n}お前、こないだ誕生日だったんだろう?{p}{end}
+EN: What are you talking about? Your birthday was the other day, right?{p}{end}
+
+## MGT05 g0 s0144
+JP: あ……そうか、{n}俺の誕生日、過ぎたんだった。{n}すっかり忘れてた……。{p}{end}
+EN: Oh... right, my birthday already passed. I totally forgot...{p}{end}
+
+## MGT05 g0 s0145
+JP: ホントは当日、盛大に祝ってやろうと{n}思ってたんだが……{n}いろいろ不都合があってな、{n}遅れたけどこれでカンベンしてくれ。{p}
+EN: I wanted to throw you a big celebration on the day, but... things kept getting in the way. It's late, but hope this makes up for it.{p}
+
+## MGT05 g1 s0001
+JP: {face:1}後ろから声!?{face:255}{p}
+EN: {face:1}A voice from behind!?{face:255}{p}
+
+## MGT05 g1 s0003
+JP: {face:1}すばやく、横へ!{n}さっ!{face:255}{p}{end}
+EN: {face:1}Quick, to the side! Hup!{face:255}{p}{end}
+
+## MGT05 g1 s0005
+JP: {face:1}すばやく、横へ{face:255}……きゃっ!?{p}{end}
+EN: {face:1}Quick, to the{face:255}... Eek!?{p}{end}
+
+## MGT05 g1 s0007
+JP: {face:1}すばやく、ジャンプ!!{n}えいっ!!{face:255}{p}
+EN: {face:1}Quick, jump!! Hyah!!{face:255}{p}
+
+## MGT05 g1 s0009
+JP: {face:1}すばやく、ジャンプ{face:255}……、{n}きゃっ!?{p}{end}
+EN: {face:1}Quick, jum{face:255}... Eek!?{p}{end}
+
+## MGT05 g1 s0011
+JP: な、何!?{n}と、振り向くと目の前に、{n}炎に包まれたサッカーボール!?{p}{end}
+EN: Wh-what!? I turned around, and right in front of me was a flaming soccer ball!?{p}{end}
+
+## MGT05 g1 s0013
+JP: 大丈夫か?{sp}{v7:5}!{n}ケガはないか?{p}
+EN: You okay, {v7:5}!? You hurt?{p}
+
+## MGT05 g1 s0014
+JP: もぉロベルトったら、{n}私だから避けれたけど、{n}普通の人だったら間違いなく、{n}火だるまだったわよ。{p}{end}
+EN: Geez, Roberto! Lucky it was me and I could dodge it. Anyone else would've gone up in flames for sure.{p}{end}
+
+## MGT05 g1 s0015
+JP: スマン、{v7:5}。{n}ホントお前で助かったよ。{n}お前なら、当たっても{n}なんとかなるからな。{p}{end}
+EN: Sorry, {v7:5}. Good thing it was you, though. Even if it hit you, you'd be fine.{p}{end}
+
+## MGT05 g1 s0016
+JP: ふ～ん。{n}まるで、私ならどうなってもいいって{n}感じね。{p}
+EN: Hmm. Sounds like you don't care what happens to me.{p}
+
+## MGT05 g1 s0019
+JP: いた～～い……。{n}これは……ロベルトの爆裂Vゴールね。{n}服が少しこげちゃった……。{p}
+EN: Owww... That was... Roberto's Victory Goal. My clothes got a little scorched...{p}
+
+## MGT05 g1 s0020
+JP: スマン、{v7:5}。{n}……でもお前でよかったよ。{n}お前なら鍛え方が違うからな。{p}{end}
+EN: Sorry, {v7:5}. ...Good thing it was you, though. You're built tougher than the rest.{p}{end}
+
+## MGT05 g1 s0021
+JP: もうロベルトったら、{n}私ならどうなってもいいって{n}言いかたネ。{p}
+EN: Geez, Roberto, you make it sound like you don't care what happens to me.{p}
+
+## MGT05 g1 s0023
+JP: うまくごまかされてる気がするけど……、{n}まぁいいわ。{n}……ロベルト、一人で練習してたの?{p}{end}
+EN: Feels like you're smoothing it over, but... whatever. ...Roberto, were you practicing alone?{p}{end}
+
+## MGT05 g1 s0025
+JP: たしかにそうだけど……。{n}一人じゃ効率悪いでしょう。{p}{end}
+EN: Sure, but... practicing alone isn't very efficient.{p}{end}
+
+## MGT05 g1 s0027
+JP: なるほどネ……。{n}そういうことなら、{n}今度、私が手伝ってあげようか?{p}{end}
+EN: I see... In that case, want me to help you out next time?{p}{end}
+
+## MGT05 g1 s0028
+JP: サンキュー、{v7:5}。{n}今日はもう上がるつもりだから、{n}また今度頼むよ。{p}{end}
+EN: Thanks, {v7:5}. I was about to call it a day, so I'll take you up on it next time.{p}{end}
+
+## MGT05 g1 s0029
+JP: うん、いいよ。{n}それじゃ、そろそろ帰ろっか。{p}{end}
+EN: Sure, sounds good. Then I guess we should head home.{p}{end}
+
+## MGT05 g1 s0031
+JP: 今日はロベルトと、{n}二人で練習をする約束だったわね。{n}はやく、練習場所にいかないと。{p}{end}
+EN: Today I promised Roberto we'd practice together, just the two of us. I'd better get to the practice spot.{p}{end}
+
+## MGT05 g1 s0032
+JP: しかし、ロベルトも練習熱心ねぇ。{n}クラブ終わってからの練習に{n}つきあって欲しい、なんて。{p}{end}
+EN: Wow, Roberto's really dedicated. Asking me to help him practice after club.{p}{end}
+
+## MGT05 g1 s0034
+JP: 遅いぞ、{v7:5}。{n}こっちは身体は温まってるから、{n}はやくアップを済ませてくれ。{p}{end}
+EN: You're late, {v7:5}. I'm already warmed up, so hurry and finish your warm-up.{p}{end}
+
+## MGT05 g1 s0035
+JP: さすがに早いね、ロベルト。{n}ちょっと待ってて。{n}すぐに準備するから。{p}{end}
+EN: Early as always, Roberto. Hang on a sec. I'll get ready right away.{p}{end}
+
+## MGT05 g1 s0037
+JP: おまたせ。{n}さてと、何をやるの?{p}{end}
+EN: Sorry for the wait. So, what are we doing?{p}{end}
+
+## MGT05 g1 s0039
+JP: よし、それじゃいくよ。{p}
+EN: All right, here goes.{p}
+
+## MGT05 g1 s0041
+JP: よし、さすが{v7:5}、{n}的確なパスだな。{n}女の子とは思えないよ。{n}よぉし、次は一対一の練習でもするか。{p}
+EN: Good, nice, {v7:5}. Spot-on passes. I'd never guess a girl could pass like that. All right, next let's do some one-on-one.{p}
+
+## MGT05 g1 s0043
+JP: いいわよ、さぁ!{p}{end}
+EN: Okay, bring it!{p}{end}
+
+## MGT05 g1 s0045
+JP: ……ハァ、ハァ、{n}さすがね、ロベルト。{n}全然ボールにさわらせてもらえない……。{p}
+EN: ...Huff, huff... You're good, Roberto. I can't even touch the ball...{p}
+
+## MGT05 g1 s0046
+JP: ははぁ、さすがにこれは難しいか。{n}よしじゃ、今度は{v7:5}が{n}キープしてみるか?{p}{end}
+EN: Haha, guess that's too tough. Okay then, how about you try keeping it this time, {v7:5}?{p}{end}
+
+## MGT05 g1 s0047
+JP: いいわよ、やってみるわ。{p}{end}
+EN: Okay, I'll give it a try.{p}{end}
+
+## MGT05 g1 s0048
+JP: ……バッ……ガッ!{n}ダメね、あっさりとられちゃうわ。{n}もっと慎重にしないと……。{p}{end}
+EN: ...Shff... Thunk! No good, he takes it so easily. I need to be more careful...{p}{end}
+
+## MGT05 g1 s0050
+JP: （言ったなぁ～!{n}{sp}こうなったら意地でもロベルトを{n}{sp}抜いてみせるわ!{n}{sp}ここは私の華麗なテクニックで……）{p}{end}
+EN: (Oh, you're on! Now I'll get past Roberto if it kills me! Time for one of my dazzling moves...){p}{end}
+
+## MGT05 g1 s0052
+JP: （左右に細かいフェイントよ!!{n}{sp}バッバッ!）{p}
+EN: (Quick little feints, left and right!! Shff shff!){p}
+
+## MGT05 g1 s0054
+JP: ……と、見せかけてこっち!!{p}{end}
+EN: ...Psych! This way!!{p}{end}
+
+## MGT05 g1 s0057
+JP: やったわ!{n}ロベルトを抜いたわよ!{p}
+EN: Yes! I got past Roberto!{p}
+
+## MGT05 g1 s0058
+JP: ……やられたよ、{n}さすがだな、{v7:5}。{p}{end}
+EN: ...You got me. Nice one, {v7:5}.{p}{end}
+
+## MGT05 g1 s0059
+JP: へへ、少しは見直した?{p}
+EN: Heh, are you a little impressed?{p}
+
+## MGT05 g1 s0063
+JP: ううん、いけると思ったのに。{n}さすがロベルトね、私程度じゃ{n}相手にならないわ。{p}
+EN: Aww, I thought I had it. That's Roberto for you. Someone like me is no match for him.{p}
+
+## MGT05 g1 s0064
+JP: （ボールといっしょにジャンプ!{n}{sp}……ってアラ?）{p}
+EN: (Jump with the ball! ...Huh?){p}
+
+## MGT05 g1 s0066
+JP: ああんっ、私の華麗なジャンプが……!{p}{end}
+EN: Aww, my dazzling jump...!{p}{end}
+
+## MGT05 g1 s0068
+JP: う～ん、やっぱりムリね……。{p}{end}
+EN: Hmm, guess it was impossible after all...{p}{end}
+
+## MGT05 g1 s0069
+JP: （ヒールでボールを!{n}{sp}ガッ!{n}{sp}浮かせて……その間に私が{n}{sp}ロベルトを抜く!）{p}{end}
+EN: (Heel the ball! Thunk! Flick it up... and while it's in the air, I get past Roberto!){p}{end}
+
+## MGT05 g1 s0070
+JP: ……おいおい、{v7:5}、{n}何やってんだ。{n}ボールを後ろに蹴り飛ばして。{p}
+EN: ...Hey, hey, {v7:5}, what are you doing? You kicked the ball behind you.{p}
+
+## MGT05 g1 s0073
+JP: ……そうね、ゴメン。{p}{end}
+EN: ...Yeah, sorry.{p}{end}
+
+## MGT05 g1 s0075
+JP: ふぅ……ちょっと遅くなったな。{n}{v7:5}、今日はありがとう。{n}おかげで有意義な練習ができたよ。{p}
+EN: Phew... It got kinda late. {v7:5}, thanks for today. That was really useful practice.{p}
+
+## MGT05 g1 s0076
+JP: ううん、{n}そんなにお役に立てなくて、{n}ゴメンね。{p}{end}
+EN: Nah. Sorry I wasn't more help.{p}{end}
+
+## MGT05 g1 s0078
+JP: また……練習につきあってくれ。{n}頼むよ、{v7:5}。{p}
+EN: Practice with me... again sometime. I'm counting on you, {v7:5}.{p}
+
+## MGT05 g1 s0079
+JP: うん……もちろん!{p}
+EN: Yeah... Of course!{p}
+
+## MGT05 g1 s0081
+JP: 人に頼んで買ってきてもらった{n}シューズが、まちがって女物だったんだ。{n}たぶん、お前なら合うと思うんだが、{n}どうだ、使わないか?{p}
+EN: I had someone buy me cleats, and they got women's ones by mistake. I think they'd probably fit you. Want them?{p}
+
+## MGT05 g1 s0082
+JP: いいの?{n}それじゃ……もらうわ。{n}ありがと。{p}{end}
+EN: You sure? Then... I'll take them. Thanks.{p}{end}
+
+## MGT05 g1 s0086
+JP: はい、ロベルト。{n}どうしたの、うれしそうね。{p}{end}
+EN: Hi, Roberto. What's up? You look happy.{p}{end}
+
+## MGT05 g1 s0087
+JP: よぉ、{v7:5}。{n}ふふっ、聞いてくれよ。{n}今日、Jリーグのチームの{n}スカウトに会ったんだ。{p}
+EN: Hey, {v7:5}. Heh, listen to this. Today I met a scout from a J.League team.{p}
+
+## MGT05 g1 s0088
+JP: あ……あのヘンな声の人ね。{n}前に見たことあるわ。{p}{end}
+EN: Oh... that guy with the weird voice. I've seen him before.{p}{end}
+
+## MGT05 g1 s0092
+JP: すごいネ、ロベルト。{n}これも日頃の努力のたまものだわ。{p}
+EN: That's amazing, Roberto. It's all thanks to your hard work.{p}
+
+## MGT05 g1 s0094
+JP: 何いってるの。{n}ロベルトの実力よ、みんな。{n}私はロベルトほど{n}サッカーもうまくないし……。{p}
+EN: What are you talking about? It's all your own skill. I'm not even as good at soccer as you...{p}
+
+## MGT05 g1 s0100
+JP: まだまだキーパーとしてはこれからよ{n}フォワードの方が向いてるって{n}スカウトの眼が節穴なのよ{p}
+EN: You've got time to grow as a keeper{n}You're better suited to forward{n}That scout must be blind{p}
+
+## MGT05 g1 s0101
+JP: キーパーとして、まだまだこれから{n}鍛える余地があるってことじゃない。{n}ロベルトはまだ高校一年生でしょ?{p}
+EN: It just means you've still got room to grow as a keeper. You're only a first-year, Roberto, right?{p}
+
+## MGT05 g1 s0102
+JP: 卒業まで、まだ2年以上あるわ。{n}今から鍛え続ければ、キーパーとしても{n}世界中のクラブチームから誘いがくるわよ。{p}
+EN: You've still got over two years till graduation. Keep training, and clubs all over the world will want you as a keeper too.{p}
+
+## MGT05 g1 s0103
+JP: それに、世界にはフリーキックを蹴る{n}キーパーだっているんだし。{n}点を取る事はもちろん、今から{n}キーパーをあきらめるのは早すぎるわよ。{p}{end}
+EN: Besides, there are keepers out there who take free kicks. You can score goals too, and it's way too early to give up on keeping.{p}{end}
+
+## MGT05 g1 s0105
+JP: そうそう!{sp}その調子!!{n}なにしろ目標はワールドカップなんだから!{p}
+EN: That's it! That's the spirit!! After all, your goal is the World Cup!{p}
+
+## MGT05 g1 s0106
+JP: そうとも!{n}まだまだこれからだ!!{n}……{v7:5}、これからも{n}俺といっしょに練習してくれるか?{p}
+EN: You bet! I'm just getting started!! ...{v7:5}, will you keep practicing with me?{p}
+
+## MGT05 g1 s0107
+JP: もちろんよ、{n}ロベルト。{n}プロになるまでつきあってあげる{col:5}♥{col:-}{p}
+EN: Of course, Roberto. I'll stick with you till you go pro{col:5}♥{col:-}{p}
+
+## MGT05 g1 s0108
+JP: {v7:5}……ありがとう!{p}{end}
+EN: {v7:5}... Thanks!{p}{end}
+
+## MGT05 g1 s0109
+JP: う～ん、私はたしかにフォワードの方が{n}向いてると思うわ。{n}ロベルトのキック力は{n}絶対フォワード向きよ。{p}
+EN: Hmm, I really do think you're better suited to forward. That kicking power of yours is made for a forward.{p}
+
+## MGT05 g1 s0110
+JP: それに……ドリブル突破も{n}パス回しもうまいしね。{n}ゴール前でキーパーだけなんて{n}もったいないわ。{p}{end}
+EN: Plus... you're good at dribbling past people and passing. Keeping you stuck in front of the goal is such a waste.{p}{end}
+
+## MGT05 g1 s0115
+JP: ロベルト……そうよね。{n}ごめんネ、軽はずみなこといって……。{p}{end}
+EN: Roberto... You're right. Sorry, that was thoughtless of me...{p}{end}
+
+## MGT05 g1 s0116
+JP: それはスカウトの眼が節穴なのよ。{n}ロベルトのキーパーとしての能力を{n}見抜けないなんてネ。{n}それで、ホントにプロのスカウトかしら?{p}{end}
+EN: Then the scout must be blind. He can't even see what you can do as a keeper. Is he really a pro scout?{p}{end}
+
+## MGT05 g1 s0117
+JP: {v7:5}……、{n}俺をなぐさめたいのはわかるが、{n}人のことを悪くいってはいけないな。{p}
+EN: {v7:5}... I know you're trying to cheer me up, but you shouldn't badmouth people.{p}
+
+## MGT05 g1 s0120
+JP: ロベルト……ごめんネ、{n}軽はずみなこといって……。{p}
+EN: Roberto... Sorry, that was thoughtless of me...{p}
+
+## MGT05 g1 s0122
+JP: もちろん!{n}ロベルトがプロになるまで、{n}つきあってあげるよ!{p}{end}
+EN: Of course! I'll stick with you till you go pro, Roberto!{p}{end}
+
+## MGT05 g1 s0123
+JP: {v7:5}……{n}ありがとうな。{p}{end}
+EN: {v7:5}... Thanks, really.{p}{end}
+
+## MGT05 g1 s0125
+JP: あら?{n}誰か来たわ。{n}こんな時間に誰かな?{p}
+EN: Oh? Someone's here. Who could it be at this hour?{p}
+
+## MGT05 g1 s0126
+JP: よぉ、{v7:5}。{n}おじゃまするぜ。{p}
+EN: Hey, {v7:5}. Mind if I come in?{p}
+
+## MGT05 g1 s0127
+JP: ロベルトじゃない。{n}ど、どうしたの、こんな時間に。{p}
+EN: Roberto! Wh-what's up, coming by this late?{p}
+
+## MGT05 g1 s0129
+JP: どうしたの?{n}突然プレゼントなんて、{n}何かお祝いでもあったかナ。{p}{end}
+EN: What's this? A present out of nowhere? Is there something to celebrate?{p}{end}
+
+## MGT05 g1 s0131
+JP: あ、そういえば……{n}今日は私の誕生日ね。{n}すっかり忘れてたわ。{p}
+EN: Oh, that's right... today's my birthday. I totally forgot.{p}
+
+## MGT05 g1 s0133
+JP: カンベンなんてそんな……。{n}うれしいよ、ありがとネ。{n}開けてみてもいい?{p}{end}
+EN: Enough? Come on... I'm really happy. Thanks. Can I open it?{p}{end}
+
+## MGT05 g1 s0136
+JP: うわぁ、ロベルトとお揃い?{n}うれしいわぁ、ありがとう!{p}
+EN: Wow, it matches yours, Roberto? I love it, thanks!{p}
+
+## MGT05 g1 s0138
+JP: ううん、誕生日覚えててくれただけでも{n}うれしいのに、こんなプレゼントまで{n}もらって……ありがとう。{p}
+EN: Mm-mm. Just you remembering my birthday made me happy, and you even got me a present... Thanks.{p}
+
+## MGT05 g1 s0140
+JP: わざわざ届けてくれるなんて……{n}うれしいわぁ!{p}
+EN: He came all the way here to bring it... That makes me so happy!{p}
+
+## MGT05 g1 s0142
+JP: え?{sp}ちょっと遅れたって?{n}突然プレゼントなんて、{n}何かお祝いでもあったかナ。{p}
+EN: Huh? A little late? A present out of nowhere? Is there something to celebrate?{p}
+
+## MGT05 g1 s0144
+JP: あ……そういえば、そうね。{n}私の誕生日、過ぎたんだったわ。{n}すっかり忘れてた……。{p}
+EN: Oh... that's right. My birthday already passed. I totally forgot...{p}
+
+## MGT05 g1 s0146
+JP: カンベンなんてそんな……。{n}うれしいわ、ありがと。{n}開けてみてもいい?{p}
+EN: Enough? Come on... I'm really happy. Thanks. Can I open it?{p}
+
+## MGT05 g1 s0149
+JP: うわぁ、ロベルトとお揃い?{n}うれしいなぁ、ありがとう!{p}
+EN: Wow, it matches yours, Roberto? That's awesome, thanks!{p}
+
+## MGT05 g1 s0151
+JP: ううん、誕生日覚えててくれただけでも{n}うれしいのに、こんなプレゼントまで{n}もらって……ありがとネ。{p}
+EN: Mm-mm. Just you remembering my birthday made me happy, and you even got me a present... Thanks.{p}
+

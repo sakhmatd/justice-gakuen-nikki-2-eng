@@ -1,0 +1,94 @@
+# Month title cards in DAT2/MGBETA.TZZ (tools/build_beta.py).
+# Title: JP N月 -> month name. Date: JP N月D日 -> short date (Mar. 6).
+# Event: JP event name. Entry 3 (April slot) is a copy of May.
+
+JP: １月
+EN: January
+JP: １月１日
+EN: Jan. 1
+JP: 正月
+EN: New Year's Day
+JP: ２月
+EN: February
+JP: ２月１４日
+EN: Feb. 14
+JP: バレンタインデー
+EN: Valentine's Day
+JP: ３月
+EN: March
+JP: ３月６日
+EN: Mar. 6
+JP: 学年末試験
+EN: Year-End Exam
+JP: ３月１４日
+EN: Mar. 14
+JP: ホワイトデー
+EN: White Day
+JP: ３月２１日
+EN: Mar. 21
+JP: 進級試験
+EN: Promotion Exam
+JP: ３月２４日
+EN: Mar. 24
+JP: 終業式
+EN: Closing Ceremony
+JP: ５月
+EN: May
+JP: ５月２４日
+EN: May 24
+JP: １学期中間試験
+EN: 1st Term Midterm
+JP: ６月
+EN: June
+JP: ６月１２日
+EN: June 12
+JP: 太Ｐ戦
+EN: Taiyo-Pacific Match
+JP: ７月
+EN: July
+JP: ７月１２日
+EN: July 12
+JP: １学期期末試験
+EN: 1st Term Final
+JP: ７月３１日
+EN: July 31
+JP: プール
+EN: Pool
+JP: ８月
+EN: August
+JP: ８月１３～１４日
+EN: Aug. 13-14
+JP: 臨海合宿
+EN: Seaside Camp
+JP: ８月２８日
+EN: Aug. 28
+JP: 夏祭り
+EN: Summer Festival
+JP: ９月
+EN: September
+JP: ９月２５日
+EN: Sep. 25
+JP: 学園祭
+EN: School Festival
+JP: １０月
+EN: October
+JP: １０月２５日
+EN: Oct. 25
+JP: ２学期中間試験
+EN: 2nd Term Midterm
+JP: １１月
+EN: November
+JP: １１月２７日
+EN: Nov. 27
+JP: 五輪祭
+EN: Gorin Festival
+JP: １２月
+EN: December
+JP: １２月６日
+EN: Dec. 6
+JP: ２学期期末試験
+EN: 2nd Term Final
+JP: １２月２４日
+EN: Dec. 24
+JP: クリスマス
+EN: Christmas

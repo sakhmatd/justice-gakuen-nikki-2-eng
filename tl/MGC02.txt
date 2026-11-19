@@ -1,0 +1,304 @@
+## MGC02 g0 s0000
+JP: さてと、今日は特別練習の日だ。{n}野球部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to baseball club practice.{p}
+
+## MGC02 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}まだまだ寒いな。{n}今日もがんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-kun{col:-}. Still plenty cold out. Let's give it our all again today.{p}{end}
+
+## MGC02 g0 s0002
+JP: よし、じゃいつも通り、{n}先月のクラブ活動の成果から{n}みてみよう。{p}{end}
+EN: All right, same as always, we'll start with last month's club results.{p}{end}
+
+## MGC02 g0 s0004
+JP: この練習もあと2回だ。{n}よく考えて選べよ。{p}
+EN: Only two more of these practices left. Think hard before you pick.{p}
+
+## MGC02 g0 s0005
+JP: よし、今日はそこまでしておこう。{n}しかしいい身体になったな。{n}どれだけマジメに練習してきたか、{n}よくわかる。{p}{end}
+EN: All right, let's call it a day. You've really built yourself up, though. I can tell how seriously you've been training.{p}{end}
+
+## MGC02 g0 s0006
+JP: 今月は、たいした行事はなし、と。{n}ああバレンタインデーがあるな。{n}どうだ、もらえそうか?{p}{end}
+EN: No big events this month... Oh, there's Valentine's Day. So, think you'll get any?{p}{end}
+
+## MGC02 g0 s0007
+JP: もうすぐ1年だ。{n}どうだ、やり残したことはないか?{n}それじゃ、また来月な。{p}
+EN: It's almost been a year. Anything you've left undone? Well, see you next month.{p}
+
+## MGC02 g0 s0008
+JP: さてと、今日は特別練習の日だ。{n}バレー部の練習に行くか。{p}{end}
+EN: OK, today's special practice day. Time to head to volleyball club practice.{p}{end}
+
+## MGC02 g0 s0009
+JP: 来たな、{v0}!{n}さぁ特別練習の時間だ。{n}気合い入れていくぞ!{p}
+EN: There you are, {v0}! Time for special practice. Let's get fired up!{p}
+
+## MGC02 g0 s0012
+JP: この練習もあと2回しかない。{n}よく考えて選べよ。{p}{end}
+EN: Only two more of these practices left. Think hard before you pick.{p}{end}
+
+## MGC02 g0 s0013
+JP: よぉし、1年前とは比較にならないくらい、{n}いい身体になったな。{n}これも、この僕の指導のたまものだな!{p}{end}
+EN: Alright! You're in way better shape than a year ago. All thanks to my coaching, of course!{p}{end}
+
+## MGC02 g0 s0014
+JP: さてと今月は……ふむ、{n}バレンタインデーがあるくらいだな。{p}
+EN: Now, this month... hm, there's just Valentine's Day.{p}
+
+## MGC02 g0 s0015
+JP: あと特別練習は1回きりだ。{n}悔いが残らないようにがんばれよ。{n}それじゃ、また来月な!{p}{end}
+EN: Only one special practice left. Give it your all so you have no regrets. See you next month!{p}{end}
+
+## MGC02 g0 s0016
+JP: さてと、今日は特別練習の日だ。{n}サッカー部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to soccer club practice.{p}
+
+## MGC02 g0 s0017
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、2月の特別練習の日です。{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is February's special practice day. Let's do our best.{p}{end}
+
+## MGC02 g0 s0019
+JP: いい感じですね。{n}それでは、次は特別練習です。{n}好きな練習を選んでください。{p}{end}
+EN: Looking good. Next is special practice. Please pick whichever drill you like.{p}{end}
+
+## MGC02 g0 s0020
+JP: この練習もあと2回です。{n}慎重に考えて選んだ方がいいですよ。{p}{end}
+EN: Only two more of these practices. You'd better think carefully before you choose.{p}{end}
+
+## MGC02 g0 s0021
+JP: はい、お疲れさまです。{n}さすがに、気合が入ってましたね。{p}{end}
+EN: Okay, good work. You were really fired up, as I expected.{p}{end}
+
+## MGC02 g0 s0022
+JP: 今月の伝達事項は……、{n}ええと、バレンタインデーが{n}あるくらいですね。{p}
+EN: This month's announcements... Um, there's just Valentine's Day.{p}
+
+## MGC02 g0 s0023
+JP: 特別練習もあと1回ですね。{n}悔いが残らないように、{n}がんばっていきましょう。{n}それでは、また来月に……。{p}{end}
+EN: Only one more special practice. Let's give it our all so there are no regrets. Well then, until next month...{p}{end}
+
+## MGC02 g0 s0024
+JP: さてと、今日は特別練習の日だ。{n}相撲部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to sumo club practice.{p}
+
+## MGC02 g0 s0025
+JP: 来たな、{v1}!{n}あと少しで1年になるぞ。{n}ガンガン気合をいれていくぞ!{p}{end}
+EN: There you are, {v1}! It's almost been a year. We're going full tilt!{p}{end}
+
+## MGC02 g0 s0029
+JP: よしよし、いいだろう。{n}見違えるほど、いい身体になったな、{n}お前も。{p}{end}
+EN: Good, good, that'll do. You've filled out so much I hardly recognize you.{p}{end}
+
+## MGC02 g0 s0030
+JP: さてと、今月は……、{n}ええとなんだっけな、これは……{n}バレンタイン?{sp}とかいうヤツだな。{p}{end}
+EN: Now then, this month... er, what was this... Valentine? Some such thing.{p}{end}
+
+## MGC02 g0 s0031
+JP: この練習もあと1回きりだぞ。{n}悔いはないか、よく考えろよ。{n}じゃ、また来月な。{p}
+EN: Just one more of these practices. Think hard about whether you've got any regrets. See you next month.{p}
+
+## MGC02 g0 s0032
+JP: さてと、今日は特別練習の日だ。{n}美術部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to art club practice.{p}
+
+## MGC02 g0 s0033
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}今日も寒いわねぇ。{n}さっさと終わらせちゃいましょ!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Cold again today, huh. Let's hurry up and get it over with!{p}{end}
+
+## MGC02 g0 s0036
+JP: この練習もあと2回しかないから、{n}よく考えて選んでね。{p}
+EN: Only two more of these practices left, so think it over before you pick.{p}
+
+## MGC02 g0 s0037
+JP: はい、おつかれさま。{n}あなたくらい、他の部員のみんなも{n}マジメに出てくれたらいいのにね。{p}{end}
+EN: Okay, good work. I wish the other members showed up as seriously as you do.{p}{end}
+
+## MGC02 g0 s0038
+JP: ええと、そうそう、{n}今月の学校行事は特になし、ね。{n}あとはバレンタインくらいかな。{n}義理チョコなんて期待しないでよ。{p}{end}
+EN: Um, oh right, no school events this month. Just Valentine's, I guess. And don't expect any obligation chocolate from me.{p}{end}
+
+## MGC02 g0 s0039
+JP: この練習もあと1回ね。{n}くれぐれも悔いが残らないようにね。{n}それじゃ、また来月ね。{p}
+EN: Just one more of these practices. Make sure you don't leave any regrets, OK? See you next month.{p}
+
+## MGC02 g0 s0040
+JP: さてと、今日は特別練習の日だ。{n}吹奏楽部の練習に行くか。{p}{end}
+EN: OK, today's special practice day. Time to head to brass band practice.{p}{end}
+
+## MGC02 g0 s0041
+JP: {v0}{col:0}君{col:-}、{n}今日は特別練習の日ですね。{n}がんばりましょう……。{p}
+EN: {v0}{col:0}-kun{col:-}, today is special practice day. Let's do our best...{p}
+
+## MGC02 g0 s0044
+JP: この練習もあと2回です。{n}……よく考えて選んでね。{p}
+EN: Only two more of these practices... Please think carefully before you choose.{p}
+
+## MGC02 g0 s0045
+JP: おつかれさま。{n}何かわからないことがあったら、{n}なんでも私にきいてね……。{p}
+EN: Good work. If there's anything you don't understand, you can ask me anything...{p}
+
+## MGC02 g0 s0046
+JP: あ、そうそう……{n}今月の学校行事は……特になしですね。{n}あとはバレンタインデーくらいです。{p}
+EN: Oh, right... There are no school events this month... Just Valentine's Day.{p}
+
+## MGC02 g0 s0047
+JP: この練習もあと1回です。{n}悔いが残らないようにがんばってね。{n}じゃ、また来月ね……。{p}{end}
+EN: Only one more of these practices. Do your best so you have no regrets. See you next month...{p}{end}
+
+## MGC02 g0 s0048
+JP: さてと、今日は特別練習の日だ。{n}演劇部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to drama club practice.{p}
+
+## MGC02 g0 s0049
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}まだまだ寒いですね。{n}今日は特別練習の日です。{n}準備はいいですか?{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. It's still quite cold. Today is special practice day. Are you ready?{p}
+
+## MGC02 g0 s0052
+JP: この練習もあと2回です。{n}よく考えて慎重に選んだ方がいいですよ。{p}{end}
+EN: Only two more of these practices. You'd better think carefully before you choose.{p}{end}
+
+## MGC02 g0 s0053
+JP: はい、今日はここまでにしましょう。{n}何か面倒なことがあったら、{n}なんでも相談してよ。{p}{end}
+EN: All right, let's stop here for today. If anything's bothering you, come talk to me anytime.{p}{end}
+
+## MGC02 g0 s0054
+JP: 今月は特に学校行事はないですね。{n}あとは……バレンタインデーくらいかな。{n}義理チョコとか期待しないでよ。{p}{end}
+EN: No school events this month in particular. Other than that... just Valentine's Day, I suppose. Don't go expecting obligation chocolate, now.{p}{end}
+
+## MGC02 g0 s0055
+JP: この練習もあと1回ね。{n}悔いが残らないようにがんばってね。{n}それじゃ、また来月に。{p}
+EN: Just one more of these practices. Give it your all so you have no regrets. See you next month.{p}
+
+## MGC02 g0 s0056
+JP: さてと、今日は特別練習の日だ。{n}化学部の練習に行くか。{p}
+EN: OK, today's special practice day. Time to head to chemistry club practice.{p}
+
+## MGC02 g0 s0057
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}もうすぐバレンタインデーだね。{n}僕が子供の頃はホラ、{n}チョコレートなんてゼイタク品でね……。{p}{end}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Valentine's Day is coming up, eh? Back when I was a kid, you see, chocolate was a luxury...{p}{end}
+
+## MGC02 g0 s0058
+JP: まぁそんな話はいいか。{n}ふむふむ、それじゃいつも通り、{n}先月のクラブ活動の成果からだ。{p}
+EN: Well, never mind that. Mm-hm, now, as usual, we'll start with last month's club results.{p}
+
+## MGC02 g0 s0059
+JP: よしよし。それじゃ次は、{n}今月の特別練習だな。{n}好きな練習を選んでくれ。{p}{end}
+EN: Good, good. Next is this month's special practice. Pick whichever drill you like.{p}{end}
+
+## MGC02 g0 s0060
+JP: この練習もあと2回だ。{n}よく考えて選ぶんだぞ。{p}
+EN: Only two more of these practices. Think carefully before you pick.{p}
+
+## MGC02 g0 s0061
+JP: なるほどなるほど。{n}お疲れさん。{n}どうだ、いい感じで成長してきたか?{p}{end}
+EN: I see, I see. Good work. Well? Growing nicely, are we?{p}{end}
+
+## MGC02 g0 s0062
+JP: ええと、今月の学校行事は……{n}特になしと。{n}で、バレンタインだがね……。{n}別に聞きたくないか。{p}
+EN: Um, this month's school events... none in particular. And as for Valentine's... Ah, you don't want to hear about it.{p}
+
+## MGC02 g0 s0063
+JP: ふむふむ、この練習もあと1回だな。{n}悔いが残らないようにがんばれよ。{n}それじゃ、また来月な。{p}{end}
+EN: Mm-hm, just one more of these practices. Give it your all so you have no regrets. See you next month.{p}{end}
+
+## MGC02 g0 s0064
+JP: さてと、今日は特別練習の日だな。{n}委員長と遊んでくるかな。{p}
+EN: OK, today's special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC02 g0 s0065
+JP: はーい、{v0}{col:0}君{col:-}。{n}結局帰宅部なワケね。{n}普通のクラブの方がいいと思うけどなぁ。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. So you stuck with the Go-Home Club after all. I still think a normal club would be better.{p}{end}
+
+## MGC02 g0 s0066
+JP: さてと、それはさておき、{n}先月の帰宅部の成果からね。{p}{end}
+EN: Anyway, setting that aside, let's start with last month's Go-Home Club results.{p}{end}
+
+## MGC02 g0 s0068
+JP: この練習もあと2回しかないから、{n}よく考えて選んだ方がいいわよ。{p}{end}
+EN: Only two more of these practices, so you'd better think hard before you pick.{p}{end}
+
+## MGC02 g0 s0069
+JP: まぁそのへんにしておきましょう。{n}帰宅部なんだから、{n}そんなモノでしょう。{p}
+EN: Well, let's leave it there. It's the Go-Home Club, so that's about what you'd expect.{p}
+
+## MGC02 g0 s0070
+JP: ええと、学校行事は特になしね。{n}あとはバレンタインデーくらいかな。{p}
+EN: Um, no school events in particular. Just Valentine's Day, I guess.{p}
+
+## MGC02 g0 s0071
+JP: この練習もあと1回よ。{n}悔いが残らないようにがんばってね。{n}それじゃ、また来月ね。{p}
+EN: Just one more of these practices. Give it your all so you have no regrets. See you next month.{p}
+
+## MGC02 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}まだまだ寒いね。{n}今日もがんばっていこう。{p}
+EN: Hey, {v1}{col:0}-san{col:-}. Still plenty cold out. Let's give it our all again today.{p}
+
+## MGC02 g1 s0006
+JP: 今月は、たいした行事はなし、と。{n}ああバレンタインデーがあるな。{n}ふふっ、誰かにあげるのか?{p}{end}
+EN: No big events this month... Oh, there's Valentine's Day. Heh, giving any to someone?{p}{end}
+
+## MGC02 g1 s0017
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、2月の特別練習の日ね。{n}がんばっていきましょう。{p}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today's February's special practice day. Let's do our best.{p}
+
+## MGC02 g1 s0019
+JP: いい感じね。{n}それでは、次は特別練習よ。{n}好きな練習を選んでね。{p}{end}
+EN: Looking good. Next is special practice. Pick whichever drill you like.{p}{end}
+
+## MGC02 g1 s0020
+JP: この練習もあと2回ね。{n}慎重に考えて選んだ方がいいよ。{p}
+EN: Only two more of these practices. You'd better think carefully before you choose.{p}
+
+## MGC02 g1 s0021
+JP: はい、お疲れさま。{n}さすがに、気合が入ってたね。{p}{end}
+EN: Okay, good work. You were really fired up, as I expected.{p}{end}
+
+## MGC02 g1 s0022
+JP: 今月の伝達事項は……、{n}ええと、バレンタインデーが{n}あるくらいね。{p}
+EN: This month's announcements... Um, there's just Valentine's Day.{p}
+
+## MGC02 g1 s0023
+JP: 特別練習もあと1回ね。{n}悔いが残らないように、{n}がんばっていきましょう。{n}それでは、また来月に……。{p}{end}
+EN: Only one more special practice. Let's give it our all so there are no regrets. Well then, until next month...{p}{end}
+
+## MGC02 g1 s0025
+JP: 来たな、{v0}!{n}あと少しで1年になるぞ。{n}ガンガン気合をいれていくぞ!{p}{end}
+EN: There you are, {v0}! It's almost been a year. We're going full tilt!{p}{end}
+
+## MGC02 g1 s0029
+JP: よしよし、いいだろう。{n}見違えるほど、たくましくなったな、{n}お前も。{p}{end}
+EN: Good, good, that'll do. You've toughened up so much I hardly recognize you.{p}{end}
+
+## MGC02 g1 s0032
+JP: さてと、今日は特別練習の日ね。{n}美術部の練習に行こうっと。{p}
+EN: OK, today's special practice day. Time to head to art club practice.{p}
+
+## MGC02 g1 s0033
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}今日も寒いわねぇ。{n}さっさと終わらせちゃいましょ!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Cold again today, huh. Let's hurry up and get it over with!{p}
+
+## MGC02 g1 s0038
+JP: ええと、そうそう、{n}今月の学校行事は特になし、ね。{n}あとはバレンタインくらいかな。{n}誰にチョコをあげるのかな?{p}
+EN: Um, oh right, no school events this month. Just Valentine's, I guess. So, who are you giving chocolate to?{p}
+
+## MGC02 g1 s0041
+JP: {v1}{col:0}さん{col:-}、{n}今日は特別練習の日ですね。{n}がんばりましょう……。{p}{end}
+EN: {v1}{col:0}-san{col:-}, today is special practice day. Let's do our best...{p}{end}
+
+## MGC02 g1 s0049
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}まだまだ寒いですね。{n}今日は特別練習の日です。{n}準備はいいですか?{p}
+EN: Hi, {v1}{col:0}-san{col:-}. It's still quite cold. Today is special practice day. Are you ready?{p}
+
+## MGC02 g1 s0054
+JP: 今月は特に学校行事はないですね。{n}あとは……バレンタインデーくらいかな。{n}誰に本命チョコをあげるか、決めた?{p}{end}
+EN: No school events this month. Other than that... just Valentine's Day, I suppose. Decided who gets your true-love chocolate yet?{p}{end}
+
+## MGC02 g1 s0064
+JP: さてと、今日は特別練習の日ね。{n}委員長と遊んでこようかな。{p}
+EN: OK, today's special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC02 g1 s0065
+JP: はーい、{v1}{col:0}さん{col:-}。{n}結局帰宅部なワケね。{n}普通のクラブの方がいいと思うけどなぁ。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. So you stuck with the Go-Home Club after all. I still think a normal club would be better.{p}
+

@@ -1,0 +1,18 @@
+# Written-exam HUD graphics (MGBGK04 entry 2, MGBGK05/10 entry 1, TIM at
+# 0xe000; tools/mgbg_examhud.py). Keyed by the JP label; the order does
+# not matter. RE: private/re/examhud/findings.org.
+
+JP: 正解
+EN: CORRECT
+
+JP: 不正解
+EN: WRONG
+
+JP: 問題
+EN: Question
+
+JP: 試験終了
+EN: EXAM OVER
+
+JP: 評価UP
+EN: RATING UP

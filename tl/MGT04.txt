@@ -1,0 +1,712 @@
+## MGT04 g0 s0000
+JP: 昼休み。{n}今日も購買部でパンか……。{n}なんか飽きちゃったな……。{p}{end}
+EN: Lunch break. Bread from the school store again today... I'm kinda sick of it...{p}{end}
+
+## MGT04 g0 s0001
+JP: 「{v6:4}じゃない。{n}{sp}これからお昼?」{p}{end}
+EN: "Hey, it's {v6:4}. Having lunch now?"{p}{end}
+
+## MGT04 g0 s0002
+JP: これから屋上で、お弁当食べるんだけど、{n}いっしょにどう?{n}他に人がいなくて淋しかったんだ。{p}
+EN: I'm about to eat my bento on the roof. Wanna join me? There's nobody else around and I was lonely.{p}
+
+## MGT04 g0 s0003
+JP: ああ、いいよ。{n}いっしょに食べよう。{p}{end}
+EN: Yeah, sure. Let's eat together.{p}{end}
+
+## MGT04 g0 s0004
+JP: {v6:4}さ、昼は{n}いつもそんな食事なの?{p}{end}
+EN: {v6:4}, is that what you always eat for lunch?{p}{end}
+
+## MGT04 g0 s0005
+JP: そうだな、弁当のときもあるけど、{n}購買部でパンを買ったり{n}食堂で食べることが多いかな。{p}
+EN: Let's see. Sometimes I bring a bento, but usually I buy bread at the school store or eat in the cafeteria.{p}
+
+## MGT04 g0 s0006
+JP: ふ～ん……。{n}あんまりカラダに良くないよね。{n}……今度作って来てあげようか?{n}お弁当。{p}
+EN: Hmm... That's not very healthy. ...Want me to make you a bento sometime?{p}
+
+## MGT04 g0 s0007
+JP: ……え?{n}いいの?{p}
+EN: ...Huh? Really?{p}
+
+## MGT04 g0 s0008
+JP: うん、いいよ。{n}アタシはいつも自分の作ってるし、{n}一つくらい増えたって{n}どうってことないよ。{p}{end}
+EN: Yeah, sure. I always make my own, so one more is no big deal.{p}{end}
+
+## MGT04 g0 s0009
+JP: そういえば夏の料理っておいしいんだよな。{n}じゃ、お願いしてもいいかな?{p}
+EN: Oh right, your cooking's really good, Natsu. Then can I take you up on that?{p}
+
+## MGT04 g0 s0010
+JP: ふふ、わかったわ。{n}ただ、明日ってわけにはいかないけど、{n}今度作ってきてあげるよ。{n}どんな料理が好きなの?{p}
+EN: Heh, okay. Not tomorrow, though. I'll make you one sometime. So what kind of food do you like?{p}
+
+## MGT04 g0 s0011
+JP: 好きな料理ね……{n}お弁当のおかずとして?{p}{end}
+EN: What food I like, huh... You mean for a bento?{p}{end}
+
+## MGT04 g0 s0012
+JP: いや、一般的に。{n}それを参考にして作るから。{n}普通の料理でいいよ。{p}
+EN: No, just in general. I'll go off that. Regular dishes are fine.{p}
+
+## MGT04 g0 s0013
+JP: なるほど……それでいうと……{n}何かな?{p}
+EN: I see... In that case... what would it be?{p}
+
+## MGT04 g0 s0014
+JP: ハンバーグ、カレーライス{n}刺身、煮物、魚料理{n}トンカツ、ステーキ{n}フランス料理{p}
+EN: Hamburger steak, curry rice{n}Sashimi, simmered dishes, fish{n}Pork cutlets, steak{n}French cuisine{p}
+
+## MGT04 g0 s0015
+JP: そうだな、ハンバーグとか、{n}カレーライスとかが好きだな。{p}{end}
+EN: Let's see, I like stuff like hamburger steak and curry rice.{p}{end}
+
+## MGT04 g0 s0016
+JP: ……ふ～ん。{n}けっこう、舌がお子さまなのね……。{p}{end}
+EN: ...Hmm. Your taste buds are kind of a kid's, huh...{p}{end}
+
+## MGT04 g0 s0017
+JP: え?{sp}何?{p}
+EN: Huh? What?{p}
+
+## MGT04 g0 s0018
+JP: ううん、なんでもない。{n}ハンバーグに、カレーライスね。{n}ふむふむ。{p}
+EN: Nah, nothing. Hamburger steak and curry rice. Uh huh, got it.{p}
+
+## MGT04 g0 s0019
+JP: ええと……刺身とか、煮物とか……{n}あと魚料理全般かな。うん。{p}{end}
+EN: Um... Sashimi, simmered dishes... and fish in general, I guess. Yeah.{p}{end}
+
+## MGT04 g0 s0020
+JP: へぇ、けっこう渋い趣味してるわね。{n}ふ～ん、日本料理系、かしら。{p}{end}
+EN: Wow, pretty refined taste. Hmm, so Japanese food, then.{p}{end}
+
+## MGT04 g0 s0021
+JP: 大丈夫?{n}作れる?{p}
+EN: Is that okay? Can you make that?{p}
+
+## MGT04 g0 s0022
+JP: まかせといて!{n}そういうのも、最近練習してるから!{p}
+EN: Leave it to me! I've been practicing that kind of stuff lately!{p}
+
+## MGT04 g0 s0023
+JP: そうだな～、やっぱりトンカツとか、{n}ステーキとかがいいなぁ。{p}{end}
+EN: Hmm~, I'd say pork cutlets or steak would be great.{p}{end}
+
+## MGT04 g0 s0024
+JP: こってりした肉料理ね……。{n}太るよ?{sp}大丈夫?{p}
+EN: Heavy meat dishes, huh... You'll get fat, y'know. Sure about that?{p}
+
+## MGT04 g0 s0025
+JP: そのための運動だって。{n}俺はまだまだ育ち盛りだからね。{p}
+EN: That's what exercise is for. I'm still growing, after all.{p}
+
+## MGT04 g0 s0026
+JP: ふふっ、そうね。{n}OK、わかったわ。{p}{end}
+EN: Heh, fair enough. OK, got it.{p}{end}
+
+## MGT04 g0 s0027
+JP: 僕の好きな料理……といえば、{n}やっぱりフランス料理かな。{p}{end}
+EN: My favorite cuisine... would have to be French, I suppose.{p}{end}
+
+## MGT04 g0 s0028
+JP: またまた～、ムリしちゃって!{n}いいんだよ、そんなカッコつけなくても{col:5}♥{col:-}{p}{end}
+EN: Oh, come on, don't push it! You don't have to act all cool{col:5}♥{col:-}{p}{end}
+
+## MGT04 g0 s0029
+JP: いや、ホントだって?{n}俺ってほら、食通だし?{p}{end}
+EN: No, I mean it? I'm, like, a total foodie?{p}{end}
+
+## MGT04 g0 s0030
+JP: ふふ、わかったわかった。{n}まぁ適当なもの、入れておくわ。{p}{end}
+EN: Heh, okay, okay. I'll just throw in whatever.{p}{end}
+
+## MGT04 g0 s0031
+JP: じゃ、いつになるかわからないけど、{n}今度作ってきてあげるね。{p}{end}
+EN: Well, I don't know when, but I'll make you one sometime.{p}{end}
+
+## MGT04 g0 s0032
+JP: あ、こんな時間!{n}アタシ、もう行くね!{n}じゃぁね!{p}
+EN: Oh, look at the time! I gotta go! See ya!{p}
+
+## MGT04 g0 s0033
+JP: 夏のお弁当か……楽しみだなぁ。{p}
+EN: Natsu's bento, huh... Can't wait.{p}
+
+## MGT04 g0 s0034
+JP: 昼休み。{n}昼飯の時間だ。{n}今日は食堂に行くか、{n}それとも購買部に行こうか。{p}
+EN: Lunch break. Time to eat. Should I go to the cafeteria today, or the school store?{p}
+
+## MGT04 g0 s0035
+JP: 「{v6:4}……」{p}{end}
+EN: "{v6:4}..."{p}{end}
+
+## MGT04 g0 s0036
+JP: やぁ、夏。{n}これから昼飯か?{p}{end}
+EN: Hey, Natsu. Having lunch now?{p}{end}
+
+## MGT04 g0 s0037
+JP: ふふふ～ん、コレ何かわかる?{p}{end}
+EN: Hmm-hmm~, know what this is?{p}{end}
+
+## MGT04 g0 s0038
+JP: あ……、ひょっとして{n}この前のお弁当、{n}作ってきてくれたんだ。{n}ありがとー。{p}{end}
+EN: Oh... Is that the bento from the other day? You actually made it. Thanks!{p}{end}
+
+## MGT04 g0 s0039
+JP: うん、正解{col:5}♥{col:-}{n}でね、ココじゃなんだから、{n}屋上で食べない?{p}
+EN: Yep, you got it{col:5}♥{col:-} Hey, it's kinda awkward here, so wanna eat on the roof?{p}
+
+## MGT04 g0 s0040
+JP: この前、{v6:4}が{n}好きだっていったの、{n}いっぱい入れてきたんだよ。{n}どう?{p}{end}
+EN: I packed in lots of the stuff you said you liked, {v6:4}. Well?{p}{end}
+
+## MGT04 g0 s0041
+JP: うわぁホントだ、{n}好きなものばっかりだな。{n}あれだけの情報で、{n}よく俺の好きなモノがわかったね。{p}{end}
+EN: Whoa, you really did. It's all stuff I like. How'd you figure out what I like from so little to go on?{p}{end}
+
+## MGT04 g0 s0042
+JP: ふふっ、女のカンよ。{n}……実はあの後、食堂や購買部で{n}{v6:4}が食べるご飯、{n}見てたんだけどね。{p}{end}
+EN: Hehe, woman's intuition. ...Actually, after that I watched what you ate in the cafeteria and the store, {v6:4}.{p}{end}
+
+## MGT04 g0 s0043
+JP: そこまで気を使ってくれたんだ……。{n}ありがたくいただくよ。{n}……いただきまーす!{p}{end}
+EN: You went that far for me... I'll gratefully dig in. ...Let's eat!{p}{end}
+
+## MGT04 g0 s0044
+JP: ……モグモグ……おいしいな、{n}さすがだね、夏!{p}
+EN: ...Munch munch... This is good. You're the best, Natsu!{p}
+
+## MGT04 g0 s0045
+JP: アリガト!{n}ふふっ、今日はちょっと{n}気合入れちゃったかな。{p}
+EN: Thanks! Hehe, guess I put in a little extra effort today.{p}
+
+## MGT04 g0 s0046
+JP: ……モグモグ……{n}へぇこれは、ホントおいしいや。{n}……モグモグ……{n}ふぅ、ごちそうさま。{p}{end}
+EN: ...Munch munch... Wow, this is seriously good. ...Munch munch... Phew, that hit the spot.{p}{end}
+
+## MGT04 g0 s0047
+JP: いえいえ、おそまつでした。{p}
+EN: Oh, it was nothing.{p}
+
+## MGT04 g0 s0048
+JP: ふふっ。{n}ああ、なんかお腹いっぱい食べたら、{n}飲み物が欲しくなったな。{p}
+EN: Heh. Ahh, after eating all that, now I want something to drink.{p}
+
+## MGT04 g0 s0049
+JP: ちょっと飲み物買ってくるよ。{n}お礼に夏の分も。{p}
+EN: I'll go grab some drinks. Yours too, as thanks.{p}
+
+## MGT04 g0 s0050
+JP: あ、{v6:4}……!{p}
+EN: Ah, {v6:4}...!{p}
+
+## MGT04 g0 s0051
+JP: しまった、{n}夏が何がいいか、聞くの忘れた。{n}今から屋上まで戻るのも、{n}めんどうだし……。{p}{end}
+EN: Shoot, I forgot to ask Natsu what she wants. Going all the way back up to the roof is a pain...{p}{end}
+
+## MGT04 g0 s0052
+JP: しかたない、夏が好きそうなのを、{n}適当に買っていくか。{n}どれにするかな。{p}{end}
+EN: Oh well, I'll just get something Natsu would probably like. Which one should I get?{p}{end}
+
+## MGT04 g0 s0053
+JP: スポーツドリンク{n}熱いお茶{n}炭酸飲料{p}{end}
+EN: Sports drink{n}Hot tea{n}Soda{p}{end}
+
+## MGT04 g0 s0054
+JP: やっぱり、夏だからな。{n}スポーツドリンクがいいだろう。{p}
+EN: It's Natsu, after all. A sports drink should be good.{p}
+
+## MGT04 g0 s0055
+JP: やぁ、おまたせ。{n}飲み物、これでいいかな?{p}
+EN: Hey, sorry for the wait. Is this drink okay?{p}
+
+## MGT04 g0 s0056
+JP: それは……スポーツドリンク……ね。{n}あ、ありがと。{n}アタシ、スポーツドリンクはよく飲むけど、{n}ご飯といっしょには、ねぇ……。{p}{end}
+EN: That's... a sports drink... huh. Th-thanks. I drink sports drinks a lot, but with a meal...?{p}{end}
+
+## MGT04 g0 s0057
+JP: そうか……ゴメンな。{n}せっかくおいしいお弁当もらったのに。{p}
+EN: I see... Sorry. Even after you gave me such a great lunch.{p}
+
+## MGT04 g0 s0058
+JP: 別に責めてるわけじゃないのよ。{n}ありがたくもらっておくわ。{n}せっかくくれたんだから、{n}クラブが終わってからいただくわ。{p}
+EN: I'm not blaming you. I'll gladly take it. Since you got it for me, I'll drink it after club.{p}
+
+## MGT04 g0 s0059
+JP: ……そうだね。{n}じゃ、お礼はまたあらためて{n}させてもらおうかな。{p}{end}
+EN: ...Okay. Then I'll thank you properly some other time.{p}{end}
+
+## MGT04 g0 s0060
+JP: ……うん。期待してるね。{p}{end}
+EN: ...Sure. I'm looking forward to it.{p}{end}
+
+## MGT04 g0 s0061
+JP: やっぱり食後には熱いお茶かな。{n}口がさっぱりするしな。{p}
+EN: After a meal, it's gotta be hot tea. It cleans the palate.{p}
+
+## MGT04 g0 s0062
+JP: やぁ、おまたせ。{n}飲み物、コレでいいかな?{p}
+EN: Hey, sorry for the wait. Is this drink okay?{p}
+
+## MGT04 g0 s0063
+JP: あら、お茶ね。{n}よかった、やっぱり{n}日本人はお茶よね……。{n}食後にはお茶が一番だわ。{p}{end}
+EN: Oh, tea. Great. We're Japanese, so it's gotta be tea... Nothing beats tea after a meal.{p}{end}
+
+## MGT04 g0 s0064
+JP: そうだね。{n}食後はコーヒーって人もいるけど、{n}俺はやっぱりお茶の方がいいな。{p}{end}
+EN: Yeah. Some people go for coffee after a meal, but I'd take tea any day.{p}{end}
+
+## MGT04 g0 s0065
+JP: ふふっ、そうね……。{n}どうも、ありがとう、{n}おいしかったよ。{p}{end}
+EN: Hehe, yeah... Thanks a lot, that was good.{p}{end}
+
+## MGT04 g0 s0066
+JP: いえいえ、おそまつでした。{n}ちゃんとしたお礼はまた別の機会に{n}させてもらうよ。{p}
+EN: Oh, it was nothing. I'll thank you properly for lunch some other time.{p}
+
+## MGT04 g0 s0067
+JP: ふふっ、{v6:4}ったら!{n}……お礼、期待してるわよ。{p}{end}
+EN: Hehe, oh, {v6:4}! ...I'm looking forward to that thank-you.{p}{end}
+
+## MGT04 g0 s0068
+JP: 飲み物といえば、炭酸飲料だな!{n}この定番のドリンクでいいだろう。{p}{end}
+EN: When it comes to drinks, it's gotta be soda! This classic should do the trick.{p}{end}
+
+## MGT04 g0 s0070
+JP: それは……炭酸飲料……ね。{n}あ、ありがと……{n}でもアタシ、炭酸飲料は……。{p}
+EN: That's... soda... huh. Th-thanks... But I don't really do soda...{p}
+
+## MGT04 g0 s0071
+JP: あ……ゴメン。{n}そうなんだ。なんか悪かったね。{p}
+EN: Oh... Sorry. I didn't know. My bad.{p}
+
+## MGT04 g0 s0072
+JP: 別に責めてるわけじゃないのよ。{n}でも……悪いけど、{n}それはアンタにあげるわ。{p}{end}
+EN: I'm not blaming you. But... sorry, you can have it.{p}{end}
+
+## MGT04 g0 s0073
+JP: ……そう……。{n}じゃ、お礼はまたあらためて、{n}させてもらうよ。ゴメン。{p}
+EN: ...Okay... Then I'll thank you properly some other time. Sorry.{p}
+
+## MGT04 g0 s0074
+JP: ……うん。期待してるね……。{p}{end}
+EN: ...Sure. I'm looking forward to it...{p}{end}
+
+## MGT04 g0 s0075
+JP: {col:0}『夏の手作り弁当』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Natsu's Homemade Lunch"{col:-}!{p}{end}
+
+## MGT04 g0 s0076
+JP: 早朝。{n}今日、いつもより早起きしたのには、{n}理由がある。{p}{end}
+EN: Early morning. There's a reason I got up earlier than usual today.{p}{end}
+
+## MGT04 g0 s0077
+JP: この前、夏に作ってもらった{n}お弁当のお礼に、{n}俺もお弁当を作ってみよう、{n}というコトだ。{p}{end}
+EN: To thank Natsu for the bento she made me the other day, I'm gonna try making one too.{p}{end}
+
+## MGT04 g0 s0078
+JP: さて……あんまり、料理したこと{n}ないからな……、簡単なものしか{n}できないけど……、{n}どんな弁当を作ろうかな?{p}{end}
+EN: Now then... I've barely ever cooked... so I can only make simple stuff... What kind of bento should I make?{p}{end}
+
+## MGT04 g0 s0079
+JP: おにぎり弁当{n}サンドウィッチ・ランチ{p}{end}
+EN: Rice ball bento{n}Sandwich lunch{p}{end}
+
+## MGT04 g0 s0080
+JP: やはり日本人なら、おにぎりに{n}チャレンジだな!{n}おにぎりくらいなら作れるだろ……。{p}
+EN: If you're Japanese, you gotta go with rice balls! Even I can make rice balls...{p}
+
+## MGT04 g0 s0081
+JP: サンドウィッチくらいなら、{n}俺でも作れるだろう。{n}サンドウィッチにチャレンジしよう……。{p}{end}
+EN: Even I can make sandwiches. I'll give sandwiches a shot...{p}{end}
+
+## MGT04 g0 s0083
+JP: よし……できた。{n}あとは渡すのみ。{p}
+EN: All right... done. Now I just have to give it to her.{p}
+
+## MGT04 g0 s0084
+JP: そして昼。{n}夏は昼の練習のため、{n}体育館へ向かったらしい……。{n}後を追おう。{p}{end}
+EN: Then, lunchtime. Natsu went to the gym for lunch practice, I heard... I'll follow her.{p}{end}
+
+## MGT04 g0 s0085
+JP: ……ハッ!……それっ!!{n}{face:15}・・・・・・・・・・{face:255}{p}
+EN: ...Hah!... Hyaaah!!{face:15}..........{face:255}{p}
+
+## MGT04 g0 s0086
+JP: （まじめに練習しているみたいだ……{n}{sp}ジャマしちゃ悪いなぁ……）{p}{end}
+EN: (She's practicing hard... I shouldn't bother her...){p}{end}
+
+## MGT04 g0 s0088
+JP: あ、{v6:4}じゃない。{n}どうしたの?{p}{end}
+EN: Oh, it's {v6:4}. What's up?{p}{end}
+
+## MGT04 g0 s0089
+JP: ……それは……ひょっとして、{n}お弁当?{p}
+EN: ...Is that... by any chance, a bento?{p}
+
+## MGT04 g0 s0090
+JP: そうなんだ。{n}夏へのお礼に、と思ってね。{n}自分で作ってみたんだけど。{p}{end}
+EN: Yep. I wanted to thank you, Natsu, so I tried making one myself.{p}{end}
+
+## MGT04 g0 s0091
+JP: はい、これ……。{n}ちょっとカタチが悪いけど。{p}{end}
+EN: Here... It's a little lopsided, though.{p}{end}
+
+## MGT04 g0 s0092
+JP: ふふっ、ホント……。{n}ひどいカタチね。{p}
+EN: Hehe, it sure is... What an awful shape.{p}
+
+## MGT04 g0 s0093
+JP: 夏ったら……。{p}
+EN: Natsu, come on...{p}
+
+## MGT04 g0 s0094
+JP: でも……味はおいしいわ。{n}すごくおいしい……。{n}{v6:4}の、愛情が{n}たくさん、つまってるからね……。{p}{end}
+EN: But... it tastes great. Really great... Because it's packed with so much love from you, {v6:4}...{p}{end}
+
+## MGT04 g0 s0095
+JP: ……夏……。{p}{end}
+EN: ...Natsu...{p}{end}
+
+## MGT04 g0 s0096
+JP: 全部もらっていいのかな……?{n}ありがと……うん。{p}{end}
+EN: Can I really have all of it...? Thanks... Mm.{p}{end}
+
+## MGT04 g0 s0097
+JP: ……ごちそうさま。{n}アリガトね、{v6:4}。{n}ホント、うれしかったよ。{n}ありがとう。{p}
+EN: ...That was delicious. Thanks, {v6:4}. It really made me happy. Thank you.{p}
+
+## MGT04 g0 s0098
+JP: 夏……。{p}{end}
+EN: Natsu...{p}{end}
+
+## MGT04 g0 s0099
+JP: これは、ちょっとした力作だぜ……?{n}わ、ちょっとカタチが崩れちゃってる!{n}いっぱい挟みすぎたかな……。{p}
+EN: This is kind of a masterpiece, y'know...? Whoa, it's falling apart a bit! Guess I stuffed it too full...{p}
+
+## MGT04 g0 s0100
+JP: ふふっ、ホント、これははさみ過ぎね。{n}それに……バター塗らなかったでしょ?{p}
+EN: Hehe, you really did overstuff it. And... you didn't butter the bread, did you?{p}
+
+## MGT04 g0 s0101
+JP: バター?{n}塗るもんなのか、それって。{p}{end}
+EN: Butter? You're supposed to put that on?{p}{end}
+
+## MGT04 g0 s0102
+JP: ふふっ、バターを塗っておくとね、{n}具から少しくらい水気がでても、{n}パンがふやけたりしなくなるの。{p}{end}
+EN: Hehe, if you spread butter on it, the bread won't get soggy even if the filling's a little wet.{p}{end}
+
+## MGT04 g0 s0103
+JP: そうなんだ……。{n}知らなかった。{p}{end}
+EN: Really... I didn't know that.{p}{end}
+
+## MGT04 g0 s0104
+JP: でも……おいしいよ、これ。{n}さすが、{v6:4}の{n}力作だけあって……。{p}{end}
+EN: But... this is good. Just what I'd expect from your masterpiece, {v6:4}...{p}{end}
+
+## MGT04 g0 s0105
+JP: そんなムリしなくても……。{p}
+EN: You don't have to force yourself...{p}
+
+## MGT04 g0 s0106
+JP: {v6:4}がせっかく{n}作ってくれたんだから、{n}全部食べないとね……。{p}
+EN: You went to the trouble of making it, {v6:4}, so I've gotta eat every bite...{p}
+
+## MGT04 g0 s0107
+JP: ……ごちそうさま。{n}ホント、ありがとう……。{n}うれしかったよ……。{p}
+EN: ...That was delicious. Thank you, really... It made me happy...{p}
+
+## MGT04 g0 s0110
+JP: ん!?{n}誰だろう?{p}
+EN: Hm!? Who could that be?{p}
+
+## MGT04 g0 s0111
+JP: あっ、夏!{p}
+EN: Oh, Natsu!{p}
+
+## MGT04 g0 s0112
+JP: 誕生日おめでとう!{n}はい、これ。{n}学校じゃちょっと渡しづらかったからさ。{p}{end}
+EN: Happy birthday! Here, this is for you. It was kinda hard to give it to you at school.{p}{end}
+
+## MGT04 g0 s0113
+JP: ありがとう、{n}覚えててくれたんだ。{p}
+EN: Thanks. You remembered.{p}
+
+## MGT04 g0 s0114
+JP: なんだろうこれ。{n}夏、あけてみてもいいか?{p}
+EN: What's this? Natsu, can I open it?{p}
+
+## MGT04 g0 s0115
+JP: ア、アタシが帰ってからにしてよ。{n}ハズカシイからさ。{p}{end}
+EN: D-don't open it till I've gone home. It's embarrassing.{p}{end}
+
+## MGT04 g0 s0116
+JP: ……じゃあ、アタシ帰るから。{n}……誕生日おめでとう。{n}じゃあね!{p}{end}
+EN: ...Well, I'm heading home. ...Happy birthday. See ya!{p}{end}
+
+## MGT04 g0 s0117
+JP: 何が入ってるんだろう、{n}開けてみよう……。{p}
+EN: I wonder what's inside. Let's open it...{p}
+
+## MGT04 g0 s0118
+JP: {col:0}『夏からの手紙』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Letter from Natsu"{col:-}!{p}
+
+## MGT04 g0 s0119
+JP: 夏が手紙を書いてくるなんて……{n}本当はシャイなんだなあ……。{p}{end}
+EN: Natsu writing me a letter... She's really shy at heart...{p}{end}
+
+## MGT04 g0 s0121
+JP: ちょっと遅れたけど誕生日おめでとう!{n}はい、これ。{n}学校じゃちょっと渡しづらかったからさ。{p}
+EN: It's a little late, but happy birthday! Here, this is for you. It was kinda hard to give it to you at school.{p}
+
+## MGT04 g1 s0000
+JP: 昼休み。{n}今日も購買部でパンかぁ……。{n}なんか飽きちゃったナ……。{p}
+EN: Lunch break. Bread from the school store again today... I'm kinda sick of it...{p}
+
+## MGT04 g1 s0001
+JP: 「{v7:4}じゃない。{n}{sp}これからお昼?」{p}{end}
+EN: "Oh, it's {v7:4}. Having lunch now?"{p}{end}
+
+## MGT04 g1 s0003
+JP: あ、うん、いいよ。{n}いっしょに食べよっ。{p}{end}
+EN: Oh, sure, sounds good. Let's eat together.{p}{end}
+
+## MGT04 g1 s0004
+JP: {v7:4}さ、昼は{n}いつもそんな食事なの?{p}{end}
+EN: {v7:4}, is that what you always eat for lunch?{p}{end}
+
+## MGT04 g1 s0005
+JP: そうね、お弁当のときもあるけど、{n}購買部でパンを買ったり{n}食堂で食べることが多いかな。{p}
+EN: Well, sometimes I bring a bento, but usually I buy bread at the school store or eat in the cafeteria.{p}
+
+## MGT04 g1 s0009
+JP: そういえば夏の料理っておいしいんだよネ。{n}じゃ、お願いしてもいいかナ?{p}
+EN: Oh right, your cooking's really good, Natsu. Then can I take you up on that?{p}
+
+## MGT04 g1 s0013
+JP: ふぅん……それじゃあ……{n}何かな?{p}
+EN: Hmm... In that case... what would it be?{p}
+
+## MGT04 g1 s0015
+JP: そうね、ハンバーグとか、{n}カレーライスとかが好きかナ。{p}
+EN: Let's see, I like stuff like hamburger steak and curry rice, I guess.{p}
+
+## MGT04 g1 s0019
+JP: ええと……刺身とか、煮物とか……{n}あと魚料理全般ね。うん。{p}
+EN: Um... Sashimi, simmered dishes... and fish in general. Yeah.{p}
+
+## MGT04 g1 s0023
+JP: そうね～、やっぱりトンカツとか、{n}ステーキとかがいいなぁ。{p}
+EN: Hmm~, I'd say pork cutlets or steak would be great.{p}
+
+## MGT04 g1 s0025
+JP: 大丈夫、私、ふだんから運動してるしね。{n}それにまだまだ育ち盛りだし。{p}{end}
+EN: It's fine, I exercise all the time. Besides, I'm still growing.{p}{end}
+
+## MGT04 g1 s0027
+JP: 私の好きな料理……といえば、{n}やっぱりフランス料理かな。{p}{end}
+EN: My favorite cuisine... would have to be French, I suppose.{p}{end}
+
+## MGT04 g1 s0029
+JP: あら、ホントよ?{n}私ってほら、食通だし?{p}{end}
+EN: Oh, but it's true? I'm, like, a total foodie?{p}{end}
+
+## MGT04 g1 s0034
+JP: 昼休み。{n}昼ゴハンの時間ね。{n}今日は食堂に行こうか、{n}それとも購買部に行こうかナ。{p}
+EN: Lunch break. Time to eat. Should I go to the cafeteria today, or the school store?{p}
+
+## MGT04 g1 s0035
+JP: 「{v7:4}……」{p}{end}
+EN: "{v7:4}..."{p}{end}
+
+## MGT04 g1 s0036
+JP: はい、夏。{n}これから昼ゴハン?{p}
+EN: Hi, Natsu. Having lunch now?{p}
+
+## MGT04 g1 s0038
+JP: あ……、ひょっとして{n}この前のお弁当、{n}作ってきてくれたんだ。{n}ありがとー{col:5}♥{col:-}{p}{end}
+EN: Oh... Is that the bento from the other day? You actually made it. Thanks{col:5}♥{col:-}{p}{end}
+
+## MGT04 g1 s0040
+JP: この前、{v7:4}が{n}好きだっていったの、{n}いっぱい入れてきたんだよ。{n}どう?{p}{end}
+EN: I packed in lots of the stuff you said you liked, {v7:4}. Well?{p}{end}
+
+## MGT04 g1 s0041
+JP: うわぁホント、{n}好きなものばっかりネ。{n}あれだけの情報で、{n}よく私の好きなモノがわかったね。{p}{end}
+EN: Wow, you really did. It's all stuff I like. How'd you figure out what I like from so little to go on?{p}{end}
+
+## MGT04 g1 s0042
+JP: ふふっ、女のカンよ。{n}……実はあの後、食堂や購買部で{n}{v7:4}が食べるご飯、{n}見てたんだけどね。{p}{end}
+EN: Hehe, woman's intuition. ...Actually, after that I watched what you ate in the cafeteria and the store, {v7:4}.{p}{end}
+
+## MGT04 g1 s0043
+JP: そこまで気を使ってくれたんだ……。{n}うれしいナ、ありがとね、ホント。{n}……いただきまーす!{p}
+EN: You went that far for me... That makes me so happy. Thanks, really. ...Let's eat!{p}
+
+## MGT04 g1 s0044
+JP: ……モグモグ……おいしいヨ、{n}さすがネ、夏!{p}{end}
+EN: ...Munch munch... It's good! You're the best, Natsu!{p}{end}
+
+## MGT04 g1 s0046
+JP: ……モグモグ……{n}ふぅんこれは、ホントおいしいわ。{n}……モグモグ……{n}ふぅ、ごちそうさま{col:5}♥{col:-}{p}
+EN: ...Munch munch... Mmm, this is seriously good. ...Munch munch... Phew, that hit the spot{col:5}♥{col:-}{p}
+
+## MGT04 g1 s0048
+JP: ふふっ。{n}ああ、なんかお腹いっぱい食べたら、{n}飲み物が欲しくなっちゃった。{p}
+EN: Hehe. Ahh, after eating all that, now I want something to drink.{p}
+
+## MGT04 g1 s0049
+JP: ちょっと飲み物買ってくるわ。{n}お礼に夏の分も{col:5}♥{col:-}{p}
+EN: I'll go grab some drinks. Yours too, as thanks{col:5}♥{col:-}{p}
+
+## MGT04 g1 s0050
+JP: あ、{v7:4}……!{p}
+EN: Ah, {v7:4}...!{p}
+
+## MGT04 g1 s0051
+JP: やっちゃった、{n}夏が何がいいか、聞くの忘れてた。{n}今から屋上まで戻るのも、{n}めんどうだし……。{p}
+EN: Oops, I forgot to ask Natsu what she wants. Going all the way back up to the roof is a pain...{p}
+
+## MGT04 g1 s0052
+JP: しょうがないなぁ、{n}夏が好きそうなのを、{n}適当に買っていこうっと。{n}どれにしようかな。{p}
+EN: Oh well, I'll just get something Natsu would probably like. Which one should I get?{p}
+
+## MGT04 g1 s0054
+JP: やっぱり、夏だしネ。{n}スポーツドリンクがいいよね。{p}
+EN: It's Natsu, after all. A sports drink should be good.{p}
+
+## MGT04 g1 s0055
+JP: はい、おまたせ。{n}飲み物、これでいい?{p}
+EN: Here, sorry for the wait. Is this drink okay?{p}
+
+## MGT04 g1 s0057
+JP: そう……ゴメンね。{n}せっかくおいしいお弁当もらったのに。{p}{end}
+EN: I see... Sorry. Even after you gave me such a great lunch.{p}{end}
+
+## MGT04 g1 s0059
+JP: ……そうね。{n}じゃ、お礼はまたあらためて{n}させてもらおうかな。{p}
+EN: ...Okay. Then I'll thank you properly some other time.{p}
+
+## MGT04 g1 s0061
+JP: やっぱり食後には熱いお茶よね。{n}口がさっぱりするし。{p}{end}
+EN: After a meal, it's gotta be hot tea. It cleans the palate.{p}{end}
+
+## MGT04 g1 s0062
+JP: はい、おまたせ。{n}飲み物、コレでいい?{p}
+EN: Here, sorry for the wait. Is this drink okay?{p}
+
+## MGT04 g1 s0064
+JP: そうね。{n}食後はコーヒーって人もいるけど、{n}私はやっぱりお茶の方がいいな。{p}
+EN: Yeah. Some people go for coffee after a meal, but I'd take tea any day.{p}
+
+## MGT04 g1 s0066
+JP: いえいえ、おそまつでした。{n}ちゃんとしたお礼はまた別の機会に{n}させてもらうわ。{p}
+EN: Oh, it was nothing. I'll thank you properly for lunch some other time.{p}
+
+## MGT04 g1 s0067
+JP: ふふっ、{v7:4}ったら!{n}……お礼、期待してるわよ。{p}{end}
+EN: Hehe, oh, {v7:4}! ...I'm looking forward to that thank-you.{p}{end}
+
+## MGT04 g1 s0068
+JP: 飲み物といえば、炭酸飲料ね!{n}この定番のドリンクでいいよね。{p}{end}
+EN: When it comes to drinks, it's gotta be soda! This classic should do the trick.{p}{end}
+
+## MGT04 g1 s0071
+JP: あ……ゴメンね。{n}そうなんだ。なんか悪かったネ。{p}{end}
+EN: Oh... Sorry. I didn't know. My bad.{p}{end}
+
+## MGT04 g1 s0072
+JP: 別に責めてるわけじゃないのよ。{n}でも……悪いけど、{n}それは{v7:4}にあげるわ。{p}
+EN: I'm not blaming you. But... sorry, you can have it, {v7:4}.{p}
+
+## MGT04 g1 s0073
+JP: ……そう……。{n}じゃ、お礼はまたあらためて、{n}させてもらうわ。ゴメンね。{p}{end}
+EN: ...Okay... Then I'll thank you properly some other time. Sorry.{p}{end}
+
+## MGT04 g1 s0077
+JP: この前、夏に作ってもらった{n}お弁当のお礼に、{n}私もお弁当を作ってみよう、{n}というコト。{p}
+EN: To thank Natsu for the bento she made me the other day, I'm gonna try making one too.{p}
+
+## MGT04 g1 s0078
+JP: ううん……あんまり、料理したこと{n}ないしナぁ……、簡単なものしか{n}できないけど……、{n}どんなお弁当を作ろうかナ?{p}{end}
+EN: Hmm... I've barely ever cooked... so I can only make simple stuff... What kind of bento should I make?{p}{end}
+
+## MGT04 g1 s0080
+JP: やはり日本人なら、{n}おにぎりにチャレンジね!{n}おにぎりくらいなら作れるでしょ……。{p}
+EN: If you're Japanese, you gotta go with rice balls! Even I can make rice balls...{p}
+
+## MGT04 g1 s0081
+JP: サンドウィッチくらいなら、{n}私でも作れるわよね。{n}サンドウィッチにチャレンジしよう……。{p}{end}
+EN: Even I can make sandwiches. I'll give sandwiches a shot...{p}{end}
+
+## MGT04 g1 s0083
+JP: よし……できたわ。{n}あとは渡すのみね。{p}
+EN: All right... done. Now I just have to give it to her.{p}
+
+## MGT04 g1 s0084
+JP: そして昼。{n}夏は昼の練習のため、{n}体育館へ向かったみたい……。{n}後を追ってみよう。{p}
+EN: Then, lunchtime. Natsu went to the gym for lunch practice, it seems... I'll go after her.{p}
+
+## MGT04 g1 s0086
+JP: （まじめに練習しているみたいね……{n}{sp}ジャマしちゃ悪いわよね……）{p}
+EN: (She's practicing hard... I shouldn't bother her...){p}
+
+## MGT04 g1 s0088
+JP: あ、{v7:4}じゃない。{n}どうしたの?{p}{end}
+EN: Oh, it's {v7:4}. What's up?{p}{end}
+
+## MGT04 g1 s0090
+JP: そうなの。{n}夏へのお礼に、と思ってね。{n}自分で作ってみたんだけど。{p}
+EN: Yep. I wanted to thank you, Natsu, so I tried making one myself.{p}
+
+## MGT04 g1 s0094
+JP: でも……味はおいしいわ。{n}すごくおいしい……。{n}{v7:4}の、愛情が{n}たくさん、つまってるからね……。{p}{end}
+EN: But... it tastes great. Really great... Because you put so much heart into it, {v7:4}...{p}{end}
+
+## MGT04 g1 s0097
+JP: ……ごちそうさま。{n}アリガトね、{v7:4}。{n}ホント、うれしかったよ。{n}ありがとう。{p}
+EN: ...That was delicious. Thanks, {v7:4}. It really made me happy. Thank you.{p}
+
+## MGT04 g1 s0099
+JP: これは、ちょっとした力作よ……?{n}わ、ちょっとカタチが崩れちゃってる!{n}いっぱい挟みすぎたみたい……。{p}
+EN: This is kind of a masterpiece, y'know...? Whoa, it's falling apart a bit! Guess I stuffed it too full...{p}
+
+## MGT04 g1 s0101
+JP: バター?{n}塗るものなの、それって。{p}
+EN: Butter? You're supposed to put that on?{p}
+
+## MGT04 g1 s0103
+JP: ふぅん……そうなんだ……。{n}知らなかったわ。{p}{end}
+EN: Hmm... Really... I didn't know that.{p}{end}
+
+## MGT04 g1 s0104
+JP: でも……おいしいよ、これ。{n}さすが、{v7:4}の{n}力作だけあって……。{p}{end}
+EN: But... this is good. Just what I'd expect from your masterpiece, {v7:4}...{p}{end}
+
+## MGT04 g1 s0106
+JP: {v7:4}がせっかく{n}作ってくれたんだから、{n}全部食べないとね……。{p}
+EN: You went to the trouble of making it, {v7:4}, so I've gotta eat every bite...{p}
+
+## MGT04 g1 s0110
+JP: ん!?{n}誰かしら?{p}
+EN: Hm!? Who could that be?{p}
+
+## MGT04 g1 s0111
+JP: あら、夏じゃない!{p}
+EN: Oh, it's Natsu!{p}
+
+## MGT04 g1 s0114
+JP: なんだろうこれ。{n}夏、あけてみてもいい?{p}{end}
+EN: What's this? Natsu, can I open it?{p}{end}
+
+## MGT04 g1 s0117
+JP: 何が入ってるのかしら、{n}開けてみよう……。{p}
+EN: I wonder what's inside. Let's open it...{p}
+
+## MGT04 g1 s0119
+JP: 夏が手紙を書いてくるなんて……{n}本当はシャイなのね……。{p}{end}
+EN: Natsu writing me a letter... She's really shy at heart...{p}{end}
+

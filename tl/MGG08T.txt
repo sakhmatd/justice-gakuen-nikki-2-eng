@@ -1,0 +1,48 @@
+## MGG08T g0 s0001
+JP: おはよ、{v6:1}。{n}いい天気でよかったね。{p}
+EN: Morning, {v6:1}. Glad the weather's nice!{p}
+
+## MGG08T g0 s0002
+JP: おはよう、みんな。{n}おっ、今日はさすがのバツも{n}時間どおりなんだな。{p}{end}
+EN: Morning, everyone. Whoa, even Batsu's on time today.{p}{end}
+
+## MGG08T g0 s0003
+JP: おう、今日は授業がないからな。{n}遅刻なんかするわけねぇぜ。{p}
+EN: Yeah, there's no class today. No way I'd be late!{p}
+
+## MGG08T g0 s0004
+JP: いばるなよ、バツ。{n}普段も遅刻するんじゃないぞ。{p}{end}
+EN: Don't brag, Batsu. Don't be late on normal days either.{p}{end}
+
+## MGG08T g0 s0005
+JP: ヘイヘイ、わかりましたよ。{p}
+EN: Yeah, yeah, got it.{p}
+
+## MGG08T g0 s0006
+JP: さあ、とっととバスに乗りこもうぜ。{n}海が俺たちを呼んでるからな!{p}{end}
+EN: Come on, let's hurry and get on the bus. The sea is calling us!{p}{end}
+
+## MGG08T g0 s0033
+JP: {v4:19}、こっち向いて!{n}そうそう。{n}ハイ!{sp}そのまま、そのまま!{p}
+EN: {v4:19}, look over here! That's it. Hold it! Just like that, just like that!{p}
+
+## MGG08T g0 s0523
+JP: エッジ、おぬし相変わらず{n}素直じゃないヤツだのう。{n}本当は、ワシといっしょになれて{n}うれしんじゃろう?{p}
+EN: Edge, ya never could be honest, could ya? Truth is, yer happy to be teamed up with me, ain't ya?{p}
+
+## MGG08T g1 s0001
+JP: おはよ、{v8:1}。{n}いい天気でよかったね。{p}
+EN: Morning, {v8:1}. Glad the weather's nice!{p}
+
+## MGG08T g1 s0002
+JP: おはよう、みんな。{n}あれ?{sp}今日はさすがのバツも{n}時間どおりなのね。{p}{end}
+EN: Morning, everyone. Huh? Even Batsu's on time today.{p}{end}
+
+## MGG08T g1 s0015
+JP: う～ん……{n}あんな沖にある島まで泳ぐの～?{p}
+EN: Hmm... We have to swim all the way to that island waaay out there?{p}
+
+## MGG08T g1 s0419
+JP: うふふふふ。{n}景気が悪いっていうのも、{n}ランちゃんらしいわね。{p}
+EN: Hee hee hee. "Buzzkill," huh? That's so Ran-chan.{p}
+

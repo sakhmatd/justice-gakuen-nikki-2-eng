@@ -1,0 +1,94 @@
+# Options "game system" help panel (DAT2/OPTINFO.TIZ, drawn by NEWOPT),
+# built by tools/build_optinfo.py. Facts: private/re/optinfo/findings.org.
+# Key o.k: option o (0 Breakfall, 1 Vigor, 2 Guard, 3 Bk Dash, 4 Bk Jump),
+# k 0 = description (1 line), k >= 1 = text for value k-1 (up to 3 lines).
+# {n} breaks a line; lines without {n} are wrapped to the panel width.
+# Option and value names match tl/SYSMSG.txt (s091-s106, s019/s020).
+
+## 0.0
+JP: 熱血受け身が可能かどうかを設定します
+EN: Sets whether you can breakfall.
+
+## 0.1
+JP: 初期の状態です{n}熱血受け身に制限はありません
+EN: Default setting.{n}Breakfall has no limits.
+
+## 0.2
+JP: 熱血受け身の最中、完全無敵ではありません
+EN: You aren't fully invincible during a breakfall.
+
+## 0.3
+JP: 着地の時のみ熱血受け身が可能ですが、{n}空中では受け身がとれません
+EN: You can breakfall only on landing;{n}you can't breakfall in midair.
+
+## 0.4
+JP: 熱血受け身が一切できません
+EN: You can't breakfall at all.
+
+## 1.0
+JP: 試合開始時の根性ゲージの状態を設定します
+EN: Sets the Vigor gauge at the start of a match.
+
+## 1.1
+JP: 初期の状態です{n}EDITキャラ以外はストック「3」で{n}試合開始になります
+EN: Default setting.{n}All characters except EDIT ones{n}start a match with 3 stocks.
+
+## 1.2
+JP: 根性ゲージのストックが{n}「5」たまった状態から試合開始になります
+EN: The match starts with 5 Vigor{n}stocks already filled.
+
+## 1.3
+JP: 同上、「9」
+EN: Same as above, with 9.
+
+## 1.4
+JP: 根性ゲージのストックが{n}「0」の状態から試合開始になります
+EN: The match starts with 0 Vigor stocks.
+
+## 1.5
+JP: 根性ゲージが常にMAXのままになり、{n}完全燃焼アタックやツープラトン攻撃が{n}使い放題になります
+EN: The Vigor gauge always stays at MAX,{n}so Burning Vigor Attacks and Team Up{n}Techniques can be used freely.
+
+## 1.6
+JP: 根性ゲージが常に「0」のままになるので、{n}完全燃焼アタックやツープラトン攻撃が{n}一切使えません
+EN: The Vigor gauge always stays at 0,{n}so Burning Vigor Attacks and Team Up{n}Techniques can't be used at all.
+
+## 2.0
+JP: ガードの方式を設定します
+EN: Sets how guarding works.
+
+## 2.1
+JP: 初期の状態です{n}上下段の違い以外は、自動的にガードします
+EN: Default setting.{n}You guard automatically; you only{n}need to choose high or low.
+
+## 2.2
+JP: ガード操作を自分で行わなければなりません
+EN: You have to guard on your own.
+
+## 3.0
+JP: バックダッシュができるかどうかを設定します
+EN: Sets whether you can back dash.
+
+## 3.1
+JP: 初期の状態です{n}バックダッシュには特に制限はありません
+EN: Default setting.{n}Back dashing has no limits.
+
+## 3.2
+JP: バックダッシュできません
+EN: You can't back dash.
+
+## 4.0
+JP: バックジャンプに関する設定を行います
+EN: Sets how back jumps work.
+
+## 4.1
+JP: 初期の状態です{n}普通にバックジャンプをすることができます
+EN: Default setting.{n}You can back jump normally.
+
+## 4.2
+JP: バックジャンプでの移動距離が減るので{n}あまり後ろにさがれません
+EN: Back jumps cover less distance,{n}so you can't retreat very far.
+
+## 4.3
+JP: 一切のバックジャンプができません
+EN: You can't back jump at all.

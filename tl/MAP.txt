@@ -1,0 +1,21 @@
+# Mid-month location map labels (tools/mgbg_map.py), location 0-5 in this
+# order (MGAME table 0x800a406c). The names follow the help box EN in
+# MGK04.txt. RE: private/re/map/findings.org.
+
+JP: 教室
+EN: Classroom
+
+JP: グラウンド
+EN: Field
+
+JP: 屋上
+EN: Roof
+
+JP: 体育館
+EN: Gym
+
+JP: 保健室
+EN: Infirmary
+
+JP: 部室棟
+EN: Clubhouse

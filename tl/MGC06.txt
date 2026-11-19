@@ -1,0 +1,328 @@
+## MGC06 g0 s0000
+JP: さてと、今日は特別練習の日だな。{n}野球部の練習に行こう。{p}{end}
+EN: Okay, today's special practice day. Time to head to baseball club practice.{p}{end}
+
+## MGC06 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}今月も特別練習の日が来たな。{n}がんばっていこう。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. Special practice day is here again. Let's give it our all.{p}
+
+## MGC06 g0 s0002
+JP: よし、じゃさっそく{n}先月のクラブ活動の成果からだ。{p}
+EN: All right, let's start with last month's club results.{p}
+
+## MGC06 g0 s0003
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでくれ。{p}
+EN: All right, next is this month's special practice. Think about which stat you want to raise and pick a drill.{p}
+
+## MGC06 g0 s0004
+JP: よし、いいだろう。{n}来月もこの調子でがんばれよ。{p}{end}
+EN: Good, that'll do. Keep it up next month too.{p}{end}
+
+## MGC06 g0 s0005
+JP: 今月は、五輪高校では新人戦があるな。{n}ほかに太陽学園、パシフィックHSでは{n}太P戦がある。{n}腕試しの月になるから、がんばれよ。{p}
+EN: Gorin High has its Rookie Meet this month. Taiyo High and Pacific High have the Taiyo-Pacific Match. It's a month to test yourself, so give it your all.{p}
+
+## MGC06 g0 s0006
+JP: それじゃ、また来月な。{p}
+EN: Well, see you next month.{p}
+
+## MGC06 g0 s0007
+JP: さてと、今日は特別練習の日だな。{n}バレー部の練習に行こう。{p}
+EN: Okay, today's special practice day. Time to head to volleyball club practice.{p}
+
+## MGC06 g0 s0008
+JP: 来たな、{v0}!{n}今月も特別練習の日が来たな。{n}気合い入れていけよ!{p}{end}
+EN: There you are, {v0}! Special practice day is here again. Let's get fired up!{p}{end}
+
+## MGC06 g0 s0009
+JP: それじゃまず、{n}先月のクラブ活動の成果からだな!{p}{end}
+EN: First up, last month's club results!{p}{end}
+
+## MGC06 g0 s0010
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでくれ!{p}
+EN: All right, next is this month's special practice. Think about which stat you want to raise and pick a drill!{p}
+
+## MGC06 g0 s0011
+JP: 楽しいなぁ、特訓は。{n}自分の能力が伸びていく感覚は、{n}気持ちいいだろ?{sp}{v0}。{p}{end}
+EN: Special training is fun, huh? Feeling yourself get stronger feels great, right, {v0}?{p}{end}
+
+## MGC06 g0 s0012
+JP: さて、今月は太P戦の月だな。{n}あと、五輪高校新人戦もある。{n}バレー部員として、恥ずかしい結果を{n}出さないように今から練習しておけよ。{p}{end}
+EN: Now, this month is the Taiyo-Pacific Match. There's the Gorin Rookie Meet too. Start practicing now so you don't embarrass the volleyball club.{p}{end}
+
+## MGC06 g0 s0013
+JP: それじゃ、また来月な!{p}
+EN: Well, see you next month!{p}
+
+## MGC06 g0 s0014
+JP: さてと、今日は特別練習の日だな。{n}サッカー部の練習に行こう。{p}{end}
+EN: Okay, today's special practice day. Time to head to soccer club practice.{p}{end}
+
+## MGC06 g0 s0015
+JP: おはようございます、{v0}{col:0}君{col:-}。{n}今日は、6月の特別練習の日です。{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v0}{col:0}-kun{col:-}. Today is June's special practice day. Let's do our best.{p}{end}
+
+## MGC06 g0 s0016
+JP: ええと、それじゃさっそくですが、{n}先月のクラブ活動の成果を{n}みてみましょう。{p}{end}
+EN: Um, let's get right to it and look at last month's club results.{p}{end}
+
+## MGC06 g0 s0017
+JP: どうですか?{n}それでは、次は特別練習ですね。{n}また説明しますので、{n}好きな練習を選んでください。{p}{end}
+EN: How was that? Next is special practice. I'll explain it again, so please pick whichever drill you like.{p}{end}
+
+## MGC06 g0 s0018
+JP: はい、お疲れさまです。{n}がんばってくださいね、{n}私、応援してますから。{p}
+EN: Okay, good work. Please keep it up. I'm cheering for you.{p}
+
+## MGC06 g0 s0019
+JP: 今月の伝達事項は……、{n}ええと、太P戦と五輪高校新人戦が{n}あるみたいです。{n}練習しておいた方がいいかもしれませんね。{p}{end}
+EN: This month's announcements... Um, it seems there's the Taiyo-Pacific Match and the Gorin Rookie Meet. It might be a good idea to practice.{p}{end}
+
+## MGC06 g0 s0020
+JP: それでは、また来月に……。{p}
+EN: Well then, see you next month...{p}
+
+## MGC06 g0 s0021
+JP: さてと、今日は特別練習の日だな。{n}相撲部の練習に行こう。{p}{end}
+EN: Okay, today's special practice day. Time to head to sumo club practice.{p}{end}
+
+## MGC06 g0 s0022
+JP: 来たな、{v1}!{n}今月も特別練習をやるぞ。{n}気合を入れていけよ。{p}{end}
+EN: There you are, {v1}! Special practice again this month. Put some fight into it.{p}{end}
+
+## MGC06 g0 s0023
+JP: よしよし、それじゃさっそく{n}先月のクラブ活動の成果をみてみるか。{p}{end}
+EN: Good, good. Let's get right to last month's club results.{p}{end}
+
+## MGC06 g0 s0024
+JP: よし、それじゃ次は、{n}今月の特別練習だ。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選ぶがいい。{p}
+EN: All right, next is this month's special practice. Think about which stat you want to raise and pick your drill.{p}
+
+## MGC06 g0 s0025
+JP: よしよし、いいだろう。{n}若者はいい、どんどん吸収して{n}伸びていくからな。{p}{end}
+EN: Good, good, that'll do. Youngsters are great. They soak it all up and keep on growing.{p}{end}
+
+## MGC06 g0 s0026
+JP: さてと、おっそうそう、{n}今月は、太P戦とか五輪高新人戦とか{n}あるらしいな。{n}練習とかしておけよ。{p}{end}
+EN: Now then... Oh, right. Seems there's a Taiyo-Pacific Match and a Gorin Rookie Meet this month. Get some practice in.{p}{end}
+
+## MGC06 g0 s0027
+JP: よし、それじゃ、また来月な。{p}{end}
+EN: All right, see you next month.{p}{end}
+
+## MGC06 g0 s0028
+JP: 今日は特別練習の日だな。{n}美術部の練習に行こう。{p}{end}
+EN: Today's special practice day. Time to head to art club practice.{p}{end}
+
+## MGC06 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}私、この特別練習が好きなんだ{col:5}♥{col:-}{p}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Special practice day is here again. I just love special practice{col:5}♥{col:-}{p}
+
+## MGC06 g0 s0030
+JP: さ～てと、じゃさっそく{n}先月のクラブ活動の成果からね。{p}
+EN: Okay~, let's start with last month's club results.{p}
+
+## MGC06 g0 s0031
+JP: ええと。それじゃ次は、{n}今月の特別練習ね。{n}また説明してあげるから、{n}好きな練習を選んでね。{p}{end}
+EN: Um. Okay, next is this month's special practice. I'll explain it again, so pick whatever drill you like.{p}{end}
+
+## MGC06 g0 s0032
+JP: はい、おつかれさま。{n}がんばってるね、エライエライ。{p}{end}
+EN: Okay, good work. You're working hard. Good for you, good for you.{p}{end}
+
+## MGC06 g0 s0033
+JP: ええと、そうそう、{n}今月は太P戦とか五輪高新人戦とか{n}あるらしいよ。{n}がんばってね。{p}{end}
+EN: Um, oh right, I hear there's the Taiyo-Pacific Match and the Gorin Rookie Meet this month. Good luck.{p}{end}
+
+## MGC06 g0 s0034
+JP: それじゃ、また来月ね。{p}
+EN: See you next month.{p}
+
+## MGC06 g0 s0035
+JP: さてと、今日は特別練習の日だな。{n}吹奏楽部の練習に行こう。{p}
+EN: Okay, today's special practice day. Time to head to brass band practice.{p}
+
+## MGC06 g0 s0036
+JP: あ……{v0}{col:0}君{col:-}。{n}今日は特別練習の日でしたね。{n}練習、がんばりましょう……。{p}{end}
+EN: Oh... {v0}{col:0}-kun{col:-}. Today was special practice day, wasn't it? Let's... do our best...{p}{end}
+
+## MGC06 g0 s0037
+JP: とりあえず……、{n}先月のクラブ活動の成果からね……。{p}{end}
+EN: First... last month's club results...{p}{end}
+
+## MGC06 g0 s0038
+JP: ……はい。{n}それじゃ……特別練習ね。{n}好きな練習を選んでね……。{p}{end}
+EN: ...Yes. Now... special practice. Pick whichever drill you like...{p}{end}
+
+## MGC06 g0 s0039
+JP: おつかれさま。{n}がんばれば、それに応じて{n}能力が伸びていくと思うわ……。{p}{end}
+EN: Good work. If you work hard... I think your abilities will grow to match...{p}{end}
+
+## MGC06 g0 s0040
+JP: あ、そうそう……。{n}今月は、太P戦と五輪高新人戦が{n}あるそうよ。がんばってね……。{p}
+EN: Oh, right... I hear there's the Taiyo-Pacific Match and the Gorin Rookie Meet this month. Good luck...{p}
+
+## MGC06 g0 s0041
+JP: それじゃ、また来月にね。{p}{end}
+EN: Well then, see you next month.{p}{end}
+
+## MGC06 g0 s0042
+JP: さてと、今日は特別練習の日だな。{n}演劇部の練習に行こう。{p}{end}
+EN: Okay, today's special practice day. Time to head to drama club practice.{p}{end}
+
+## MGC06 g0 s0043
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}今日は特別練習の日ですね。{n}準備はいいですか?{p}
+EN: Hello, {v0}{col:0}-kun{col:-}. Today is special practice day. Are you ready?{p}
+
+## MGC06 g0 s0044
+JP: さてと、それじゃさっそく、{n}先月のクラブ活動の成果からです。{p}{end}
+EN: Now then, let's start with last month's club results.{p}{end}
+
+## MGC06 g0 s0045
+JP: それじゃ、特別練習をしましょうか。{n}説明はするから、{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでちょうだい。{p}{end}
+EN: Now, shall we do special practice? I'll explain, so think about which stat you want to raise and pick a drill.{p}{end}
+
+## MGC06 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}理想をもって努力すれば、{n}成長も早いよ。{p}{end}
+EN: All right, let's stop here for today. If you work with an ideal in mind, you'll grow quickly.{p}{end}
+
+## MGC06 g0 s0047
+JP: 今月は、太P戦とか五輪高新人戦とかが{n}あるはずよ。たまには練習とか、{n}しておくことね。{p}
+EN: There should be a Taiyo-Pacific Match and a Gorin Rookie Meet this month. Do get some practice in now and then.{p}
+
+## MGC06 g0 s0048
+JP: じゃ、また来月ね。{p}
+EN: See you next month.{p}
+
+## MGC06 g0 s0049
+JP: さてと、今日は特別練習の日だな。{n}化学部の練習に行こう。{p}{end}
+EN: Okay, today's special practice day. Time to head to chemistry club practice.{p}{end}
+
+## MGC06 g0 s0050
+JP: やぁ、{v0}{col:0}君{col:-}。{n}今月も特別練習の日が来たな。{n}ぼちぼちやっていこうじゃないか。{p}{end}
+EN: Ah, there you are, {v0}{col:0}-kun{col:-}. Special practice day again. Let's take it nice and easy, shall we?{p}{end}
+
+## MGC06 g0 s0051
+JP: ふむふむ、それじゃさっそく{n}先月のクラブ活動の成果からだ。{p}
+EN: Mm-hm. Let's start with last month's club results.{p}
+
+## MGC06 g0 s0052
+JP: ふむふむ。それじゃ次は、{n}今月の特別練習だな。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでくれよ。{p}
+EN: Mm-hm. Next is this month's special practice. Think about which stat you want to raise and pick a drill.{p}
+
+## MGC06 g0 s0053
+JP: なるほどなるほど。{n}お疲れさん。とりあえず、{n}こんなモンだろ。{p}
+EN: I see, I see. Good work. That'll do for now.{p}
+
+## MGC06 g0 s0054
+JP: 今月は、五輪高校では新人戦があるな。{n}ミニゲームの練習とか、{n}少しでもやっておいた方がいいぞ……。{p}
+EN: Gorin High has its Rookie Meet this month. You'd better practice the minigames, even just a little...{p}
+
+## MGC06 g0 s0056
+JP: さてと、今日は特別練習の日だな。{n}また委員長と何かするのかな。{p}
+EN: Okay, today's special practice day. I wonder what the Chairperson has me doing this time.{p}
+
+## MGC06 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}覚えてるでしょ、今日は特別練習の日よ。{n}さ、帰宅部の特別練習って{n}ヤツをやりましょうか。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. You remember, right? It's special practice day. Come on, let's do this Go-Home Club special practice thing.{p}{end}
+
+## MGC06 g0 s0058
+JP: とりあえず、先月の{n}帰宅部としてのクラブの成果からね。{p}
+EN: First, your results as a Go-Home Club member last month.{p}
+
+## MGC06 g0 s0059
+JP: ふ～ん……それじゃ次は、{n}今月の特別練習ね。{n}まぁ適当にしか上がらないけど、{n}適当にやっちゃいましょう。{p}{end}
+EN: Hmm... Okay, next is this month's special practice. Stats only go up any old way, so let's do it any old way.{p}{end}
+
+## MGC06 g0 s0060
+JP: ま、こんなものかしらね。{n}帰宅部なんてフラフラしてるんだから、{n}成長は期待しない方がいいわよ。{p}
+EN: Well, that's about it. The Go-Home Club just drifts around, so don't expect much growth.{p}
+
+## MGC06 g0 s0061
+JP: 今月は、太P戦と五輪高新人戦が{n}あるわ。クラブに出てないんだから、{n}学校行事くらいマジメにやることね。{p}
+EN: This month there's the Taiyo-Pacific Match and the Gorin Rookie Meet. You skip club, so at least take school events seriously.{p}
+
+## MGC06 g1 s0000
+JP: さてと、今日は特別練習の日ね。{n}野球部の練習に行こうっと。{p}
+EN: Okay, today's special practice day. Time to head to baseball club practice.{p}
+
+## MGC06 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今月も特別練習の日が来たね。{n}がんばっていこう。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. Special practice day is here again. Let's give it our all.{p}{end}
+
+## MGC06 g1 s0002
+JP: よし、じゃさっそく{n}先月のクラブ活動の成果からだな。{p}{end}
+EN: All right, let's start with last month's club results.{p}{end}
+
+## MGC06 g1 s0007
+JP: さてと、今日は特別練習の日ね。{n}バレー部の練習に行こうっと。{p}{end}
+EN: Okay, today's special practice day. Time to head to volleyball club practice.{p}{end}
+
+## MGC06 g1 s0014
+JP: さてと、今日は特別練習の日ね。{n}サッカー部の練習に行こうっと。{p}
+EN: Okay, today's special practice day. Time to head to soccer club practice.{p}
+
+## MGC06 g1 s0015
+JP: おはよう、{v1}{col:0}ちゃん{col:-}。{n}今日は、6月の特別練習の日ね。{n}がんばっていきましょうね。{p}{end}
+EN: Good morning, {v1}{col:0}-chan{col:-}. Today is June's special practice day. Let's do our best.{p}{end}
+
+## MGC06 g1 s0016
+JP: ええと、それじゃさっそくだけど、{n}先月のクラブ活動の成果を{n}みてみましょう。{p}{end}
+EN: Um, let's get right to it and look at last month's club results.{p}{end}
+
+## MGC06 g1 s0017
+JP: どう?{n}それでは、次は特別練習ね。{n}また説明するから、{n}好きな練習を選んでね。{p}
+EN: How was that? Next is special practice. I'll explain it again, so pick whichever drill you like.{p}
+
+## MGC06 g1 s0018
+JP: はい、お疲れさま。{n}がんばってね、{n}私、応援してるから。{p}{end}
+EN: Okay, good work. Keep it up. I'm cheering for you.{p}{end}
+
+## MGC06 g1 s0019
+JP: 今月の伝達事項は……、{n}ええと、太P戦と五輪高校新人戦が{n}あるみたいです。{n}練習しておいた方がいいかもね。{p}
+EN: This month's announcements... Um, looks like there's the Taiyo-Pacific Match and the Gorin Rookie Meet. Might be a good idea to practice.{p}
+
+## MGC06 g1 s0021
+JP: さてと、今日は特別練習の日ね。{n}相撲部の練習に行こうっと。{p}
+EN: Okay, today's special practice day. Time to head to sumo club practice.{p}
+
+## MGC06 g1 s0022
+JP: 来たな、{v0}!{n}今月も特別練習をやるぞ。{n}気合を入れていけよ。{p}{end}
+EN: There you are, {v0}! Special practice again this month. Put some fight into it.{p}{end}
+
+## MGC06 g1 s0028
+JP: 今日は特別練習の日ね。{n}美術部の練習に行こうっと。{p}
+EN: Today's special practice day. Time to head to art club practice.{p}
+
+## MGC06 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}私、この特別練習が好きなんだ{col:5}♥{col:-}{p}{end}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Special practice day is here again. I just love special practice{col:5}♥{col:-}{p}{end}
+
+## MGC06 g1 s0035
+JP: さてと、今日は特別練習の日ね。{n}吹奏楽部の練習に行こうっと。{p}{end}
+EN: Okay, today's special practice day. Time to head to brass band practice.{p}{end}
+
+## MGC06 g1 s0036
+JP: あ……{v1}{col:0}さん{col:-}。{n}今日は特別練習の日でしたね。{n}練習、がんばりましょう……。{p}
+EN: Oh... {v1}{col:0}-san{col:-}. Today was special practice day, wasn't it? Let's... do our best...{p}
+
+## MGC06 g1 s0042
+JP: さてと、今日は特別練習の日ね。{n}演劇部の練習に行こうっと。{p}
+EN: Okay, today's special practice day. Time to head to drama club practice.{p}
+
+## MGC06 g1 s0043
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}今日は特別練習の日ですね。{n}準備はいいですか?{p}
+EN: Hello, {v1}{col:0}-san{col:-}. Today is special practice day. Are you ready?{p}
+
+## MGC06 g1 s0049
+JP: さてと、今日は特別練習の日ね。{n}化学部の練習に行こうっと。{p}
+EN: Okay, today's special practice day. Time to head to chemistry club practice.{p}
+
+## MGC06 g1 s0056
+JP: さてと、今日は特別練習の日ね。{n}また委員長と何かするのかなぁ。{p}
+EN: Okay, today's special practice day. I wonder what the Chairperson has me doing this time.{p}
+
+## MGC06 g1 s0057
+JP: はーい、{v1}{col:0}さん{col:-}。{n}覚えてるでしょ、今日は特別練習の日よ。{n}さ、帰宅部の特別練習って{n}ヤツをやりましょうか。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. You remember, right? It's special practice day. Come on, let's do this Go-Home Club special practice thing.{p}
+

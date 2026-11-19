@@ -1,0 +1,68 @@
+## MGG09P g0 s0000
+JP: 中庭には露店がたちならび、{n}学園中が普段にない活気に包まれている。{n}そう、今日は学園祭なのだ!{p}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is the school festival!{p}
+
+## MGG09P g0 s0002
+JP: ニッポンのスクールフェスティバル、{n}ダイセイカイね!{p}{end}
+EN: The Japanese school festival is a big excess!{p}{end}
+
+## MGG09P g0 s0003
+JP: おいおい、それを言うなら大盛況だろ。{n}ところで、何でそんなカッコしてるんだ?{p}{end}
+EN: Whoa, whoa, you mean a big success. Anyway, why are you dressed like that?{p}{end}
+
+## MGG09P g0 s0004
+JP: チッチッチ、{v3:7}わかってないネ。{n}オマツリを盛り上げるのは、{n}チアリーダーの役目ヨ!{p}{end}
+EN: Tsk tsk tsk, {v3:7}, you don't get it. Livening up the festival is the cheerleader's job!{p}{end}
+
+## MGG09P g0 s0005
+JP: なるほど、納得。{n}ところで、ティファニーが一番楽しみに{n}してるのは何だい?{p}
+EN: Makes sense. So, Tiffany, what are you looking forward to the most?{p}
+
+## MGG09P g0 s0006
+JP: {col:0}グラウンド{col:-}でやるって聞いた、{n}ジャパニーズチアリーディングね!{p}
+EN: The Japanese cheerleading! I heard it's on the {col:0}Field{col:-}!{p}
+
+## MGG09P g0 s0007
+JP: ジャパニーズチアリーディング?{n}もしかして、応援団のことか?{p}{end}
+EN: Japanese cheerleading? You mean the cheering squad?{p}{end}
+
+## MGG09P g0 s0008
+JP: ソーソー、そうとも言うネ!{n}あっ、あそこにロイとボーマンがいる!{n}ロイ～～～!{sp}コッチコッチ!!{p}{end}
+EN: Yes, yes, you can call it that too! Oh, there are Roy and Boman! Roy~~~! Over here, over here!!{p}{end}
+
+## MGG09P g0 s0009
+JP: やあ、{v3:5}。{n}楽しんでるかい?{p}
+EN: Hey, {v3:5}. Having fun?{p}
+
+## MGG09P g0 s0010
+JP: ネェネェ、{n}ロイとボーマンは何するの?{p}
+EN: Hey, hey, what are Roy and Boman doing?{p}
+
+## MGG09P g0 s0011
+JP: 私はひなたさんたちと{col:0}喫茶店{col:-}を{n}やるんですよ。{n}ロイは、{col:0}演劇{col:-}をやるんでしたよね?{p}
+EN: I am running a {col:0}cafe{col:-} with Hinata-san and the others. And Roy, you are in a {col:0}play{col:-}, correct?{p}
+
+## MGG09P g0 s0012
+JP: ちょっと、演劇部の知り合いに{n}助っ人を頼まれてしまってね。{n}みんな、よかったら見に来てくれよ。{p}
+EN: A friend in the drama club asked me to fill in. Come watch if you like, everyone.{p}
+
+## MGG09P g0 s0013
+JP: すごーい!{n}ロイ、オペラするの?{n}何があっても絶対見に行くネ!{p}
+EN: Wooow! Roy, you're doing an opera? I'll come watch no matter what!{p}
+
+## MGG09P g1 s0000
+JP: 中庭には露店がたちならんで、{n}学園中が普段にない活気に包まれてる。{n}そう、今日は学園祭よ!{p}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is the school festival!{p}
+
+## MGG09P g1 s0003
+JP: ティファニー、それを言うなら大盛況よ。{n}ところで、何でそんなカッコしてるの?{p}{end}
+EN: Tiffany, you mean a big success. Anyway, why are you dressed like that?{p}{end}
+
+## MGG09P g1 s0005
+JP: なるほど、納得。{n}ところで、ティファニーが一番楽しみに{n}してるのは何?{p}
+EN: Makes sense. So, Tiffany, what are you looking forward to the most?{p}
+
+## MGG09P g1 s0007
+JP: ジャパニーズチアリーディング?{n}もしかして、応援団のこと?{p}
+EN: Japanese cheerleading? You mean the cheering squad?{p}
+

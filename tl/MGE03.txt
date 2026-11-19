@@ -1,0 +1,2920 @@
+## MGE03 g0 s0000
+JP: 俺が入学してから、{n}もう1年がたつのかぁ……。{p}
+EN: It's already been a year since I started here, huh...{p}
+
+## MGE03 g0 s0001
+JP: ホントに月日がながれるのって、{n}あっという間なんだよな。{p}{end}
+EN: Time really does fly by.{p}{end}
+
+## MGE03 g0 s0002
+JP: 振り返ってみれば、{n}どんなことも、いい思い出だよ……。{p}
+EN: Looking back, every bit of it is a good memory...{p}
+
+## MGE03 g0 s0003
+JP: えぇ～っ、みなさん静かに!{n}それでは終業式をはじめます……。{p}{end}
+EN: Ahem, quiet down, everyone! We will now begin the closing ceremony...{p}{end}
+
+## MGE03 g0 s0004
+JP: （終業式が終われば、春休みか……。{n}{sp}どう過ごそうか考えるだけで、{n}{sp}胸がおどっちゃうよな……）{p}{end}
+EN: (Once the ceremony's over, it's spring break... Just thinking about how to spend it gets me all excited...){p}{end}
+
+## MGE03 g0 s0005
+JP: 終業式も終わったし……、{n}バツのヤツ、屋上で待ってるとか{n}いいながら、いないんだもんな……。{p}{end}
+EN: The closing ceremony's over... Batsu said he'd be waiting on the roof, but he's not even here...{p}{end}
+
+## MGE03 g0 s0006
+JP: この1年いろんなことがあったなぁ……。{n}早いもんだ。{p}{end}
+EN: So much happened this year... Time sure flies.{p}{end}
+
+## MGE03 g0 s0007
+JP: ……ハッ!{sp}背中に殺気!!{p}
+EN: ...Huh! Killing intent behind me!!{p}
+
+## MGE03 g0 s0008
+JP: ……ヒュルヒュルヒュル!{n}サクッ!!{p}{end}
+EN: ...Whoosh whoosh whoosh! THUNK!!{p}{end}
+
+## MGE03 g0 s0009
+JP: すばやく身をかわした、{n}ちょうどその場所の手すりに、{n}手裏剣が突き刺さる!{p}
+EN: I dodged just in time, and a shuriken stuck into the railing right where I'd been standing!{p}
+
+## MGE03 g0 s0010
+JP: 俺の手裏剣をかわすとは{n}さすがだな、{v3:0}。{p}
+EN: Dodgin' my shuriken? Nice one, {v3:0}.{p}
+
+## MGE03 g0 s0011
+JP: ……バツ。{n}お前な、こんなことしてると、{n}いつかケガ人が出るぜ。{p}{end}
+EN: ...Batsu. Keep pulling stuff like this and somebody's gonna get hurt one day.{p}{end}
+
+## MGE03 g0 s0012
+JP: いやいや、お前なら{n}よけられると思ってさ……。{p}
+EN: Nah, I figured you'd dodge it...{p}
+
+## MGE03 g0 s0013
+JP: ……{v3:0}、{n}今年はいろいろ世話になったな。{p}
+EN: ...{v3:0}, thanks for everything this year.{p}
+
+## MGE03 g0 s0014
+JP: 俺の方こそ……。{n}そんなにたいして{n}役に立てなかったしな、俺は……。{p}{end}
+EN: I should be thanking you... Not like I was much help anyway...{p}{end}
+
+## MGE03 g0 s0015
+JP: いやいや、お前のおかげだよ。{n}……俺はさ、ガキの頃から{n}母さんには迷惑かけてきたからな。{n}今回のはいい機会だったよ。{p}{end}
+EN: Nah, it's all 'cause of you. ...I've been givin' Mom grief ever since I was a kid. This was a good chance to make it up to her.{p}{end}
+
+## MGE03 g0 s0016
+JP: ……バツ……。{p}
+EN: ...Batsu...{p}
+
+## MGE03 g0 s0017
+JP: それにさ、俺、{n}ガキの頃からけっこう転校してたから、{n}そういうことを相談できる{n}友達っていなかったんだな……。{p}
+EN: Plus, I switched schools a lot as a kid, so I never had a friend I could talk to about stuff like that...{p}
+
+## MGE03 g0 s0018
+JP: お前だけだよ、こんなこと、{n}話せるの……。{n}{v3:0}……アリガトな。{p}{end}
+EN: You're the only one I can tell this stuff to... {v3:0}... Thanks.{p}{end}
+
+## MGE03 g0 s0019
+JP: そんな……あらためて礼をいわれると、{n}照れちゃうな。{p}{end}
+EN: Come on... When you thank me like that, it's kind of embarrassing.{p}{end}
+
+## MGE03 g0 s0020
+JP: へへっ、なんか暗い話に{n}なっちまったな。{n}なっ、なんか食べに行こうぜ!{n}俺、腹がへっちまったよ。{p}{end}
+EN: Heh, this got kinda gloomy. Hey, let's go grab somethin' to eat! I'm starvin'.{p}{end}
+
+## MGE03 g0 s0021
+JP: ふふっ、まったくだ。{n}こんな話は俺達らしくないか!{n}よし、行こう!!{p}{end}
+EN: Heh, you said it. This kind of talk isn't really us, huh! Alright, let's go!!{p}{end}
+
+## MGE03 g0 s0022
+JP: へへっ、{v3:0}、{n}俺達、これからもいっしょだぜ!{p}
+EN: Heh heh, {v3:0}, we're stickin' together from here on out!{p}
+
+## MGE03 g0 s0023
+JP: ああ、そうだな、バツ!!{p}{end}
+EN: Yeah, you bet, Batsu!!{p}{end}
+
+## MGE03 g0 s0024
+JP: 終業式の後、ひなたと{n}約束してたんだったな……。{p}{end}
+EN: That's right, I promised to meet Hinata after the closing ceremony...{p}{end}
+
+## MGE03 g0 s0025
+JP: ちょっと、約束の時間より早いけど、{n}神社に行ってみようかな。{p}{end}
+EN: It's a bit early, but maybe I'll head to the shrine.{p}{end}
+
+## MGE03 g0 s0026
+JP: （ん?{n}{sp}ひなた……、もう来てたんだ。{n}{sp}ひとりで何やってんだろう……）{p}{end}
+EN: (Hm? Hinata's... already here. What's she doing all by herself...?){p}{end}
+
+## MGE03 g0 s0027
+JP: 「{v6:1}……。{n}{sp}今日も来てくれるかな……」{p}
+EN: "{v6:1}... I wonder if he'll come today too..."{p}
+
+## MGE03 g0 s0028
+JP: 「そうだ、こうして{n}{sp}いつも神社に来てるのに、{n}{sp}1度もお参りしたことなかったよね。」{p}
+EN: "Oh, right. I come to this shrine all the time, but I've never once prayed here."{p}
+
+## MGE03 g0 s0029
+JP: （ジャランジャラン……）{p}{end}
+EN: (Jangle jangle...){p}{end}
+
+## MGE03 g0 s0030
+JP: （パンパン!）{p}
+EN: (Clap clap!){p}
+
+## MGE03 g0 s0031
+JP: 「{v6:1}と……、{n}{sp}もっと、仲良くなれますように……」{p}{end}
+EN: "Please let me get closer... to {v6:1}..."{p}{end}
+
+## MGE03 g0 s0032
+JP: 「{v6:1}が……、{n}{sp}私のこと……、{n}{sp}好きになってくれますように……」{p}{end}
+EN: "Please let {v6:1}... fall in love... with me..."{p}{end}
+
+## MGE03 g0 s0033
+JP: （……ガタッ!）{p}{end}
+EN: (...Clunk!){p}{end}
+
+## MGE03 g0 s0034
+JP: {v6:1}!{n}き、聞いてたの……?{p}{end}
+EN: {v6:1}! Y-you heard that...?{p}{end}
+
+## MGE03 g0 s0036
+JP: あ、あはは……!{n}い、今のは、冗談だからね!{n}気にしないで……。{p}{end}
+EN: A-ahaha...! Th-that was just a joke, OK! Don't worry about it...{p}{end}
+
+## MGE03 g0 s0037
+JP: さっ!{sp}練習をはじめようよ!{n}なんだったら、いきなり組み手の{n}練習からでもいいよ!{p}
+EN: Come on! Let's start practicing! We can even jump straight into sparring if you want!{p}
+
+## MGE03 g0 s0038
+JP: ひなた!{n}本当に、冗談で済ませていいのか……。{p}
+EN: Hinata! Are you really OK with passing it off as a joke...?{p}
+
+## MGE03 g0 s0040
+JP: よ、よくないよ……。{n}でも、無理してもらっても……、{n}しょうがないし……。{p}
+EN: N-no, I'm not... But if you just go along with it to be nice... what's the point...{p}
+
+## MGE03 g0 s0041
+JP: ひなた……。{n}俺だって、ひなたと同じ気持ちだよ……。{p}{end}
+EN: Hinata... I feel the same way you do...{p}{end}
+
+## MGE03 g0 s0042
+JP: でなかったら、{n}いつもボコボコにされるのに、{n}ひなたの練習に付き合ったりしないよ……。{p}
+EN: Otherwise, why would I keep practicing with you when you beat me to a pulp every time...{p}
+
+## MGE03 g0 s0043
+JP: ホ、ホント?{n}{v6:1}……。{p}{end}
+EN: R-really? {v6:1}...{p}{end}
+
+## MGE03 g0 s0044
+JP: あぁ!{sp}もちろん!{p}
+EN: Yeah! Of course!{p}
+
+## MGE03 g0 s0045
+JP: ……お参りしたら、{n}本当に願いがかなっちゃった……。{n}こんなことなら、もっと早く{n}お参りするんだったな……。{p}{end}
+EN: ...I prayed, and my wish actually came true... If I'd known, I would've prayed way sooner...{p}{end}
+
+## MGE03 g0 s0047
+JP: ねぇ、{v6:1}!{n}春休みの間も、一緒に練習してくれる?{p}
+EN: Hey, {v6:1}! Will you keep practicing with me over spring break too?{p}
+
+## MGE03 g0 s0048
+JP: あぁ!{sp}もちろん!{n}でも、練習ばっかりだと、{n}せっかくの休みがもったいないよ。{p}
+EN: Yeah! Of course! But if all we do is practice, we'll waste our break.{p}
+
+## MGE03 g0 s0049
+JP: フフフ……、{n}じゃあ、ピクニックにでも行こうよ!{n}私の作った、お弁当を持って!{p}
+EN: Hee hee... Then let's go on a picnic! I'll bring a lunch I made myself!{p}
+
+## MGE03 g0 s0050
+JP: 私、これからは、{n}お料理とか、格闘以外のことも{n}一生懸命やってみようと思うんだ。{p}{end}
+EN: From now on, I'm gonna work hard at stuff besides fighting too, like cooking.{p}{end}
+
+## MGE03 g0 s0051
+JP: もっと素敵な女の子になって、{n}キミを喜ばせてあげたいからね!{p}{end}
+EN: 'Cause I wanna be an even better girl and make you happy!{p}{end}
+
+## MGE03 g0 s0052
+JP: 終業式も終わったし……、{n}お、あそこにいるのは恭介だな。{p}{end}
+EN: The closing ceremony's over... Oh, that's Kyosuke over there.{p}{end}
+
+## MGE03 g0 s0053
+JP: やぁ、{v4:2}。{n}待ってたよ。{n}ちょっと時間、あるか?{p}
+EN: Hi, {v4:2}. I've been waiting. Do you have a minute?{p}
+
+## MGE03 g0 s0054
+JP: キミには、1年間世話になったな。{n}あらためて礼をいうよ。{p}{end}
+EN: You've done a lot for me this year. I want to thank you properly.{p}{end}
+
+## MGE03 g0 s0055
+JP: ただでさえいろいろ世話になったのに、{n}この前は看病までしてもらって……{n}感謝している。{p}
+EN: You'd already helped me so much, and the other day you even nursed me when I was sick... I'm grateful.{p}
+
+## MGE03 g0 s0056
+JP: いやいや……、{n}そのことならもういいさ。{n}たいしたことはしてないし。{p}{end}
+EN: Nah... don't worry about that anymore. It was nothing.{p}{end}
+
+## MGE03 g0 s0057
+JP: それに、風紀委員の仕事が、{n}どんなに大変か、{n}俺はよく知ってるからな。{p}
+EN: Besides, I know how tough disciplinary committee work is.{p}
+
+## MGE03 g0 s0058
+JP: {v4:2}……。{n}本当はな……初めてだったんだ、{n}友達の部屋に入るのが。{p}
+EN: {v4:2}... The truth is... that was the first time I'd ever been in a friend's room.{p}
+
+## MGE03 g0 s0059
+JP: 僕は一人暮らしが長かったからな、{n}あまり、他人の生活というものに{n}接したことがなかったんだ……。{n}それに……、{p}
+EN: I've lived alone for a long time, so I've hardly seen how other people live... And besides,{p}
+
+## MGE03 g0 s0060
+JP: やっぱり、こんな仕事をしていると、{n}あんまり好かれないモノだからな……。{n}……ロコツに部屋に入れたがらない{n}友達とかもいた。{p}{end}
+EN: a job like mine doesn't exactly make you popular... Some friends made it obvious they didn't want me in their rooms.{p}{end}
+
+## MGE03 g0 s0061
+JP: でもキミは違った……。{n}何の抵抗もなく部屋に{n}通してくれたからな……。{n}それだけでも、うれしかったんだ……。{p}{end}
+EN: But you were different... You let me right in without a second thought... That alone made me happy...{p}{end}
+
+## MGE03 g0 s0063
+JP: そうだ、今度僕の部屋にこないか?{n}僕の手料理をごちそうするよ。{n}こうみえても、本気で作れば、{n}ちょっとしたモンなんだぜ?{p}{end}
+EN: I know, why don't you come over to my place next time? I'll cook for you. I may not look it, but I'm pretty good when I try.{p}{end}
+
+## MGE03 g0 s0064
+JP: 恭介……いいのか、{n}お前一人暮らしだろ?{p}{end}
+EN: Kyosuke... Are you sure? You live alone, don't you?{p}{end}
+
+## MGE03 g0 s0065
+JP: ふふっ、だから気兼ねがいらなくて、{n}いいんじゃないか。{n}家族がいたら気を使うし、{n}何時までいてもいい。{p}
+EN: Heh, that's exactly why it's nice. No one to worry about. With family around you'd have to be careful, but you can stay as late as you like.{p}
+
+## MGE03 g0 s0066
+JP: それとも、兄さんでも呼ぶか?{n}たまにだが、ウチにも来ることがある。{n}たぶん、呼べば来るぞ。{p}
+EN: Or should I invite my brother? He drops by once in a while. He'd probably come if I asked.{p}
+
+## MGE03 g0 s0067
+JP: ……え?{n}いやちょっと、{n}それはカンベンしてほしいなぁ。{p}{end}
+EN: ...Huh? Uh, I'd really rather you didn't.{p}{end}
+
+## MGE03 g0 s0068
+JP: そうか?{n}ふふ、そうだな。{p}
+EN: No? Heh, I suppose not.{p}
+
+## MGE03 g0 s0069
+JP: {v4:2}……。{n}君に会えてよかったよ。{n}来年もいっしょに、いてくれるかな?{p}
+EN: {v4:2}... I'm glad I met you. Will you be with me again next year?{p}
+
+## MGE03 g0 s0070
+JP: もちろんだよ。{n}恭介。来年だけじゃない、{n}これから、ずっとな。{p}
+EN: Of course, Kyosuke. And not just next year. From now on, always.{p}
+
+## MGE03 g0 s0071
+JP: 終業式も終わったし……、{n}そろそろ帰らないとな。{p}{end}
+EN: The ceremony's over... Guess I should head home.{p}{end}
+
+## MGE03 g0 s0072
+JP: ん?{sp}あそこの門のトコロで{n}チラチラ人を探してるのは……{n}将馬だな?{p}{end}
+EN: Hm? That's Shoma at the gate, glancing around like he's looking for someone...{p}{end}
+
+## MGE03 g0 s0073
+JP: よ、よぉ、{v3:3}。{n}こんなトコロで会えるなんて{n}奇遇だな!!{n}いっしょに帰ろうぜ!{p}{end}
+EN: Y-yo, {v3:3}. Fancy runnin' into you here!! Let's walk home together!{p}{end}
+
+## MGE03 g0 s0074
+JP: （俺を待ってたクセに……ふふ）{n}いいぜ、いっしょに帰ろう!!{p}{end}
+EN: (He was totally waiting for me... heh) Sure, let's walk home together!!{p}{end}
+
+## MGE03 g0 s0075
+JP: そういえば、前にこの道で、{n}学校まで競走したよな……。{p}
+EN: Come to think of it, we raced each other to school on this road once, huh...{p}
+
+## MGE03 g0 s0076
+JP: ふふっ、そうだそうだ。{n}勝負となると、将馬はすぐに{n}ムキになるからな……。{p}
+EN: Heh, that's right. When it's a contest, Shoma, you get worked up in no time...{p}
+
+## MGE03 g0 s0077
+JP: よくいうぜ、ムキになってたのは{n}オマエじゃねぇか。{p}
+EN: Look who's talkin'. You were the one gettin' all worked up.{p}
+
+## MGE03 g0 s0078
+JP: そうだっけ?{p}{end}
+EN: Was I?{p}{end}
+
+## MGE03 g0 s0079
+JP: そうだよ……。{p}
+EN: Yeah, ya were...{p}
+
+## MGE03 g0 s0080
+JP: そうかもな……。{p}{end}
+EN: Maybe so...{p}{end}
+
+## MGE03 g0 s0081
+JP: ……オイラがさ……、{n}プロ野球選手を目指してるって話、{n}したっけ?{p}
+EN: ...Did I ever tell ya... that I'm aimin' to go pro in baseball?{p}
+
+## MGE03 g0 s0082
+JP: 将馬……。{n}そんなこと、{n}聞かなくたってわかるよ。{p}
+EN: Shoma... You don't have to tell me. I already know.{p}
+
+## MGE03 g0 s0083
+JP: でもな、ちょっと目標を変えたんだ……。{p}
+EN: But y'know, I changed my goal a little...{p}
+
+## MGE03 g0 s0084
+JP: え?{sp}将馬、まさか野球やめるのか?{p}
+EN: Huh? Shoma, don't tell me you're quitting baseball?{p}
+
+## MGE03 g0 s0085
+JP: まさか!{n}オイラから野球とっちまったら、{n}何にも残らないじゃないか。{p}{end}
+EN: No way! Take baseball away from me and there'd be nothin' left!{p}{end}
+
+## MGE03 g0 s0086
+JP: ……そんなことはないと思うけど。{p}{end}
+EN: ...I don't think that's true.{p}{end}
+
+## MGE03 g0 s0087
+JP: ただ、な。{n}兄貴と同じ目標を追ってたんじゃ、{n}一生兄貴には追いつけねぇと思うんだ……。{p}
+EN: It's just... if I chase the same goal as Bro, I'll never catch up to him my whole life...{p}
+
+## MGE03 g0 s0089
+JP: 決めたんだ、オイラ。{n}メジャーを目指すってな!{p}
+EN: I've decided. I'm aimin' for the majors!{p}
+
+## MGE03 g0 s0090
+JP: 夢はでっかくメジャーリーガーよ!{n}やっぱり男なら、世界に{n}羽ばたかねぇとな!!{p}
+EN: Dream big, right? A major leaguer! A guy's gotta spread his wings and take on the world!!{p}
+
+## MGE03 g0 s0091
+JP: 将馬……かっこいいぜ。{n}俺も応援するからな!!{p}
+EN: Shoma... That's cool. I'll be rooting for you!!{p}
+
+## MGE03 g0 s0092
+JP: へへ、何のんきなこといってんだよ。{n}オマエもいっしょに来てくれよ。{p}
+EN: Heh, what're ya actin' so laid-back for? You're comin' with me.{p}
+
+## MGE03 g0 s0093
+JP: へ?{sp}だって俺、そんなに野球は……。{p}{end}
+EN: Huh? But I'm not really that into baseball...{p}{end}
+
+## MGE03 g0 s0094
+JP: だってオマエ……、{n}オイラ一人じゃ、英語わかんねぇだろ?{n}通訳がいるじゃねぇか。{p}{end}
+EN: Well, duh... I can't speak English on my own, right? I'm gonna need an interpreter.{p}{end}
+
+## MGE03 g0 s0095
+JP: はぁ……。{n}お前ね、通訳付きでメジャーリーガーに{n}なるつもりだったのか?{p}{end}
+EN: Sigh... So you were planning to become a major leaguer with an interpreter in tow?{p}{end}
+
+## MGE03 g0 s0096
+JP: 当たり前だろ?{n}オイラ、英語しゃべれねぇもん。{p}
+EN: Obviously! I can't speak English.{p}
+
+## MGE03 g0 s0097
+JP: ……プッ……ははっ、将馬らしいよ。{n}いいとも、いっしょにがんばろうぜ!{n}アメリカでもどこでも、{n}いっしょにいってやるよ!{p}{end}
+EN: ...Pfft... Haha, that's so Shoma. Sure, let's give it our all together! America or wherever, I'll go with you!{p}{end}
+
+## MGE03 g0 s0098
+JP: へへっ、がんばろうぜ!{p}
+EN: Heh heh, let's do this!{p}
+
+## MGE03 g0 s0099
+JP: 終業式も終わったので、{n}屋上に行ってみよう。{n}たしか……ここで、{n}待ち合わせだったよな……。{p}{end}
+EN: The ceremony's over, so I'll check the roof. I'm pretty sure this is where we're meeting...{p}{end}
+
+## MGE03 g0 s0100
+JP: あ、来たわね、{n}{v6:4}。{p}
+EN: Oh, you came, {v6:4}.{p}
+
+## MGE03 g0 s0101
+JP: やぁ、夏。{n}待った?{p}{end}
+EN: Hey, Natsu. Did I keep you waiting?{p}{end}
+
+## MGE03 g0 s0102
+JP: ううん、アタシも今来たトコ。{n}ね、お腹空いてない?{n}お弁当作ってきたんだけど。{p}
+EN: Nope, I just got here too. Hey, are you hungry? I made us lunch.{p}
+
+## MGE03 g0 s0104
+JP: ごちそうさま、おいしかったよ。{n}さすが夏だ。{p}{end}
+EN: Thanks for the meal, it was delicious. That's Natsu for you.{p}{end}
+
+## MGE03 g0 s0105
+JP: へへ、ありがと。{p}{end}
+EN: Hehe, thanks.{p}{end}
+
+## MGE03 g0 s0106
+JP: アタシね、{n}……身長も高いし、{n}性格もこんなでしょ……、{p}{end}
+EN: Y'know... I'm tall, and with a personality like mine...{p}{end}
+
+## MGE03 g0 s0107
+JP: あんまり……{n}人から女の子扱いされたコトないから……{n}うれしかったんだ……、{n}{v6:4}のこと……。{p}
+EN: people hardly ever treat me like a girl... So I was happy... about you, {v6:4}...{p}
+
+## MGE03 g0 s0108
+JP: 夏……、{n}夏のお弁当は、{n}ホントにおいしいよ。{p}
+EN: Natsu... Your lunches really are delicious.{p}
+
+## MGE03 g0 s0109
+JP: ううん、お弁当だけの{n}コトじゃないの。{p}
+EN: No, it's not just about the lunches.{p}
+
+## MGE03 g0 s0110
+JP: 料理はね……、{n}ちょっとムキになってたトコロも{n}あるんだ……。{p}
+EN: With cooking... part of me was kind of out to prove something...{p}
+
+## MGE03 g0 s0111
+JP: アタシはこんなに女の子っぽい{n}コトもできるのよ!……って。{p}
+EN: Like, "See? I can do girly stuff too!"{p}
+
+## MGE03 g0 s0112
+JP: でも……{v6:4}は……、{n}料理だけじゃなくて、アタシ自身も{n}女の子として接してくれた……。{p}
+EN: But you, {v6:4}... treated me like a girl. Not just my cooking, but me...{p}
+
+## MGE03 g0 s0113
+JP: 夏……。{n}俺は夏の、そういうところも{n}みんな込みで好きなだけさ。{p}{end}
+EN: Natsu... I just like everything about you, that part included.{p}{end}
+
+## MGE03 g0 s0114
+JP: バレーがうまいところも、{n}男勝りなところも、{n}料理が上手なところも……、{n}みんな、夏のいいところだろ?{p}
+EN: Being great at volleyball, being tougher than the boys, being a great cook... That's all what's great about you, right?{p}
+
+## MGE03 g0 s0115
+JP: {v6:4}……ありがとう。{p}{end}
+EN: {v6:4}... Thank you.{p}{end}
+
+## MGE03 g0 s0116
+JP: これからも、{n}いっしょにいてくれる?{p}{end}
+EN: Will you stay with me from now on too?{p}{end}
+
+## MGE03 g0 s0117
+JP: もちろんだよ。{n}これからも、夏の側に、いる。{p}{end}
+EN: Of course. From now on, I'll be right by your side, Natsu.{p}{end}
+
+## MGE03 g0 s0118
+JP: ……{v6:4}……。{p}
+EN: ...{v6:4}...{p}
+
+## MGE03 g0 s0119
+JP: 終業式も終わった……。{n}部室棟をうろうろしてみたが、{n}特にめぼしい人には会えなかった。{p}
+EN: The ceremony's over... I wandered around the clubhouse, but didn't run into anyone in particular.{p}
+
+## MGE03 g0 s0120
+JP: そこで、グラウンドに来てみたのだが……、{n}思った通りいた。{n}あれは……、{n}ロベルトだ。{p}
+EN: So I came out to the field... and, just as I thought, there he was. That's... Roberto.{p}
+
+## MGE03 g0 s0121
+JP: 爆裂!!{sp}Vゴーーール!!{p}
+EN: Explosive!! Victory Goooal!!{p}
+
+## MGE03 g0 s0122
+JP: ……ガィン!!{n}ポーーーン、ポン、ポンポン……{p}
+EN: ...KLANG!! Bonnng, bong, bong bong...{p}
+
+## MGE03 g0 s0123
+JP: （ポストにぶつかったボールが、{n}{sp}足下にころがってきた……）{p}{end}
+EN: (The ball bounced off the post and rolled to my feet...){p}{end}
+
+## MGE03 g0 s0124
+JP: {v3:5}……、来てたのか。{p}
+EN: {v3:5}... So you came.{p}
+
+## MGE03 g0 s0125
+JP: ああ……ロベルト、{n}一人で練習してたのか?{p}
+EN: Yeah... Roberto, were you practicing alone?{p}
+
+## MGE03 g0 s0126
+JP: 今日は終業式だろ?{n}お前も他に用事があると思ってな……。{p}{end}
+EN: Today's the closing ceremony, right? I figured you'd have other plans...{p}{end}
+
+## MGE03 g0 s0127
+JP: それに、クラブの他の連中も、{n}今日は帰ってしまったし……。{p}
+EN: Besides, the rest of the club went home today...{p}
+
+## MGE03 g0 s0128
+JP: ロベルト……、そういう時こそ、{n}俺を頼ってくれよ。{n}前に言ったのはそういうことだぜ?{p}{end}
+EN: Roberto... Times like this are exactly when you should count on me. That's what I meant before, remember?{p}{end}
+
+## MGE03 g0 s0129
+JP: それに……俺に用があるとしたら、{n}お前に会うことくらいさ。{p}
+EN: Besides... if I've got any plans at all, it's seeing you.{p}
+
+## MGE03 g0 s0130
+JP: {v3:5}……。{p}
+EN: {v3:5}...{p}
+
+## MGE03 g0 s0131
+JP: 第一、お前が教室なり、{n}部室棟なりで待ってないから、{n}探すのに、よけいな時間が{n}かかったじゃないか。{p}{end}
+EN: And anyway, you weren't waiting in the classroom or the clubhouse, so I wasted a bunch of time looking for you.{p}{end}
+
+## MGE03 g0 s0132
+JP: ……それはすまなかったな。{p}
+EN: ...Sorry about that.{p}
+
+## MGE03 g0 s0133
+JP: まったくだ。{n}さ、とっとと練習しようぜ。{n}今やってたのは、シュート練習か。{n}じゃ、次はセービング練習だな。{p}
+EN: I'll say. Come on, let's get practicing. You were doing shooting drills, huh? Then next up is saves.{p}
+
+## MGE03 g0 s0134
+JP: {v3:5}……すまない。{p}
+EN: {v3:5}... I owe you.{p}
+
+## MGE03 g0 s0136
+JP: ……ふぅ……、一休みするか。{n}今日は終業式のあとから、{n}ずっとやってるのか?{p}{end}
+EN: ...Phew... Let's take a break. Have you been at it nonstop since the ceremony?{p}{end}
+
+## MGE03 g0 s0137
+JP: ああ……あの後すぐだな、{n}はじめたのは。{p}{end}
+EN: Yeah... I started right after.{p}{end}
+
+## MGE03 g0 s0138
+JP: あいかわらず、がんばるな。{n}ロベルト。{p}
+EN: Working hard as always, huh, Roberto.{p}
+
+## MGE03 g0 s0139
+JP: ああ……、俺には時間がないからな。{n}……2002年はもう目の前だ。{n}世界が俺を待っている。{p}
+EN: Yeah... I don't have time to waste. ...2002 is right around the corner. The world is waiting for me.{p}
+
+## MGE03 g0 s0140
+JP: ロベルト……がんばれよ。{n}サッカーの世界は広いからな。{n}全日本の先にも、一流のリーグが{n}世界中にある。{p}
+EN: Roberto... Go for it. The soccer world is huge. Beyond the All-Japan team, there are top leagues all over the world.{p}
+
+## MGE03 g0 s0141
+JP: 俺には、そこまでつきあって{n}やることはできないが……。{p}
+EN: I can't follow you all that way, though...{p}
+
+## MGE03 g0 s0142
+JP: 何をいっている、{n}お前がいなければ俺は……!{p}{end}
+EN: What are you saying? Without you, I'd...!{p}{end}
+
+## MGE03 g0 s0143
+JP: ロベルト……。{p}
+EN: Roberto...{p}
+
+## MGE03 g0 s0144
+JP: {v3:5}……{n}お前には感謝している。{n}俺達はまだ高校一年だ……。{n}まだまだ先は長い……。{p}{end}
+EN: {v3:5}... I'm grateful to you. We're only first-years. We've still got a long way to go...{p}{end}
+
+## MGE03 g0 s0145
+JP: お前がいっしょにいれば……{n}俺は、どこまでもがんばれるさ。{p}
+EN: As long as you're with me... I can keep pushing as far as it takes.{p}
+
+## MGE03 g0 s0146
+JP: これからも、そばにいてくれるか?{n}{v3:5}。{p}{end}
+EN: Will you stay by my side from now on too, {v3:5}?{p}{end}
+
+## MGE03 g0 s0147
+JP: もちろんだよ、ロベルト。{n}俺の力が必要なら、いつでも使ってくれ。{p}{end}
+EN: Of course, Roberto. If you ever need my help, it's yours.{p}{end}
+
+## MGE03 g0 s0148
+JP: ありがとう……、{n}{v3:5}。{p}{end}
+EN: Thank you... {v3:5}.{p}{end}
+
+## MGE03 g0 s0149
+JP: {v3:6}、{n}ちょっと付き合ってくれないか?{p}
+EN: {v3:6}, got a minute? Come with me.{p}
+
+## MGE03 g0 s0151
+JP: 終業式も終ったな……。{p}
+EN: So the closing ceremony's over...{p}
+
+## MGE03 g0 s0152
+JP: そうだね……。{n}この1年は、{n}ホントに、あっという間だったよ……。{p}
+EN: Yeah... This year really flew by...{p}
+
+## MGE03 g0 s0153
+JP: 実は、この間……、{n}父さんから、チケットが届いたんだ。{n}アメリカ行きのね。{p}
+EN: Actually, the other day... my dad sent me a ticket. To America.{p}
+
+## MGE03 g0 s0154
+JP: そ、それって、ロイに{n}アメリカに帰ってこいってこと!?{p}
+EN: Wh-what, so he wants you to come back to America, Roy!?{p}
+
+## MGE03 g0 s0155
+JP: あぁ、そうだ。{n}この予定でいくと、{n}数日中に日本を離れることになるよ。{p}
+EN: Yeah, that's right. If I stick to this schedule, I'll be leaving Japan in a few days.{p}
+
+## MGE03 g0 s0156
+JP: もう、2度と{n}ここに帰ってくることはないだろう……。{p}{end}
+EN: I probably won't ever come back here again...{p}{end}
+
+## MGE03 g0 s0157
+JP: なぁ、{v3:6}はどう思う?{n}父さんにしたがってアメリカに帰るか、{n}それとも、ここに残るか……。{p}
+EN: Hey, {v3:6}, what do you think? Should I do what Dad says and go back to America, or stay here...{p}
+
+## MGE03 g0 s0158
+JP: このチケットをどうするかで、{n}すべてが決まるんだ……。{p}
+EN: Everything comes down to what I do with this ticket...{p}
+
+## MGE03 g0 s0160
+JP: どんな事情があるのかは、{n}俺にはわからないけど……。{p}{end}
+EN: I don't know what's going on with your family, but...{p}{end}
+
+## MGE03 g0 s0161
+JP: 俺…………。{p}{end}
+EN: I......{p}{end}
+
+## MGE03 g0 s0162
+JP: ロイと離ればなれになるのはイヤだよ!{n}せっかく、友達になれたんじゃないか!{p}
+EN: I don't want us to be apart, Roy! We finally became friends!{p}
+
+## MGE03 g0 s0163
+JP: そんな……、チケット……{p}{end}
+EN: So... that ticket...{p}{end}
+
+## MGE03 g0 s0164
+JP: 破ってしまえよッ!!{p}{end}
+EN: Tear it up!!{p}{end}
+
+## MGE03 g0 s0165
+JP: OK!!{p}{end}
+EN: OK!!{p}{end}
+
+## MGE03 g0 s0166
+JP: （バリバリバリッ!!）{p}
+EN: (Riiiip!!){p}
+
+## MGE03 g0 s0167
+JP: そぉら!{n}飛んでいけッ!!{p}
+EN: There! Fly away!!{p}
+
+## MGE03 g0 s0168
+JP: ありがとう!{sp}{v3:6}!{n}ボクはその言葉が聞きたかったんだ。{p}{end}
+EN: Thanks, {v3:6}! That's exactly what I wanted to hear.{p}{end}
+
+## MGE03 g0 s0169
+JP: 本当は、もうどうするか決めていたよ。{n}キミのいる、この日本に残るってね。{p}{end}
+EN: Truth is, I'd already made up my mind. I'm staying here in Japan, where you are.{p}{end}
+
+## MGE03 g0 s0170
+JP: でも、キミの気持ちを確かめたかったんだ。{n}ハッキリとキミの口からね!{p}{end}
+EN: But I wanted to know how you felt. Straight from your own mouth!{p}{end}
+
+## MGE03 g0 s0171
+JP: ロ、ロイ……!{n}ヒドイぞ、試すみたいなことして!{p}{end}
+EN: R-Roy...! That's low, testing me like that!{p}{end}
+
+## MGE03 g0 s0172
+JP: ハハハ……。{n}でも、これでオアイコだ。{n}ボクに、ここまでいわせたんだからな。{p}{end}
+EN: Hahaha... But now we're even. You got me to say all that, after all.{p}{end}
+
+## MGE03 g0 s0173
+JP: これからは……、{n}ずっと一緒だぜ……。{p}
+EN: From now on... we're together for good...{p}
+
+## MGE03 g0 s0174
+JP: 終業式も終わったし、{n}ちょっと屋上でのんびりしていくか……。{p}{end}
+EN: The ceremony's over, so maybe I'll kick back on the roof for a bit...{p}{end}
+
+## MGE03 g0 s0175
+JP: ここに入学してから、{n}もう1年がたつのか……。{n}早かったなぁ。{n}いろんなコトがあったけど……。{p}
+EN: It's already been a year since I started here... That went fast. A lot happened, but...{p}
+
+## MGE03 g0 s0176
+JP: 「{v3:7}～～～!」{p}{end}
+EN: "{v3:7}~~~!"{p}{end}
+
+## MGE03 g0 s0177
+JP: やぁ、ティファニー。{n}俺をさがしてたの?{p}{end}
+EN: Hey, Tiffany. Were you looking for me?{p}{end}
+
+## MGE03 g0 s0178
+JP: そうで～す。{n}ね、{v3:7}、{n}ミーといっしょに{n}ステイツに帰りませんか?{p}{end}
+EN: Yes, I waaas. Hey, {v3:7}, won't you go back to the States with me?{p}{end}
+
+## MGE03 g0 s0179
+JP: え?{sp}アメリカに?{p}
+EN: Huh? To America?{p}
+
+## MGE03 g0 s0180
+JP: （……「帰る」ってコトは……{n}{sp}ティファニーがアメリカに、{n}{sp}帰っちゃうってことか……?）{p}
+EN: (..."Go back"... So Tiffany's going back to America...?){p}
+
+## MGE03 g0 s0181
+JP: ……どうしたの?{n}急にアメリカに帰るなんて……。{p}{end}
+EN: ...What's wrong? Why go back to America all of a sudden...?{p}{end}
+
+## MGE03 g0 s0182
+JP: ミーのパパから電話があったね!{n}ステイツに帰ってこいって……。{p}
+EN: My papa called! He told me to come back to the States...{p}
+
+## MGE03 g0 s0183
+JP: （お父さんが……{n}{sp}じゃ、やっぱり留学をやめて、{n}{sp}戻ってこいってコトなのか……）{p}
+EN: (Her dad... So he wants her to quit studying abroad and come home...){p}
+
+## MGE03 g0 s0184
+JP: （それに、いっしょに帰ろうって{n}{sp}コトは……やっぱり……!!）{p}
+EN: (And if she wants me to go with her... that must mean...!!){p}
+
+## MGE03 g0 s0185
+JP: わかったよ。いっしょに行こう。{n}でもその前に、市民権をとらないとな……{n}結婚すればとれるらしいけど、{n}ホラ、俺たちまだ学生だし……。{p}{end}
+EN: OK, I get it. Let's go together. But first I'd need citizenship... I hear you can get it if you marry, but, y'know, we're still students...{p}{end}
+
+## MGE03 g0 s0186
+JP: ハ?{sp}何の話ですカ?{n}1週間ほどアメリカに帰るから、{n}ミーといっしょにどうですカ?{n}って話ですヨ?{p}
+EN: Huh? What are you talking about? I'm going home to America for about a week, so I asked if you'd like to come, see?{p}
+
+## MGE03 g0 s0187
+JP: 春はいい季節ですからネ!{n}パパが庭のサクラを{n}見に帰ってこいって。{n}ミーの家のサクラはキレイですよ!{p}{end}
+EN: Spring is a lovely season! Papa told me to come see the cherry blossoms in our garden. The ones at my house are beautiful!{p}{end}
+
+## MGE03 g0 s0188
+JP: ……え?{n}アメリカに帰るって……{n}帰っちゃうんじゃないの?{p}
+EN: ...Huh? Going back to America... So you're not leaving for good?{p}
+
+## MGE03 g0 s0189
+JP: ナニいってるデスか、{n}ミーは、ユーのいる、{n}この国を離れたくはないでーす。{p}
+EN: What are you saying? I don't want to leave this country. You are here.{p}
+
+## MGE03 g0 s0190
+JP: なんだ、てっきり{n}アメリカでいっしょに暮らそうって{n}ことかと思ったよ……。{p}
+EN: Geez, I was sure you meant living together in America...{p}
+
+## MGE03 g0 s0191
+JP: え……{col:5}♥{col:-}{n}ふふっ、{n}ミーはそれでもOKですよ!{p}
+EN: Oh...{col:5}♥{col:-} Hehe, that would be OK with me too!{p}
+
+## MGE03 g0 s0192
+JP: {v3:7}……、{n}ホントに、いっしょにステイツで{n}暮らそうって、いっても……、{n}ついてきてくれますカ?{p}{end}
+EN: {v3:7}... If I really did ask you to live with me in the States... would you come with me?{p}{end}
+
+## MGE03 g0 s0193
+JP: ……そうだな。{n}たしかに日本を離れるのはイヤだけど……、{n}今は……それ以上に、{n}ティファニーといっしょにいたいよ。{p}
+EN: ...Yeah. I'd hate to leave Japan, sure... but right now, I want to be with you even more, Tiffany.{p}
+
+## MGE03 g0 s0194
+JP: ふふっ、{v3:7}ったら……。{n}ミーも、{v3:7}と{n}ずっといっしょにいたいネ!{n}これからも、ずっといっしょヨ{col:5}♥{col:-}{p}{end}
+EN: Hehe, oh, {v3:7}... I want to be with {v3:7} forever too! We'll always be together{col:5}♥{col:-}{p}{end}
+
+## MGE03 g0 s0195
+JP: そうだな、ティファニー。{p}{end}
+EN: You bet, Tiffany.{p}{end}
+
+## MGE03 g0 s0196
+JP: それじゃ、さっそく旅行の計画、{n}立てるですヨ!{n}ユーは、パスポートもってマスか?{p}{end}
+EN: Then let's plan our trip right away! Do you have a passport?{p}{end}
+
+## MGE03 g0 s0197
+JP: え?{sp}パスポート……?{n}そういえば、もってないや。{p}
+EN: Huh? A passport...? Come to think of it, I don't have one.{p}
+
+## MGE03 g0 s0198
+JP: パスポート、ないですか?{n}急いで用意しないと、{n}間に合わないね!{p}{end}
+EN: No passport? If we don't hurry and get one, we won't make it in time!{p}{end}
+
+## MGE03 g0 s0199
+JP: そうなの?{n}こまったな……。{p}{end}
+EN: Really? That's a problem...{p}{end}
+
+## MGE03 g0 s0200
+JP: もう……パスポートもなしで、{n}ミーとステイツで住むつもりだったカ?{n}ふふっ、{v3:7}らしいネ!{p}
+EN: Geez... You were going to live in the States with me without a passport? Hehe, that's so you, {v3:7}!{p}
+
+## MGE03 g0 s0201
+JP: 終業式も終わったし、{n}そろそろ帰らないとな……。{p}{end}
+EN: The ceremony's over... Guess I should head home...{p}{end}
+
+## MGE03 g0 s0202
+JP: 帰る前に……ボーマンに{n}会いたかったけど……いないみたいだ。{n}しかたない、一人で帰ろう。{p}{end}
+EN: I wanted to see Boman before going home... but he doesn't seem to be around. Oh well, I'll go home alone.{p}{end}
+
+## MGE03 g0 s0203
+JP: おお、{v4:8}。{n}こんなトコロで会えるとは、{n}まさに神のお導きですね。{p}
+EN: Oh, {v4:8}. To meet you in a place like this... Surely God has guided us.{p}
+
+## MGE03 g0 s0204
+JP: ボーマン!{n}探してたのに、こんなトコロに{n}いたのか。{p}{end}
+EN: Boman! I was looking all over for you, and here you were?{p}{end}
+
+## MGE03 g0 s0205
+JP: ええ、募金活動をしていたのです。{p}{end}
+EN: Yes, I was collecting donations.{p}{end}
+
+## MGE03 g0 s0206
+JP: ははは、終業式の日でも、{n}関係なしだな、ボーマンは。{p}{end}
+EN: Haha, closing ceremony or not, it makes no difference to you, huh, Boman.{p}{end}
+
+## MGE03 g0 s0207
+JP: ええ。{n}これは私の日課ですから。{p}{end}
+EN: Indeed. It is part of my daily routine.{p}{end}
+
+## MGE03 g0 s0208
+JP: どうです、少し募金活動を{n}手伝ってもらえませんか?{p}
+EN: What do you say? Would you help me collect donations for a while?{p}
+
+## MGE03 g0 s0209
+JP: 募金活動かよ……?{n}…………ウソウソ、{n}いいよ、ボーマンの頼みだからな、{n}断りゃしないよ。{p}
+EN: Collecting donations...? ......Kidding, kidding. Sure, it's you asking, Boman, so I won't say no.{p}
+
+## MGE03 g0 s0210
+JP: ふふっ、{v4:8}なら、{n}そういってくれると思いましたよ。{p}{end}
+EN: Hehe, I knew you would say that, {v4:8}.{p}{end}
+
+## MGE03 g0 s0212
+JP: {v4:8}……、{n}募金活動は楽しいですか?{p}{end}
+EN: {v4:8}... Do you enjoy collecting donations?{p}{end}
+
+## MGE03 g0 s0213
+JP: う～ん、どうかな。{n}ロコツにイヤな顔する人もいるし……。{p}{end}
+EN: Hmm, I dunno. Some people make faces right at you...{p}{end}
+
+## MGE03 g0 s0214
+JP: そうですか……。{n}本当は、{v4:8}にも{n}募金活動のやりがいを{n}肌で感じて欲しいのですが……、{p}{end}
+EN: I see... I truly wish you could feel for yourself how rewarding it is, {v4:8}...{p}{end}
+
+## MGE03 g0 s0215
+JP: ムリヤリつき合わせている者の{n}いうことじゃありませんね……。{p}{end}
+EN: but that is not something the one dragging you along should say...{p}{end}
+
+## MGE03 g0 s0216
+JP: ……ボーマン、俺は別に{n}ムリヤリつき合わされてる{n}ワケじゃないぜ。{p}
+EN: ...Boman, it's not like you're dragging me along against my will.{p}
+
+## MGE03 g0 s0217
+JP: 募金活動のやりがいくらい知ってるさ。{n}この募金で、{n}「ひとりでも多くの人に幸せを」{n}ってことだろ?{p}
+EN: I know what makes it worth it. It's about bringing "happiness to as many people as possible" with the money, right?{p}
+
+## MGE03 g0 s0218
+JP: えぇ、そうですとも。{p}{end}
+EN: Yes, exactly so.{p}{end}
+
+## MGE03 g0 s0219
+JP: ふふっ、それならOKだ。{n}ほら!{sp}俺の募金活動で、{n}こんないい笑顔が一つできただろ?{p}{end}
+EN: Heh, then we're fine. See! My fundraising just made one great smile, right?{p}{end}
+
+## MGE03 g0 s0220
+JP: わ、私のことですか……?{n}{v4:8}……。{p}{end}
+EN: Y-you mean me...? {v4:8}...{p}{end}
+
+## MGE03 g0 s0221
+JP: ふふっ、一人で募金活動を{n}している時のボーマンって、{n}ひどく難しい顔をしてたぜ。{p}{end}
+EN: Heh, when you collect donations alone, Boman, you always look so serious.{p}{end}
+
+## MGE03 g0 s0222
+JP: 今は……いい笑顔をしている。{n}それでいいじゃないか……。{p}{end}
+EN: Right now... you've got a nice smile. Isn't that good enough...?{p}{end}
+
+## MGE03 g0 s0223
+JP: ……そうですね。{n}私は少し、難しく{n}考えすぎなのかもしれない。{p}
+EN: ...Yes, you are right. Perhaps I think about things a little too seriously.{p}
+
+## MGE03 g0 s0224
+JP: 君といると楽しい、{n}君と募金をしていると、心が弾む。{n}今は……その気持ちを大事にしましょう。{p}{end}
+EN: Being with you is fun. Collecting donations with you lifts my heart. For now... let us cherish that feeling.{p}{end}
+
+## MGE03 g0 s0225
+JP: ……ボーマン……。{p}
+EN: ...Boman...{p}
+
+## MGE03 g0 s0226
+JP: {v4:8}……{n}君に会えたことを、神に感謝します。{p}{end}
+EN: {v4:8}... I thank God that I met you.{p}{end}
+
+## MGE03 g0 s0227
+JP: ……俺もさ、ボーマン……。{p}
+EN: ...Same here, Boman...{p}
+
+## MGE03 g0 s0228
+JP: 終業式の後に、河原で待つだなんて{n}エッジのヤツどうしたんだ?{n}わざわざ河原に呼び出すってことは……{n}やっぱり大事な話なのかな?{p}
+EN: Edge said to wait at the riverbank after the ceremony. What's up with him? If he's calling me out there, it must be something important...{p}
+
+## MGE03 g0 s0229
+JP: お、あそこだ。{n}ん?{sp}あの格好は……{n}ひょっとして特攻服か?{p}{end}
+EN: Oh, there he is. Hm? That outfit... Is that a biker gang uniform?{p}{end}
+
+## MGE03 g0 s0230
+JP: 待ってたぜ、{v3:9}!{n}遅かったじゃねぇか。{p}{end}
+EN: Been waitin', {v3:9}! Took ya long enough.{p}{end}
+
+## MGE03 g0 s0231
+JP: 終業式に出てたんだけど……。{n}で、エッジ、そんなカッコウして、{n}俺に何の用なんだ?{p}
+EN: I was at the closing ceremony... So, Edge, what's with the getup? What do you want with me?{p}
+
+## MGE03 g0 s0232
+JP: へへへ、お前がこの1年で{n}どこまで成長したかみてやるぜ!{n}来い!{sp}勝負だ!!{p}{end}
+EN: Heh heh heh, I'm gonna see how much you've grown this year! C'mon! Fight me!!{p}{end}
+
+## MGE03 g0 s0233
+JP: ええっ!?{sp}エッジ、{n}どうしたんだよ、急に。{p}{end}
+EN: Whoa!? Edge, what's gotten into you all of a sudden?{p}{end}
+
+## MGE03 g0 s0234
+JP: お前とはよ、一度本気で{n}勝負しないといけねぇと{n}思ってたんだ。{p}
+EN: I always figured you and me gotta have a real fight at least once.{p}
+
+## MGE03 g0 s0235
+JP: 安心しな、ナイフは使わねぇ。{n}あくまで拳と拳の勝負だ。{p}
+EN: Relax, I ain't usin' my knife. Just fists against fists.{p}
+
+## MGE03 g0 s0236
+JP: そりゃそうだろう……って{n}オイ、なんなんだいったい!?{p}
+EN: Well, obviously... Hey, wait, what's this all about!?{p}
+
+## MGE03 g0 s0237
+JP: ゴチャゴチャいってんじゃねぇぜ!{n}いくぞ!!{n}うりゃーーーっ!{p}
+EN: Quit yappin'! Here I come!! Raaaaah!{p}
+
+## MGE03 g0 s0238
+JP: {face:15}・・・・・・・・・・{face:255}{n}……バキッ!……ドカッ!……{n}{face:15}・・・・・・・・・・{face:255}{p}{end}
+EN: {face:15}..........{face:255} ...WHAM! ...THUD!... {face:15}..........{face:255}{p}{end}
+
+## MGE03 g0 s0239
+JP: ……ゼェ……ゼェ……{n}また決着がつかなかったな……。{p}{end}
+EN: ...Huff... huff... No winner again, huh...{p}{end}
+
+## MGE03 g0 s0240
+JP: ……ハァ……ハァ……終業式あとに、{n}河原で……なんていうから、{n}俺はもっとこう……ハァ……ハァ……{n}楽しい話題を期待してたのに……。{p}{end}
+EN: ...Pant... pant... You said the riverbank after the ceremony, so I was expecting... pant... something more fun...{p}{end}
+
+## MGE03 g0 s0241
+JP: なんで……エッジと本気で{n}やりあわなきゃいけないんだ……?{p}
+EN: Why... do I have to go all out against you, Edge...?{p}
+
+## MGE03 g0 s0242
+JP: 今の勝負でわかったぜ……。{n}{v3:9}……オマエ……、{n}オレのパートナーになってくれないか?{p}
+EN: That fight told me all I need to know... {v3:9}... Will ya be my partner?{p}
+
+## MGE03 g0 s0243
+JP: パートナー?{n}どうしたんだ、急に?{p}
+EN: Partner? Where's this coming from?{p}
+
+## MGE03 g0 s0244
+JP: オレにはパートナーが必要なんだ。{n}ゲド高には仲間も多いが、{n}奴らとオマエは違う……。{p}{end}
+EN: I need a partner. I got plenty of buddies at Gedo, but you ain't like them...{p}{end}
+
+## MGE03 g0 s0245
+JP: 岩はあの通り、単細胞だし{n}アキラは……アキラには{n}総番長がいる……。{p}{end}
+EN: Gan's, well, a meathead, and Akira... Akira's got the top boss...{p}{end}
+
+## MGE03 g0 s0246
+JP: 今日やり合ってみて確信した。{n}やっぱりオレのパートナーは{n}オマエしかいねぇ。{n}オレの背中を守れるのは、な。{p}
+EN: Fightin' you today made me sure. My partner's gotta be you. You're the only one who can watch my back.{p}
+
+## MGE03 g0 s0247
+JP: ははっ、聞いた風なことをいうな。{n}……でもな、エッジ……、{p}
+EN: Haha, listen to you, all wise. ...But y'know, Edge,{p}
+
+## MGE03 g0 s0248
+JP: 勝負なんてしなくても、俺には、{n}パートナーはお前しかいないって……、{n}わかってたぜ……。{p}{end}
+EN: even without a fight, I knew... my partner could only be you...{p}{end}
+
+## MGE03 g0 s0249
+JP: {v3:9}……。{n}すまねぇな、試すようなコトしちまって。{p}
+EN: {v3:9}... Sorry for testin' ya like that.{p}
+
+## MGE03 g0 s0250
+JP: いいんだ。{n}これであっさり負けるようなら、{n}俺もエッジのパートナーには{n}なれないからな。{p}{end}
+EN: It's fine. If I'd lost that easily, I couldn't be your partner anyway.{p}{end}
+
+## MGE03 g0 s0251
+JP: ……{v3:9}。{n}よし、行くか!{n}ここでボーッとしてても仕方ねぇ。{p}{end}
+EN: ...{v3:9}. Alright, let's go! No point standin' around here.{p}{end}
+
+## MGE03 g0 s0252
+JP: オレ達コンビなら、{n}こわいモンなんて何もねぇからナ!{p}{end}
+EN: With the two of us together, there ain't nothin' to be scared of!{p}{end}
+
+## MGE03 g0 s0253
+JP: そうとも、エッジ!!{p}{end}
+EN: You said it, Edge!!{p}{end}
+
+## MGE03 g0 s0254
+JP: ヒャハハ!{n}2年になっても暴れまくるぞ!{n}な、{v3:9}!!{p}
+EN: Hyah hah! We're gonna keep raisin' hell as second-years! Right, {v3:9}!!{p}
+
+## MGE03 g0 s0255
+JP: {v3:10}、{n}ここにいたのか。{p}{end}
+EN: {v3:10}. So you're here.{p}{end}
+
+## MGE03 g0 s0256
+JP: ん?{n}なんだ、アキラか。{n}どうかしたのか?{p}
+EN: Hm? Oh, it's you, Akira. What's up?{p}
+
+## MGE03 g0 s0257
+JP: 今日は、終業式だからな。{n}最後に、お前と話をしておこうと{n}思ってな。{p}{end}
+EN: Today's the closing ceremony. I wanted to talk to you one last time.{p}{end}
+
+## MGE03 g0 s0259
+JP: アキラ!?{n}もしかして……{p}
+EN: Akira!? Don't tell me...{p}
+
+## MGE03 g0 s0260
+JP: そう、その話よ……。{n}私、転校することに決めたわ……。{p}
+EN: Yes, it's about that... I've decided to transfer...{p}
+
+## MGE03 g0 s0261
+JP: 春からは、別の高校に行くことになるの。{n}だから、この学校であなたと会うのは、{n}今日が最後……。{p}
+EN: From spring, I'll be going to another high school. So today is the last time I'll see you at this school...{p}
+
+## MGE03 g0 s0262
+JP: そっか……。{n}ちょっと複雑な気分だな……。{p}
+EN: I see... I've got mixed feelings about this...{p}
+
+## MGE03 g0 s0263
+JP: アキラにとっては、{n}その方がいいのかもしれないから、{n}賛成なんだけど……、{n}やっぱり、さびしいな……。{p}
+EN: If it's better for you, Akira, then I'm all for it... but I'm still gonna miss you...{p}
+
+## MGE03 g0 s0264
+JP: なんていう学校に転校するんだ?{p}
+EN: What school are you transferring to?{p}
+
+## MGE03 g0 s0265
+JP: それは、まだいえないの……。{n}知ってたら、{v5:10}は{n}私に会いに来たりするでしょ?{p}
+EN: I can't tell you yet... If you knew, you'd come to see me, wouldn't you, {v5:10}?{p}
+
+## MGE03 g0 s0266
+JP: 当たり前じゃないか!{n}エッジや岩たちだって、{n}そうするハズだよ。{p}{end}
+EN: Of course I would! Edge and Gan and the others would too.{p}{end}
+
+## MGE03 g0 s0267
+JP: 私が転校するのは、{n}今の生活に疲れちゃったせいもあるけど、{n}もうひとつ理由があるの……。{p}{end}
+EN: I'm transferring partly because I'm tired of the life I'm living now, but there's one more reason...{p}{end}
+
+## MGE03 g0 s0268
+JP: 素顔のままの私のこと……。{p}
+EN: It's about me... the real me, without the helmet...{p}
+
+## MGE03 g0 s0269
+JP: メットをかぶってるときの私は、{n}なんでもいえるし、{n}男の子とケンカしたって負けない{n}自信があるわ……。{p}
+EN: With my helmet on, I can say anything, and I'm sure I wouldn't lose a fight even against a boy...{p}
+
+## MGE03 g0 s0270
+JP: でも、{n}素顔の私は、その反対でしょ……?{p}{end}
+EN: But without it, I'm the opposite, right...?{p}{end}
+
+## MGE03 g0 s0271
+JP: 顔を隠していないと、{n}胸を張って生きれないなんて、{n}おかしいと思ったの。{p}{end}
+EN: I thought it was wrong that I couldn't hold my head up unless I hid my face.{p}{end}
+
+## MGE03 g0 s0272
+JP: どんなことにもしばられず、{n}自分に素直に生きてる、{n}あなたを見てて……。{p}{end}
+EN: Watching you... living honestly, not tied down by anything...{p}{end}
+
+## MGE03 g0 s0274
+JP: だから、私、{n}別の高校に行って、{n}新しい私の生き方をはじめてみる。{p}
+EN: So I'm going to a different high school, to start living a new way.{p}
+
+## MGE03 g0 s0275
+JP: 私がみんなの前に{n}胸を張って出て来る日まで、{n}遠くで見守っていて欲しいの……。{p}
+EN: Until the day I can stand proudly in front of everyone, I want you to watch over me from afar...{p}
+
+## MGE03 g0 s0276
+JP: わかったよ、アキラ!{n}俺は、いつでも{n}アキラを応援しているよ!{p}
+EN: Got it, Akira! I'll always be rooting for you!{p}
+
+## MGE03 g0 s0277
+JP: ありがとう……、{n}{v5:10}……。{p}{end}
+EN: Thank you... {v5:10}...{p}{end}
+
+## MGE03 g0 s0278
+JP: もう一度、{n}あなたの前に立ったとき、{n}心にしまってある{n}大事なことばをいうわ……。{p}
+EN: When I stand in front of you again, I'll tell you the important words I've kept in my heart...{p}
+
+## MGE03 g0 s0279
+JP: 俺の気持ちはかわらないよ。{n}ずっとね……。{p}
+EN: My feelings won't change. Not ever...{p}
+
+## MGE03 g0 s0280
+JP: ありがとう……。{n}私、あなたにふさわしい女の子になって、{n}必ずあなたのもとへ{n}帰ってくるからね……。{p}{end}
+EN: Thank you... I'll become a girl worthy of you, and I'll come back to you. I promise...{p}{end}
+
+## MGE03 g0 s0281
+JP: 終業式も終わったし……、{n}そろそろ帰らないとな……。{p}{end}
+EN: The ceremony's over... Guess I should head home...{p}{end}
+
+## MGE03 g0 s0282
+JP: お、あの正門のトコロにいるのは、{n}岩だな……。{n}誰か待ってるのかな。{p}{end}
+EN: Oh, that's Gan at the main gate... Wonder if he's waiting for someone.{p}{end}
+
+## MGE03 g0 s0283
+JP: よぉ岩。{n}誰か待ってるのか?{p}{end}
+EN: Yo, Gan. Waiting for someone?{p}{end}
+
+## MGE03 g0 s0284
+JP: お、おお、{v3:11}ではないか。{n}いやいや、誰も待ってなどおらんわい。{n}一人で空を見ておっただけじゃ。{p}{end}
+EN: Wh-why, if it ain't {v3:11}. Nah, nah, I ain't waitin' for nobody. Just lookin' at the sky by my lonesome.{p}{end}
+
+## MGE03 g0 s0285
+JP: ふ～ん……、{n}で、俺はもう帰るけど、{n}岩はどうする?{n}まだしばらく空を見てるか?{p}{end}
+EN: Huh... Well, I'm heading home. What about you, Gan? Gonna keep looking at the sky a while?{p}{end}
+
+## MGE03 g0 s0286
+JP: 何をいうておる、{n}それでは待ったかいが……とと、{p}{end}
+EN: What're ya sayin'? Then all my waitin' would be for... whoops,{p}{end}
+
+## MGE03 g0 s0287
+JP: おぬし一人では、さみしいじゃろう。{n}ワシもいっしょに帰ってやろう。{p}
+EN: you'd be lonely all by yourself. I'll walk home with ya.{p}
+
+## MGE03 g0 s0288
+JP: さてと、なぁ岩、{n}腹減ったろ?{n}何か食っていこうぜ!{p}{end}
+EN: So, hey, Gan, you're hungry, right? Let's grab something to eat!{p}{end}
+
+## MGE03 g0 s0289
+JP: {v3:11}よ、おぬしワシがいつも{n}腹を減らしておると思っとるな?{p}
+EN: {v3:11}, you figure I'm always hungry, don't ya?{p}
+
+## MGE03 g0 s0290
+JP: ワシは食ってばかりの男ではないぞい。{n}それは失礼というものじゃ。{p}{end}
+EN: I ain't a fella who does nothin' but eat. That's downright rude, that is.{p}{end}
+
+## MGE03 g0 s0291
+JP: そうなのか……、{n}せっかくうまい店見つけたのに。{n}すまなかったな。{p}
+EN: Oh... I just found a great place, too. Sorry about that.{p}
+
+## MGE03 g0 s0292
+JP: ……うまい店?{p}
+EN: ...Great place?{p}
+
+## MGE03 g0 s0293
+JP: しかも食い放題でさ。{p}{end}
+EN: And it's all-you-can-eat.{p}{end}
+
+## MGE03 g0 s0294
+JP: ……く、食い放題じゃと?{p}{end}
+EN: ...A-all-you-can-eat, ya say?{p}{end}
+
+## MGE03 g0 s0295
+JP: 料理も豊富で、{n}寿司やラーメン、{n}天ぷらから焼き肉まで、{n}食いたい放題なんだけど。{p}
+EN: They've got tons of food, too. Sushi, ramen, tempura, even yakiniku, all you can eat.{p}
+
+## MGE03 g0 s0296
+JP: ……すすすすし!{sp}焼き肉!?{n}ワシは寿司なんぞ、いなり寿司しか{n}食ったことないぞい!!{p}
+EN: ...S-s-s-sushi! Yakiniku!? The only sushi I ever had is inari sushi!!{p}
+
+## MGE03 g0 s0297
+JP: 終業式だから、せっかくおごってやろうと{n}思ったのに……、{n}岩に行く気がないならしかたないな。{n}エッジ達を誘おう!{p}{end}
+EN: I was gonna treat you for the closing ceremony... but if you don't want to go, Gan, oh well. I'll ask Edge and the others!{p}{end}
+
+## MGE03 g0 s0298
+JP: ガッハッハ、{n}待て待て、男たるもの{n}せっかく友達が誘ってくれたのを{n}断るわけにはいかん。{p}{end}
+EN: Gahaha, hold on, hold on! A real man can't turn down a friend who went and invited him.{p}{end}
+
+## MGE03 g0 s0299
+JP: 腹は減ってないがしかたがない、{n}いっしょにいってやろうではないか。{n}ガッハッハ!{p}{end}
+EN: I ain't hungry, but can't be helped. I'll come along with ya. Gahaha!{p}{end}
+
+## MGE03 g0 s0300
+JP: さすが岩、{n}そうこなくっちゃ!{p}
+EN: That's Gan for you! That's the spirit!{p}
+
+## MGE03 g0 s0301
+JP: ガハハハハ、{n}おっと、よだれが……、{n}ガッハッハ。{p}
+EN: Gahahahaha, whoops, I'm droolin'... Gahaha.{p}
+
+## MGE03 g0 s0302
+JP: おぬしはええヤツじゃのう、{n}{v3:11}。{n}おぬしほどの男はそうはおらんわい。{p}
+EN: You're a good one, {v3:11}. Ain't many fellas like you around.{p}
+
+## MGE03 g0 s0303
+JP: ははっ、食いモンにつられたような{n}言い方だな、岩。{p}
+EN: Haha, sounds like the food's talking, Gan.{p}
+
+## MGE03 g0 s0304
+JP: ガッハッハ、{n}何をゆうておる、{n}ワシの本心じゃい。{p}
+EN: Gahaha, what're ya sayin'? I mean it from the heart.{p}
+
+## MGE03 g0 s0305
+JP: こうして、ワシのことを{n}理解してくれるのも、{n}オヌシだけじゃ、ガッハッハ!!{p}{end}
+EN: Ain't nobody but you who understands me like this, Gahaha!!{p}{end}
+
+## MGE03 g0 s0306
+JP: 岩……。{p}{end}
+EN: Gan...{p}{end}
+
+## MGE03 g0 s0307
+JP: ガッハッハ、{n}では行こうではないか、{n}その食い放題とやらに!{p}{end}
+EN: Gahaha, now let's get goin'! To this all-you-can-eat place!{p}{end}
+
+## MGE03 g0 s0308
+JP: {v0}{col:0}君{col:-}、{n}どうしたのかね?{n}こんなところで、ひとりでボーッとして。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, what's the matter? Spacing out here all by yourself?{p}{end}
+
+## MGE03 g0 s0309
+JP: あっ……、英雄先生……。{n}いえ、別に……。{p}
+EN: Oh... Hideo-sensei... No, nothing really...{p}
+
+## MGE03 g0 s0310
+JP: ただ、入学してから、{n}もう1年たったんだなぁと思いながら、{n}空を見てただけですよ。{p}
+EN: I was just looking at the sky, thinking it's already been a year since I started here.{p}
+
+## MGE03 g0 s0311
+JP: そうだねぇ。{n}本当に、1年なんて早いものだよ。{p}
+EN: Yes, indeed. A year really does go by quickly.{p}
+
+## MGE03 g0 s0312
+JP: 4月になったら、君たちは2年生だ……。{n}そして、君たちの後輩となる生徒が{n}入学してくる……。{p}{end}
+EN: In April, you'll all be second-years... And new students, your juniors, will enroll...{p}{end}
+
+## MGE03 g0 s0313
+JP: 毎年、{n}こうして、新しい生徒がやってくるが、{n}こんなに充実した年はないよ。{p}
+EN: New students come every year like this, but there has never been a year as fulfilling as this one.{p}
+
+## MGE03 g0 s0314
+JP: そう思えるのは、{n}君がいたからかもしれない。{p}{end}
+EN: Perhaps I feel that way because you were here.{p}{end}
+
+## MGE03 g0 s0315
+JP: 俺がいたから……、ですか?{p}
+EN: Because I was here...?{p}
+
+## MGE03 g0 s0316
+JP: あぁ、そうだよ!{n}君と過ごしたことで、{n}教師と生徒との絆というものを{n}強く感じることができた。{p}
+EN: Yes, that's right! Spending this year with you, I could truly feel the bond between teacher and student.{p}
+
+## MGE03 g0 s0317
+JP: それが、自信となって、{n}私は今まで以上に{n}頑張ることができたんだ。{p}
+EN: That gave me confidence, and I was able to work harder than ever before.{p}
+
+## MGE03 g0 s0318
+JP: 教師になって良かったと{n}改めて思えたのは、{n}君のおかげだよ……。{p}{end}
+EN: It's thanks to you that I could feel once again how glad I am I became a teacher...{p}{end}
+
+## MGE03 g0 s0320
+JP: 私は君たちの先を、{n}歩きすぎている……。{p}{end}
+EN: I am far ahead of you all on life's road...{p}{end}
+
+## MGE03 g0 s0321
+JP: だが、この2度と戻らない{n}君たちの高校生活を、{n}より豊かなものにする{n}支えにはなれると思う……。{p}{end}
+EN: But I believe I can help make your high school days, which will never come again, all the richer...{p}{end}
+
+## MGE03 g0 s0322
+JP: 一緒に頑張ろう!{n}悔いのない高校生活になるようにね!{n}君たちには未来があるのだから!{p}{end}
+EN: Let's do our best together! So your high school life has no regrets! You all have a future ahead of you!{p}{end}
+
+## MGE03 g0 s0323
+JP: ハイ!{p}
+EN: Yes, sir!{p}
+
+## MGE03 g0 s0324
+JP: うん、よい返事だ!{n}君のこれからが、楽しみだよ。{n}ハハハ……!{p}
+EN: Mm, a fine answer! I'm looking forward to what comes next for you. Ha ha ha...!{p}
+
+## MGE03 g0 s0325
+JP: {v1}{col:0}クン{col:-}!{p}{end}
+EN: {v1}{col:0}-kun{col:-}!{p}{end}
+
+## MGE03 g0 s0326
+JP: 響子先生……。{p}
+EN: Kyoko-sensei...{p}
+
+## MGE03 g0 s0327
+JP: 暖かくなってきたから、{n}こうしていると、いい気持ちよね。{n}明日から、春休みですもんね。{p}
+EN: It's getting warmer, so it feels nice out here, doesn't it? Spring break starts tomorrow, after all.{p}
+
+## MGE03 g0 s0328
+JP: でも、休みだからって、{n}不規則な生活をしてちゃダメよ。{n}ちゃんと勉強しておかないとね。{p}
+EN: But just because it's a break doesn't mean you can keep crazy hours. Make sure you study, OK?{p}
+
+## MGE03 g0 s0329
+JP: 響子先生……。{n}どうして、いつも{n}そうやって、子供扱いするんですか……?{p}{end}
+EN: Kyoko-sensei... Why do you always treat me like a kid...?{p}{end}
+
+## MGE03 g0 s0330
+JP: ちょっと前は、気にならなかったけど、{n}最近は、なんかイヤだな……。{p}
+EN: It didn't bother me before, but lately, I kind of hate it...{p}
+
+## MGE03 g0 s0331
+JP: {v1}{col:0}クン{col:-}……。{p}{end}
+EN: {v1}{col:0}-kun{col:-}...{p}{end}
+
+## MGE03 g0 s0332
+JP: 私は教師として、{n}あなたに接してきたつもりよ。{n}それは、他のみんなに対しても同じよ。{p}{end}
+EN: I've always tried to treat you the way a teacher should. Same as everyone else.{p}{end}
+
+## MGE03 g0 s0333
+JP: ほら、そうやって、{n}気を持たせるだけ持たせて、{n}肝心なところは教師ぶって{n}逃げるんだもん、ズルイよ……。{p}{end}
+EN: See, you always do that. You get my hopes up, and when it really matters, you hide behind being a teacher. That's not fair...{p}{end}
+
+## MGE03 g0 s0335
+JP: わかったわ……。{n}もう、個人的には、{n}{v1}{col:0}クン{col:-}に会わない。{p}{end}
+EN: All right... I won't see you privately anymore, {v1}{col:0}-kun{col:-}.{p}{end}
+
+## MGE03 g0 s0336
+JP: きょ、響子先生!{p}{end}
+EN: K-Kyoko-sensei!{p}{end}
+
+## MGE03 g0 s0337
+JP: でも、これだけは、{n}わかっておいて欲しいの。{n}私は、年下のあなたを、{n}からかってたわけじゃないわ。{p}
+EN: But I want you to understand one thing. I wasn't toying with you just because you're younger.{p}
+
+## MGE03 g0 s0338
+JP: あなたと、{n}いろんなところに行って、{n}本当に楽しかった。{p}{end}
+EN: Going all sorts of places with you was really fun.{p}{end}
+
+## MGE03 g0 s0339
+JP: 私が、あなたと同じ歳の女の子だったら、{n}誰に遠慮することもなく、{n}あなたといられて{n}どんなに幸せだろうって思ったわ。{p}{end}
+EN: I kept thinking, if only I were a girl your age, I could be with you without holding back for anyone. How happy that would be.{p}{end}
+
+## MGE03 g0 s0340
+JP: でも、こればっかりは、{n}どうしようもないことですものね……。{p}{end}
+EN: But this is just something that can't be helped...{p}{end}
+
+## MGE03 g0 s0341
+JP: 私のことは、忘れてちょうだい……。{n}さようなら……。{p}{end}
+EN: Please forget about me... Goodbye...{p}{end}
+
+## MGE03 g0 s0342
+JP: ま、待ってよ!{sp}響子先生!!{p}{end}
+EN: W-wait! Kyoko-sensei!!{p}{end}
+
+## MGE03 g0 s0343
+JP: ごめん……。{n}やっぱり、俺はまだ子供みたいだね。{p}{end}
+EN: I'm sorry... I guess I'm still just a kid.{p}{end}
+
+## MGE03 g0 s0344
+JP: 響子先生だってツライってこと、{n}わかってあげられなくってさ……。{p}{end}
+EN: I couldn't even see that this is hard for you too, Kyoko-sensei...{p}{end}
+
+## MGE03 g0 s0345
+JP: 何年先になるかわからないけど……、{n}きっと!{sp}きっと迎えに来るよ!{n}それまで、待っていてくれないかな……?{p}
+EN: I don't know how many years it'll take... but I'll come for you! I promise! Will you wait for me until then...?{p}
+
+## MGE03 g0 s0346
+JP: あ、ありがとう……。{n}あなたから、その言葉が{n}本当に聞けるなんて、思わなかった。{p}{end}
+EN: Th-thank you... I never thought I'd really hear those words from you.{p}{end}
+
+## MGE03 g0 s0347
+JP: でも、そうなると、{n}やっぱり、春休みには、{n}ちゃんと勉強してもらわないとね!{p}{end}
+EN: But in that case, you really will have to study over spring break!{p}{end}
+
+## MGE03 g0 s0349
+JP: しっかり勉強して、立派になって{n}くれないと、私を迎えにくるのが、{n}いつになるかわからないでしょ?{p}{end}
+EN: If you don't study hard and make something of yourself, who knows when you'll come for me?{p}{end}
+
+## MGE03 g0 s0350
+JP: なんだか、{n}うまくいいくるめられてるように{n}感じるなぁ……。{p}{end}
+EN: Somehow I feel like I just got talked into something...{p}{end}
+
+## MGE03 g0 s0351
+JP: フフフ……、文句いわないの!{n}気晴らししたいときは、{n}こっそり2人でデートしましょ!{p}{end}
+EN: Hee hee... No complaining! When you need a break, let's sneak off on a date, just the two of us!{p}{end}
+
+## MGE03 g0 s0352
+JP: 終業式も終わったし……、{n}ここにくれば、{n}あの人に、{n}会えるはず……。{p}
+EN: The ceremony's over... If I come here, I should be able to see him...{p}
+
+## MGE03 g0 s0353
+JP: ……雹さん……。{p}{end}
+EN: ...Hyo-san...{p}{end}
+
+## MGE03 g0 s0354
+JP: ……ここにくれば、雹さんに会えると{n}思っていました。{p}{end}
+EN: ...I thought I'd find you here, Hyo-san.{p}{end}
+
+## MGE03 g0 s0355
+JP: ふふふ、{n}待っていたぞ、{v0}。{n}お前ならここに来ると思っていた。{p}
+EN: Heh heh. I have been waiting, {v0}. I knew you would come here.{p}
+
+## MGE03 g0 s0356
+JP: 一年間、お前を見てきたが、{n}お前は、我が片腕にふさわしい男だ……。{p}
+EN: I have watched you for a year. You are a man worthy of being my right hand...{p}
+
+## MGE03 g0 s0357
+JP: わが力となって、私に仕えるがいい。{n}……ムン!!{p}{end}
+EN: Become my strength, and serve me. ...Hnnn!!{p}{end}
+
+## MGE03 g0 s0358
+JP: （雹さ……!{n}{sp}これは……洗脳術か……!?）{p}{end}
+EN: (Hyo-sa...! This is... his brainwashing...!?){p}{end}
+
+## MGE03 g0 s0359
+JP: （雹さんの心の暗黒が、{n}{sp}俺の心に広がっていく……しかし……）{p}
+EN: (The darkness in Hyo-san's heart is spreading through mine... But...){p}
+
+## MGE03 g0 s0361
+JP: …………!!?{n}な、なぜ効かぬ?{p}{end}
+EN: ......!!? Wh-why does it not work?{p}{end}
+
+## MGE03 g0 s0362
+JP: 雹さん……俺にはもう、{n}あなたの洗脳術は効きませんよ……。{p}
+EN: Hyo-san... Your brainwashing doesn't work on me anymore...{p}
+
+## MGE03 g0 s0363
+JP: 俺はあなたの心の暗黒をみてしまった……。{n}もはやあなたの心の暗黒に、{n}蝕まれることはないのです……。{n}……それに……、{p}
+EN: I've seen the darkness in your heart... It can't eat away at me anymore... ...And besides,{p}
+
+## MGE03 g0 s0364
+JP: 俺は……洗脳なんてしなくても、{n}あなたの味方です……雹さん。{p}{end}
+EN: I'm on your side, Hyo-san... I don't need to be brainwashed.{p}{end}
+
+## MGE03 g0 s0365
+JP: 雹さん……もっと人を信じてください……。{n}……少なくとも……俺だけでも……、{n}信じてください……。{p}
+EN: Hyo-san... Please trust people more... ...At least... trust me, if no one else...{p}
+
+## MGE03 g0 s0366
+JP: 信じるだと!?{n}人を信じるだと……。{p}{end}
+EN: Trust!? Trust people...?{p}{end}
+
+## MGE03 g0 s0367
+JP: そんなことは愚民のすることだ……、{n}エリートはただ支配すればいいのだ!{n}そんな信じるなど……!{p}
+EN: That is what the ignorant masses do... The elite need only rule! Trust is nothing but...!{p}
+
+## MGE03 g0 s0368
+JP: ううっ、頭が、頭が痛い……!{p}{end}
+EN: Ngh, my head... my head hurts...!{p}{end}
+
+## MGE03 g0 s0369
+JP: {face:1}雹さん!!{face:255}{p}
+EN: {face:1}Hyo-san!!{face:255}{p}
+
+## MGE03 g0 s0370
+JP: {face:1}ガバッ!{face:255}{p}{end}
+EN: {face:1}Grab!{face:255}{p}{end}
+
+## MGE03 g0 s0371
+JP: 大丈夫、大丈夫ですよ、{n}雹さん……。{n}あなたは……一人じゃありません。{p}
+EN: It's OK, it's OK, Hyo-san... You're... not alone.{p}
+
+## MGE03 g0 s0373
+JP: ううう……{v0}か……。{n}……お前の胸は暖かいな……。{p}
+EN: Ugh... {v0}, is it...? ...Your chest is warm...{p}
+
+## MGE03 g0 s0375
+JP: 私は大事なことを忘れていたのか……。{p}{end}
+EN: Had I forgotten something important...?{p}{end}
+
+## MGE03 g0 s0376
+JP: もういい、礼をいおう。{n}{v0}……、{n}無様なところを見せてしまったな。{p}
+EN: Enough. I shall thank you. {v0}... I have shown you a disgraceful side of me.{p}
+
+## MGE03 g0 s0377
+JP: 私はお前を信じていいか……?{n}{v0}……。{p}
+EN: May I trust you...? {v0}...{p}
+
+## MGE03 g0 s0378
+JP: もちろんです、{n}雹さん。{p}{end}
+EN: Of course, Hyo-san.{p}{end}
+
+## MGE03 g0 s0379
+JP: ふふっ、そうか……。{n}恭介がいっていたのは、{n}このことかもしれんな……。{n}ふむ……風が心地よい……。{p}{end}
+EN: Heh, I see... Perhaps this is what Kyosuke was talking about... Hm... The wind is pleasant...{p}{end}
+
+## MGE03 g0 s0380
+JP: よし、お前を信じよう。{n}私の右腕として、{n}これからも側にいてくれるか……?{p}
+EN: Very well, I will trust you. Will you stay by my side as my right hand from now on...?{p}
+
+## MGE03 g0 s0381
+JP: これからも……いっしょに。{n}どこへでも、お供します。{n}雹さん。{p}
+EN: From now on... together. I'll follow you anywhere, Hyo-san.{p}
+
+## MGE03 g0 s0382
+JP: たとえ、それが……世界征服であっても。{p}
+EN: Even if... it means conquering the world.{p}
+
+## MGE03 g0 s0383
+JP: そうか……。{n}では行こう!{n}この国に、真の秩序をもたらすために!{p}{end}
+EN: I see... Then let us go! To bring true order to this nation!{p}{end}
+
+## MGE03 g0 s0384
+JP: 我らの覇業は、{n}まさに始まったばかりだ……!!{n}フハハハハハハ!!{p}
+EN: Our great conquest has only just begun...!! Fwahahahahaha!!{p}
+
+## MGE03 g0 s0385
+JP: 終業式あとに、屋上に来いなんて、{n}隼人先生ったら……。{n}ふふっ、何の用だろ?{p}{end}
+EN: Hayato-sensei, telling me to come to the roof after the closing ceremony... Heh, wonder what he wants?{p}{end}
+
+## MGE03 g0 s0386
+JP: よぉ、来たな。{n}待ってたぜ、{v3:16}。{p}
+EN: Yo, ya came. Been waitin' for ya, {v3:16}.{p}
+
+## MGE03 g0 s0387
+JP: 隼人先生。{n}俺に何の用ですか?{p}
+EN: Hayato-sensei. What did you want with me?{p}
+
+## MGE03 g0 s0388
+JP: ふふふ、それはお前自身が{n}一番わかってるじゃねぇか?{n}自分の胸に聞いてみろ。{p}{end}
+EN: Heh heh heh, don'tcha know that better than anyone? Ask your own heart.{p}{end}
+
+## MGE03 g0 s0389
+JP: え!?{n}……ってことはやっぱり……?{p}{end}
+EN: Huh!? ...So that means... it really is...?{p}{end}
+
+## MGE03 g0 s0390
+JP: そうとも!!{n}一年生として、{n}最後の勝負ってヤツだ!{p}{end}
+EN: That's right!! One last showdown to close out your first year!{p}{end}
+
+## MGE03 g0 s0391
+JP: え?{sp}いやそうじゃなくて……、{n}もっとこう……、{p}{end}
+EN: Huh? No, that's not what I... I meant something more like...{p}{end}
+
+## MGE03 g0 s0392
+JP: 何だぁ!?{n}逃げるのか?{p}{end}
+EN: What!? You runnin' away?{p}{end}
+
+## MGE03 g0 s0393
+JP: ……そんな!{n}俺は隼人先生からは、{n}もう何があっても逃げませんよ!{p}
+EN: ...No way! I'm never running from you again, Hayato-sensei, no matter what!{p}
+
+## MGE03 g0 s0394
+JP: いい覚悟だ……!{n}そういう眼を待ってたぜ!!{n}……最後の勝負は、{n}拳と拳の勝負だ!{sp}来い!!{p}{end}
+EN: That's the spirit...! That's the look I've been waitin' for!! ...Our last showdown is fist against fist! Come on!!{p}{end}
+
+## MGE03 g0 s0395
+JP: はい!{sp}先生!!{n}うりゃーーーっ!!{p}{end}
+EN: Yes, sensei!! Hyaaaaah!!{p}{end}
+
+## MGE03 g0 s0397
+JP: フゥ……フゥ……{n}やるじゃねぇか……。{n}この俺を倒すとはよ。{p}{end}
+EN: Huff... huff... Not bad... Ya actually took me down.{p}{end}
+
+## MGE03 g0 s0398
+JP: ……ハァ……ハァ……{n}先生……これも、{n}先生のご指導のおかげです……。{p}
+EN: ...Huff... huff... Sensei... This is all thanks to your coaching...{p}
+
+## MGE03 g0 s0399
+JP: フフッ、うれしいこと{n}いってくれるじゃねぇか……!!{n}だがな、勝ったのはお前の実力よ。{n}もっと自信を持て!{p}
+EN: Heh, ya sure know how to make a guy happy...!! But ya won on your own strength. Have more confidence!{p}
+
+## MGE03 g0 s0400
+JP: ……先生……{n}俺、この勝負に勝ったら、{n}先生にいおうと思っていたことが{n}あるんです……。{p}{end}
+EN: ...Sensei... There's something I promised myself I'd tell you if I won this fight...{p}{end}
+
+## MGE03 g0 s0401
+JP: ……{v3:16}……!{p}
+EN: ...{v3:16}...!{p}
+
+## MGE03 g0 s0402
+JP: ……先生、俺は……!!{p}
+EN: ...Sensei, I...!!{p}
+
+## MGE03 g0 s0403
+JP: 待ちな!!{n}その続きは、お前が卒業するまで、{n}この俺があずかるぜ……!{p}
+EN: Hold it!! I'll hang on to the rest of that until you graduate...!{p}
+
+## MGE03 g0 s0404
+JP: 先生……そんな……。{n}……俺が、まだガキだからですか?{p}
+EN: Sensei... but... ...Is it because I'm still a kid?{p}
+
+## MGE03 g0 s0405
+JP: そんなことは関係ねぇ……。{n}男にはな……それが自分にとって{n}正しいことであっても、{n}待たなくちゃいけねぇ時もある……。{p}
+EN: That's got nothin' to do with it... Sometimes a man's gotta wait, even when it's the right thing for him...{p}
+
+## MGE03 g0 s0406
+JP: だがな……、{n}お前の気持ちは、{n}しっかりと受け取ったぜ!{p}{end}
+EN: But... I got your feelings, loud and clear!{p}{end}
+
+## MGE03 g0 s0407
+JP: これからも、{n}俺は何度でも勝負を受けるぜ!{n}お前も何度でもかかってこい!!{p}
+EN: From here on, I'll take ya on as many times as it takes! So come at me as many times as ya want!!{p}
+
+## MGE03 g0 s0408
+JP: はい……!{n}隼人先生!!{p}{end}
+EN: Yes...! Hayato-sensei!!{p}{end}
+
+## MGE03 g0 s0409
+JP: 来たか、{v4:17}……。{p}
+EN: So you came, {v4:17}...{p}
+
+## MGE03 g0 s0410
+JP: 醍醐先輩……!{n}もしかして、俺が来るのを{n}待っていたんですか?{p}
+EN: Daigo-senpai...! Were you waiting for me?{p}
+
+## MGE03 g0 s0411
+JP: あぁ……。{n}お前に話があるからな。{p}
+EN: Yeah... I've got something to say to you.{p}
+
+## MGE03 g0 s0412
+JP: だが、話の前に、{n}俺に、お前の拳で応えて欲しい。{p}{end}
+EN: But before we talk, I want you to answer me with your fists.{p}{end}
+
+## MGE03 g0 s0413
+JP: さぁ!{n}全力で、俺に打ち込んできてくれ!{p}{end}
+EN: Come on! Hit me with everything you've got!{p}{end}
+
+## MGE03 g0 s0414
+JP: だ、醍醐先輩……!?{p}{end}
+EN: D-Daigo-senpai...!?{p}{end}
+
+## MGE03 g0 s0415
+JP: どうした!{n}聞こえないのか!{p}{end}
+EN: What's wrong! Didn't you hear me!{p}{end}
+
+## MGE03 g0 s0416
+JP: お前の持てるすべてを、{n}この俺に打ち込んでこいッ!!{p}{end}
+EN: Throw everything you have at me!!{p}{end}
+
+## MGE03 g0 s0417
+JP: （醍醐先輩は真剣だ……。{n}{sp}やるしかないッ!）{p}
+EN: (Daigo-senpai's dead serious... I've got no choice!){p}
+
+## MGE03 g0 s0418
+JP: 押忍ッ!{p}{end}
+EN: Osu!{p}{end}
+
+## MGE03 g0 s0419
+JP: セイヤァァッ!!{p}{end}
+EN: Hyaaaah!!{p}{end}
+
+## MGE03 g0 s0420
+JP: （バキィッッッ!!!）{p}
+EN: (*Craaack!!!*){p}
+
+## MGE03 g0 s0421
+JP: ハッ!!{sp}だ、醍醐先輩ッ!!{n}なぜ防がなかったんですかッ!?{p}{end}
+EN: Ah!! D-Daigo-senpai!! Why didn't you block!?{p}{end}
+
+## MGE03 g0 s0422
+JP: いさぎよい、いい拳だ……。{p}
+EN: A clean fist. Nothing held back...{p}
+
+## MGE03 g0 s0423
+JP: {v4:17}……。{p}
+EN: {v4:17}...{p}
+
+## MGE03 g0 s0424
+JP: ……ハ、ハイ…………。{p}
+EN: ...Y-yes...{p}
+
+## MGE03 g0 s0425
+JP: 今までお前に教えたことを{n}覚えているか?{p}{end}
+EN: Do you remember everything I've taught you?{p}{end}
+
+## MGE03 g0 s0426
+JP: ハイ……、{n}昨日のことのように……。{p}{end}
+EN: Yes... like it was yesterday...{p}{end}
+
+## MGE03 g0 s0427
+JP: お前は{n}その仁義を貫くことができるか?{p}
+EN: Can you stay true to that code of honor?{p}
+
+## MGE03 g0 s0428
+JP: ハイ……、{n}教えの通りに……。{p}
+EN: Yes... just as you taught me...{p}
+
+## MGE03 g0 s0429
+JP: お前は、この拳を何に使う?{p}
+EN: What will you use these fists for?{p}
+
+## MGE03 g0 s0430
+JP: わかりません……。{n}ですが、守るべき仲間のためになら、{n}この拳を振るいます……。{p}{end}
+EN: I don't know... But I'll use them for any friend who needs protecting...{p}{end}
+
+## MGE03 g0 s0431
+JP: フフフ……。{n}もはや、お前に教えることは何もない。{p}
+EN: Heh heh heh... There's nothing left for me to teach you.{p}
+
+## MGE03 g0 s0432
+JP: お前に、総番長の座をゆずる。{p}{end}
+EN: I'm passing the top boss spot to you.{p}{end}
+
+## MGE03 g0 s0433
+JP: だ、醍醐先輩!?{n}どうして俺なんかに!?{p}{end}
+EN: D-Daigo-senpai!? Why someone like me!?{p}{end}
+
+## MGE03 g0 s0434
+JP: この1年をかけて、{n}俺は、俺の持てるすべてを{n}お前に教えてきたつもりだ。{p}{end}
+EN: This past year, I've tried to teach you everything I've got.{p}{end}
+
+## MGE03 g0 s0435
+JP: そして、お前は{n}俺の期待に十分応えてくれた。{p}{end}
+EN: And you lived up to everything I hoped for.{p}{end}
+
+## MGE03 g0 s0436
+JP: だから、お前に後を頼みたい。{n}受け取ってくれないか?{p}{end}
+EN: So I want to leave things to you. Will you accept?{p}{end}
+
+## MGE03 g0 s0438
+JP: わかりました、醍醐先輩。{n}総番長の座、お引き受けします!{p}{end}
+EN: Understood, Daigo-senpai. I accept the top boss spot!{p}{end}
+
+## MGE03 g0 s0439
+JP: 立派な後継者に、総番長の座を{n}譲ることができて、{n}俺は幸せだ……。{p}
+EN: Handing the top boss spot to a worthy successor... I'm a happy man...{p}
+
+## MGE03 g0 s0440
+JP: お前ならきっと、{n}俺を越える総番長になれる、{n}そう信じているぞ……。{p}{end}
+EN: You'll become a top boss who surpasses me. I believe that...{p}{end}
+
+## MGE03 g0 s0441
+JP: 終業式は終わった……。{n}さすがに、こんな時に{n}こんなトコロに来ても{n}誰もいないか……。{p}
+EN: The closing ceremony's over... Figures nobody'd be around a place like this at a time like this...{p}
+
+## MGE03 g0 s0442
+JP: なんだか淋しいな……。{p}
+EN: Kinda lonely...{p}
+
+## MGE03 g0 s0444
+JP: う、うわぁっ……!?{p}{end}
+EN: Wh-whoa...!?{p}{end}
+
+## MGE03 g0 s0446
+JP: な、なんだ流さんか……{n}どうしたんですか、こんな時間に。{p}{end}
+EN: Oh, it's just you, Nagare-san... What are you doing here at this hour?{p}{end}
+
+## MGE03 g0 s0447
+JP: …………別に……。{p}
+EN: ......No reason...{p}
+
+## MGE03 g0 s0448
+JP: ふふっ、流さんらしい。{n}…………少し……、{n}お話ししてもいいですか?{p}{end}
+EN: Heh, that's so like you, Nagare-san. ......Mind if we... talk for a bit?{p}{end}
+
+## MGE03 g0 s0450
+JP: まだ3月だから、寒いでしょう。{n}上着、取ってきますよ。{p}
+EN: It's only March, you must be cold. I'll grab your jacket.{p}
+
+## MGE03 g0 s0452
+JP: ……そういえば、入学式の日に{n}初めてあったときも、{n}こんな感じでしたね。{p}{end}
+EN: ...Come to think of it, it was just like this the first time we met, on the day of the entrance ceremony.{p}{end}
+
+## MGE03 g0 s0453
+JP: …………ふふ……、{n}修一に聞いたぞ……。{n}{v4:18}が……{n}「ヘンな人」って言ってたってな……。{p}
+EN: ......Heh... Shuichi told me... {v4:18}... said I was "a weirdo"...{p}
+
+## MGE03 g0 s0454
+JP: え?{sp}いやアレはほら、{n}いきなりだったし、4月から人が{n}泳いでるとは思わなかったから……。{p}
+EN: Huh? N-no, that was, you know, it was out of nowhere, and I didn't think anyone would be swimming in April...{p}
+
+## MGE03 g0 s0455
+JP: …………ふふふ……。{n}今でも……そう思うか?{p}{end}
+EN: ......Heh heh... Do you... still think so?{p}{end}
+
+## MGE03 g0 s0456
+JP: え?{sp}今はだって……。{p}
+EN: Huh? Well, now...{p}
+
+## MGE03 g0 s0457
+JP: …………同じさ……。{n}3月だっていうのに……、{n}泳いでる人がいる。{p}
+EN: ......Same thing... It's March... and someone's swimming.{p}
+
+## MGE03 g0 s0458
+JP: ふふ、たしかにそうですね。{n}でも今は……ヘンな人なんて{n}思ってないですよ……。{p}
+EN: Heh, that's true. But I don't think you're a weirdo anymore...{p}
+
+## MGE03 g0 s0459
+JP: 流さんが……いい人だって……、{n}俺、知ってますから。{p}{end}
+EN: Because I know... you're a good person, Nagare-san.{p}{end}
+
+## MGE03 g0 s0460
+JP: …………{v4:18}……。{p}
+EN: ......{v4:18}...{p}
+
+## MGE03 g0 s0461
+JP: …………俺は……{n}自分が普通の人より、{n}ちょっとズレてることは{n}知っている……。{p}{end}
+EN: ......I know... I'm a little out of step... compared to most people...{p}{end}
+
+## MGE03 g0 s0462
+JP: …………正直……、{n}どう振る舞えばいいか……、{n}わからなかったんだ……。{n}人にあわせるってコトが……。{p}
+EN: ......Honestly... I didn't know how to act... How to fit in with people...{p}
+
+## MGE03 g0 s0463
+JP: ……流さん……。{p}{end}
+EN: ...Nagare-san...{p}{end}
+
+## MGE03 g0 s0464
+JP: …………でもお前に会ってから……、{n}何かが変わった。{n}……そしていろいろわかったよ。{p}{end}
+EN: ......But after I met you... something changed. ...And I figured a lot out.{p}{end}
+
+## MGE03 g0 s0465
+JP: …………何もかえる必要はない、{n}このままの……自分で{n}……いいんだっていうこと、そして……{p}
+EN: ......That I don't have to change anything... That I can... just be myself... And...{p}
+
+## MGE03 g0 s0466
+JP: ……同時に、人に合わせるなんて、{n}難しく考えることはない……{n}ただこうして……{n}笑えばいいんだってコトが……。{p}
+EN: ...That fitting in with people... isn't something to overthink... All I have to do... is smile like this...{p}
+
+## MGE03 g0 s0467
+JP: …………{v4:18}……。{n}お前に会えて……よかった。{p}
+EN: ......{v4:18}... I'm glad... I met you.{p}
+
+## MGE03 g0 s0468
+JP: 流さん……{n}俺の方こそ……なんていっていいか……{n}教えられたことは多いです……。{p}{end}
+EN: Nagare-san... If anything... I don't know how to put it... you've taught me so much...{p}{end}
+
+## MGE03 g0 s0469
+JP: ……これからもよろしくお願いしますね。{p}
+EN: ...Let's keep hanging out from now on, okay?{p}
+
+## MGE03 g0 s0470
+JP: …………{v4:18}……、{n}ああ……そうだな……!{p}
+EN: ......{v4:18}... Yeah... let's...!{p}
+
+## MGE03 g0 s0471
+JP: （ガラガラガラ……）{p}{end}
+EN: (*Rattle rattle rattle...*){p}{end}
+
+## MGE03 g0 s0472
+JP: あれ?{sp}ラン!{n}まだいたのか?{p}
+EN: Huh? Ran! You're still here?{p}
+
+## MGE03 g0 s0473
+JP: うん……。{n}これをアナタに渡そうと思って……。{p}
+EN: Yeah... I wanted to give you this...{p}
+
+## MGE03 g0 s0474
+JP: 2冊目の俺のアルバムかぁ……。{p}
+EN: A second album of me, huh...{p}
+
+## MGE03 g0 s0475
+JP: 写真を整理してたら、{n}もう1冊できちゃった。{p}{end}
+EN: I was sorting my photos, and I ended up with another whole album.{p}{end}
+
+## MGE03 g0 s0476
+JP: ねぇ……、{n}どうして、アナタの写真が{n}こんなにたくさんあると思う……?{p}
+EN: Hey... why do you think I've got so many photos of you...?{p}
+
+## MGE03 g0 s0477
+JP: そりゃあ……、{n}よく俺がランと一緒にいるから、{n}写ってることも多いだけだろ……。{p}{end}
+EN: Well... I'm with you a lot, Ran, so I just end up in a lot of them, right...?{p}{end}
+
+## MGE03 g0 s0478
+JP: やっぱり、何もわかってないわね。{p}{end}
+EN: You really don't get it, do you.{p}{end}
+
+## MGE03 g0 s0479
+JP: 最初はね……、{n}アナタがおかしなことばっかりするから、{n}新聞のネタに使えるなと思って、{n}アナタのことを撮ってたの……。{p}
+EN: At first... you kept doing such weird stuff, I figured you'd make good material for the paper, so I took pictures of you...{p}
+
+## MGE03 g0 s0480
+JP: でも……、{n}だんだん、記事のことよりも、{n}アナタのことばかり{n}気になるようになっちゃって……。{p}
+EN: But... bit by bit, I started thinking about you more than the articles...{p}
+
+## MGE03 g0 s0481
+JP: いろんなアナタの姿を{n}いつも側に置いておきたくて、{n}アナタの写真を、こんなに撮ってたのよ。{p}
+EN: I wanted to keep every side of you close to me, all the time. That's why I took this many photos of you.{p}
+
+## MGE03 g0 s0482
+JP: ラン……。{p}
+EN: Ran...{p}
+
+## MGE03 g0 s0483
+JP: お願い、{v4:19}!{n}答えて欲しいの……。{p}{end}
+EN: Please, {v4:19}! I want an answer...{p}{end}
+
+## MGE03 g0 s0484
+JP: ワタシのこと……、{n}どう……思ってるの……?{p}{end}
+EN: How... do you feel... about me...?{p}{end}
+
+## MGE03 g0 s0486
+JP: わかってないのは、ランも同じだよ。{p}
+EN: You're the one who doesn't get it, Ran.{p}
+
+## MGE03 g0 s0487
+JP: 俺は……、{n}もう、その答えを伝えてあるよ。{p}
+EN: I already gave you my answer.{p}
+
+## MGE03 g0 s0488
+JP: ホワイトデーに一緒に行った、{n}遊園地の観覧車の中でね……。{p}
+EN: In the Ferris wheel at the amusement park, when we went on White Day...{p}
+
+## MGE03 g0 s0489
+JP: ランは、俺にとって……、{n}「一番大切な女の子」だってね……。{p}{end}
+EN: That you're "the girl who matters most" to me...{p}{end}
+
+## MGE03 g0 s0490
+JP: あ、ありがとう……。{n}本気にしちゃうけど……いいよね?{p}
+EN: Th-thank you... I'm gonna take that seriously... that's okay, right?{p}
+
+## MGE03 g0 s0491
+JP: もちろんだよ。{p}
+EN: Of course.{p}
+
+## MGE03 g0 s0492
+JP: ねぇ!{sp}一緒に写真撮らない?{p}{end}
+EN: Hey! Wanna take a picture together?{p}{end}
+
+## MGE03 g0 s0493
+JP: アナタとワタシが{n}一緒に写ってる写真って、{n}1枚も持ってないから……。{p}
+EN: I don't have a single photo of you and me together...{p}
+
+## MGE03 g0 s0494
+JP: あぁ!{sp}いいよ!{p}{end}
+EN: Yeah! Sure!{p}{end}
+
+## MGE03 g0 s0496
+JP: よかった!{sp}キレイに撮れてるわよ。{p}
+EN: Yay! It came out great.{p}
+
+## MGE03 g0 s0497
+JP: フフフ……。ねぇ、{v4:19}!{n}これって……、{n}「ワタシたち付き合ってます」って感じの{n}写真よね!{p}{end}
+EN: Hee hee... Hey, {v4:19}! This totally looks like a "we're going out" photo, doesn't it!{p}{end}
+
+## MGE03 g0 s0498
+JP: でも、それって、{n}大スクープじゃない!?{p}{end}
+EN: Wait, isn't that a huge scoop!?{p}{end}
+
+## MGE03 g0 s0499
+JP: 号外を出して、{n}みんなに見せつけちゃおっか?{p}{end}
+EN: Should I put out an extra edition and show it off to everyone?{p}{end}
+
+## MGE03 g0 s0500
+JP: オ、オイオイ!{sp}やめろよ、ラン!{n}そ、そんなの恥ずかしいだろ!{p}
+EN: H-hey, whoa! Cut it out, Ran! Th-that'd be embarrassing!{p}
+
+## MGE03 g0 s0501
+JP: フフフ……!{n}冗談に決まってるでしょ!{p}
+EN: Hee hee...! I'm kidding, obviously!{p}
+
+## MGE03 g0 s0502
+JP: 今日撮ったこの写真は、{n}どんなスクープ写真よりも大切な、{n}ワタシの……宝物だもの……。{p}
+EN: This photo we took today is more precious than any scoop. It's my... treasure...{p}
+
+## MGE03 g0 s0503
+JP: さぁてと、{n}帰るとするかな……。{p}{end}
+EN: Well then, guess I'll head home...{p}{end}
+
+## MGE03 g0 s0504
+JP: 明日から春休みだからな。{n}えへへ……、{n}何して遊ぼうかなぁ……。{p}{end}
+EN: Spring break starts tomorrow. Hehe... What should I do for fun...{p}{end}
+
+## MGE03 g0 s0505
+JP: あれ?{n}先生たちが、何か話してるぞ。{p}{end}
+EN: Huh? The teachers are talking about something.{p}{end}
+
+## MGE03 g0 s0506
+JP: あいさつでもしとくか!{n}俺って、模範的な生徒だよな……。{n}うんうん……。{p}{end}
+EN: Maybe I'll say hi! I'm such a model student... Yep, yep...{p}{end}
+
+## MGE03 g0 s0507
+JP: まったく、なんて野郎だ……。{n}あんな生徒は、見たことねぇ!{p}
+EN: Geez, what a punk... I've never seen a student like that!{p}
+
+## MGE03 g0 s0508
+JP: 交友関係にも、問題があるようですな。{n}恋人どころか、友達と呼べる人も{n}全くいないみたいですからね。{p}
+EN: There are problems with friendships, too, it seems. Forget a sweetheart, this student hasn't got a single friend to speak of.{p}
+
+## MGE03 g0 s0509
+JP: 困った生徒ですね……。{p}
+EN: What a troublesome student...{p}
+
+## MGE03 g0 s0510
+JP: うぅむ……、なんということだ。{n}そんな生徒が、我が学園にいようとは……。{n}これは、由々しき問題だよ……。{p}{end}
+EN: Hmmm... What a thing. To think such a student exists at our school... This is a grave problem indeed...{p}{end}
+
+## MGE03 g0 s0511
+JP: あはは……!{n}誰のことですか?{sp}それ!{n}ムチャクチャいわれてますね!{p}{end}
+EN: Ahaha...! Who are you talking about? You're really tearing into them!{p}{end}
+
+## MGE03 g0 s0512
+JP: あっはははははは……っ!!{p}
+EN: Ahahahahahaha...!!{p}
+
+## MGE03 g0 s0513
+JP: うぅぅぅぅぅ～～んッ!!{n}{v0}{col:0}君{col:-}!!{n}君のことだよォッ!!{p}{end}
+EN: Hmmmmmmm!! {v0}{col:0}-kun{col:-}!! We are talking about YOU!!{p}{end}
+
+## MGE03 g0 s0514
+JP: えぇぇ～～～～～っ!!{p}
+EN: Whaaaaaaat!!{p}
+
+## MGE03 g0 s0515
+JP: ちょうどイイところに、いやがった!{n}俺達は、オマエに用があるんだ。{n}しっかり、聞いていきやがれ!{p}{end}
+EN: Just the one we were lookin' for! We've got business with you. Now listen up good!{p}{end}
+
+## MGE03 g0 s0516
+JP: 明日から春休みだからね、{n}君には、特別な補習を{n}受けてもらうことにするよ!{p}
+EN: Since spring break starts tomorrow, you'll be taking special remedial classes!{p}
+
+## MGE03 g0 s0517
+JP: 同情の余地なしね……。{p}
+EN: No room for sympathy...{p}
+
+## MGE03 g0 s0518
+JP: というわけだ!!{n}君のような生徒に時間をさいてくださる{n}先生方の温情に感謝したまえ!{p}{end}
+EN: And there you have it!! Be grateful for the kindness of the teachers who are making time for a student like you!{p}{end}
+
+## MGE03 g0 s0519
+JP: 今日から1週間!{n}毎日、学校に通って補習に励むように!{n}わかったねッ!!{p}{end}
+EN: For one week, starting today! Come to school every day and work hard in remedial class! Understood!?{p}{end}
+
+## MGE03 g0 s0520
+JP: そ、そんなぁ……!!{n}俺の春休みがぁ……トホホ。{p}{end}
+EN: N-no way...!! My spring break... Boo hoo.{p}{end}
+
+## MGE03 g0 s0521
+JP: 終業式も終わったし、{n}そろそろ帰るか……。{p}
+EN: The closing ceremony's over. Guess I'll head home...{p}
+
+## MGE03 g0 s0522
+JP: 終業式だっていうのに、{n}結局、誰にも会えなかったな……。{p}{end}
+EN: Closing ceremony day, and I didn't end up seeing anybody...{p}{end}
+
+## MGE03 g0 s0523
+JP: ま、いいか。{n}補習もないし、{n}春休みはのんびりしよう……。{p}
+EN: Oh well. No remedial classes, so I'll just take it easy over spring break...{p}
+
+## MGE03 g0 s0524
+JP: 「{v2}!{n}{sp}探したよ!」{p}
+EN: "{v2}! There you are!"{p}
+
+## MGE03 g0 s0525
+JP: え?{sp}なんださくらじゃないか。{n}どうしたんだ、いったい。{p}{end}
+EN: Huh? Oh, it's just Sakura. What's going on?{p}{end}
+
+## MGE03 g0 s0526
+JP: へへ、{v2}をね、{n}誘いに来たんだ!{n}春休み、ヒマでしょ?{p}
+EN: Heh heh, I came to invite you, {v2}! You're free over spring break, right?{p}
+
+## MGE03 g0 s0527
+JP: 誘いにって……どこかいくの?{p}{end}
+EN: Invite me... Are we going somewhere?{p}{end}
+
+## MGE03 g0 s0528
+JP: 決まってるじゃない!{n}ストリートファイトよ!{p}{end}
+EN: Isn't it obvious? Street fighting!{p}{end}
+
+## MGE03 g0 s0529
+JP: ス、ストリートファイト?{n}ストリートファイトって、あの?{n}ム、ムリだよ、俺には……!{p}{end}
+EN: S-street fighting? Like, actual street fighting? N-no way, I can't do that...!{p}{end}
+
+## MGE03 g0 s0530
+JP: 何いってんの!{n}わたしを倒したってコトは、{n}十分その資格があるって!{p}{end}
+EN: What are you talking about! You beat me, so you're more than qualified!{p}{end}
+
+## MGE03 g0 s0531
+JP: さぁ、飛行機は、神月財閥が{n}用意してくれるから!{n}最初の国はタイよ!{p}{end}
+EN: Come on, the Kanzuki family's got a plane ready for us! First stop, Thailand!{p}{end}
+
+## MGE03 g0 s0532
+JP: え?{sp}いやちょっと……!{p}{end}
+EN: Huh? Wait, hold on...!{p}{end}
+
+## MGE03 g0 s0533
+JP: タイといえば、{n}サガットさんよね!!{n}燃えるわね!{p}
+EN: Thailand means Sagat-san!! I'm so fired up!{p}
+
+## MGE03 g0 s0534
+JP: あんなのとやったら、死ぬって!{n}オイ!{sp}さくらっ!?{n}いや、さくらさん?{p}{end}
+EN: If I fight him, I'm dead! Hey! Sakura!? I mean, Sakura-san?{p}{end}
+
+## MGE03 g0 s0535
+JP: ね、今度はあの人に会えるかな……。{n}期待しちゃうな～!{p}
+EN: Hey, maybe I'll get to see him this time... I can't wait~!{p}
+
+## MGE03 g0 s0536
+JP: 聞いてます?{sp}さくらさん?{n}オーイ……?{p}{end}
+EN: Are you listening? Sakura-san? Hellooo...?{p}{end}
+
+## MGE03 g0 s0537
+JP: さ、行きましょう!{n}飛行機に遅れるよ!!{p}{end}
+EN: Come on, let's go! We'll miss our flight!!{p}{end}
+
+## MGE03 g0 s0538
+JP: おつかれさま!{n}これで{col:0}『熱血青春日記2』{col:-}は終了よ。{n}一年間、ごくろうさま。{p}
+EN: Well done! That's the end of {col:0}"Hot-Blooded Youth Diary 2"{col:-}. Thanks for all your hard work this year.{p}
+
+## MGE03 g0 s0539
+JP: 最後に、あなたの{n}{col:0}『愛と友情のツープラトン』{col:-}を選んでね。{p}{end}
+EN: Lastly, choose your {col:0}"Team Up Technique"{col:-}.{p}{end}
+
+## MGE03 g0 s0540
+JP: おめでとう、{n}これであなたの{n}{col:0}『EDITキャラクター』{col:-}は完成よ。{p}{end}
+EN: Congratulations! Your {col:0}"EDIT character"{col:-} is now complete.{p}{end}
+
+## MGE03 g0 s0541
+JP: {col:0}『EDITキャラクターの登録』{col:-}で{n}キャラクターをロードして、登録すれば{n}他のモードでも使えるようになるわよ。{p}{end}
+EN: Load your character in {col:0}"Register EDIT Character"{col:-} and register it, and you can use it in the other modes too.{p}{end}
+
+## MGE03 g0 s0542
+JP: モード内の、{n}{col:0}『熱血戦術指導』{col:-}を設定すれば、{n}キャラクターをCPUが操作するときの{n}技の使用率を設定できるわ。{p}
+EN: In that mode, set {col:0}"Tactics Training"{col:-} to choose how often the CPU uses each move when it controls your character.{p}
+
+## MGE03 g0 s0543
+JP: 戦術は、キャラクターとは別に、{n}パスワードがあるから、他の人のデータと{n}対戦させるときは、活用してみてね。{p}
+EN: Tactics have their own password, separate from the character, so use it when you fight other people's data.{p}
+
+## MGE03 g0 s0544
+JP: 自分のキャラクターの{n}CPU時の動きを確認したいときは、{n}『リーグ戦』で、参加チームを2チームに{n}して対戦させてみるのがおすすめよ。{p}{end}
+EN: To see how your character moves under CPU control, try setting "League" to two teams and watching them fight.{p}{end}
+
+## MGE03 g0 s0545
+JP: 最後に、キャラクターの性能と、{n}技のコマンドが確認できるわ。{n}せっかく作ったキャラクターだから、{n}大事にしてあげてね。{p}
+EN: Lastly, you can check your character's stats and move commands. You made this character yourself, so take good care of it.{p}
+
+## MGE03 g0 s0546
+JP: あと、最後にセーブしないと、{n}今のキャラクターを登録することは{n}できないから、注意して。{p}{end}
+EN: Also, you can't register this character unless you save at the end, so be careful.{p}{end}
+
+## MGE03 g0 s0547
+JP: それでは、おつかれさま。{n}また、会いましょうね。{p}{end}
+EN: Well then, good work. See you again!{p}{end}
+
+## MGE03 g1 s0000
+JP: 私が入学してから、{n}もう1年がたつのね……。{p}{end}
+EN: It's already been a year since I started here...{p}{end}
+
+## MGE03 g1 s0001
+JP: ホントに月日がながれるのって、{n}あっという間なんだよね。{p}{end}
+EN: Time really does fly, doesn't it.{p}{end}
+
+## MGE03 g1 s0002
+JP: 振り返ってみれば、{n}どんなことも、いい思い出だわ……。{p}
+EN: Looking back, every bit of it is a good memory...{p}
+
+## MGE03 g1 s0004
+JP: （終業式が終われば、春休みか……。{n}{sp}どう過ごそうか考えるだけで、{n}{sp}胸がおどっちゃうわね……）{p}{end}
+EN: (Once the closing ceremony's over, it's spring break... Just thinking about how to spend it makes my heart dance...){p}{end}
+
+## MGE03 g1 s0005
+JP: 終業式も終わったし……、{n}バツったら、屋上で待ってるとか{n}いいながら、いないんだもんね……。{p}{end}
+EN: The ceremony's over... and Batsu said he'd wait for me on the roof, but he's not even here...{p}{end}
+
+## MGE03 g1 s0006
+JP: この1年いろんなことがあったわねぇ……。{n}早いもんね。{p}
+EN: So much happened this year... It went by so fast.{p}
+
+## MGE03 g1 s0011
+JP: ……バツ。{n}アンタね、こんなことしてると、{n}いつかケガ人が出るわよ。{p}{end}
+EN: ...Batsu. Keep doing stuff like this and somebody's gonna get hurt one day.{p}{end}
+
+## MGE03 g1 s0014
+JP: 私の方こそ……。{n}そんなにたいして{n}役に立てなかったわよ、私は……。{p}{end}
+EN: No, I should thank you... I wasn't much help at all...{p}{end}
+
+## MGE03 g1 s0019
+JP: そんな……あらためてお礼をいわれると、{n}照れちゃう……。{p}{end}
+EN: Getting thanked all over again like that... it's embarrassing...{p}{end}
+
+## MGE03 g1 s0021
+JP: ふふっ、まったくネ。{n}こんな話は私達らしくないか!{n}さぁ、行きましょ!!{p}{end}
+EN: Hehe, you said it. This kind of talk isn't like us! Come on, let's go!!{p}{end}
+
+## MGE03 g1 s0023
+JP: ええ、そうネ、バツ!!{p}
+EN: Yeah, that's right, Batsu!!{p}
+
+## MGE03 g1 s0024
+JP: 終業式の後、ひなたと{n}約束してたんだったわ……。{p}{end}
+EN: Oh right, I promised to meet Hinata after the closing ceremony...{p}{end}
+
+## MGE03 g1 s0026
+JP: （ん?{n}{sp}ひなた……、もう来てたのね。{n}{sp}ひとりで何やってんだろう……）{p}{end}
+EN: (Hm? Hinata... she's here already. What's she doing all alone...){p}{end}
+
+## MGE03 g1 s0027
+JP: 「{v8:1}……。{n}{sp}今日も来てくれるかな……」{p}
+EN: "{v8:1}... Wonder if you'll show up today too..."{p}
+
+## MGE03 g1 s0031
+JP: 「{v8:1}と……、{n}{sp}もっと、仲良くなれますように……。」{p}
+EN: "Please let {v8:1} and me... get even closer..."{p}
+
+## MGE03 g1 s0032
+JP: 「{v8:1}が……、{n}{sp}私のこと……、{n}{sp}好きになってくれますように……」{p}{end}
+EN: "Please let {v8:1}... come to... like me..."{p}{end}
+
+## MGE03 g1 s0034
+JP: {v8:1}!{n}き、聞いてたの……?{p}{end}
+EN: {v8:1}! Y-you heard that...?{p}{end}
+
+## MGE03 g1 s0035
+JP: え、えぇ……。{p}
+EN: Y-yeah...{p}
+
+## MGE03 g1 s0038
+JP: ひなた!{n}本当に、冗談で済ませていいの……。{p}{end}
+EN: Hinata! Are you really okay with just calling it a joke...?{p}{end}
+
+## MGE03 g1 s0041
+JP: ひなた……。{n}私だって、ひなたと同じ気持ちだよ……。{p}{end}
+EN: Hinata... I feel the same way you do...{p}{end}
+
+## MGE03 g1 s0043
+JP: ホ、ホント?{n}{v8:1}……。{p}{end}
+EN: R-really? {v8:1}...{p}{end}
+
+## MGE03 g1 s0044
+JP: えぇ!{sp}もちろん!{p}
+EN: Yeah! Of course!{p}
+
+## MGE03 g1 s0047
+JP: ねぇ、{v8:1}!{n}春休みの間も、一緒に練習してくれる?{p}
+EN: Hey, {v8:1}! Will you keep practicing with me over spring break?{p}
+
+## MGE03 g1 s0048
+JP: えぇ!{sp}もちろん!{n}でも、練習ばっかりだと、{n}せっかくの休みがもったいないよ。{p}
+EN: Yeah! Of course! But if all we do is practice, we'll waste our whole break.{p}
+
+## MGE03 g1 s0052
+JP: 終業式も終わったし……、{n}あら、あそこにいるのは恭介ね。{p}{end}
+EN: The ceremony's over... Oh, that's Kyosuke over there.{p}{end}
+
+## MGE03 g1 s0056
+JP: いやいや……、{n}そのことならもういいよ。{n}たいしたことはしてないんだし。{p}{end}
+EN: No, no... Don't worry about that. It was no big deal.{p}{end}
+
+## MGE03 g1 s0057
+JP: それに、風紀委員の仕事が、{n}どんなに大変か、{n}私はよく知ってるし……。{p}
+EN: Besides, I know full well how hard disciplinary committee work is...{p}
+
+## MGE03 g1 s0058
+JP: {v7:2}……。{n}本当はな……初めてだったんだ、{n}女の子の部屋に入るのが。{p}{end}
+EN: {v7:2}... To tell the truth... that was my first time ever going into a girl's room.{p}{end}
+
+## MGE03 g1 s0064
+JP: 恭介……いいの……、{n}あなた一人暮らしなんでしょ?{p}
+EN: Kyosuke... are you sure? You live alone, don't you?{p}
+
+## MGE03 g1 s0067
+JP: ……え?{n}ちょっと、うれし……{n}いえいえ、それは遠慮しとくわ。{p}
+EN: ...Huh? That'd be kinda ni... I mean, no, no, I'll pass on that.{p}
+
+## MGE03 g1 s0068
+JP: ん?{sp}そうか?{n}ふふ、そうだな。{p}{end}
+EN: Hm? Is that so? Heh, I suppose so.{p}{end}
+
+## MGE03 g1 s0069
+JP: {v7:2}……。{n}君に会えてよかったよ。{n}来年もいっしょに、いてくれるかな?{p}
+EN: {v7:2}... I'm glad I met you. Will you be with me next year, too?{p}
+
+## MGE03 g1 s0070
+JP: もちろんよ。{n}恭介。来年だけじゃないよ、{n}これから、ずっとネ。{p}
+EN: Of course, Kyosuke. Not just next year, either. Always.{p}
+
+## MGE03 g1 s0071
+JP: 終業式も終わったし……、{n}そろそろ帰らないとね。{p}{end}
+EN: The ceremony's over... I should head home soon.{p}{end}
+
+## MGE03 g1 s0072
+JP: ん?{sp}あそこの門のトコロで{n}チラチラ人を探してるのは……{n}将馬かしら?{p}
+EN: Hm? The one at the gate glancing around for someone... is that Shoma?{p}
+
+## MGE03 g1 s0074
+JP: （私を待ってたクセに……ふふ）{n}いいわよ、いっしょに帰りましょ!!{p}
+EN: (He was waiting for me... hehe) Sure, let's walk home together!!{p}
+
+## MGE03 g1 s0076
+JP: ふふっ、そうそう。{n}勝負となると、将馬はすぐに{n}ムキになるんだから……。{p}{end}
+EN: Hehe, right, right. The second it's a contest, you get all worked up, Shoma...{p}{end}
+
+## MGE03 g1 s0080
+JP: そうかもネ……。{p}{end}
+EN: Maybe so...{p}{end}
+
+## MGE03 g1 s0082
+JP: 将馬……。{n}そんなこと、{n}聞かなくたってわかるわよ。{p}{end}
+EN: Shoma... You don't even have to ask. I know.{p}{end}
+
+## MGE03 g1 s0084
+JP: え?{sp}将馬、まさか野球やめるの?{p}{end}
+EN: Huh? Shoma, you're not quitting baseball, are you?{p}{end}
+
+## MGE03 g1 s0091
+JP: 将馬……カッコイイ!{n}私も応援するわね!!{p}
+EN: Shoma... that's so cool! I'll cheer for you too!!{p}
+
+## MGE03 g1 s0093
+JP: へ?{sp}だって私、女だし、野球は……。{p}{end}
+EN: Huh? But I'm a girl, and baseball's not really...{p}{end}
+
+## MGE03 g1 s0095
+JP: はぁ……。{n}あなたね、通訳付きでメジャーリーガーに{n}なるつもりだったの?{p}{end}
+EN: Sigh... Were you planning to become a major leaguer with an interpreter tagging along?{p}{end}
+
+## MGE03 g1 s0097
+JP: ……プッ……ははっ、将馬らしいわ。{n}いいわよ、いっしょにがんばりましょ!{n}アメリカでもどこでも、{n}いっしょについていくわ!{p}
+EN: ...Pfft... haha, that's so Shoma. Okay, let's do our best together! America or anywhere, I'll go with you!{p}
+
+## MGE03 g1 s0099
+JP: 終業式も終わったし、{n}屋上に行ってみよっ。{n}たしか……ここで、{n}待ち合わせだったわね……。{p}
+EN: The ceremony's over, so let's check the roof. We said we'd meet here... I think...{p}
+
+## MGE03 g1 s0100
+JP: あ、来たわね、{n}{v7:4}。{p}
+EN: Oh, you came, {v7:4}.{p}
+
+## MGE03 g1 s0101
+JP: はぁい、夏。{n}待った?{p}
+EN: Hiya, Natsu. Did you wait long?{p}
+
+## MGE03 g1 s0104
+JP: ごちそうさま、おいしかったわ。{n}さすが夏ネ。{p}{end}
+EN: Thanks for the meal, it was delicious. That's Natsu for you.{p}{end}
+
+## MGE03 g1 s0107
+JP: あんまり……{n}人から女の子扱いされたコトないから……{n}うれしかったんだ……、{n}{v7:4}のこと……。{p}
+EN: Nobody's ever really... treated me like a girl... so what you did made me happy, {v7:4}...{p}
+
+## MGE03 g1 s0112
+JP: でも……{v7:4}は……、{n}料理だけじゃなくて、アタシ自身も{n}女の子として接してくれた……。{p}
+EN: But... {v7:4}... you treated me like a girl, too, not just my cooking...{p}
+
+## MGE03 g1 s0113
+JP: 夏……。{n}私は夏の、そういうところも{n}みんな込みで好きなだけよ。{p}{end}
+EN: Natsu... I just like everything about you, all of that included.{p}{end}
+
+## MGE03 g1 s0114
+JP: バレーがうまいところも、{n}男勝りなところも、{n}料理が上手なところも……、{n}みんな、夏のいいところでしょ?{p}{end}
+EN: Being great at volleyball, being a tomboy, being a good cook... Those are all your good points, right?{p}{end}
+
+## MGE03 g1 s0115
+JP: {v7:4}……ありがとう。{p}{end}
+EN: {v7:4}... thank you.{p}{end}
+
+## MGE03 g1 s0117
+JP: もちろん。{n}これからも、夏の側に、いるわ。{p}
+EN: Of course. I'll stay right by your side, Natsu.{p}
+
+## MGE03 g1 s0118
+JP: ……{v7:4}……。{p}
+EN: ...{v7:4}...{p}
+
+## MGE03 g1 s0119
+JP: 終業式も終わったわ……。{n}部室棟をうろうろしてみたけど、{n}特にめぼしい人には会えなかった。{p}
+EN: The closing ceremony's over... I wandered around the clubhouse, but didn't run into anyone in particular.{p}
+
+## MGE03 g1 s0120
+JP: そこで、グラウンドに来てみたんだけど…、{n}思った通りいた。{n}あれは……、{n}ロベルトだわ。{p}{end}
+EN: So I came out to the field... and just as I thought, there he was. That's... Roberto.{p}{end}
+
+## MGE03 g1 s0124
+JP: {v7:5}……、来てたのか。{p}
+EN: {v7:5}... you came.{p}
+
+## MGE03 g1 s0125
+JP: えぇ……ロベルト、{n}一人で練習してたの?{p}{end}
+EN: Yeah... Roberto, were you practicing alone?{p}{end}
+
+## MGE03 g1 s0128
+JP: ロベルト……、そういう時こそ、{n}私を頼ってよ。{n}前に言ったのはそういうことよ?{p}
+EN: Roberto... that's exactly when you should rely on me. That's what I meant before, you know?{p}
+
+## MGE03 g1 s0129
+JP: それに……私に用があるとしたら、{n}あなたに会うことくらいよ……。{p}{end}
+EN: Besides... if I've got anything to do today, it's seeing you...{p}{end}
+
+## MGE03 g1 s0130
+JP: {v7:5}……。{p}
+EN: {v7:5}...{p}
+
+## MGE03 g1 s0131
+JP: 第一、あなたが教室なり、{n}部室棟なりで待ってないから、{n}探すのに、よけいな時間が{n}かかったじゃないの。{p}
+EN: And anyway, you weren't waiting in the classroom or the clubhouse, so it took me forever to find you.{p}
+
+## MGE03 g1 s0133
+JP: まったくだわ。{n}それじゃ、練習はじめましょ。{n}今やってたのは、シュート練習?{n}じゃ、次はセービング練習ね!{p}
+EN: Exactly. Okay, let's start practicing. Were you doing shooting drills just now? Then next is keeper drills!{p}
+
+## MGE03 g1 s0134
+JP: {v7:5}……すまない。{p}
+EN: {v7:5}... thanks.{p}
+
+## MGE03 g1 s0136
+JP: さぁ、一休みしましょ。{n}今日は終業式のあとから、{n}ずっとやってるの?{p}{end}
+EN: Okay, let's take a break. Have you been at it ever since the closing ceremony?{p}{end}
+
+## MGE03 g1 s0138
+JP: あいかわらず、がんばり屋さんね。{n}ロベルト。{p}{end}
+EN: Hardworking as ever, Roberto.{p}{end}
+
+## MGE03 g1 s0140
+JP: ロベルト……がんばってね。{n}サッカーの世界は広いからネ。{n}全日本の先にも、一流のリーグが{n}世界中にあるしね。{p}{end}
+EN: Roberto... go for it. The soccer world's a big place. Beyond the All-Japan team, there are top leagues all over the world.{p}{end}
+
+## MGE03 g1 s0141
+JP: そこまでスターになっちゃうと{n}私なんかは……。{p}
+EN: Once you're that big a star, someone like me...{p}
+
+## MGE03 g1 s0144
+JP: {v7:5}……{n}お前には感謝している。{n}俺達はまだ高校一年だ……。{n}まだまだ先は長い……。{p}{end}
+EN: {v7:5}... I'm grateful to you. We're only first-years... We've still got a long road ahead...{p}{end}
+
+## MGE03 g1 s0145
+JP: お前がいっしょにいてくれれば……{n}俺は、どこまでもがんばれるさ。{p}{end}
+EN: With you by my side... I can keep going as far as it takes.{p}{end}
+
+## MGE03 g1 s0147
+JP: 本当なの、ロベルト。{n}私の力が必要なら、どこまでもいっしょよ。{p}
+EN: Do you mean it, Roberto? If you need my strength, I'll be with you all the way.{p}
+
+## MGE03 g1 s0148
+JP: ありがとう……、{n}{v7:5}。{p}{end}
+EN: Thanks... {v7:5}.{p}{end}
+
+## MGE03 g1 s0150
+JP: ええ!{sp}いいわよ。{p}
+EN: Yeah! Sure.{p}
+
+## MGE03 g1 s0152
+JP: そうね……。{n}この1年は、{n}ホントに、あっという間だったわ……。{p}{end}
+EN: Yeah... This year really flew by...{p}{end}
+
+## MGE03 g1 s0160
+JP: どんな事情があるのかは、{n}私にはわからないけど……。{p}{end}
+EN: I don't know what your situation is...{p}{end}
+
+## MGE03 g1 s0161
+JP: 私…………。{p}{end}
+EN: I......{p}{end}
+
+## MGE03 g1 s0162
+JP: ロイと離ればなれになるのはイヤよ!{n}せっかく、友達になれたのにっ!{p}
+EN: I don't want to be apart from you, Roy! We finally became friends!{p}
+
+## MGE03 g1 s0164
+JP: 破っちゃってよッ!!{p}{end}
+EN: Rip it up!!{p}{end}
+
+## MGE03 g1 s0171
+JP: ロ、ロイ……!{n}ヒドイよ、試すみたいなことして!{p}{end}
+EN: R-Roy...! That's so mean, testing me like that!{p}{end}
+
+## MGE03 g1 s0174
+JP: 終業式も終わったし、{n}ちょっと屋上でのんびりしていこっかな。{p}{end}
+EN: The ceremony's over. Maybe I'll relax on the roof for a bit.{p}{end}
+
+## MGE03 g1 s0175
+JP: ここに入学してから、{n}もう1年がたつのね……。{n}早かったなぁ。{n}いろんなコトがあったけど……。{p}
+EN: It's already been a year since I started here... That went fast. A lot happened, but...{p}
+
+## MGE03 g1 s0177
+JP: どうしたの、ティファニー。{n}私をさがしてたの?{p}
+EN: What's up, Tiffany? Were you looking for me?{p}
+
+## MGE03 g1 s0180
+JP: （……「帰る」ってコトは……{n}{sp}ティファニーがアメリカに、{n}{sp}帰っちゃうってこと……?）{p}{end}
+EN: (..."Go back" means... Tiffany's going back to America...?){p}{end}
+
+## MGE03 g1 s0183
+JP: （お父さんが……{n}{sp}じゃ、やっぱり留学をやめて、{n}{sp}戻ってこいってコトなのかな……）{p}{end}
+EN: (Her father... So he wants her to quit studying abroad and come home after all...?){p}{end}
+
+## MGE03 g1 s0185
+JP: わかったわ。いっしょに行きましょ!{n}でもその前に、市民権をとらないとネ……{n}結婚すればとれるらしいけど、{n}私たち女どうしだし……。{p}
+EN: Okay. Let's go together! But first I need citizenship... I hear you can get it by marrying, but we're both girls...{p}
+
+## MGE03 g1 s0190
+JP: なんだ、てっきり{n}アメリカでいっしょに暮らそうって{n}ことかと思ったわ……。{p}
+EN: Oh, I totally thought you meant we'd go live together in America...{p}
+
+## MGE03 g1 s0193
+JP: ……そうね。{n}たしかに日本を離れるのはイヤだけど……、{n}今は……それ以上に、{n}ティファニーといっしょにいたい。{p}
+EN: ...Yeah. I really don't want to leave Japan, but... right now, more than that, I want to be with you, Tiffany.{p}
+
+## MGE03 g1 s0195
+JP: そうね、ティファニー。{p}
+EN: Yeah, Tiffany.{p}
+
+## MGE03 g1 s0197
+JP: え?{sp}パスポート……?{n}そういえば、もってないわ。{p}
+EN: Huh? A passport...? Come to think of it, I don't have one.{p}
+
+## MGE03 g1 s0199
+JP: そうなの?{n}こまったわねぇ……。{p}{end}
+EN: Really? Oh, that's a problem...{p}{end}
+
+## MGE03 g1 s0201
+JP: 終業式も終わったし、{n}そろそろ帰らないとね……。{p}{end}
+EN: The ceremony's over. I should head home soon...{p}{end}
+
+## MGE03 g1 s0202
+JP: 帰る前に……ボーマンに{n}会いたかったけど……いないみたいね。{n}しかたないわ、一人で帰りましょ。{p}
+EN: I wanted to see Boman before heading home... but he's not around. Oh well, I'll go home alone.{p}
+
+## MGE03 g1 s0204
+JP: ボーマン!{n}探してたのに、こんなトコロに{n}いたのね。{p}{end}
+EN: Boman! I was looking for you, and here you are.{p}{end}
+
+## MGE03 g1 s0206
+JP: ふふふ、終業式の日でも、{n}関係なしね、ボーマンは。{p}
+EN: Hehe, closing ceremony or not, it's all the same to you, Boman.{p}
+
+## MGE03 g1 s0209
+JP: えーっ募金活動……?{n}…………ウソよ、{n}いいわよ、ボーマンの頼みだしね、{n}おやすいご用よ。{p}
+EN: Huh, a charity drive...? ......Just kidding. Sure, it's you asking, Boman. Happy to help.{p}
+
+## MGE03 g1 s0213
+JP: う～ん、どうかしら。{n}ロコツにイヤな顔する人もいるし……。{p}
+EN: Hmm, I wonder. Some people make a face right at you...{p}
+
+## MGE03 g1 s0216
+JP: ……ボーマン、私は別に{n}ムリヤリつき合わされてる{n}ワケじゃないわよ。{p}{end}
+EN: ...Boman, it's not like you're dragging me along against my will.{p}{end}
+
+## MGE03 g1 s0217
+JP: 募金活動のやりがいくらい知ってるよ。{n}この募金で、{n}「ひとりでも多くの人に幸せを」{n}ってことでしょ?{p}{end}
+EN: I know what makes a charity drive worthwhile. This money is about "happiness for as many people as possible," right?{p}{end}
+
+## MGE03 g1 s0219
+JP: ふふっ、それならOKネ。{n}ほら!{sp}私の募金活動で、{n}こんないい笑顔が一つできたでしょ?{p}
+EN: Hehe, then it's OK. Look! My fundraising just made one great smile, see?{p}
+
+## MGE03 g1 s0221
+JP: ふふっ、一人で募金活動を{n}している時のボーマンって、{n}ひどく難しい顔をしてたわよ。{p}
+EN: Hehe, when you were fundraising alone, Boman, you had such a grim look on your face.{p}
+
+## MGE03 g1 s0222
+JP: 今は……いい笑顔をしている。{n}それでいいじゃないの……。{p}{end}
+EN: Now... you've got a nice smile. Isn't that enough...?{p}{end}
+
+## MGE03 g1 s0227
+JP: ……私もよ、ボーマン……。{p}
+EN: ...Me too, Boman...{p}
+
+## MGE03 g1 s0228
+JP: 終業式の後に、河原で待つなんて{n}エッジいったいどうしたのかしら?{n}わざわざ河原に呼び出すってことは、{n}ふふっ、きっと大事な話よね!{p}
+EN: Edge wants me at the riverbank after the ceremony? What's up with him? Calling me out to the riverbank... hehe, it must be important!{p}
+
+## MGE03 g1 s0229
+JP: あ、あそこね。{n}えっ?{sp}あの格好は……{n}ひょっとして特攻服?{p}{end}
+EN: Oh, there he is. Huh? That outfit... is that a biker gang uniform?{p}{end}
+
+## MGE03 g1 s0231
+JP: 終業式に出てたんだけど……。{n}で、エッジ、そんなカッコウして、{n}私に何の用なの?{p}{end}
+EN: I was at the closing ceremony... So, Edge, what do you want with me, dressed like that?{p}{end}
+
+## MGE03 g1 s0233
+JP: ええっ!?{sp}エッジ、{n}どういうことなの、急に。{p}
+EN: Whaaat!? Edge, what's this all of a sudden?{p}
+
+## MGE03 g1 s0236
+JP: 女の私相手に何いってんのよっ!{n}あっちょっとまって、まってったら!?{p}{end}
+EN: I'm a girl, what are you talking about!? Ah, hold on, wait, I said wait!?{p}{end}
+
+## MGE03 g1 s0238
+JP: {face:15}・・・・・・・・・・{face:255}{n}……サッ!……ササッ!……{n}{face:15}・・・・・・・・・・{face:255}{p}
+EN: {face:15}..........{face:255} ...Swish! ...Swish swish!... {face:15}..........{face:255}{p}
+
+## MGE03 g1 s0239
+JP: ……ゼェ……ゼェ……{n}全部よけるとはさすがだな……。{p}{end}
+EN: ...Gasp... gasp... Dodgin' every single one... not bad...{p}{end}
+
+## MGE03 g1 s0240
+JP: ……ハァ……ハァ……終業式あとに、{n}河原で……なんていうから、{n}私はもっとこう……ハァ……ハァ……{n}楽しい話題を期待してたのに……。{p}{end}
+EN: ...Huff... huff... When you said "the riverbank, after the ceremony," I was expecting... huff... huff... something way more fun...{p}{end}
+
+## MGE03 g1 s0241
+JP: なんで……エッジとケンカ{n}なんかしなきゃいけないのよ……?{p}
+EN: Why do I... have to get in a fight with Edge...?{p}
+
+## MGE03 g1 s0243
+JP: パートナー?{n}どうしたのよ、急に?{p}
+EN: Partner? What's gotten into you all of a sudden?{p}
+
+## MGE03 g1 s0247
+JP: ふふっ、むちゃなこと言うわねぇ。{n}……でもね、エッジ……、{p}
+EN: Hehe, you say the craziest things. ...But you know, Edge...{p}
+
+## MGE03 g1 s0248
+JP: 勝負なんてしなくても、私には、{n}パートナーはあなたしかいないって……、{n}思ってたわよ……。{p}
+EN: Even without a fight... I always thought you were the only partner for me...{p}
+
+## MGE03 g1 s0250
+JP: いいのよ。{n}これであっさり負けるようなら、{n}私もエッジのパートナーには{n}なれないからネ。{p}{end}
+EN: It's fine. If I lost that easily, I couldn't be your partner, Edge.{p}{end}
+
+## MGE03 g1 s0253
+JP: そうネ、エッジ!!{p}
+EN: Right, Edge!!{p}
+
+## MGE03 g1 s0256
+JP: え?{n}なに、アキラ。{n}どうかしたの?{p}{end}
+EN: Huh? What is it, Akira? Something wrong?{p}{end}
+
+## MGE03 g1 s0262
+JP: そっか……。{n}ちょっと複雑な気分ね……。{p}{end}
+EN: I see... I've got mixed feelings about this...{p}{end}
+
+## MGE03 g1 s0264
+JP: なんていう学校に転校するの?{p}{end}
+EN: What school are you transferring to?{p}{end}
+
+## MGE03 g1 s0265
+JP: それは、まだいえないの……。{n}知ってたら、{v8:10}は{n}私に会いに来たりするでしょ?{p}
+EN: I can't tell you that yet... If you knew, {v8:10}, you'd come to see me, wouldn't you?{p}
+
+## MGE03 g1 s0266
+JP: 当たり前じゃない!{n}エッジや岩たちだって、{n}そうするハズよ。{p}{end}
+EN: Of course! Edge and Gan and the others would too.{p}{end}
+
+## MGE03 g1 s0276
+JP: わかったわ、アキラ!{n}私は、いつでも{n}アキラを応援しているよ!{p}
+EN: Okay, Akira! I'll always be cheering for you!{p}
+
+## MGE03 g1 s0277
+JP: ありがとう……、{n}{v8:10}……。{p}{end}
+EN: Thank you... {v8:10}...{p}{end}
+
+## MGE03 g1 s0279
+JP: 私の気持ちはかわらないよ。{n}ずっとネ……。{p}
+EN: My feelings won't change. Not ever...{p}
+
+## MGE03 g1 s0281
+JP: 終業式も終わったし……、{n}そろそろ帰らないとね……。{p}{end}
+EN: The ceremony's over... I should head home soon...{p}{end}
+
+## MGE03 g1 s0282
+JP: あ、あの正門のトコロにいるのは、{n}岩ね……。{n}誰か待ってるのかな。{p}
+EN: Oh, that's Gan at the main gate... Is he waiting for someone?{p}
+
+## MGE03 g1 s0283
+JP: ねぇ岩。{n}誰か待ってるの?{p}
+EN: Hey, Gan. Waiting for someone?{p}
+
+## MGE03 g1 s0284
+JP: お、おお、{v3:11}{col:0}さん{col:-}ではないか。{n}いやいや、誰も待ってなどおらんわい。{n}一人で空を見ておっただけじゃ。{p}{end}
+EN: Oh, oh, if it ain't {v3:11}{col:0}-san{col:-}. Nah, nah, I ain't waitin' for nobody. Just watchin' the sky on my lonesome.{p}{end}
+
+## MGE03 g1 s0285
+JP: ふ～ん……、{n}で、私はもう帰るけど、{n}岩はどうする?{n}まだしばらく空を見てるの?{p}{end}
+EN: Hmm... Well, I'm heading home. What about you, Gan? Gonna keep watching the sky a while?{p}{end}
+
+## MGE03 g1 s0288
+JP: さて、ねぇ岩、{n}おなかすいたでしょ?{n}何か食べていかない?{p}
+EN: So, hey, Gan, you must be hungry, right? Want to grab something to eat?{p}
+
+## MGE03 g1 s0289
+JP: {v3:11}{col:0}さん{col:-}、おぬしワシがいつも{n}腹を減らしておると思っとるな?{p}{end}
+EN: {v3:11}{col:0}-san{col:-}, you figure I'm always hungry, don'tcha?{p}{end}
+
+## MGE03 g1 s0291
+JP: そうなの……、{n}せっかくおいしい店見つけたのに。{n}残念ネェ。{p}{end}
+EN: Oh, really... And I found such a great place, too. Too bad.{p}{end}
+
+## MGE03 g1 s0292
+JP: ……おいしい店?{p}{end}
+EN: ...A great place?{p}{end}
+
+## MGE03 g1 s0293
+JP: しかも食べ放題でネ。{p}{end}
+EN: All-you-can-eat, too.{p}{end}
+
+## MGE03 g1 s0294
+JP: ……た、食べ放題じゃと?{p}{end}
+EN: ...A-all-you-can-eat, ya say?{p}{end}
+
+## MGE03 g1 s0295
+JP: 料理も豊富で、{n}寿司やラーメン、{n}天ぷらから焼き肉まで、何でも{n}食べ放題なんだけど。{p}{end}
+EN: They've got tons of food, too: sushi, ramen, everything from tempura to yakiniku, all you can eat.{p}{end}
+
+## MGE03 g1 s0297
+JP: 終業式だから、せっかくおごってあげようと{n}思ったのに……、{n}岩に行く気がないならしかたないわね。{n}エッジ達を誘おう!{p}{end}
+EN: I was gonna treat you since it's the closing ceremony... but if you don't want to go, Gan, oh well. I'll ask Edge and the others!{p}{end}
+
+## MGE03 g1 s0300
+JP: さすが岩ネ、{n}そうこなくっちゃ!{p}{end}
+EN: That's Gan for you, that's the spirit!{p}{end}
+
+## MGE03 g1 s0302
+JP: おぬしはええヤツじゃのう、{n}{v3:11}{col:0}さん{col:-}。{n}おぬしほどの女はそうはおらんわい。{p}
+EN: You're a good egg, {v3:11}{col:0}-san{col:-}. Ain't many gals around like you.{p}
+
+## MGE03 g1 s0303
+JP: ははっ、食べモノにつられたような{n}言い方ね、岩。{p}{end}
+EN: Haha, you make it sound like you got lured in by the food, Gan.{p}{end}
+
+## MGE03 g1 s0307
+JP: ガッハッハ、{n}では行こうではないか、{n}その食べ放題とやらに!{p}{end}
+EN: Gahaha, well then, let's be off to this all-you-can-eat place!{p}{end}
+
+## MGE03 g1 s0315
+JP: 私がいたから……、ですか?{p}
+EN: Because I was here...?{p}
+
+## MGE03 g1 s0325
+JP: {v1}{col:0}さん{col:-}!{p}{end}
+EN: {v1}{col:0}-san{col:-}!{p}{end}
+
+## MGE03 g1 s0331
+JP: {v1}{col:0}さん{col:-}……。{p}{end}
+EN: {v1}{col:0}-san{col:-}...{p}{end}
+
+## MGE03 g1 s0333
+JP: ほら、そうやって、{n}気を持たせるだけ持たせて、{n}肝心なところは教師ぶって{n}逃げるんだもん、ズルイ……。{p}
+EN: See, you always do that. You get my hopes up as far as they'll go, then hide behind being a teacher when it counts. That's not fair...{p}
+
+## MGE03 g1 s0335
+JP: わかったわ……。{n}もう、個人的には、{n}{v1}{col:0}さん{col:-}に会わない。{p}{end}
+EN: All right... I won't see you privately anymore, {v1}{col:0}-san{col:-}.{p}{end}
+
+## MGE03 g1 s0343
+JP: ごめん……。{n}やっぱり、私まだ子供みたいね。{p}{end}
+EN: I'm sorry... I guess I'm still just a kid.{p}{end}
+
+## MGE03 g1 s0345
+JP: 何年先になるかわからないけど……、{n}きっと!{sp}きっと迎えに来るわ!{n}それまで、待っていてくれないかな……?{p}
+EN: I don't know how many years it'll take, but... I will! I'll definitely come for you! Will you wait for me until then...?{p}
+
+## MGE03 g1 s0353
+JP: ……雹クン……。{p}{end}
+EN: ...Hyo-kun...{p}{end}
+
+## MGE03 g1 s0354
+JP: ……ここにくれば、{n}雹クンに会えると思ってたわ。{p}{end}
+EN: ...I thought I'd find you here, Hyo-kun.{p}{end}
+
+## MGE03 g1 s0356
+JP: 一年間、お前を見てきたが、{n}お前は、我が片腕にふさわしい女だ……。{p}
+EN: I have watched you for a year. You are a woman worthy of being my right hand...{p}
+
+## MGE03 g1 s0358
+JP: （雹ク……!{n}{sp}これは……洗脳術……!?）{p}
+EN: (Hyo-ku...! This is... brainwashing...!?){p}
+
+## MGE03 g1 s0359
+JP: （雹クンの心の暗黒が、{n}{sp}私の心に広がっていく……しかし……）{p}
+EN: (The darkness in Hyo-kun's heart is spreading into mine... But...){p}
+
+## MGE03 g1 s0362
+JP: 雹クン……私にはもう、{n}あなたの洗脳術は効かないわよ……。{p}
+EN: Hyo-kun... your brainwashing doesn't work on me anymore...{p}
+
+## MGE03 g1 s0363
+JP: 私はあなたの心の暗黒をみてしまった……。{n}もはやあなたの心の暗黒に、{n}蝕まれることはないわ……。{n}……それに……、{p}
+EN: I've seen the darkness in your heart... It can't eat away at me anymore... ...And besides...{p}
+
+## MGE03 g1 s0364
+JP: 私は……洗脳なんてしなくても、{n}あなたの味方よ……雹クン。{p}
+EN: Even without brainwashing... I'm on your side... Hyo-kun.{p}
+
+## MGE03 g1 s0365
+JP: 雹クン……もっと人を信じて……。{n}……少なくとも……私だけでも……、{n}信じてよ……。{p}{end}
+EN: Hyo-kun... trust people more... At least... trust me, if no one else...{p}{end}
+
+## MGE03 g1 s0369
+JP: {face:1}雹クン!!{face:255}{p}
+EN: {face:1}Hyo-kun!!{face:255}{p}
+
+## MGE03 g1 s0371
+JP: 大丈夫、大丈夫よ、{n}雹クン……。{n}あなたは……一人じゃないわ。{p}
+EN: It's okay, it's okay, Hyo-kun... You're... not alone.{p}
+
+## MGE03 g1 s0378
+JP: もちろんよ、{n}雹クン。{p}
+EN: Of course, Hyo-kun.{p}
+
+## MGE03 g1 s0381
+JP: これからも……いっしょに。{n}どこへでも、お供するわ。{n}雹クン。{p}
+EN: From now on... together. I'll follow you anywhere, Hyo-kun.{p}
+
+## MGE03 g1 s0385
+JP: 終業式あとに、屋上に来いなんて、{n}隼人先生ったら……。{n}ふふっ、何の用かな?{p}{end}
+EN: Hayato-sensei, telling me to come to the roof after the closing ceremony... Hehe, what could he want?{p}{end}
+
+## MGE03 g1 s0387
+JP: 隼人先生。{n}私に何の用ですか?{p}
+EN: Hayato-sensei. What did you want with me?{p}
+
+## MGE03 g1 s0393
+JP: ……そんな!{n}私は隼人先生からは、{n}もう何があっても逃げませんよ!{p}
+EN: ...No way! I'm never running from you again, Hayato-sensei, no matter what!{p}
+
+## MGE03 g1 s0395
+JP: はい!{sp}先生!!{n}やぁーーーっ!!{p}
+EN: Yes, sensei!! Yaaaaah!!{p}
+
+## MGE03 g1 s0400
+JP: ……先生……{n}私、この勝負に勝ったら、{n}先生にいおうと思っていたことが{n}あるんです……。{p}{end}
+EN: ...Sensei... There's something I promised myself I'd tell you if I won this fight...{p}{end}
+
+## MGE03 g1 s0402
+JP: ……先生、私……!!{p}{end}
+EN: ...Sensei, I...!!{p}{end}
+
+## MGE03 g1 s0404
+JP: 先生……そんな……。{n}……私が、まだ子供だからですか?{p}
+EN: Sensei... but... ...Is it because I'm still a kid?{p}
+
+## MGE03 g1 s0410
+JP: 醍醐先輩……!{n}もしかして、私が来るのを{n}待っていたんですか?{p}
+EN: Daigo-senpai...! Were you waiting for me?{p}
+
+## MGE03 g1 s0417
+JP: （醍醐先輩は真剣だ……。{n}{sp}どうしよう……）{p}{end}
+EN: (Daigo-senpai's dead serious... What do I do...){p}{end}
+
+## MGE03 g1 s0418
+JP: 先輩ッ!{p}{end}
+EN: Senpai!{p}{end}
+
+## MGE03 g1 s0419
+JP: タァァァァァッ!!{p}
+EN: Hyaaaaaah!!{p}
+
+## MGE03 g1 s0433
+JP: だ、醍醐先輩!?{n}どうして私なんかに!?{p}{end}
+EN: D-Daigo-senpai!? Why someone like me!?{p}{end}
+
+## MGE03 g1 s0441
+JP: 終業式は終わった……。{n}さすがに、こんな時に{n}こんなトコロに来ても{n}誰もいないわね……。{p}{end}
+EN: The closing ceremony's over... Figures nobody'd be around a place like this at a time like this...{p}{end}
+
+## MGE03 g1 s0446
+JP: な、なんだ流先輩か……{n}どうしたんですか、こんな時間に。{p}{end}
+EN: Oh, it's just you, Nagare-senpai... What are you doing here at this hour?{p}{end}
+
+## MGE03 g1 s0448
+JP: ふふっ、流先輩らしい。{n}…………少し……、{n}お話ししてもいいですか?{p}{end}
+EN: Heh, that's so like you, Nagare-senpai. ......Mind if we... talk for a bit?{p}{end}
+
+## MGE03 g1 s0453
+JP: …………ふふ……、{n}修一に聞いたぞ……。{n}{v7:18}が……{n}「ヘンな人」って言ってたってな……。{p}
+EN: ......Heh... Shuichi told me... {v7:18}... said I was "a weirdo"...{p}
+
+## MGE03 g1 s0459
+JP: 流先輩が……いい人だって……、{n}私、知ってますから。{p}{end}
+EN: Because I know... you're a good person, Nagare-senpai.{p}{end}
+
+## MGE03 g1 s0460
+JP: …………{v7:18}……。{p}
+EN: ......{v7:18}...{p}
+
+## MGE03 g1 s0463
+JP: ……流先輩……。{p}{end}
+EN: ...Nagare-senpai...{p}{end}
+
+## MGE03 g1 s0467
+JP: …………{v7:18}……。{n}お前に会えて……よかった。{p}
+EN: ......{v7:18}... I'm glad... I met you.{p}
+
+## MGE03 g1 s0468
+JP: 流先輩……{n}私の方こそ……なんていっていいか……{n}教えられたことは多いです……。{p}{end}
+EN: Nagare-senpai... If anything... I don't know how to put it... you've taught me so much...{p}{end}
+
+## MGE03 g1 s0469
+JP: ……これからもよろしくお願いしますネ。{p}
+EN: ...Let's keep hanging out from now on, okay?{p}
+
+## MGE03 g1 s0470
+JP: …………{v7:18}……、{n}ああ……そうだな……!{p}
+EN: ......{v7:18}... Yeah... let's...!{p}
+
+## MGE03 g1 s0472
+JP: あれ?{sp}ランちゃん!{n}まだいたの?{p}
+EN: Huh? Ran-chan! You're still here?{p}
+
+## MGE03 g1 s0474
+JP: 2冊目の私のアルバムね……。{p}{end}
+EN: A second album of me, huh...{p}{end}
+
+## MGE03 g1 s0477
+JP: そりゃあ……、{n}よく私がランちゃんと一緒にいるから、{n}写ってることも多いだけじゃない……。{p}
+EN: Well... I'm with you a lot, Ran-chan, so I just end up in a lot of them, right...?{p}
+
+## MGE03 g1 s0483
+JP: お願い、{v8:19}!{n}答えて欲しいの……。{p}{end}
+EN: Please, {v8:19}! I want an answer...{p}{end}
+
+## MGE03 g1 s0486
+JP: わかってないのは、ランちゃんも同じよ。{p}
+EN: You're the one who doesn't get it, Ran-chan.{p}
+
+## MGE03 g1 s0487
+JP: 私は……、{n}もう、その答えを伝えてあるわ。{p}
+EN: I already gave you my answer.{p}
+
+## MGE03 g1 s0488
+JP: バレンタインデーに私の思いを、{n}チョコレートといっしょに……ネ。{p}{end}
+EN: On Valentine's Day, I gave you my feelings along with the chocolate... remember?{p}{end}
+
+## MGE03 g1 s0489
+JP: ランちゃんは、私にとって……、{n}「一番大切な女の子」だって……。{p}{end}
+EN: That you're "the girl who matters most" to me, Ran-chan...{p}{end}
+
+## MGE03 g1 s0491
+JP: もちろんよ。{p}{end}
+EN: Of course.{p}{end}
+
+## MGE03 g1 s0494
+JP: えぇ!{sp}いいわよ!{p}
+EN: Yeah! Sure!{p}
+
+## MGE03 g1 s0497
+JP: フフフ……。ねぇ、{v8:19}!{n}これって……、{n}「ワタシたち付き合ってます」って感じの{n}写真よね!{p}{end}
+EN: Hee hee... Hey, {v8:19}! This totally looks like a "we're going out" photo, doesn't it!{p}{end}
+
+## MGE03 g1 s0500
+JP: ち、ちょっと!{sp}やめてよ、ランちゃん!{n}そ、そんなの恥ずかしいじゃない!{p}{end}
+EN: H-hey! Stop it, Ran-chan! Th-that'd be so embarrassing!{p}{end}
+
+## MGE03 g1 s0503
+JP: さぁて、{n}帰ろっかな……。{p}
+EN: Well then, guess I'll head home...{p}
+
+## MGE03 g1 s0504
+JP: 明日から春休みね。{n}えへへ……、{n}何して遊ぼっかなぁ……。{p}
+EN: Spring break starts tomorrow. Hehe... What should I do for fun...{p}
+
+## MGE03 g1 s0505
+JP: あれ?{n}先生たちが、何か話してるわ。{p}{end}
+EN: Huh? The teachers are talking about something.{p}{end}
+
+## MGE03 g1 s0506
+JP: あいさつでもしよう!{n}私って、模範的な生徒だしね……。{n}うんうん……。{p}
+EN: I'll go say hi! I'm a model student, after all... Yep, yep...{p}
+
+## MGE03 g1 s0507
+JP: まったく、なんてやつだ……。{n}あんな生徒は、見たことねぇ!{p}
+EN: Geez, what a piece of work... I've never seen a student like that!{p}
+
+## MGE03 g1 s0520
+JP: そ、そんなぁ……!!{n}私の春休みがぁ……トホホ。{p}{end}
+EN: N-no way...!! My spring break... Boo hoo.{p}{end}
+
+## MGE03 g1 s0522
+JP: 終業式だっていうのに、{n}結局、誰にも会えなかったわ……。{p}{end}
+EN: Closing ceremony day, and I didn't end up seeing anybody...{p}{end}
+
+## MGE03 g1 s0525
+JP: え?{sp}なんださくらじゃないの。{n}どうしたの、いったい。{p}
+EN: Huh? Oh, it's just Sakura. What's going on?{p}
+
+## MGE03 g1 s0529
+JP: ス、ストリートファイト?{n}ストリートファイトって、あの?{n}ム、ムリだよ、私には……!{p}{end}
+EN: S-street fighting? Like, actual street fighting? N-no way, I can't do that...!{p}{end}
+
+## MGE03 g1 s0534
+JP: あんなのとやったら、死ぬって!{n}ネェ!{sp}さくらっ!?{n}いや、さくらさん?{p}{end}
+EN: If I fight him, I'm dead! Hey! Sakura!? I mean, Sakura-san?{p}{end}
+
+## MGE03 g1 s0536
+JP: 聞いてます?{sp}さくらさん?{n}チョットォ……?{p}{end}
+EN: Are you listening? Sakura-san? Hey, come on...?{p}{end}
+

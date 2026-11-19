@@ -1,0 +1,2072 @@
+## MGG08G g0 s0000
+JP: そろそろ集合時間だけど、{n}もうみんないるのかな?{p}{end}
+EN: Almost time to meet up. Is everybody here yet?{p}{end}
+
+## MGG08G g0 s0001
+JP: あれ、醍醐先輩だ。{n}アキラたちと何か話してるみたいだ。{n}ちょっと行ってみよう。{p}
+EN: Huh, it's Daigo-senpai. Looks like he's talking with Akira and the others. Let's go see.{p}
+
+## MGG08G g0 s0002
+JP: ……いいか、お前たち。{n}決して、人の道を外れるような{n}行動はするんじゃないぞ。{p}
+EN: ...Listen up, you lot. Whatever you do, don't stray from the right path.{p}
+
+## MGG08G g0 s0003
+JP: わかってますって、総番長。{n}なぁ、岩?{p}
+EN: We know, we know, top boss. Right, Gan?{p}
+
+## MGG08G g0 s0004
+JP: おうよ。{n}総番長、心配は無用じゃい!{p}{end}
+EN: Darn right. No need to worry, top boss!{p}{end}
+
+## MGG08G g0 s0005
+JP: わたしもいるんだから大丈夫よ、{n}兄さん。{p}{end}
+EN: I'll be there too, so it'll be fine, Brother.{p}{end}
+
+## MGG08G g0 s0006
+JP: そうだな。{n}{v4:17}、アキラのことを{n}よろしく頼むぞ。{p}
+EN: True enough. {v4:17}, take good care of Akira for me.{p}
+
+## MGG08G g0 s0007
+JP: あっ、はい。{n}わかりました。{p}{end}
+EN: Oh, yes. Will do.{p}{end}
+
+## MGG08G g0 s0008
+JP: さあ!{n}行くぞ、{v3:10}。{p}
+EN: Come on! Let's go, {v3:10}.{p}
+
+## MGG08G g0 s0009
+JP: いや～、着いた着いた。{n}長時間のバス移動ってのは、結構疲れるよ。{p}{end}
+EN: Whew, we made it. Long bus rides really wear you out.{p}{end}
+
+## MGG08G g0 s0010
+JP: {face:15}・・・・・・・・・・{face:255}{n}う～ん、この雲ひとつない空と潮の香り。{n}やっぱり夏の海って最高だよな。{p}{end}
+EN: {face:15}..........{face:255} Mmm, a cloudless sky and the smell of the sea. Nothing beats the ocean in summer.{p}{end}
+
+## MGG08G g0 s0011
+JP: コラァッ、{v3:16}っ!{n}そんなとこでなにボケっとしてやがる!{n}とっとと部屋に荷物を置いてこい!{p}
+EN: Hey, {v3:16}! What're you spacing out there for!? Get your bags to your room, pronto!{p}
+
+## MGG08G g0 s0012
+JP: うわあっ、びっくりした!{n}隼人先生、一体どうしたっていうんですか?{p}
+EN: Whoa, you scared me! Hayato-sensei, what's going on?{p}
+
+## MGG08G g0 s0013
+JP: どうしただとぉ!?{n}オマエ、寝ぼけてやがるのか?{n}臨海合宿といえば、遠泳だろうが!{p}
+EN: What's going on!? You still half asleep? Seaside camp means the long-distance swim!{p}
+
+## MGG08G g0 s0014
+JP: （そっ、そうなのかっ!?{n}{sp}だがしかし隼人先生はすでに水着だあっ!{n}{sp}あまりにも早い、早すぎるッッ!!）{p}{end}
+EN: (I-is that so!? But Hayato-sensei's already in his swimsuit! That's fast, way too fast!!){p}{end}
+
+## MGG08G g0 s0015
+JP: 夏の海でシャレたバカンス気分なんぞ、{n}10年……いいや、20年早い!{p}{end}
+EN: A fancy vacation by the summer sea? You're ten years... no, twenty years too early for that!{p}{end}
+
+## MGG08G g0 s0016
+JP: そのたるみきった根性を叩き直してやる!{n}覚悟しておけ!{p}
+EN: I'm gonna whip that slack attitude into shape! Brace yourself!{p}
+
+## MGG08G g0 s0017
+JP: う～む……{n}あんな沖にある島まで泳ぐのか。{p}
+EN: Hmmm... We're swimming all the way to that island way out there?{p}
+
+## MGG08G g0 s0018
+JP: …………どうした?{p}
+EN: ..........What's wrong?{p}
+
+## MGG08G g0 s0019
+JP: あ、流さん。{n}いえ、あの島まで泳ぐのって{n}大変そうだなと思って……{p}
+EN: Oh, Nagare-san. Nothing, I just thought swimming to that island looks pretty tough...{p}
+
+## MGG08G g0 s0020
+JP: …………そうか。{n}無理せず、自分のペースを守れ……{p}
+EN: ..........I see. Don't push yourself... Keep your own pace...{p}
+
+## MGG08G g0 s0021
+JP: は、はあ。{p}
+EN: Uh, okay.{p}
+
+## MGG08G g0 s0022
+JP: ……行っちゃった。{p}
+EN: ...He's gone.{p}
+
+## MGG08G g0 s0023
+JP: 流さんは無理するなって言ってたけど、{n}どうしようか?{p}{end}
+EN: Nagare-san said not to push myself, but what should I do?{p}{end}
+
+## MGG08G g0 s0024
+JP: ド根性!{sp}死ぬ気で泳ぐ{n}流のペースについていく{n}無理せず自分のペースを守る{n}遠泳をさぼる{p}{end}
+EN: Guts! Swim like my life depends on it{n}Keep up with Nagare's pace{n}Take it easy at my own pace{n}Skip the swim{p}{end}
+
+## MGG08G g0 s0025
+JP: よーし!{n}こうなったら、流さんに負けないくらい{n}死ぬ気で泳いでやるぞ!!{p}{end}
+EN: All right! Then I'll swim like my life depends on it. Nagare-san's not beating me!!{p}{end}
+
+## MGG08G g0 s0027
+JP: ハァハァ……ハァ……{n}ヘヘッ、俺もやればできるもんだな。{n}あの流さんを追い抜いちゃったよ。{p}
+EN: Huff, huff... huff... Heh, guess I can do it when I try. I even passed Nagare-san.{p}
+
+## MGG08G g0 s0028
+JP: …………!!{n}イテテテテテテ!{n}あ、足がつった～!!{p}{end}
+EN: ..........!! Owowowowow! M-my leg's cramping!!{p}{end}
+
+## MGG08G g0 s0029
+JP: …………無茶をするからだ。{n}見せてみろ……{p}
+EN: ..........That's what you get for overdoing it. Let me see...{p}
+
+## MGG08G g0 s0030
+JP: イテテ……{n}な、流さん?{p}{end}
+EN: Ow, ow... N-Nagare-san?{p}{end}
+
+## MGG08G g0 s0031
+JP: …………たいした事はないな。{n}じき、痛みもひくだろう……{p}{end}
+EN: ..........It's nothing serious. The pain will ease soon...{p}{end}
+
+## MGG08G g0 s0032
+JP: …………{v4:18}、{n}海の中でこんな事になったら、{n}ただではすまんぞ……{p}
+EN: ..........{v4:18}, if this happens out in the water... you won't get off so easy...{p}
+
+## MGG08G g0 s0033
+JP: すみません。{n}以後、気をつけます。{p}
+EN: Sorry. I'll be careful from now on.{p}
+
+## MGG08G g0 s0034
+JP: うわっ、なんだ?{p}{end}
+EN: Whoa, what the?{p}{end}
+
+## MGG08G g0 s0035
+JP: {v4:19}、こっち向いて!{n}そうそう。{n}ハイ!そのまま、そのまま!{p}{end}
+EN: {v4:19}, look over here! That's it. Okay! Hold it, hold it!{p}{end}
+
+## MGG08G g0 s0036
+JP: さて、それじゃあインタビューと{n}いきましょうか。{n}{v4:19}。ズバリ、今の心境は?{p}{end}
+EN: Now then, time for the interview. {v4:19}, straight up: how are you feeling right now?{p}{end}
+
+## MGG08G g0 s0037
+JP: インタビューって、{n}一体何のことだよ?{p}
+EN: Interview? What are you talking about?{p}
+
+## MGG08G g0 s0038
+JP: なに寝ぼけた事いってるの?{n}アンタが遠泳で1位を取ったっていうから、{n}そのインタビューに来たんじゃない。{p}{end}
+EN: You still half asleep? I heard you took first place in the long-distance swim, so I came to interview you!{p}{end}
+
+## MGG08G g0 s0039
+JP: そうなのか?{n}まあ、順位なんてどうでもいいや。{p}
+EN: Did I? Well, I don't really care about rankings.{p}
+
+## MGG08G g0 s0040
+JP: ……{v4:19}が、{n}何かすごくマトモな事を言ってるわっ!{n}これは、スクープよ!{p}{end}
+EN: ...{v4:19} just said something really mature! This is a scoop!{p}{end}
+
+## MGG08G g0 s0041
+JP: もしかしたら、{n}明日は季節外れの大雪かも{n}しれないわね!!{p}
+EN: We might get a freak blizzard tomorrow!!{p}
+
+## MGG08G g0 s0042
+JP: な、なんだとお!?{n}待て、コイツ!{p}
+EN: Wh-what was that!? Get back here!{p}
+
+## MGG08G g0 s0043
+JP: きゃー!!{n}「報道の自由」の侵害よっ!{p}
+EN: Eek!! You're violating "freedom of the press"!{p}
+
+## MGG08G g0 s0044
+JP: ど・こ・が・だぁ!!{p}{end}
+EN: How... is... that...!!{p}{end}
+
+## MGG08G g0 s0046
+JP: よし、何とか頑張って、流さんに{n}ついていってみよう。{p}{end}
+EN: Okay, I'll do my best to keep up with Nagare-san.{p}{end}
+
+## MGG08G g0 s0047
+JP: ゼェゼェ……{n}な、流さ～ん。{p}{end}
+EN: Wheeze, wheeze... N-Nagare-saaan.{p}{end}
+
+## MGG08G g0 s0048
+JP: …………俺についてきたのか?{p}{end}
+EN: ..........You followed me?{p}{end}
+
+## MGG08G g0 s0049
+JP: ええ。{n}でも、ついていくどころか、{n}かなり引き離されてしまいましたけど。{p}{end}
+EN: Yeah. Though instead of keeping up, I fell way behind.{p}{end}
+
+## MGG08G g0 s0050
+JP: …………そうか。{n}……頑張ったな……{p}{end}
+EN: ..........I see. ...You did well...{p}{end}
+
+## MGG08G g0 s0051
+JP: ハイハイ、そのままそのまま!{n}ふたりとも、動かないで～!{p}{end}
+EN: Okay, okay, hold it right there! Both of you, don't move~!{p}{end}
+
+## MGG08G g0 s0052
+JP: ラン、何やってるんだ?{n}こんな所まで来て。{p}
+EN: Ran, what are you doing all the way out here?{p}
+
+## MGG08G g0 s0053
+JP: 見ればわかるでしょ?{n}次期オリンピックの代表候補選手、{n}流さんの写真を撮ってるんじゃない。{p}
+EN: Isn't it obvious? I'm taking pictures of Nagare-san, a candidate for the next Olympic team!{p}
+
+## MGG08G g0 s0054
+JP: でも、流さんについてこれるなんて{n}すごいじゃない。{n}正直、アンタを見直したわ。{p}
+EN: But keeping up with Nagare-san? That's pretty amazing. Honestly, I've got a new respect for you.{p}
+
+## MGG08G g0 s0055
+JP: ランがそんな事を言うなんて……{n}明日は雨かなあ。{n}せっかくの臨海合宿なのに、残念だな。{p}
+EN: Ran saying something like that... Guess it'll rain tomorrow. Too bad, on our seaside camp and all.{p}
+
+## MGG08G g0 s0056
+JP: な、なあんですってぇ?{p}
+EN: Wh-whaaat did you say?{p}
+
+## MGG08G g0 s0057
+JP: まっったく、かわいくないヤツ!{n}たまにほめれば、これだもの。{p}{end}
+EN: Ugh, you're such a brat! I compliment you for once, and this is what I get.{p}{end}
+
+## MGG08G g0 s0059
+JP: まあ、無理しないでゆっくり行くか。{p}
+EN: Well, guess I'll take it slow and not push it.{p}
+
+## MGG08G g0 s0060
+JP: ふぅ、時間はかかったけど{n}何だか楽しかったな。{p}
+EN: Whew, it took a while, but that was kinda fun.{p}
+
+## MGG08G g0 s0061
+JP: …………それでいい。{n}本来、水泳は楽しいものだからな……{p}{end}
+EN: ..........That's right. Swimming is supposed to be fun...{p}{end}
+
+## MGG08G g0 s0062
+JP: （そうか、流さんは{n}{sp}それを言いたかったのか……）{p}
+EN: (I see, so that's what Nagare-san was trying to tell me...){p}
+
+## MGG08G g0 s0063
+JP: ありがとうございます、流さん。{n}やっぱり、何事も楽しまなくっちゃ{n}駄目ですよね。{p}{end}
+EN: Thank you, Nagare-san. You're right, you've gotta enjoy whatever you do.{p}{end}
+
+## MGG08G g0 s0064
+JP: うわ!?{p}{end}
+EN: Whoa!?{p}{end}
+
+## MGG08G g0 s0065
+JP: {v4:19}、{n}な～にチンタラ泳いでたのよ。{n}アンタ、もっと早く泳げるはずじゃない?{p}{end}
+EN: {v4:19}, what were you dawdling around for? You can swim way faster than that, can't you?{p}{end}
+
+## MGG08G g0 s0066
+JP: なんだ、ランじゃないか。{p}{end}
+EN: Oh, it's just you, Ran.{p}{end}
+
+## MGG08G g0 s0067
+JP: なんだ、じゃないわよ。{n}知ってる?{n}アンタ、ビリなんだけどね。{p}
+EN: Don't "just you" me. Did you know? You came in dead last.{p}
+
+## MGG08G g0 s0068
+JP: ええっ!{n}ウソだろ?{p}{end}
+EN: What!? No way!{p}{end}
+
+## MGG08G g0 s0069
+JP: 何で、ジャーナリストたるワタシが{n}ウソつかなくちゃいけないのよ。{p}{end}
+EN: Why would a journalist like me tell lies?{p}{end}
+
+## MGG08G g0 s0070
+JP: とにかく、隼人先生も言っていたとおり、{n}ビリは夕飯抜きだってさ。{n}大変だろうけど、がんばってね。{p}{end}
+EN: Anyway, like Hayato-sensei said, whoever finishes last skips dinner. Tough luck, but hang in there.{p}{end}
+
+## MGG08G g0 s0071
+JP: ガーーーーーーーン!!!{p}{end}
+EN: NOOOOOOOO!!!{p}{end}
+
+## MGG08G g0 s0072
+JP: おっ、いい表情っ!{n}それよ、それっ!{n}その絵が欲しかったのよ～!!{p}
+EN: Ooh, great face! That's it, that's it! That's the shot I wanted~!!{p}
+
+## MGG08G g0 s0073
+JP: 夕飯抜きだって。{n}トホホ……{p}{end}
+EN: No dinner... Boo hoo...{p}{end}
+
+## MGG08G g0 s0076
+JP: やっぱり、やーめたっと。{n}あんな所まで泳ぐなんて、{n}やってられないよ。{p}
+EN: Nah, forget it. Swimming all the way out there? No thanks.{p}
+
+## MGG08G g0 s0077
+JP: さて、みんなが遠泳している間{n}どうやって時間をつぶそうかな?{p}{end}
+EN: Now, how should I kill time while everyone's swimming?{p}{end}
+
+## MGG08G g0 s0078
+JP: こんにちは、{v5:10}。{p}
+EN: Hello, {v5:10}.{p}
+
+## MGG08G g0 s0079
+JP: いよォ、{v3:9}!{n}ヘッヘッヘ、オマエもサボりかぁ?{p}{end}
+EN: Yo, {v3:9}! Heh heh heh, you skippin' too?{p}{end}
+
+## MGG08G g0 s0080
+JP: まったく、奇遇じゃのう。{p}{end}
+EN: Well, ain't this a coincidence.{p}{end}
+
+## MGG08G g0 s0081
+JP: やあ、みんな!{n}アキラに岩はいいとして……{n}え～と、どちら様でしたっけ?{p}{end}
+EN: Hey, everybody! Akira and Gan, sure... but um, who are you again?{p}{end}
+
+## MGG08G g0 s0082
+JP: ガハハハハハハハハ!{n}エッジのヤツ、また言われとるわい。{p}{end}
+EN: Gahahahahahaha! Edge is gettin' it again.{p}{end}
+
+## MGG08G g0 s0083
+JP: ……まったく。{n}テメェ、わかってて言ってんだろうが。{p}{end}
+EN: ...Seriously. You know damn well who I am.{p}{end}
+
+## MGG08G g0 s0084
+JP: はて、何の事やら?{n}あなたとは初対面だと思うんですけど。{p}{end}
+EN: Hmm, whatever do you mean? I believe this is the first time we've met.{p}{end}
+
+## MGG08G g0 s0085
+JP: ウフフフ。{n}{v5:10}って面白いわね。{p}{end}
+EN: Hee hee. {v5:10}, you're so funny.{p}{end}
+
+## MGG08G g0 s0086
+JP: まったく、いいかげんにしろっての。{n}おい、{v3:9}。{n}今ヒマだよなぁ?{p}
+EN: Gimme a break already. Hey, {v3:9}. You're free right now, ain't ya?{p}
+
+## MGG08G g0 s0087
+JP: 私たち、これからスイカ割りを{n}するところだったの。{n}よかったら一緒にやらない?{p}
+EN: We were just about to do some watermelon splitting. Want to join us?{p}
+
+## MGG08G g0 s0088
+JP: スイカ割りか、いいね!{n}海に来たら、やらないわけには{n}いかないな。{p}
+EN: Watermelon splitting? Nice! You can't come to the beach and not do that.{p}
+
+## MGG08G g0 s0089
+JP: ヘッヘッヘ、そうと決まれば{n}さっそく始めようぜぇ?{p}
+EN: Heh heh heh, then let's get this started, huh?{p}
+
+## MGG08G g0 s0090
+JP: そこだ、アキラ!{p}{end}
+EN: Right there, Akira!{p}{end}
+
+## MGG08G g0 s0091
+JP: えい!{p}
+EN: Hyah!{p}
+
+## MGG08G g0 s0092
+JP: ボコッ!{p}{end}
+EN: BONK!{p}{end}
+
+## MGG08G g0 s0093
+JP: おっ、割れた割れた!{n}やるじゃんか、アキラ。{p}{end}
+EN: Whoa, it split! Nice one, Akira.{p}{end}
+
+## MGG08G g0 s0094
+JP: ふふっ。{n}このくらい、朝飯前よ。{p}{end}
+EN: Hee hee. That's a piece of cake.{p}{end}
+
+## MGG08G g0 s0095
+JP: うむ、このスイカなかなかウマイのう。{n}{v3:11}、おぬしも食ってみんかい。{p}{end}
+EN: Mm, this watermelon's mighty tasty. {v3:11}, have yourself a bite.{p}{end}
+
+## MGG08G g0 s0096
+JP: ああ、それじゃ食べようかな。{p}{end}
+EN: Sure, I'll have some.{p}{end}
+
+## MGG08G g0 s0097
+JP: なあ、{v3:9}。{n}オマエはどうやってスイカを{n}食べる?{p}
+EN: Hey, {v3:9}. How do you eat your watermelon?{p}
+
+## MGG08G g0 s0098
+JP: どうって、俺は……{p}
+EN: How? Well, I...{p}
+
+## MGG08G g0 s0099
+JP: 塩をかけて食べる{n}何もかけずに食べる{n}まるごと食べる{p}{end}
+EN: Sprinkle salt on it{n}Eat it plain{n}Eat it whole{p}{end}
+
+## MGG08G g0 s0100
+JP: 普通に少しだけ塩をかけて食べるぜ。{n}やっぱりこの食べ方が一番うまい気がする。{p}{end}
+EN: I just sprinkle on a little salt, like normal. That's the tastiest way, I think.{p}{end}
+
+## MGG08G g0 s0101
+JP: だよなぁ?{n}スイカにはやっぱり塩だってぇの。{p}{end}
+EN: Right? Watermelon's gotta have salt.{p}{end}
+
+## MGG08G g0 s0102
+JP: 私は……何もかけない方が、{n}スイカの味を楽しめるから{n}好きだけど。{p}
+EN: I like it plain... You can really taste the watermelon that way.{p}
+
+## MGG08G g0 s0103
+JP: ま、そういうのもアリっちゃあアリだな。{n}おい、岩。{n}オマエはどうやって食うんだよ?{p}
+EN: Well, I guess that works too. Hey, Gan. How do you eat yours?{p}
+
+## MGG08G g0 s0104
+JP: ワシか?{n}ワシはやっぱり、丸ごと食べるのが{n}一番かのう。{p}{end}
+EN: Me? I reckon eatin' it whole is best.{p}{end}
+
+## MGG08G g0 s0105
+JP: ま、丸ごと?{n}あいかわらず豪快っていうか、{n}メチャクチャっていうか……{p}
+EN: Wh-whole? That's either bold or totally nuts...{p}
+
+## MGG08G g0 s0106
+JP: ……あきれたヤツだぜぇ。{n}まぁ、その方が岩らしいけどよ。{p}{end}
+EN: ...Unbelievable. Well, that's Gan for ya.{p}{end}
+
+## MGG08G g0 s0107
+JP: いや、別に何も。{n}スイカって、このままで十分{n}おいしいから。{p}{end}
+EN: Nah, nothing on it. Watermelon's plenty tasty as is.{p}{end}
+
+## MGG08G g0 s0108
+JP: ヘッ、オマエもまだまだ{n}お子ちゃまだねえ。{n}本当においしいスイカの食べ方が{n}わからないなんてなァ!{p}
+EN: Heh, you're still just a little kid. Don't even know the real way to eat watermelon!{p}
+
+## MGG08G g0 s0109
+JP: そう?{n}私もそのまま食べるのが一番{n}おいしいと思うわ。{p}
+EN: Really? I think it tastes best as is, too.{p}
+
+## MGG08G g0 s0110
+JP: あ?{sp}そ、そうか。{n}まあ確かに、アキラがそう言うんなら{n}そうかもしれねぇな。{p}{end}
+EN: Huh? O-oh, yeah. Well, if Akira says so, maybe that's right.{p}{end}
+
+## MGG08G g0 s0111
+JP: ……おぬし、相変わらずいいかげんな{n}ヤツじゃのう。{p}
+EN: ...You're as wishy-washy as ever, ain't ya.{p}
+
+## MGG08G g0 s0112
+JP: う、うるせぇな!{n}そういう岩はどうなんだァ?{p}{end}
+EN: Sh-shut up! What about you, Gan?{p}{end}
+
+## MGG08G g0 s0113
+JP: ワシか?{sp}ワシはやっぱり、{n}丸ごと食べるのが一番かのう。{n}ガッハッハッハッハッハ!!{p}{end}
+EN: Me? I reckon eatin' it whole is best. Gahahahahaha!!{p}{end}
+
+## MGG08G g0 s0115
+JP: うーん……{n}やっぱり、丸ごと食べるのが{n}一番かな。{p}
+EN: Hmm... I'd say eating it whole is best.{p}
+
+## MGG08G g0 s0116
+JP: えっ、丸ごと?{p}
+EN: Huh? Whole?{p}
+
+## MGG08G g0 s0117
+JP: ……オマエ、そんな豪快な{n}キャラだったのかぁ?{p}
+EN: ...Since when were you that wild?{p}
+
+## MGG08G g0 s0118
+JP: そんなに変かな?{n}俺には、これが一番おいしく{n}感じるんだけど。{p}
+EN: Is it that weird? It just tastes best to me that way.{p}
+
+## MGG08G g0 s0119
+JP: ワシも、丸ごとの方がうまいと{n}思ってたんじゃ。{n}{v3:11}とは気が合いそうじゃのう。{p}
+EN: I always figured whole was tastier too. Me and {v3:11} oughta get along just fine.{p}
+
+## MGG08G g0 s0120
+JP: ゲテモノコンビがここに誕生!{n}つう感じだよなァ。{p}{end}
+EN: Behold, the birth of the Freak Duo! That's what this is.{p}{end}
+
+## MGG08G g0 s0121
+JP: ゲ、ゲテモノコンビ!?{p}
+EN: F-Freak Duo!?{p}
+
+## MGG08G g0 s0122
+JP: おう、エッジ。{n}いくらなんでもゲテモノ呼ばわりは{n}ヒドいと思うぞい。{p}{end}
+EN: Now, Edge. Callin' us freaks is goin' too far, I'd say.{p}{end}
+
+## MGG08G g0 s0123
+JP: ふふっ。{n}でも、案外いいコンビかもね。{p}
+EN: Hee hee. But you two might make a pretty good team.{p}
+
+## MGG08G g0 s0124
+JP: ん?{n}誰かこっちにくる……{n}あれはまさか、隼人先生か!?{p}{end}
+EN: Hm? Someone's coming... Wait, is that Hayato-sensei!?{p}{end}
+
+## MGG08G g0 s0125
+JP: こらあ、そこのオマエら!{n}遠泳サボって何してやがる!{p}{end}
+EN: Hey, you lot! What're you doing skipping the swim!?{p}{end}
+
+## MGG08G g0 s0126
+JP: ヤベェ、先公かよ!?{n}おい{v3:9}、ずらかるぜ!{p}{end}
+EN: Crap, it's a teacher!? Hey, {v3:9}, let's scram!{p}{end}
+
+## MGG08G g0 s0128
+JP: 午前中はエラい目にあったけど、{n}午後からは自由時間だ。{n}夏の海をおもいっきり楽しむとするか!{p}{end}
+EN: The morning was rough, but the afternoon's free time. Time to enjoy the summer sea to the fullest!{p}{end}
+
+## MGG08G g0 s0129
+JP: {face:15}・・・・・・・・・・{face:255}{n}えーと、みんなはどこにいったのかな?{p}
+EN: {face:15}..........{face:255} Let's see, where'd everyone go?{p}
+
+## MGG08G g0 s0130
+JP: あっ、{v6:1}み～つけた!{n}ねえねえ、あっちでいっしょに遊ぼうよ!{p}
+EN: Oh, found you, {v6:1}! Hey, hey, come play with us over there!{p}
+
+## MGG08G g0 s0131
+JP: やあ、ひなた。{n}いいけど、何して遊ぶんだい?{p}{end}
+EN: Hey, Hinata. Sure, but what are we playing?{p}{end}
+
+## MGG08G g0 s0132
+JP: （へえ、ひなたらしくてカワイイ水着だな。{n}{sp}うーん、あえてコメントさせてもらうと、{n}{sp}発展途上ってところかな。）{p}{end}
+EN: (Wow, a cute swimsuit, very Hinata. Hmm, if I had to comment, I'd say "still developing."){p}{end}
+
+## MGG08G g0 s0133
+JP: そうはいかないよ、ひな!{n}{v6:4}はアタシたちと{n}ビーチフラッグをやるんだからさ。{p}
+EN: Not so fast, Hina! {v6:4} is playing beach flags with us.{p}
+
+## MGG08G g0 s0134
+JP: へ?{p}{end}
+EN: Huh?{p}{end}
+
+## MGG08G g0 s0135
+JP: Wait!{sp}ユーたち、ずるいネ!{n}{v3:7}はミーたちとバカンスを{n}楽しむネ!{p}{end}
+EN: Wait! That's not fair, you guys! {v3:7} is going to enjoy vacation with us!{p}{end}
+
+## MGG08G g0 s0136
+JP: でも、いちばん最初に{v6:1}を{n}さそったのは私だもんね!{p}{end}
+EN: But I'm the one who asked {v6:1} first!{p}{end}
+
+## MGG08G g0 s0137
+JP: ちょ、ちょっと……{n}みんな、落ち着いて。{p}{end}
+EN: H-hey... Calm down, everybody.{p}{end}
+
+## MGG08G g0 s0138
+JP: （なんか、大変なことになっちゃったな。{n}{sp}どうしよう……）{p}
+EN: (This is turning into a big mess. What do I do...){p}
+
+## MGG08G g0 s0139
+JP: ハァイ、{v3:7}!{p}
+EN: Hiii, {v3:7}!{p}
+
+## MGG08G g0 s0140
+JP: ティ、ティファニー。{n}なんていうか……すごい水着だね。{p}
+EN: T-Tiffany. That's... quite a swimsuit.{p}
+
+## MGG08G g0 s0141
+JP: そう?{n}アメリカではこんなの普通ヨ。{n}それより、ミーとイッショに遊ぶネ!{p}{end}
+EN: Really? This is normal in America. Anyway, come play with me!{p}{end}
+
+## MGG08G g0 s0142
+JP: う、うん。{p}
+EN: O-okay.{p}
+
+## MGG08G g0 s0143
+JP: （{face:15}・・・・・・・・・・{face:255}{n}{sp}うれしいんだけど……{n}{sp}目のやり場に困るよなあ。）{p}{end}
+EN: ({face:15}..........{face:255} I'm happy and all... but I don't know where to look.){p}{end}
+
+## MGG08G g0 s0144
+JP: {v3:1}{col:0}クン{col:-}、{n}なあ～に鼻の下のばしてるのかな～?{p}
+EN: {v3:1}{col:0}-kun{col:-}, what're you ogling~?{p}
+
+## MGG08G g0 s0145
+JP: うわ!{n}ひ、ひなたか……おどかすなよな。{p}{end}
+EN: Whoa! H-Hinata... Don't scare me like that.{p}{end}
+
+## MGG08G g0 s0146
+JP: 何いってるの。{n}私、さっきからずっとここにいたよ。{p}
+EN: What are you talking about? I've been here the whole time.{p}
+
+## MGG08G g0 s0147
+JP: まったく、遊びに誘いに来てみれば{n}デレデレしちゃってさ。{n}……このスケベ。{p}
+EN: Geez, I come to invite you to play, and you're all goo-goo eyed. ...You perv.{p}
+
+## MGG08G g0 s0148
+JP: な、夏もいたのか。{n}気がつかなかった……{p}{end}
+EN: N-Natsu, you were here too? I didn't notice...{p}{end}
+
+## MGG08G g0 s0149
+JP: （しまったな、{n}{sp}そんなに顔に出てたのか……）{p}
+EN: (Shoot, was it that obvious on my face...){p}
+
+## MGG08G g0 s0150
+JP: ああ、いたいた。{n}探したよ、{v6:4}。{n}あっちでビーチフラッグでもやらない?{p}{end}
+EN: Oh, there you are. I was looking for you, {v6:4}. Wanna play beach flags over there?{p}{end}
+
+## MGG08G g0 s0151
+JP: へえ、ビーチフラッグか。{n}いいね、やろうか!{p}{end}
+EN: Oh, beach flags? Sounds good, let's do it!{p}{end}
+
+## MGG08G g0 s0152
+JP: （スポーティーで夏にピッタリの水着だな。{n}{sp}こうして見ると、夏って十分女の子らしい{n}{sp}んだよな。）{p}
+EN: (A sporty swimsuit, perfect for summer. Seeing her like this, Natsu's pretty girly after all.){p}
+
+## MGG08G g0 s0153
+JP: Stop!{sp}そうはさせないネ!{n}{v3:7}はミーたちと{n}遊ぶってムカシから決まってるネ。{p}
+EN: Stop! I won't let you! It's been decided forever that {v3:7} plays with us.{p}
+
+## MGG08G g0 s0154
+JP: うわ!{n}ティファニー、腕をひっぱるなって。{p}
+EN: Whoa! Tiffany, quit pulling my arm.{p}
+
+## MGG08G g0 s0155
+JP: ねえねえ、{v6:1}!{n}あっちでいっしょに遊ぼうよ!{p}
+EN: Hey, hey, {v6:1}! Come play with us over there!{p}
+
+## MGG08G g0 s0156
+JP: ……あれ?{n}夏っちゃんにティファニー。{n}みんな何やってるの?{p}{end}
+EN: ...Huh? Natsu-chan and Tiffany? What's everybody doing?{p}{end}
+
+## MGG08G g0 s0158
+JP: まぁ、誰と遊ぼうと{n}{v6:4}の自由だからね。{n}好きにしたらいいんじゃない?{p}
+EN: Well, it's up to {v6:4} who to play with. Do whatever you like, right?{p}
+
+## MGG08G g0 s0159
+JP: （そう言いつつも、{n}{sp}目が笑ってないんですけど…）{p}
+EN: (She says that, but her eyes aren't smiling...){p}
+
+## MGG08G g0 s0160
+JP: ひなたたちと遊ぶ{n}夏たちと遊ぶ{n}ティファニーたちと遊ぶ{n}この場はごまかして逃げる{p}{end}
+EN: Play with Hinata's group{n}Play with Natsu's group{n}Play with Tiffany's group{n}Make an excuse and run{p}{end}
+
+## MGG08G g0 s0161
+JP: やったね!{n}あっちでバツと恭介が待ってるんだ。{n}早く、早く!{p}{end}
+EN: Yay! Batsu and Kyosuke are waiting over there. Hurry, hurry!{p}{end}
+
+## MGG08G g0 s0162
+JP: そうこなくっちゃ!{n}じゃあ、さっそく行きましょ。{p}{end}
+EN: That's more like it! Okay, let's go.{p}{end}
+
+## MGG08G g0 s0163
+JP: オッケー!{n}それじゃ、ロイたちのとこに{n}行きまショ!{p}{end}
+EN: Okay! Then let's go to Roy and the others!{p}{end}
+
+## MGG08G g0 s0164
+JP: ごめん、遠泳で疲れちゃってさ。{n}今回はパスさせてくれよ。{p}{end}
+EN: Sorry, I'm worn out from the swim. Let me pass this time.{p}{end}
+
+## MGG08G g0 s0165
+JP: えー?{n}そんなあ……{p}{end}
+EN: What? Aww...{p}{end}
+
+## MGG08G g0 s0166
+JP: せっかくミーが誘いに来たのに、{n}もったいないネ!{p}{end}
+EN: I came all the way to invite you. What a waste!{p}{end}
+
+## MGG08G g0 s0167
+JP: だらしないわねぇ。{n}まあ、調子が悪いんならしょうがないか。{n}じゃあね、{v6:4}。{p}{end}
+EN: What a wimp. Well, if you're not feeling well, I guess it can't be helped. See ya, {v6:4}.{p}{end}
+
+## MGG08G g0 s0168
+JP: （わざわざ誘いに来てくれたのに、{n}{sp}なんか悪い事しちゃったな……）{p}
+EN: (They came all the way to invite me... I kinda feel bad...){p}
+
+## MGG08G g0 s0169
+JP: よぉ、{v3:0}!{n}やっと来やがったな。{n}まったく、待ちくたびれたぜ!{p}{end}
+EN: Yo, {v3:0}! Took you long enough. Geez, I'm sick of waitin'!{p}{end}
+
+## MGG08G g0 s0170
+JP: ゴメンゴメン。{n}で、みんな何して遊ぶんだい?{p}{end}
+EN: Sorry, sorry. So what're we playing?{p}{end}
+
+## MGG08G g0 s0171
+JP: …………バツがどうしても{n}「かき氷大食い選手権」に出ようって…{p}
+EN: ..........Batsu insists we enter the "Shaved Ice Eating Championship"...{p}
+
+## MGG08G g0 s0172
+JP: なんでも、{n}今年から始まったイベントらしい。{p}{end}
+EN: Apparently it's an event that started this year.{p}{end}
+
+## MGG08G g0 s0173
+JP: な、面白そうだろ?{n}何よりも、タダでかき氷が死ぬほど{n}食えるってんだから、やるしかねぇぜ!{p}
+EN: Sounds fun, right? Best of all, you get free shaved ice till you drop. We gotta do it!{p}
+
+## MGG08G g0 s0174
+JP: ハァ……{n}バツって、ほんっっっっと!{n}食い意地だけは人一倍よね。{p}{end}
+EN: Sigh... Batsu, seriously! When it comes to food, you're greedier than anyone.{p}{end}
+
+## MGG08G g0 s0175
+JP: {face:15}・・・・・・・・・・{face:255}{n}ううっ、あたまいたーい。{n}私、もう食べられないよぉ……{p}{end}
+EN: {face:15}..........{face:255} Ugh, my head hurts. I can't eat any more...{p}{end}
+
+## MGG08G g0 s0176
+JP: 何言ってんだ!{n}気合がたりねえぞ、ひなた!{p}
+EN: What're you saying!? You're not showin' enough guts, Hinata!{p}
+
+## MGG08G g0 s0177
+JP: ううっ、これは……{n}気合で何とかなるものなのか?{p}{end}
+EN: Ugh, is this... really something guts can fix?{p}{end}
+
+## MGG08G g0 s0178
+JP: （ううっ、確かにこれはキツイ。{n}{sp}すごい勢いで食べてるのは{n}{sp}バツだけだ。）{p}{end}
+EN: (Ugh, this is brutal. Batsu's the only one still wolfing it down.){p}{end}
+
+## MGG08G g0 s0179
+JP: バツを応援する{n}ひなたの分も食べてやる{n}恭介と逃げる{p}{end}
+EN: Cheer Batsu on{n}Eat Hinata's share{n}Run off with Kyosuke{p}{end}
+
+## MGG08G g0 s0180
+JP: お、俺はもうだめだ……{n}バツ、後は任せたぞ。{p}{end}
+EN: I-I'm done for... Batsu, the rest is up to you.{p}{end}
+
+## MGG08G g0 s0181
+JP: わ、私も……もう限界。{p}
+EN: M-me too... I'm at my limit.{p}
+
+## MGG08G g0 s0182
+JP: おいおい、マジかよ?{n}しょうがねぇな。{p}
+EN: Hey, hey, seriously? Fine, whatever.{p}
+
+## MGG08G g0 s0183
+JP: ん、恭介どうした?{n}さっきから全然食ってないじゃねーか。{p}{end}
+EN: Hm, what's up, Kyosuke? You haven't eaten a thing in a while.{p}{end}
+
+## MGG08G g0 s0184
+JP: おい、恭介。{n}どうしたんだ?{p}{end}
+EN: Hey, Kyosuke. What's wrong?{p}{end}
+
+## MGG08G g0 s0185
+JP: ……に、兄さん?{n}そこにいるのは、兄さんかい?{p}
+EN: ...B-Brother? Is that you over there, Brother?{p}
+
+## MGG08G g0 s0186
+JP: バタッ!{p}{end}
+EN: THUD!{p}{end}
+
+## MGG08G g0 s0187
+JP: うわっ!{n}恭介、しっかりしろ!{p}
+EN: Whoa! Kyosuke, hang in there!{p}
+
+## MGG08G g0 s0188
+JP: おーい、おばちゃーん!{n}かき氷おかわり!{p}{end}
+EN: Heeey, lady! Another shaved ice!{p}{end}
+
+## MGG08G g0 s0190
+JP: わ、私……{n}も、もう限界。{p}
+EN: I-I'm... at my l-limit.{p}
+
+## MGG08G g0 s0191
+JP: ひなた、無理しないで{n}ギブアップしたほうがいいよ。{p}
+EN: Hinata, don't push it. You'd better give up.{p}
+
+## MGG08G g0 s0192
+JP: おいおい、マジかよ?{n}だらしがねぇな。{p}
+EN: Hey, hey, seriously? What a wimp.{p}
+
+## MGG08G g0 s0193
+JP: ガサツなお前とひなたを一緒にするなよ。{n}ひなたは普通の女の子なんだからな。{p}
+EN: Don't lump Hinata in with a brute like you. She's a normal girl.{p}
+
+## MGG08G g0 s0194
+JP: へいへい。{n}おばちゃーん!{n}かき氷おかわり!!{p}
+EN: Yeah, yeah. Heeey, lady! Another shaved ice!!{p}
+
+## MGG08G g0 s0195
+JP: …………よし。{n}ひなた、そのかき氷かして!{p}
+EN: ..........Okay. Hinata, give me that shaved ice!{p}
+
+## MGG08G g0 s0196
+JP: え?{n}いいけど、どうするの?{p}{end}
+EN: Huh? Sure, but what are you gonna do?{p}{end}
+
+## MGG08G g0 s0197
+JP: 俺が全部食ってやる!{n}うおおおおおおおおおおおお!{p}
+EN: I'll eat it all! Raaaaaaaaaaaaaaah!{p}
+
+## MGG08G g0 s0198
+JP: ガツガツガツガツガツガツ{p}{end}
+EN: Chomp chomp chomp chomp chomp{p}{end}
+
+## MGG08G g0 s0199
+JP: うっ、うぐっ!{p}
+EN: Urk, ugh!{p}
+
+## MGG08G g0 s0201
+JP: キャアッ!!{n}ちょ、ちょっと!{n}しっかりして、{v6:1}!{p}{end}
+EN: Eek!! H-hey! Hang in there, {v6:1}!{p}{end}
+
+## MGG08G g0 s0202
+JP: おい!{n}{v4:2}、しっかりしろ!{p}{end}
+EN: Hey! {v4:2}, pull yourself together!{p}{end}
+
+## MGG08G g0 s0203
+JP: おーい、おばちゃーん!{n}かき氷おかわりね!{p}
+EN: Heeey, lady! Another shaved ice, please!{p}
+
+## MGG08G g0 s0205
+JP: 俺はもう限界だ……{n}なあ恭介、もうギブアップしないか?{p}
+EN: I'm at my limit... Hey, Kyosuke, wanna give up already?{p}
+
+## MGG08G g0 s0206
+JP: ……それもそうだな、{n}ひなたもだいぶ参ってるみたいだし、{n}この様子なら、どうせ優勝はバツだ。{p}{end}
+EN: ...Good point. Hinata looks pretty beat too, and at this rate Batsu wins anyway.{p}{end}
+
+## MGG08G g0 s0207
+JP: うん、後はバツにまかせよう。{n}すみませーん!{n}俺たち、ギブアップしまーす!{p}
+EN: Yeah, let's leave the rest to Batsu. Excuse me! We give up!{p}
+
+## MGG08G g0 s0208
+JP: そうは行くかよ!{n}{v3:0}、恭介、逃がさないぜ!{p}{end}
+EN: Not so fast! {v3:0}, Kyosuke, you ain't gettin' away!{p}{end}
+
+## MGG08G g0 s0209
+JP: う、うわあ!{n}バツ、何をするんだ!{n}や、やめろ!{sp}モガガ!{p}
+EN: Wh-whoa! Batsu, what are you doing!? S-stop! Mmph!{p}
+
+## MGG08G g0 s0210
+JP: （む、無理矢理かき氷を口の中に……{n}{sp}それも、皿ごと……あ、悪魔だ。）{p}
+EN: (He's shoving shaved ice down his throat... bowl and all... He's a demon.){p}
+
+## MGG08G g0 s0211
+JP: モガ、に、兄さーん!!{p}
+EN: Mmph, B-Brotheeer!!{p}
+
+## MGG08G g0 s0213
+JP: ああっ!{n}きょ、恭介!!{p}{end}
+EN: Ahh! K-Kyosuke!!{p}{end}
+
+## MGG08G g0 s0214
+JP: {v3:0}、逃がさないぜ!{p}{end}
+EN: {v3:0}, you ain't gettin' away!{p}{end}
+
+## MGG08G g0 s0215
+JP: う、うわあ!{n}バツ、やめろ!{n}く、来るなあ!{p}{end}
+EN: Wh-whoa! Batsu, stop it! D-don't come near me!{p}{end}
+
+## MGG08G g0 s0217
+JP: 結局、バツの一人勝ちだったな。{p}
+EN: In the end, Batsu won by a mile.{p}
+
+## MGG08G g0 s0218
+JP: ヘヘッ、あんなの軽いぜ。{p}{end}
+EN: Heh, that was nothin'.{p}{end}
+
+## MGG08G g0 s0219
+JP: そういえば、バツ。{n}優勝賞品っていったい何を{n}もらったの?{p}
+EN: Oh yeah, Batsu. What did you get as a prize?{p}
+
+## MGG08G g0 s0220
+JP: ん?{n}ああ、そういや全然見てなかったな。{n}えーと、なになに……?{p}{end}
+EN: Hm? Oh, I didn't even look. Let's see, what's it say...?{p}{end}
+
+## MGG08G g0 s0221
+JP: （ゴクリ{face:15}・・・・・・・・・・{face:255}）{p}
+EN: (Gulp{face:15}..........{face:255}){p}
+
+## MGG08G g0 s0222
+JP: 「かき氷無料サービス券」一年分だってよ!{n}こりゃ、ラッキーだぜ!{p}{end}
+EN: A year's worth of "Free Shaved Ice Coupons"! Talk about lucky!{p}{end}
+
+## MGG08G g0 s0224
+JP: （まだかき氷食べるつもりなのか……{n}{sp}ほんとに……バケモノだ。）{p}{end}
+EN: (He's still planning to eat more shaved ice... He's... a monster.){p}{end}
+
+## MGG08G g0 s0225
+JP: 将馬!{sp}ロベルト!{n}{v6:4}を連れてきたよ。{p}{end}
+EN: Shoma! Roberto! I brought {v6:4}.{p}{end}
+
+## MGG08G g0 s0226
+JP: おおっ!{n}夏、でかした!{p}{end}
+EN: All right! Nice work, Natsu!{p}{end}
+
+## MGG08G g0 s0227
+JP: よぉ、{v3:5}!{n}悪いな、俺達につきあわせてしまって。{n}いろいろ予定があったんだろ?{p}{end}
+EN: Hey, {v3:5}! Sorry for dragging you into this. You probably had plans, right?{p}{end}
+
+## MGG08G g0 s0228
+JP: いや、別に予定なんてないよ。{n}それよりも、ビーチフラッグってのを{n}一度遊んでみたくってさ。{p}
+EN: Nah, no plans. Besides, I've always wanted to try this beach flags thing.{p}
+
+## MGG08G g0 s0229
+JP: よし!{n}それじゃ、さっそく始めようぜ。{p}
+EN: All right! Let's get started.{p}
+
+## MGG08G g0 s0230
+JP: ズザザッ!!{p}{end}
+EN: SKID!!{p}{end}
+
+## MGG08G g0 s0231
+JP: くっそおおお!{n}また負けちまった!{p}
+EN: Daaang it! I lost again!{p}
+
+## MGG08G g0 s0232
+JP: ふぅー。{n}今のは危なかったな。{p}
+EN: Whew. That was a close one.{p}
+
+## MGG08G g0 s0233
+JP: はじめてにしては上出来じゃない。{n}それにひきかえ、将馬はだらしないわね。{p}{end}
+EN: Not bad for your first time. Shoma, on the other hand, is pathetic.{p}{end}
+
+## MGG08G g0 s0234
+JP: い、今のは、スタートの時に{n}足がすべったんだよ。{n}{v3:3}、もう一回勝負だ!!{p}
+EN: Th-that's 'cause my foot slipped at the start. {v3:3}, one more round!!{p}
+
+## MGG08G g0 s0235
+JP: ちょ、ちょっとまってくれ。{n}もうヘトヘトだよ。{n}せめて、少し休ませてくれよ。{p}{end}
+EN: H-hold on. I'm beat. At least let me rest a bit.{p}{end}
+
+## MGG08G g0 s0236
+JP: ぶっ続けでやってれば無理もないさ。{n}疲れてケガでもしたらつまらないからな、{n}しばらくそこで休んでるといい。{p}
+EN: No wonder, going nonstop like that. It's no fun if you get tired and hurt yourself. Rest over there for a while.{p}
+
+## MGG08G g0 s0237
+JP: そうね、じゃあアタシたち3人で{n}勝負でもしようか。{p}
+EN: Right. Then how about the three of us have a match?{p}
+
+## MGG08G g0 s0238
+JP: へっ、望むところだ!{n}夏、今度こそギャフンと言わせてやるぜ。{p}{end}
+EN: Heh, bring it on! Natsu, this time I'm gonna make you eat dirt.{p}{end}
+
+## MGG08G g0 s0239
+JP: よし、じゃあ…{p}
+EN: Okay, then...{p}
+
+## MGG08G g0 s0240
+JP: 将馬を応援する{n}夏を応援する{n}ロベルトを応援する{p}{end}
+EN: Cheer for Shoma{n}Cheer for Natsu{n}Cheer for Roberto{p}{end}
+
+## MGG08G g0 s0241
+JP: 将馬、いけー!{p}
+EN: Go, Shoma!{p}
+
+## MGG08G g0 s0242
+JP: おぉりゃああああ!{p}
+EN: Hyaaaaaah!{p}
+
+## MGG08G g0 s0244
+JP: へへーん、オイラの勝ちだな!{p}{end}
+EN: Heh heh, I win!{p}{end}
+
+## MGG08G g0 s0245
+JP: やるなあ、将馬!{p}{end}
+EN: Nice one, Shoma!{p}{end}
+
+## MGG08G g0 s0246
+JP: ま、オイラにかかればこんなもんかな。{n}結局はスピードだぜ、スピード。{n}ムダに身長ばかり高くてもだめだよなぁ。{p}{end}
+EN: Well, that's what ya get with me. It all comes down to speed. Being tall for nothin' doesn't cut it.{p}{end}
+
+## MGG08G g0 s0247
+JP: ちょっと、将馬。{n}それはアタシへのあてつけ?{p}{end}
+EN: Hey, Shoma. Is that a dig at me?{p}{end}
+
+## MGG08G g0 s0248
+JP: ありゃ、そう聞こえたか?{n}ワリィワリィ。{p}{end}
+EN: Whoops, did it sound like that? My bad, my bad.{p}{end}
+
+## MGG08G g0 s0249
+JP: 将馬、{n}ひょっとしてケンカ売ってる?{p}{end}
+EN: Shoma, are you picking a fight?{p}{end}
+
+## MGG08G g0 s0250
+JP: おいおい、よせよ。こんな所まで来て。{n}まったく、しょうがないやつらだな。{p}{end}
+EN: Hey, hey, knock it off. Not out here. Geez, you two are hopeless.{p}{end}
+
+## MGG08G g0 s0252
+JP: 夏、頑張れ!{p}{end}
+EN: Go, Natsu!{p}{end}
+
+## MGG08G g0 s0253
+JP: もらった!{p}
+EN: Got it!{p}
+
+## MGG08G g0 s0255
+JP: ふふふっ、アタシの勝ちね。{p}
+EN: Hee hee, I win.{p}
+
+## MGG08G g0 s0256
+JP: やるなぁ、夏。{p}
+EN: Nice one, Natsu.{p}
+
+## MGG08G g0 s0257
+JP: ありがと。{n}でも、半分は{v6:4}の{n}応援のおかげだよ。{p}
+EN: Thanks. But half of it's thanks to your cheering, {v6:4}.{p}
+
+## MGG08G g0 s0258
+JP: ちぇっ、まあしょうがねぇか。{n}オイラとちがって、夏は手が長いからな。{p}{end}
+EN: Tch, well, can't be helped. Unlike me, Natsu's got long arms.{p}{end}
+
+## MGG08G g0 s0259
+JP: ちょっと、将馬。{n}自分の足が短いのをタナにあげて、{n}人をサルみたいに言わないでくれる?{p}
+EN: Hey, Shoma. Don't ignore your own short legs and make me sound like a monkey.{p}
+
+## MGG08G g0 s0260
+JP: またはじまったか……{n}まったく、しょうがないやつらだな。{p}{end}
+EN: Here we go again... Geez, you two are hopeless.{p}{end}
+
+## MGG08G g0 s0262
+JP: ロベルト、負けるなよ!{p}
+EN: Roberto, don't lose!{p}
+
+## MGG08G g0 s0263
+JP: おう!{p}
+EN: You got it!{p}
+
+## MGG08G g0 s0265
+JP: フッ、{n}ロスタイムで決勝ゴールってやつだな。{p}{end}
+EN: Heh, a winning goal in stoppage time.{p}{end}
+
+## MGG08G g0 s0266
+JP: やるなあ、ロベルト。{n}見直したぜ!{p}
+EN: Nice one, Roberto. I'm impressed!{p}
+
+## MGG08G g0 s0267
+JP: サポーターの声援に応えてこそ、{n}本当のプロってもんだからな。{p}{end}
+EN: Answering the fans' cheers is what makes a true pro.{p}{end}
+
+## MGG08G g0 s0268
+JP: くっそおー。{n}オイラにせめてあと3センチ、いや2センチ{n}だけ身長があればなあ……{p}{end}
+EN: Daaang. If only I was 3 centimeters taller... no, just 2...{p}{end}
+
+## MGG08G g0 s0269
+JP: ほらほら、ボヤかないの。{n}素直に負けを認めたらどう?{p}{end}
+EN: Come on, quit grumbling. Why not just admit you lost?{p}{end}
+
+## MGG08G g0 s0270
+JP: チェッ……{n}まあ、しょうがねぇか。{p}
+EN: Tch... Well, can't be helped.{p}
+
+## MGG08G g0 s0271
+JP: じゃあ、将馬。{n}俺とまた勝負しようぜ。{p}
+EN: Then, Shoma. Let's have another go.{p}
+
+## MGG08G g0 s0272
+JP: おう、望むところだぜ!{p}
+EN: You're on!{p}
+
+## MGG08G g0 s0274
+JP: ロイ!{sp}ボーマン!{n}{v3:7}を連れてきたヨ!{p}{end}
+EN: Roy! Boman! I brought {v3:7}!{p}{end}
+
+## MGG08G g0 s0275
+JP: ああ、ティファニーご苦労さん。{p}
+EN: Ah, thanks, Tiffany.{p}
+
+## MGG08G g0 s0276
+JP: やあ、みんなおそろいだね。{n}ところで、何をして遊ぶんだい?{p}
+EN: Hey, everybody's here. So, what are we playing?{p}
+
+## MGG08G g0 s0277
+JP: そうですね。{n}「山くずし」などはどうですか?{p}{end}
+EN: Let me see. How about "Topple the Mountain"?{p}{end}
+
+## MGG08G g0 s0278
+JP: 山クズシ?{n}ボーマンすごいネ!{n}山をコワすの?{p}
+EN: Topple the Mountain? Boman, amazing! You break a mountain?{p}
+
+## MGG08G g0 s0279
+JP: 本物の山をくずすわけないだろ。{n}こうやって、砂山に立てた棒を倒さない{n}ように砂を取っていく遊びだよ。{p}{end}
+EN: Not a real mountain. You stand a stick in a sand pile, then take turns scooping sand without knocking it over.{p}{end}
+
+## MGG08G g0 s0280
+JP: ナルホドネ!{n}で、棒を倒したらどうなるの?{p}
+EN: I see! So what happens if the stick falls?{p}
+
+## MGG08G g0 s0281
+JP: そうだな……{n}バツゲームってことで、ジュースを{n}全員におごるっていうのはどう?{p}
+EN: Let's see... As a penalty, you buy juice for everybody. How's that?{p}
+
+## MGG08G g0 s0282
+JP: なるほど、それなら適度に{n}スリリングですね。{n}そうしましょうか。{p}{end}
+EN: I see, that makes it just thrilling enough. Let us do that.{p}{end}
+
+## MGG08G g0 s0283
+JP: サンセー!{n}なんだか楽しそうネ。{p}{end}
+EN: Yes! That sounds fun.{p}{end}
+
+## MGG08G g0 s0284
+JP: じゃあ、早速始めようぜ!{p}{end}
+EN: Okay, let's get started!{p}{end}
+
+## MGG08G g0 s0286
+JP: 簡単に勝てるだろうと思ってたけど、{n}みんな意外にねばるな。{p}
+EN: I thought I'd win easily, but everyone's hanging in there.{p}
+
+## MGG08G g0 s0287
+JP: よし、こうなったら……{p}
+EN: All right, in that case...{p}
+
+## MGG08G g0 s0288
+JP: ロイに合図を送る{n}ティファニーに合図を送る{n}ボーマンに合図を送る{p}{end}
+EN: Signal Roy{n}Signal Tiffany{n}Signal Boman{p}{end}
+
+## MGG08G g0 s0289
+JP: ロイと組んで、ボーマンに{n}ジュースをおごってもらおうかな。{n}ふっふっふっふっふ。{p}{end}
+EN: I'll team up with Roy and get Boman to buy us juice. Heh heh heh heh heh.{p}{end}
+
+## MGG08G g0 s0290
+JP: さっそく、ロイとアイコンタクトだ!{p}
+EN: Time for some eye contact with Roy!{p}
+
+## MGG08G g0 s0292
+JP: （……?{n}{sp}…………オッケー!）{p}{end}
+EN: (...? ..........Okay!){p}{end}
+
+## MGG08G g0 s0293
+JP: よし!{n}うまく伝わったみたいだ。{n}頼んだぜ、ロイ。{p}
+EN: Yes! Looks like he got it. Counting on you, Roy.{p}
+
+## MGG08G g0 s0294
+JP: ワーオ!{n}ロイ、すごいネ!{n}これじゃ、ボーマン危ないネ!{p}{end}
+EN: Wow! Roy, amazing! Boman's in trouble now!{p}{end}
+
+## MGG08G g0 s0295
+JP: やりますね、ロイ。{n}こ、これは難しいですよ……{p}
+EN: Well done, Roy. Th-this is a tough one...{p}
+
+## MGG08G g0 s0297
+JP: パタッ!{p}{end}
+EN: Plop!{p}{end}
+
+## MGG08G g0 s0298
+JP: おお、神よぉ!!{p}{end}
+EN: Oh, Lord!!{p}{end}
+
+## MGG08G g0 s0299
+JP: はっはっはっはっは。{n}悪いな、ボーマン。{p}{end}
+EN: Hahahahaha. Sorry, Boman.{p}{end}
+
+## MGG08G g0 s0300
+JP: ボーマン、ごちそうさまネ!{p}
+EN: Boman, thanks for the treat!{p}
+
+## MGG08G g0 s0301
+JP: （こうして、俺達はボーマンに{n}{sp}おいしいジュースをおごって{n}{sp}もらったのだった……）{p}{end}
+EN: (And so, Boman bought us all some delicious juice...){p}{end}
+
+## MGG08G g0 s0303
+JP: ティファニーと組んで、ボーマンに{n}ジュースをおごってもらおうかな。{n}ふっふっふっふっふ。{p}{end}
+EN: I'll team up with Tiffany and get Boman to buy us juice. Heh heh heh heh heh.{p}{end}
+
+## MGG08G g0 s0304
+JP: さっそく、ティファニーと{n}アイコンタクトだ!{p}{end}
+EN: Time for some eye contact with Tiffany!{p}{end}
+
+## MGG08G g0 s0307
+JP: よし!{n}うまく伝わったみたいだ。{n}頼んだぜ、ティファニー。{p}
+EN: Yes! Looks like she got it. Counting on you, Tiffany.{p}
+
+## MGG08G g0 s0309
+JP: ……フゥ。{n}次は、ボーマンの番ネ!{p}
+EN: ...Phew. Next is Boman's turn!{p}
+
+## MGG08G g0 s0310
+JP: すごいじゃないか、ティファニー。{n}これじゃ、ボーマンが危ないな!{p}{end}
+EN: Not bad, Tiffany. Boman's in trouble now!{p}{end}
+
+## MGG08G g0 s0311
+JP: やりますね、ティファニー。{n}こ、これは難しいですよ……{p}
+EN: Well done, Tiffany. Th-this is a tough one...{p}
+
+## MGG08G g0 s0315
+JP: ウフフフ。{n}ボーマン、ごちそうさまネ!{p}
+EN: Hee hee. Boman, thanks for the treat!{p}
+
+## MGG08G g0 s0318
+JP: ボーマンと組んで、ロイに{n}ジュースをおごってもらおうかな。{n}ふっふっふっふっふ。{p}{end}
+EN: I'll team up with Boman and get Roy to buy us juice. Heh heh heh heh heh.{p}{end}
+
+## MGG08G g0 s0319
+JP: さっそく、ボーマンと{n}アイコンタクトだ!{p}{end}
+EN: Time for some eye contact with Boman!{p}{end}
+
+## MGG08G g0 s0321
+JP: （……?{n}{sp}…………まかせてください!）{p}{end}
+EN: (...? ..........Leave it to me!){p}{end}
+
+## MGG08G g0 s0322
+JP: よし!{n}うまく伝わったみたいだ。{n}頼んだぜ、ボーマン。{p}
+EN: Yes! Looks like he got it. Counting on you, Boman.{p}
+
+## MGG08G g0 s0323
+JP: ボーマン、すごいネ。{n}これじゃ、ロイが危ないネ!{p}{end}
+EN: Boman, amazing. Roy's in trouble now!{p}{end}
+
+## MGG08G g0 s0324
+JP: やるな、ボーマン。{n}これはさすがに難しいぞ……{p}
+EN: Not bad, Boman. This one really is tough...{p}
+
+## MGG08G g0 s0326
+JP: ……ふぅ。{n}さあ、{v3:6}の番だぜ。{p}{end}
+EN: ...Phew. Now it's your turn, {v3:6}.{p}{end}
+
+## MGG08G g0 s0327
+JP: ゲゲゲ!{n}あれをクリアしたのか!?{n}く、くそう……{p}
+EN: Yikes! He cleared that!? D-dang it...{p}
+
+## MGG08G g0 s0329
+JP: うわあ、倒れたよ!{n}……トホホホ、俺のおごりかあ。{p}
+EN: Aaah, it fell! ...Boo hoo, I'm buying.{p}
+
+## MGG08G g0 s0330
+JP: ハハハハハ!{n}悪いな、{v3:6}。{p}{end}
+EN: Hahahahaha! Sorry, {v3:6}.{p}{end}
+
+## MGG08G g0 s0331
+JP: ウフフフ。{n}{v3:7}、ごちそうさまネ!{p}
+EN: Hee hee. {v3:7}, thanks for the treat!{p}
+
+## MGG08G g0 s0332
+JP: （こうして俺は、みんなに{n}{sp}ジュースをおごるハメに{n}{sp}なってしまった……）{p}
+EN: (And so, I got stuck buying juice for everyone...){p}
+
+## MGG08G g0 s0334
+JP: それじゃあ、しばらくビーチで{n}ゆっくりしてようかな。{p}{end}
+EN: Guess I'll just relax on the beach for a while.{p}{end}
+
+## MGG08G g0 s0335
+JP: ……ん?{n}あそこのパラソルにいるのは、{n}響子先生たちかな?{p}
+EN: ...Hm? Is that Kyoko-sensei and the others under that parasol?{p}
+
+## MGG08G g0 s0336
+JP: あら、{v1}{col:0}クン{col:-}。{n}ひとりでどうしたの?{p}{end}
+EN: Oh, {v1}{col:0}-kun{col:-}. What's up, all by yourself?{p}{end}
+
+## MGG08G g0 s0337
+JP: ……フッ、わかるぜ{v3:16}。{n}女子生徒たちにふられたんだな?{n}さあ、俺の胸で好きなだけ泣け!{p}{end}
+EN: ...Heh, I get it, {v3:16}. The girls turned you down, huh? C'mon, cry on my chest all you want!{p}{end}
+
+## MGG08G g0 s0338
+JP: ……ちがいますよ。{n}どうしてそうなるんですか。{p}
+EN: ...That's not it. How'd you get that idea?{p}
+
+## MGG08G g0 s0339
+JP: ところで、先生たちは{n}ここで何をしてるんですか?{p}{end}
+EN: By the way, what are you all doing here?{p}{end}
+
+## MGG08G g0 s0340
+JP: ようやく遠泳の後片付けが終わって、{n}ちょうどひと休みしている所だよ。{p}{end}
+EN: We finally finished cleaning up after the swim, so we're taking a short break.{p}{end}
+
+## MGG08G g0 s0341
+JP: そうそう、{v1}{col:0}クン{col:-}。{n}ちょっとお願いがあるんだけど、{n}聞いてもらえないかしら?{p}{end}
+EN: Oh, that's right, {v1}{col:0}-kun{col:-}. Could you do me a little favor?{p}{end}
+
+## MGG08G g0 s0342
+JP: ええ、いいですよ。{n}お願いってなんですか?{p}
+EN: Sure. What is it?{p}
+
+## MGG08G g0 s0343
+JP: 日焼けしちゃうと困るから、{n}手の届かない所に日焼け止めを{n}ぬってほしいのよ。{p}{end}
+EN: I don't want to get sunburned, so could you put sunscreen where I can't reach?{p}{end}
+
+## MGG08G g0 s0344
+JP: な、何いいいいぃっ!?{p}
+EN: Wh-whaaaaaat!?{p}
+
+## MGG08G g0 s0345
+JP: きょ、響子先生!?{p}
+EN: K-Kyoko-sensei!?{p}
+
+## MGG08G g0 s0346
+JP: え、えーと……{p}
+EN: Uh, um...{p}
+
+## MGG08G g0 s0347
+JP: 喜んで引き受ける{n}隼人にゆずる{n}英雄にゆずる{p}{end}
+EN: Gladly accept{n}Hand it to Hayato{n}Hand it to Hideo{p}{end}
+
+## MGG08G g0 s0348
+JP: よ、喜んでやらせていただきます!{p}{end}
+EN: I-I'd be delighted to!{p}{end}
+
+## MGG08G g0 s0349
+JP: そう、ありがとう。{n}それじゃ、まんべんなくお願いね。{p}{end}
+EN: Really? Thank you. Get it on nice and even, okay?{p}{end}
+
+## MGG08G g0 s0350
+JP: ハ、ハイ!{p}
+EN: Y-yes ma'am!{p}
+
+## MGG08G g0 s0351
+JP: （なんという役得。{n}{sp}ううっ、生きてて良かったなあ……）{p}{end}
+EN: (What a perk. Ugh, I'm so glad to be alive...){p}{end}
+
+## MGG08G g0 s0352
+JP: アン{col:5}♥{col:-}{n}{v1}{col:0}クン{col:-}、くすぐったいわ。{p}{end}
+EN: Ahn{col:5}♥{col:-} {v1}{col:0}-kun{col:-}, that tickles.{p}{end}
+
+## MGG08G g0 s0353
+JP: （きょ、響子先生、色っぽすぎるぞ……{n}{sp}でも……ラッキー{col:5}♥{col:-}）{p}{end}
+EN: (K-Kyoko-sensei is way too sexy... but... lucky me{col:5}♥{col:-}){p}{end}
+
+## MGG08G g0 s0354
+JP: （こうして{v1}は、とても有意義な{n}{sp}午後を過ごしたのだった……）{p}
+EN: (And so {v1} spent a very rewarding afternoon...){p}
+
+## MGG08G g0 s0355
+JP: 響子先生、すみません。{n}ちょっと急用を思い出したんで、{n}隼人先生にしてもらってください。{p}{end}
+EN: Sorry, Kyoko-sensei. I just remembered something urgent, so please have Hayato-sensei do it.{p}{end}
+
+## MGG08G g0 s0356
+JP: そう、残念ね……{n}じゃあ隼人先生、{n}お願いしてよろしいですか?{p}
+EN: Oh, too bad... Then, Hayato-sensei, would you mind?{p}
+
+## MGG08G g0 s0357
+JP: フッ、{v3:16}……{n}すまなねぇな、{n}生徒に気をつかわせちまって。{p}{end}
+EN: Heh, {v3:16}... Sorry, makin' a student look out for me.{p}{end}
+
+## MGG08G g0 s0358
+JP: 何を言ってるんですか、隼人先生。{n}先生のためなら当然ですよ。{p}{end}
+EN: What are you saying, Hayato-sensei? Anything for you, sir.{p}{end}
+
+## MGG08G g0 s0359
+JP: そうか、お前の分も俺がしっかり{n}やっておくからな!{p}
+EN: I see. Then I'll do a proper job, for your sake too!{p}
+
+## MGG08G g0 s0360
+JP: ガシッ!{p}{end}
+EN: Grip!{p}{end}
+
+## MGG08G g0 s0361
+JP: （隼人と{v1}は{n}{sp}教師と生徒を超えた熱い友情の{n}{sp}握手を交わした!）{p}
+EN: (Hayato and {v1} shared a handshake of burning friendship beyond teacher and student!){p}
+
+## MGG08G g0 s0363
+JP: 響子先生、すみません。{n}ちょっと急用を思い出したんで、{n}英雄先生にしてもらってください。{p}{end}
+EN: Sorry, Kyoko-sensei. I just remembered something urgent, so please have Hideo-sensei do it.{p}{end}
+
+## MGG08G g0 s0364
+JP: そう、残念ね……{n}じゃあ英雄先生、{n}お願いしてよろしいですか?{p}
+EN: Oh, too bad... Then, Hideo-sensei, would you mind?{p}
+
+## MGG08G g0 s0365
+JP: {v0}{col:0}君{col:-}……{n}すまない、生徒である君に{n}気をつかわせてしまって。{p}{end}
+EN: {v0}{col:0}-kun{col:-}... I'm sorry to make you, a student, look out for me.{p}{end}
+
+## MGG08G g0 s0366
+JP: 何を言ってるんですか、英雄先生。{n}先生のためなら当然ですよ。{p}{end}
+EN: What are you saying, Hideo-sensei? Anything for you, sir.{p}{end}
+
+## MGG08G g0 s0367
+JP: ありがとう、{v0}{col:0}君{col:-}。{n}君の好意、無駄にはしない……{p}{end}
+EN: Thank you, {v0}{col:0}-kun{col:-}. I won't let your kindness go to waste...{p}{end}
+
+## MGG08G g0 s0369
+JP: （英雄と{v1}は{n}{sp}教師と生徒を超えた熱い友情の{n}{sp}握手を交わした!）{p}
+EN: (Hideo and {v1} shared a handshake of burning friendship beyond teacher and student!){p}
+
+## MGG08G g0 s0371
+JP: 楽しい時間っていうのは{n}本当に過ぎるのが早いもんだよな。{n}もう夜になっちゃったよ。{p}
+EN: Good times really do fly by. It's already night.{p}
+
+## MGG08G g0 s0372
+JP: ……まだ消灯まではだいぶ時間があるけど、{n}誰のところに行って遊ぼうか?{p}
+EN: ...There's still plenty of time before lights-out. Who should I go hang out with?{p}
+
+## MGG08G g0 s0373
+JP: バツたちと遊ぶ{sp}{sp}{sp}将馬たちと遊ぶ{n}ロイたちと遊ぶ{sp}{sp}{sp}エッジたちと遊ぶ{n}先生たちと遊ぶ{sp}{sp}{sp}{p}
+EN: Batsu's group       Shoma's group{n}Roy's group         Edge's group{n}The teachers        {p}
+
+## MGG08G g0 s0374
+JP: よし、それじゃバツたちの所に行って{n}遊ぶことにしようかな。{p}
+EN: Okay, I'll go hang out with Batsu and the others.{p}
+
+## MGG08G g0 s0375
+JP: よし、それじゃ将馬たちの所に行って{n}遊ぶことにしようかな。{p}
+EN: Okay, I'll go hang out with Shoma and the others.{p}
+
+## MGG08G g0 s0376
+JP: よし、それじゃロイたちの所に行って{n}遊ぶことにしようかな。{p}
+EN: Okay, I'll go hang out with Roy and the others.{p}
+
+## MGG08G g0 s0377
+JP: よし、それじゃエッジたちの所に行って{n}遊ぶことにしようかな。{p}{end}
+EN: Okay, I'll go hang out with Edge and the others.{p}{end}
+
+## MGG08G g0 s0378
+JP: よし、それじゃ先生たちの所に行って{n}遊ぶことにしようかな。{p}
+EN: Okay, I'll go hang out with the teachers.{p}
+
+## MGG08G g0 s0379
+JP: あ、いたいた。{n}おーい、みんな!{p}{end}
+EN: Oh, there they are. Hey, everybody!{p}{end}
+
+## MGG08G g0 s0380
+JP: おう、{v3:0}。{n}いいところに来たな。{p}
+EN: Yo, {v3:0}. Good timing.{p}
+
+## MGG08G g0 s0381
+JP: もう、することが何もなくって{n}退屈で死にそうだよ。{p}
+EN: There's nothing to do. I'm bored to death.{p}
+
+## MGG08G g0 s0382
+JP: へへへっ、{n}そんなこともあろうかと思ってね。{n}実は、花火を持ってきてるんだ。{p}{end}
+EN: Heh heh, I figured that might happen. I actually brought some fireworks.{p}{end}
+
+## MGG08G g0 s0383
+JP: 花火ですって?{n}それは聞き捨てならないわね。{p}{end}
+EN: Fireworks, you say? Now that I can't ignore.{p}{end}
+
+## MGG08G g0 s0384
+JP: ランじゃないか。{n}まったく……{n}どこからわいて出たんだ?{p}{end}
+EN: Ran? Geez... Where'd you pop up from?{p}{end}
+
+## MGG08G g0 s0385
+JP: フフフ、このワタシがこんな{n}おいしいネタを逃すわけが{n}ないじゃないの。{p}
+EN: Hee hee, like I'd ever miss a juicy story like this.{p}
+
+## MGG08G g0 s0386
+JP: ともかく、この事を先生に{n}ばらされたくなかったら{n}ワタシにもやらせなさいよね。{p}
+EN: Anyway, if you don't want the teachers finding out, you'd better let me join in.{p}
+
+## MGG08G g0 s0387
+JP: まったく、素直じゃないよな。{n}花火をやりたいなら、{n}そう言えばいいのに。{p}{end}
+EN: Geez, she's so stubborn. If she wants to do fireworks, she should just say so.{p}{end}
+
+## MGG08G g0 s0388
+JP: まあ、いいじゃないか。{n}こういうことは、皆でやった方が{n}楽しいものさ。{p}
+EN: Well, why not? Things like this are more fun with everyone.{p}
+
+## MGG08G g0 s0389
+JP: ねぇねぇ、{v6:1}。{n}いったい、どんな花火を持ってきたの?{p}
+EN: Hey, hey, {v6:1}. What kind of fireworks did you bring?{p}
+
+## MGG08G g0 s0390
+JP: えーと、{n}俺が持ってきたのは……{p}{end}
+EN: Let's see, what I brought is...{p}{end}
+
+## MGG08G g0 s0391
+JP: ロケット花火{n}手持ち花火{n}線香花火{n}打ち上げ花火{p}{end}
+EN: Bottle rockets{n}Handheld fireworks{n}Sparklers{n}Aerial fireworks{p}{end}
+
+## MGG08G g0 s0392
+JP: ロケット花火を持ってきたんだ。{n}これなら、とりあえず遊べるかなと{n}思ってね。{p}{end}
+EN: I brought bottle rockets. I figured these would be fun at least.{p}{end}
+
+## MGG08G g0 s0393
+JP: おっ、ロケット花火か。{n}やっぱり、こいつが一番だよな。{p}
+EN: Ooh, bottle rockets. Yeah, these are the best.{p}
+
+## MGG08G g0 s0394
+JP: もしかして、バツってロケット花火で{n}戦争ゴッコとかしてなかったか?{p}
+EN: Batsu, don't tell me you used to play war with bottle rockets?{p}
+
+## MGG08G g0 s0395
+JP: へぇ、よくわかったな。{n}ロケット花火っていえばあれだよな。{p}
+EN: Heh, how'd you know? That's what bottle rockets are for, right?{p}
+
+## MGG08G g0 s0396
+JP: やっぱり……{n}バツならやりかねないからなぁ。{n}今日はそんな危ない事させないぞ。{p}
+EN: Figures... Batsu would do that. No dangerous stuff like that today.{p}
+
+## MGG08G g0 s0397
+JP: おいおい、マジかよ?{n}それじゃあ、楽しみ半減だぜ。{p}
+EN: Hey, hey, seriously? That's half the fun gone.{p}
+
+## MGG08G g0 s0398
+JP: 危ないからダメだっつうの!{p}
+EN: It's dangerous, so no means no!{p}
+
+## MGG08G g0 s0400
+JP: ……こうして俺は、{n}バツたちと花火をして遊び、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}{end}
+EN: ...And so I played with fireworks with Batsu and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0401
+JP: 普通の手持ち花火を持ってきたんだ。{n}これなら種類も多いし、退屈しないかと{n}思ってね。{p}{end}
+EN: I brought regular handheld fireworks. There are lots of kinds, so I figured we wouldn't get bored.{p}{end}
+
+## MGG08G g0 s0402
+JP: すごーい。{n}いろんな種類の花火があるんだね。{n}ねぇ、早くやろうよ!{p}
+EN: Wow! There are so many kinds of fireworks. Hey, let's hurry and light them!{p}
+
+## MGG08G g0 s0403
+JP: ひなたはこういう花火が好きなの?{n}てっきりハデな花火の方が{n}好きなのかと思ってたよ。{p}{end}
+EN: Hinata, you like these kinds of fireworks? I figured you'd like the flashier ones.{p}{end}
+
+## MGG08G g0 s0404
+JP: うん、だって種類が多くて飽きないし、{n}いっぱいあればずっと楽しめるでしょ。{p}
+EN: Yeah, 'cause there are lots of kinds so you don't get bored, and with a bunch you can have fun forever.{p}
+
+## MGG08G g0 s0405
+JP: なるほどね。{n}じゃあ、さっそくやろうか!{p}{end}
+EN: Makes sense. Okay, let's get started!{p}{end}
+
+## MGG08G g0 s0406
+JP: うん!!{p}{end}
+EN: Yeah!!{p}{end}
+
+## MGG08G g0 s0408
+JP: ……こうして俺は、{n}ひなたたちと花火をして遊び、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I played with fireworks with Hinata and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0409
+JP: 線香花火を持ってきたんだ。{n}ちょっと地味かもしれないけど、{n}たまにはこういうのもいいだろ?{p}
+EN: I brought sparklers. They might be a bit plain, but it's nice once in a while, right?{p}
+
+## MGG08G g0 s0410
+JP: そうだな。{n}線香花火だけっていうのも{n}風情があっていいかもしれないな。{p}
+EN: True. Just sparklers has a certain charm to it.{p}
+
+## MGG08G g0 s0411
+JP: 恭介は線香花火、好きかい?{p}
+EN: Kyosuke, do you like sparklers?{p}
+
+## MGG08G g0 s0412
+JP: ああ、好きだよ。{n}兄さんは線香花火が本当に好きでね。{n}子供のころは、よく兄さんとふたりで{n}線香花火をやったんだ……{p}
+EN: Yes, I do. My brother really loves sparklers. When we were kids, the two of us often lit them together...{p}
+
+## MGG08G g0 s0413
+JP: そのせいかな?{n}いつの間にか好きになってしまったよ。{n}今でも、この火花を見ると妙に心が{n}落ち着くんだ。{p}
+EN: Maybe that's why. Before I knew it, I'd come to love them too. Even now, watching these sparks calms me somehow.{p}
+
+## MGG08G g0 s0414
+JP: ……なるほどね。{n}思い出に残ってる花火っていうのは{n}いつになっても消えないもんな。{p}
+EN: ...I see. Fireworks you've got memories of never really fade, do they?{p}
+
+## MGG08G g0 s0415
+JP: なんか、そういうのって{n}うらやましいな。{p}{end}
+EN: Stuff like that... kinda makes me jealous.{p}{end}
+
+## MGG08G g0 s0417
+JP: ……こうして俺は、{n}恭介たちと花火をして遊び、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}{end}
+EN: ...And so I played with fireworks with Kyosuke and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0418
+JP: 打ち上げ花火を持ってきたんだ。{n}やっぱり、花火といったらこれしか{n}ないからね。{p}
+EN: I brought aerial fireworks. When it comes to fireworks, nothing else will do.{p}
+
+## MGG08G g0 s0419
+JP: アンタ、なかなかわかってるじゃない。{n}花火といったら、ヤッパリこれよぉ!{p}{end}
+EN: You get it! When it comes to fireworks, these are the ones!{p}{end}
+
+## MGG08G g0 s0420
+JP: ちっちゃいのをチマチマやっても{n}景気悪いじゃない?{n}やっぱり、何事もデッカク派手に!{n}中途半端は良くないわ。{p}{end}
+EN: Dinky little ones bit by bit are a total buzzkill, right? Go big and flashy with everything! Half-measures are no good.{p}{end}
+
+## MGG08G g0 s0421
+JP: ははははは。{n}景気が悪いっていうのもランらしいな。{p}
+EN: Hahahaha. "Buzzkill," huh? That's so Ran.{p}
+
+## MGG08G g0 s0422
+JP: さあ、{v4:19}!{n}バンバン打ち上げるわよ!{p}
+EN: Come on, {v4:19}! Let's shoot 'em off one after another!{p}
+
+## MGG08G g0 s0423
+JP: オッケー!{n}いっちょハデにやるか。{p}
+EN: Okay! Let's go all out.{p}
+
+## MGG08G g0 s0425
+JP: ……こうして俺は、{n}ランたちと花火をして遊び、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}{end}
+EN: ...And so I played with fireworks with Ran and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0426
+JP: おーい、将馬、ロベルト!{n}何かして遊ぼうぜ!{n}……ん?{p}
+EN: Hey, Shoma, Roberto! Let's do something fun! ...Hm?{p}
+
+## MGG08G g0 s0427
+JP: 将馬、頼む。{n}サッカー中継を見させてくれ。{n}今日は見逃せない試合があるんだ。{p}{end}
+EN: Shoma, please. Let me watch the soccer broadcast. There's a match tonight I can't miss.{p}{end}
+
+## MGG08G g0 s0428
+JP: ダメダメ。{n}オイラだって、今日のナイターは{n}見逃すわけにいかねーんだよ。{p}{end}
+EN: No way. I can't miss tonight's night game either.{p}{end}
+
+## MGG08G g0 s0429
+JP: ちょっと、夏。{n}この二人、一体どうしたんだ?{p}{end}
+EN: Hey, Natsu. What's with these two?{p}{end}
+
+## MGG08G g0 s0430
+JP: 早い話がチャンネル争いよ。{n}まったく、いつまでたっても{n}やってることは子供並みなんだから。{p}
+EN: Long story short, they're fighting over the channel. Geez, they're still acting like little kids.{p}
+
+## MGG08G g0 s0431
+JP: …………そうだな……{p}{end}
+EN: ..........Yeah...{p}{end}
+
+## MGG08G g0 s0432
+JP: 流さん、ボーッとしてないで{n}止めてくださいよ、もう。{p}{end}
+EN: Nagare-san, quit spacing out and stop them, will you?{p}{end}
+
+## MGG08G g0 s0435
+JP: 将馬、このままじゃラチがあかない。{n}ここは、どの番組を見るか{v3:5}に{n}決めてもらうっていうのはどうだ?{p}{end}
+EN: Shoma, this is getting us nowhere. How about we let {v3:5} decide what to watch?{p}{end}
+
+## MGG08G g0 s0436
+JP: なるほど、悪くないな。{n}よっしゃ、{v3:3}!{n}どっちを見るかお前が決めろよ。{p}{end}
+EN: Huh, not bad. All right, {v3:3}! You pick which one we watch.{p}{end}
+
+## MGG08G g0 s0437
+JP: お、俺が!?{n}うーん、どうするかな……{p}
+EN: M-me!? Hmm, what should I do...{p}
+
+## MGG08G g0 s0438
+JP: 野球中継{n}サッカー中継{n}洋画劇場{n}流にまかせる{p}
+EN: The baseball game{n}The soccer game{n}The foreign movie{n}Let Nagare decide{p}
+
+## MGG08G g0 s0439
+JP: じゃあ、野球中継にしよう。{n}今年のペナントレースは{n}目が離せないからな。{p}{end}
+EN: Then let's go with the baseball game. This year's pennant race is too good to miss.{p}{end}
+
+## MGG08G g0 s0440
+JP: へへへ、やったぜ!{n}ロベルト、うらみっこなしだからな。{p}
+EN: Heh heh, all right! Roberto, no hard feelings.{p}
+
+## MGG08G g0 s0441
+JP: ああ、わかってるよ。{p}{end}
+EN: Yeah, I know.{p}{end}
+
+## MGG08G g0 s0442
+JP: いやあ、わりいなあロベルト。{p}{end}
+EN: Man, sorry 'bout that, Roberto.{p}{end}
+
+## MGG08G g0 s0444
+JP: …………まあ、人生そういうこともある。{p}
+EN: ..........Well, that's life.{p}
+
+## MGG08G g0 s0446
+JP: ……こうして俺は、{n}将馬たちとテレビを見て、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I watched TV with Shoma and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0447
+JP: じゃあ、サッカー中継にしないか?{n}今年は何かと熱い試合が多いからな。{p}{end}
+EN: Then how about the soccer game? There've been a lot of heated matches this year.{p}{end}
+
+## MGG08G g0 s0448
+JP: チッキショウ!{n}そうきたか!{p}{end}
+EN: Dang it! Didn't see that coming!{p}{end}
+
+## MGG08G g0 s0449
+JP: ははは。{n}悪いな、将馬。{n}ありがたく鑑賞させてもらうぜ。{p}{end}
+EN: Hahaha. Sorry, Shoma. I'll enjoy the match, thanks.{p}{end}
+
+## MGG08G g0 s0450
+JP: へいへい、{n}もう好きにしてくれ。{p}{end}
+EN: Yeah, yeah, do whatever you want.{p}{end}
+
+## MGG08G g0 s0451
+JP: ……まったく、何もそんなに{n}いじけることないじゃない。{p}
+EN: ...Geez, no need to sulk that much.{p}
+
+## MGG08G g0 s0453
+JP: ……こうして俺は、{n}ロベルトたちとテレビを見て、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I watched TV with Roberto and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0454
+JP: じゃあ、たまには皆で映画でも見ようぜ。{n}確か今、「レジデント・イビル」っていう{n}ホラー映画がやってるんだよ。{p}{end}
+EN: Then for once, let's all watch a movie. I think that horror movie "Resident Evil" is on right now.{p}{end}
+
+## MGG08G g0 s0455
+JP: おいおい、{n}そんなのアリかよ!?{p}{end}
+EN: Hey, hey, is that even allowed!?{p}{end}
+
+## MGG08G g0 s0456
+JP: いいじゃない、別に。{n}だいたい、{v6:4}に決めろって{n}言ったのはアンタたちなんだし。{p}{end}
+EN: What's wrong with it? You guys are the ones who told {v6:4} to decide.{p}{end}
+
+## MGG08G g0 s0457
+JP: ……もしかして、将馬。{n}アンタ、ホラー映画が恐いから{n}嫌がってるんじゃない?{p}{end}
+EN: ...Shoma, could it be you don't want to because horror movies scare you?{p}{end}
+
+## MGG08G g0 s0458
+JP: そ、そんなわけあるかよ!{n}見りゃあいいんだろ、見りゃあ。{p}{end}
+EN: Wh-what? No way! Fine, we'll watch it, okay!?{p}{end}
+
+## MGG08G g0 s0459
+JP: ははは。{n}こりゃ、一杯くわされたな将馬。{p}{end}
+EN: Hahaha. Looks like you got played, Shoma.{p}{end}
+
+## MGG08G g0 s0460
+JP: ったく、しょうがねぇな。{p}{end}
+EN: Geez, fine, whatever.{p}{end}
+
+## MGG08G g0 s0462
+JP: ……こうして俺は、{n}夏たちとテレビを見て、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}{end}
+EN: ...And so I watched TV with Natsu and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0463
+JP: じゃあ、流さん。{n}何か見たい番組ないですか?{p}{end}
+EN: Then, Nagare-san. Is there anything you want to watch?{p}{end}
+
+## MGG08G g0 s0464
+JP: …………決めていいのか?{p}{end}
+EN: ..........I can choose?{p}{end}
+
+## MGG08G g0 s0465
+JP: ええ、なんでもいいですよ。{p}
+EN: Sure, anything's fine.{p}
+
+## MGG08G g0 s0466
+JP: お、おい、{v3:3}。{n}ちょっと待った!{p}
+EN: H-hey, {v3:3}. Hold on a sec!{p}
+
+## MGG08G g0 s0467
+JP: …………じゃあ、{n}「おいしんぼうバンザイ」{n}にしてくれ……{p}
+EN: ..........Then... "Foodie Banzai"... please...{p}
+
+## MGG08G g0 s0468
+JP: やっぱりか……{n}流さんの「グルメ番組」好きは{n}有名だからな。{p}{end}
+EN: Figured as much... Nagare-san's love of gourmet shows is famous.{p}{end}
+
+## MGG08G g0 s0469
+JP: ふふふ。{n}なんだか、ケンカ両成敗って感じね。{p}{end}
+EN: Hee hee. Both sides lose, so that's fair.{p}{end}
+
+## MGG08G g0 s0471
+JP: ……こうして俺は、{n}流さんたちとテレビを見て、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}{end}
+EN: ...And so I watched TV with Nagare-san and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0472
+JP: 部屋の方にはいなかったな、{n}ロイたちは一体どこにいるんだろう。{p}
+EN: They weren't in their rooms. Where could Roy and the others be?{p}
+
+## MGG08G g0 s0473
+JP: おっ、いたいた。{n}どうやら、おみやげを{n}見てるみたいだな。{p}
+EN: Oh, there they are. Looks like they're browsing souvenirs.{p}
+
+## MGG08G g0 s0474
+JP: おーい、みんな。{n}おみやげを見てるのかい?{p}
+EN: Hey, guys. Looking at souvenirs?{p}
+
+## MGG08G g0 s0475
+JP: ああ、見ての通りさ。{n}それにしても、日本のみやげものには{n}ロクなものがないな。{p}
+EN: Yeah, as you can see. Still, Japanese souvenirs are all junk.{p}
+
+## MGG08G g0 s0476
+JP: そうかな?{n}ごく普通だと思うけど。{p}
+EN: Are they? Seem pretty normal to me.{p}
+
+## MGG08G g0 s0477
+JP: これが普通?{n}やはり、日本人のセンスは{n}わからないな。{p}
+EN: This is normal? I'll never understand Japanese taste.{p}
+
+## MGG08G g0 s0478
+JP: でも、オカシイのが{n}イッパイあってあきないネ。{p}
+EN: But there's lots of funny stuff, so I don't get bored.{p}
+
+## MGG08G g0 s0479
+JP: うーん、海外のおみやげだって、{n}変なものがいっぱいあるような{n}気がするけどな。{p}
+EN: Hmm, I feel like foreign souvenirs have plenty of weird stuff too.{p}
+
+## MGG08G g0 s0480
+JP: こういうものには、国ごとの特徴が{n}はっきり現れますからね。{n}文化がちがえば、違和感を覚えて{n}当然ですよ。{p}{end}
+EN: Things like these clearly show each country's character. When cultures differ, it is natural to find them strange.{p}{end}
+
+## MGG08G g0 s0481
+JP: さて、どうしようかな……{p}{end}
+EN: Now, what should I do...{p}{end}
+
+## MGG08G g0 s0482
+JP: ロイとおみやげを見てまわる{n}ティファニーとおみやげを見てまわる{n}ボーマンとおみやげを見てまわる{p}
+EN: Browse souvenirs with Roy{n}Browse souvenirs with Tiffany{n}Browse souvenirs with Boman{p}
+
+## MGG08G g0 s0483
+JP: それじゃ、僕は{n}先に部屋に帰らせてもらうぜ。{p}{end}
+EN: Well then, I'm heading back to the room first.{p}{end}
+
+## MGG08G g0 s0484
+JP: あれ、ロイは何もおみやげを{n}買わないのか?{p}
+EN: Huh, Roy, you're not buying any souvenirs?{p}
+
+## MGG08G g0 s0485
+JP: ハッ、こんな下品で{n}くだらないものばかりじゃ、{n}買えるものなんかないさ。{p}{end}
+EN: Ha, with nothing but this tacky, worthless stuff, there's nothing worth buying.{p}{end}
+
+## MGG08G g0 s0486
+JP: よし、じゃあ俺が{n}日本のおみやげの素晴らしさ{n}というものを教えてやるぜ。{p}{end}
+EN: All right, then I'll teach you how great Japanese souvenirs are.{p}{end}
+
+## MGG08G g0 s0487
+JP: 結構だ、間にあってる。{n}第一、そんな事わかりたいとも{n}思わないよ。{p}
+EN: No thanks, I'm good. Besides, I don't even want to understand.{p}
+
+## MGG08G g0 s0488
+JP: まあ、そう言うなって。{n}そもそも、日本のおみやげって{n}いうのはだな……{p}
+EN: Oh, don't say that. See, Japanese souvenirs are basically...{p}
+
+## MGG08G g0 s0490
+JP: ……こうして俺は、{n}ロイたちと語り合い、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I talked with Roy and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0491
+JP: ティファニー、{n}何か面白いものは見つかった?{p}{end}
+EN: Tiffany, find anything interesting?{p}{end}
+
+## MGG08G g0 s0492
+JP: オミヤゲ、いろんなのがあって{n}おもしろいネ。{p}{end}
+EN: There are all kinds of souvenirs. It's fun!{p}{end}
+
+## MGG08G g0 s0493
+JP: But…タクサンあって、{n}どれ買ったらイイのか、{n}わかりまセーン。{p}
+EN: But... there are so many, I don't know which one to buy.{p}
+
+## MGG08G g0 s0494
+JP: よし、それじゃあ俺が{n}良さそうなのを選んでやるよ。{p}
+EN: All right, then I'll pick out some good ones for you.{p}
+
+## MGG08G g0 s0495
+JP: リアリィ?{n}ホントですか?{p}
+EN: Really? You mean it?{p}
+
+## MGG08G g0 s0496
+JP: まかせとけ!{n}じゃあ、誰に買っていくのか{n}教えてよ。{p}{end}
+EN: Leave it to me! So tell me who you're buying for.{p}{end}
+
+## MGG08G g0 s0498
+JP: ……こうして俺は、{n}ティファニーたちと語り合い、{n}臨海合宿での楽しい夜を{n}しめくくったのだった。{p}{end}
+EN: ...And so I talked with Tiffany and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0499
+JP: ボーマンはおみやげに{n}何を買うんだい?{p}
+EN: Boman, what are you buying as souvenirs?{p}
+
+## MGG08G g0 s0500
+JP: 実は、まだ買っていないんです。{n}教会の人たちに買っていきたいのですが、{n}日本では、どういったものを贈ると{n}喜ばれるのですか?{p}{end}
+EN: Actually, I have not bought anything yet. I would like gifts for the people at my church. What kind of gift do people like in Japan?{p}{end}
+
+## MGG08G g0 s0501
+JP: Tシャツなんか買っていっても{n}あまり着たがる人はいないと思うから、{n}やっぱり食べ物じゃないかな。{p}{end}
+EN: I don't think many people would want to wear a T-shirt, so food, I guess.{p}{end}
+
+## MGG08G g0 s0502
+JP: 食べ物……{n}この干した魚はどうでしょう?{p}{end}
+EN: Food... How about this dried fish?{p}{end}
+
+## MGG08G g0 s0503
+JP: ……ああ、干物ね。{n}それでもいいけど、人数が多いなら、{n}無難に箱づめのおかしがいいと思うけど。{p}
+EN: ...Ah, dried fish. That works, but if it's for a lot of people, a box of sweets is the safe bet.{p}
+
+## MGG08G g0 s0504
+JP: なるほど、参考になりました。{n}{v4:8}、ありがとう。{p}{end}
+EN: I see, that's very helpful. Thank you, {v4:8}.{p}{end}
+
+## MGG08G g0 s0506
+JP: ……こうして俺は、{n}ボーマンたちと語り合い、{n}臨海合宿での楽しい夜を{n}しめくくったのだった。{p}{end}
+EN: ...And so I talked with Boman and the gang, wrapping up a fun night at the seaside camp.{p}{end}
+
+## MGG08G g0 s0507
+JP: エッジ、{n}こんなところで何やってるんだ?{p}{end}
+EN: Edge, what are you doing here?{p}{end}
+
+## MGG08G g0 s0508
+JP: おぅ、ちょうどいいところに{n}来やがったな。{p}
+EN: Yo, you showed up at the right time.{p}
+
+## MGG08G g0 s0509
+JP: ちょうど卓球のメンツに、{n}おぬしを呼びに行こうとしていた{n}ところなんじゃ。{p}
+EN: We were just about to go fetch ya to round out our ping-pong game.{p}
+
+## MGG08G g0 s0510
+JP: なるほど。{n}こういう旅行に来たら、{n}やっぱり卓球は定番だよな。{p}
+EN: I see. Ping-pong's a must on trips like this.{p}
+
+## MGG08G g0 s0511
+JP: エッジ、ダブルスをするなら{n}チーム分けはどうするの?{p}{end}
+EN: Edge, if we play doubles, how should we split the teams?{p}{end}
+
+## MGG08G g0 s0512
+JP: まあ、適当でいいんじゃねぇの?{n}{v3:9}、オマエ決めろよ。{p}
+EN: Eh, whatever works, right? {v3:9}, you pick.{p}
+
+## MGG08G g0 s0513
+JP: えーと、それじゃあ……{p}
+EN: Um, okay then...{p}
+
+## MGG08G g0 s0514
+JP: エッジとチームを組む{n}アキラとチームを組む{n}岩とチームを組む{p}{end}
+EN: Team up with Edge{n}Team up with Akira{n}Team up with Gan{p}{end}
+
+## MGG08G g0 s0515
+JP: 俺はエッジとチームを組むかな。{p}
+EN: I'll team up with Edge.{p}
+
+## MGG08G g0 s0516
+JP: へへへ、相手はアキラと岩か。{n}アキラはともかく、岩がいるから{n}チョロイもんだぜ。{p}{end}
+EN: Heh heh, so it's Akira and Gan, huh. Akira aside, with Gan on their side, this'll be a cakewalk.{p}{end}
+
+## MGG08G g0 s0517
+JP: なんじゃとぉ!?{n}そりゃ、どういう意味じゃい?{p}
+EN: Whaddaya say!? Just what's that supposed to mean?{p}
+
+## MGG08G g0 s0518
+JP: 岩、落ち着いて。{n}エッジも、挑発なんかしないの。{p}{end}
+EN: Calm down, Gan. And Edge, quit trying to provoke him.{p}{end}
+
+## MGG08G g0 s0519
+JP: へっへっへ。{n}たかが卓球でも、オレは勝つためなら{n}何だってするぜぇ。{p}{end}
+EN: Heh heh heh. Even if it's just ping-pong, I'll do whatever it takes to win.{p}{end}
+
+## MGG08G g0 s0520
+JP: うーん、こと勝負に関しては{n}頼もしいというかなんと言うか……{n}エッジ、試合だけはフェアにやろうな。{p}
+EN: Hmm, when it comes to winning, he's reliable, I guess... Edge, let's at least play fair, okay?{p}
+
+## MGG08G g0 s0522
+JP: ……こうして俺は、{n}エッジたちと卓球をして、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I played ping-pong with Edge and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0523
+JP: 俺はアキラとチームを組むかな。{p}
+EN: I'll team up with Akira.{p}
+
+## MGG08G g0 s0524
+JP: マジかよ?{n}このウスラカバといっしょじゃ{n}勝てるもんも勝てねぇつうの。{p}
+EN: Seriously? Stuck with this big lug, I'll lose games I shoulda won.{p}
+
+## MGG08G g0 s0525
+JP: エッジ、おぬし相変わらず{n}素直じゃないヤツだのう。{n}本当は、ワシといっしょになれて{n}うれしいんじゃろう?{p}{end}
+EN: Edge, you're as stubborn as ever. Truth is, you're happy to be teamed up with me, ain't ya?{p}{end}
+
+## MGG08G g0 s0526
+JP: アア?{n}なんだそりゃあ?{p}{end}
+EN: Huh? The hell's that supposed to mean?{p}{end}
+
+## MGG08G g0 s0527
+JP: ふふふ。{n}それじゃ、早速はじめましょう。{n}よろしくね、{v5:10}。{p}{end}
+EN: Hee hee. Well then, let's get started. Let's do our best, {v5:10}.{p}{end}
+
+## MGG08G g0 s0528
+JP: ああ。{n}エッジと岩をコテンパンに{n}やっつけてやろうぜ。{p}
+EN: Yeah. Let's beat Edge and Gan to a pulp.{p}
+
+## MGG08G g0 s0529
+JP: うん。{p}
+EN: Okay.{p}
+
+## MGG08G g0 s0531
+JP: ……こうして俺は、{n}アキラたちと卓球をして、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I played ping-pong with Akira and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0532
+JP: 俺は岩とチームを組むかな。{p}
+EN: I'll team up with Gan.{p}
+
+## MGG08G g0 s0533
+JP: おう、ワシを選ぶとは、{n}おぬしなかなかやるのう。{p}{end}
+EN: Hoh, pickin' me? You've got good taste.{p}{end}
+
+## MGG08G g0 s0534
+JP: {v3:9}、本当にいいのかァ?{n}後で後悔しても知らねぇぞ。{p}{end}
+EN: {v3:9}, you sure about this? Don't come cryin' later.{p}{end}
+
+## MGG08G g0 s0535
+JP: 大丈夫だよ。{n}頼んだぜ、岩。{p}{end}
+EN: It's fine. I'm counting on you, Gan.{p}{end}
+
+## MGG08G g0 s0536
+JP: おう、ワシにまかせんかい!{p}
+EN: You got it, leave it to me!{p}
+
+## MGG08G g0 s0537
+JP: 私たちも手かげんしないわよ。{n}それじゃ、はじめましょう。{p}{end}
+EN: We won't go easy on you either. Let's begin.{p}{end}
+
+## MGG08G g0 s0539
+JP: ……こうして俺は、{n}岩たちと卓球をして、臨海合宿での{n}楽しい夜をしめくくったのだった。{p}
+EN: ...And so I played ping-pong with Gan and the gang, wrapping up a fun night at the seaside camp.{p}
+
+## MGG08G g0 s0540
+JP: 先生、こんばんわ。{n}遊びにきちゃいました。{p}
+EN: Evening, sensei. I came to hang out.{p}
+
+## MGG08G g0 s0541
+JP: {v0}{col:0}君{col:-}か。{n}まあ、あがりたまえ。{p}
+EN: {v0}{col:0}-kun{col:-}. Well, come on in.{p}
+
+## MGG08G g0 s0542
+JP: はい。{n}おジャマしまーす。{p}
+EN: Thanks. Sorry to barge in.{p}
+
+## MGG08G g0 s0543
+JP: あら、{v1}{col:0}クン{col:-}。{n}いらっしゃい。{p}
+EN: Oh, {v1}{col:0}-kun{col:-}. Welcome.{p}
+
+## MGG08G g0 s0544
+JP: おう、{v3:16}じゃねぇか。{n}響子先生にでも会いに来たのか?{n}あっ?{p}
+EN: Well, if it ain't {v3:16}. Came to see Kyoko-sensei, did ya? Huh?{p}
+
+## MGG08G g0 s0545
+JP: えっ?{n}やだな、そんなんじゃないですよ。{p}{end}
+EN: What? Come on, it's nothing like that.{p}{end}
+
+## MGG08G g0 s0546
+JP: そう……{n}{v1}{col:0}クン{col:-}は{n}先生が嫌いなのね。{p}
+EN: I see... So {v1}{col:0}-kun{col:-} doesn't like me.{p}
+
+## MGG08G g0 s0547
+JP: なんでそうなるんですか。{n}響子先生までからかわないで{n}くださいよ、もう。{p}{end}
+EN: How'd you get that? Not you too, Kyoko-sensei. Quit teasing me.{p}{end}
+
+## MGG08G g0 s0548
+JP: うふふふふ、カワイイわね。{n}{v1}{col:0}クン{col:-}は{n}からかいがいがあるわぁ。{p}
+EN: Ufufufu, how cute. {v1}{col:0}-kun{col:-} is so fun to tease.{p}
+
+## MGG08G g0 s0549
+JP: 響子先生、{n}もう酔ってらっしゃるんですか?{n}ちょっと飲みすぎなのでは……{p}{end}
+EN: Kyoko-sensei, are you drunk already? Perhaps you've had a bit too much...{p}{end}
+
+## MGG08G g0 s0550
+JP: まあまあ、カタいことは言いっこなし。{n}なあ、{v3:16}。{p}
+EN: Now, now, no need to be so uptight. Right, {v3:16}?{p}
+
+## MGG08G g0 s0551
+JP: えーと……{p}
+EN: Um...{p}
+
+## MGG08G g0 s0552
+JP: 英雄に賛成する{n}響子に酒をすすめる{n}隼人に酒をすすめる{p}
+EN: Agree with Hideo{n}Offer Kyoko a drink{n}Offer Hayato a drink{p}
+
+## MGG08G g0 s0553
+JP: 英雄先生のいう通りです。{n}2人とも、飲みすぎないでくださいよ。{p}
+EN: Hideo-sensei's right. Don't drink too much, you two.{p}
+
+## MGG08G g0 s0554
+JP: うむ。{n}{v0}{col:0}君{col:-}、{n}よく言ってくれた。{p}
+EN: Mm. Well said, {v0}{col:0}-kun{col:-}.{p}
+
+## MGG08G g0 s0555
+JP: ……あら、英雄先生?{n}ずいぶん肩がこってらっしゃるみたい。{n}私がマッサージして差し上げますわ。{p}
+EN: ...Oh, Hideo-sensei? Your shoulders seem awfully stiff. Let me give you a massage.{p}
+
+## MGG08G g0 s0556
+JP: おお、これはすみません。{p}{end}
+EN: Oh, how kind of you.{p}{end}
+
+## MGG08G g0 s0558
+JP: ……ん?{n}ごわああああああああ!{p}{end}
+EN: ...Hm? GWAAAAAAAAAAH!{p}{end}
+
+## MGG08G g0 s0560
+JP: ああっ、ひ、英雄先生!?{p}{end}
+EN: Ahh, H-Hideo-sensei!?{p}{end}
+
+## MGG08G g0 s0561
+JP: いやあ、響子先生も見かけによらず{n}ダイタンですなあ!{n}はっはっはっはっは!{p}
+EN: Well, Kyoko-sensei, you're bolder than you look! Hahahahaha!{p}
+
+## MGG08G g0 s0562
+JP: さあ、{v1}{col:0}クン{col:-}。{n}飲み直しましょう?{p}
+EN: Now, {v1}{col:0}-kun{col:-}. Shall we have another round?{p}
+
+## MGG08G g0 s0563
+JP: （だ、だめだ、{n}{sp}完全に目がすわってる……）{p}{end}
+EN: (Oh no, her eyes are totally glazed...){p}{end}
+
+## MGG08G g0 s0565
+JP: ……こうして俺は、{n}臨海合宿での楽しい夜を{n}先生たちと過ごした。{p}{end}
+EN: ...And so I spent a fun night at the seaside camp with the teachers.{p}{end}
+
+## MGG08G g0 s0566
+JP: さあ響子先生、{n}ジャンジャン飲んでください。{n}こういう時にハメを外しておかないと{n}ダメですからね。{p}
+EN: Come on, Kyoko-sensei, drink up. You've gotta let loose at times like this.{p}
+
+## MGG08G g0 s0567
+JP: あら、{v1}{col:0}クン{col:-}{n}話がわかるわねぇ。{n}高校生にしておくのは{n}もったいないわぁ～。{p}{end}
+EN: Oh, {v1}{col:0}-kun{col:-}, you get it. Shame you're only a high schooler~.{p}{end}
+
+## MGG08G g0 s0568
+JP: {v0}{col:0}君{col:-}、見損ないましたよ。{n}こうなったら、私自ら……{p}
+EN: {v0}{col:0}-kun{col:-}, I'm disappointed in you. In that case, I'll see to this myself...{p}
+
+## MGG08G g0 s0577
+JP: お、俺は高校生だから{n}お酒はダメですってば。{p}{end}
+EN: I-I'm in high school, so I can't drink, I told you!{p}{end}
+
+## MGG08G g0 s0580
+JP: さあ隼人先生、{n}ジャンジャン飲んでください。{n}こういう時にハメを外しておかないと{n}ダメですからね。{p}
+EN: Come on, Hayato-sensei, drink up. You've gotta let loose at times like this.{p}
+
+## MGG08G g0 s0581
+JP: ほぉ、なかなか話がわかるじゃねぇか。{n}高校生にしとくのはもったいないぜ。{p}{end}
+EN: Ho, you get it. Shame you're only a high schooler.{p}{end}
+
+## MGG08G g0 s0590
+JP: さあ、{v3:16}。{n}飲み直そうじゃねぇか!{p}{end}
+EN: C'mon, {v3:16}. Let's have another round!{p}{end}
+
+## MGG08G g0 s0594
+JP: そして、翌日の朝……{p}{end}
+EN: And the next morning...{p}{end}
+
+## MGG08G g0 s0595
+JP: 臨海合宿、思ってたよりも{n}全然楽しかったな。{p}{end}
+EN: The seaside camp was way more fun than I expected.{p}{end}
+
+## MGG08G g0 s0596
+JP: こんなに楽しいなら、{n}毎年来たいくらいだ。{p}
+EN: If it's this fun, I'd want to come every year.{p}
+
+## MGG08G g0 s0597
+JP: そろそろ出発時間みたいだ。{n}さあ、帰ろう!{p}
+EN: Looks like it's almost time to leave. Let's head home!{p}
+

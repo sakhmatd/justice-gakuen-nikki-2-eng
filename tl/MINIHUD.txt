@@ -1,0 +1,47 @@
+# Mini-game HUD, play-again boxes and start menu, built by
+# tools/build_minihud.py (CEFT4/5/6, DANCE, SPRINT) and
+# tools/minittl_atlas.py (start menu atlas in MINITTL0-C, called by
+# build_minittl.py). Wording of the CEFT5 HUD and box and of the start
+# menu follows the first game's patch (N1 FESTPIC.txt, FEST.txt).
+# HUD rows with two parts (hud_ato_kyu): left text | right text around the
+# ball-count digit; an empty side is cleared.
+
+# CEFT5 HUD (16 px sprites; short labels fit in place)
+hud_konjo: Guts
+hud_ato_kyu: Balls|
+hud_genzai: Now
+hud_saiko: Best
+hud_ten: pt
+hud_geijutsu: Art
+hud_frame: Frame
+# end-of-round box (CEFT5 656,168; question, then the two choices). The
+# same box is copied into SPRINT (0,56) and DANCE (256,70).
+hud_again: Play again?
+hud_yes: Yes
+hud_no: No
+
+# CEFT4/CEFT6 start and end sprites (80x96 each, two lines, '|' breaks).
+# Shown in the mini-games and in the exams, so the wording is neutral.
+ceft_start: READY|GO!
+ceft_end: ALL|DONE!
+# Exam HUD label (kamoku, subject), drawn as two 20 px cells before the
+# subject digit.
+ceft_subject: Subj
+
+# DANCE intro lines (scrolling marquee). Max widths in px: 126, 118, 254,
+# then the fourth line in two pieces of 120 and 126.
+dance_l0: Hey, brother!
+dance_l1: The groovy
+dance_l2: Doki-Waku-Dance starts now!
+dance_l3a: You ready?
+dance_l3b: Here we go!
+
+# Start menu atlas (MINITTL0-C TIM 0x0). Each label is centred in its
+# sprite; the game centres the sprite on the screen.
+title_start: Game Start
+title_back: Back
+title_1p: 1P Play Start
+title_vs: VS Play Start
+title_rules: Rules & Controls
+title_record: Best Record
+unit_pt: pt

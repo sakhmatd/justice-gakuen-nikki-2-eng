@@ -1,0 +1,468 @@
+## MGK10 g0 s0000
+JP: もう二学期の中間試験。{n}一年も半分過ぎたのかぁ。{p}{end}
+EN: Second-term midterms already. Half the year's gone by, huh.{p}{end}
+
+## MGK10 g0 s0001
+JP: {v1}{col:0}クン{col:-}!{n}そうやって感傷に浸っている{n}場合じゃないでしょ。{p}
+EN: {v1}{col:0}-kun{col:-}! This is no time to get sentimental.{p}
+
+## MGK10 g0 s0002
+JP: もう学校にもいい加減慣れたわよね。{n}それを先生に見せてちょうだいね。{p}{end}
+EN: You must be used to school by now. Show your teacher what you've learned.{p}{end}
+
+## MGK10 g0 s0003
+JP: このレベルの問題を{n}これだけ正解できるなんて{n}すばらしいわ!{p}{end}
+EN: Getting this many right on questions at this level? Wonderful!{p}{end}
+
+## MGK10 g0 s0004
+JP: おしいわねえ。{n}でもこのレベルでこの正解数だったら{n}十分合格点と言えるわ。{p}
+EN: So close. But with this many right at this level, that's a solid pass.{p}
+
+## MGK10 g0 s0005
+JP: 少しレベルが高いかもしれないけれど、{n}二年生になったら{n}もっと難しくなっていくから{n}間違った所の復習はしておいてね。{p}{end}
+EN: The level may be a bit high, but it only gets harder in second year, so review what you got wrong.{p}{end}
+
+## MGK10 g0 s0006
+JP: その上回答スピードも早いし、{n}きっと、他の人と潜在能力が違うのね。{p}
+EN: And you answered quickly, too. You must have more potential than everyone else.{p}
+
+## MGK10 g0 s0007
+JP: 少しづつ難しくなっていってるけど、{n}この回答スピードを維持していってね。{p}{end}
+EN: It's getting a little harder each time, but keep up that answering speed.{p}{end}
+
+## MGK10 g0 s0008
+JP: 「五輪祭」や「試験に出る実技」で{n}指先をきたえなさい!{p}
+EN: Train your fingers in "Gorin Festival" and "Exam Prep"!{p}
+
+## MGK10 g0 s0009
+JP: あなたの将来がすごく楽しみ……。{p}{end}
+EN: I can't wait to see what your future holds...{p}{end}
+
+## MGK10 g0 s0010
+JP: ずっと見守っていたいわ……。{p}{end}
+EN: I want to keep watching over you...{p}{end}
+
+## MGK10 g0 s0011
+JP: （響子先生にそんなこと言われるなんて{n}{sp}感激～。）{p}
+EN: (Kyoko-sensei said that to me... I'm so moved~.){p}
+
+## MGK10 g0 s0012
+JP: 勉強と運動の両立。{n}高校生活の充実ぶりがうかがえるわね。{p}{end}
+EN: Balancing study and sports. Looks like high school's going great for you.{p}{end}
+
+## MGK10 g0 s0013
+JP: 残りの試験もこの調子で頑張ってね。{p}
+EN: Keep it up for the rest of your exams.{p}
+
+## MGK10 g0 s0014
+JP: この成績じゃ{n}進級も危うくなってきたわ……。{p}{end}
+EN: With grades like these, you might not even move up a year...{p}{end}
+
+## MGK10 g0 s0015
+JP: お願いだから次の実技は{n}「試験に出る実技」のモードで{n}予習をしてから試験を受けて{n}ちゃんと合格してね!{p}
+EN: Please, before the next practical, prep in "Exam Prep" mode and pass it properly!{p}
+
+## MGK10 g1 s0000
+JP: もう二学期の中間試験だわ。{n}一年ももう半分過ぎちゃったのね。{p}{end}
+EN: Second-term midterms already. Half the year's already gone.{p}{end}
+
+## MGK10 g1 s0001
+JP: {v1}{col:0}さん{col:-}!{n}そうやって感傷に浸っている{n}場合じゃないでしょ。{p}
+EN: {v1}{col:0}-san{col:-}! This is no time to get sentimental.{p}
+
+## MGK10 g1 s0008
+JP: もっと「五輪祭」や「試験に出る実技」で{n}指先をきたえなさい!{p}{end}
+EN: Train your fingers more in "Gorin Festival" and "Exam Prep"!{p}{end}
+
+## MGK10 g1 s0011
+JP: （響子先生にそんなこと言われるなんて{n}{sp}女の私でもちょっと感激。）{p}
+EN: (Kyoko-sensei said that to me... Even as a girl, I'm a little moved.){p}
+
+## MGK10 g6 s0000
+JP: バツの必殺技で{n}地上でも空中でも出せる技は{n}次のうちどれ?{p}
+EN: Which of Batsu's special moves can be done both on the ground and in the air?{p}
+
+## MGK10 g6 s0001
+JP: 気合弾{p}
+EN: Guts Bullet{p}
+
+## MGK10 g6 s0002
+JP: 三日月キック{p}{end}
+EN: Crescent Star Kick{p}{end}
+
+## MGK10 g6 s0003
+JP: ガッツアッパー{p}
+EN: Guts Upper{p}
+
+## MGK10 g6 s0004
+JP: 流星キック{p}
+EN: Shooting Star Kick{p}
+
+## MGK10 g6 s0005
+JP: ひなたの強「連撃拳」は{n}ボタンを連打すると最大何ヒットする?{p}{end}
+EN: Mash the button during Hinata's strong Rengekiken. How many hits can it do at most?{p}{end}
+
+## MGK10 g6 s0006
+JP: 8ヒット{p}{end}
+EN: 8 hits{p}{end}
+
+## MGK10 g6 s0007
+JP: 7ヒット{p}{end}
+EN: 7 hits{p}{end}
+
+## MGK10 g6 s0008
+JP: 6ヒット{p}{end}
+EN: 6 hits{p}{end}
+
+## MGK10 g6 s0009
+JP: 5ヒット{p}{end}
+EN: 5 hits{p}{end}
+
+## MGK10 g6 s0010
+JP: 恭介の必殺技の中で{n}中段攻撃のものは次のうちどれ?{p}
+EN: Which of Kyosuke's special moves is a mid attack?{p}
+
+## MGK10 g6 s0011
+JP: 幻影ブレイカー{p}
+EN: Lightning Strike{p}
+
+## MGK10 g6 s0012
+JP: クロスカッター{p}
+EN: Cross Cutter{p}
+
+## MGK10 g6 s0013
+JP: 雷神アッパー{p}{end}
+EN: Lightning Upper{p}{end}
+
+## MGK10 g6 s0014
+JP: 幻影キック{p}
+EN: Shadow Cut Kick{p}
+
+## MGK10 g6 s0015
+JP: 次の弾のうち{n}将馬のバットで{n}打ち返せないものはどれ?{p}
+EN: Which of these projectiles can't Shoma hit back with his bat?{p}
+
+## MGK10 g6 s0016
+JP: 恭介のクロスカッター{p}{end}
+EN: Kyosuke's Cross Cutter{p}{end}
+
+## MGK10 g6 s0017
+JP: エッジのナイフ{p}
+EN: Edge's knife{p}
+
+## MGK10 g6 s0018
+JP: ひなたのシューズ{p}{end}
+EN: Hinata's shoe{p}{end}
+
+## MGK10 g6 s0019
+JP: 夏のバレーボール{p}{end}
+EN: Natsu's volleyball{p}{end}
+
+## MGK10 g6 s0020
+JP: 夏の愛と友情のツ―プラトン{n}「ファイト百倍」は根性ゲージを{n}いくつ回復させることができる?{p}
+EN: How many Vigor bars does Natsu's Team Up Technique "Praise & Spirit" restore?{p}
+
+## MGK10 g6 s0021
+JP: 5本{p}{end}
+EN: 5 bars{p}{end}
+
+## MGK10 g6 s0022
+JP: 3本{p}{end}
+EN: 3 bars{p}{end}
+
+## MGK10 g6 s0023
+JP: 2本{p}{end}
+EN: 2 bars{p}{end}
+
+## MGK10 g6 s0024
+JP: 1本{p}{end}
+EN: 1 bar{p}{end}
+
+## MGK10 g6 s0025
+JP: ロベルトの{n}方向キー入れ強攻撃のリフティングで{n}3発目はどの部分でリフティングする?{p}{end}
+EN: Roberto's direction + strong attack juggles the ball. What does he use for the 3rd touch?{p}{end}
+
+## MGK10 g6 s0026
+JP: かかと{p}
+EN: Heel{p}
+
+## MGK10 g6 s0027
+JP: ひざ{p}{end}
+EN: Knee{p}{end}
+
+## MGK10 g6 s0028
+JP: つま先{p}
+EN: Toes{p}
+
+## MGK10 g6 s0029
+JP: 頭{p}
+EN: Head{p}
+
+## MGK10 g6 s0030
+JP: ティファニーの必殺技の中で{n}ボタンを押し続けると{n}ガード不能になるものは次のうちどれ?{p}
+EN: Which of Tiffany's special moves becomes unblockable if you hold the button?{p}
+
+## MGK10 g6 s0031
+JP: グルービーパンチ{p}{end}
+EN: Groovy Punch{p}{end}
+
+## MGK10 g6 s0032
+JP: グルービーナックル{p}
+EN: Groovy Knuckle{p}
+
+## MGK10 g6 s0033
+JP: ビューティフルスピン{p}{end}
+EN: Beautiful Spin{p}{end}
+
+## MGK10 g6 s0034
+JP: エキサイティングキック{p}
+EN: Exciting Kick{p}
+
+## MGK10 g6 s0035
+JP: ボーマンの技で{n}「神よ!{sp}お許しください!」{n}というセリフとともに繰り出す技は{n}次のうちどれ?{p}
+EN: Which of Boman's moves comes with the line "God! Forgive me!"?{p}
+
+## MGK10 g6 s0036
+JP: ヘブンズラッシュ{p}{end}
+EN: Best Rush{p}{end}
+
+## MGK10 g6 s0037
+JP: ゴッドラッシュ{p}
+EN: Great Rush{p}
+
+## MGK10 g6 s0038
+JP: ヘブンズクロス{p}
+EN: Great Cross{p}
+
+## MGK10 g6 s0039
+JP: ゴッドラリアット{p}{end}
+EN: Great Lariat{p}{end}
+
+## MGK10 g6 s0040
+JP: エッジのナイフを投げる必殺技{n}「裏斬り」は地上と空中合わせると{n}何種類の投げ分けができる?{p}
+EN: Edge's knife throw "Reversing Blade Strike": how many ways can he throw it, ground and air combined?{p}
+
+## MGK10 g6 s0041
+JP: 8種類{p}
+EN: 8 ways{p}
+
+## MGK10 g6 s0042
+JP: 6種類{p}
+EN: 6 ways{p}
+
+## MGK10 g6 s0043
+JP: 4種類{p}
+EN: 4 ways{p}
+
+## MGK10 g6 s0044
+JP: 10種類{p}{end}
+EN: 10 ways{p}{end}
+
+## MGK10 g6 s0045
+JP: アキラの必殺技「破天の構」は{n}攻撃ボタンを順番に押すことにより{n}何通りの攻撃方法に派生できる?{p}
+EN: Akira's "Reflex Stance" branches into other attacks as you press attack buttons in order. How many?{p}
+
+## MGK10 g6 s0046
+JP: 4通り{p}
+EN: 4 ways{p}
+
+## MGK10 g6 s0047
+JP: 6通り{p}
+EN: 6 ways{p}
+
+## MGK10 g6 s0048
+JP: 12通り{p}{end}
+EN: 12 ways{p}{end}
+
+## MGK10 g6 s0049
+JP: 8通り{p}
+EN: 8 ways{p}
+
+## MGK10 g6 s0050
+JP: 岩の技の中でガードができない攻撃は{n}次のうちどれ?{p}
+EN: Which of Gan's moves can't be blocked?{p}
+
+## MGK10 g6 s0051
+JP: 噴火山{p}
+EN: Concrete Smash{p}
+
+## MGK10 g6 s0052
+JP: 鉄砲突き{p}{end}
+EN: Gun Stabbing{p}{end}
+
+## MGK10 g6 s0053
+JP: 柏手破り{p}{end}
+EN: Clapping Hand Destruction{p}{end}
+
+## MGK10 g6 s0054
+JP: 岩石落とし{p}
+EN: Cannon Ball{p}
+
+## MGK10 g6 s0055
+JP: 響子の必殺技の中で{n}軸をずらしながら攻撃する技は{n}次のうちどれ?{p}{end}
+EN: Which of Kyoko's special moves attacks while sidestepping?{p}{end}
+
+## MGK10 g6 s0056
+JP: 出席確認{p}{end}
+EN: Shussekikakunin{p}{end}
+
+## MGK10 g6 s0057
+JP: 回診{p}{end}
+EN: Kaishin{p}{end}
+
+## MGK10 g6 s0058
+JP: 昇天切開{p}{end}
+EN: Knee Check{p}{end}
+
+## MGK10 g6 s0059
+JP: 触診{p}{end}
+EN: Shokushin{p}{end}
+
+## MGK10 g6 s0060
+JP: 雷蔵の必殺技の中で{n}ボタンを押し続けると{n}ガード不能になるものは次のうちどれ?{p}
+EN: Which of Raizo's special moves becomes unblockable if you hold the button?{p}
+
+## MGK10 g6 s0061
+JP: 忌野流六腑突き{p}
+EN: Imawano Roppu-Zuki{p}
+
+## MGK10 g6 s0062
+JP: 忌野流狂獣裂破{p}
+EN: Imawano Kyoujyuu-Reppa{p}
+
+## MGK10 g6 s0063
+JP: 夜叉車{p}
+EN: Yasha-Guruma{p}
+
+## MGK10 g6 s0064
+JP: 石砕牙{p}
+EN: Sekisaiga{p}
+
+## MGK10 g6 s0065
+JP: 雹が相棒の時に出せる{n}愛と友情のツープラトンには{n}他のキャラクターにない特徴があります。{n}それは何?{p}{end}
+EN: The Team Up Technique you get with Hyo as your partner has a feature no other character's has. What is it?{p}{end}
+
+## MGK10 g6 s0066
+JP: プレイヤー自身もダメージを受ける{p}{end}
+EN: The player takes damage too{p}{end}
+
+## MGK10 g6 s0067
+JP: 攻撃を食らっている側が回復していく{p}
+EN: The side being hit recovers{p}
+
+## MGK10 g6 s0068
+JP: 根性ゲージ一本で発動できる{p}
+EN: It works with one Vigor bar{p}
+
+## MGK10 g6 s0069
+JP: 根性ゲージが下がっていく{p}{end}
+EN: The Vigor gauge drains{p}{end}
+
+## MGK10 g6 s0070
+JP: アキラのヘルメットを着けた状態から{n}素顔のあきら状態の時になった場合では{n}必殺技が変化するものがあります。{n}それは次のうちどれ?{p}{end}
+EN: One special move changes when helmeted Akira becomes Akira without her helmet. Which one?{p}{end}
+
+## MGK10 g6 s0071
+JP: 裏裡門{p}
+EN: Gate Elbow{p}
+
+## MGK10 g6 s0072
+JP: 旋蹴舞{p}
+EN: Dancing Cyclone Kick{p}
+
+## MGK10 g6 s0073
+JP: 放舞{p}{end}
+EN: Leg Up{p}{end}
+
+## MGK10 g6 s0074
+JP: 気功塊{p}
+EN: Skull Aura{p}
+
+## MGK10 g6 s0075
+JP: 醍醐の必殺技である強「無双突き」は{n}コマンドを連続入力することで{n}連続何回まで繰り出すことができる?{p}{end}
+EN: By chaining the command, how many times in a row can Daigo do his strong Phoenix Fist?{p}{end}
+
+## MGK10 g6 s0076
+JP: 5回{p}{end}
+EN: 5 times{p}{end}
+
+## MGK10 g6 s0077
+JP: 4回{p}{end}
+EN: 4 times{p}{end}
+
+## MGK10 g6 s0078
+JP: 3回{p}{end}
+EN: 3 times{p}{end}
+
+## MGK10 g6 s0079
+JP: 6回{p}{end}
+EN: 6 times{p}{end}
+
+## MGK10 g6 s0080
+JP: 熱血隼人の必殺技である{n}「クロスカウンター」{n}に対して有効な攻撃は次のうちどれ?{p}{end}
+EN: Which attack works against Hayato's special move "Counter Thrust"?{p}{end}
+
+## MGK10 g6 s0082
+JP: ジャンプ攻撃{p}{end}
+EN: Jump attack{p}{end}
+
+## MGK10 g6 s0083
+JP: 立ち攻撃{p}{end}
+EN: Standing attack{p}{end}
+
+## MGK10 g6 s0084
+JP: しゃがみ攻撃{p}{end}
+EN: Crouching attack{p}{end}
+
+## MGK10 g6 s0085
+JP: 夏の完全燃焼アタックである{n}「千本スパイク」は{n}何個のボールを実際には打っている?{p}
+EN: How many balls does Natsu actually hit in her Burning Vigor Attack "Thousand Spikes"?{p}
+
+## MGK10 g6 s0086
+JP: 5個{p}{end}
+EN: 5 balls{p}{end}
+
+## MGK10 g6 s0087
+JP: 4個{p}{end}
+EN: 4 balls{p}{end}
+
+## MGK10 g6 s0088
+JP: 1000個{p}
+EN: 1000 balls{p}
+
+## MGK10 g6 s0089
+JP: 6個{p}{end}
+EN: 6 balls{p}{end}
+
+## MGK10 g6 s0090
+JP: ランの完全燃焼アタックである{n}「スーパーフラッシュ攻撃」は{n}最大何ヒットする?{p}
+EN: How many hits can Ran's Burning Vigor Attack "Super Flash Attack" do at most?{p}
+
+## MGK10 g6 s0092
+JP: 4ヒット{p}{end}
+EN: 4 hits{p}{end}
+
+## MGK10 g6 s0093
+JP: 3ヒット{p}{end}
+EN: 3 hits{p}{end}
+
+## MGK10 g6 s0095
+JP: 流の完全燃焼アタックである{n}「個人メドレー」の{n}3ターン目の泳ぎは何?{p}
+EN: In Nagare's Burning Vigor Attack "Individual Medley," which stroke comes on the 3rd lap?{p}
+
+## MGK10 g6 s0096
+JP: 平泳ぎ{p}
+EN: Breaststroke{p}
+
+## MGK10 g6 s0097
+JP: バタフライ{p}
+EN: Butterfly{p}
+
+## MGK10 g6 s0098
+JP: 背泳ぎ{p}
+EN: Backstroke{p}
+
+## MGK10 g6 s0099
+JP: 自由形{p}
+EN: Freestyle{p}
+

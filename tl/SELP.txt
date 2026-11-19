@@ -1,0 +1,61 @@
+# Character select of PLSEL1 (Solo, Versus, Exam Prep '99, Training), built
+# by tools/build_selp.py into SELP1.BIZ TIM 2 and PLSEL1.BIN. Format:
+# key: EN, JP in the comment above. RE: private/re/selp/findings.org.
+# The mini logo 私立ジャスティス学園 熱血青春日記2 stays JP (as the title logo).
+
+# Heading (all modes but Versus). Drawn in 32x32 cells, at most 10 cells
+# (320 px) on the 336 px banner.
+# キャラクターセレクト
+heading: CHARACTER SELECT
+# Versus heading, 3 cells (96 px).
+# 対戦
+versus: VERSUS
+
+# Labels over the two portraits (56x16 each).
+# 主役
+lead: Lead
+# 相棒
+partner: Partner
+
+# Name labels under the portraits (48x16). Names found in the first game's
+# USA label art (SELP3 TIM 2) are copied from it; others are put together
+# from its letters (N A G R E only). Official Western names (FIGHT.txt).
+# バツ, ひなた, 恭介, 将馬, 夏
+name_batsu: BATSU
+name_hinata: HINATA
+name_kyosuke: KYOSUKE
+name_shoma: SHOMA
+name_natsu: NATSU
+# ロベルト, ロイ, ティファニー, ボーマン, エッジ
+name_roberto: ROBERTO
+name_roy: ROY
+name_tiffany: TIFFANY
+name_boman: BOMAN
+name_edge: EDGE
+# アキラ, 岩, 英雄, 響子, 雷蔵
+name_akira: AKIRA
+name_gan: GAN
+name_hideo: HIDEO
+name_kyoko: KYOKO
+name_raizo: RAIZO
+# 雹, さくら, 醍醐, 隼人
+name_hyo: HYO
+name_sakura: SAKURA
+name_daigo: DAIGO
+name_hayato: HAYATO
+# あきら (Akira without the helmet). The USA label art writes it "akira".
+name_akira_b: akira
+# ひなた2, 夏2, ティファニー2, 響子2 (second versions; USA art)
+name_hinata2: HINATA2
+name_natsu2: NATSU2
+name_tiffany2: TIFFANY2
+name_kyoko2: KYOKO2
+# ラン, 流 (Project Justice names, glossary)
+name_ran: RAN
+name_nagare: NAGARE
+
+# Exam Prep '99 popup (each line at most 148 px). Wording as tl/EXAMGFX.txt.
+# '99年度試験
+exam99: '99 Exams
+# 基礎のおさらい
+basics: Basics Review

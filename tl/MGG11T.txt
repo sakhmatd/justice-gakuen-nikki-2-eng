@@ -1,0 +1,612 @@
+## MGG11T g0 s0003
+JP: 今年の参加校は、{n}主催の五輪高校と、我らが太陽学園を{n}含めて、合計五校。{n}いつもの顔ぶれだ。{p}{end}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Taiyo High. The usual faces.{p}{end}
+
+## MGG11T g0 s0010
+JP: 今ね、各学校の有力選手の{n}コメントをとってるの。{n}太陽学園は、当然アンタね。{p}{end}
+EN: I'm getting comments from the top athletes of each school. For Taiyo High, that's you, obviously.{p}{end}
+
+## MGG11T g0 s0016
+JP: ふむふむ、ホームラン競争の{n}太陽学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Taiyo High's entry in the Home Run Derby: {v0}. Got it.{p}
+
+## MGG11T g0 s0018
+JP: ふむふむ、PK戦の{n}太陽学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Taiyo High's entry in the PK Shootout: {v0}. Got it.{p}
+
+## MGG11T g0 s0020
+JP: ふむふむ、サービスエースの{n}太陽学園代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Taiyo High's entry in the Service Ace: {v0}. Got it.{p}
+
+## MGG11T g0 s0025
+JP: 遅いぞ!!{sp}{v3:16}!{n}気合がたりんぞ、気合がぁっ!!{p}
+EN: You're late, {v3:16}!! Where's your fire!? Where's your fiiire!!{p}
+
+## MGG11T g0 s0026
+JP: いいか、{v3:16}!{n}太陽学園の代表として、{n}恥ずかしいプレイだけはするな!!{p}{end}
+EN: Listen up, {v3:16}! You're representin' Taiyo High, so don't you dare put on a sorry show!!{p}{end}
+
+## MGG11T g0 s0027
+JP: 勝っても負けても!{n}悔いの残らないように、{n}全力でぶつかってこい!!{p}{end}
+EN: Win or lose! Go all out, so ya got no regrets!!{p}{end}
+
+## MGG11T g0 s0028
+JP: あいかわらず、{n}テンションが高いなぁ……。{p}
+EN: Fired up as always...{p}
+
+## MGG11T g0 s0029
+JP: 気合だーーーっ!!{p}
+EN: Fire it uuup!!{p}
+
+## MGG11T g0 s0030
+JP: うわっ、びっくりした……!{n}なんだ、バツか。{p}{end}
+EN: Whoa, you scared me...! Oh, it's just Batsu.{p}{end}
+
+## MGG11T g0 s0031
+JP: こんなことでびっくりしてるようじゃ、{n}気合がたりねぇ証拠だ!{n}いいか、{v3:0}。{n}負けんじゃねぇぞ!!{p}
+EN: If that's enough to scare ya, you ain't fired up enough! Listen, {v3:0}. Don't you dare lose!!{p}
+
+## MGG11T g0 s0032
+JP: ふふ、あいかわらず{n}バツは祭り好きだな。{n}さっきからずっとこの調子だ。{p}
+EN: Heh, Batsu loves a festival as always. He's been like this the whole time.{p}
+
+## MGG11T g0 s0033
+JP: ホーント、アタマに血が上りっぱなしよ。{n}見てる方が熱くなっちゃうって。{p}
+EN: Seriously, he's been red-hot nonstop. Just watching him gets me all worked up.{p}
+
+## MGG11T g0 s0034
+JP: うおおおおっ!!{n}燃えるーーーっ!!{p}{end}
+EN: Raaaah!! I'm burniiing!!{p}{end}
+
+## MGG11T g0 s0035
+JP: なんだか、気合が入ってくるなぁ。{p}{end}
+EN: Somehow I'm getting fired up too.{p}{end}
+
+## MGG11T g0 s0036
+JP: {v4:2}も代表選手なんだろ?{n}まぁ、学校の名誉なんて気にせずに、{n}気楽にやることだな。{p}
+EN: You're one of the representatives too, right, {v4:2}? Well, forget about the school's honor and just take it easy.{p}
+
+## MGG11T g0 s0037
+JP: そうそう!{n}自分のためにがんばるのが{n}一番だって。{p}
+EN: Exactly! Doing your best for yourself is what counts.{p}
+
+## MGG11T g0 s0040
+JP: バツのために!{sp}{sp}{sp}ひなたのために!{n}恭介のために!{sp}{sp}{sp}ランのために!{n}隼人先生のために!{sp}やっぱり学校のため!{p}
+EN: For Batsu!{sp}{sp}{sp}{sp}{sp}For Hinata!{n}For Kyosuke!{sp}{sp}{sp}{sp}For Ran!{n}For Hayato-sensei!{sp}For the school!{p}
+
+## MGG11T g0 s0041
+JP: （よし!{sp}この勝利をバツに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Batsu! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11T g0 s0042
+JP: （よし!{sp}この勝利をひなたに捧げよう!{n}{sp}うん!{sp}気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Hinata! Yeah! I'm getting fired up!){p}
+
+## MGG11T g0 s0043
+JP: （よし!{sp}この勝利を恭介に捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Kyosuke! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11T g0 s0044
+JP: （よし!{sp}この勝利をランに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Ran! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11T g0 s0045
+JP: （よし!{sp}この勝利を隼人先生に捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Hayato-sensei! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11T g0 s0047
+JP: ん、{v4:2}。{n}そろそろ出番じゃないか?{n}がんばってこいよ。{p}{end}
+EN: Hey, {v4:2}. Isn't it almost your turn? Go get 'em.{p}{end}
+
+## MGG11T g0 s0048
+JP: しっかりね!{n}応援してるよ!!{p}
+EN: Hang in there! I'm rooting for you!!{p}
+
+## MGG11T g0 s0049
+JP: 気合い入れていけよぉぉーーーっ!!{p}
+EN: Get out there and fire it uuup!!{p}
+
+## MGG11T g0 s0050
+JP: （絶好調!{n}{sp}俺の大活躍のおかげで、{n}{sp}太陽学園は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Taiyo High won!){p}
+
+## MGG11T g0 s0051
+JP: おめでとう!{sp}{v4:19}!{n}アンタのおかげで、{n}太陽学園は優勝よ!!{p}
+EN: Congrats, {v4:19}! Thanks to you, Taiyo High wins!!{p}
+
+## MGG11T g0 s0054
+JP: 勝因か……{n}ランが応援してくれたから、かな。{p}{end}
+EN: Why I won...? Because Ran was cheering me on, I guess.{p}{end}
+
+## MGG11T g0 s0055
+JP: な、何いってんのよ……!{n}まじめにインタビュー{n}してるんだから、{n}まじめに答えてよ!{p}{end}
+EN: Wh-what are you saying...!? This is a serious interview, so give me a serious answer!{p}{end}
+
+## MGG11T g0 s0056
+JP: ……俺は、まじめに{n}答えたつもりだけどな。{p}
+EN: ...I thought that was a serious answer.{p}
+
+## MGG11T g0 s0057
+JP: もう……バカね。{n}いいわ、コメントはなし!{n}……写真は一面で使ってあげるけど。{p}
+EN: Geez... You dummy. Fine, no comment! ...I'll still put your photo on the front page, though.{p}
+
+## MGG11T g0 s0058
+JP: おめでとうね、{n}{v4:19}……。{p}
+EN: Congratulations, {v4:19}...{p}
+
+## MGG11T g0 s0063
+JP: 役員会の決定で、君が本大会の{n}MVPに決まったのだよ。{n}太陽学園の学園長もお喜びだ。{p}{end}
+EN: The committee has chosen you as this tournament's MVP. Taiyo High's principal is delighted as well.{p}{end}
+
+## MGG11T g0 s0068
+JP: お、MVPのお帰りだぜ!{n}やったな、{v3:0}。{p}
+EN: Hey, here comes the MVP! You did it, {v3:0}.{p}
+
+## MGG11T g0 s0069
+JP: おめでとう、大活躍だったな。{n}まぁキミならきっと、{n}太陽学園を優勝に導いてくれると{n}信じていたが。{p}
+EN: Congratulations. You were outstanding. Then again, I was sure you'd lead Taiyo High to victory.{p}
+
+## MGG11T g0 s0070
+JP: でも、MVPになるなんてスゴイよね!{n}さっすが、{v6:1}!{n}カッコよかったよ!{p}
+EN: But making MVP is amazing! That's {v6:1} for you! You looked so cool!{p}
+
+## MGG11T g0 s0071
+JP: まったく、オマエには{n}ド肝を抜かされるぜ!{n}それでこそ、太陽学園代表だ!!{p}
+EN: Man, you sure knocked my socks off! That's what a Taiyo High rep oughta be!!{p}
+
+## MGG11T g0 s0072
+JP: これも、バツが気合いを{n}入れてくれたおかげだよ。{n}ありがとう、バツ……。{p}{end}
+EN: It's all thanks to you firing me up, Batsu. Thanks, Batsu...{p}{end}
+
+## MGG11T g0 s0073
+JP: おうよ!{n}気合い入れていけば、{n}楽勝だっつったろ?{p}
+EN: You bet! Told ya, get fired up and it's a cinch, right?{p}
+
+## MGG11T g0 s0074
+JP: そうだな、バツ!{p}{end}
+EN: You're right, Batsu!{p}{end}
+
+## MGG11T g0 s0075
+JP: これも、ひなたが{n}応援してくれたおかげだよ。{n}ありがとな、ひなた。{p}
+EN: It's all thanks to you cheering me on, Hinata. Thanks, Hinata.{p}
+
+## MGG11T g0 s0076
+JP: ……ん、うん。{n}なんか照れちゃうな。{p}{end}
+EN: ...Uh, yeah. This is kinda embarrassing.{p}{end}
+
+## MGG11T g0 s0077
+JP: ひなた……。{p}{end}
+EN: Hinata...{p}{end}
+
+## MGG11T g0 s0078
+JP: これも、恭介が{n}応援してくれたおかげだよ。{n}ありがとう、恭介。{p}
+EN: It's all thanks to you cheering me on, Kyosuke. Thanks, Kyosuke.{p}
+
+## MGG11T g0 s0079
+JP: キミにそういってもらえると{n}うれしいよ。{n}でも、勝ったのはキミの実力だ。{n}もっと胸を張れよ。{p}{end}
+EN: I'm glad to hear you say that. But you won on your own ability. Hold your head up.{p}{end}
+
+## MGG11T g0 s0080
+JP: そうだな。{n}恭介……ありがとな。{p}{end}
+EN: Yeah. Kyosuke... Thanks.{p}{end}
+
+## MGG11T g0 s0081
+JP: これも、隼人先生の{n}指導のたまものです!{n}先生、ありがとうございます。{p}
+EN: This is all thanks to your coaching, Hayato-sensei! Thank you, sensei.{p}
+
+## MGG11T g0 s0082
+JP: よせよ、照れるじゃねぇか……。{n}俺はオマエならやってくれるって、{n}信じてたぜ……!{p}
+EN: Cut it out, you're embarrassin' me... I knew you could pull it off...!{p}
+
+## MGG11T g0 s0083
+JP: 先生……。{p}
+EN: Sensei...{p}
+
+## MGG11T g0 s0085
+JP: ふふ、勝ったのはオマエの実力だよ。{n}もっと堂々としろって。{p}
+EN: Heh, you won on your own skill. Hold your head up already.{p}
+
+## MGG11T g0 s0087
+JP: ……こうして、五輪祭の{n}エキシビションマッチは、{n}太陽学園の優勝に終わった。{p}{end}
+EN: ...And so, the Gorin Festival exhibition match ended in victory for Taiyo High.{p}{end}
+
+## MGG11T g0 s0088
+JP: （……まぁまぁかな。{n}{sp}とりあえず、これでなんとか{n}{sp}太陽学園は3位を{n}{sp}キープできたみたいだ。）{p}
+EN: (...Not bad, I guess. At least it looks like Taiyo High held on to third place.){p}
+
+## MGG11T g0 s0090
+JP: まぁ、アンタにしては{n}がんばったと思うわ。{n}一応、写真は撮っておいたから、{n}欲しかったらいってね。{p}
+EN: Well, I think you tried hard, for you. I took some photos anyway, so let me know if you want one.{p}
+
+## MGG11T g0 s0092
+JP: （ランのためにがんばったけど……{n}{sp}力およばなかったな……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Ran... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}{end}
+
+## MGG11T g0 s0093
+JP: ん?{sp}何?{p}
+EN: Hm? What?{p}
+
+## MGG11T g0 s0094
+JP: いや、何でもないっ。{p}{end}
+EN: Nah, nothing.{p}{end}
+
+## MGG11T g0 s0095
+JP: まぁ、そんなに気を落とさないで。{n}別にビリになったわけじゃないし、{n}3位でも上出来よ。{n}元気出しなさい!{p}{end}
+EN: Well, don't be so down. You didn't come in last or anything, and third is pretty good. Cheer up!{p}{end}
+
+## MGG11T g0 s0096
+JP: ありがとう、ラン。{p}
+EN: Thanks, Ran.{p}
+
+## MGG11T g0 s0105
+JP: よぉ、{v3:0}。{n}お疲れさん。{n}3位だってな。{p}
+EN: Yo, {v3:0}. Good work. Third place, huh?{p}
+
+## MGG11T g0 s0106
+JP: まぁ、全力を尽くしたんだ。{n}3位でも上出来さ。{p}
+EN: Well, you gave it everything. Third place is a fine result.{p}
+
+## MGG11T g0 s0107
+JP: そうだよ。勝負は時の運っていうしね。{n}もうちょっと運がよければ、{n}勝ってたのは、{n}{v6:1}だと思うな。{p}
+EN: That's right. Winning's down to luck, as they say. With a little more luck, I bet {v6:1} would've won.{p}
+
+## MGG11T g0 s0108
+JP: 勝負に、「たら・れば」は禁物だ。{n}だがまぁ……、{n}よく頑張ったんじゃねぇか。{p}{end}
+EN: In a match, there's no "what if." But hey... ya did pretty good, I'd say.{p}{end}
+
+## MGG11T g0 s0109
+JP: （バツのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Batsu... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g0 s0110
+JP: まぁ、そう気を落とすなよ。{n}3位だって上等じゃねぇか。{p}
+EN: Hey, don't get so down. Third place is plenty good!{p}
+
+## MGG11T g0 s0111
+JP: バツにそういってもらえると{n}助かるよ。{n}ありがとな、バツ。{p}
+EN: Hearing that from you helps, Batsu. Thanks, Batsu.{p}
+
+## MGG11T g0 s0112
+JP: （ひなたのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Hinata... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}{end}
+
+## MGG11T g0 s0113
+JP: そんなに気を落とさないで、{n}{v6:1}。{n}3位でも十分だよ。{p}
+EN: Don't be so down, {v6:1}. Third place is plenty!{p}
+
+## MGG11T g0 s0114
+JP: ひなたにそういってもらえると{n}助かるよ。{n}ありがとな、ひなた。{p}
+EN: Hearing that from you helps, Hinata. Thanks.{p}
+
+## MGG11T g0 s0115
+JP: （恭介のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Kyosuke... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g0 s0116
+JP: まぁ、そう気を落とすことはないさ、{n}{v4:2}。{n}キミは全力でがんばったんだろ?{p}
+EN: Well, there's no need to feel so down, {v4:2}. You gave it your all, didn't you?{p}
+
+## MGG11T g0 s0117
+JP: ……そうだな、恭介。{n}ありがとう。{p}
+EN: ...You're right, Kyosuke. Thanks.{p}
+
+## MGG11T g0 s0118
+JP: （隼人先生のためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Hayato-sensei... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g0 s0119
+JP: オマエが全力を尽くしたっていうなら、{n}それでいい!{n}その汗の意味を、オマエの身体は{n}知っているはずだ。{p}
+EN: If you gave it everything, that's enough! Your body knows what that sweat means.{p}
+
+## MGG11T g0 s0120
+JP: 隼人先生……ありがとうございます。{p}
+EN: Hayato-sensei... Thank you.{p}
+
+## MGG11T g0 s0122
+JP: まぁ、そう気を落とすなよ。{n}3位でも上出来だ。{n}キミはがんばったよ。{p}{end}
+EN: Well, don't get so down. Third place is a fine result. You did well.{p}{end}
+
+## MGG11T g0 s0123
+JP: ……ありがとう。{n}そういってもらえると助かるよ。{p}{end}
+EN: ...Thanks. Hearing that helps.{p}{end}
+
+## MGG11T g0 s0124
+JP: ……こうして、太陽学園は{n}五輪祭のエキシビションマッチ{n}第3位に終わった。{p}
+EN: ...And so, Taiyo High finished third in the Gorin Festival exhibition match.{p}
+
+## MGG11T g0 s0125
+JP: （最悪だ……。{n}{sp}俺はがんばったが、結果は振るわず{n}{sp}太陽学園は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Taiyo High came in last...){p}{end}
+
+## MGG11T g0 s0129
+JP: （ランのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Ran... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g0 s0130
+JP: ん?{sp}何?{n}何か言いたいことでも、ある?{p}{end}
+EN: Hm? What? Got something to say?{p}{end}
+
+## MGG11T g0 s0131
+JP: い、いや別に。{n}ただせっかくランが{n}応援してくれたのに{n}悪いコトしたかなって。{p}
+EN: N-no, not really. I just feel bad, after Ran went and cheered for me.{p}
+
+## MGG11T g0 s0132
+JP: ホーント!{n}応援して損しちゃったな。{p}{end}
+EN: Seriously! Cheering for you was a waste.{p}{end}
+
+## MGG11T g0 s0137
+JP: だが、くじけてはイカンぞ。{n}今回はダメだったが、{n}この悔しさをバネに、{n}これからも精進を続けるのだ。{p}{end}
+EN: But you must not lose heart. It did not go well this time, but use this frustration as a springboard and keep striving.{p}{end}
+
+## MGG11T g0 s0140
+JP: {v3:16}!{n}{v3:16}、{v3:16}!{n}なんだ、あのザマは!?{n}やる気あるのか?{sp}あっ?{p}
+EN: {v3:16}! {v3:16}, {v3:16}! What was that sorry showing!? You even tryin'? Huh?{p}
+
+## MGG11T g0 s0141
+JP: ……どうした、{n}調子でも悪かったのか?{p}
+EN: ...What's up? Were you off your game or somethin'?{p}
+
+## MGG11T g0 s0142
+JP: キミにはもう少し{n}期待していたんだが……{n}正直、がっかりしたよ。{n}まさか、最下位とはな……。{p}{end}
+EN: I expected a bit more from you... Honestly, I'm disappointed. Dead last, of all things...{p}{end}
+
+## MGG11T g0 s0143
+JP: そんな、みんな……、{n}{v6:1}も{n}がんばったんだし……ね?{p}
+EN: C'mon, you guys... {v6:1} tried hard too... right?{p}
+
+## MGG11T g0 s0144
+JP: （バツのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Batsu... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g0 s0145
+JP: ま、仕方ねぇか。{n}オマエを代表に選んだのも{n}オレ達だからなぁ。{n}来年、またがんばればいいさ……。{p}{end}
+EN: Well, can't be helped. We're the ones who picked you as our rep, after all. Just try again next year...{p}{end}
+
+## MGG11T g0 s0146
+JP: バツ……ゴメンな。{p}
+EN: Batsu... Sorry.{p}
+
+## MGG11T g0 s0147
+JP: （ひなたのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}
+EN: (I did my best for Hinata... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}
+
+## MGG11T g0 s0148
+JP: {v6:1}も、{n}そんなに気を落とさないで……ネ?{n}また来年、がんばろ?{p}{end}
+EN: Don't be so down, {v6:1}... okay? Let's try again next year!{p}{end}
+
+## MGG11T g0 s0149
+JP: ひなた……。{n}そうだね。ありがとう。{p}{end}
+EN: Hinata... Yeah. Thanks.{p}{end}
+
+## MGG11T g0 s0150
+JP: （恭介のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Kyosuke... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g0 s0151
+JP: 誰にでも失敗はあるさ。{n}せいぜいその悔しさを{n}次に生かすんだな、{n}{v4:2}。{p}{end}
+EN: Everyone fails sometimes. Just make sure you put that frustration to use next time, {v4:2}.{p}{end}
+
+## MGG11T g0 s0152
+JP: そうだな……。{n}恭介、ゴメンな。{p}{end}
+EN: Yeah... Sorry, Kyosuke.{p}{end}
+
+## MGG11T g0 s0153
+JP: （隼人先生のためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念だ……）{p}{end}
+EN: (I did my best for Hayato-sensei... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g0 s0154
+JP: お前もまだまだ修行が足りねぇな!{n}これから学校まで走るぞ!{n}ついてこい!!{p}
+EN: You still need more trainin'! We're runnin' back to school, right now! Follow me!!{p}
+
+## MGG11T g0 s0155
+JP: は、はいっ!{n}先生!!{p}
+EN: Y-yes, sensei!!{p}
+
+## MGG11T g0 s0157
+JP: しかたないよ。{n}また来年がんばればいいじゃない……。{p}{end}
+EN: It can't be helped. You can just try again next year...{p}{end}
+
+## MGG11T g0 s0159
+JP: ……こうして、太陽学園は{n}五輪祭のエキシビションマッチ{n}最下位に終わった。{p}
+EN: ...And so, Taiyo High finished last in the Gorin Festival exhibition match.{p}
+
+## MGG11T g1 s0003
+JP: 今年の参加校は、{n}主催の五輪高校と、我が太陽学園を{n}含めて、合計五校。{n}いつもの顔ぶれね。{p}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Taiyo High. The usual faces.{p}
+
+## MGG11T g1 s0028
+JP: あいかわらず、{n}テンションが高いわねぇ……。{p}{end}
+EN: Fired up as always...{p}{end}
+
+## MGG11T g1 s0030
+JP: キャッ、びっくりした……!{n}バツじゃない、驚かさないでよ。{p}
+EN: Eek, you scared me...! Batsu! Don't startle me like that.{p}
+
+## MGG11T g1 s0035
+JP: なんだか、気合が入ってくるわねぇ。{p}
+EN: Somehow I'm getting fired up too.{p}
+
+## MGG11T g1 s0036
+JP: {v7:2}も代表選手なんだろ?{n}まぁ、学校の名誉なんて気にせずに、{n}気楽にやることだな。{p}
+EN: You're one of the representatives too, right, {v7:2}? Well, forget about the school's honor and just take it easy.{p}
+
+## MGG11T g1 s0041
+JP: （よし!{sp}この勝利をバツに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Batsu! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11T g1 s0042
+JP: （よし!{sp}この勝利をひなたに捧げるわ!{n}{sp}うん!{sp}気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Hinata! Yeah! I'm getting fired up!){p}{end}
+
+## MGG11T g1 s0043
+JP: （よし!{sp}この勝利を恭介に捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Kyosuke! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11T g1 s0044
+JP: （よし!{sp}この勝利をランに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Ran! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11T g1 s0045
+JP: （よし!{sp}この勝利を隼人先生に捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Hayato-sensei! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11T g1 s0047
+JP: ん、{v7:2}。{n}そろそろ出番じゃないか?{n}がんばってこいよ。{p}{end}
+EN: Hey, {v7:2}. Isn't it almost your turn? Go get 'em.{p}{end}
+
+## MGG11T g1 s0050
+JP: （絶好調!{n}{sp}私の大活躍のおかげで、{n}{sp}太陽学園は優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Taiyo High won!){p}
+
+## MGG11T g1 s0051
+JP: おめでとう!{sp}{v8:19}!{n}アンタのおかげで、{n}太陽学園は優勝よ!!{p}
+EN: Congrats, {v8:19}! Thanks to you, Taiyo High wins!!{p}
+
+## MGG11T g1 s0054
+JP: 勝因ね……{n}ランちゃんが応援してくれたから、かな。{p}
+EN: Why I won...? Because Ran-chan was cheering me on, I guess.{p}
+
+## MGG11T g1 s0056
+JP: ……私は、まじめに{n}答えたつもりだけどね。{p}
+EN: ...I thought that was a serious answer.{p}
+
+## MGG11T g1 s0058
+JP: おめでとうね、{n}{v8:19}……。{p}
+EN: Congratulations, {v8:19}...{p}
+
+## MGG11T g1 s0070
+JP: でも、MVPになるなんてスゴイよね!{n}さっすが、{v8:1}!{n}カッコよかったよ!{p}
+EN: But making MVP is amazing! That's {v8:1} for you! You looked so cool!{p}
+
+## MGG11T g1 s0072
+JP: これも、バツが気合いを{n}入れてくれたおかげよ。{n}ありがとう、バツ……。{p}
+EN: It's all thanks to you firing me up, Batsu. Thanks, Batsu...{p}
+
+## MGG11T g1 s0074
+JP: そうね、バツ!{p}
+EN: You're right, Batsu!{p}
+
+## MGG11T g1 s0075
+JP: これも、ひなたが{n}応援してくれたおかげよ。{n}ありがと、ひなた。{p}
+EN: It's all thanks to you cheering me on, Hinata. Thanks, Hinata.{p}
+
+## MGG11T g1 s0078
+JP: これも、恭介が{n}応援してくれたおかげよ。{n}ありがとう、恭介。{p}{end}
+EN: It's all thanks to you cheering me on, Kyosuke. Thanks, Kyosuke.{p}{end}
+
+## MGG11T g1 s0080
+JP: うん。{n}恭介……ありがと。{p}
+EN: Yeah. Kyosuke... Thanks.{p}
+
+## MGG11T g1 s0088
+JP: （……まぁまぁね。{n}{sp}とりあえず、これでなんとか{n}{sp}太陽学園は3位を{n}{sp}キープできたみたいだし。）{p}
+EN: (...Not bad, I guess. At least it looks like Taiyo High held on to third place.){p}
+
+## MGG11T g1 s0092
+JP: （ランのためにがんばったけど……{n}{sp}力およばなかったなァ……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Ran... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}{end}
+
+## MGG11T g1 s0094
+JP: ううん、何でもないっ。{p}
+EN: No, nothing.{p}
+
+## MGG11T g1 s0096
+JP: ありがとう、ランちゃん。{p}{end}
+EN: Thanks, Ran-chan.{p}{end}
+
+## MGG11T g1 s0107
+JP: そうだよ。勝負は時の運っていうしね。{n}もうちょっと運がよければ、{n}勝ってたのは、{n}{v8:1}だと思うな。{p}
+EN: That's right. Winning's down to luck, as they say. With a little more luck, I bet {v8:1} would've won.{p}
+
+## MGG11T g1 s0109
+JP: （バツのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Batsu... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g1 s0111
+JP: バツにそういってもらえると{n}助かるわ。{n}ありがと、バツ。{p}{end}
+EN: Hearing that from you helps, Batsu. Thanks, Batsu.{p}{end}
+
+## MGG11T g1 s0112
+JP: （ひなたのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Hinata... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}{end}
+
+## MGG11T g1 s0113
+JP: そんなに気を落とさないで、{n}{v8:1}。{n}3位でも十分だよ。{p}
+EN: Don't be so down, {v8:1}. Third place is plenty!{p}
+
+## MGG11T g1 s0114
+JP: ひなたにそういってもらえると{n}助かるわ。{n}ありがと、ひなた。{p}{end}
+EN: Hearing that from you helps, Hinata. Thanks.{p}{end}
+
+## MGG11T g1 s0115
+JP: （恭介のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Kyosuke... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g1 s0116
+JP: まぁ、そう気を落とすことはないさ、{n}{v7:2}。{n}キミは全力でがんばったんだろ?{p}
+EN: Well, there's no need to feel so down, {v7:2}. You gave it your all, didn't you?{p}
+
+## MGG11T g1 s0117
+JP: ……そうだね、恭介。{n}ありがと。{p}{end}
+EN: ...You're right, Kyosuke. Thanks.{p}{end}
+
+## MGG11T g1 s0118
+JP: （隼人先生のためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}太陽学園が3位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Hayato-sensei... but it wasn't enough... That bugs me more than Taiyo High coming in third...){p}
+
+## MGG11T g1 s0122
+JP: まぁそう気を落とすなよ。{n}3位でも上出来だ。{n}キミはがんばったよ。{p}
+EN: Well, don't get so down. Third place is a fine result. You did well.{p}
+
+## MGG11T g1 s0123
+JP: ……ありがとう。{n}そういってもらえると助かるわ。{p}{end}
+EN: ...Thanks. Hearing that helps.{p}{end}
+
+## MGG11T g1 s0125
+JP: （最悪……。{n}{sp}私はがんばったけど、結果は振るわず{n}{sp}太陽学園は最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Taiyo High came in last...){p}{end}
+
+## MGG11T g1 s0129
+JP: （ランのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Ran... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g1 s0131
+JP: い、いや別に。{n}ただせっかくランちゃんが{n}応援してくれたのに{n}悪いコトしたかなって。{p}{end}
+EN: N-no, not really. I just feel bad, after Ran-chan went and cheered for me.{p}{end}
+
+## MGG11T g1 s0143
+JP: そんな、みんな……、{n}{v8:1}も{n}がんばったんだし……ね?{p}
+EN: C'mon, you guys... {v8:1} tried hard too... right?{p}
+
+## MGG11T g1 s0144
+JP: （バツのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Batsu... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g1 s0146
+JP: バツ……ゴメンね。{p}
+EN: Batsu... Sorry.{p}
+
+## MGG11T g1 s0147
+JP: （ひなたのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念……）{p}
+EN: (I did my best for Hinata... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}
+
+## MGG11T g1 s0148
+JP: {v8:1}も、{n}そんなに気を落とさないで……ネ?{n}また来年、がんばろ?{p}{end}
+EN: Don't be so down, {v8:1}... okay? Let's try again next year!{p}{end}
+
+## MGG11T g1 s0150
+JP: （恭介のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Kyosuke... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+
+## MGG11T g1 s0151
+JP: 誰にでも失敗はあるさ。{n}せいぜいその悔しさを{n}次に生かすんだな、{n}{v7:2}。{p}{end}
+EN: Everyone fails sometimes. Just make sure you put that frustration to use next time, {v7:2}.{p}{end}
+
+## MGG11T g1 s0152
+JP: そうね……。{n}恭介、ゴメンね。{p}
+EN: Yeah... Sorry, Kyosuke.{p}
+
+## MGG11T g1 s0153
+JP: （隼人先生のためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}太陽学園が最下位になったことより、{n}{sp}そっちの方が残念……）{p}{end}
+EN: (I did my best for Hayato-sensei... but I totally blew it... That bugs me more than Taiyo High coming in last...){p}{end}
+

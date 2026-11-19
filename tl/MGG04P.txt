@@ -1,0 +1,352 @@
+## MGG04P g0 s0000
+JP: 今日はパシフィックハイスクールの入学式。{n}いつもより早く目が覚めたので、{n}早めに登校してみた。{p}
+EN: Today's the Pacific High entrance ceremony. I woke up earlier than usual, so I headed to school early.{p}
+
+## MGG04P g0 s0001
+JP: このあたりは緑が多いから、{n}気持ちがいいなぁ。{n}お、あそこにいるのはボーマンだな。{p}
+EN: There's so much green around here. It feels great. Oh, that's Boman over there.{p}
+
+## MGG04P g0 s0002
+JP: おはようっ、ボーマン。{n}さすがに早いね。{p}{end}
+EN: Morning, Boman! Early as always, huh.{p}{end}
+
+## MGG04P g0 s0003
+JP: おはようございます、{v4:8}。{n}実に気持ちよい朝ですね。{n}まるで我々の入学式を、神が祝福して{n}くれているようです!{p}
+EN: Good morning, {v4:8}. What a truly pleasant morning. It is as if God Himself is blessing our entrance ceremony!{p}
+
+## MGG04P g0 s0004
+JP: ふふっ、さすがはボーマンだな……。{n}ん?{sp}向こうからロイが来るぞ。{n}なんだかひどく急いでるみたいだ。{p}{end}
+EN: Heh, that's Boman for you... Hm? Here comes Roy. He looks like he's in a real hurry.{p}{end}
+
+## MGG04P g0 s0005
+JP: グッモーニン、お二人さん。{n}ちょっと今急いでるんで、{n}先に失礼するぜ。{p}
+EN: Mornin', you two. I'm in a bit of a rush, so I'll be going on ahead.{p}
+
+## MGG04P g0 s0006
+JP: ……いっちゃった。{n}どうしたんだろう、何かあったのかな?{n}なんか逃げるようにいっちゃったけど。{p}
+EN: ...He's gone. What's up with him? Did something happen? It was like he was running away.{p}
+
+## MGG04P g0 s0007
+JP: ふふっ、さぁ……どうでしょうね。{p}{end}
+EN: Heh heh. Well... who can say?{p}{end}
+
+## MGG04P g0 s0008
+JP: ハーイ!{sp}オハヨーゴザイマース!!{n}{v3:7}、{n}今日もデンキがいいですネー!{p}{end}
+EN: Hiii! Good morniiing!! {v3:7}, such lovely electricity today!{p}{end}
+
+## MGG04P g0 s0009
+JP: それは「天気」だろう……、{n}ん?{sp}いや「元気」か?{n}どっちだ?{p}
+EN: You mean "weather"...? Hm? Or was it "energy"? Which one?{p}
+
+## MGG04P g0 s0010
+JP: そんなコトはどーでもイーね!{n}それより、ロイ見ませんでしたかー?{p}{end}
+EN: Who cares about that! More important, have you seen Roy?{p}{end}
+
+## MGG04P g0 s0011
+JP: ロイなら、さっきあわてて学校にいったぜ。{n}妙に急いでたけど、何かあったの?{p}
+EN: Roy? He rushed off to school a minute ago. He was in a weird hurry. Did something happen?{p}
+
+## MGG04P g0 s0012
+JP: もう!{sp}ニューガク・セレモニーの日は、{n}いっしょに登校しようって約束したのに!!{n}ロイのブラ切りモノ!!{p}{end}
+EN: Ugh! He promised we'd walk to school together on Entrance Ceremony day!! Roy, you trader!!{p}{end}
+
+## MGG04P g0 s0013
+JP: ……いっちゃった。{n}怒ってるね、ティファニー。{p}
+EN: ...She's gone. Tiffany's mad, huh.{p}
+
+## MGG04P g0 s0014
+JP: それは「裏切りモノ」だろう……。{n}やれやれ、二人ともあいかわらずだな。{p}
+EN: I think she meant "traitor"... Good grief, those two never change.{p}
+
+## MGG04P g0 s0015
+JP: どうしてロイは逃げ回ってるんだ?{n}ティファニーのことがイヤなのか?{p}
+EN: Why does Roy keep running away? Does he not like Tiffany?{p}
+
+## MGG04P g0 s0016
+JP: とんでもない!{n}照れてるだけですよ、ロイは。{n}あれは仲がいい証拠です。{p}
+EN: Not at all! Roy is just shy. That is proof of how close they are.{p}
+
+## MGG04P g0 s0017
+JP: ふ～ん、そういうもんかな……。{n}お、そろそろ俺達も急がないと、{n}遅れるぞ。{p}
+EN: Hmm, is that how it works...? Oh, we'd better hurry too, or we'll be late.{p}
+
+## MGG04P g0 s0018
+JP: そうですね、いきましょう。{p}
+EN: You are right. Let us go.{p}
+
+## MGG04P g0 s0019
+JP: ……ふぅ。{n}長かった入学式典も終わった……。{n}お、あんなトコロにロイがいる。{n}ちょっと声をかけてやろう。{p}{end}
+EN: ...Phew. That long ceremony is finally over... Oh, there's Roy. I'll go say hi.{p}{end}
+
+## MGG04P g0 s0020
+JP: よぉ、ロイ。{n}朝はどうしたんだ?{n}ティファニーが探してたぞ。{p}{end}
+EN: Hey, Roy. What happened this morning? Tiffany was looking for you.{p}{end}
+
+## MGG04P g0 s0021
+JP: しっ!{sp}静かに。{n}ティファニーに見つかるだろ?{n}ようやくまいたトコロなんだから。{p}{end}
+EN: Shh! Quiet. Tiffany'll find me! I only just shook her off.{p}{end}
+
+## MGG04P g0 s0022
+JP: なんだ、やっぱりティファニーのことが{n}キライなのか?{n}そんなに逃げ回るなんて。{p}
+EN: What, so you do hate Tiffany? Running away from her like that.{p}
+
+## MGG04P g0 s0023
+JP: な、な、な、何をいってるんだ。{n}そんなワケないだろう。{n}ただ……ちょっとな……。{p}{end}
+EN: Wh-wh-wh-what are you saying? Of course not. It's just... you know...{p}{end}
+
+## MGG04P g0 s0024
+JP: ふ～ん、なんだかよくわかんないけど……。{n}お、あそこにティファニーが。{p}
+EN: Hmm, I don't really get it... Oh, there's Tiffany.{p}
+
+## MGG04P g0 s0025
+JP: ティファニーを呼ぶ{n}ロイと隠れる{p}{end}
+EN: Call Tiffany{n}Hide with Roy{p}{end}
+
+## MGG04P g0 s0026
+JP: おーい、ティファニー!{p}
+EN: Heeey, Tiffany!{p}
+
+## MGG04P g0 s0027
+JP: あ、バカ!{p}
+EN: Hey, you idiot!{p}
+
+## MGG04P g0 s0028
+JP: ロイ!{sp}こんなトコロにいたネ!{n}探したよ!{p}
+EN: Roy! So this is where you were! I was looking for you!{p}
+
+## MGG04P g0 s0029
+JP: なんでそんなコトするんだ……、{n}ヒドイな、キミは!!{p}{end}
+EN: Why would you do that...? That's cruel of you!!{p}{end}
+
+## MGG04P g0 s0030
+JP: {v3:7}、サンキュね!{n}ロイ～、今朝はナンで逃げたか?{p}
+EN: {v3:7}, thank you! Roooy, why did you run away this morning?{p}
+
+## MGG04P g0 s0031
+JP: や、やぁティファニー。{n}逃げたなんてとんでもない!{n}たぶん、どこかで行き違いに{n}なったんだろう……。{p}{end}
+EN: H-hey, Tiffany. Run away? Me? Never! We must have just missed each other somewhere...{p}{end}
+
+## MGG04P g0 s0032
+JP: う～ん、仲がいいのか、{n}悪いのか……、よくわからないなぁ。{p}
+EN: Hmm, do they get along or not...? I can't tell.{p}
+
+## MGG04P g0 s0033
+JP: {v3:6}、キミも笑ってないで、{n}なんとかいってくれよ!{p}
+EN: {v3:6}, don't just stand there laughing. Say something!{p}
+
+## MGG04P g0 s0036
+JP: ロイ!{sp}隠れろ!{p}{end}
+EN: Roy! Hide!{p}{end}
+
+## MGG04P g0 s0037
+JP: うわっと!{p}
+EN: Whoa!{p}
+
+## MGG04P g0 s0038
+JP: ……アレ?{n}今このへんでロイの声がしたけど……。{p}{end}
+EN: ...Huh? I heard Roy's voice around here just now...{p}{end}
+
+## MGG04P g0 s0039
+JP: ……行ったみたいだ。{n}どうやら見つからなかったようだな。{p}{end}
+EN: ...Looks like she's gone. I don't think she spotted us.{p}{end}
+
+## MGG04P g0 s0040
+JP: ……ふぅ、{n}すまないな、{v3:6}。{n}キミにまで気を使わせて。{p}{end}
+EN: ...Phew. Sorry, {v3:6}. I dragged you into this too.{p}{end}
+
+## MGG04P g0 s0041
+JP: いや、かわいい女の子に{n}声をかけようと思ったら、{n}ティファニーが来たんでね、{n}あんまりしつこいから、ついね……。{p}{end}
+EN: See, I was about to chat up a cute girl when Tiffany showed up. She just wouldn't let up, so I kinda...{p}{end}
+
+## MGG04P g0 s0042
+JP: ロ～イ～……。{p}
+EN: Roooy...{p}
+
+## MGG04P g0 s0043
+JP: わっティファニー!?{n}いたのか?{p}{end}
+EN: Whoa, Tiffany!? You were here?{p}{end}
+
+## MGG04P g0 s0044
+JP: いたのかじゃないでしょ!{n}なんでコソコソ隠れるか?{n}何かやましいことでもあるのか?{p}
+EN: Don't "you were here" me! Why are you sneaking around? Are you hiding something?{p}
+
+## MGG04P g0 s0045
+JP: ……よかった、{n}聞いてたワケじゃないんだな。{p}{end}
+EN: ...Phew, good. She didn't hear us.{p}{end}
+
+## MGG04P g0 s0046
+JP: 聞かれちゃ悪いようなコト、{n}話してたのか?{n}{v3:6}も聞いたか?{p}{end}
+EN: Were you talking about something I shouldn't hear? {v3:6}, did you hear it too?{p}{end}
+
+## MGG04P g0 s0047
+JP: い、いや俺は……。{n}（やれやれやっかいな話だなぁ……）{p}
+EN: N-no, I... (Good grief, what a mess...){p}
+
+## MGG04P g0 s0050
+JP: やれやれ、ロイのせいで{n}ヒドイ目にあったなぁ……。{n}式典も終わったし、教室に帰ろう……。{p}{end}
+EN: Good grief, Roy really put me through it... The ceremony's over, so I'll head back to class...{p}{end}
+
+## MGG04P g0 s0054
+JP: あ、あなた、さっきの!{n}『三角関係発覚!?{n}{sp}入学式後の痴話喧嘩』ね!?{n}ばっちり撮らせてもらったわよ。{p}{end}
+EN: Oh, you're the one from before! "Love Triangle Exposed!? Lovers' Spat After the Ceremony," right!? I got a perfect shot of it.{p}{end}
+
+## MGG04P g0 s0058
+JP: へぇ……しかし三角関係って……{n}俺はただ巻き込まれただけだぞ?{p}
+EN: Huh... But a love triangle? I just got dragged into it!{p}
+
+## MGG04P g0 s0212
+JP: クラブに所属しているだけで、{n}そのクラブの特色にあった能力が{n}成長していくみたいです。{n}量は少ないですけど。{p}{end}
+EN: Just by being in a club, you grow in the abilities that club is good for, it seems. Only a little, though.{p}{end}
+
+## MGG04P g0 s0354
+JP: おはよう、{v3:6}。{n}まったく、キミはいつも元気だな。{n}うらやましいよ。{p}{end}
+EN: Morning, {v3:6}. Honestly, you've always got so much energy. I envy you.{p}{end}
+
+## MGG04P g0 s0355
+JP: え?{n}そういうロイは、調子でも悪いのか?{n}今日はせっかくの遠足だぜ。{p}{end}
+EN: Huh? What about you, Roy? Feeling under the weather? Today's the field trip, man.{p}{end}
+
+## MGG04P g0 s0356
+JP: そう、それが問題でね。{n}実は、今日行く遊園地は先週のデートで{n}行ったばかりなのさ。{p}
+EN: Yeah, that's the problem. See, I just went to today's amusement park on a date last week.{p}
+
+## MGG04P g0 s0357
+JP: なるほど、デートでねぇ……{n}相変わらずのモテっぷりなんだな。{n}全く、うらやましいよ。{p}{end}
+EN: A date, huh... Popular as ever. Man, I envy you.{p}{end}
+
+## MGG04P g0 s0358
+JP: ハァイ!{n}ロイ、{v3:7}、何話してるの?{p}{end}
+EN: Hiii! Roy, {v3:7}, what are you talking about?{p}{end}
+
+## MGG04P g0 s0359
+JP: ティ、ティファニー!?{n}いつからそこにいたんだ?{p}{end}
+EN: T-Tiffany!? How long have you been there?{p}{end}
+
+## MGG04P g0 s0360
+JP: 今来たところネ。{n}それがどうかしたの?{p}
+EN: I just got here. Why?{p}
+
+## MGG04P g0 s0361
+JP: い、いや、何でもない。{n}{v3:6}、さっきの話はナイショだぞ。{p}{end}
+EN: N-no, it's nothing. {v3:6}, keep what I said a secret.{p}{end}
+
+## MGG04P g0 s0362
+JP: ハイハイ。{n}貸しにしておいてやるよ。{p}{end}
+EN: Yeah, yeah. You owe me one.{p}{end}
+
+## MGG04P g0 s0363
+JP: ワォ、すごいテーマパーク。{n}なんだか楽しそうネ!{n}ねえねえ、何から乗るの?{p}
+EN: Wow, what a theme park. Looks like so much fun! Hey, hey, what do we ride first?{p}
+
+## MGG04P g0 s0364
+JP: ……そ、そうだな。{n}{v3:6}、ボーマン、どこか{n}行きたい所はないのか?{p}
+EN: ...W-well, let's see. {v3:6}, Boman, anywhere you want to go?{p}
+
+## MGG04P g0 s0365
+JP: 私は、「お化け屋敷」という{n}アトラクションに興味があるのですが。{n}みなさんはどうですか?{p}{end}
+EN: I am interested in an attraction called the "haunted house." What do you all think?{p}{end}
+
+## MGG04P g0 s0366
+JP: オッケー!{n}ミーはゼンゼンかまわないネ。{n}{v3:7}はどう?{p}
+EN: Okay! Fine by me. What about you, {v3:7}?{p}
+
+## MGG04P g0 s0368
+JP: なんだ、まだ決めてなかったのか。{n}じゃあ、ボクたちは先に行ってるから、{n}良かったら後から来いよ。{p}{end}
+EN: What, you haven't decided yet? Then we'll go on ahead. Catch up later if you want.{p}{end}
+
+## MGG04P g0 s0370
+JP: {v3:7}、じゃあまた後でネ!{p}{end}
+EN: {v3:7}, see you later!{p}{end}
+
+## MGG04P g1 s0000
+JP: 今日はパシフィックハイスクールの入学式。{n}いつもより早く目が覚めたので、{n}早めに登校してみよっと。{p}
+EN: Today's the Pacific High entrance ceremony. I woke up earlier than usual, so I think I'll head to school early.{p}
+
+## MGG04P g1 s0001
+JP: このあたりは緑が多いから、{n}気持ちがいいなぁ。{n}あ、あそこにいるのはボーマンだわ。{p}
+EN: There's so much green around here. It feels great. Oh, there's Boman.{p}
+
+## MGG04P g1 s0002
+JP: おはようっ、ボーマン。{n}さすがに早いわね。{p}
+EN: Morning, Boman! Early as always.{p}
+
+## MGG04P g1 s0004
+JP: ふふっ、さすがはボーマンね……。{n}ん?{sp}向こうからロイが来るわ。{n}なんだかひどく急いでるみたい。{p}{end}
+EN: Heh, that's Boman for you... Hm? Here comes Roy. He looks like he's in a real hurry.{p}{end}
+
+## MGG04P g1 s0011
+JP: ロイなら、さっきあわてて学校にいったよ。{n}妙に急いでたけど、何かあったの?{p}
+EN: Roy? He rushed off to school a minute ago. He was in a weird hurry. Did something happen?{p}
+
+## MGG04P g1 s0015
+JP: どうしてロイは逃げ回ってるのかしら?{n}ティファニーのことがイヤなのかな?{p}{end}
+EN: Why does Roy keep running away? Does he not like Tiffany?{p}{end}
+
+## MGG04P g1 s0017
+JP: ふ～ん、そういうもんかな……。{n}あ、そろそろ私達も急がないと、{n}遅れるわ。{p}
+EN: Hmm, is that how it works...? Oh, we'd better hurry too, or we'll be late.{p}
+
+## MGG04P g1 s0019
+JP: ……ふぅ。{n}長かった入学式典も終わったわ……。{n}あ、あんなトコロにロイがいる。{n}ちょっと声をかけてみよっと。{p}{end}
+EN: ...Phew. That long ceremony is finally over... Oh, there's Roy. I'll go say hi.{p}{end}
+
+## MGG04P g1 s0020
+JP: ねぇ、ロイ。{n}朝はどうしたの?{n}ティファニーが探してたわよ。{p}{end}
+EN: Hey, Roy. What happened this morning? Tiffany was looking for you.{p}{end}
+
+## MGG04P g1 s0022
+JP: なんだ、やっぱりティファニーのことが{n}キライなの?{n}そんなに逃げ回るなんて。{p}{end}
+EN: What, so you do hate Tiffany? Running away from her like that.{p}{end}
+
+## MGG04P g1 s0024
+JP: ふ～ん、なんだかよくわかんないけど……。{n}あ、あそこにティファニーが。{p}
+EN: Hmm, I don't really get it... Oh, there's Tiffany.{p}
+
+## MGG04P g1 s0036
+JP: ロイ!{sp}隠れて!{p}{end}
+EN: Roy! Hide!{p}{end}
+
+## MGG04P g1 s0039
+JP: ……行ったみたいだわ。{n}どうやら見つからなかったようね。{p}{end}
+EN: ...Looks like she's gone. I don't think she spotted us.{p}{end}
+
+## MGG04P g1 s0047
+JP: い、いや私は……。{n}（やれやれ、やっかいな話だわ……）{p}
+EN: N-no, I... (Good grief, what a mess...){p}
+
+## MGG04P g1 s0049
+JP: （あれ?{n}{sp}今何か光ったような気がしたけど……{n}{sp}気のせいかな……?）{p}
+EN: (Huh? I thought I saw something flash just now... Was it just my imagination...?){p}
+
+## MGG04P g1 s0050
+JP: やれやれ、ロイのせいで{n}ヒドイ目にあったわ……。{n}式典も終わったし、教室に帰ろう……。{p}
+EN: Good grief, Roy really put me through it... The ceremony's over, so I'll head back to class...{p}
+
+## MGG04P g1 s0058
+JP: へぇ……しかし三角関係って……{n}私はただ巻き込まれただけだよ?{p}
+EN: Huh... But a love triangle? I just got dragged into it!{p}
+
+## MGG04P g1 s0064
+JP: きゃ!{n}な、何!?{n}プールから人が!!{p}
+EN: Eek! Wh-what!? Someone came out of the pool!!{p}
+
+## MGG04P g1 s0355
+JP: え?{n}そういうロイは、調子でも悪いの?{n}今日はせっかくの遠足なのに。{p}{end}
+EN: Huh? What about you, Roy? Feeling under the weather? Today's the field trip!{p}{end}
+
+## MGG04P g1 s0357
+JP: なるほど、デートねぇ……{n}ロイってば、相変わらずモテモテなのね。{n}でも、ほどほどにした方がいいわよ。{p}{end}
+EN: A date, huh... You're as popular as ever, Roy. But don't overdo it.{p}{end}
+
+## MGG04P g1 s0362
+JP: ハイハイ。{n}貸しにしておいてあげるわ。{p}
+EN: Yeah, yeah. You owe me one.{p}
+
+## MGG04P g1 s0492
+JP: お化け屋敷の入り口には来たけど、{n}やっぱり一人じゃ入りづらいな。{n}どうしよう?{p}
+EN: I made it to the haunted house entrance, but going in alone feels kinda awkward. What should I do?{p}
+
+## MGG04P g1 s0558
+JP: 落ち着けるところに行かない?{n}もう少し歩いた所に池があるみたい{n}だから、そこはどうかな??{p}
+EN: Want to go somewhere calmer? Looks like there's a pond a little farther on. How about there?{p}
+

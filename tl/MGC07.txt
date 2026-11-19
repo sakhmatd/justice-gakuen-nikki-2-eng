@@ -1,0 +1,200 @@
+## MGC07 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}夏は野球の季節だ。{n}がんばっていこうぜ。{p}
+EN: Hey, {v1}{col:0}-kun{col:-}. Summer is baseball season. Let's give it our all.{p}
+
+## MGC07 g0 s0003
+JP: よし、それじゃ次は、{n}特別練習だな。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでくれ。{p}
+EN: All right, next up is special practice. Think about which stat you want to raise and pick a drill.{p}
+
+## MGC07 g0 s0004
+JP: よし、いいだろう。{n}なかなか慣れてきたみたいだな。{p}
+EN: Good, that'll do. Looks like you're getting the hang of it.{p}
+
+## MGC07 g0 s0005
+JP: もうすぐ夏休みだな。{n}今月は、期末試験がある。{n}実技試験は予習ができるから、{n}やっておいた方がいいぞ。{p}
+EN: Summer break's almost here. The final exam is this month. You can prep for the practical exam, so you'd better do it.{p}
+
+## MGC07 g0 s0006
+JP: それじゃ、次は夏休み中だな。{n}がんばれよ。{p}
+EN: Next time, it'll be summer break. Keep at it.{p}
+
+## MGC07 g0 s0008
+JP: 来たな、{v0}!{n}今月も特別練習の日が来たな。{n}夏が近いからな、気合を入れていこう!{p}{end}
+EN: There you are, {v0}! It's special practice day again. Summer's coming, so let's get fired up!{p}{end}
+
+## MGC07 g0 s0010
+JP: よし、ドンドン行くぞ。{n}次は今月の特別練習だ。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでくれ!{p}{end}
+EN: Okay, let's keep it rolling. Next is this month's special practice. Think about which stat you want to raise and pick a drill!{p}{end}
+
+## MGC07 g0 s0011
+JP: グーッだ!{n}お前は飲み込みが早いな!{n}{v0}。{p}
+EN: Great stuff! You catch on fast, {v0}.{p}
+
+## MGC07 g0 s0012
+JP: もうすぐ夏休みだな。{n}今月は期末試験がある。{n}しっかり予習をしておけよ。{p}{end}
+EN: Summer break's almost here. The final exam is this month. Make sure you prep for it.{p}{end}
+
+## MGC07 g0 s0013
+JP: 来月は夏休み中だな。{n}暑いからって気を抜くなよ!{p}{end}
+EN: Next month is summer break. Don't slack off just 'cause it's hot!{p}{end}
+
+## MGC07 g0 s0015
+JP: こんにちは、{v0}{col:0}君{col:-}。{n}暑くなってきましたね。{n}今日は、7月の特別練習の日です。{n}がんばっていきましょうね。{p}{end}
+EN: Hello, {v0}{col:0}-kun{col:-}. It's getting hot, isn't it? Today is July's special practice day. Let's do our best.{p}{end}
+
+## MGC07 g0 s0017
+JP: どうですか?{n}それでは、次は特別練習ですね。{n}好きな練習を選んでください。{p}
+EN: How was that? Next is special practice. Please pick whichever drill you like.{p}
+
+## MGC07 g0 s0018
+JP: はい、お疲れさまです。{n}はいコレ、タオルです。{n}暑いですけど、がんばってくださいね。{p}{end}
+EN: Okay, good work. Here, have a towel. It's hot, but please keep it up.{p}{end}
+
+## MGC07 g0 s0019
+JP: 今月の伝達事項は……、{n}ええと、1学期の期末試験が{n}あるみたいです。{n}予習をしておいた方がいいと思いますよ。{p}{end}
+EN: This month's announcements... Um, it seems there's the first-term final exam. I think you should prep for it.{p}{end}
+
+## MGC07 g0 s0020
+JP: もうすぐ、夏休みですね。{n}それでは、また来月に……。{p}{end}
+EN: Summer break is almost here. Well then, see you next month...{p}{end}
+
+## MGC07 g0 s0024
+JP: だいぶ筋肉がついてきたな。{n}それじゃ次は、今月の特別練習だ。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選ぶがいい。{p}
+EN: You're putting on some muscle. Now, this month's special practice. Think about which stat you want to raise and pick your drill.{p}
+
+## MGC07 g0 s0025
+JP: よしよし、いいだろう。{n}だいぶサマになってきたな。{p}
+EN: Good, good, that'll do. You're starting to look the part.{p}
+
+## MGC07 g0 s0026
+JP: さてと、おっそうそう、{n}今月は、期末試験があるらしいな。{n}やれやれ、学生ってのは大変だな。{p}
+EN: Now then... Oh, right. Seems there's a final exam this month. Good grief, students have it rough.{p}
+
+## MGC07 g0 s0027
+JP: もうすぐ夏休みだな。{n}練習は続くから、気を抜くなよ。{p}{end}
+EN: Summer break's almost here. Practice goes on, so don't slack off.{p}{end}
+
+## MGC07 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}はりきっていきましょう!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Special practice day is here again. Let's get into it!{p}{end}
+
+## MGC07 g0 s0031
+JP: ええと。それじゃ次は、{n}今月の特別練習ね。{n}好きな練習を選んでね。{p}
+EN: Um. Okay, next is this month's special practice. Pick whatever drill you like.{p}
+
+## MGC07 g0 s0032
+JP: はい、おつかれさま。{n}さすがに、上達してるみたいね。{n}いい感じよ。{p}
+EN: Okay, good work. You're really improving. Looking good.{p}
+
+## MGC07 g0 s0033
+JP: もうすぐ夏休みだネー、楽しみだなぁ。{n}……ええと、そうそう、{n}今月は1学期の期末試験があるらしいよ。{n}がんばってね。{p}{end}
+EN: Summer break's almost here, I can't wait. ...Um, oh right, I hear the first-term final exam is this month. Good luck.{p}{end}
+
+## MGC07 g0 s0034
+JP: 来月は、夏休み中ね。{n}ちゃんと出て来るんだよ。{n}それじゃ、また来月ね。{p}
+EN: Next month is summer break. Make sure you still show up. See you next month.{p}
+
+## MGC07 g0 s0037
+JP: とりあえず……{n}先月のクラブ活動の成果からね……。{p}
+EN: First... last month's club results...{p}
+
+## MGC07 g0 s0039
+JP: おつかれさま。{n}もう、だいぶ慣れてきたみたいね……。{p}{end}
+EN: Good work. You seem... quite used to it now...{p}{end}
+
+## MGC07 g0 s0040
+JP: あ、そうそう……{n}今月は、1学期の期末試験があるそうよ。{n}予習……しておいた方がいいわ。{p}{end}
+EN: Oh, right... I hear the first-term final exam is this month. You should... prep for it.{p}{end}
+
+## MGC07 g0 s0044
+JP: さてと、それじゃさっそく、{n}先月のクラブ活動の成果からですね。{p}
+EN: Now then, let's start with last month's club results.{p}
+
+## MGC07 g0 s0045
+JP: それじゃ次は特別練習ですね。{n}自分の伸ばしたいパラメータを考えて、{n}練習を選んでね。{p}{end}
+EN: Next is special practice. Think about which stat you want to raise and pick a drill.{p}{end}
+
+## MGC07 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}キミには演技の才能があると思うな、私。{p}
+EN: All right, let's stop here for today. You know, I think you have a talent for acting.{p}
+
+## MGC07 g0 s0047
+JP: もうすぐ夏休みね。{n}今月は、1学期の期末試験があるはずよ。{n}予習はしておいた方がいいわね。{p}
+EN: Summer break's almost here. The first-term final exam should be this month. You'd better prep for it.{p}
+
+## MGC07 g0 s0048
+JP: 来月は夏休みだけど、{n}ちゃんとでてくるのよ。{n}じゃ、また来月ね。{p}{end}
+EN: Next month is summer break, but make sure you show up. See you next month.{p}{end}
+
+## MGC07 g0 s0050
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}今月もぼちぼち{n}やっていこうじゃないか。{p}{end}
+EN: Ah, there you are, {v0}{col:0}-kun{col:-}. Let's take it nice and easy again this month, shall we?{p}{end}
+
+## MGC07 g0 s0052
+JP: ふむふむ。それじゃ次は、{n}今月の特別練習だな。{n}まぁ適当に選んでくれ、{n}説明はしてやる。{p}{end}
+EN: Mm-hm. Next is this month's special practice. Just pick something. I'll explain it.{p}{end}
+
+## MGC07 g0 s0053
+JP: お疲れさん。{n}まぁ化学の道は遠いからな。{p}{end}
+EN: Good work. Well, the road of chemistry is a long one.{p}{end}
+
+## MGC07 g0 s0054
+JP: 今月は、期末試験があるぞ。{n}まぁ僕の担当科目は関係ないけど。{n}予習はやっておくにこしたことはない。{p}
+EN: There's a final exam this month. Not that my subject is on it. Still, prepping never hurts.{p}
+
+## MGC07 g0 s0055
+JP: もうすぐ夏休みだな。{n}それじゃ、また来月な。{p}{end}
+EN: Summer break's almost here. See you next month.{p}{end}
+
+## MGC07 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}毎月恒例の特別練習の日よ。{n}さ、帰宅部の特別練習って{n}ヤツをやりましょうか。{p}{end}
+EN: Hi, {v0}{col:0}-kun{col:-}. It's the monthly special practice day. Come on, let's do this Go-Home Club special practice thing.{p}{end}
+
+## MGC07 g0 s0060
+JP: ま、こんなものね。{n}好きなことやって成長しようって{n}いうんだから、確実性は求めない方が{n}いいわよ。{p}
+EN: Well, that's about it. You grow by doing whatever you like, so don't expect anything reliable.{p}
+
+## MGC07 g0 s0061
+JP: 今月は、1学期の期末試験があるわ。{n}試験くらい、マジメにやりなさい。{n}少しはマシになるわよ。{p}{end}
+EN: The first-term final exam is this month. At least take your exams seriously. It'll make you a bit less hopeless.{p}{end}
+
+## MGC07 g0 s0062
+JP: もうすぐ夏休みね。{n}遊ぶことばっかり考えてちゃ{n}ダメよ。{n}それじゃ、また来月ね。{p}{end}
+EN: Summer break's almost here. Don't spend it thinking only about fun. See you next month.{p}{end}
+
+## MGC07 g1 s0001
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}夏は野球の季節だ。{n}がんばっていこうぜ。{p}{end}
+EN: Hey, {v1}{col:0}-san{col:-}. Summer is baseball season. Let's give it our all.{p}{end}
+
+## MGC07 g1 s0015
+JP: こんにちは、{v1}{col:0}ちゃん{col:-}。{n}暑くなってきたね。{n}今日は、7月の特別練習の日ね。{n}がんばっていきましょう。{p}{end}
+EN: Hi, {v1}{col:0}-chan{col:-}. It's getting hot, huh? Today is July's special practice day. Let's do our best.{p}{end}
+
+## MGC07 g1 s0017
+JP: どう?{n}それでは、次は特別練習ね。{n}好きな練習を選んでね。{p}
+EN: How was that? Next is special practice. Pick whichever drill you like.{p}
+
+## MGC07 g1 s0018
+JP: はい、お疲れさま。{n}はいコレ、タオルね。{n}暑いけど、がんばってね。{p}
+EN: Okay, good work. Here, have a towel. It's hot, but hang in there.{p}
+
+## MGC07 g1 s0019
+JP: 今月の伝達事項は……、{n}ええと、1学期の期末試験が{n}あるみたいですね。{n}予習をしておいた方がいいと思うよ。{p}
+EN: This month's announcements... Um, looks like there's the first-term final exam. I think you should prep for it.{p}
+
+## MGC07 g1 s0020
+JP: もうすぐ、夏休みね。{n}それでは、また来月に……。{p}{end}
+EN: Summer break's almost here. Well then, see you next month...{p}{end}
+
+## MGC07 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}今月も特別練習の日がやってきたわよ。{n}はりきっていきましょう!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Special practice day is here again. Let's get into it!{p}
+
+## MGC07 g1 s0056
+JP: さてと、今日は特別練習の日ね。{n}また委員長と何かするのかな。{p}{end}
+EN: Okay, today's special practice day. I wonder what the Chairperson has me doing this time.{p}{end}
+
+## MGC07 g1 s0057
+JP: はーい、{v0}{col:0}さん{col:-}。{n}毎月恒例の特別練習の日よ。{n}さ、帰宅部の特別練習って{n}ヤツをやりましょうか。{p}
+EN: Hi, {v0}{col:0}-san{col:-}. It's the monthly special practice day. Come on, let's do this Go-Home Club special practice thing.{p}
+

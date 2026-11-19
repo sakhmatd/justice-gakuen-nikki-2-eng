@@ -1,0 +1,38 @@
+# Fight HUD in DAT2/CEFT1.BIZ (tools/build_fight.py): diary sparring
+# fights and the arcade modes. The callouts, banners and labels are the
+# first game's USA art (ROUND, FIGHT, K.O., VICTORY, WIN, LOSE, ...), so
+# only the result grades and fighter names are read here. Format: key: EN.
+# Result grades, lists 14-17 (drawn vertically, one letter per row, at
+# the winner's side; keep them short). Chosen by code 0x80051170.
+# 圧勝: the human player won at full HP (2P versus: either winner).
+win_perfect: PERFECT!
+# 勝利: the human player won (always on a time over).
+win: VICTORY!
+# 辛勝: the human player won with HP under 40.
+win_close: CLOSE WIN!
+# 制圧: the CPU beat the human player (drawn at the CPU's side).
+win_other: DOMINATED!
+# Vertical fighter names (P1 at x 8, P2 at x 478, from y 48 down).
+name_kyosuke: KYOSUKE
+name_batsu: BATSU
+name_hinata: HINATA
+name_shoma: SHOMA
+name_natsu: NATSU
+name_roberto: ROBERTO
+name_roy: ROY
+name_tiffany: TIFFANY
+name_boman: BOMAN
+name_edge: EDGE
+name_akira: AKIRA
+name_gan: GAN
+name_hideo: HIDEO
+name_kyoko: KYOKO
+name_raizo: RAIZO
+name_hyo: HYO
+name_sakura: SAKURA
+name_daigo: DAIGO
+# N2 cell 熱血隼人 (Hayato Nekketsu); glossary and N1: Hayato.
+name_hayato: HAYATO
+# New in N2 (Project Justice names, tl/glossary.org).
+name_ran: RAN
+name_nagare: NAGARE

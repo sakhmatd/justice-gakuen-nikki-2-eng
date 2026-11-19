@@ -1,0 +1,372 @@
+## MGG04T g0 s0000
+JP: 今日は太陽学園の入学式。{n}ちょっと早いが、入学初日から{n}遅刻しちゃ、カッコわるいからな。{p}{end}
+EN: Today's the Taiyo High entrance ceremony. It's a bit early, but being late on the very first day would look lame.{p}{end}
+
+## MGG04T g0 s0001
+JP: やっぱり早起きは気持ちいいなぁ……。{n}お、あそこにいるのはバツだな。{n}やけにあわててるけど、{n}どうしたんだろう……。{p}{end}
+EN: Getting up early really does feel great... Oh, that's Batsu over there. He's in a real rush. What's up with him...?{p}{end}
+
+## MGG04T g0 s0002
+JP: よぉ、バツ!{n}どうしたんだ、そんなに急いで。{p}{end}
+EN: Hey, Batsu! What's the big hurry?{p}{end}
+
+## MGG04T g0 s0003
+JP: 何のん気なコトいってんだよ、{n}{v3:0}!{n}早くいかねぇと遅刻するぞ!!{p}
+EN: How can you be so laid-back, {v3:0}! We gotta move or we'll be late!!{p}
+
+## MGG04T g0 s0004
+JP: はぁ!?{n}バツ、何いってるんだ?{n}まだ1時間前だぞ?{p}{end}
+EN: Huh!? Batsu, what are you talking about? We've still got an hour.{p}{end}
+
+## MGG04T g0 s0005
+JP: お前こそ何いってるんだ!?{n}もう遅刻ギリギリだぞ!{n}ほら……あれ?{sp}しまった、{n}時計1時間読みまちがえちまった……。{p}{end}
+EN: What are YOU talking about!? We're about to be late! Look... Huh? Crap, I read my watch an hour off...{p}{end}
+
+## MGG04T g0 s0006
+JP: キミがこんなに早いなんて、{n}珍しいな、バツ。{p}{end}
+EN: You're here this early, Batsu? That's rare.{p}{end}
+
+## MGG04T g0 s0007
+JP: やぁ、おはよう、{n}恭介。{p}{end}
+EN: Hey, morning, Kyosuke.{p}{end}
+
+## MGG04T g0 s0008
+JP: げっ、一番イヤなヤツに{n}みつかっちまった……。{p}
+EN: Ugh, the last guy I wanted to run into...{p}
+
+## MGG04T g0 s0009
+JP: ん?{sp}なんか楽しそうな話だな。{n}何かあったのか?{p}{end}
+EN: Hm? Sounds like something fun. Did something happen?{p}{end}
+
+## MGG04T g0 s0010
+JP: 実はな、恭介。{n}バツのヤツ、時計をさ……。{p}
+EN: See, Kyosuke, Batsu misread his watch and...{p}
+
+## MGG04T g0 s0011
+JP: ふふっ、まったく入学式そうそう、{n}お前らしいな、バツ。{p}
+EN: Heh. Right on the day of the entrance ceremony, too. That's so you, Batsu.{p}
+
+## MGG04T g0 s0012
+JP: ははっ、まったくだ。{n}そんな間違いするヤツが、{n}今時いるか?{p}{end}
+EN: Ha ha, no kidding. Who even makes a mistake like that these days?{p}{end}
+
+## MGG04T g0 s0013
+JP: ……ちぇっ。{p}{end}
+EN: ...Tch.{p}{end}
+
+## MGG04T g0 s0014
+JP: 遅刻遅刻～っ!!{n}アレ、みんなそろってどうしたの?{n}遅刻しちゃうよ!{sp}急がなきゃ!{p}
+EN: I'm late, I'm late!! Huh, what are you all doing here? We're gonna be late! We gotta hurry!{p}
+
+## MGG04T g0 s0015
+JP: ……プッ。{p}
+EN: ...Pfft.{p}
+
+## MGG04T g0 s0016
+JP: はははははっ、{n}ひなた、お前もか?{p}
+EN: Hahahaha! Hinata, you too?{p}
+
+## MGG04T g0 s0017
+JP: ふふふっ、まったく{n}ひなたらしいなぁ……。{p}
+EN: Heh heh, that's Hinata for you...{p}
+
+## MGG04T g0 s0018
+JP: ナニナニ?{sp}何笑ってんの?{n}遅刻しちゃうよ!?{p}
+EN: What, what? What're you laughing at? We're gonna be late!{p}
+
+## MGG04T g0 s0019
+JP: ははははは……。{p}{end}
+EN: Hahahaha...{p}{end}
+
+## MGG04T g0 s0020
+JP: やれやれ、入学式前から{n}ひと騒動だったなぁ……。{p}{end}
+EN: Good grief, what a fuss before the ceremony even started...{p}{end}
+
+## MGG04T g0 s0021
+JP: ふふっ、まったくな。{n}二人そろってまちがえるなんて、{n}仲がいいな。{p}
+EN: Heh, no kidding. You both made the same mistake. You two sure get along.{p}
+
+## MGG04T g0 s0022
+JP: ま～だ、笑ってる。{n}ちょっとあわててただけなのに。{n}バツといっしょなんて心外だわ。{p}
+EN: Still laughing? I was just in a bit of a hurry. Being lumped in with Batsu is an insult.{p}
+
+## MGG04T g0 s0023
+JP: こっちこそ心外だよ……。{n}しかし、この入学式ってのは、{n}かったるいよなぁ……。{p}
+EN: Right back at ya... Man, though, this entrance ceremony stuff is such a drag...{p}
+
+## MGG04T g0 s0024
+JP: 話も長いし……、{n}逃げ出したいよな……。{p}{end}
+EN: The speeches go on forever... I just wanna bail...{p}{end}
+
+## MGG04T g0 s0025
+JP: バツ、そんなコトばっかり、{n}いってちゃあダメだぞ。{p}
+EN: Batsu, you can't keep saying stuff like that.{p}
+
+## MGG04T g0 s0026
+JP: そこっ!{sp}静かに!{n}今は入学式の最中よ!{p}{end}
+EN: You there! Quiet! We're in the middle of the ceremony!{p}{end}
+
+## MGG04T g0 s0027
+JP: （お、委員長だ。{n}{sp}さすがにマジメだな……）{p}{end}
+EN: (Oh, it's the Chairperson. She's serious, all right...){p}{end}
+
+## MGG04T g0 s0028
+JP: 謝る{n}からかう{p}
+EN: Apologize{n}Tease her{p}
+
+## MGG04T g0 s0029
+JP: ゴメン、委員長……。{n}静かにしていよう……。{p}{end}
+EN: Sorry, Chairperson... I'll keep quiet...{p}{end}
+
+## MGG04T g0 s0031
+JP: ……しかし入学そうそう、{n}委員長ってのも、おかしな話だよな。{p}{end}
+EN: ...Still, being "Chairperson" on day one is kinda weird, huh.{p}{end}
+
+## MGG04T g0 s0032
+JP: ……そうか?{n}僕はもう風紀委員だぞ?{p}{end}
+EN: ...Is it? I'm already on the disciplinary committee, you know.{p}{end}
+
+## MGG04T g0 s0033
+JP: ……???{n}何かヘンじゃないか?{p}{end}
+EN: ...??? Isn't something off here?{p}{end}
+
+## MGG04T g0 s0034
+JP: そこ!{sp}静かにしろ!!{n}いつまでくっちゃべってんだ!?{p}
+EN: You there! Quiet!! How long are you gonna keep yapping!?{p}
+
+## MGG04T g0 s0035
+JP: （うわぁ、本気で怒られちゃった……）{p}{end}
+EN: (Yikes, we really got chewed out...){p}{end}
+
+## MGG04T g0 s0038
+JP: （ちょっとからかってやるかな……）{n}委員長、入学そうそう{n}気合が入っているな。{n}なぁ、バツ?{p}{end}
+EN: (Guess I'll tease her a little...) Chairperson, you're all fired up on day one, huh. Right, Batsu?{p}{end}
+
+## MGG04T g0 s0039
+JP: まったくだ。{n}彼女は、怒らせると恐いぞ。{n}気をつけろよ。{p}{end}
+EN: You said it. She's scary when she's mad. Better watch out.{p}{end}
+
+## MGG04T g0 s0040
+JP: 何ですって!?{p}
+EN: Excuse me!?{p}
+
+## MGG04T g0 s0041
+JP: そこ!{sp}いつまでしゃべっている!{n}静かにしろ!!{p}{end}
+EN: You there! Enough chatter! Quiet!!{p}{end}
+
+## MGG04T g0 s0042
+JP: （うわぁ、怒られちゃった……。{n}{sp}委員長には悪いコトしたなぁ……）{p}
+EN: (Yikes, we got scolded... I feel bad for the Chairperson...){p}
+
+## MGG04T g0 s0045
+JP: やれやれ、入学式から{n}しかられちゃったなぁ。{p}{end}
+EN: Good grief, I got scolded at the entrance ceremony.{p}{end}
+
+## MGG04T g0 s0049
+JP: あ、あなた、さっきの!{n}『入学式中に、新入生初怒られ!』ね!?{n}ばっちり撮らせてもらったわよ。{p}
+EN: Oh, you're the one from before! "Freshman Scolded Mid-Ceremony, a First!", right!? I got a perfect shot of it.{p}
+
+## MGG04T g0 s0051
+JP: そ、ワタシ。{n}ワタシね、新聞部に入部する{n}つもりなんだけど、{n}ここの新聞部って入部に試験があるの。{p}
+EN: Yep, me. See, I'm planning to join the newspaper club, but here you have to pass a test to get in.{p}
+
+## MGG04T g0 s0053
+JP: へぇ……君も1年生なんだ?{n}ん?{sp}じゃ君は式には出てなかったの?{p}{end}
+EN: Huh... So you're a first-year too? Hm? Then you weren't at the ceremony?{p}{end}
+
+## MGG04T g0 s0349
+JP: よぉっ、{v3:0}!{n}いい天気になって良かったな。{p}{end}
+EN: Yo, {v3:0}! Glad the weather turned out nice.{p}{end}
+
+## MGG04T g0 s0350
+JP: おう、おはようバツ。{n}みんなは?{p}{end}
+EN: Yeah, morning, Batsu. Where's everyone?{p}{end}
+
+## MGG04T g0 s0351
+JP: ん?{n}ああ、多分そのへんにいると思うぜ。{p}{end}
+EN: Hm? Ah, probably around here somewhere.{p}{end}
+
+## MGG04T g0 s0352
+JP: おはよっ、{v6:1}。{n}今日の遠足、楽しみだよね!{p}{end}
+EN: Morning, {v6:1}! I can't wait for today's field trip!{p}{end}
+
+## MGG04T g0 s0353
+JP: おはよう、ひなた。{n}今日はまたいちだんと元気だね。{p}
+EN: Morning, Hinata. You're even more pumped than usual today.{p}
+
+## MGG04T g0 s0354
+JP: あったりまえじゃない。{n}だって、遊園地だよ、遊園地!{n}私、ぜーんぶまわっちゃうんだから!{p}{end}
+EN: Well, duh! It's an amusement park, an amusement park! I'm gonna hit every single ride!{p}{end}
+
+## MGG04T g0 s0355
+JP: ひなた。{n}うれしいのはわかるが、はしゃぎすぎて{n}事件を起こさないでくれよ。{p}
+EN: Hinata. I know you're excited, but try not to get so carried away that you cause an incident.{p}
+
+## MGG04T g0 s0356
+JP: ははは。{n}色々大変そうだね、恭介。{p}
+EN: Ha ha. Sounds like you've got your hands full, Kyosuke.{p}
+
+## MGG04T g0 s0357
+JP: まあ、こういう事は{n}風紀委員の宿命のようなものさ。{p}
+EN: Well, that sort of thing comes with being on the disciplinary committee.{p}
+
+## MGG04T g0 s0358
+JP: もう、私が事件を起こすって{n}決め付けないでよね!{p}{end}
+EN: Hey, don't just assume I'm gonna cause an incident!{p}{end}
+
+## MGG04T g0 s0359
+JP: さあ、ひなたの出番だぞ。{n}まずはどのアトラクションに行くんだ?{p}
+EN: Okay, Hinata, you're up. Which ride are we hitting first?{p}
+
+## MGG04T g0 s0360
+JP: えーとね。{n}私、「日本最大の観覧車」っていうのを{n}見に行きたいな。{p}
+EN: Let's see. I wanna go see the "biggest Ferris wheel in Japan"!{p}
+
+## MGG04T g0 s0361
+JP: 観覧車か。{n}ま、いいんじゃねぇか。{n}{v3:0}、お前はどうすんだ?{p}{end}
+EN: The Ferris wheel, huh. Sure, why not. {v3:0}, what about you?{p}{end}
+
+## MGG04T g0 s0363
+JP: どうするか、まだ決めてないの?{n}じゃあ、私たちは観覧車に行ってるから、{n}良かったら後からおいでよ。{p}
+EN: You still haven't decided? Then we'll head to the Ferris wheel. Come find us later if you want!{p}
+
+## MGG04T g0 s0365
+JP: {v3:0}、じゃあまた後でな!{p}{end}
+EN: {v3:0}, catch ya later!{p}{end}
+
+## MGG04T g0 s0387
+JP: そうだな……{p}{end}
+EN: Let's see...{p}{end}
+
+## MGG04T g0 s0418
+JP: ここはひとつ、予想外のスポットに{n}行ってみるのも手かと思うんだが……{p}{end}
+EN: I'm thinking an unexpected spot might be worth a shot...{p}{end}
+
+## MGG04T g0 s0471
+JP: ……ひどいわ、{v5:10}。{n}私、ジェットコースター苦手だから{n}メットかぶって乗ろうと思ってたのに……{p}
+EN: ...That's mean, {v5:10}. I'm bad with roller coasters, so I was going to ride with my helmet on...{p}
+
+## MGG04T g0 s0478
+JP: やっぱり駄目か……{n}ちぇっ、ゆうずうのきかない{n}係員だよな。{p}{end}
+EN: No luck, huh... Tch, that attendant won't bend one bit.{p}{end}
+
+## MGG04T g0 s0482
+JP: うーん。{n}それが一番難しい注文だな……{p}
+EN: Hmm. That's the toughest request of all...{p}
+
+## MGG04T g0 s0533
+JP: （みんなの行きたい所がバラバラだ……）{p}
+EN: (Everyone wants to go somewhere different...){p}
+
+## MGG04T g1 s0000
+JP: 今日は太陽学園の入学式。{n}ちょっと早いけど、入学初日から{n}遅刻しちゃ、カッコわるいもんネ。{p}
+EN: Today's the Taiyo High entrance ceremony. It's a bit early, but being late on the very first day would be so lame.{p}
+
+## MGG04T g1 s0001
+JP: やっぱり早起きは気持ちいいわぁ……。{n}あれ、あそこにいるのはバツじゃない。{n}やけにあわててるけど、{n}どうしたのかな……。{p}{end}
+EN: Getting up early really does feel great... Oh, isn't that Batsu? He's in a real rush. What's up with him...?{p}{end}
+
+## MGG04T g1 s0002
+JP: ねえ、バツ!{n}どうしたの、そんなに急いで。{p}
+EN: Hey, Batsu! What's the big hurry?{p}
+
+## MGG04T g1 s0004
+JP: はぁ!?{n}バツ、何いってるの?{n}まだ1時間前だよ?{p}
+EN: Huh!? Batsu, what are you talking about? We've still got an hour!{p}
+
+## MGG04T g1 s0007
+JP: おはよう、恭介。{p}{end}
+EN: Morning, Kyosuke.{p}{end}
+
+## MGG04T g1 s0010
+JP: 実はネ、恭介。{n}バツったら、時計をさ……。{p}
+EN: See, Kyosuke, Batsu misread his watch and...{p}
+
+## MGG04T g1 s0012
+JP: まったくよね。{n}そんな間違いする人が、{n}今時いるのかしら?{p}
+EN: Seriously. Who even makes a mistake like that these days?{p}
+
+## MGG04T g1 s0019
+JP: あははははは……。{p}
+EN: Ahahahaha...{p}
+
+## MGG04T g1 s0020
+JP: やれやれ、入学式前から{n}ひと騒動だったわ……。{p}
+EN: Good grief, what a fuss before the ceremony even started...{p}
+
+## MGG04T g1 s0027
+JP: （委員長よ。{n}{sp}さすがにマジメね……）{p}
+EN: (It's the Chairperson. She's serious, all right...){p}
+
+## MGG04T g1 s0029
+JP: ごめんなさい、委員長……。{n}静かにしとこ……。{p}
+EN: Sorry, Chairperson... I'll keep quiet...{p}
+
+## MGG04T g1 s0033
+JP: ……???{n}何かヘンじゃない?{p}
+EN: ...??? Isn't something off here?{p}
+
+## MGG04T g1 s0035
+JP: （うわぁ、本気で怒られちゃったよ……）{p}
+EN: (Yikes, we really got chewed out...){p}
+
+## MGG04T g1 s0038
+JP: （ちょっとからかっちゃえ……）{n}委員長、入学そうそう{n}気合が入っているわね。{n}ねぇ、バツ?{p}
+EN: (I'll tease her a little...) Chairperson, you're all fired up on day one, huh. Right, Batsu?{p}
+
+## MGG04T g1 s0039
+JP: まったくだ。{n}でも、彼女は怒らせると恐いぞ。{n}気をつけようぜ。{p}
+EN: You said it. But she's scary when she's mad. Let's be careful.{p}
+
+## MGG04T g1 s0045
+JP: やれやれ、入学式から{n}しかられるなんて、{n}ツイてないなァ。{p}
+EN: Good grief, getting scolded at the entrance ceremony. Just my luck.{p}
+
+## MGG04T g1 s0046
+JP: （あれ?{sp}あそこで、{n}{sp}カメラを構えているのは……誰?{n}{sp}しきりに写真を撮ってるみたいだけど。）{p}{end}
+EN: (Huh? Who's that over there with the camera? Looks like they're snapping photos nonstop.){p}{end}
+
+## MGG04T g1 s0053
+JP: へぇ……アナタも1年生なんだ。{n}……あれ?{n}それじゃ、アナタは式には出てなかったの?{p}{end}
+EN: Huh... So you're a first-year too. ...Wait, then you weren't at the ceremony?{p}{end}
+
+## MGG04T g1 s0063
+JP: え、ええ、いやその、{n}部室棟を探してて……。{p}{end}
+EN: Y-yes, um, well, I'm looking for the clubhouse...{p}{end}
+
+## MGG04T g1 s0108
+JP: 沖田先生と、佐渡先生には会ったわ。{n}あと、野球部の沢村{sp}修一先輩にも。{p}
+EN: I've already met Okita-sensei and Sado-sensei. And Shuichi Sawamura-senpai from the baseball club too.{p}
+
+## MGG04T g1 s0350
+JP: うん、おはようバツ。{n}みんなは?{p}{end}
+EN: Yeah, morning, Batsu. Where's everyone?{p}{end}
+
+## MGG04T g1 s0352
+JP: おはよっ、{v8:1}。{n}今日の遠足、楽しみだよね!{p}{end}
+EN: Morning, {v8:1}! I can't wait for today's field trip!{p}{end}
+
+## MGG04T g1 s0353
+JP: おはよう、ひなた。{n}今日はまたいちだんと元気ね。{p}{end}
+EN: Morning, Hinata. You're even more pumped than usual today.{p}{end}
+
+## MGG04T g1 s0356
+JP: うふふっ。{n}色々大変そうね、恭介。{p}
+EN: Hee hee. Sounds like you've got your hands full, Kyosuke.{p}
+
+## MGG04T g1 s0362
+JP: えーと、どうしようかな……{p}
+EN: Um, what should I do...{p}
+
+## MGG04T g1 s0364
+JP: そうね、そうするわ。{p}{end}
+EN: Yeah, I'll do that.{p}{end}
+
+## MGG04T g1 s0387
+JP: そうねぇ……。{p}
+EN: Hmm, let's see...{p}
+
+## MGG04T g1 s0409
+JP: ……だって。{n}なんかすごそうね。{p}{end}
+EN: ...That's what it says. Sounds pretty wild.{p}{end}
+

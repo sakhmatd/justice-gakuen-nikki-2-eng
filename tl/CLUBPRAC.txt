@@ -1,0 +1,182 @@
+# Club special practice menus (C family, May-March; MGBGC00.BZZ entries
+# 0-8, one per club in hub order: Baseball, Volleyball, Soccer, Sumo, Art,
+# Brass Band, Drama, Chemistry, Go-Home). Built by tools/mgbg_club.py.
+# Menu labels: the same EN as the yellow {col:3} practice names in the
+# MGC help text, so menu and help match. Each label is a 160x24 sprite
+# (the cursor bar is the same 160 px); about 150 px of text fits.
+# Repeated labels (Running, Dash) are listed once.
+# Last six entries: the stat radar axes (one kanji each on the JP chart,
+# clockwise from the top), named as the hub stats in tl/COCK.txt.
+# RE: private/re/clubprac/findings.org.
+
+JP: 打撃練習
+EN: Batting Practice
+
+JP: 投球練習
+EN: Pitching Practice
+
+JP: 守備練習
+EN: Fielding Practice
+
+JP: フォーメーション練習
+EN: Formation Practice
+
+JP: ダッシュ
+EN: Dash
+
+JP: ランニング
+EN: Running
+
+JP: スパイク練習
+EN: Spike Practice
+
+JP: レシーブ練習
+EN: Receive Practice
+
+JP: サーブ練習
+EN: Serve Practice
+
+JP: トス練習
+EN: Toss Practice
+
+JP: ブロック練習
+EN: Block Practice
+
+JP: シュート練習
+EN: Shooting Practice
+
+JP: ドリブル練習
+EN: Dribbling Practice
+
+JP: パス練習
+EN: Passing Practice
+
+JP: セービング練習
+EN: Saving Practice
+
+JP: 股割り
+EN: Matawari Splits
+
+JP: すり足
+EN: Suriashi Steps
+
+JP: 四股踏み
+EN: Shiko Stomps
+
+JP: 鉄砲
+EN: Teppo Slaps
+
+JP: ぶつかり稽古
+EN: Butsukari Drills
+
+JP: チャンコ
+EN: Chanko Stew
+
+JP: 水彩画
+EN: Watercolor
+
+JP: 油彩画
+EN: Oil Painting
+
+JP: 彫刻
+EN: Sculpture
+
+JP: デッサン
+EN: Drawing
+
+JP: 写生
+EN: Outdoor Sketching
+
+JP: 美術鑑賞
+EN: Art Appreciation
+
+JP: 腹筋
+EN: Sit-ups
+
+JP: 管楽器
+EN: Wind Instruments
+
+JP: 打楽器
+EN: Percussion
+
+JP: マーチング
+EN: Marching
+
+JP: リズムトレーニング
+EN: Rhythm Training
+
+JP: 音楽鑑賞
+EN: Music Appreciation
+
+JP: 発声練習
+EN: Voice Training
+
+JP: ダンス練習
+EN: Dance Practice
+
+JP: 演技練習
+EN: Acting Practice
+
+JP: 衣装づくり
+EN: Costume Making
+
+JP: ストレッチ
+EN: Stretching
+
+JP: 脚本読み
+EN: Script Reading
+
+JP: 薬品調合
+EN: Mixing Chemicals
+
+JP: 合成実験
+EN: Synthesis
+
+JP: 観察・分析
+EN: Observation & Analysis
+
+JP: 人体実験
+EN: Human Experiments
+
+JP: 動物実験
+EN: Animal Experiments
+
+JP: レポート
+EN: Lab Report
+
+JP: カラオケ
+EN: Karaoke
+
+JP: アルバイト
+EN: Part-Time Job
+
+JP: ウィンドウショッピング
+EN: Window Shopping
+
+JP: 買い食い
+EN: Snacking
+
+JP: ゲームセンター
+EN: Arcade
+
+JP: 昼寝
+EN: Nap
+
+JP: レーダー:攻撃力
+EN: Attack
+
+JP: レーダー:防御力
+EN: Defense
+
+JP: レーダー:体力
+EN: Stamina
+
+JP: レーダー:根性
+EN: Guts
+
+JP: レーダー:潜在能力
+EN: Potential
+
+JP: レーダー:知力
+EN: Smarts
+

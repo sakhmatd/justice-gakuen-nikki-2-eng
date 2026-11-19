@@ -1,0 +1,51 @@
+# Extras collection graphics (KOUBAI1.TIZ TIM 0 pieces) and the Extras
+# viewer help panel (MOJI2.TIZ, copy in MENU.BIZ), built by
+# tools/build_extras.py and tools/extras_help.py. Facts:
+# private/re/extras/findings.org. ID: EN text. JP in the comments.
+# Help line and card grid pieces keep their arrow and button icons; the EN
+# is drawn after the icon. In grid_view the O stands for the circle icon,
+# in grid_exit the X for the cross icon.
+
+# おまけを見る (title)
+title: View Extras
+
+# category labels (small dim and large selected versions)
+# カード
+cat_card: Cards
+# ポスター
+cat_poster: Posters
+# CD
+cat_cd: CD
+# ビデオ
+cat_video: Videos
+# イラスト集
+cat_illust: Artwork
+# ポケステ
+cat_pocket: PocketStation
+# 戻る
+back: Back
+
+# help line (list screen)
+# 方向キー：選択
+line_select: Select
+# ○ボタン：決定
+line_ok: OK
+# ×ボタン：戻る
+line_back: Back
+# ×ボタン：ストップ・戻る
+line_stop: Stop/Back
+
+# card grid footer (BACK L1 / R1 NEXT stay as drawn)
+# カードを見る：○
+grid_view: View Card: O
+# EXIT：×・START (EXIT, the X icon and START are kept; only the
+# punctuation is redrawn)
+grid_exit: EXIT: X/START
+
+# MOJI2 help panel (illustration and memories viewers)
+# 次ページへ ○
+help_next: Next Page
+# 前ページへ ×
+help_prev: Prev. Page
+# おまけ画面に戻る START
+help_back: Back to Extras

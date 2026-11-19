@@ -1,0 +1,96 @@
+## MGG08O g0 s0001
+JP: みんな早いな、{n}もう集合してたのか。{p}{end}
+EN: Everyone's early. You're all here already?{p}{end}
+
+## MGG08O g0 s0002
+JP: おせぇぞ、{v3:3}。{n}早くバスに乗りこもうぜ。{p}
+EN: You're late, {v3:3}. Let's hurry up and get on the bus.{p}
+
+## MGG08O g0 s0003
+JP: ……じゃあ、流に夏、{n}それと{v1}{col:0}君{col:-}。{n}将馬が何かとメイワクかけると{n}思うが、よろしく頼む。{p}{end}
+EN: ...Well then, Nagare, Natsu, and {v1}{col:0}-kun{col:-}. I'm sure Shoma will cause you all kinds of trouble, but please look after him.{p}{end}
+
+## MGG08O g0 s0004
+JP: はい。{n}まかせて、修一さん。{p}{end}
+EN: Sure. Leave it to us, Shuichi-san.{p}{end}
+
+## MGG08O g0 s0005
+JP: …………わかった。{p}
+EN: ......Got it.{p}
+
+## MGG08O g0 s0006
+JP: アニキ、何言ってんだよ。{n}子供じゃねぇんだから、{n}平気だって。{p}
+EN: Bro, what're you talkin' about? I'm not a kid. I'll be fine.{p}
+
+## MGG08O g0 s0007
+JP: 本人に自覚がないってのが{n}一番アブナイんだよな。{n}こういう場合。{p}{end}
+EN: The ones who don't see it themselves are the most dangerous. In cases like this, anyway.{p}{end}
+
+## MGG08O g0 s0008
+JP: ぬあんだとぉ?{p}
+EN: Whaddya say?{p}
+
+## MGG08O g0 s0009
+JP: おおっと!{n}じゃあ、俺は先にバスに乗ってるぜ。{p}
+EN: Whoops! Well, I'll go wait on the bus.{p}
+
+## MGG08O g0 s0010
+JP: {v3:3}、待ちやがれ!{p}
+EN: {v3:3}, get back here!{p}
+
+## MGG08O g0 s0011
+JP: やれやれ、しょっぱなからこれじゃ{n}先が思いやられるな……{p}{end}
+EN: Good grief. If it's like this from the start, I hate to think how the rest will go...{p}{end}
+
+## MGG08O g1 s0000
+JP: そろそろ集合時間だけど、{n}もうみんないるのかなぁ?{p}
+EN: It's almost time to meet up. I wonder if everyone's here yet?{p}
+
+## MGG08O g1 s0001
+JP: もう集合してる。{n}みんなさすがに早いわね。{p}
+EN: They're all here already. Everyone's early, as expected.{p}
+
+## MGG08O g1 s0003
+JP: ……じゃあ、流に夏、{n}それと{v1}{col:0}さん{col:-}。{n}将馬が何かとメイワクかけると{n}思うが、よろしく頼む。{p}
+EN: ...Well then, Nagare, Natsu, and {v1}{col:0}-san{col:-}. I'm sure Shoma will cause you all kinds of trouble, but please look after him.{p}
+
+## MGG08O g1 s0007
+JP: 本人に自覚がないのが{n}一番アブナイのよね。{n}特に、こういう場合……{p}
+EN: The ones who don't see it themselves are the most dangerous. Especially in cases like this...{p}
+
+## MGG08O g1 s0009
+JP: うふふふふ。{n}じゃあ、私は先にバスに乗ってるわよ!{p}
+EN: Hee hee hee. Well, I'll go wait on the bus!{p}
+
+## MGG08O g1 s0015
+JP: キャッ、びっくりした!{n}隼人先生、一体どうしたんですか?{p}{end}
+EN: Eek, you scared me! Hayato-sensei, what's going on?{p}{end}
+
+## MGG08O g1 s0017
+JP: （そっ、そうなのっ!?{n}{sp}でも隼人先生はすでに水着っ!{n}{sp}あまりにも早い、早すぎるわッッ!!）{p}
+EN: (R-really!? But Hayato-sensei is already in his swimsuit! That's fast, way too fast!!){p}
+
+## MGG08O g1 s0020
+JP: う～ん……{n}あんなに沖にある島まで泳ぐの～?{p}{end}
+EN: Hmm... We have to swim all the way to that island waaay out there?{p}{end}
+
+## MGG08O g1 s0042
+JP: えっ、そうなの?{n}…でも、順位なんてどうでも{n}良くなっちゃった。{p}{end}
+EN: Huh, really? ...But I don't really care about the ranking anymore.{p}{end}
+
+## MGG08O g1 s0060
+JP: まっったく、かわいくないわね!{n}たまにほめれば、これだもの。{p}{end}
+EN: Ugh, you're impossible! I compliment you for once, and this is what I get.{p}{end}
+
+## MGG08O g1 s0067
+JP: きゃあ!?{p}
+EN: Eeek!?{p}
+
+## MGG08O g1 s0068
+JP: {v8:19}、{n}な～にチンタラ泳いでたのよ。{n}アンタ、もっと早く泳げるはずでしょ?{p}
+EN: {v8:19}, why were you dawdling like that? I know you can swim faster than that.{p}
+
+## MGG08O g1 s0406
+JP: ひなたはこういう花火が好きなの?{n}てっきりハデな花火の方が{n}好きなのかと思ってたわ。{p}{end}
+EN: Hinata, you like this kind? I figured you'd be into the flashy ones.{p}{end}
+

@@ -1,0 +1,334 @@
+#+TITLE: Nekketsu Seishun Nikki 2 MTL voice sheet
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+How each recurring character talks in English. The examples come from
+finished translations. Names are in [[file:glossary.org][glossary.org]].
+Taken over from the first game on 2026-11-17; its examples come from that
+game's text. Add characters new in this game as they are settled.
+
+* General
+- Write like a native English game localizer. Keep the meaning, then
+  choose what this speaker would say in English. Do not keep Japanese
+  sentence order or set phrases word for word.
+- Students talk casually: contractions, "gonna", "ya", "huh". Teachers and
+  Hyo talk like adults.
+- Sound effects and shouts stay short, in English onomatopoeia.
+- Literal vs natural:
+  | JP                   | literal                     | natural                   |
+  |----------------------+-----------------------------+---------------------------|
+  | 今年もよろしくな     | Please treat me well again  | Here's to another year!   |
+  | 気がすまない         | It doesn't settle my mind   | I can't let it go         |
+  | 頑張ります!          | I will persevere!           | I'll give it my all!      |
+  | どうしたの?          | What happened?              | What's up?                |
+- Item messages (を手に入れた) start with "Got", not "You got".
+
+* Speech markers
+| JP marker               | speaker, usually      | EN voice                        |
+|-------------------------+-----------------------+---------------------------------|
+| ワシ, じゃ, のう, おぬし | Gan                   | folksy: "ain't", "y'see", "oughta" |
+| オイラ                  | Shoma                 | boyish, cocky, "ya"             |
+| だぜ, ちまう, 根性       | Batsu, Hayato         | brash, loud                     |
+| ネ, ヨ, ユー (katakana) | Roy, Tiffany, Boman   | simple, plain English, no accent spelling |
+| わよ, かしら, のよ       | girls, Kyoko          | natural, not prissy             |
+| 私 + だ (male, formal)  | Hyo                   | cold, clipped, formal           |
+
+* Characters
+Insert ids: each speaker has a fixed id in the name inserts ({v3:0} is
+Batsu's form of the protagonist's name, {v6:1} Hinata's). {v3} is the
+bare name, {v4}/{v5} add -kun, {v7} -san. {v6} adds -kun to a surname
+only, {v8} adds -san to a surname and -chan to a given name. Keep the tag
+the JP uses. A character's own lines are nearly always the same JP in the
+male (g0) and female (g1) events, and one EN serves both (see
+Protagonist).
+- Batsu: hot-blooded, impulsive, big-hearted. Short shouted lines.
+  His mother is Shizuku; Principal Raizo is his father. Hates dogs and
+  is always hungry.
+  俺/オレ, お前, だぜ, ねぇ, やがって, くそぅ, よぉし. Says {v3:0} and お前
+  to both protagonists; his lines do not change by route. Treats the
+  protagonist as his best buddy (いいコンビ, "a great team"). Delivers
+  evening papers part-time and wants to do right by his mother. Clueless
+  in a sincere way (takes a pinwheel for a ninja tool). EN: "Yo",
+  "gonna", "Man", "!!". 根性 is "guts", 母さん "Mom", 親父 "old man".
+  First game: "Full poooower......!!" (全か～～い).
+  - "My bike chain snapped on me! Man, what luck..."
+  - "So we're even! That's us, a great team!!"
+- Hinata: cheerful, tomboyish, teases Batsu.
+  Learned martial arts from a correspondence course and spars with
+  Sakura. Loves cakes.
+  私. Male route {v6:1}, female {v8:1}. Calls Natsu 夏っちゃん
+  ("Natsu-chan"), Batsu, Kyosuke and the Chairperson by name. Bubbly and
+  quick to pout: もう!/んもう = "Geez!", えへへ "Hehe", ふっふっふ, stretched
+  words (だ～い好き, "lo~ve"). Her katakana tails (アリガト, ネ, ナ) only
+  add cuteness; write plain "Thanks". Her style is the Ken Masters
+  correspondence course. A sweet tooth (oversweet honey lemons). On the
+  male route she has a crush and hides it with excuses; the same lines
+  read as close friendship on the female route.
+  - "Geez, {v6:1}! You think it's a joke 'cause it's by mail, huh? Mine
+    is the time-honored Ken Masters fighting style!"
+  - "Heh heh heh, beat me with a wish like that? A hundred years too
+    early!"
+- Kyosuke: calm, polite, dry. Discipline committee.
+  Hyo's twin brother. Wears glasses; likes chess and shogi.
+  僕, 君/キミ, plain だ/な/さ/ね. Male route {v4:2} (-kun), female {v7:2}
+  (-san). Lives alone, cooks when he has time and takes vitamin pills
+  when he does not. Proud and private: he rejects pity, and thanks
+  people quietly with a pause ("...Thank you"). Fond of the protagonist
+  but never effusive. EN: complete, measured sentences, light
+  contractions, no slang.
+  - "{v4:2}. I don't regret the way I live one bit. Spare me the pity,
+    would you?"
+  - "...Not bad, {v4:2}. This turned out pretty well."
+- Shoma: Gorin baseball ace. Cocky, competitive, friendly.
+  オイラ, じゃん, ぜ, だろ, へへ～ん. Says {v3:3} on both routes and once
+  mocks the girl with {v3:3}{col:0}さん{col:-}. アニキ/兄貴 (Shuichi) is
+  "Bro", 修兄ちゃん "my bro Shuichi", 流兄ちゃん "big bro Nagare"; calls
+  Natsu 夏. Rival-buddy who turns everything into a bet. A benchwarmer
+  this summer who dreams of Koshien. Female-route lines add "girl or
+  not, no holding back" (女だからって手加減しねぇぞ). EN drops g's
+  ("hittin'", "headin'"), "ya", "y'know".
+  - "I'm Shoma Sawamura. Nice to meet ya!"
+  - "Heh heh, I win!! And it was a homer, so two juices!! Sorry, but a
+    bet's a bet!"
+  - "Next year I'm hittin' a homer and takin' us to Koshien!"
+- Natsu: Gorin volleyball. Brisk and sporty.
+  アタシ, アンタ, わ/わね/かしら, ふ～ん, ふふっ. Male route {v6:4}, female
+  {v7:4} (-san). Calls Hinata ひな ("Hina") and Shoma 将馬. Big-sisterly
+  and teasing, sure of herself, a good cook. On the male route she makes
+  him a bento and flirts (hearts, 女のカン "woman's intuition"); the female
+  route keeps the same lines as friendship. EN: casual and dry, never
+  prissy.
+  - "Hmm... Your taste buds are kind of a kid's, huh..."
+  - "Hehe, woman's intuition. ...Actually, I watched what you ate in the
+    cafeteria afterwards."
+- Roberto: Gorin soccer. Friendly and earnest.
+  俺, お前, だぜ, な, さ, スマン ("Sorry"), サンキュー. Male route {v3:5},
+  female {v7:5} (-san). Aims for the world stage and trains alone after
+  club. Shouts 爆裂! ("Explosive!") with his moves; 爆裂Vゴール is Victory
+  Goal. Well-meaning but tactless ("you can take a hit"). Treats the
+  protagonist as a training partner. EN: straightforward, sporty.
+  - "Sorry, {v3:5}. Good thing it was you, though. You're built tougher
+    than the rest."
+  - "You practice when nobody else does, and you practice when they do.
+    That's what hard work is."
+- Gan: Gedo. Huge, slow, folksy old-man speech.
+  ワシ, おぬし, じゃ, のう, ぞい, わい, じゃい, ガッハッハ ("Gahaha!"). Male
+  route {v3:11}; the female route adds {col:0}さん{col:-}, which stays
+  "-san" in colour. With the girl he is shy and gallant
+  (おぬしほどの女はそうはおらん). Always hungry: rice balls, whole
+  watermelon. EN: "ain't", "ya", "reckon", "a mite", g-dropping.
+  - "Gan Isurugi. Edge, ain't you gonna give your real name?"
+  - "This oughta be good. Let's see how far the new guy can go."
+  - "Well, y'see, I couldn't accept the answer to a science problem, so I
+    was gonna try an experiment."
+  - "Gahaha, look who it is, {v3:11}! This'll be a cinch!"
+- Edge: Gedo delinquent. Sneering, mocking.
+  オレ/俺, オマエ/おめえ/てめえ, ぜ, ねえ, でやんの, ダチ ("pal"). Says
+  {v3:9} on both routes. エッジ様 is "the great Edge", ヒャハハハ "Hyah hyah
+  hyah!". Vain about his hair and sends people on errands, but wants
+  honesty from friends and gets angry at flattery. On the male route an
+  answer of 好き makes him back off in a panic (MGT09); keep it a light
+  gag. EN: "ain't", "ya", "Tch", g-dropping.
+  - "Hyah hyah! Akira's chewing you out again."
+  - "Don't just nod along to butter me up! We're pals, I wanted the
+    truth!"
+- Akira: Gedo. Terse. Rides a motorbike.
+  Daigo's younger sister. In the helmet (アキラ) she passes as a boy: 俺,
+  clipped and commanding. Bare-faced (あきら) she is gentle and timid: 私,
+  わ. Works as a bike mechanic.
+  Helmeted she says {v3:10} and お前, だな/だろう, スマン, and calls Daigo
+  兄貴 ("Bro"). Bare-faced she says {v5:10} (male route, -kun) or
+  {v8:10} (female), ね/よ, and 兄さん ("Big brother"). Under stress the
+  helmet voice slips into 私 (MGT0A); keep the slip in EN ("I... I'd
+  never..."). Strict about rules out of care for others.
+  - "Of course. Why would I take it off?" (helmet)
+  - "Sorry, everyone. Roller coasters scare me, so I couldn't ride
+    without my helmet." (bare-faced)
+  - "No. Better to run. You can still make it." (helmet)
+- Hyo: student council president. Cold and formal.
+  Heads the Justice High council. Kyosuke's twin brother. Uses 私.
+  Also お前, 我々, stern old-fashioned forms (ねばならん, 見事...みよ, 笑止!,
+  輩, 立ち去れ), フ.../フン. Says bare {v0} on both routes ({v0}よ is a
+  formal call). Carries a sword and talks about a "super elite" for
+  Japan. The male protagonist says 雹さん with です/ます; the female says
+  雹クン and talks casually. EN: no contractions, slightly archaic.
+  - "Absurd! Japan began to decay the moment it gave itself to greed!
+    Do you not see that!?"
+  - "I have no use for those who decide their own limits! Begone!"
+- Roy, Tiffany, Boman: Pacific. Their katakana Japanese becomes simple,
+  correct English.
+  - "Ahaha, Japanese is so hard. By the way, what's your name?"
+- Roy: ボク, キミ, ぜ, かい, ワット!/ホワット! ("What!?"). Says {v3:6} on
+  both routes. Rich (a limousine), cocky and quick to sulk, with a
+  sensitive nose. Likes the protagonist on both routes and competes with
+  Tiffany for their time. EN: casual American, "OK!", no accent.
+  - "OK! Let's take a little drive in my limo on the way home!"
+  - "The amusement park? You're more of a kid than I thought, {v3:6}.
+    ...But I kinda like that about you."
+- Tiffany: ミー, ユー, ネ/デース/ヨ/まショー, English words (GOOD IDEA,
+  ソーリー, サンキュ, Wait!), hearts. Says {v3:7} on both routes. Bubbly and
+  clingy; her father is a company chairman. Her slips (デンキ for テンキ)
+  stay as a cute mistake in EN: "such lovely electricity today!"
+  (MGG04P), first game "were you weather?". Otherwise plain, correct
+  English with "Hiii!" and stretched vowels.
+  - "Sorry, {v3:7}. My papa's clothes are king size. Japan doesn't sell
+    many."
+  - "Ooh! I see! GOOD IDEA! Let's go buy it!!"
+- Boman: 私, あなた, always です/ます. Says {v4:8} (-kun) on both routes.
+  Devout Christian (God, Mass, the chapel), gentle, against killing even
+  a frog. Very attached to the protagonist. EN: formal, mostly without
+  contractions ("let us", "Is something the matter?").
+  - "Then I will come to your house for you on Sunday, {v4:8}. I thank
+    God that I may go to Mass with you..."
+  - "What!? You do not understand at all which matters more, a precious
+    life or a class!"
+- Hayato-sensei: hot-blooded PE teacher, macho and loud.
+  俺, お前, ねえ, ぜ, かってんだ, おうし!, ヨーイ!ドン! ("Ready... go!"). Says
+  {v3:16} on both routes. Takes on any contest and turns up everywhere.
+  Teases the protagonist about Kyoko-sensei. 青春 is "youth" (first
+  game: "This is what they call youth", "Youth, you big idioooot!"). On
+  the female route: "Girl or not, ya gotta train!" EN: "ya", g-dropping.
+  - "What's with that pathetic showing? Life is long, but youth is short!"
+  - "Don't underestimate me! I'm a PE teacher! If I can't take a
+    student's tackle, how could I take a student's love!?"
+- Hideo-sensei: gentlemanly, calm.
+  私, 君, です/ます, なさい. Says {v0}{col:0}君{col:-} ("-kun") on both
+  routes. Strict about study but forgives an honest answer, praises with
+  エライ! ("Well done!") and gives out Shimazu-Style books. Sentimental
+  and a little lonely; worries about the protagonist's love life
+  (彼女/彼氏 by route). His comic admiration (男同士なのにほれぼれする)
+  becomes 年の差なんか関係なく on the female route. EN: polite, warm.
+  - "A game center! You meant to go there instead of studying?"
+  - "Well done! Well done, {v0}{col:0}-kun{col:-}!"
+- Kyoko-sensei: school nurse. Warm, gently teasing.
+  Sloppy off duty; likes sake and horse racing. Her Rival Schools
+  ending has her accept Hideo-sensei's proposal.
+  私, あなた, わ/わよ, ちょうだい, かしら. Male route
+  {v1}{col:0}クン{col:-} ("-kun"), female {v1}{col:0}さん{col:-} ("-san");
+  her lines are otherwise the same. Flirts with students and tests odd
+  treatments on them; チュッ is "Smooch" (keep the JP heart tag). Has a
+  wistful side (her first love by the river). EN: playful adult.
+  - "Yes, take it all off, please."
+  - "Good, I'm glad. You really helped me figure it out. Thanks.
+    Smooch"
+- Raizo: principal. Pompous and long-winded.
+  Batsu's father, Imawano by name.
+  わし, 君, かね, たまえ, よかろう, うむ, ハッハッハ. Says
+  {v0}{col:0}君{col:-}. Students call him 学園長 ("Principal", "sir").
+  Teaches 忌野流 ("Imawano-Style") training and charms, and lets slip fond
+  remarks about Shizuku. EN: grand old man, "Hm", "Very well", "Ha ha
+  ha!".
+  - "Ha ha ha, you're a serious one. Very well, I shall teach you one
+    Imawano-Style technique."
+  - "Who knows. At least Shizuku... ahem! Well, it's only a charm. No harm
+    in trying."
+- Chairperson (委員長, iinchou): Taiyo class chairperson, Hinata's friend,
+  the game's guide in the 4/1 tutorial. Always "Chairperson", never
+  "class rep". Calm, responsible, organised; a little bossy and dryly
+  teasing when she explains. Brushes off questions about herself. Natural
+  girl's speech (わよ, わね), never prissy. Keep game terms in her
+  explanations exact (button names, menu names in {col:0}).
+  - "You came here without even knowing that? Fine, I'll explain."
+  - "Me? I'm the Chairperson. Just call me Chairperson."
+- Protagonist: plain casual voice. The female protagonist is a little
+  softer, never prissy.
+  Male events are g0, female g1, the same scene. Male: 俺 (僕 or 自分 to
+  teachers), お前 to friends, だろ, だな, さ, よぉ. Female: 私, uses names
+  where he says お前, わ/わね/の, でしょ, かしら, あら, ハァイ, ましょ,
+  ごめんなさい. Her katakana tails (ネ, ヨ, ナ) are playful; write plain
+  EN. Seniors: he says 流さん, 修一さん, 雹さん; she says 流先輩, 修一先輩,
+  雹クン ("Hyo-kun", casual). Lines in （） are inner thoughts: write them
+  in ASCII parentheses, without the {sp} indents. Unbracketed monologue
+  stays plain narration. Other characters' lines are usually the same JP
+  on both routes, so their one EN must fit a boy and a girl. Avoid "man",
+  "dude", "guy", "bro" or he/she for the protagonist unless the JP says
+  男/女.
+- Daigo-senpai: Daigo Kazama, Gedo's top boss (総番長) and Akira's older
+  brother. A third-year about to graduate. Gruff and honourable; lectures
+  on being a real man (漢) after watching from the side. 俺, お前, だぜ.
+  Says {v4:17} ("-kun") on both routes. Turns up at the end of a scene
+  to judge what the protagonist did, then leaves (あばよ, "Later"). His
+  lessons are about real kindness (思いやり, 男の優しさ). EN: gruff, short.
+  - "Sometimes even a little kid has to pull through on his own. But
+    when he really can't, you lend a hand and say nothing."
+  - "Getting hung up on titles like top boss is no way for a real man
+    to act!"
+  - "If you think things alone can win someone's heart, you're dead
+    wrong."
+
+** New in this game
+- Ran (Ran Hibiki): Taiyo first-year who wants to be a journalist. She
+  is joining the newspaper club, whose entrance test is a scoop photo.
+  Hunts scoops and ambushes people for interviews, Hyo included. Pushy,
+  quick to flare up and quick to forgive; flustered when teased about
+  love. Spirited, never prissy. ワタシ/私, calls the protagonist アンタ,
+  わよ, じゃない, stretched vowels (ど～いう).
+  - "Hee hee, don't worry about it! Oh, I forgot to introduce myself.
+    I'm Ran. Future journalist. Nice to meet ya!"
+  - "Not bad! You talked the council president around. Thanks to you,
+    I got my interview."
+- Nagare (Namikawa): Gorin third-year, swim team ace, Shuichi's friend.
+  Shoma grew up with him and calls him 流兄ちゃん ("big bro Nagare").
+  On land he is spaced out: very few words, lines open with "..." and
+  break off mid-sentence, 僕. In the water or in a crisis he turns sharp
+  and decisive, 俺. Kind and modest; thanks embarrass him.
+  - "...I wasn't... trying to scare him..."
+  - "...I see. Good. Nobody who loves swimming is a bad person..."
+  - "...Stop it... You're embarrassing me..."
+- Shuichi-kun: Shuichi Sawamura, Shoma's older brother. Gorin
+  third-year, the baseball club's former ace, sidelined by an injury; he
+  runs the baseball club. Easygoing, dependable big brother. 俺, な.
+  - "Hey, if it isn't you! What's got you in such a rush?"
+  - "He's a different guy in the water. Normally he's off in the
+    clouds, but the second he's in, he's all business."
+- Kotaro (Okita-sensei): volleyball club adviser, a former member of
+  the All-Japan national team. Hot-blooded but upbeat, less macho than
+  Hayato-sensei. 僕 with お前. Pet lines: "Let's aim for the world
+  together!" and グーッだ ("Great stuff!").
+  - "Here to join volleyball? I'm the adviser, Kotaro Okita! I'm gonna
+    work you hard this year!"
+- Mari: Mari Nanase, first-year soccer club manager. Attentive, gentle,
+  polite to everyone, classmates included: 私, です/ます, Roberto-kun.
+  - "Oh, there you are. I've been waiting. Welcome to the soccer club!"
+  - "Too bad about the quota. Maybe my cheering wasn't good enough?"
+- Kanayama (Sado-sensei): Gengoro Sado, outside coach of the sumo club,
+  not a teacher. 金山 was his ring name as a wrestler. Students call him
+  監督 ("Coach") or Sado-sensei. Gruff, warm old pro, demanding but
+  fair: わし, お前, ひよっこ ("greenhorn"). Plain gruff English, not
+  Gan's folksy dialect.
+  - "Welcome, greenhorn. Picked sumo, eh? You've got guts. Good, good.
+    I'll drill you hard all year."
+  - "Then hit him head-on! Remember a whole year of training!"
+- Kozue-senpai: Kozue Yamabuki, second-year art club vice-president
+  (she does not look it). Breezy, easygoing senior, responsible but
+  tired of explaining things. わよ, ね, "OK", "はーい"; calls the
+  protagonist "-kun" (クン).
+  - "Hi there, welcome! You're the new one, right? I'm the
+    vice-president, Kozue Yamabuki. New members are always welcome!"
+  - "OK, that's it for the explanation. Explaining stuff wears me out."
+- Shizune: Shizune Kujo, first-year who teaches new members in the brass
+  band. Quiet, expressionless, very polite: わたくし, です/ます, many
+  pauses ("..."). Stutters and freezes when nervous; faints from shock.
+  - "...Oh... hello. Are you here to join? I'm Shizune Kujo. I'll be
+    teaching the new members... Nice to meet you."
+  - "...R-really? I'm... nervous, you know. It just doesn't show..."
+- Sayuri-senpai: Sayuri Tsukishima, third-year drama club president, a
+  star of male roles with fan clubs at nearby schools. Theatrical,
+  confident and warm. ワタシ, キミ ("you"); mixes です/ます with わ.
+  - "Do you like theater? I'm the drama club president, Sayuri
+    Tsukishima. Nice to meet you."
+  - "I know better than anyone how hard you've worked this year."
+- Hakase: Hyoe Kase, chemistry club adviser. Insists on "Hakase" (a pun
+  on Kase), no honorific, never "sensei". Chummy, eccentric professor
+  who tests dubious potions on students and shrugs off the results. 僕,
+  たまえ, かね, ふむふむ, よしよし, なるほどなるほど.
+  - "Don't call me sensei. Call me Hakase. I'm the chemistry club
+    adviser. Glad to know you."
+  - "Would I ever give a student something like that? Relax, relax."
+  - "...Oh dear, another failure..."
+- Sakura: Sakura Kasugano, the Street Fighter guest. サクラ in the name
+  table, さくら in dialogue. Cheerful, sporty, mad about street fights;
+  spars with Hinata. わたし, casual, "へへ"; calls the protagonist by
+  nickname.
+  - "Heh heh, I came to invite you! You're free over spring break,
+    right?"
+  - "Isn't it obvious? Street fighting!"

@@ -1,0 +1,108 @@
+## MGG09T g0 s0000
+JP: 中庭には露店がたちならび、{n}学園中が普段にない活気に包まれている。{n}そう、今日は太陽学園の学園祭なのだ!{p}{end}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is Taiyo High's school festival!{p}{end}
+
+## MGG09T g0 s0002
+JP: ……ふう。{n}なんとか開催にこぎつける{n}ことができたみたいだな。{p}
+EN: ...Phew. Looks like we managed to get it off the ground.{p}
+
+## MGG09T g0 s0003
+JP: お疲れさま。{n}そういえば、恭介は学園祭では{n}何をやってるんだい?{p}{end}
+EN: Good work. So, Kyosuke, what are you doing for the festival?{p}{end}
+
+## MGG09T g0 s0004
+JP: どういうわけだか、{col:0}演劇部{col:-}を{n}手伝う事になってしまってね。{n}ここのところ、ずっと舞台練習で{n}大変だったよ。{p}{end}
+EN: For some reason I ended up helping the {col:0}drama club{col:-}. It's been nothing but rehearsals lately. It's been rough.{p}{end}
+
+## MGG09T g0 s0005
+JP: オマエが演劇ねぇ。{n}で、何の役をやるんだ?{p}
+EN: You, in a play, huh. So what role are you playing?{p}
+
+## MGG09T g0 s0006
+JP: そ、それはヒミツだ。{n}知りたかったら、バツも見に来るんだな。{p}{end}
+EN: Th-that's a secret. If you want to know, come and watch, Batsu.{p}{end}
+
+## MGG09T g0 s0007
+JP: あ～あ。{n}私、{col:0}喫茶店{col:-}のお手伝いをしなくちゃ{n}いけないから、見に行けないよぉ。{n}残念だなぁ……{p}{end}
+EN: Aww. I have to help out at the {col:0}cafe{col:-}, so I can't go see it. That's too bad...{p}{end}
+
+## MGG09T g0 s0008
+JP: へぇ～、ひなたは喫茶店か。{n}もちろん、ウェイトレスなんだろ?{p}{end}
+EN: Oh, a cafe, Hinata? You're a waitress, of course?{p}{end}
+
+## MGG09T g0 s0009
+JP: うん、お料理とかケーキとか{n}全部手作りなんだよ。{n}みんな、絶対食べに来てよね{col:5}♥{col:-}{p}
+EN: Yep, the food and cakes are all homemade. You've all gotta come eat{col:5}♥{col:-}{p}
+
+## MGG09T g0 s0010
+JP: 行きてぇのはヤマヤマだけどよ、{n}オレは{col:0}腕相撲大会{col:-}に{n}出なくちゃなんねぇんだ。{p}{end}
+EN: I'd love to go, but I gotta be in the {col:0}arm wrestling tournament{col:-}.{p}{end}
+
+## MGG09T g0 s0011
+JP: 腕相撲大会ねぇ……{n}どうせまた食い物目当てなんだろ?{p}{end}
+EN: An arm wrestling tournament, huh... You're in it for the food again, right?{p}{end}
+
+## MGG09T g0 s0012
+JP: ヘヘヘ。{n}まあ、そんなとこだな。{p}{end}
+EN: Heh heh. Yeah, pretty much.{p}{end}
+
+## MGG09T g0 s0150
+JP: ははははは。{n}{v4:2}、いくらなんでも{n}それはホメすぎだよ。{p}{end}
+EN: Hahahaha. {v4:2}, now that's laying it on a bit thick.{p}{end}
+
+## MGG09T g0 s0301
+JP: エッジ、やっぱりお前が{n}壊したんだから修理を手伝えよ。{n}それがスジってもんだろ。{n}もし醍醐先輩にばれたら、怒られるぞ。{p}
+EN: Edge, you broke it, so help fix it. That's only fair. If Daigo-senpai finds out, you're in trouble.{p}
+
+## MGG09T g0 s0327
+JP: 雹さんのために、{n}ランを追い払ってみるか……。{n}おーい、ラン。{p}
+EN: Maybe I'll chase Ran off for Hyo-san's sake... Hey, Ran.{p}
+
+## MGG09T g0 s0362
+JP: 将馬{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}夏{n}ロベルト{sp}{sp}{sp}{sp}{sp}{sp}流{n}学校を選びなおす{p}{end}
+EN: Shoma{sp}{sp}{sp}{sp}{sp}{sp}{sp}Natsu{n}Roberto{sp}{sp}{sp}{sp}{sp}{sp}Nagare{n}Pick another school{p}{end}
+
+## MGG09T g0 s0373
+JP: エッジ{sp}{sp}{sp}{sp}{sp}{sp}{sp}アキラ{n}岩{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}醍醐{n}学校を選びなおす{p}
+EN: Edge{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}Akira{n}Gan{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}Daigo{n}Pick another school{p}
+
+## MGG09T g0 s0470
+JP: {face:15}・・・・・・・・・・{face:15}{p}{end}
+EN: {face:15}..........{face:15}{p}{end}
+
+## MGG09T g1 s0000
+JP: 中庭には露店がたちならんで、{n}学園中が普段にない活気に包まれてる。{n}そう、今日は太陽学園の学園祭よ!{p}{end}
+EN: Stalls line the courtyard, and the whole school is buzzing like never before. That's right, today is Taiyo High's school festival!{p}{end}
+
+## MGG09T g1 s0003
+JP: お疲れさま。{n}そういえば、恭介は学園祭では{n}何をやってるの?{p}{end}
+EN: Good work. So, Kyosuke, what are you doing for the festival?{p}{end}
+
+## MGG09T g1 s0008
+JP: へぇ～、ひなたは喫茶店かぁ。{n}もちろん、ウェイトレスなんでしょ?{p}{end}
+EN: Oh, a cafe, Hinata? You're a waitress, of course, right?{p}{end}
+
+## MGG09T g1 s0011
+JP: 腕相撲大会ねぇ……{n}どうせまた食べ物目当てなんじゃないの?{p}
+EN: An arm wrestling tournament, huh... Aren't you just in it for the food again?{p}
+
+## MGG09T g1 s0056
+JP: （醍醐先輩、いつもこんなにおいしい{n}{sp}ケーキを焼いてもらってるのか。{n}{sp}うらやましいなァ。）{p}{end}
+EN: (So Daigo-senpai gets cake this good all the time. Lucky him.){p}{end}
+
+## MGG09T g1 s0123
+JP: うん、その努力が確実に味に反映{n}されてると思うわよ。{p}{end}
+EN: Yeah, I think all that effort really shows in the flavor.{p}{end}
+
+## MGG09T g1 s0234
+JP: （……いつまでたっても、{n}{sp}力が弱まらない?{sp}ヤ、ヤバイ……）{p}
+EN: (...His strength isn't fading at all? Th-this is bad...){p}
+
+## MGG09T g1 s0301
+JP: やっぱり、エッジが壊したんだから{n}修理を手伝うべきでしょ。{n}それが筋ってものよ。{n}もし醍醐先輩にばれたら、怒るわよ～。{p}
+EN: Edge, you broke it, so you should help fix it. That's only fair. If Daigo-senpai finds out, he'll be mad~.{p}
+
+## MGG09T g1 s0531
+JP: ち、ちがうよ……{n}あれでも本気でやってたんだから。{p}
+EN: N-no... I really was trying my best.{p}
+

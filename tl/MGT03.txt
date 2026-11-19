@@ -1,0 +1,656 @@
+## MGT03 g0 s0000
+JP: 朝。いつもより早起きしたので、{n}そのまま出てきたが、{n}少し眠くなってきた。{n}もう少し寝ればよかった……。{p}{end}
+EN: Morning. I got up earlier than usual and headed straight out, but I'm getting a little sleepy. Should've slept a bit more...{p}{end}
+
+## MGT03 g0 s0001
+JP: 「ウリャァッッ!」{sp}ブウウンッ!{n}「ウリャァッッ!」{sp}ブウウンッ!{p}
+EN: "Hrraah!" Whoosh! "Hrraah!" Whoosh!{p}
+
+## MGT03 g0 s0002
+JP: お、あそこの河原で{n}素振りをしているのは……{n}将馬だな。{p}{end}
+EN: Oh, that's Shoma doing practice swings down by the river.{p}{end}
+
+## MGT03 g0 s0003
+JP: おお～～い、将馬!{n}朝から大変だな。{p}{end}
+EN: Heeey, Shoma! Hard at it this early, huh.{p}{end}
+
+## MGT03 g0 s0004
+JP: よぉ、{v3:3}じゃねぇか。{n}お前も朝早いな。{p}{end}
+EN: Yo, if it ain't {v3:3}. You're up early too.{p}{end}
+
+## MGT03 g0 s0005
+JP: ああ、いつもよりちょっと早いかな。{n}将馬は朝練?{sp}がんばってるな。{p}
+EN: Yeah, a bit earlier than usual. Morning practice, Shoma? You're working hard.{p}
+
+## MGT03 g0 s0006
+JP: まぁな。{n}別に今日に限ったコトじゃないけど。{n}素振りしてると、心が晴れるからなぁ。{p}
+EN: Sorta. It ain't just today, though. Swingin' the bat clears my head, y'know.{p}
+
+## MGT03 g0 s0007
+JP: なるほどね。{n}しかし将馬、こうしてみると、{n}お前のバットって長いよな。{n}使いにくくないか?{p}
+EN: I see. But looking at it like this, Shoma, your bat sure is long. Isn't it hard to use?{p}
+
+## MGT03 g0 s0008
+JP: よく言われるけどさ。{n}オイラはコレくらいの方がいいんだ。{n}ほら、ガキのころから、親父の、{n}大人用のバットを使ってたから……、{p}{end}
+EN: I hear that a lot. But I like 'em about this long. See, ever since I was a kid I've been usin' my dad's grown-up bat...{p}{end}
+
+## MGT03 g0 s0009
+JP: 身体より、少し大きめの方が{n}使いやすくてよ。{n}それに、長い方がよく飛ぶしな。{p}{end}
+EN: So one a little bigger than me is easier to swing. Plus, a longer one hits farther.{p}{end}
+
+## MGT03 g0 s0010
+JP: ふ～ん、なるほど。{n}そういうものかな……。{p}
+EN: Hmm, I see. I guess that's how it works...{p}
+
+## MGT03 g0 s0011
+JP: ま、当たれば飛ぶんだけどよ、{n}最近打率が悪くてさ……。{p}
+EN: Well, it flies if I connect, but my batting average's been lousy lately...{p}
+
+## MGT03 g0 s0012
+JP: 少しでも打率あげようと、{n}素振りしてるんだけど……、{n}どっかおかしいかな?{n}俺のフォーム。{p}
+EN: I'm swingin' to get it up even a little... Is somethin' off? My form, I mean.{p}
+
+## MGT03 g0 s0013
+JP: う～ん、俺にはそんな{n}おかしくは見えないけどな。{n}もっと精神的なモノなのかもな。{p}{end}
+EN: Hmm, it doesn't look that off to me. Maybe it's more of a mental thing.{p}{end}
+
+## MGT03 g0 s0014
+JP: 精神的な～。{n}具体的には、どんな風にすれば{n}いいんだろうな?{p}{end}
+EN: A mental thing... So what exactly should I be doin'?{p}{end}
+
+## MGT03 g0 s0015
+JP: 迷いをはらって無心に素振り{n}投球を想定して考えながら素振り{p}
+EN: Clear your head and just swing{n}Swing while picturing the pitch{p}
+
+## MGT03 g0 s0016
+JP: 素振りに迷いがあるんだよ。{n}打率が低いことを気にしすぎじゃない?{n}もっと無心に、素振りをした方が{n}いいと思うな。{p}{end}
+EN: Your swing's full of doubt. Aren't you worrying too much about your low average? I think you should swing with a clear head.{p}{end}
+
+## MGT03 g0 s0017
+JP: なるほどな、たしかに最近、{n}悩んでたからな。{n}うん……やってみよう。{p}{end}
+EN: Yeah, you're right. I've been stewin' over it lately. OK... I'll give it a shot.{p}{end}
+
+## MGT03 g0 s0018
+JP: ブウウンッ!{n}ブウウンッ!{p}
+EN: Whoosh! Whoosh!{p}
+
+## MGT03 g0 s0019
+JP: なんかさっきより{n}キレがある気がするな。{n}いいんじゃないか?{p}{end}
+EN: Somehow that looks sharper than before. Looks good, right?{p}{end}
+
+## MGT03 g0 s0020
+JP: そうだな……ちょっと難しく{n}考えすぎたのかもな……。{n}うん、今度からもっと無心にやってみるよ。{n}サンキュー、{v3:3}。{p}
+EN: Yeah... Maybe I was overthinkin' it... OK, from now on I'll just clear my head and swing. Thanks, {v3:3}.{p}
+
+## MGT03 g0 s0021
+JP: もっと実戦を想定して、{n}考えながら振った方がいいんじゃないか?{n}相手がどんな球を投げるか、とかさ。{p}
+EN: Shouldn't you picture a real game and think while you swing? Like what kind of pitch the pitcher's gonna throw.{p}
+
+## MGT03 g0 s0022
+JP: なるほどな、たしかに最近、{n}ムキになってたからな。{n}もっと冷静に考えながらやってみよう。{p}{end}
+EN: Yeah, you're right. I've been gettin' all worked up lately. I'll try thinkin' it through, nice and calm.{p}{end}
+
+## MGT03 g0 s0023
+JP: ブウゥン!{n}ブウゥウン!?{p}
+EN: Whoosh! Whoo-oosh!?{p}
+
+## MGT03 g0 s0024
+JP: アレ?{sp}何か考えながらだと、{n}うまく振れなくなっちゃった。{n}何も考えない方が、オイラには{n}いいのかもな……。{p}{end}
+EN: Huh? When I think while swingin', I can't swing right. Maybe not thinkin' at all works better for me...{p}{end}
+
+## MGT03 g0 s0025
+JP: （ううん、絶対アタリだと{n}{sp}思ったんだけどな。やっぱり将馬は{n}{sp}天然野球少年だから、理屈より身体で{n}{sp}考えた方がいいのかもな。）{p}{end}
+EN: (Hmm, I was sure that was the right call. Shoma's a born baseball kid, so maybe he's better off thinking with his body than his head.){p}{end}
+
+## MGT03 g0 s0026
+JP: へへ、悪いな、つきあわせちゃって。{n}でも、参考になったよ。{n}サンキューな。{p}
+EN: Heh, sorry for draggin' you into this. But it helped. Thanks a bunch.{p}
+
+## MGT03 g0 s0027
+JP: それはいいけど……そろそろ行かないと、{n}遅刻するぞ!{n}話が長かったな!{sp}急ごう!!{p}
+EN: No problem, but... we need to get going or we'll be late! We talked too long! Let's hurry!!{p}
+
+## MGT03 g0 s0028
+JP: ホントだ、やべぇ!!{n}競走しようぜ、{v3:3}!{n}それ、急げ!!{p}
+EN: Whoa, you're right, crap!! Let's race, {v3:3}! C'mon, hurry!!{p}
+
+## MGT03 g0 s0029
+JP: （将馬と競走したおかげで、{n}{sp}なんとか遅刻せずにすんだ……）{p}{end}
+EN: (Thanks to racing Shoma, I somehow made it on time...){p}{end}
+
+## MGT03 g0 s0030
+JP: 朝。{n}ちょっといつもより遅いな。{n}やっぱり二度寝したのが、まずかったか。{p}{end}
+EN: Morning. I'm running a little later than usual. Going back to sleep was a mistake.{p}{end}
+
+## MGT03 g0 s0031
+JP: 「うおおおりゃぁぁぁ～～～!!」{p}{end}
+EN: "Hrrraaaaaahhhh~~~!!"{p}{end}
+
+## MGT03 g0 s0032
+JP: ドーーーン!!{p}
+EN: WHAAAM!!{p}
+
+## MGT03 g0 s0033
+JP: いってぇ……{n}なんだなんだ、いきなり人が{n}ぶつかってきたぞ。{p}{end}
+EN: Owww... What the? Someone just crashed into me.{p}{end}
+
+## MGT03 g0 s0034
+JP: 大丈夫か、{v3:3}!{n}わりい、わりい。{n}前よく見てなかったもんでよ。{n}ケガ、ないか?{p}{end}
+EN: You okay, {v3:3}!? Sorry, sorry. Wasn't watchin' where I was goin'. Ya hurt?{p}{end}
+
+## MGT03 g0 s0035
+JP: 将馬か……。{n}また今日も朝練か?{p}{end}
+EN: Shoma... Morning practice again today?{p}{end}
+
+## MGT03 g0 s0036
+JP: そうよ!{n}今日はバシッとダッシュをな。{n}で、ちょっと夢中になりすぎちゃって……。{n}ゴメンな。{p}{end}
+EN: You bet! Today I'm doin' some serious sprints. Got a little too into it, though... Sorry 'bout that.{p}{end}
+
+## MGT03 g0 s0037
+JP: いや、いいけどさ。{n}それより時間はいいのか?{n}もうそろそろ切り上げないと、{n}遅刻するぞ。{p}{end}
+EN: Nah, it's fine. More importantly, are you OK on time? If you don't wrap it up soon, you'll be late.{p}{end}
+
+## MGT03 g0 s0038
+JP: げっ、ホントだ。もうこんな時間か。{n}そろそろ学校に行くか。{n}どうだ、学校まで競争しないか?{p}
+EN: Yikes, you're right. Look at the time. Guess I'll head to school. Hey, wanna race there?{p}
+
+## MGT03 g0 s0039
+JP: よし、いいぜ。{n}じゃ、正門までだな。{n}よ～～い、スタート!!{p}{end}
+EN: OK, you're on. To the main gate, then. Ready... go!!{p}{end}
+
+## MGT03 g0 s0040
+JP: （ゲッ、将馬のやつ、{n}{sp}今まで練習してたわりには速いな!{n}{sp}これはマズイかも……）{p}
+EN: (Whoa, Shoma's fast for someone who's been practicing all this time! This could be bad...){p}
+
+## MGT03 g0 s0041
+JP: それでも正々堂々と勝負!{n}抜け道を使って、逆転狙い!{p}{end}
+EN: Fight fair and square anyway!{n}Take a shortcut to turn it around!{p}{end}
+
+## MGT03 g0 s0042
+JP: （ええい!{sp}考えても仕方がない!{n}{sp}正々堂々と、勝負だ!）{n}うりゃああーーーっ!!{p}
+EN: (Argh! No use thinking about it! Fair and square, let's go!) Hrraaaaah!!{p}
+
+## MGT03 g0 s0043
+JP: う、やるな!{n}それならオイラも……{n}うおおりゃぁぁ～～～!!{p}{end}
+EN: Ugh, not bad! Then I'll... Nuoooraaahh~~~!!{p}{end}
+
+## MGT03 g0 s0044
+JP: よし、正門が見えてきた!{n}ラストスパート!!{p}{end}
+EN: All right, I can see the main gate! Final sprint!!{p}{end}
+
+## MGT03 g0 s0045
+JP: う!{sp}ダメだぁ～!{p}
+EN: Agh! No good~!{p}
+
+## MGT03 g0 s0046
+JP: ゴーーールッ!{n}よしっ、俺の勝ち!!{p}{end}
+EN: GOOOAL! All right, I win!!{p}{end}
+
+## MGT03 g0 s0047
+JP: 最後の最後で……ハァハァ……{n}スタミナが……ゼェゼェ……{n}ちっくしょう……!{p}{end}
+EN: At the very end... huff, huff... my stamina... wheeze... Dammit...!{p}{end}
+
+## MGT03 g0 s0048
+JP: ふっふ、将馬クン、{n}君もよくがんばったが、{n}この僕にはかなわなかったようだね!{p}
+EN: Heh heh, Shoma-kun, you did well, but it seems you were no match for me!{p}
+
+## MGT03 g0 s0049
+JP: ふぅ……。{n}オマエも速いな。{n}オイラの負けだ。{p}
+EN: Phew... You're fast too. I lose.{p}
+
+## MGT03 g0 s0050
+JP: いやぁ、今の勝負は、{n}将馬が朝練してなかったら{n}たぶん、将馬の勝ちだったんじゃないか。{n}スタミナ切れだろ?{p}
+EN: Nah, if you hadn't been practicing this morning, you'd probably have won that one. You ran out of stamina, right?{p}
+
+## MGT03 g0 s0051
+JP: それに……、{n}二人とも遅刻しなかったんだから、{n}それでいいんじゃないか?{p}{end}
+EN: Besides... neither of us was late, so that's what counts, right?{p}{end}
+
+## MGT03 g0 s0052
+JP: へへ、アリガトよ、{v3:3}。{n}でもオイラの負けは負けさ。{n}よし、ともかく教室に入ろうぜ!{p}{end}
+EN: Heh, thanks, {v3:3}. But a loss is a loss. Anyway, let's get to class!{p}{end}
+
+## MGT03 g0 s0053
+JP: （こうなったらしかたがない、{n}{sp}ちょっと卑怯だけど、{n}{sp}抜け道を使おう!{n}{sp}道の指定はなかったしな!!）{p}{end}
+EN: (No choice now. It's a little dirty, but I'll take a shortcut! He never said which way to go!!){p}{end}
+
+## MGT03 g0 s0054
+JP: あ、{v3:3}?{n}ちっ、しまった!?{p}
+EN: Huh, {v3:3}? Tch, dang it!?{p}
+
+## MGT03 g0 s0055
+JP: こっちに行けば、{n}少しは近いはず……{n}ゲッ!{sp}信号だ!!{p}{end}
+EN: This way should be a little shorter... Ack! A red light!!{p}{end}
+
+## MGT03 g0 s0057
+JP: 思ったより、時間をとってしまった……。{n}将馬は……やっぱりゴールしてるな。{p}
+EN: That took longer than I thought... Shoma's... yep, already at the finish.{p}
+
+## MGT03 g0 s0058
+JP: へへ～ん、そんな抜け道使って、{n}オイラに勝とうってのが間違いだって!{n}男なら、正々堂々とな!{p}{end}
+EN: Heh heh~, tryin' to beat me with a shortcut like that was your first mistake! A real man plays fair and square!{p}{end}
+
+## MGT03 g0 s0059
+JP: うう……言い返せない……。{n}けど将馬、練習してたわりには、{n}スタミナが残ってたなぁ……。{p}{end}
+EN: Ugh... I can't argue with that... But Shoma, you had a lot of stamina left for someone who'd been practicing...{p}{end}
+
+## MGT03 g0 s0060
+JP: へへ、ホントはオイラも{n}やばかったんだけどな、{n}{v3:3}が抜け道に{n}入ってから、ムキになってさ。{p}{end}
+EN: Heh, honestly I was in trouble too, but once you ducked into that shortcut, {v3:3}, I got all fired up.{p}{end}
+
+## MGT03 g0 s0061
+JP: まぁいいじゃん、とりあえず、{n}遅刻しないですんだし。{n}ほら、さっさと教室に入ろうぜ!{p}{end}
+EN: Aw, who cares, we weren't late anyway. C'mon, let's get to class!{p}{end}
+
+## MGT03 g0 s0062
+JP: （こうして、この日も無事{n}{sp}遅刻せずにすんだ……）{p}
+EN: (And so, I made it on time again that day...){p}
+
+## MGT03 g0 s0063
+JP: 放課後。{n}さてと、今日もそろそろ帰るか。{p}{end}
+EN: After school. Well then, time to head home for today.{p}{end}
+
+## MGT03 g0 s0064
+JP: よぉ、{v3:3}。{n}今帰りか?{n}どうだ、いっしょに帰らないか?{p}{end}
+EN: Yo, {v3:3}. Headin' home? Wanna walk together?{p}{end}
+
+## MGT03 g0 s0065
+JP: あ、将馬。{n}いいよ、いっしょに帰ろう。{p}
+EN: Oh, Shoma. Sure, let's go home together.{p}
+
+## MGT03 g0 s0066
+JP: へへ、よかった。{n}な、ついでに河原で練習していこうぜ!{p}
+EN: Heh, great. Hey, let's stop by the river and practice on the way!{p}
+
+## MGT03 g0 s0067
+JP: ……998、999、1000と。{n}ふぅ……一休みしようか。{p}
+EN: ...998, 999, 1000. Phew... Let's take a break.{p}
+
+## MGT03 g0 s0068
+JP: ……将馬はホントに{n}練習が好きだなぁ。{n}ここで会うたびに練習してるもんな。{p}
+EN: ...You really love practicing, Shoma. Every time I see you here, you're practicing.{p}
+
+## MGT03 g0 s0069
+JP: そうかな?{n}オイラは野球が好きなだけだぜ。{n}自分が好きな野球をするために、{n}練習してるだけさ。普通だろ?{p}{end}
+EN: Ya think? I just love baseball. I'm only practicin' so I can play the baseball I love. That's normal, right?{p}{end}
+
+## MGT03 g0 s0070
+JP: イヤイヤ、なかなかできないって。{p}{end}
+EN: No, no, most people can't do that.{p}{end}
+
+## MGT03 g0 s0071
+JP: そうかな……?{p}
+EN: Ya think...?{p}
+
+## MGT03 g0 s0072
+JP: でさ、{v3:3}、{n}ちょっと聞きたいんだけど……。{p}{end}
+EN: So, {v3:3}, there's somethin' I wanna ask ya...{p}{end}
+
+## MGT03 g0 s0073
+JP: え?{n}ナニナニ?{p}{end}
+EN: Huh? What is it?{p}{end}
+
+## MGT03 g0 s0074
+JP: オイラさ、今ピッチャーの練習も{n}バッターの練習もしてるじゃん?{n}もちろん、エースで4番が{n}理想なんだけどさ。{p}{end}
+EN: Y'know how I'm practicin' as both a pitcher and a batter? Ace pitcher and cleanup hitter, that's the dream, of course.{p}{end}
+
+## MGT03 g0 s0075
+JP: でも、たぶんプロになったら、{n}どっちもってワケにはいかないと思うんだ。{n}ほら、プロでもそんな選手、{n}ほとんどいないしさ。{p}{end}
+EN: But if I go pro, I don't think I can do both. I mean, there's hardly any guys like that even in the pros.{p}{end}
+
+## MGT03 g0 s0076
+JP: オマエだったら、オイラはどっちに{n}絞った方がいいと思う?{n}ピッチャーを目指すか、あきらめて{n}他のポジションで打撃に専念するか?{p}
+EN: If you were me, which should I focus on? Aim to be a pitcher, or give it up and play another position to focus on hittin'?{p}
+
+## MGT03 g0 s0077
+JP: ピッチャー{n}他のポジションで打撃を{n}それでもエースで4番{p}{end}
+EN: Pitcher{n}Batting, another position{n}Still the ace and cleanup{p}{end}
+
+## MGT03 g0 s0078
+JP: ……俺はやっぱり、{n}ピッチャーをやってる将馬が好きだな。{n}分身魔球は捨てがたいしさ。{p}{end}
+EN: ...I like Shoma the pitcher. It'd be a shame to give up Hundred Balls.{p}{end}
+
+## MGT03 g0 s0079
+JP: そうかな、やっぱり……。{n}オイラもピッチャーの方が好きかな……。{p}{end}
+EN: Ya think so too... Guess I like pitchin' better myself...{p}{end}
+
+## MGT03 g0 s0080
+JP: セ・リーグに入れば、{n}バッティングもできるしね……。{p}{end}
+EN: And if you're in the Central League, you get to bat too...{p}{end}
+
+## MGT03 g0 s0081
+JP: ……俺はバットを持って、{n}打席に入っている将馬の方が好きだし、{n}将馬のホームランを見てみたいよ。{p}{end}
+EN: ...I'd rather see Shoma at the plate with a bat. I wanna see you hit a home run.{p}{end}
+
+## MGT03 g0 s0082
+JP: そうかな、やっぱり。{n}バッティングの楽しさは、{n}野球の醍醐味だしな……。{p}{end}
+EN: Ya think so too. The fun of hittin' is what baseball's all about...{p}{end}
+
+## MGT03 g0 s0083
+JP: 赤いバットが、{n}将馬のトレードマークだしね。{n}大回転打法をプロで見てみたいな……。{p}
+EN: The red bat is your trademark, after all. I'd love to see your Big Spin Swing in the pros...{p}
+
+## MGT03 g0 s0084
+JP: そうだな。{n}ありがとう、{v3:3}。{n}これで目標ができたよ。{p}
+EN: Yeah. Thanks, {v3:3}. Now I've got a goal.{p}
+
+## MGT03 g0 s0085
+JP: よーし、がんばるぞ!!{p}
+EN: All right, I'm gonna give it my all!!{p}
+
+## MGT03 g0 s0086
+JP: その意気だ。{n}がんばれよ、応援してるぜ。{p}{end}
+EN: That's the spirit. Go for it, I'm rooting for you.{p}{end}
+
+## MGT03 g0 s0087
+JP: ああ!{n}じゃ、さっそく特訓だ!{n}いくぞ!{sp}{v3:3}!{p}{end}
+EN: Yeah! OK, time for special trainin'! Let's go, {v3:3}!{p}{end}
+
+## MGT03 g0 s0088
+JP: よし!!{p}{end}
+EN: All right!!{p}{end}
+
+## MGT03 g0 s0089
+JP: ……たしかに、今のプロの選手に、{n}エースで4番の選手はいないけど……、{n}やっぱり将馬にはそれを目指して欲しいな。{n}それが理想だろ?{p}
+EN: ...Sure, no pro today is both the ace and the cleanup hitter... But I still want you to aim for it, Shoma. That's the dream, right?{p}
+
+## MGT03 g0 s0090
+JP: ……オマエ、そんなに気安くいうけど{n}そんな楽なもんじゃないぞ?{n}最近はプロでも、外野手と投手を{n}やってる選手もいるにはいるけど……。{p}{end}
+EN: ...You say that so easy, but it ain't that simple, y'know? Lately there are a few pros who play outfield and pitch, but...{p}{end}
+
+## MGT03 g0 s0091
+JP: いやいや、俺がいいたいのはな、将馬。{n}そんな先のことを考えて、やりたいことを{n}制限するより、今できる最大の事を{n}しろってことさ。{p}{end}
+EN: No, no, what I mean is, Shoma... Instead of limiting what you want by thinking that far ahead, do the most you can right now.{p}{end}
+
+## MGT03 g0 s0092
+JP: まずここで、高校野球でレギュラーを{n}とることの方が先だろ?{p}
+EN: First you've gotta make the starting lineup in high school ball, right?{p}
+
+## MGT03 g0 s0093
+JP: そうか……そうだよな。{n}オイラ、まだ二軍の補欠なのに、{n}何いってんだろうな。{p}{end}
+EN: Yeah... you're right. I'm still a benchwarmer on the second string. What am I even sayin'?{p}{end}
+
+## MGT03 g0 s0094
+JP: ありがとう、{v3:3}。{n}目が覚めたよ。{n}よーし、がんばるぞ!!{n}まずはレギュラーから!{sp}だな!!{p}{end}
+EN: Thanks, {v3:3}. That woke me up. All right, I'm gonna give it my all!! First the starting lineup, right!!{p}{end}
+
+## MGT03 g0 s0095
+JP: 将馬……それでも俺は、{n}お前がプロで、エースで4番になることを{n}信じてるぜ……!{p}{end}
+EN: Shoma... Even so, I believe you'll make it to the pros as the ace and cleanup hitter...!{p}{end}
+
+## MGT03 g0 s0096
+JP: {v3:3}……。{n}そうだな……!{n}よしっ特訓だ!!{n}いくぞ、{v3:3}!{p}{end}
+EN: {v3:3}... Yeah...! All right, special trainin'!! Let's go, {v3:3}!{p}{end}
+
+## MGT03 g0 s0097
+JP: ああ、将馬!{p}{end}
+EN: Yeah, Shoma!{p}{end}
+
+## MGT03 g0 s0098
+JP: （こうして……{n}{sp}二人での特訓は夜まで続いた……）{p}
+EN: (And so... the two of us kept training until night...){p}
+
+## MGT03 g0 s0099
+JP: ドン!{sp}ドン!{sp}ドン!{p}
+EN: Bang! Bang! Bang!{p}
+
+## MGT03 g0 s0100
+JP: ん!?{p}
+EN: Hm!?{p}
+
+## MGT03 g0 s0101
+JP: 「オーイ!{n}{sp}誰もいねえのかあ?」{p}
+EN: "Heeey! Ain't nobody home?"{p}
+
+## MGT03 g0 s0102
+JP: あ、あれは将馬の声だ!{n}何しに来たんだ?{p}{end}
+EN: Ah, that's Shoma's voice! What's he here for?{p}{end}
+
+## MGT03 g0 s0103
+JP: なんだよいるじゃねえか!{n}今日誕生日だろ?{n}ほい、誕生日プレゼント!{p}{end}
+EN: C'mon, you're home after all! It's your birthday today, right? Here, a birthday present!{p}{end}
+
+## MGT03 g0 s0104
+JP: あっ、そうか俺今日誕生日だったんだ。{n}すっかり忘れてた。{p}{end}
+EN: Oh, right, today's my birthday. I totally forgot.{p}{end}
+
+## MGT03 g0 s0105
+JP: プレゼント開けてみてもいいかな?{p}{end}
+EN: Mind if I open the present?{p}{end}
+
+## MGT03 g0 s0106
+JP: ああ、いいぜ!{p}
+EN: Yeah, go ahead!{p}
+
+## MGT03 g0 s0107
+JP: なんだろうなあ……。{p}{end}
+EN: I wonder what it is...{p}{end}
+
+## MGT03 g0 s0108
+JP: ん?{n}何この野球のボール、{n}落書きが書いてあるし……。{p}
+EN: Hm? What's with this baseball? Someone scribbled all over it...{p}
+
+## MGT03 g0 s0109
+JP: ら、落書きって失礼だな!{n}それは、{n}オイラのサイン入り野球ボールだよ!{p}
+EN: S-scribbled!? How rude! That's a baseball with my autograph on it!{p}
+
+## MGT03 g0 s0110
+JP: {col:0}『将馬のサインボール』{col:-}{n}を手に入れた!{p}
+EN: Got {col:0}"Shoma's Signed Ball"{col:-}!{p}
+
+## MGT03 g0 s0111
+JP: 将来はプレミアがつくかもしれねえぜ!{n}大事にしておいてくれよ!{n}じゃあな!{p}
+EN: Could be worth a fortune someday! Take good care of it! See ya!{p}
+
+## MGT03 g0 s0112
+JP: 気持ちはうれしいんだけど……{n}なんか複雑……。{p}
+EN: I'm glad he thought of me, but... I've got mixed feelings about this...{p}
+
+## MGT03 g0 s0113
+JP: なんだよいるじゃねえか!{n}この前、誕生日だったんだろ?{n}ほい、誕生日プレゼント!{p}{end}
+EN: C'mon, you're home after all! Your birthday was the other day, right? Here, a birthday present!{p}{end}
+
+## MGT03 g0 s0114
+JP: あっ、そうか俺誕生日過ぎてたんだ。{n}すっかり忘れてた。{p}
+EN: Oh, right, my birthday already passed. I totally forgot.{p}
+
+## MGT03 g0 s0118
+JP: ん?{n}何この野球のボール{n}落書きが書いてあるし……。{p}{end}
+EN: Hm? What's with this baseball? Someone scribbled all over it...{p}{end}
+
+## MGT03 g1 s0000
+JP: 朝。いつもより早起きしたから、{n}そのまま出てきたけど、{n}少し眠くなってきたナ。{n}もう少し寝ればよかったわ……。{p}
+EN: Morning. I got up earlier than usual and headed straight out, but I'm getting kinda sleepy. I should've slept a bit more...{p}
+
+## MGT03 g1 s0002
+JP: あ、あそこの河原で{n}素振りをしているのは……{n}将馬ね。{p}
+EN: Oh, that's Shoma doing practice swings down by the river.{p}
+
+## MGT03 g1 s0003
+JP: オハヨウ、将馬!{n}朝から大変ね。{p}{end}
+EN: Morning, Shoma! Hard at it this early, huh.{p}{end}
+
+## MGT03 g1 s0005
+JP: うん、いつもよりちょっと早いかナ。{n}将馬は朝練?{sp}いつもがんばるわね。{p}
+EN: Yeah, a bit earlier than usual. Morning practice, Shoma? You always work so hard.{p}
+
+## MGT03 g1 s0007
+JP: ふぅん……。{n}ね、将馬、こうしてみると{n}将馬のバットってホントに長いよね。{n}使いにくくないの?{p}
+EN: Hmm... Hey, Shoma, looking at it like this, your bat really is long. Isn't it hard to use?{p}
+
+## MGT03 g1 s0010
+JP: ふ～ん、なるほどね。{n}そうなんだ……。{p}
+EN: Hmm, I see. So that's how it is...{p}
+
+## MGT03 g1 s0013
+JP: う～ん、私にはよくわかんないな。{n}実はもっと精神的なモノだったりとか{n}するんじゃない?{p}
+EN: Hmm, I can't really tell. Maybe it's actually more of a mental thing?{p}
+
+## MGT03 g1 s0016
+JP: 素振りに迷いがあるのよ、きっと。{n}打率が低いことを気にしすぎじゃない?{n}もっと無心に、素振りをした方が{n}いいと思うな。{p}
+EN: Your swing's full of doubt, I bet. Aren't you worrying too much about your low average? I think you should swing with a clear head.{p}
+
+## MGT03 g1 s0019
+JP: なんかさっきより{n}キレがある気がするよ。{n}いいんじゃない?{p}
+EN: Somehow that looks sharper than before. Looks good, doesn't it?{p}
+
+## MGT03 g1 s0021
+JP: もっと実戦を想定して、{n}考えながら振った方がいいんじゃないかナ?{n}相手がどんな球を投げるか、とかネ。{p}{end}
+EN: Shouldn't you picture a real game and think while you swing? Like what kind of pitch the pitcher's gonna throw.{p}{end}
+
+## MGT03 g1 s0025
+JP: （ううん、絶対アタリだと{n}{sp}思ったんだけどな。やっぱり将馬は{n}{sp}天然野球少年だから、理屈より身体で{n}{sp}考えた方がいいのかもネ。）{p}{end}
+EN: (Hmm, I was sure that was the right call. Shoma's a born baseball kid, so maybe he's better off thinking with his body than his head.){p}{end}
+
+## MGT03 g1 s0027
+JP: それはいいけど……そろそろ行かないと、{n}遅刻するわよ!{n}話が長くなっちゃったね、{n}急ぎましょう!!{p}
+EN: No problem, but... we need to get going or we'll be late! We talked too long, let's hurry!!{p}
+
+## MGT03 g1 s0030
+JP: 朝。{n}ちょっといつもより遅いかナ。{n}やっぱり二度寝したのは失敗だったわ。{p}{end}
+EN: Morning. I'm running a little later than usual. Going back to sleep was a mistake.{p}{end}
+
+## MGT03 g1 s0033
+JP: いたた……{n}なになに?{sp}いきなり人が{n}ぶつかってきたわ。{p}{end}
+EN: Owww... What's going on? Someone just crashed into me.{p}{end}
+
+## MGT03 g1 s0035
+JP: 将馬ったら……。{n}また今日も朝練?{p}
+EN: Geez, Shoma... Morning practice again today?{p}
+
+## MGT03 g1 s0037
+JP: いや、いいけど……。{n}それより時間はいいの?{n}もうそろそろ切り上げないと、{n}遅刻するわよ。{p}
+EN: No, it's fine... More importantly, are you OK on time? If you don't wrap it up soon, you'll be late.{p}
+
+## MGT03 g1 s0039
+JP: よし、いいよ。{n}じゃ、正門までね。{n}よ～～い、スタート!!{p}
+EN: OK, you're on. To the main gate, then. Ready... go!!{p}
+
+## MGT03 g1 s0040
+JP: （わっ、将馬ったら、{n}{sp}今まで練習してたわりには速いわ!{n}{sp}これは勝てないかも……）{p}{end}
+EN: (Whoa, Shoma's fast for someone who's been practicing all this time! I might not win this...){p}{end}
+
+## MGT03 g1 s0042
+JP: （ううん!{sp}考えてもしょうがないわ!{n}{sp}正々堂々と、勝負ね!）{n}えええーーーいっ!!{p}{end}
+EN: (No! No use thinking about it! Fair and square, here I go!) Hyaaaaah!!{p}{end}
+
+## MGT03 g1 s0044
+JP: よし、正門が見えてきたよ!{n}ラストスパート!!{p}
+EN: All right, I can see the main gate! Final sprint!!{p}
+
+## MGT03 g1 s0046
+JP: ゴーーールッ!{n}よしっ、私の勝ちね!!{p}
+EN: GOOOAL! All right, I win!!{p}
+
+## MGT03 g1 s0048
+JP: ふっふ、将馬クン、{n}君もよくがんばったけど、{n}この私にはかなわなかったようね!{p}
+EN: Heh heh, Shoma-kun, you did well, but it seems you were no match for me!{p}
+
+## MGT03 g1 s0050
+JP: ふふっ、今の勝負は、{n}将馬が朝練してなかったら{n}たぶん、将馬の勝ちだったんじゃないかナ。{n}スタミナ切れでしょ?{p}
+EN: Hehe, if you hadn't been practicing this morning, you'd probably have won that one. You ran out of stamina, right?{p}
+
+## MGT03 g1 s0051
+JP: それに……、{n}二人とも遅刻しなかったんだから、{n}それでいいんじゃない?{p}
+EN: Besides... neither of us was late, so that's what counts, isn't it?{p}
+
+## MGT03 g1 s0053
+JP: （こうなったらしかたがないわ、{n}{sp}ちょっと卑怯だけど、{n}{sp}抜け道を使おう!{n}{sp}道の指定はなかったしね!!）{p}
+EN: (No choice now. It's a little dirty, but I'll take a shortcut! He never said which way to go!!){p}
+
+## MGT03 g1 s0055
+JP: こっちに行けば、{n}少しは近いと思うんだけど……{n}わっ!{sp}信号!?{p}{end}
+EN: This way should be a little shorter, I think... Eek! A red light!?{p}{end}
+
+## MGT03 g1 s0057
+JP: 思ったより、時間をとっちゃった……。{n}将馬は……やっぱりゴールしてるみたい。{p}{end}
+EN: That took longer than I thought... Shoma's... looks like he's already at the finish.{p}{end}
+
+## MGT03 g1 s0058
+JP: へへ～ん、そんな抜け道使って、{n}オイラに勝とうってのが間違いだって!{n}勝負は、正々堂々とな!{p}{end}
+EN: Heh heh~, tryin' to beat me with a shortcut like that was your first mistake! A match oughta be fair and square!{p}{end}
+
+## MGT03 g1 s0059
+JP: うう……言い返せないわ……。{n}それにしても将馬、{n}練習してたわりには、{n}スタミナが残ってるわねぇ……。{p}
+EN: Ugh... I can't argue with that... Still, Shoma, you've got a lot of stamina left for someone who'd been practicing...{p}
+
+## MGT03 g1 s0063
+JP: 放課後。{n}さてと、今日もそろそろ帰ろっかな。{p}{end}
+EN: After school. Well then, guess I'll head home for today.{p}{end}
+
+## MGT03 g1 s0065
+JP: あ、将馬。{n}いいよ、いっしょに帰ろう{col:5}♥{col:-}{p}
+EN: Oh, Shoma. Sure, let's go home together{col:5}♥{col:-}{p}
+
+## MGT03 g1 s0068
+JP: ……将馬はホントに{n}練習が好きよね。{n}ここで会うたびに練習してるんだから。{p}
+EN: ...You really love practicing, Shoma. Every time I see you here, you're practicing.{p}
+
+## MGT03 g1 s0070
+JP: うう～ん、なかなかできないのよ、{n}それが。{p}
+EN: Mm-mm, most people just can't do that.{p}
+
+## MGT03 g1 s0078
+JP: ……私はやっぱり、{n}ピッチャーをやってる将馬が好きだな。{n}分身魔球はやっぱり魅力的よ。{p}
+EN: ...I like Shoma the pitcher. Hundred Balls is so cool.{p}
+
+## MGT03 g1 s0079
+JP: そうまでいわれると照れちゃうな……。{n}う～ん、……やっぱりオイラも{n}ピッチャーの方が好きかな……。{p}
+EN: Hearin' that kinda makes me blush... Hmm... Guess I like pitchin' better myself...{p}
+
+## MGT03 g1 s0081
+JP: ……私はバットを持って、{n}打席に入っている将馬の方が好きだし、{n}将馬のホームランを見てみたいわ。{p}{end}
+EN: ...I'd rather see Shoma at the plate with a bat. I wanna see you hit a home run.{p}{end}
+
+## MGT03 g1 s0082
+JP: そうまでいわれると照れちゃうな……。{n}う～ん、……やっぱり、{n}バッティングの楽しさは、{n}野球の醍醐味だしな……。{p}{end}
+EN: Hearin' that kinda makes me blush... Hmm... Yeah, the fun of hittin' is what baseball's all about...{p}{end}
+
+## MGT03 g1 s0086
+JP: その意気よ。{n}がんばってね、応援してるわよ。{p}{end}
+EN: That's the spirit. Go for it, I'm rooting for you.{p}{end}
+
+## MGT03 g1 s0089
+JP: ……たしかに、今のプロの選手に、{n}エースで4番の選手はいないけど……、{n}やっぱり将馬にはそれを目指して欲しいナ。{n}それが理想でしょ?{p}{end}
+EN: ...Sure, no pro today is both the ace and the cleanup hitter... But I still want you to aim for it, Shoma. That's the dream, isn't it?{p}{end}
+
+## MGT03 g1 s0091
+JP: ううん、私がいいたいのはネ、将馬。{n}そんな先のことを考えてやりたい事を{n}制限するより、今できる最大の事を{n}やった方がいいってことよ。{p}{end}
+EN: No, what I mean is, Shoma... Instead of limiting what you want by thinking that far ahead, you should do the most you can right now.{p}{end}
+
+## MGT03 g1 s0092
+JP: まずここで、高校野球でレギュラーを{n}とることの方が先でしょ?{p}{end}
+EN: First you've gotta make the starting lineup in high school ball, right?{p}{end}
+
+## MGT03 g1 s0095
+JP: 将馬……それでも私は、{n}将馬がプロで、エースで4番になることを{n}信じてるよ……!{p}{end}
+EN: Shoma... Even so, I believe you'll make it to the pros as the ace and cleanup hitter...!{p}{end}
+
+## MGT03 g1 s0097
+JP: うん!{n}将馬!!{p}{end}
+EN: Yeah! Shoma!!{p}{end}
+
+## MGT03 g1 s0100
+JP: 何!?{p}
+EN: What!?{p}
+
+## MGT03 g1 s0102
+JP: あ、あれは将馬の声だ!{n}何しに来たのかしら?{p}{end}
+EN: Ah, that's Shoma's voice! What's he here for?{p}{end}
+
+## MGT03 g1 s0104
+JP: あっ、そうか私今日誕生日だったんだ。{n}すっかり忘れてた。{p}{end}
+EN: Oh, right, today's my birthday. I totally forgot.{p}{end}
+
+## MGT03 g1 s0105
+JP: プレゼント開けてみてもいい?{p}{end}
+EN: Can I open the present?{p}{end}
+
+## MGT03 g1 s0107
+JP: 何かしら……。{p}
+EN: I wonder what it is...{p}
+
+## MGT03 g1 s0114
+JP: あっ、そうか私誕生日過ぎたんだったわ。{n}すっかり忘れてた。{p}
+EN: Oh, right, my birthday already passed. I totally forgot.{p}
+

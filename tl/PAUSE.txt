@@ -1,0 +1,12 @@
+# In-round pause menu (OVER.TIZ strip), built by tools/build_pause.py.
+# Same wording as the first game. Item 2 in the exe is the long line.
+JP: 1Pポーズ
+EN: 1P PAUSE
+JP: 2Pポーズ
+EN: 2P PAUSE
+JP: つづける
+EN: Continue
+JP: 戻る
+EN: Back
+JP: モードメニューに戻る
+EN: Back to Mode Menu

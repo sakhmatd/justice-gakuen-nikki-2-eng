@@ -1,0 +1,428 @@
+## MGG11P g0 s0003
+JP: 今年の参加校は、{n}主催の五輪高校と、我がパシフィック{n}ハイスクールを含めて、合計五校。{n}いつもの顔ぶれだ。{p}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Pacific High. The usual faces.{p}
+
+## MGG11P g0 s0010
+JP: 今ね、各学校の有力選手の{n}コメントをとってるの。{n}パシフィックは、当然アンタね。{p}{end}
+EN: I'm getting comments from the top athletes of each school. For Pacific, that's you, obviously.{p}{end}
+
+## MGG11P g0 s0016
+JP: ふむふむ、ホームラン競争の{n}パシフィックハイスクール代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Pacific High's entry in the Home Run Derby: {v0}. Got it.{p}
+
+## MGG11P g0 s0018
+JP: ふむふむ、PK戦の{n}パシフィックハイスクール代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Pacific High's entry in the PK Shootout: {v0}. Got it.{p}
+
+## MGG11P g0 s0020
+JP: ふむふむ、サービスエースの{n}パシフィックハイスクール代表は、{n}{v0}選手、と。{p}
+EN: Mm-hm. Pacific High's entry in the Service Ace: {v0}. Got it.{p}
+
+## MGG11P g0 s0025
+JP: こっちだ、{v3:6}!{n}遅かったな、待っていたぞ。{p}{end}
+EN: Over here, {v3:6}! You're late. I've been waiting.{p}{end}
+
+## MGG11P g0 s0026
+JP: そこで、ランにつかまってね。{n}ちょっと手間を食ってたんだ。{p}
+EN: Ran caught me back there. It took a while to get away.{p}
+
+## MGG11P g0 s0027
+JP: OK、OK。{n}準備はいいか?{n}もうすぐ出番だろう。{p}
+EN: OK, OK. Are you ready? You're up soon, right?{p}
+
+## MGG11P g0 s0028
+JP: ファイト!{sp}{v3:7}!{n}ガンバってね!{p}
+EN: Go, {v3:7}! Good luck!{p}
+
+## MGG11P g0 s0029
+JP: パシフィックHSの代表だからと{n}いって気負う必要はありませんよ。{n}これはあくまでお祭りですからね、{n}楽しくやりましょう。{p}{end}
+EN: There is no need to feel pressure just because you represent Pacific High. This is only a festival, after all. Let us enjoy it.{p}{end}
+
+## MGG11P g0 s0030
+JP: まぁそういうことだ。{n}だが、ジャパニーズに我々の力を{n}見せつけてやる、ということを{n}忘れずにな。{p}{end}
+EN: Well, that's about it. But don't forget, we're here to show the Japanese what we can do.{p}{end}
+
+## MGG11P g0 s0031
+JP: ロイったら……あいかわらずネ!{p}
+EN: Oh, Roy... Same as always!{p}
+
+## MGG11P g0 s0032
+JP: ははっ、当たり前じゃないか。{n}せっかくのチャンスだからな。{p}
+EN: Ha, of course! It's a chance I can't pass up.{p}
+
+## MGG11P g0 s0033
+JP: ……とにかく、神のご加護を、{n}{v4:8}。{n}学校のこととか、国のこととか{n}あまり気にしない方がいいですよ。{p}{end}
+EN: ...In any case, may God be with you, {v4:8}. Try not to worry too much about the school or the country.{p}{end}
+
+## MGG11P g0 s0034
+JP: （確かに学校のためとか国のため、{n}{sp}ってのは、実感がないなぁ……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るよな……）{p}
+EN: (Yeah, "for the school" or "for the country" just doesn't hit home... I'd get way more fired up fighting for something real!){p}
+
+## MGG11P g0 s0036
+JP: ロイのために!{n}ティファニーのために!{n}ボーマンのために!{n}やっぱり学校のため!{p}{end}
+EN: For Roy!{n}For Tiffany!{n}For Boman!{n}For the school!{p}{end}
+
+## MGG11P g0 s0037
+JP: （よし!{sp}この勝利をロイに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Roy! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11P g0 s0038
+JP: （よし!{sp}この勝利を{n}{sp}ティファニーに捧げよう!{n}{sp}うん!{sp}気合が入ってきた!）{p}{end}
+EN: (All right! I'll dedicate this win to Tiffany! Yeah! I'm getting fired up!){p}{end}
+
+## MGG11P g0 s0039
+JP: （よし!{sp}この勝利をボーマンに捧げよう!{n}{sp}うん!{sp}なんか気合が入ってきた!）{p}
+EN: (All right! I'll dedicate this win to Boman! Yeah! I'm getting kind of fired up!){p}
+
+## MGG11P g0 s0041
+JP: おっと、{v3:6}、{n}そろそろ出番じゃないか?{n}がんばってこいよ!{p}{end}
+EN: Oh, {v3:6}, isn't it almost your turn? Go get 'em!{p}{end}
+
+## MGG11P g0 s0042
+JP: GO!{sp}GO!{sp}{v3:7}!{n}ガンバってね!{p}
+EN: Go, go, {v3:7}! Good luck!{p}
+
+## MGG11P g0 s0043
+JP: 神様は見ていらっしゃいますよ、{n}{v4:8}!{n}ガンバってください!{p}{end}
+EN: God is watching over you, {v4:8}! Do your best!{p}{end}
+
+## MGG11P g0 s0044
+JP: （絶好調!{n}{sp}俺の大活躍のおかげで、{n}{sp}パシフィックハイスクールは{n}{sp}優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Pacific High won!){p}
+
+## MGG11P g0 s0045
+JP: おめでとう!{sp}{v4:19}!{n}パシフィックハイスクールが優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v4:19}! Pacific High wins! You were amazing out there!{p}{end}
+
+## MGG11P g0 s0052
+JP: 役員会の決定で、君が本大会の{n}MVPに決まったのだよ。{n}パシフィックハイスクールの{n}校長もお喜びだ。{p}{end}
+EN: The committee has chosen you as this tournament's MVP. Pacific High's principal is delighted as well.{p}{end}
+
+## MGG11P g0 s0057
+JP: オォ、MVPじゃないか。{n}大活躍だったな、{n}{v3:6}!{p}
+EN: Oh, MVP, huh? You were great out there, {v3:6}!{p}
+
+## MGG11P g0 s0058
+JP: エクセレントね、{v3:7}!{n}ユーをミソコなったよ!!{p}{end}
+EN: Excellent, {v3:7}! I'm so depressed by you!!{p}{end}
+
+## MGG11P g0 s0059
+JP: それじゃ意味が逆だ。{n}みなおした、だろ?{p}{end}
+EN: That's the opposite. You mean "impressed," right?{p}{end}
+
+## MGG11P g0 s0060
+JP: それそれ!{n}ミゴロしたよ、{v3:7}!{p}{end}
+EN: That's it! You really expressed me, {v3:7}!{p}{end}
+
+## MGG11P g0 s0061
+JP: ……とにかく、{n}優勝おめでとう、{v4:8}。{n}さすがですね!{p}
+EN: ...Anyway, congratulations on the win, {v4:8}. I knew you could do it!{p}
+
+## MGG11P g0 s0062
+JP: これも、ロイが{n}応援してくれたおかげだよ。{n}ありがとう、ロイ……。{p}
+EN: It's all thanks to you cheering me on, Roy. Thanks, Roy...{p}
+
+## MGG11P g0 s0063
+JP: オイオイ、謙遜は{n}ジャパニーズの悪習だぞ!?{n}キミは実力で勝ったんだ、{n}もっと胸をはれよ!{p}
+EN: Hey now, modesty is a bad Japanese habit! You won on your own skill. Hold your head up!{p}
+
+## MGG11P g0 s0064
+JP: そうだな。{n}ありがとう、ロイ!{p}
+EN: Yeah. Thanks, Roy!{p}
+
+## MGG11P g0 s0065
+JP: これも、ティファニーが{n}応援してくれたおかげだよ。{n}サンキューな、ティファニー。{p}{end}
+EN: It's all thanks to you cheering me on, Tiffany. Thanks, Tiffany.{p}{end}
+
+## MGG11P g0 s0066
+JP: フフン、ミーの応援は世界一ね!{n}ユーのためならいくらでも{n}応援してあげるヨ!{p}{end}
+EN: Hehe, my cheering is the best in the world! For you, I'll cheer as much as you want!{p}{end}
+
+## MGG11P g0 s0067
+JP: ははっ、頼りになるな、{n}ティファニーは。{p}{end}
+EN: Haha, I can always count on you, Tiffany.{p}{end}
+
+## MGG11P g0 s0068
+JP: これも、ボーマンが{n}応援してくれたおかげだよ。{n}ありがとう、ボーマン。{p}
+EN: It's all thanks to you cheering me on, Boman. Thanks, Boman.{p}
+
+## MGG11P g0 s0069
+JP: すべては神の御心のままに。{n}今日の勝利を神に捧げましょう!{n}{v4:8}!{p}
+EN: All is as God wills. Let us offer today's victory to God, {v4:8}!{p}
+
+## MGG11P g0 s0070
+JP: そうだな。{n}神の御心のままに……か。{p}{end}
+EN: Yeah. As God wills, huh.{p}{end}
+
+## MGG11P g0 s0072
+JP: 勝ったのはキミの実力だ。{n}もっと堂々としてていいんだぞ。{p}{end}
+EN: You won on your own skill. Go ahead and act like it.{p}{end}
+
+## MGG11P g0 s0073
+JP: いやいや、みんなの{n}応援のおかげさ。{n}チームワークの勝利って{n}ヤツだよ。{p}{end}
+EN: No, no, it's thanks to everyone cheering. A win for teamwork, you know?{p}{end}
+
+## MGG11P g0 s0074
+JP: ……こうして、五輪祭の{n}エキシビションマッチは、{n}パシフィックハイスクールの{n}優勝に終わった。{p}
+EN: ...And so, the Gorin Festival exhibition match ended in victory for Pacific High.{p}
+
+## MGG11P g0 s0075
+JP: （……まぁまぁかな。{n}{sp}とりあえず、これでなんとか{n}{sp}パシフィックハイスクールは{n}{sp}3位をキープできたみたいだ。）{p}
+EN: (...Not bad, I guess. At least it looks like Pacific High held on to third place.){p}
+
+## MGG11P g0 s0087
+JP: ヘイ、{v3:6}。{n}お疲れだったな。{p}
+EN: Hey, {v3:6}. Good work out there.{p}
+
+## MGG11P g0 s0088
+JP: 3位だったようですね。{n}あともう少しにみえましたが、{n}惜しかったですね。{p}{end}
+EN: Third place, it seems. You were so close. What a shame.{p}{end}
+
+## MGG11P g0 s0089
+JP: GOOD!{n}一番はとれなかったけど、{n}{v3:7}はガンバったよ!{p}
+EN: GOOD! You didn't get first, but {v3:7} did great!{p}
+
+## MGG11P g0 s0090
+JP: そうだな。{n}ジャパニーズ達に優勝を{n}持っていかれたのはショックだが……、{n}{v3:6}は健闘したよ。{p}{end}
+EN: Yeah. Losing the title to the Japanese is a shock... but {v3:6} put up a good fight.{p}{end}
+
+## MGG11P g0 s0091
+JP: （ロイのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Roy... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g0 s0092
+JP: オイオイ、そんなに落ち込むなよ。{n}キミはよくやったっていってるだろ?{n}もっと胸を張れよ、{n}{v3:6}。{p}{end}
+EN: Hey now, don't get so down. I keep telling you, you did well. Hold your head up, {v3:6}.{p}{end}
+
+## MGG11P g0 s0093
+JP: ロイ……、{n}アリガトな……。{p}{end}
+EN: Roy... Thanks...{p}{end}
+
+## MGG11P g0 s0094
+JP: （ティファニーのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Tiffany... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g0 s0095
+JP: そんなに気を落とすことないヨ!{n}3位なら、ブロンズ・メダルね。{n}元気だして!{sp}ファイト!{p}{end}
+EN: Don't be so down! Third place means a bronze medal. Cheer up! Fight!{p}{end}
+
+## MGG11P g0 s0096
+JP: ティファニー……。{n}ありがとう、ティファニーに{n}そういってもらえると助かるよ……。{p}
+EN: Tiffany... Thanks. Hearing that from you really helps...{p}
+
+## MGG11P g0 s0097
+JP: （ボーマンのためにがんばったけど……{n}{sp}力及ばなかったな……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念だ……）{p}
+EN: (I did my best for Boman... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g0 s0098
+JP: そんなに力を落とすことは{n}ありませんよ、{v4:8}。{n}君は全力をつくしました。{n}それは結果よりも重要なコトですよ。{p}{end}
+EN: There is no need to lose heart, {v4:8}. You gave it everything you had. That matters more than the result.{p}{end}
+
+## MGG11P g0 s0099
+JP: ……そうだな、ボーマン。{n}ありがとう。{p}
+EN: ...You're right, Boman. Thanks.{p}
+
+## MGG11P g0 s0101
+JP: そんなに気を落とすことないヨ。{n}五輪祭はお祭りね!{n}今日は楽しかったヨ!{p}{end}
+EN: Don't be so down. The Gorin Festival is a festival! Today was fun!{p}{end}
+
+## MGG11P g0 s0102
+JP: ……そうだな。{n}そういってもらえると助かるよ。{p}
+EN: ...Yeah. Hearing that helps.{p}
+
+## MGG11P g0 s0103
+JP: ……こうして、パシフィック{n}ハイスクールは、五輪祭の{n}エキシビションマッチ第3位に終わった。{p}{end}
+EN: ...And so, Pacific High finished third in the Gorin Festival exhibition match.{p}{end}
+
+## MGG11P g0 s0104
+JP: （最悪だ……。{n}{sp}俺はがんばったが、結果は振るわず{n}{sp}パシフィックハイスクールは{n}{sp}最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Pacific High came in last...){p}{end}
+
+## MGG11P g0 s0115
+JP: {v3:6}……。{n}ボクが試合前にいったこと、{n}覚えてるか?{p}{end}
+EN: {v3:6}... Remember what I told you before the match?{p}{end}
+
+## MGG11P g0 s0116
+JP: ボクはキミに、ジャパニーズに花を{n}持たせてこいっていったつもりは{n}ないんだがな。{n}{v3:6}?{p}{end}
+EN: I don't recall telling you to go hand the win to the Japanese. Did I, {v3:6}?{p}{end}
+
+## MGG11P g0 s0117
+JP: {v4:8}も、手抜きを{n}したわけではないでしょうが……{n}あまりにも実力不足でしたね。{p}
+EN: I am sure you did not hold back, {v4:8}... but you were simply not good enough.{p}
+
+## MGG11P g0 s0118
+JP: ホント、応援してソンしちゃったネ。{n}{v3:7}、もう少し{n}いいトコ見せて欲しかったね……。{p}{end}
+EN: Really, cheering for you was a waste. {v3:7}, I wanted you to show us something better...{p}{end}
+
+## MGG11P g0 s0119
+JP: （ロイのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}パシフィックハイスクールが最下位に{n}{sp}なったことより、そっちの方が残念だ…）{p}
+EN: (I did my best for Roy... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g0 s0120
+JP: どうやらボクはキミを{n}買いかぶっていたようだな。{n}残念だよ、{v3:6}。{p}
+EN: Looks like I overestimated you. I'm disappointed, {v3:6}.{p}
+
+## MGG11P g0 s0121
+JP: ロイ……ゴメンな。{p}
+EN: Roy... I'm sorry.{p}
+
+## MGG11P g0 s0122
+JP: （ティファニーのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}パシフィックHSが最下位に{n}{sp}なったことより、そっちの方が残念だ…）{p}
+EN: (I did my best for Tiffany... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g0 s0123
+JP: ちょっといい過ぎちゃった……?{n}ソーリー、そんなに気を落とさないで。{n}{v3:6}も、{n}ガンバったんだし……ネ?{p}{end}
+EN: Did I say too much...? Sorry, don't be so down. {v3:6}, you tried hard too... right?{p}{end}
+
+## MGG11P g0 s0124
+JP: ティファニー……。{n}アリガトな。{p}{end}
+EN: Tiffany... Thanks.{p}{end}
+
+## MGG11P g0 s0125
+JP: （ボーマンのためにがんばったけど……{n}{sp}全然ダメだったな……。{n}{sp}パシフィックHSが最下位に{n}{sp}なったことより、そっちの方が残念だ…）{p}
+EN: (I did my best for Boman... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g0 s0126
+JP: そんなに気を落とすことはありませんよ、{n}{v4:6}。{n}この敗北をバネに、よりいっそう{n}努力すればいいことです。{p}{end}
+EN: There is no need to lose heart, {v4:6}. Use this defeat as a springboard and work even harder.{p}{end}
+
+## MGG11P g0 s0127
+JP: ボーマン……そうだな。{n}ありがとう。{p}{end}
+EN: Boman... You're right. Thanks.{p}{end}
+
+## MGG11P g0 s0129
+JP: 五輪祭はあくまでお祭りです。{n}参加することに意義があるのですよ……。{n}そういうことにしておきましょう。{p}
+EN: The Gorin Festival is only a festival. What matters is taking part... Let us leave it at that.{p}
+
+## MGG11P g0 s0131
+JP: ……こうして、パシフィック{n}ハイスクールは、五輪祭の{n}エキシビションマッチ{n}最下位に終わった。{p}
+EN: ...And so, Pacific High finished last in the Gorin Festival exhibition match.{p}
+
+## MGG11P g1 s0003
+JP: 今年の参加校は、{n}主催の五輪高校と、我がパシフィック{n}ハイスクールを含めて、合計五校。{n}いつもの顔ぶれね。{p}
+EN: This year, five schools are taking part, including the host, Gorin High, and our own Pacific High. The usual faces.{p}
+
+## MGG11P g1 s0026
+JP: そこで、ランちゃんにつかまっちゃって。{n}ちょっと手間どってたの。{p}{end}
+EN: Ran-chan caught me back there. It took a while to get away.{p}{end}
+
+## MGG11P g1 s0034
+JP: （確かに学校のためとか国のため、{n}{sp}ってのは、実感がないわよね……。{n}{sp}もっと具体的なもののために!{n}{sp}っていう方が気合が入るわね……）{p}{end}
+EN: (Yeah, "for the school" or "for the country" just doesn't hit home... I'd get way more fired up fighting for something real...){p}{end}
+
+## MGG11P g1 s0037
+JP: （よし!{sp}この勝利をロイに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Roy! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11P g1 s0038
+JP: （よし!{sp}この勝利を{n}{sp}ティファニーに捧げるわ!{n}{sp}うん!{sp}気合が入ってきたわ!）{p}
+EN: (All right! I'll dedicate this win to Tiffany! Yeah! I'm getting fired up!){p}
+
+## MGG11P g1 s0039
+JP: （よし!{sp}この勝利をボーマンに捧げるわ!{n}{sp}うん!{sp}なんか気合が入ってきたわ!）{p}{end}
+EN: (All right! I'll dedicate this win to Boman! Yeah! I'm getting kind of fired up!){p}{end}
+
+## MGG11P g1 s0044
+JP: （絶好調!{n}{sp}私の大活躍のおかげで、{n}{sp}パシフィックハイスクールは{n}{sp}優勝した!）{p}
+EN: (I was on fire! Thanks to my big performance, Pacific High won!){p}
+
+## MGG11P g1 s0045
+JP: おめでとう!{sp}{v8:19}!{n}パシフィックハイスクールが優勝ね!{n}大活躍だったじゃない!{p}{end}
+EN: Congrats, {v8:19}! Pacific High wins! You were amazing out there!{p}{end}
+
+## MGG11P g1 s0062
+JP: これも、ロイが{n}応援してくれたおかげよ。{n}ありがとう、ロイ……。{p}{end}
+EN: It's all thanks to you cheering me on, Roy. Thanks, Roy...{p}{end}
+
+## MGG11P g1 s0064
+JP: そうだね。{n}ありがとう、ロイ!{p}
+EN: Yeah. Thanks, Roy!{p}
+
+## MGG11P g1 s0065
+JP: これも、ティファニーが{n}応援してくれたおかげよ。{n}アリガトね、ティファニー。{p}{end}
+EN: It's all thanks to you cheering me on, Tiffany. Thanks, Tiffany.{p}{end}
+
+## MGG11P g1 s0067
+JP: ふふっ、頼りになるわね、{n}ティファニーは。{p}
+EN: Hehe, I can always count on you, Tiffany.{p}
+
+## MGG11P g1 s0068
+JP: これも、ボーマンが{n}応援してくれたおかげよ。{n}ありがとう、ボーマン。{p}{end}
+EN: It's all thanks to you cheering me on, Boman. Thanks, Boman.{p}{end}
+
+## MGG11P g1 s0070
+JP: そうね。{n}神の御心のままに……ね。{p}
+EN: Right. As God wills, huh.{p}
+
+## MGG11P g1 s0071
+JP: これもみんなが{n}応援してくれたおかげよ。{n}ありがとね、みんな。{p}
+EN: It's all thanks to everyone cheering me on. Thanks, everyone.{p}
+
+## MGG11P g1 s0073
+JP: ううん、みんなの{n}応援のおかげよ。{n}チームワークの勝利ってヤツよね。{p}{end}
+EN: No, no, it's thanks to everyone cheering. A win for teamwork, right?{p}{end}
+
+## MGG11P g1 s0075
+JP: （……まぁまぁね。{n}{sp}とりあえず、これでなんとか{n}{sp}パシフィックハイスクールは{n}{sp}3位をキープできたみたいだし。）{p}
+EN: (...Not bad, I guess. At least it looks like Pacific High held on to third place.){p}
+
+## MGG11P g1 s0091
+JP: （ロイのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Roy... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g1 s0093
+JP: ロイ……、{n}アリガト……。{p}
+EN: Roy... Thanks...{p}
+
+## MGG11P g1 s0094
+JP: （ティファニーのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Tiffany... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g1 s0096
+JP: ティファニー……。{n}ありがとう、ティファニーに{n}そういってもらえると助かるわ……。{p}
+EN: Tiffany... Thanks. Hearing that from you really helps...{p}
+
+## MGG11P g1 s0097
+JP: （ボーマンのためにがんばったけど……{n}{sp}力及ばなかったなァ……。{n}{sp}パシフィックHSが3位になった{n}{sp}ことより、そっちの方が残念……）{p}
+EN: (I did my best for Boman... but it wasn't enough... That bugs me more than Pacific High coming in third...){p}
+
+## MGG11P g1 s0099
+JP: ……そうね、ボーマン。{n}ありがとう。{p}{end}
+EN: ...You're right, Boman. Thanks.{p}{end}
+
+## MGG11P g1 s0100
+JP: せっかくみんなが{n}応援してくれたのに。{n}ゴメンね、みんな。{p}
+EN: Everyone cheered for me, and I still... Sorry, everyone.{p}
+
+## MGG11P g1 s0102
+JP: ……そうね。{n}そういってもらえると助かるわ。{p}{end}
+EN: ...Yeah. Hearing that helps.{p}{end}
+
+## MGG11P g1 s0104
+JP: （最悪……。{n}{sp}私はがんばったけど、結果は振るわず{n}{sp}パシフィックハイスクールは{n}{sp}最下位になった……）{p}{end}
+EN: (This is the worst... I tried, but it didn't pay off, and Pacific High came in last...){p}{end}
+
+## MGG11P g1 s0119
+JP: （ロイのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}パシフィックハイスクールが最下位に{n}{sp}なったことより、そっちの方が残念…）{p}
+EN: (I did my best for Roy... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g1 s0121
+JP: ロイ……ゴメンね。{p}
+EN: Roy... I'm sorry.{p}
+
+## MGG11P g1 s0122
+JP: （ティファニーのためにがんばったけど、{n}{sp}全然ダメだったなァ……。{n}{sp}パシフィックHSが最下位に{n}{sp}なったことより、そっちの方が残念……）{p}
+EN: (I did my best for Tiffany... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g1 s0124
+JP: ティファニー……。{n}アリガト。{p}
+EN: Tiffany... Thanks.{p}
+
+## MGG11P g1 s0125
+JP: （ボーマンのためにがんばったけど……{n}{sp}全然ダメだったなァ……。{n}{sp}パシフィックHSが最下位に{n}{sp}なったことより、そっちの方が残念…）{p}
+EN: (I did my best for Boman... but I totally blew it... That bugs me more than Pacific High coming in last...){p}
+
+## MGG11P g1 s0127
+JP: ボーマン……そうね。{n}ありがとう。{p}
+EN: Boman... You're right. Thanks.{p}
+

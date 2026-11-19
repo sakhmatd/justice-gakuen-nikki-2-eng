@@ -1,0 +1,76 @@
+# Year-end Team Up Technique select (3/24, MGBGE03 entry 22 TIM; built by
+# tools/mgbg_teamup.py). Entry 0 is the prompt, then the 22 move names in
+# record order (MGAME table 0x800a523c, id 0-21; id 2k is the left column,
+# 2k+1 the right). The same name graphic is the badge shown after the
+# choice. Official Rival Schools / Project Justice names (moves.pdf,
+# tl/glossary.org). Left column names must fit 144 px, right 240 px.
+# RE: private/re/teamup/findings.org.
+
+JP: 『愛と友情のツープラトン』を選択してください
+EN: Choose your Team Up Technique
+
+JP: W気合弾
+EN: Double Guts Bullet
+
+JP: ガッツ百倍
+EN: Guts & Power
+
+JP: ファイト百倍
+EN: Praise & Spirit
+
+JP: ラストシンフォニー
+EN: Last Symphony
+
+JP: ラブ&ピース
+EN: Love & Peace
+
+JP: Wライジングトルネード
+EN: Double Rising Tornado
+
+JP: 血"獄
+EN: Bloody Nightmare
+
+JP: Wパワーバスター
+EN: Double Power Buster
+
+JP: 連撃連舞
+EN: Gang Buster
+
+JP: トラップWシュート
+EN: Double Shot
+
+JP: 活火山
+EN: Active Volcano
+
+JP: 島津流真正波拳
+EN: Shin Seihaken
+
+JP: 究極の矯正術
+EN: Rest & Relax
+
+JP: 春獄殺
+EN: Shungokusatsu
+
+JP: 人間大砲
+EN: Ningen-Taihou
+
+JP: 協奏連撃蹴
+EN: Neo Synchronous Attack
+
+JP: ダイブ&プレス
+EN: Bridge Drop
+
+JP: クロスファイヤーキック
+EN: Crossfire Kick
+
+JP: 究極の愛の波動
+EN: Heart Attack
+
+JP: Wスカイアタック
+EN: Final Spike
+
+JP: 男の中の男
+EN: Super Parry
+
+JP: シンクロナイズドアタック
+EN: Synchronized Attack

@@ -1,0 +1,898 @@
+# Extras collection (DAT1/KOUBAI2.BIN strings, KOUBAI1.TIZ TIM 1 font),
+# built by tools/build_extras.py. Facts: private/re/extras/findings.org
+# and private/re/pocket/findings.org.
+# Letters are drawn two per 20x20 cell (letter pairs), so a limit of 20
+# letters/line is 10 cells. Spaces count as letters. ASCII only.
+# The builder wraps EN at spaces; {n} forces a line break. JP {n} marks
+# the original line breaks only. Dialog lines are centred on the screen.
+# Video items "<name> ED1/ED2" replay the Solo-mode endings; "<name> 日記"
+# opens that character's diary memories album. CD items are stage BGM,
+# named after the stage.
+
+## s000
+# video list: locked item
+# limit: 20 letters/line, 1 line
+JP: ???????
+EN: ???????
+
+## s001
+# not seen (CD item name?)
+# limit: 20 letters/line, 1 line
+JP: J学サントラCD
+EN: Rival Schools OST CD
+
+## s002
+# video list item 0
+# limit: 20 letters/line, 1 line
+JP: スタッフロール
+EN: Staff Credits
+
+## s003
+# video list item 1
+# limit: 20 letters/line, 1 line
+JP: バツ　ED1
+EN: Batsu Ending 1
+
+## s004
+# video list item 2
+# limit: 20 letters/line, 1 line
+JP: バツ　ED2
+EN: Batsu Ending 2
+
+## s005
+# video list item 3
+# limit: 20 letters/line, 1 line
+JP: バツ　日記
+EN: Batsu Diary
+
+## s006
+# video list item 4
+# limit: 20 letters/line, 1 line
+JP: ひなた　ED1
+EN: Hinata Ending 1
+
+## s007
+# video list item 5
+# limit: 20 letters/line, 1 line
+JP: ひなた　ED2
+EN: Hinata Ending 2
+
+## s008
+# video list item 6
+# limit: 20 letters/line, 1 line
+JP: ひなた　日記
+EN: Hinata Diary
+
+## s009
+# video list item 7
+# limit: 20 letters/line, 1 line
+JP: 恭介　ED1
+EN: Kyosuke Ending 1
+
+## s010
+# video list item 8
+# limit: 20 letters/line, 1 line
+JP: 恭介　ED2
+EN: Kyosuke Ending 2
+
+## s011
+# video list item 9
+# limit: 20 letters/line, 1 line
+JP: 恭介　日記
+EN: Kyosuke Diary
+
+## s012
+# video list item 10
+# limit: 20 letters/line, 1 line
+JP: 将馬　ED1
+EN: Shoma Ending 1
+
+## s013
+# video list item 11
+# limit: 20 letters/line, 1 line
+JP: 将馬　ED2
+EN: Shoma Ending 2
+
+## s014
+# video list item 12
+# limit: 20 letters/line, 1 line
+JP: 将馬　日記
+EN: Shoma Diary
+
+## s015
+# video list item 13
+# limit: 20 letters/line, 1 line
+JP: 夏　ED1
+EN: Natsu Ending 1
+
+## s016
+# video list item 14
+# limit: 20 letters/line, 1 line
+JP: 夏　ED2
+EN: Natsu Ending 2
+
+## s017
+# video list item 15
+# limit: 20 letters/line, 1 line
+JP: 夏　日記
+EN: Natsu Diary
+
+## s018
+# video list item 16
+# limit: 20 letters/line, 1 line
+JP: ロベルト　ED1
+EN: Roberto Ending 1
+
+## s019
+# video list item 17
+# limit: 20 letters/line, 1 line
+JP: ロベルト　ED2
+EN: Roberto Ending 2
+
+## s020
+# video list item 18
+# limit: 20 letters/line, 1 line
+JP: ロベルト　日記
+EN: Roberto Diary
+
+## s021
+# video list item 19
+# limit: 20 letters/line, 1 line
+JP: ロイ　ED1
+EN: Roy Ending 1
+
+## s022
+# video list item 20
+# limit: 20 letters/line, 1 line
+JP: ロイ　ED2
+EN: Roy Ending 2
+
+## s023
+# video list item 21
+# limit: 20 letters/line, 1 line
+JP: ロイ　日記
+EN: Roy Diary
+
+## s024
+# video list item 22
+# limit: 20 letters/line, 1 line
+JP: ティファニーED1
+EN: Tiffany Ending 1
+
+## s025
+# video list item 23
+# limit: 20 letters/line, 1 line
+JP: ティファニーED2
+EN: Tiffany Ending 2
+
+## s026
+# video list item 24
+# limit: 20 letters/line, 1 line
+JP: ティファニー日記
+EN: Tiffany Diary
+
+## s027
+# video list item 25
+# limit: 20 letters/line, 1 line
+JP: ボーマン　ED1
+EN: Boman Ending 1
+
+## s028
+# video list item 26
+# limit: 20 letters/line, 1 line
+JP: ボーマン　ED2
+EN: Boman Ending 2
+
+## s029
+# video list item 27
+# limit: 20 letters/line, 1 line
+JP: ボーマン　日記
+EN: Boman Diary
+
+## s030
+# video list item 28
+# limit: 20 letters/line, 1 line
+JP: エッジ　ED1
+EN: Edge Ending 1
+
+## s031
+# video list item 29
+# limit: 20 letters/line, 1 line
+JP: エッジ　ED2
+EN: Edge Ending 2
+
+## s032
+# video list item 30
+# limit: 20 letters/line, 1 line
+JP: エッジ　日記
+EN: Edge Diary
+
+## s033
+# video list item 31
+# limit: 20 letters/line, 1 line
+JP: 岩　ED1
+EN: Gan Ending 1
+
+## s034
+# video list item 32
+# limit: 20 letters/line, 1 line
+JP: 岩　ED2
+EN: Gan Ending 2
+
+## s035
+# video list item 33
+# limit: 20 letters/line, 1 line
+JP: 岩　日記
+EN: Gan Diary
+
+## s036
+# video list item 34
+# limit: 20 letters/line, 1 line
+JP: アキラ　ED1
+EN: Akira Ending 1
+
+## s037
+# video list item 35
+# limit: 20 letters/line, 1 line
+JP: アキラ　ED2
+EN: Akira Ending 2
+
+## s038
+# video list item 36
+# limit: 20 letters/line, 1 line
+JP: アキラ　日記
+EN: Akira Diary
+
+## s039
+# video list item 37
+# limit: 20 letters/line, 1 line
+JP: あきら　ED1
+EN: Unmasked Akira End 1
+
+## s040
+# video list item 38
+# limit: 20 letters/line, 1 line
+JP: 醍醐　ED1
+EN: Daigo Ending 1
+
+## s041
+# video list item 39
+# limit: 20 letters/line, 1 line
+JP: 醍醐　日記
+EN: Daigo Diary
+
+## s042
+# video list item 40
+# limit: 20 letters/line, 1 line
+JP: 英雄　ED1
+EN: Hideo Ending 1
+
+## s043
+# video list item 41
+# limit: 20 letters/line, 1 line
+JP: 英雄　ED2
+EN: Hideo Ending 2
+
+## s044
+# video list item 42
+# limit: 20 letters/line, 1 line
+JP: 英雄　日記
+EN: Hideo Diary
+
+## s045
+# video list item 43
+# limit: 20 letters/line, 1 line
+JP: 響子　ED1
+EN: Kyoko Ending 1
+
+## s046
+# video list item 44
+# limit: 20 letters/line, 1 line
+JP: 響子　ED2
+EN: Kyoko Ending 2
+
+## s047
+# video list item 45
+# limit: 20 letters/line, 1 line
+JP: 響子　日記
+EN: Kyoko Diary
+
+## s048
+# video list item 46
+# limit: 20 letters/line, 1 line
+JP: 雷蔵　ED1
+EN: Raizo Ending 1
+
+## s049
+# video list item 47
+# limit: 20 letters/line, 1 line
+JP: 響　ED1
+EN: Hyo Ending 1
+
+## s050
+# video list item 48
+# limit: 20 letters/line, 1 line
+JP: 響　日記
+EN: Hyo Diary
+
+## s051
+# video list item 49
+# limit: 20 letters/line, 1 line
+JP: 熱血隼人　ED1
+EN: Hayato Ending 1
+
+## s052
+# video list item 50
+# limit: 20 letters/line, 1 line
+JP: 熱血隼人　日記
+EN: Hayato Diary
+
+## s053
+# video list item 51
+# limit: 20 letters/line, 1 line
+JP: さくら　ED1
+EN: Sakura Ending 1
+
+## s054
+# video list item 52
+# limit: 20 letters/line, 1 line
+JP: さくら　ED2
+EN: Sakura Ending 2
+
+## s055
+# video list item 53
+# limit: 20 letters/line, 1 line
+JP: さくら　日記
+EN: Sakura Diary
+
+## s056
+# video list item 54
+# limit: 20 letters/line, 1 line
+JP: 流　ED1
+EN: Nagare Ending 1
+
+## s057
+# video list item 55
+# limit: 20 letters/line, 1 line
+JP: 流　日記
+EN: Nagare Diary
+
+## s058
+# video list item 56
+# limit: 20 letters/line, 1 line
+JP: ラン　ED1
+EN: Ran Ending 1
+
+## s059
+# video list item 57
+# limit: 20 letters/line, 1 line
+JP: ラン　日記
+EN: Ran Diary
+
+## s060
+# video list item 58
+# limit: 20 letters/line, 1 line
+JP: EDITキャラED1
+EN: EDIT Character End 1
+
+## s061
+# video list item 59
+# limit: 20 letters/line, 1 line
+JP: EDITキャラED2
+EN: EDIT Character End 2
+
+## s062
+# video list item 60
+# limit: 20 letters/line, 1 line
+JP: クラブ紹介　1
+EN: Club Intros 1
+
+## s063
+# video list item 61
+# limit: 20 letters/line, 1 line
+JP: クラブ紹介　2
+EN: Club Intros 2
+
+## s064
+# video list item 62
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　1
+EN: Summer Memories 1
+
+## s065
+# video list item 63
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　2
+EN: Summer Memories 2
+
+## s066
+# video list item 64
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　3
+EN: Summer Memories 3
+
+## s067
+# video list item 65
+# limit: 20 letters/line, 1 line
+JP: 夏の日の思い出　4
+EN: Summer Memories 4
+
+## s068
+# video list item 66
+# limit: 20 letters/line, 1 line
+JP: クリスマスの思い出
+EN: Christmas Memories
+
+## s069
+# video list item 67
+# limit: 20 letters/line, 1 line
+JP: 雷蔵　日記・特別編
+EN: Raizo Diary: Special
+
+## s070
+# poster list
+# limit: 20 letters/line, 1 line
+JP: 熱血ポスター1
+EN: Hot-Blooded Poster 1
+
+## s071
+# poster list
+# limit: 20 letters/line, 1 line
+JP: 熱血ポスター2
+EN: Hot-Blooded Poster 2
+
+## s072
+# poster list
+# limit: 20 letters/line, 1 line
+JP: 熱血ポスター3
+EN: Hot-Blooded Poster 3
+
+## s073
+# poster list
+# limit: 20 letters/line, 1 line
+JP: 熱血ポスター4
+EN: Hot-Blooded Poster 4
+
+## s074
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 太陽学園高等部屋上
+EN: Taiyo High Roof
+
+## s075
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: パシフィックHS裏門
+EN: Pacific Back Gate
+
+## s076
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 五輪高校第一体育館
+EN: Gorin High Gym 1
+
+## s077
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 外道高校裏工事現場
+EN: Gedo Building Site
+
+## s078
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 太陽学園中等部
+EN: Taiyo Junior High
+
+## s079
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: ドライブインシアター
+EN: Drive-In Theater
+
+## s080
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 五輪高校臨海合宿所前
+EN: Gorin Seaside Camp
+
+## s081
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 外道高校前河川敷
+EN: Gedo High Riverbank
+
+## s082
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 太陽学園高等部教室
+EN: Taiyo High Classroom
+
+## s083
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: ジャスティス学園1
+EN: Justice High 1
+
+## s084
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: ジャスティス学園2
+EN: Justice High 2
+
+## s085
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: ジャスティス学園3
+EN: Justice High 3
+
+## s086
+# CD track list
+# limit: 20 letters/line, 1 line
+JP: 五輪高校プールサイド
+EN: Gorin High Poolside
+
+## s087
+# card submenu
+# limit: 20 letters/line, 1 line
+JP: カードをみる
+EN: View Cards
+
+## s088
+# card submenu
+# limit: 20 letters/line, 1 line
+JP: カードをあげる
+EN: Give Card
+
+## s089
+# PocketStation menu
+# limit: 24 letters/line, 1 line
+JP: ダウンロード
+EN: Download
+
+## s090
+# PocketStation menu
+# limit: 24 letters/line, 1 line
+JP: 操作説明
+EN: How to Play
+
+## s091
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 52 letters total
+JP: ダウンロードには10ブロック以上の空きのある{n}ポケットステーションが必要です
+EN: Needs a PocketStation with 11+ free blocks.
+
+## s092
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: ダウンロードしますか?
+EN: Download?
+
+## s093
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: (スロット1のみ)
+EN: (Slot 1 only)
+
+## s094
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: はい　　　いいえ
+EN: Yes       No
+
+## s095
+# PocketStation/card dialog
+# limit: 40 letters/line, 3 lines, 26 letters total
+JP: ダウンロード実行中{n}ポケットステーションを{n}ぬきさししないでください
+EN: Downloading.{n}Don't unplug!
+
+## s096
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: ダウンロードに失敗しました
+EN: Download failed.
+
+## s097
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: 何かボタンを押して下さい
+EN: Press any button
+
+## s098
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: ダウンロードしました
+EN: Download complete.
+
+## s099
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ポケットステーションがささっていません
+EN: No PocketStation inserted.
+
+## s100
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 26 letters total
+JP: ポケットステーションが{n}フォーマットされていません
+EN: PocketStation{n}not formatted
+
+## s101
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ただしく実行できませんでした
+EN: Could not complete.
+
+## s102
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ポケットステーションがいっぱいです
+EN: PocketStation is full.
+
+## s103
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 26 letters total
+JP: ポケットステーションを{n}時計画面A/Bにもどしてください
+EN: Return to{n}clock screen A/B.
+
+## s104
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: フォーマットしますか?
+EN: Format?
+
+## s105
+# PocketStation/card dialog
+# limit: 40 letters/line, 3 lines, 26 letters total
+JP: フォーマットしています{n}ポケットステーションを{n}ぬきさししないでください
+EN: Formatting.{n}Don't unplug!
+
+## s106
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: フォーマットが終了しました
+EN: Format complete.
+
+## s107
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: キャラクターのついかをしますか?
+EN: Add a character?
+
+## s108
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ポケットステーションをセットしてください
+EN: Insert the PocketStation.
+
+## s109
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: よろしいですか?
+EN: Is that OK?
+
+## s110
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ポケットジャスティスのデータがありません
+EN: No Poke-Jus data.
+
+## s111
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: 正しくロードできませんでした
+EN: Data could not be loaded.
+
+## s112
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: フォーマットに失敗しました
+EN: Format failed.
+
+## s113
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: メモリーカードがささっていません
+EN: No Memory Card inserted.
+
+## s114
+# PocketStation menu
+# limit: 24 letters/line, 1 line
+JP: メッセージカードをもらう
+EN: Get Message Card
+
+## s115
+# PocketStation J-BANK
+# limit: 12 letters/line, 1 line
+JP: POINTS
+EN: POINTS
+
+## s116
+# PocketStation menu
+# limit: 24 letters/line, 1 line
+JP: JーBANK
+EN: J-BANK
+
+## s117
+# PocketStation menu
+# limit: 24 letters/line, 1 line
+JP: もどる
+EN: Back
+
+## s118
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ポケットステーションがいれかわっています
+EN: The PocketStation was switched.
+
+## s119
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 52 letters total
+JP: セーブデータのはいっているメモリーカードを{n}セットしてください
+EN: Insert a Memory Card with save data.
+
+## s120
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: ロードしています
+EN: Loading...
+
+## s121
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: セーブしています
+EN: Saving...
+
+## s122
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: このモードのセーブデータがありません
+EN: No save data for this mode.
+
+## s123
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: セーブしました
+EN: Saved.
+
+## s124
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: メッセージカードをとりだします
+EN: Retrieving the Message Card.
+
+## s125
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: カードをとりだしました
+EN: Card retrieved.
+
+## s126
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: あたらしいカードがありませんでした
+EN: There were no new cards.
+
+## s127
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: すこしおまちください
+EN: Please wait...
+
+## s128
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: ついかされるデータはありませんでした
+EN: There was no data to add.
+
+## s129
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: 正しくセーブできませんでした
+EN: Data could not be saved.
+
+## s130
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 52 letters total
+JP: このカードはもっているようです
+EN: You already have this card.
+
+## s131
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: このメモリーカードに
+EN: Copy the data to
+
+## s132
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: コピーしてよろしいですか?
+EN: this Memory Card?
+
+## s133
+# card received message
+# limit: 4 letters/line, 1 line
+JP: レア
+EN: Rare
+
+## s134
+# card received message
+# limit: 16 letters/line, 1 line
+JP: 熱血カードNo・
+EN: Card No.
+
+## s135
+# card received message
+# limit: 16 letters/line, 1 line
+JP: を手に入れました
+EN: obtained!
+
+## s136
+# card received message
+# limit: 40 letters/line, 2 lines, 26 letters total
+JP: 「熱血カードをみる」で{n}カードを見ることができます
+EN: Check it in View Cards.
+
+## s137
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 26 letters total
+JP: ポケットジャスティスの{n}データがありません
+EN: No Poke-Jus data.
+
+## s138
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: ロードに失敗しました
+EN: Load failed.
+
+## s139
+# PocketStation/card dialog
+# limit: 40 letters/line, 1 line, 26 letters total
+JP: セーブに失敗しました
+EN: Save failed.
+
+## s140
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 26 letters total
+JP: メモリーカードをさしかえて{n}何かボタンを押してください
+EN: Swap cards.{n}Press a button.
+
+## s141
+# PocketStation/card dialog
+# limit: 40 letters/line, 2 lines, 52 letters total
+JP: もとのメモリーカードにもどして{n}何かボタンを押してください
+EN: Put the original card back{n}and press any button.
+
+## h0
+# list panel header over the item count
+# limit: 4 letters/line, 1 line
+JP: 所持
+EN: Own
+
+## h1
+# card grid page counter, drawn after "n/4"
+# limit: 6 letters/line, 1 line
+JP: ページ
+EN: Page
+
+## h2
+# card grid quit dialog, centred
+# limit: 14 letters/line, 1 line
+JP: 終了しますか?
+EN: Quit?
+
+## h3
+# card give confirm, centred
+# limit: 28 letters/line, 1 line
+JP: このカードでよろしいですか?
+EN: Give this card?
+
+## h4a
+# Yes in the card dialogs (x186)
+# limit: 4 letters/line, 1 line
+JP: はい
+EN: Yes
+
+## h4b
+# No in the card dialogs
+# limit: 6 letters/line, 1 line
+JP: いいえ
+EN: No

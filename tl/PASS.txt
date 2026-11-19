@@ -1,0 +1,112 @@
+# EDIT Register password screens and the CPU Edit (熱血戦術指導) mode, all
+# drawn by the PASS overlay (DAT1/PASS.BIN; art in DAT2/EDITMOJI.TIZ).
+# Built by tools/build_pass.py. ID: EN text, JP in the comments. Facts:
+# private/re/pass/findings.org.
+# Glyph strings use the MOJI2 Latin glyphs at a 14 px pitch (13 px in the
+# status panel). Limits count letters only (spaces are free): wrong
+# password and help lines 16, hints 10, registered lines 13 / 19,
+# buttons 6, status labels and values 8 (values up to "Very High"),
+# choice words about 4 (55 px cursor box). "=" keeps the JP string.
+# Shared with KANRI (same JP): the labels and values (KANRI s19-s23,
+# v0-v4), back (戻る), male, female. help0.2 and help1.2 have the same JP
+# as two KANRI help lines but are worded for this screen.
+
+# -- password input (character and tactics guide)
+# パスワード入力 (header art, 160x40)
+hdr: PASSWORD
+# 決定 (last grid cell pair, 2 cells)
+ok: OK
+# スタートで入力完了 (hint line 1; two words, second words line up)
+hint1.0: START
+hint1.1: Done
+# セレクトで入力中止
+hint2.0: SELECT
+hint2.1: Quit
+# パスワードがちがいます
+wrong: Invalid password.
+# 何かボタンを押して下さい (also the footer under a shown password)
+anykey: Press any button
+# 名前 [nickname] 登録 中止 強さ (confirm line after a valid password)
+conf.name: Name
+conf.add: Add
+conf.quit: Quit
+conf.stats: Info
+# キャラの登録が完了しました
+done1: Registered!
+# 他のキャラもパスワード登録しますか?
+done2: Register another?
+# はい いいえ
+done3.yes: Yes
+done3.no: No
+# 登録しますか (tactics guide password confirm)
+tconf: Save it?
+# 登録 中止
+tconf.yes: Yes
+tconf.no: No
+
+# -- CPU Edit mode (熱血戦術指導)
+# 熱血戦術指導 (tab label art, 104x20)
+tac: CPU Tactics
+# buttons
+# 技の使用率
+btn0: Usage
+# 指導書表示
+btn1: Show
+# 指導書入力
+btn2: Enter
+# 戻る
+btn3: Back
+# help lines (JP line 1 各必殺技の使用率を on all three)
+# 各必殺技の使用率を / 設定できます
+help0.1: Set how often the
+help0.2: CPU uses each move.
+# 各必殺技の使用率を / パスワード化して表示します
+help1.1: Show move usage
+help1.2: as a password.
+# 各必殺技の使用率を / パスワードで入力します
+help2.1: Enter move usage
+help2.2: from a password.
+# status labels (KANRI s19 s20 s23 s21 s22)
+# 体力ゲージ
+lab0: Stamina
+# 根性ゲージ
+lab1: Vigor
+# 根性
+lab2: Guts
+# 攻撃力
+lab3: Attack
+# 防御力
+lab4: Defense
+# 男
+male: Male
+# 女
+female: Female
+# values (KANRI v0-v4)
+# すごく低い
+val0: Very Low
+# 低い
+val1: Low
+# ふつう
+val2: Average
+# 高い
+val3: High
+# すごく高い
+val4: Very High
+# usage words (art, thin black, drawn at x 252)
+# あまり使わない
+use0: Rarely
+# 普通
+use1: Normal
+# よく使う
+use2: Often
+# とてもよく使う
+use3: Very often
+# range tabs (art, 96x20 tabs that overlap; keep them short)
+# 遠距離
+rng0: Far
+# 中距離
+rng1: Mid
+# 近距離
+rng2: Close
+# 超近距離
+rng3: Very Close

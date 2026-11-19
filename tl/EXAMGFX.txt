@@ -1,0 +1,72 @@
+# Exam Practice mode (tools/examprac.py, called by build_examgfx.py): the
+# menu atlas SIKEN1/SIKEN10 TIM 1 drawn by the SIKEN and SIKEN2 overlays,
+# the practice menu pieces (SIKEN2.BIZ/SIKEN20 TIM 0) and the two sheets
+# SIKEN1 0x55000 (record) and SIKEN2.BIZ 0x8800 (grade). Lesson names are
+# the title: lines of tl/EXAM.txt. Words shared with the diary sheets
+# (Exam, Grade, the term exams, Back) are read from tl/EXAMSHEET.txt.
+# 試験に出る実技 is the mode the diary calls "Exam Prep" (glossary).
+# The exam items are "Exam" plus the original digit sprite (1-6).
+# RE: private/re/exprac/findings-gfx.org, findings-text.org.
+
+JP: 試験に出る実技
+EN: EXAM PREP
+
+JP: 試験に出る実技’９９
+EN: EXAM PREP '99
+
+JP: どの試験に向けて勉強しますか？
+EN: Which exam will you study for?
+
+JP: どの科目を重点的に行いますか？
+EN: Which subject will you focus on?
+
+JP: 試験（１～６）
+EN: Exam
+
+JP: 科目
+EN: Subj
+
+JP: 基礎のおさらい
+EN: Basics Review
+
+JP: 成績表を見る
+EN: View Report Card
+
+JP: 試験を行う
+EN: Take an Exam
+
+JP: ○－決定
+EN: OK
+
+JP: ×－戻る
+EN: Back
+
+JP: もう一度復習する
+EN: Review Again
+
+JP: 他の課題を練習する
+EN: Practice Another
+
+JP: 戻る
+EN: Back
+
+JP: 「基礎のおさらい」成績表
+EN: Basics Review Report Card
+
+JP: 達成率
+EN: Completion
+
+JP: 試験／科目
+EN: Exam/Subj
+
+JP: 成績発表
+EN: RESULTS
+
+JP: 行動力
+EN: Action
+
+JP: 正確さ
+EN: Acc.
+
+JP: 素早さ
+EN: Speed

@@ -1,0 +1,656 @@
+## MGT13 g0 s0000
+JP: （……さっきからピーピーうるさいと{n}{sp}思ってたら、鳥の巣から{n}{sp}ヒナが落ちてたのか。）{p}
+EN: (So that's what all the cheeping was. A chick fell out of its nest.){p}
+
+## MGT13 g0 s0001
+JP: （親鳥はエサでも{n}{sp}さがしに行っているのか?{n}{sp}巣にはもう一羽のヒナが{n}{sp}いるだけのようだ。）{p}
+EN: (Is the parent off looking for food? Looks like there's just one other chick left in the nest.){p}
+
+## MGT13 g0 s0002
+JP: しょうがない。{n}親がいない今がチャンスだよな……。{p}
+EN: Can't be helped. Now's my chance, while the parent's gone...{p}
+
+## MGT13 g0 s0003
+JP: （俺は、そっとヒナを柔らかく握り、{n}{sp}ポケットへと導いた。{n}{sp}そして巣を目指して{n}{sp}木を登りはじめた。）{p}{end}
+EN: (I gently cupped the chick in my hand, slipped it into my pocket and started climbing the tree toward the nest.){p}{end}
+
+## MGT13 g0 s0007
+JP: ようやく、巣のある枝までたどり着いた。{n}そっと身体と腕を伸ばし、{n}何とか巣にヒナを運んだ。{n}その時!!{p}
+EN: At last I reached the branch with the nest. I stretched out my body and arm as far as I could and somehow got the chick back in. Just then!!{p}
+
+## MGT13 g0 s0008
+JP: パシャパシャッ!!{p}
+EN: Click-click!!{p}
+
+## MGT13 g0 s0010
+JP: 突然のカメラフラッシュは{n}俺の不意をつき、危ないと思う間もなく{n}バランスを失って落下していた。{p}
+EN: The sudden camera flash caught me off guard. Before I knew it, I'd lost my balance and was falling.{p}
+
+## MGT13 g0 s0011
+JP: ドシャーーーーーン!!!{p}{end}
+EN: CRAAAAASH!!!{p}{end}
+
+## MGT13 g0 s0012
+JP: あはは、ナイスショットォ!!{n}ご協力、感謝しま～す。{p}{end}
+EN: Ahaha, nice shooot!! Thanks for your cooperation~.{p}{end}
+
+## MGT13 g0 s0013
+JP: ランか……。{n}またいつものだな。{p}{end}
+EN: Ran... The usual, huh.{p}{end}
+
+## MGT13 g0 s0014
+JP: 危ないじゃないか!{n}これで1面はいただきだな!{p}
+EN: That was dangerous!{n}So this makes the front page!{p}
+
+## MGT13 g0 s0015
+JP: にしても、一歩間違えたら{n}俺は死んでたぞ!{n}もう少し被写体の安全を考えて{n}行動しろよ、ラン!{p}{end}
+EN: Still, one wrong move and I'd be dead! Think about your subject's safety a little, Ran!{p}{end}
+
+## MGT13 g0 s0016
+JP: 何よ、その言い方。{n}感動的な報道のためには{n}ガマンしなさいよぉ!{p}{end}
+EN: What's with that tone? For the sake of moving journalism, just put up with it!{p}{end}
+
+## MGT13 g0 s0017
+JP: （ちくしょ、無茶苦茶言いやがる。）{p}
+EN: (Dammit, she's talking nonsense.){p}
+
+## MGT13 g0 s0018
+JP: あ…………。{p}{end}
+EN: Ah.........{p}{end}
+
+## MGT13 g0 s0019
+JP: （その時、巣に戻されたヒナが{n}{sp}ようやく落ち着いたのか、{n}{sp}エサを求めて鳴き出した。）{p}
+EN: (Just then, the chick back in the nest seemed to calm down and started chirping for food.){p}
+
+## MGT13 g0 s0020
+JP: よかった……。{n}どうやら怪我もしてないみたい。{n}……{v4:19}、いいことしたね!{p}
+EN: Thank goodness... Looks like it's not hurt either. ...{v4:19}, you did a good thing!{p}
+
+## MGT13 g0 s0022
+JP: じゃ、これありがたく{n}使わせてもらうから。{n}じゃね!!{p}
+EN: Well, I'll be putting this to good use. See ya!!{p}
+
+## MGT13 g0 s0023
+JP: （その後、俺がヒナを巣に戻す{n}{sp}瞬間を捉えた写真が、{n}{sp}ランより手渡された。）{p}
+EN: (Later, Ran handed me a photo of the moment I put the chick back in its nest.){p}
+
+## MGT13 g0 s0024
+JP: （彼女が自慢するだけあって、{n}{sp}俺が見ても素晴らしい一枚だった。）{p}
+EN: (It was every bit as good as she bragged. Even I could tell it was a great shot.){p}
+
+## MGT13 g0 s0025
+JP: {col:0}『ヒナ救出の写真』{col:-}を手に入れた!{p}{end}
+EN: Got {col:0}"Chick Rescue Photo"{col:-}!{p}{end}
+
+## MGT13 g0 s0026
+JP: やれやれ。{n}でも、これだけ身体張ったんだから、{n}次の一面トップはこれで決まりだな!{p}
+EN: Oh well. But after putting my body on the line like that, this has to be the next front-page headline!{p}
+
+## MGT13 g0 s0027
+JP: ふふふ、ざーんねんでした。{n}もう1面は構成終わってんのよ!{n}これは……そうね、{n}3面のハートフルページかしらね。{p}{end}
+EN: Hehehe, too ba~d. The front page layout's already done! This one... let's see, maybe the heartwarming page on page 3.{p}{end}
+
+## MGT13 g0 s0028
+JP: （ハートフルページとは、{n}{sp}生徒たちのペットを紹介したりする{n}{sp}ページの事。{n}{sp}いわゆる家庭欄だ……）{p}
+EN: (The heartwarming page is where they show off students' pets and stuff. The family section, basically...){p}
+
+## MGT13 g0 s0029
+JP: ま、いい絵が撮れた事には{n}感謝してるわ!{n}じゃあね!{p}{end}
+EN: Well, I'm grateful I got a nice shot! See ya!{p}{end}
+
+## MGT13 g0 s0031
+JP: ラン!{n}一体どうしたんだ?{n}その足は!{p}
+EN: Ran! What happened to you? Your leg!{p}
+
+## MGT13 g0 s0032
+JP: うるさいわねぇ～。{n}ちょっと階段から足を滑らせただけよ。{p}{end}
+EN: Geez, you're noisy~. I just slipped on the stairs, that's all.{p}{end}
+
+## MGT13 g0 s0033
+JP: 左足首の軽いネンザと膝の青あざだけで、{n}全治は1週間ってところね。{n}でも、それぐらいの怪我ですんで{n}運がいいと思わなきゃ……。{p}
+EN: A mild sprain in the left ankle and a bruised knee. About a week to heal. Still, she should count herself lucky it was only that...{p}
+
+## MGT13 g0 s0034
+JP: しょうがないじゃない。{n}カメラ落とすわけには{n}いかなかったんだから。{p}{end}
+EN: I couldn't help it. I couldn't let the camera fall.{p}{end}
+
+## MGT13 g0 s0035
+JP: カメラ?{n}まさかお前、カメラをかばって{n}自分から落ちたってのか?{p}{end}
+EN: The camera? Don't tell me you fell on purpose to protect your camera?{p}{end}
+
+## MGT13 g0 s0036
+JP: そうよ。{n}だって、せっかくいい写真が撮れたのに{n}もったいないじゃない!{p}
+EN: That's right. I finally got a good photo, it'd be a waste to lose it!{p}
+
+## MGT13 g0 s0037
+JP: すごい記者根性だな{n}自分を大切にしろ{p}{end}
+EN: That's real reporter guts{n}Take care of yourself{p}{end}
+
+## MGT13 g0 s0038
+JP: ……スゴイというか、無茶というか……。{n}大した記者根性だな、ラン。{n}ある意味、尊敬するよ。{p}
+EN: ...Amazing, or reckless, I can't tell... That's some reporter guts, Ran. In a way, I respect it.{p}
+
+## MGT13 g0 s0039
+JP: 微妙な言い方ねぇ～。{n}もっとはっきりモノを言いなさいよ!{p}{end}
+EN: What a wishy-washy way to put it~. Just say what you mean!{p}{end}
+
+## MGT13 g0 s0040
+JP: あなたはよくやってる。{n}彼はそう言いたいのよ。{n}ねぇ、{v1}{col:0}クン{col:-}?{p}
+EN: You're doing great. That's what he's trying to say. Right, {v1}{col:0}-kun{col:-}?{p}
+
+## MGT13 g0 s0041
+JP: うん……まぁ、そんなもんだ。{p}{end}
+EN: Yeah... well, something like that.{p}{end}
+
+## MGT13 g0 s0042
+JP: へぇ～……珍し～。{n}{v4:19}がワタシを{n}誉めてくれるなんて。{n}これも怪我したおかげかな?{p}{end}
+EN: Whoa~... that's ra~re. {v4:19} complimenting me? Guess I have the injury to thank?{p}{end}
+
+## MGT13 g0 s0043
+JP: バカヤロ。{n}記者が足を怪我してちゃ{n}何にもならないだろうが。{n}そのへんは、まだまだだな。{p}{end}
+EN: Dummy. A reporter with a hurt leg is no use to anyone. You've still got a ways to go there.{p}{end}
+
+## MGT13 g0 s0044
+JP: あ～言ったわね!{n}よ～し、見てなさいよ!{n}2年になったら、もっともっと全力で{n}駆け回ってやるんだから!!{p}{end}
+EN: Oh, you said it! Alright, just watch! When I'm a second-year, I'll run around even harder!!{p}{end}
+
+## MGT13 g0 s0045
+JP: （どうやら元気になったみたいだ。{n}{sp}怪我で落ち込んだランなんて{n}{sp}見たくないしな。）{p}{end}
+EN: (Looks like she's back to her old self. I don't wanna see Ran moping over an injury.){p}{end}
+
+## MGT13 g0 s0046
+JP: 馬鹿!!{n}カメラかばって自分が怪我しちゃ{n}何にもならないだろう!{p}{end}
+EN: Idiot!! Getting yourself hurt to protect a camera does no good at all!{p}{end}
+
+## MGT13 g0 s0047
+JP: な……!{n}……そんな言い方しないでよね!!{n}ワタシはこれでも真剣に……{p}
+EN: Wha...! ...Don't talk to me like that!! I'm serious about this...{p}
+
+## MGT13 g0 s0048
+JP: そういう事言ってるんじゃない。{n}いいか?{n}どうしてそのカメラは大切だったんだ?{p}
+EN: That's not what I mean. Listen. Why was that camera so important?{p}
+
+## MGT13 g0 s0049
+JP: それは…………、{n}大切なフィルムが入ってたから……。{p}{end}
+EN: That's... because it had important film in it...{p}{end}
+
+## MGT13 g0 s0050
+JP: その写真がたとえ、{n}もう二度と撮れないような{n}モノだったとしても、{n}それを撮ったのはラン、お前だろ?{p}{end}
+EN: Even if that photo was something you could never take again, you're the one who took it, Ran, right?{p}{end}
+
+## MGT13 g0 s0051
+JP: だったら、お前が無事なら{n}まだまだチャンスはあるじゃないか。{p}{end}
+EN: So as long as you're OK, you've still got plenty of chances.{p}{end}
+
+## MGT13 g0 s0052
+JP: !……………………。{p}{end}
+EN: !.........{p}{end}
+
+## MGT13 g0 s0053
+JP: 怪我を治したら、{n}また全力でがんばれよ、ラン。{n}俺も応援してるからさ。{p}
+EN: Once you're healed, give it your all again, Ran. I'm rooting for you.{p}
+
+## MGT13 g0 s0054
+JP: う、うん…………。{n}そうだよね……私……。{p}
+EN: Y-yeah... You're right... I...{p}
+
+## MGT13 g0 s0055
+JP: ふふふ、若いっていいわね。{n}未来に大きな可能性があるんだから。{p}
+EN: Hehe, it's nice to be young. You've got so much ahead of you.{p}
+
+## MGT13 g0 s0056
+JP: ちゃ、ちゃかさないでくださいよ……。{n}それじゃ、今日は帰るよ。{n}ラン!{n}お大事にね。{p}{end}
+EN: D-don't tease me... Well, I'm heading home. Ran! Take care.{p}{end}
+
+## MGT13 g0 s0057
+JP: あっ…………、{n}{v4:19}、アリガトね……。{p}
+EN: Ah...... {v4:19}, thanks...{p}
+
+## MGT13 g0 s0058
+JP: （はぁ……。{n}{sp}危なく教科書忘れて{n}{sp}帰るところだったよ……）{p}
+EN: (Phew... I almost went home without my textbooks...){p}
+
+## MGT13 g0 s0059
+JP: （ん?{n}{sp}ランの机の上に{n}{sp}アルバムが置いてあるぞ?{n}{sp}……何が写ってるんだろう?）{p}{end}
+EN: (Hm? There's an album on Ran's desk. ...I wonder what's in it?){p}{end}
+
+## MGT13 g0 s0061
+JP: （入学式……俺が怒られたやつだな。{n}{sp}遠足……太P戦……臨海合宿……、{n}{sp}これは、ヒナを助けた時のやつか。{n}{sp}なつかしいなぁ……）{p}
+EN: (Entrance ceremony... where I got yelled at. Field trip... Taiyo-Pacific Match... Seaside Camp... and the chick rescue. Good times...){p}
+
+## MGT13 g0 s0062
+JP: （…………あ、あれ?{n}{sp}よく見ると、全部の写真に{n}{sp}俺が写ってるぞ?）{p}
+EN: (......Huh? Wait, I'm in every single photo?){p}
+
+## MGT13 g0 s0063
+JP: {v4:19}……。{p}
+EN: {v4:19}...{p}
+
+## MGT13 g0 s0064
+JP: うわっ!{n}ラ、ランか。{n}ごめん、黙って見ちゃったよ。{p}{end}
+EN: Whoa! R-Ran. Sorry, I looked without asking.{p}{end}
+
+## MGT13 g0 s0065
+JP: それはいいけど……。{n}……{v4:19}。{n}そのアルバム見て、{n}何か気づいた事……ない?{p}
+EN: That's fine, but... ...{v4:19}. Looking at that album... didn't you notice anything?{p}
+
+## MGT13 g0 s0066
+JP: ずいぶん沢山撮ったんだな{n}腕はまだまだだよ{n}これ……俺のアルバムなのか?{p}{end}
+EN: You sure took a lot of photos{n}Your skills still need work{n}Is this... an album of me?{p}{end}
+
+## MGT13 g0 s0067
+JP: いや……、{n}ずいぶん沢山撮ってるんだなって、{n}感心してたんだ。{p}
+EN: Nah... I was just impressed by how many photos you've taken.{p}
+
+## MGT13 g0 s0068
+JP: ……それだけ?{p}
+EN: ...That's it?{p}
+
+## MGT13 g0 s0069
+JP: だけって……、{n}まぁ、これ見てると、{n}いかにお前と走り回ってたか、{n}一目瞭然だよな。{p}{end}
+EN: "That's it"...? Well, looking at these, it's obvious how much we ran around together.{p}{end}
+
+## MGT13 g0 s0070
+JP: ワタシと一緒にいるの……、{n}いやだった?{p}{end}
+EN: Did you... hate being with me?{p}{end}
+
+## MGT13 g0 s0071
+JP: バカ言うなよ。{n}お前ほど気の合う友達っていうか、{n}仲間はそうはいないからな。{n}親友って呼んでも全然違和感ないよ。{p}{end}
+EN: Don't be dumb. There aren't many friends, or partners, I click with like you. Calling you my best friend wouldn't feel weird at all.{p}{end}
+
+## MGT13 g0 s0072
+JP: ……親友……か。{n}…………………………よぉし!{n}卒業するまで記者やめないからね!{n}アンタもずっとつきあってよね!!{p}
+EN: ...Best friend... huh. ..........Alright! I'm not quitting reporting till we graduate! You're sticking with me the whole way!!{p}
+
+## MGT13 g0 s0073
+JP: あ、ああ……。{n}覚悟しとくよ。{p}
+EN: Uh, y-yeah... I'll brace myself.{p}
+
+## MGT13 g0 s0074
+JP: うん……じゃ、{n}そのアルバム、アンタにあげるわ。{n}まだまだこれから増えるからね。{n}ちゃんと大切にしときなさいよ!{p}{end}
+EN: Yeah... Then you can have that album. There's lots more to come. Take good care of it!{p}{end}
+
+## MGT13 g0 s0075
+JP: （そう言うとランは教室を出ていった。{n}{sp}ただ、今までのランの強気とは、{n}{sp}少し違う感じがした……）{p}
+EN: (With that, Ran left the classroom. But she seemed a little different from her usual tough self...){p}
+
+## MGT13 g0 s0076
+JP: そうだなぁ……。{n}頑張ってはいるんだけど、{n}でも、写真の腕はまだまだだな。{p}
+EN: Let's see... You're trying hard, but your photo skills still need work.{p}
+
+## MGT13 g0 s0077
+JP: な!……、{n}だ、誰もそんな事{n}聞いてないでしょう!?{n}もっとマジメに考えてよ!!{p}{end}
+EN: Wha...! N-nobody asked you that, did they!? Take this seriously!!{p}{end}
+
+## MGT13 g0 s0078
+JP: ラ、ラン?{n}一体どうしたんだよ?{p}{end}
+EN: R-Ran? What's gotten into you?{p}{end}
+
+## MGT13 g0 s0079
+JP: もういいわよ!!{n}そんなアルバム、アンタにあげるわ!!{n}もうワタシにはいらないから!!{p}
+EN: Forget it!! You can have that stupid album!! I don't need it anymore!!{p}
+
+## MGT13 g0 s0080
+JP: （ランはすごい剣幕で、{n}{sp}教室から飛び出していった。{n}{sp}でも、あんなに怒るなんて{n}{sp}思わなかったよな……）{p}
+EN: (Ran stormed out of the classroom. I never thought she'd get that mad...){p}
+
+## MGT13 g0 s0081
+JP: これ……どの写真にも俺が写ってる。{n}…………違うな。{n}俺の写真だけを集めたアルバムなんだ。{n}違う?{p}
+EN: This... I'm in every photo. ......No. This is an album of nothing but photos of me. Right?{p}
+
+## MGT13 g0 s0082
+JP: ううん、そのとおりよ。{n}入学してから今まで撮った写真の中から、{n}{v4:19}が{n}写ってるモノだけを集めたの。{p}{end}
+EN: Mm-hm, that's right. Out of all the photos I've taken since we started school, I picked just the ones with {v4:19} in them.{p}{end}
+
+## MGT13 g0 s0083
+JP: やっぱり……。{n}でも、もうアルバムが出来るぐらい{n}写ってたのか、俺って。{p}{end}
+EN: I knew it... But I'm already in enough of them to fill an album, huh.{p}{end}
+
+## MGT13 g0 s0084
+JP: ワタシは……、{n}まだ一冊分しかなかったのかなって、{n}そう思ったわよ。{n}もっと沢山撮ったような気がしてる。{p}{end}
+EN: Me... I thought, "Only one album's worth?" It feels like I took way more.{p}{end}
+
+## MGT13 g0 s0085
+JP: 気づいた?{n}徐々にだけど、{n}カメラの腕も上達してきてるのよ?{p}{end}
+EN: Did you notice? Little by little, my camera skills have gotten better too, see?{p}{end}
+
+## MGT13 g0 s0086
+JP: （確かにそうだ……）{p}{end}
+EN: (She's right...){p}{end}
+
+## MGT13 g0 s0087
+JP: ……気持ちがこもっていれば、{n}被写体が輝いた瞬間を、{n}閉じこめる事ができる……。{p}{end}
+EN: ...If your heart's in it, you can capture the moment your subject shines...{p}{end}
+
+## MGT13 g0 s0088
+JP: こんな事を実感できたのは、{n}アンタのおかげだわ。{n}アリガトね……{v4:19}……。{p}
+EN: It's thanks to you that I really felt that. Thanks... {v4:19}...{p}
+
+## MGT13 g0 s0089
+JP: そのアルバム……、{n}{v4:19}にあげるわ。{n}これから先、卒業するまで{n}増え続けるから覚悟してね。{p}
+EN: That album... It's yours, {v4:19}. It'll keep growing until we graduate, so be ready.{p}
+
+## MGT13 g0 s0090
+JP: {col:0}『ラン特別製アルバム』{col:-}を手に入れた!!{p}
+EN: Got {col:0}"Ran's Special Album"{col:-}!!{p}
+
+## MGT13 g0 s0093
+JP: はーーーい、{n}今開けます!{p}
+EN: Comiiing, I'll get the door!{p}
+
+## MGT13 g0 s0095
+JP: わっ、なんだ?{p}
+EN: Whoa, what the?{p}
+
+## MGT13 g0 s0096
+JP: {v4:19}の、{n}バースデー写真、いただき!{p}{end}
+EN: {v4:19}'s birthday photo, got it!{p}{end}
+
+## MGT13 g0 s0097
+JP: ラン……。{n}どうしたんだ、いきなり。{p}{end}
+EN: Ran... What's this all of a sudden?{p}{end}
+
+## MGT13 g0 s0098
+JP: な～に、寝ぼけたこといってのよ。{n}今日、アンタの誕生日でしょ?{p}
+EN: What're you half-asleep for? Today's your birthday, right?{p}
+
+## MGT13 g0 s0099
+JP: あ……そうだった、忘れてたよ。{p}
+EN: Oh... right, I forgot.{p}
+
+## MGT13 g0 s0100
+JP: ま、いいわ。{n}はい、コレ。{n}前から渡そうと思ってたんだけど、{n}機会がなかったから。{p}
+EN: Well, whatever. Here, this. I've been meaning to give it to you, but never got the chance.{p}
+
+## MGT13 g0 s0101
+JP: これは……入学式の時のスナップか。{n}そういえば、ランが写真撮ってたよな。{p}{end}
+EN: This is... a snapshot from the entrance ceremony. Come to think of it, you were taking photos that day.{p}{end}
+
+## MGT13 g0 s0102
+JP: ふふっ、入学式そうそう{n}問題起こしてくれたから、{n}写真撮りやすかったわ。{p}{end}
+EN: Hehe, you caused trouble right at the start of the ceremony, so you were easy to shoot.{p}{end}
+
+## MGT13 g0 s0103
+JP: 問題ってお前……、{n}まぁいいか。{n}そういうことにしておこう。{n}アリガトな、ラン。{p}{end}
+EN: Trouble? Hey... Well, whatever. Let's leave it at that. Thanks, Ran.{p}{end}
+
+## MGT13 g0 s0104
+JP: ふふっ、感謝しなさいよ、{n}青春の貴重な1ページなんだから。{p}
+EN: Hehe, be grateful. It's a precious page of your youth.{p}
+
+## MGT13 g0 s0105
+JP: それじゃワタシ、帰るね。{n}じゃね!{p}
+EN: Well, I'm heading home. See ya!{p}
+
+## MGT13 g0 s0106
+JP: ……ふふっ、青春の1ページか。{n}たしかにそうだな。{n}アリガト……ラン。{p}
+EN: ...Heh, a page of my youth, huh. Guess that's true. Thanks... Ran.{p}
+
+## MGT13 g0 s0107
+JP: {col:0}『入学式のスナップ写真』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Entrance Ceremony Snapshot"{col:-}!{p}
+
+## MGT13 g0 s0111
+JP: 今の驚いた顔、よかったわよ!{n}{v4:19}って、ホント{n}スクープ写真が似合うわね!{p}
+EN: That surprised face just now was great! {v4:19}, you really are made for scoop photos!{p}
+
+## MGT13 g0 s0114
+JP: え……俺の誕生日、{n}もう過ぎちゃったんだけど。{p}
+EN: Huh... my birthday already passed, though.{p}
+
+## MGT13 g0 s0115
+JP: え、そうなの?{n}ま、気にしない気にしない。{n}はい、コレ。前から渡そうと{n}思ってたんだけど、機会がなかったから。{p}
+EN: Huh, really? Well, never mind, never mind. Here, this. I've been meaning to give it to you, but never got the chance.{p}
+
+## MGT13 g1 s0000
+JP: （……さっきからピーピーうるさいと{n}{sp}思ってたら、鳥の巣から{n}{sp}ヒナが落ちてたんだ……）{p}{end}
+EN: (So that's what all the cheeping was. A chick fell out of its nest...){p}{end}
+
+## MGT13 g1 s0001
+JP: （親鳥はエサでも{n}{sp}さがしに行っているのかな?{n}{sp}巣にはもう一羽のヒナが{n}{sp}いるだけみたい。）{p}
+EN: (Is the parent off looking for food? Looks like there's just one other chick left in the nest.){p}
+
+## MGT13 g1 s0002
+JP: しょうがない。{n}親がいない今がチャンスだよネ……。{p}
+EN: Can't be helped. Now's my chance, while the parent's gone...{p}
+
+## MGT13 g1 s0003
+JP: （私は、そっとヒナを柔らかく握り、{n}{sp}ポケットへと導いた。{n}{sp}そして巣を目指して{n}{sp}木を登りはじめた。）{p}{end}
+EN: (I gently cupped the chick in my hand, slipped it into my pocket and started climbing the tree toward the nest.){p}{end}
+
+## MGT13 g1 s0010
+JP: 突然のカメラフラッシュは{n}私の不意をつき、危ないと思う間もなく{n}バランスを失って落下していた。{p}
+EN: The sudden camera flash caught me off guard. Before I knew it, I'd lost my balance and was falling.{p}
+
+## MGT13 g1 s0013
+JP: ラン……。{n}またいつものやつ……?{p}
+EN: Ran... The usual thing again...?{p}
+
+## MGT13 g1 s0014
+JP: 危ないじゃない!{n}これで1面はいただきね!{p}
+EN: That was dangerous!{n}So this makes the front page!{p}
+
+## MGT13 g1 s0015
+JP: にしても、一歩間違えたら{n}私は死んじゃってるわよ!{n}もう少し被写体の安全を考えて{n}行動してちょうだいよ、ラン!{p}
+EN: Still, one wrong move and I'd be dead! Think about your subject's safety a little, Ran!{p}
+
+## MGT13 g1 s0017
+JP: （む、無茶苦茶な理論ね……）{p}{end}
+EN: (Wh-what crazy logic...){p}{end}
+
+## MGT13 g1 s0020
+JP: よかった……。{n}どうやら怪我もしてないみたい。{n}……{v8:19}、いいことしたね!{p}
+EN: Thank goodness... Looks like it's not hurt either. ...{v8:19}, you did a good thing!{p}
+
+## MGT13 g1 s0021
+JP: ランちゃん……。{p}{end}
+EN: Ran-chan...{p}{end}
+
+## MGT13 g1 s0023
+JP: （その後、私がヒナを巣に戻す{n}{sp}瞬間を捉えた写真が、{n}{sp}ランより手渡された。）{p}
+EN: (Later, Ran handed me a photo of the moment I put the chick back in its nest.){p}
+
+## MGT13 g1 s0024
+JP: （彼女が自慢するだけあって、{n}{sp}私が見ても素晴らしい一枚だった。）{p}
+EN: (It was every bit as good as she bragged. Even I could tell it was a great shot.){p}
+
+## MGT13 g1 s0026
+JP: やれやれ。{n}でも、これだけ身体張ったんだから、{n}次の一面トップはこれで決まりよね!{p}
+EN: Oh well. But after putting my body on the line like that, this has to be the next front-page headline!{p}
+
+## MGT13 g1 s0028
+JP: （ハートフルページとは、{n}{sp}生徒たちのペットを紹介したりする{n}{sp}ページの事。{n}{sp}いわゆる家庭欄……）{p}{end}
+EN: (The heartwarming page is where they show off students' pets and stuff. The family section, basically...){p}{end}
+
+## MGT13 g1 s0031
+JP: ラン!{n}一体どうしたのよ?{n}その足は!{p}
+EN: Ran! What happened to you? Your leg!{p}
+
+## MGT13 g1 s0035
+JP: カメラ?{n}まさか、カメラをかばって{n}自分から落ちたの?{p}
+EN: The camera? Don't tell me you fell on purpose to protect it?{p}
+
+## MGT13 g1 s0037
+JP: すごい記者根性ね{n}自分を大切にして{p}
+EN: That's real reporter guts{n}Take care of yourself{p}
+
+## MGT13 g1 s0038
+JP: ……スゴイというか、無茶というか……。{n}大した記者根性ね、ラン。{n}ある意味、尊敬するわ。{p}{end}
+EN: ...Amazing, or reckless, I can't tell... That's some reporter guts, Ran. In a way, I respect it.{p}{end}
+
+## MGT13 g1 s0040
+JP: あなたはよくやってる。{n}彼女はそう言いたいのよ。{n}ねぇ、{v1}{col:0}さん{col:-}?{p}{end}
+EN: You're doing great. That's what she's trying to say. Right, {v1}{col:0}-san{col:-}?{p}{end}
+
+## MGT13 g1 s0041
+JP: うん……まぁ、そんなトコ。{p}
+EN: Yeah... well, something like that.{p}
+
+## MGT13 g1 s0042
+JP: へぇ～……珍し～。{n}{v8:19}がワタシを{n}誉めてくれるなんて。{n}これも怪我したおかげかな?{p}{end}
+EN: Whoa~... that's ra~re. {v8:19} complimenting me? Guess I have the injury to thank?{p}{end}
+
+## MGT13 g1 s0043
+JP: バ、バカ。{n}記者が足を怪我してちゃ{n}何にもならないでしょ?{n}そのへんは、まだまだよネ。{p}
+EN: D-dummy. A reporter with a hurt leg is no use to anyone, right? You've still got a ways to go there.{p}
+
+## MGT13 g1 s0045
+JP: （どうやら元気になったみたい。{n}{sp}怪我で落ち込んだランなんて{n}{sp}見たくないしね。）{p}
+EN: (Looks like she's back to her old self. I don't wanna see Ran moping over an injury.){p}
+
+## MGT13 g1 s0046
+JP: バカ!!{n}カメラかばって自分が怪我しちゃ{n}何にもならないでしょ?{p}{end}
+EN: Dummy!! Getting yourself hurt to protect a camera does no good at all!{p}{end}
+
+## MGT13 g1 s0048
+JP: そういう事言ってるんじゃないよ。{n}いい?{n}どうしてそのカメラは大切だったの?{p}{end}
+EN: That's not what I mean. Listen. Why was that camera so important?{p}{end}
+
+## MGT13 g1 s0050
+JP: その写真がたとえ、{n}もう二度と撮れないような{n}モノだったとしても、{n}それを撮ったのはラン、あなたでしょ?{p}{end}
+EN: Even if that photo was something you could never take again, you're the one who took it, Ran, right?{p}{end}
+
+## MGT13 g1 s0051
+JP: だったら、ランが無事なら{n}まだまだチャンスはあるじゃない。{p}
+EN: So as long as you're OK, Ran, you've still got plenty of chances.{p}
+
+## MGT13 g1 s0053
+JP: 怪我を治したら、{n}また全力でがんばってよ、ラン。{n}私も応援してるからさ。{p}{end}
+EN: Once you're healed, give it your all again, Ran. I'm rooting for you.{p}{end}
+
+## MGT13 g1 s0056
+JP: ちゃ、ちゃかさないでください……。{n}それじゃ、今日は帰るよ。{n}ラン!{n}お大事にね。{p}
+EN: D-don't tease me... Well, I'm heading home. Ran! Take care.{p}
+
+## MGT13 g1 s0057
+JP: あっ…………、{n}{v8:19}、アリガトね……。{p}
+EN: Ah...... {v8:19}, thanks...{p}
+
+## MGT13 g1 s0058
+JP: （はぁ……。{n}{sp}危なく教科書忘れて{n}{sp}帰るところだったわ……）{p}
+EN: (Phew... I almost went home without my textbooks...){p}
+
+## MGT13 g1 s0059
+JP: （ん?{n}{sp}ランの机の上に{n}{sp}アルバムが置いてある。{n}{sp}……何が写ってるんだろう?）{p}
+EN: (Hm? There's an album on Ran's desk. ...I wonder what's in it?){p}
+
+## MGT13 g1 s0061
+JP: （入学式……私が怒られたやつだわ。{n}{sp}遠足……太P戦……臨海合宿……、{n}{sp}これは、ヒナを助けた時のやつね。{n}{sp}なつかしいなぁ……）{p}
+EN: (Entrance ceremony... where I got yelled at. Field trip... Taiyo-Pacific Match... Seaside Camp... and the chick rescue. Good times...){p}
+
+## MGT13 g1 s0062
+JP: （…………あ、あれ?{n}{sp}よく見ると、全部の写真に{n}{sp}私が写ってるわ?）{p}
+EN: (......Huh? Wait, I'm in every single photo?){p}
+
+## MGT13 g1 s0063
+JP: {v8:19}……。{p}
+EN: {v8:19}...{p}
+
+## MGT13 g1 s0064
+JP: きゃっ!{n}ラ、ラン。{n}ごめん、黙って見ちゃったよ。{p}
+EN: Eek! R-Ran. Sorry, I looked without asking.{p}
+
+## MGT13 g1 s0065
+JP: それはいいけど……。{n}……{v8:19}。{n}そのアルバム見て、{n}何か気づいた事……ない?{p}
+EN: That's fine, but... ...{v8:19}. Looking at that album... didn't you notice anything?{p}
+
+## MGT13 g1 s0066
+JP: ずいぶん沢山撮ったんだね{n}腕はまだまだだよ{n}これ……私のアルバムなの?{p}
+EN: You sure took a lot of photos{n}Your skills still need work{n}Is this... an album of me?{p}
+
+## MGT13 g1 s0069
+JP: だけって……、{n}まぁ、これ見てると、{n}いかにランと走り回ってたか、{n}一目瞭然だよね。{p}{end}
+EN: "That's it"...? Well, looking at these, it's obvious how much we ran around together.{p}{end}
+
+## MGT13 g1 s0071
+JP: バカ言わないで。{n}ランほど気の合う友達っていうか、{n}仲間はそうはいないわよ。{n}親友って呼んでも全然違和感ないよ。{p}{end}
+EN: Don't be silly. There aren't many friends, or partners, I click with like you, Ran. Calling you my best friend wouldn't feel weird at all.{p}{end}
+
+## MGT13 g1 s0072
+JP: ……親友……か。{n}…………………………よぉし!{n}卒業するまで記者やめないからね!{n}{v8:19}もつきあってよね!!{p}
+EN: ...Best friend... huh. .....Alright! I won't quit reporting till we graduate! {v8:19}, you're sticking with me too!!{p}
+
+## MGT13 g1 s0073
+JP: う、うん……。{n}覚悟しとく。{p}{end}
+EN: Uh, y-yeah... I'll brace myself.{p}{end}
+
+## MGT13 g1 s0074
+JP: うん……じゃそのアルバム、{n}{v8:19}にあげるわ。{n}まだまだこれから増えるからね。{n}ちゃんと大切にしときなさいよ!{p}{end}
+EN: Yeah... Then that album's yours, {v8:19}. There's lots more to come. Take good care of it!{p}{end}
+
+## MGT13 g1 s0076
+JP: そうね……。{n}頑張ってはいるんだけど、{n}でも、写真の腕はまだまだよね。{p}
+EN: Let's see... You're trying hard, but your photo skills still need work.{p}
+
+## MGT13 g1 s0078
+JP: ラ、ラン?{n}一体どうしたの?{p}{end}
+EN: R-Ran? What's gotten into you?{p}{end}
+
+## MGT13 g1 s0080
+JP: （ランはすごい剣幕で、{n}{sp}教室から飛び出していった。{n}{sp}でも、あんなに怒るなんて{n}{sp}思わなかった……）{p}
+EN: (Ran stormed out of the classroom. I never thought she'd get that mad...){p}
+
+## MGT13 g1 s0081
+JP: これ……どの写真にも私が写ってる。{n}…………違う。{n}私の写真だけを集めたアルバムなんだ。{n}違う?{p}{end}
+EN: This... I'm in every photo. ......No. This is an album of nothing but photos of me. Right?{p}{end}
+
+## MGT13 g1 s0082
+JP: ううん、そのとおりよ。{n}入学してから今まで撮った写真の中から、{n}{v8:19}が{n}写ってるモノだけを集めたの。{p}{end}
+EN: Mm-hm, that's right. Out of all the photos I've taken since we started school, I picked just the ones with {v8:19} in them.{p}{end}
+
+## MGT13 g1 s0083
+JP: やっぱり……。{n}でも、もうアルバムが出来るぐらい{n}写ってたのね、私って。{p}{end}
+EN: I knew it... But I'm already in enough of them to fill an album, huh.{p}{end}
+
+## MGT13 g1 s0086
+JP: （確かにそうね……）{p}{end}
+EN: (She's right...){p}{end}
+
+## MGT13 g1 s0088
+JP: こんな事を実感できたのは、{n}{v8:19}のおかげだわ。{n}アリガトね……{v8:19}……。{p}{end}
+EN: It's thanks to you, {v8:19}, that I really felt that. Thanks... {v8:19}...{p}{end}
+
+## MGT13 g1 s0089
+JP: そのアルバム……、{n}{v8:19}にあげるわ。{n}これから先、卒業するまで{n}増え続けるから覚悟してね。{p}
+EN: That album... It's yours, {v8:19}. It'll keep growing until we graduate, so be ready.{p}
+
+## MGT13 g1 s0092
+JP: ん?{sp}誰か訪ねてきたみたい。{n}誰だろう、いったい?{p}
+EN: Hm? Sounds like someone's at the door. Who could it be?{p}
+
+## MGT13 g1 s0095
+JP: きゃっ、な、何?{p}{end}
+EN: Eek, wh-what?{p}{end}
+
+## MGT13 g1 s0096
+JP: {v8:19}の、{n}バースデー写真、いただき!{p}{end}
+EN: {v8:19}'s birthday photo, got it!{p}{end}
+
+## MGT13 g1 s0097
+JP: ラン……。{n}どうしたのよ、いきなり。{p}{end}
+EN: Ran... What's this all of a sudden?{p}{end}
+
+## MGT13 g1 s0099
+JP: あ……そうだった、忘れてたわ。{p}
+EN: Oh... right, I forgot.{p}
+
+## MGT13 g1 s0101
+JP: これは……入学式の時のスナップね。{n}そういえば、ランが写真撮ってたよね。{p}{end}
+EN: This is... a snapshot from the entrance ceremony. Come to think of it, you were taking photos that day.{p}{end}
+
+## MGT13 g1 s0103
+JP: 問題って…………、{n}まぁいいわ。{n}そういうことにしておくわよ。{n}アリガトね、ラン。{p}
+EN: Trouble...? Well, fine. Let's leave it at that. Thanks, Ran.{p}
+
+## MGT13 g1 s0106
+JP: ……ふふっ、青春の1ページか。{n}たしかにそうだね。{n}アリガト……ラン。{p}
+EN: ...Heh, a page of my youth, huh. Guess that's true. Thanks... Ran.{p}
+
+## MGT13 g1 s0111
+JP: 今の驚いた顔、よかったわよ!{n}{v8:19}って、ホント{n}スクープ写真が似合うわね!{p}
+EN: That surprised face just now was great! {v8:19}, you really are made for scoop photos!{p}
+
+## MGT13 g1 s0114
+JP: え……私の誕生日、{n}もう過ぎちゃったんだけど。{p}
+EN: Huh... my birthday already passed, though.{p}
+

@@ -1,0 +1,520 @@
+## MGT02 g0 s0000
+JP: やぁ、恭介!{n}今から帰りなのか?{p}{end}
+EN: Hey, Kyosuke! Heading home now?{p}{end}
+
+## MGT02 g0 s0001
+JP: ああ。{n}今日も委員活動があったからな。{n}夕飯を買いに行かないと。{p}{end}
+EN: Yeah. I had committee work again today. I need to go buy dinner.{p}{end}
+
+## MGT02 g0 s0002
+JP: そっかぁ……。{n}たしか一人暮らしなんだよな。{n}じゃあ、食事は全部弁当か?{p}{end}
+EN: I see... You live alone, right? So is every meal a boxed lunch?{p}{end}
+
+## MGT02 g0 s0003
+JP: 時間に余裕がある時は自炊してるよ。{n}でも、今日みたいに委員で{n}遅くなったりすると、{n}さすがに作ろうという気にはなれないね。{p}
+EN: When I have time to spare, I cook for myself. But when committee work keeps me late like today, I just can't bring myself to cook.{p}
+
+## MGT02 g0 s0004
+JP: でも身体に悪いよ{n}忙しいから仕方ないよ{n}可哀相だね{p}
+EN: But that's bad for you{n}Can't be helped if you're busy{n}That's kind of sad{p}
+
+## MGT02 g0 s0005
+JP: でも、それじゃ栄養が片寄って{n}体に悪いだろう?{p}
+EN: But won't that throw off your nutrition? That's bad for you, right?{p}
+
+## MGT02 g0 s0006
+JP: その事なら、ホラ。{n}対策は考えてあるさ。{p}{end}
+EN: Oh, that. Look. I've got it covered.{p}{end}
+
+## MGT02 g0 s0007
+JP: （恭介が見せてくれたのは、{n}{sp}各種栄養剤だった。{n}{sp}ビタミン、カルシウム、{n}{sp}鉄分に食物繊維……）{p}
+EN: (What Kyosuke showed me was a bunch of supplements. Vitamins, calcium, iron, fiber...){p}
+
+## MGT02 g0 s0008
+JP: 薬で補充かぁ……。{n}悪くはないんだろうけど……。{p}{end}
+EN: Making up for it with pills, huh... I guess it's not bad, but...{p}{end}
+
+## MGT02 g0 s0009
+JP: いつかしわ寄せがくるかもしれない。{n}でも、今の僕にとって{n}これが最良の選択なんだ。{p}
+EN: It may catch up with me someday. But for me right now, this is the best choice.{p}
+
+## MGT02 g0 s0010
+JP: 大丈夫。{n}でも、心配かけてすまなかった……。{p}{end}
+EN: I'm fine. But I'm sorry I made you worry...{p}{end}
+
+## MGT02 g0 s0011
+JP: でも、仕方ないよな。{n}恭介は風紀委員の仕事があって、{n}いつも忙しいんだから。{p}{end}
+EN: Well, it can't be helped. You've got disciplinary committee work, so you're always busy.{p}{end}
+
+## MGT02 g0 s0013
+JP: それに、風紀委員だって、{n}俺たちが上手く学校生活を{n}送れるようにするためのものだろ?{p}{end}
+EN: Besides, the disciplinary committee is there so the rest of us can get through school life OK, right?{p}{end}
+
+## MGT02 g0 s0014
+JP: 言わば、俺たちのために{n}体を張ってくれてるんじゃないか。{n}でも、だからって{n}倒れてちゃ意味が無いぜ?{p}{end}
+EN: You could say you're putting yourself on the line for us. But that doesn't mean a thing if you collapse, y'know?{p}{end}
+
+## MGT02 g0 s0015
+JP: ああ、わかってる。{n}……ありがとう、{v4:2}。{n}同意と理解を示してくれたのは、{n}君が初めてだ……。{p}
+EN: Yes, I know. ...Thank you, {v4:2}. You're the first person who's ever agreed with me and understood...{p}
+
+## MGT02 g0 s0016
+JP: 可哀相だよな……。{n}そんな食生活、{n}俺なら耐えられないよ……。{p}
+EN: That's kind of sad... I couldn't stand eating like that...{p}
+
+## MGT02 g0 s0017
+JP: {v4:2}。{n}僕は、今の暮らし方には{n}一切後悔していない。{n}変な同情はやめてくれないか?{p}
+EN: {v4:2}. I don't regret the way I live one bit. Spare me the pity, would you?{p}
+
+## MGT02 g0 s0018
+JP: （……恭介は去っていった。{n}{sp}言い方がまずかったなぁ……）{p}
+EN: (...Kyosuke walked off. I put that badly...){p}
+
+## MGT02 g0 s0019
+JP: この商店街は、{n}平日でもそれなりの人出があり、{n}いつも活気づいている。{p}
+EN: This shopping district gets a decent crowd even on weekdays. It's always lively.{p}
+
+## MGT02 g0 s0020
+JP: あれ、恭介じゃないか!{n}珍しいな、こんなに早いなんて……。{n}……どうした?{n}顔色が悪いぞ!{p}
+EN: Huh, isn't that Kyosuke? You're out early, that's rare... ...What's wrong? You look pale!{p}
+
+## MGT02 g0 s0021
+JP: 昨日から少し{n}熱っぽかったんだ……。{n}風紀の仕事も休んだんだが……。{p}{end}
+EN: I've been a little feverish since yesterday... I even skipped my committee duties, but...{p}{end}
+
+## MGT02 g0 s0023
+JP: わっ、恭介!{n}大丈夫か、しっかりしろ!{n}どうにかしなきゃ…………。{p}
+EN: Whoa, Kyosuke! You OK? Hang in there! I've gotta do something...{p}
+
+## MGT02 g0 s0024
+JP: ん…………、{n}ここは……どこだ?{p}{end}
+EN: Mm... Where... am I?{p}{end}
+
+## MGT02 g0 s0025
+JP: お、ようやく目を覚ましたな?{n}俺の部屋だよ。{p}{end}
+EN: Oh, you're finally awake? This is my room.{p}{end}
+
+## MGT02 g0 s0026
+JP: まったく、心配させるなよ。{n}あんな熱があるなら、{n}家で寝てりゃよかったのに……。{p}{end}
+EN: Geez, don't scare me like that. With a fever like that, you should've stayed home in bed...{p}{end}
+
+## MGT02 g0 s0027
+JP: そうか……迷惑をかけたな。{n}そろそろ失礼するよ……っと。{p}{end}
+EN: I see... I've caused you trouble. I should be going... hup.{p}{end}
+
+## MGT02 g0 s0028
+JP: バカ!{n}まだ無理するな。{n}熱の下がりはじめが危ないんだぞ。{p}
+EN: Idiot! Don't push it yet. A fever's most dangerous right when it starts to drop.{p}
+
+## MGT02 g0 s0029
+JP: 料理を作る{n}話し相手になる{n}ゆっくり休ませる{p}{end}
+EN: Cook something{n}Keep him company{n}Let him rest{p}{end}
+
+## MGT02 g0 s0030
+JP: 待ってろ。{n}今簡単なものを作ってやるから。{p}
+EN: Wait here. I'll whip up something simple.{p}
+
+## MGT02 g0 s0031
+JP: おいおい……、{n}ちゃんと食べられるもの{n}なんだろうな……。{p}
+EN: Hey now... It is going to be edible, right...?{p}
+
+## MGT02 g0 s0032
+JP: さぁ、それはどうかな?{n}食べてみてから考えるんだな。{p}{end}
+EN: Well, who knows? Try it and then decide.{p}{end}
+
+## MGT02 g0 s0033
+JP: {face:15}・・・・・・{face:255}よし、これはまぁまぁ{n}イケてるんじゃないかな?{n}恭介、できたぞ。{n}俺の特製ぞうすいだ!{p}
+EN: {face:15}......{face:255} OK, this should be pretty decent, right? Kyosuke, it's ready. My special rice porridge!{p}
+
+## MGT02 g0 s0034
+JP: へぇ……以外に美味そうだな。{n}どれ………………。{p}{end}
+EN: Huh... That actually looks good. Let's see...{p}{end}
+
+## MGT02 g0 s0036
+JP: ……味も悪くない。{n}やるな、{v4:2}。{n}なかなかのデキじゃないか。{p}
+EN: ...It tastes good, too. Nice work, {v4:2}. This turned out pretty well.{p}
+
+## MGT02 g0 s0037
+JP: ふふふ。{n}見直したか?{p}
+EN: Heh heh heh. Impressed?{p}
+
+## MGT02 g0 s0038
+JP: ああ……。{n}今日は助かったよ。{n}ありがとう……。{p}{end}
+EN: Yeah... You really helped me today. Thank you...{p}{end}
+
+## MGT02 g0 s0039
+JP: （恭介の真剣な瞳に、{n}{sp}吸い込まれそうになる……）{p}
+EN: (I feel like I could get lost in Kyosuke's earnest eyes...){p}
+
+## MGT02 g0 s0040
+JP: {face:15}・・・・・・・・・・{face:255}{n}よし、これはかなりの自信作だ。{n}恭介、できたぞ。{n}俺のスペシャルぞうすいだ!{p}
+EN: {face:15}..........{face:255} OK, I'm really proud of this one. Kyosuke, it's ready. My extra-special rice porridge!{p}
+
+## MGT02 g0 s0041
+JP: へぇ……やたら豪華そうだな。{n}どれどれ…………。{p}{end}
+EN: Huh... That looks awfully fancy. Let's see...{p}{end}
+
+## MGT02 g0 s0043
+JP: …………味も悪くない。{n}ありがとう……{v4:2}。{p}{end}
+EN: ......It tastes good, too. Thank you... {v4:2}.{p}{end}
+
+## MGT02 g0 s0044
+JP: （……だが、恭介の食は{n}{sp}あまり進まなかった。{n}{sp}ま、病んでいる時は{n}{sp}そういうものだろうけど……）{p}{end}
+EN: (...But Kyosuke barely ate. Well, I guess that's how it is when you're sick...){p}{end}
+
+## MGT02 g0 s0045
+JP: （……結局、食が進まない原因が、{n}{sp}俺の調理ミスである事に{n}{sp}気付いたのは、既に恭介が{n}{sp}帰宅した後だった……）{p}{end}
+EN: (...Only after Kyosuke had gone home did I realize he wasn't eating because I'd messed up the cooking...){p}{end}
+
+## MGT02 g0 s0046
+JP: （恭介は、俺を気づかって、{n}{sp}無理に喉を通したのだろう……）{p}{end}
+EN: (Kyosuke must have forced it down so I wouldn't feel bad...){p}{end}
+
+## MGT02 g0 s0047
+JP: 目が覚めたんなら、{n}ずっと寝てるのも退屈だろう。{n}俺が話し相手になるよ。{p}{end}
+EN: Now that you're awake, just lying there must be boring. I'll keep you company.{p}{end}
+
+## MGT02 g0 s0048
+JP: ああ、ありがとう……。{p}
+EN: Yeah, thanks...{p}
+
+## MGT02 g0 s0049
+JP: （この後、1時間ほど{n}{sp}二人で他愛もない話をした。）{p}{end}
+EN: (After that, the two of us chatted about nothing much for about an hour.){p}{end}
+
+## MGT02 g0 s0050
+JP: （しかし、この時の負担が原因か、{n}{sp}恭介は翌日ふたたび熱を出し、{n}{sp}学校を休んでしまう……）{p}{end}
+EN: (But maybe it wore him out, because the next day Kyosuke's fever came back and he missed school...){p}{end}
+
+## MGT02 g0 s0051
+JP: 今起きても、身体に無理させるだけだ。{n}もう一回、しっかり睡眠をとるんだ。{n}いいな。{p}
+EN: Getting up now will just wear you out. Get some proper sleep again. Got it?{p}
+
+## MGT02 g0 s0052
+JP: ああ……わかったよ……。{p}{end}
+EN: Yeah... All right...{p}{end}
+
+## MGT02 g0 s0053
+JP: （……恭介は、{n}{sp}ちょうど2時間の睡眠をとった。{n}{sp}再び目を覚ました彼は、{n}{sp}すでにかなり回復していた。）{p}
+EN: (...Kyosuke slept for exactly two hours. When he woke up again, he'd already recovered a lot.){p}
+
+## MGT02 g0 s0054
+JP: 今日は助かった。{n}また明日、校門で待ってるよ。{n}じゃあな。{p}
+EN: You really helped me today. I'll be waiting at the school gate tomorrow. See you.{p}
+
+## MGT02 g0 s0055
+JP: 何だよ、恭介?{n}俺に話って。{p}{end}
+EN: What's up, Kyosuke? You wanted to talk to me?{p}{end}
+
+## MGT02 g0 s0056
+JP: ずっと言わなければいけない、と{n}思ってたんだが、{n}つい先延ばしにしてしまっていた。{p}
+EN: I've been meaning to say this for a while, but I kept putting it off.{p}
+
+## MGT02 g0 s0057
+JP: う、うん。{n}なんだよ?{p}
+EN: U-uh, OK. What is it?{p}
+
+## MGT02 g0 s0058
+JP: 君に看病してもらった礼を、{n}僕はまだしていないんだ。{n}……この際、ハッキリ聞こう。{n}僕に、何をして欲しいか言ってくれ。{p}
+EN: I still haven't thanked you for nursing me. ...So I'll ask you straight out. Tell me what you want me to do.{p}
+
+## MGT02 g0 s0059
+JP: な、何をって、ちょっと!{n}急にそんな事言われても……。{n}それに、礼なんて別にいいんだよ。{p}{end}
+EN: Wh-what I want? Hold on! You can't just spring that on me... Besides, you don't need to thank me.{p}{end}
+
+## MGT02 g0 s0060
+JP: それでは僕の気がすまない。{n}なんでもいいから{n}言ってくれないか。{p}{end}
+EN: Then I can't let it go. Anything is fine, so would you just tell me?{p}{end}
+
+## MGT02 g0 s0061
+JP: （……何て言おう?）{p}{end}
+EN: (...What should I say?){p}{end}
+
+## MGT02 g0 s0062
+JP: その気持ちだけで十分だ{n}何か形に残るものが欲しい{n}現金でお願い{p}
+EN: The thought is enough{n}I'd like something to keep{n}Cash, please{p}
+
+## MGT02 g0 s0063
+JP: 恭介……俺、すごく嬉しいよ。{n}でも、その気持ちだけで{n}ホント十分だから。{p}{end}
+EN: Kyosuke... I'm really happy. But honestly, the thought alone is plenty.{p}{end}
+
+## MGT02 g0 s0064
+JP: …………そうか。{n}……わかった。{n}無理強いして悪かったな……。{p}
+EN: ......I see. ...All right. Sorry for pushing it on you...{p}
+
+## MGT02 g0 s0065
+JP: （恭介は校舎の中に消えていった……。{n}{sp}なんか、ガッカリしたような表情に{n}{sp}見えたのは、俺だけか?）{p}{end}
+EN: (Kyosuke disappeared into the school building... Is it just me, or did he look kind of disappointed?){p}{end}
+
+## MGT02 g0 s0066
+JP: そうだなぁ……。{n}どうせもらうなら……せっかくだから、{n}何か形になるものがいいな。{p}
+EN: Let's see... If I'm getting something anyway... I'd like something I can keep.{p}
+
+## MGT02 g0 s0067
+JP: 形になるものか……。{n}……なら、これをやるよ。{p}
+EN: Something you can keep... ...Then take this.{p}
+
+## MGT02 g0 s0068
+JP: （そう言って恭介は、自分の着ていた{n}{sp}白ランを脱いで差し出してきた。）{p}
+EN: (With that, Kyosuke took off the white uniform he was wearing and held it out to me.){p}
+
+## MGT02 g0 s0069
+JP: 恭介……。{n}これ、お前のトレードマークみたいな{n}ものじゃないか。{n}ホントにいいのか?{p}{end}
+EN: Kyosuke... Isn't this kind of your trademark? Are you sure?{p}{end}
+
+## MGT02 g0 s0070
+JP: ああ。{n}スペアは何着もある。{n}心配しないでもらってくれ。{n}……もらって欲しい……。{p}
+EN: Yes. I have plenty of spares. Don't worry, take it. ...I want you to have it...{p}
+
+## MGT02 g0 s0071
+JP: わかった!{n}アリガトな、恭介!{n}これで俺も、{n}正義の風紀委員候補だな!!{p}{end}
+EN: Got it! Thanks, Kyosuke! Now I'm a candidate for the disciplinary committee of justice too!!{p}{end}
+
+## MGT02 g0 s0072
+JP: {col:0}『おそろいの白ラン』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Matching White Uniform"{col:-}!{p}
+
+## MGT02 g0 s0073
+JP: んじゃ、頼む!!{n}礼は現金にしてくれ!{n}今月金無くてピンチなんだよ!{p}{end}
+EN: OK then, here goes!! Make the thanks cash! I'm broke this month!{p}{end}
+
+## MGT02 g0 s0074
+JP: ………………わかった。{n}明日にでも振り込んでおこう。{n}それじゃあな。{p}{end}
+EN: ..........Fine. I'll transfer it to you tomorrow. Goodbye.{p}{end}
+
+## MGT02 g0 s0075
+JP: あっ、恭介……。{n}（ずいぶん表情が硬かったな……）{p}
+EN: Ah, Kyosuke... (His face was really stiff...){p}
+
+## MGT02 g0 s0077
+JP: ん?{sp}誰か訪ねてきたみたいだ。{n}誰だろう、いったい?{p}{end}
+EN: Hm? Sounds like someone's at the door. Who could it be?{p}{end}
+
+## MGT02 g0 s0078
+JP: あ……恭介。{n}どうしたの、こんな時間に。{p}{end}
+EN: Ah... Kyosuke. What's up, this late?{p}{end}
+
+## MGT02 g0 s0079
+JP: やぁ、{v4:2}。{n}何、キミが今日誕生日だと聞いてね、{n}プレゼントをな。{p}
+EN: Hi, {v4:2}. Well, I heard today was your birthday, so... a present.{p}
+
+## MGT02 g0 s0080
+JP: あ……覚えててくれたんだ……。{n}ありがとう、恭介。{p}
+EN: Ah... you remembered... Thanks, Kyosuke.{p}
+
+## MGT02 g0 s0081
+JP: よせよ、そんな堅苦しい。{n}たいしたモノじゃないんだ、{n}生け花をしていたら、{n}花があまったから……。{p}
+EN: Cut it out, no need to be so formal. It's nothing special. I was doing flower arranging and had some flowers left over...{p}
+
+## MGT02 g0 s0082
+JP: すごい『花束』じゃないか!{n}とてもあまりモノには見えない。{p}
+EN: That's an amazing bouquet! It doesn't look like leftovers at all.{p}
+
+## MGT02 g0 s0083
+JP: そうかな……。{n}ま、早めに水につけてやってくれ。{n}その方が保ちがいいからな……。{p}{end}
+EN: You think so... Anyway, put them in water soon. They'll last longer that way...{p}{end}
+
+## MGT02 g0 s0084
+JP: ……それじゃ僕は失礼するよ。{n}あんまり遅い時間までいると、{n}失礼だからな。{p}
+EN: ...Well, I'll be going. It'd be rude to stay too late.{p}
+
+## MGT02 g0 s0085
+JP: 恭介……ありがとう。{p}{end}
+EN: Kyosuke... thank you.{p}{end}
+
+## MGT02 g0 s0086
+JP: ああ……じゃあな。{p}
+EN: Sure... See you.{p}
+
+## MGT02 g0 s0087
+JP: ……この花は俺の誕生花じゃないか……。{n}あまりモノだなんて、アイツ……。{p}{end}
+EN: ...These are my birth flowers... Calling them leftovers, that guy...{p}{end}
+
+## MGT02 g0 s0088
+JP: {col:0}『誕生花の花束』{col:-}を手に入れた!{p}
+EN: Got {col:0}"Birth Flower Bouquet"{col:-}!{p}
+
+## MGT02 g0 s0090
+JP: やぁ、{v4:2}。{n}何、キミがこないだ{n}誕生日だったと聞いてね、{n}プレゼントをな。{p}{end}
+EN: Hi, {v4:2}. Well, I heard your birthday was the other day, so... a present.{p}{end}
+
+## MGT02 g0 s0093
+JP: すごい『花束』じゃないか、{n}とてもあまりモノには見えない。{p}
+EN: That's an amazing bouquet. It doesn't look like leftovers at all.{p}
+
+## MGT02 g1 s0000
+JP: はぁい、恭介!{n}今から帰りなの?{p}{end}
+EN: Hiya, Kyosuke! Heading home now?{p}{end}
+
+## MGT02 g1 s0002
+JP: そっかぁ……。{n}たしか一人暮らしなんだよね。{n}じゃあ、食事は全部お弁当?{p}{end}
+EN: I see... You live alone, right? So is every meal a boxed lunch?{p}{end}
+
+## MGT02 g1 s0005
+JP: でも、それじゃ栄養が片寄って{n}体に悪いでしょう?{p}{end}
+EN: But won't that throw off your nutrition? That's bad for you, isn't it?{p}{end}
+
+## MGT02 g1 s0008
+JP: 薬で補充かぁ……。{n}悪くはないと思うけど……。{p}
+EN: Making up for it with pills, huh... I don't think it's bad, but...{p}
+
+## MGT02 g1 s0011
+JP: でも、仕方ないよね。{n}恭介は風紀委員の仕事があって、{n}いつも忙しいんだから。{p}{end}
+EN: Well, it can't be helped. You've got disciplinary committee work, so you're always busy.{p}{end}
+
+## MGT02 g1 s0013
+JP: それに、風紀委員だって、{n}私たちが上手く学校生活を{n}送れるようにするためのものでしょ?{p}
+EN: Besides, the disciplinary committee is there so the rest of us can get through school life OK, isn't it?{p}
+
+## MGT02 g1 s0014
+JP: 言わば、私たちのために{n}体を張ってくれてるって事よネ。{n}でも、だからって{n}倒れてちゃ意味が無いでしょ?{p}
+EN: You could say you're putting yourself on the line for us. But it doesn't mean a thing if you collapse, right?{p}
+
+## MGT02 g1 s0015
+JP: ああ、わかってる。{n}……ありがとう、{v7:2}。{n}同意と理解を示してくれたのは、{n}君が初めてだ……。{p}
+EN: Yes, I know. ...Thank you, {v7:2}. You're the first person who's ever agreed with me and understood...{p}
+
+## MGT02 g1 s0016
+JP: 可哀相だよね……。{n}そんな食生活、{n}私なら耐えられないよ……。{p}
+EN: That's kind of sad... I couldn't stand eating like that...{p}
+
+## MGT02 g1 s0017
+JP: {v7:2}。{n}僕は、今の暮らし方には{n}一切後悔していない。{n}変な同情はやめてくれないか?{p}
+EN: {v7:2}. I don't regret the way I live one bit. Spare me the pity, would you?{p}
+
+## MGT02 g1 s0018
+JP: （……恭介は去っていった。{n}{sp}言い方がまずかったナァ……）{p}
+EN: (...Kyosuke walked off. I put that badly...){p}
+
+## MGT02 g1 s0019
+JP: この商店街は、{n}平日でもそれなりの人出があって、{n}いつも活気づいている。{p}{end}
+EN: This shopping district gets a decent crowd even on weekdays. It's always lively.{p}{end}
+
+## MGT02 g1 s0020
+JP: あれ、恭介じゃない!{n}珍しいわね、こんなに早いなんて……。{n}……どうしたの?{n}顔色が悪いじゃない!{p}
+EN: Huh, isn't that Kyosuke? You're out early, that's rare... ...What's wrong? You look pale!{p}
+
+## MGT02 g1 s0023
+JP: ちょっと、恭介!{n}大丈夫?{sp}しっかりして!{n}どうにかしなきゃ…………。{p}
+EN: Hey, Kyosuke! Are you OK? Hang in there! I've gotta do something...{p}
+
+## MGT02 g1 s0025
+JP: あ、やっと気がついた?{n}私の部屋だよ。{p}
+EN: Oh, you're finally awake? This is my room.{p}
+
+## MGT02 g1 s0026
+JP: まったく、心配させないでよね。{n}あんな熱があるなら、{n}家でちゃんと寝てなさいヨ……。{p}{end}
+EN: Geez, don't make me worry like that. With a fever like that, you should stay home in bed...{p}{end}
+
+## MGT02 g1 s0028
+JP: ちょっと待って、{n}まだ無理しちゃダメよ!{n}熱の下がりはじめが危ないんだから。{p}{end}
+EN: Wait, don't push it yet! A fever's most dangerous right when it starts to drop.{p}{end}
+
+## MGT02 g1 s0030
+JP: 待ってて。{n}今簡単なものを作ってあげるから。{p}{end}
+EN: Wait here. I'll make you something simple.{p}{end}
+
+## MGT02 g1 s0032
+JP: さぁ、それはどうかしらネ。{n}食べてみてから考えてみたら?{p}{end}
+EN: Well, who knows? Why not try it and then decide?{p}{end}
+
+## MGT02 g1 s0033
+JP: ……よし、これはまぁまぁ{n}イケてるんじゃないかな?{n}恭介、できたわよ。{n}私の特製鍋焼きうどんよ!{p}{end}
+EN: ...OK, this should be pretty decent, right? Kyosuke, it's ready. My special nabeyaki udon!{p}{end}
+
+## MGT02 g1 s0036
+JP: ……味も悪くない。{n}やるな、{v7:2}。{n}なかなかのデキじゃないか。{p}
+EN: ...It tastes good, too. Nice work, {v7:2}. This turned out pretty well.{p}
+
+## MGT02 g1 s0037
+JP: ふふふ。{n}見直した?{p}{end}
+EN: Heh heh heh. Impressed?{p}{end}
+
+## MGT02 g1 s0040
+JP: よし、これはかなりの自信作ね。{n}恭介、できたわよ。{n}私のスペシャル鍋焼きうどん～!{p}
+EN: OK, I'm really proud of this one. Kyosuke, it's ready. My extra-special nabeyaki udon~!{p}
+
+## MGT02 g1 s0043
+JP: …………味も悪くない。{n}ありがとう……{v7:2}。{p}{end}
+EN: ......It tastes good, too. Thank you... {v7:2}.{p}{end}
+
+## MGT02 g1 s0044
+JP: （……でも、恭介の食は{n}{sp}あまり進まなかった。{n}{sp}ま、病んでいる時は{n}{sp}そういうものだろうけど……）{p}{end}
+EN: (...But Kyosuke barely ate. Well, I guess that's how it is when you're sick...){p}{end}
+
+## MGT02 g1 s0045
+JP: （……結局、食が進まない原因が、{n}{sp}私の調理ミスである事に{n}{sp}気付いたのは、既に恭介が{n}{sp}帰宅した後だった……）{p}{end}
+EN: (...Only after Kyosuke had gone home did I realize he wasn't eating because I'd messed up the cooking...){p}{end}
+
+## MGT02 g1 s0046
+JP: （恭介は、私を気づかって、{n}{sp}無理に喉を通してくれたんだ……）{p}
+EN: (Kyosuke forced it down so I wouldn't feel bad...){p}
+
+## MGT02 g1 s0047
+JP: 目が覚めたんなら、{n}ずっと寝てるのも退屈でしょ?{n}私が話し相手になるよ。{p}{end}
+EN: Now that you're awake, just lying there must be boring, right? I'll keep you company.{p}{end}
+
+## MGT02 g1 s0051
+JP: 今起きても、身体に無理させるだけよ。{n}もう一回、しっかり睡眠をとって。{n}いいわネ。{p}
+EN: Getting up now will just wear you out. Get some proper sleep again. OK?{p}
+
+## MGT02 g1 s0055
+JP: 何?{sp}恭介。{n}私に話って。{p}
+EN: What is it, Kyosuke? You wanted to talk to me?{p}
+
+## MGT02 g1 s0057
+JP: う、うん。{n}なに?{p}
+EN: U-um, OK. What?{p}
+
+## MGT02 g1 s0059
+JP: な、何をって、ちょっと!{n}急にそんな事言われても……。{n}それに、礼なんて別にいいわよ。{p}
+EN: Wh-what I want? Hold on! You can't just spring that on me... Besides, you don't need to thank me.{p}
+
+## MGT02 g1 s0062
+JP: その気持ちだけで十分{n}何か形に残るものが欲しい{n}現金でお願い{p}{end}
+EN: The thought is enough{n}I'd like something to keep{n}Cash, please{p}{end}
+
+## MGT02 g1 s0063
+JP: 恭介……私、すごく嬉しいよ。{n}でも、その気持ちだけで{n}ホント十分だから。{p}{end}
+EN: Kyosuke... I'm really happy. But honestly, the thought alone is plenty.{p}{end}
+
+## MGT02 g1 s0065
+JP: （恭介は校舎の中に消えていった……。{n}{sp}なんか、ガッカリしたような表情に{n}{sp}見えたのは、私だけ?）{p}
+EN: (Kyosuke disappeared into the school building... Is it just me, or did he look kind of disappointed?){p}
+
+## MGT02 g1 s0066
+JP: そうね……。{n}どうせもらうなら……せっかくだから、{n}何か形になるものがいいな。{p}
+EN: Let's see... If I'm getting something anyway... I'd like something I can keep.{p}
+
+## MGT02 g1 s0069
+JP: 恭介……。{n}これ、恭介のトレードマークみたいな{n}ものじゃない!{n}ホントにいいの?{p}{end}
+EN: Kyosuke... This is like your trademark! Are you sure?{p}{end}
+
+## MGT02 g1 s0071
+JP: わかった!{n}アリガトね、恭介!{n}これで私も、{n}正義の風紀委員の仲間入りね!!{p}{end}
+EN: Got it! Thanks, Kyosuke! Now I'm one of the disciplinary committee of justice too!!{p}{end}
+
+## MGT02 g1 s0073
+JP: じゃ～、お願い!!{n}お礼は現金にしてくれない?{n}今月お金無くて、{n}も～大ピンチなんだ!{p}
+EN: Well then, pretty please!! Could you make the thanks cash? I'm broke this month, it's a total crisis!{p}
+
+## MGT02 g1 s0077
+JP: ん?{sp}誰か訪ねてきたみたいね。{n}誰だろう、いったい?{p}{end}
+EN: Hm? Sounds like someone's at the door. Who could it be?{p}{end}
+
+## MGT02 g1 s0079
+JP: やぁ、{v7:2}。{n}何、キミが今日誕生日だと聞いてね、{n}プレゼントをな。{p}
+EN: Hi, {v7:2}. Well, I heard today was your birthday, so... a present.{p}
+
+## MGT02 g1 s0082
+JP: すごい『花束』じゃない!{n}とてもあまりモノには見えない。{p}{end}
+EN: That's an amazing bouquet! It doesn't look like leftovers at all.{p}{end}
+
+## MGT02 g1 s0087
+JP: ……この花は私の誕生花じゃない……。{n}あまりモノだなんて言って……。{p}{end}
+EN: ...These are my birth flowers... And he called them leftovers...{p}{end}
+
+## MGT02 g1 s0090
+JP: やぁ、{v7:2}。{n}何、キミがこないだ{n}誕生日だったと聞いてね、{n}プレゼントをな。{p}{end}
+EN: Hi, {v7:2}. Well, I heard your birthday was the other day, so... a present.{p}{end}
+

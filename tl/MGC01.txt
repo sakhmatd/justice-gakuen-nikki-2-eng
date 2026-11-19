@@ -1,0 +1,296 @@
+## MGC01 g0 s0000
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}野球部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to baseball club practice.{p}
+
+## MGC01 g0 s0001
+JP: よぉ、{v1}{col:0}君{col:-}。{n}あけましておめでとう。{n}今年もよろしくな。{p}{end}
+EN: Hey, {v1}{col:0}-kun{col:-}. Happy New Year. Here's to another year.{p}{end}
+
+## MGC01 g0 s0002
+JP: よし、じゃ今年もいつも通り、{n}先月のクラブ活動の成果からだ。{p}{end}
+EN: All right, same as always this year, we'll start with last month's club results.{p}{end}
+
+## MGC01 g0 s0004
+JP: よし、お疲れさん。{n}新年早々気合が入ってるな。{p}
+EN: All right, good work. The year's barely started and you're already fired up.{p}
+
+## MGC01 g0 s0005
+JP: 今月は……初詣はもう済ませたか。{n}あとは、3学期の初日に、{n}またクラブをかえられるぞ。{p}
+EN: This month... you've probably made your first shrine visit already. Other than that, you can switch clubs again on the first day of third term.{p}
+
+## MGC01 g0 s0006
+JP: 年も明けたし、3学期なんてすぐだからな。{n}のこり3ヶ月、がんばっていこう。{n}それじゃ、また来月な。{p}
+EN: The new year's here, and third term goes by fast. Three months left, let's give it our all. See you next month.{p}
+
+## MGC01 g0 s0007
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}バレー部の練習に行くか。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to volleyball club practice.{p}{end}
+
+## MGC01 g0 s0008
+JP: 来たな、{v0}!{n}あけましておめでとう。{n}今年がいい年になるかどうかは{n}お前次第だ。がんばれよ。{p}{end}
+EN: There you are, {v0}! Happy New Year. Whether this year's a good one is up to you. Give it your all.{p}{end}
+
+## MGC01 g0 s0009
+JP: それじゃ今年もいつも通り、{n}先月のクラブ活動の成果からだな!{p}{end}
+EN: Okay, same as always this year, we'll start with last month's club results!{p}{end}
+
+## MGC01 g0 s0011
+JP: グーッだ!{n}一年の計は元旦にアリというからな!{p}
+EN: Great stuff! They say New Year's Day sets the tone for the whole year!{p}
+
+## MGC01 g0 s0012
+JP: さてと今月は……ふむ、{n}3学期の初日にまたクラブを変えられる。{n}いろいろやってみることも{n}大切だぞ。{p}{end}
+EN: Now, this month... hm, you can switch clubs again on the first day of third term. Trying all sorts of things matters too.{p}{end}
+
+## MGC01 g0 s0013
+JP: もう3学期だからな。{n}1年なんてあっという間だ。{n}のこり3ヶ月、がんばっていけよ。{n}それじゃ、また来月な!{p}
+EN: It's already third term. A year goes by in a flash. Three months left, keep at it. See you next month!{p}
+
+## MGC01 g0 s0014
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}サッカー部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to soccer club practice.{p}
+
+## MGC01 g0 s0015
+JP: あけましておめでとうございます、{n}{v0}{col:0}君{col:-}。{n}今日は、1月の特別練習の日です。{n}がんばっていきましょうね。{p}
+EN: Happy New Year, {v0}{col:0}-kun{col:-}. Today is January's special practice day. Let's do our best.{p}
+
+## MGC01 g0 s0017
+JP: さすがですね。{n}それでは、次は特別練習です。{n}好きな練習を選んでください。{p}
+EN: Impressive as always. Next is special practice. Please pick whichever drill you like.{p}
+
+## MGC01 g0 s0018
+JP: はい、お疲れさまです。{n}調子、いいみたいですね。{n}私でもわかりますよ。{p}
+EN: Okay, good work. You seem to be in good form. Even I can tell.{p}
+
+## MGC01 g0 s0019
+JP: 今月の伝達事項は……、{n}ええと、3学期の初日に、{n}またクラブを変えられますね。{n}それ以外は……特になしです。{p}{end}
+EN: This month's announcements... Um, you can switch clubs again on the first day of third term. Other than that... nothing in particular.{p}{end}
+
+## MGC01 g0 s0020
+JP: もう3学期なんて、早いですね。{n}あと3ヶ月、がんばっていきましょう。{n}それでは、また来月に……。{p}{end}
+EN: Third term already. Time flies, doesn't it? Three more months, let's do our best. Well then, until next month...{p}{end}
+
+## MGC01 g0 s0021
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}相撲部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to sumo club practice.{p}
+
+## MGC01 g0 s0022
+JP: 来たな、{v1}!{n}あけましておめでとう。{n}今年もガンガンいくぞ!{p}{end}
+EN: There you are, {v1}! Happy New Year. We're going full tilt again this year!{p}{end}
+
+## MGC01 g0 s0025
+JP: よしよし、いいだろう。{n}もう立派な相撲取りだな。{p}{end}
+EN: Good, good, that'll do. You're a proper sumo wrestler now.{p}{end}
+
+## MGC01 g0 s0026
+JP: さてと、おっそうそう、{n}3学期の初日に、{n}またクラブを変えられるぞ。{n}今月はそれくらいか。{p}
+EN: Now then... oh, right. You can switch clubs again on the first day of third term. That's about it for this month.{p}
+
+## MGC01 g0 s0027
+JP: よし、3学期なんて、あっという間に{n}終わってしまうからな。{n}のこり3ヶ月、気を抜くなよ。{n}じゃ、また来月な。{p}{end}
+EN: All right. Third term will be over before you know it. Three months left, don't let your guard down. See you next month.{p}{end}
+
+## MGC01 g0 s0028
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}美術部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to art club practice.{p}
+
+## MGC01 g0 s0029
+JP: はーい来たわね、{v0}{col:0}クン{col:-}。{n}あけましておめでとう!{n}今年もよろしくね!{p}{end}
+EN: Hiii, you made it, {v0}{col:0}-kun{col:-}. Happy New Year! Here's to another year!{p}{end}
+
+## MGC01 g0 s0030
+JP: さ～てと、じゃさっそく、{n}先月のクラブ活動の成果からね。{p}{end}
+EN: Okaaay, let's jump right in with last month's club results.{p}{end}
+
+## MGC01 g0 s0032
+JP: はい、おつかれさま。{n}今年も調子良さそうね。{p}{end}
+EN: Okay, good work. Looks like you're in good shape this year too.{p}{end}
+
+## MGC01 g0 s0033
+JP: ええと、そうそう、{n}3学期のアタマに、またクラブを{n}変えられるわ……。{n}やめたりしないよね……?{p}{end}
+EN: Um, oh right, you can switch clubs again at the start of third term... You're not gonna quit, are you...?{p}{end}
+
+## MGC01 g0 s0034
+JP: もう3学期なんて、早いよね。{n}あと残り3ヶ月、がんばっていきましょう。{n}それじゃ、また来月ね。{p}
+EN: Third term already, time flies, huh. Three months left, let's give it our best. See you next month.{p}
+
+## MGC01 g0 s0035
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}吹奏楽部の練習に行くか。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to brass band practice.{p}{end}
+
+## MGC01 g0 s0036
+JP: {v0}{col:0}君{col:-}、{n}あけましておめでとう。{n}今年もよろしくね……。{n}さぁ特別練習、がんばりましょう……。{p}{end}
+EN: {v0}{col:0}-kun{col:-}, Happy New Year. I look forward to this year with you too... Now, let's do our best at special practice...{p}{end}
+
+## MGC01 g0 s0039
+JP: おつかれさま。{n}あなた、すごくセンスがあるわね。{n}上達も早いし……。{p}{end}
+EN: Good work. You have a real feel for this... And you improve so quickly...{p}{end}
+
+## MGC01 g0 s0040
+JP: あ、そうそう……{n}3学期の初日に、またクラブが{n}かえられるわよ。{n}かわってみるのもいいかもね……。{p}
+EN: Oh, right... You can switch clubs again on the first day of third term. Trying another one might be nice too...{p}
+
+## MGC01 g0 s0041
+JP: あと3ヶ月で2年生ね。{n}1年なんて早いわ……。{n}じゃ、また来月ね……。{p}
+EN: Three more months and we'll be second-years. A year goes by so fast... See you next month...{p}
+
+## MGC01 g0 s0042
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}演劇部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to drama club practice.{p}
+
+## MGC01 g0 s0043
+JP: やぁ、{v0}{col:0}クン{col:-}。{n}あけましておめでとう。{n}今年もよろしくね。{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. Happy New Year. Here's to another year.{p}
+
+## MGC01 g0 s0045
+JP: それじゃ、特別練習をしましょうか。{n}好きな練習を選んでね。{p}
+EN: Now then, shall we do special practice? Pick whichever drill you like.{p}
+
+## MGC01 g0 s0046
+JP: はい、今日はここまでにしましょう。{n}キミみたいに飲み込みの早い子が{n}いてくれると、私も安心して{n}卒業できるわ。{p}
+EN: All right, let's stop here for today. With a quick learner like you around, I can graduate with peace of mind.{p}
+
+## MGC01 g0 s0047
+JP: 3学期の初めに、{n}またクラブを変えることができるみたいよ。{n}私としてはかわって欲しくないけど、{n}個人の自由ですからね。{p}
+EN: It seems you can switch clubs again at the start of third term. I'd rather you didn't, but that's your own choice.{p}
+
+## MGC01 g0 s0048
+JP: 私はもうすぐ卒業だわ。{n}3年なんてあっという間よ。{n}あなたも悔いを残さないようがんばってね。{n}それじゃ、また来月ね。{p}{end}
+EN: I'll be graduating soon. Three years go by in a flash. Give it your all so you have no regrets either. See you next month.{p}{end}
+
+## MGC01 g0 s0049
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だ。{n}化学部の練習に行くか。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to chemistry club practice.{p}
+
+## MGC01 g0 s0050
+JP: やぁ来たな。{v0}{col:0}君{col:-}。{n}あけましておめでとう。{n}今年もよろしくな。{n}初詣にはもういったかね?{p}{end}
+EN: Ah, here you are, {v0}{col:0}-kun{col:-}. Happy New Year. Here's to another year. Have you made your first shrine visit yet?{p}{end}
+
+## MGC01 g0 s0051
+JP: ふむふむ、それはいい心がけだ。{n}それじゃいつも通り、{n}先月のクラブ活動の成果からだ。{p}{end}
+EN: Mm-hm, that's the right attitude. Now, as usual, we'll start with last month's club results.{p}{end}
+
+## MGC01 g0 s0052
+JP: よしよし。それじゃ次は、{n}今月の特別練習だな。{n}ぼちぼちとやっていこう。{p}{end}
+EN: Good, good. Next is this month's special practice. Let's take it nice and easy.{p}{end}
+
+## MGC01 g0 s0053
+JP: なるほどなるほど。{n}お疲れさん。{n}どうだ、化学は知れば知るほど{n}おもしろいだろう?{p}
+EN: I see, I see. Good work. Well? The more you learn about chemistry, the more fun it gets, eh?{p}
+
+## MGC01 g0 s0054
+JP: ええと、ああそうだそうだ、{n}またクラブをかえられるそうだな、{n}3学期の初日だったかな。{n}まぁ自分で考えてやることだな。{p}
+EN: Um, ah yes, yes, I hear you can switch clubs again. On the first day of third term, was it? Well, that's for you to decide.{p}
+
+## MGC01 g0 s0055
+JP: もう1月か。もう少しで1年になるな。{n}3学期なんてあっという間だぞ。{n}がんばれよ。{n}それじゃ、また来月な。{p}
+EN: January already. It's nearly been a year. Third term will be over in no time. Keep it up. See you next month.{p}
+
+## MGC01 g0 s0056
+JP: さてと、新年早々面倒だが、{n}今日は特別練習の日だな。{n}委員長と遊んでくるかな。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Guess I'll go hang out with the Chairperson.{p}
+
+## MGC01 g0 s0057
+JP: はーい、{v0}{col:0}君{col:-}。{n}あけましておめでとう。{n}今年もよろしくね。{p}
+EN: Hi, {v0}{col:0}-kun{col:-}. Happy New Year. Here's to another year.{p}
+
+## MGC01 g0 s0058
+JP: さてと、とりあえず、{n}先月の帰宅部の成果からね。{p}{end}
+EN: Now then, first up, last month's Go-Home Club results.{p}{end}
+
+## MGC01 g0 s0059
+JP: ふむふむ。ま、こんなものね。{n}それじゃ次は、{n}今月の特別練習ね。{p}{end}
+EN: Mm-hm. Well, about what I expected. Next is this month's special practice.{p}{end}
+
+## MGC01 g0 s0060
+JP: まぁそのへんにしておきましょう。{n}正月ボケでだらだらしてちゃダメよ。{p}{end}
+EN: Well, let's leave it there. No lazing around in a post-holiday daze.{p}{end}
+
+## MGC01 g0 s0061
+JP: ええと、3学期の初めに、{n}またクラブに入る機会があるわよ。{n}今度はちゃんと普通のクラブにはいるのよ。{p}{end}
+EN: Um, at the start of third term, you'll get another chance to join a club. This time, join a proper club, okay?{p}{end}
+
+## MGC01 g0 s0062
+JP: 早いもので、もう3学期よ。{n}あと3ヶ月、がんばってね。{n}それじゃ、また来月ね。{p}
+EN: Time flies. It's already third term. Three more months, do your best. See you next month.{p}
+
+## MGC01 g1 s0000
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}野球部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to baseball club practice.{p}{end}
+
+## MGC01 g1 s0001
+JP: よぉ、{v1}{col:0}さん{col:-}。{n}あけましておめでとう。{n}今年もよろしくな。{p}
+EN: Hey, {v1}{col:0}-san{col:-}. Happy New Year. Here's to another year.{p}
+
+## MGC01 g1 s0007
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}バレー部の練習に行こうかな。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to volleyball club practice.{p}
+
+## MGC01 g1 s0014
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}サッカー部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to soccer club practice.{p}{end}
+
+## MGC01 g1 s0015
+JP: {v1}{col:0}ちゃん{col:-}、{n}あけましておめでとう。{n}今日は、1月の特別練習の日ね。{n}がんばっていきましょうね。{p}
+EN: {v1}{col:0}-chan{col:-}, Happy New Year. Today's January's special practice day. Let's do our best.{p}
+
+## MGC01 g1 s0017
+JP: さすがね。{n}それでは、次は特別練習よ。{n}好きな練習を選んでね。{p}
+EN: Impressive. Next is special practice. Pick whichever drill you like.{p}
+
+## MGC01 g1 s0018
+JP: はい、お疲れさま。{n}調子、いいみたいね。{n}私でもわかるよ。{p}
+EN: Okay, good work. You seem to be in good form. Even I can tell.{p}
+
+## MGC01 g1 s0019
+JP: 今月の伝達事項は……、{n}ええと、3学期の初日に、{n}またクラブを変えられますね。{n}それ以外は……特になしね。{p}
+EN: This month's announcements... Um, you can switch clubs again on the first day of third term. Other than that... nothing much.{p}
+
+## MGC01 g1 s0020
+JP: もう3学期なんて、早いね。{n}あと3ヶ月、がんばっていきましょう。{n}それでは、また来月に……。{p}{end}
+EN: Third term already. Time flies, huh? Three more months, let's do our best. Well then, until next month...{p}{end}
+
+## MGC01 g1 s0021
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}相撲部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to sumo club practice.{p}{end}
+
+## MGC01 g1 s0022
+JP: 来たな、{v0}!{n}あけましておめでとう。{n}今年もガンガンいくぞ!{p}{end}
+EN: There you are, {v0}! Happy New Year. We're going full tilt again this year!{p}{end}
+
+## MGC01 g1 s0028
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}美術部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to art club practice.{p}{end}
+
+## MGC01 g1 s0029
+JP: はーい来たわね、{v1}{col:0}ちゃん{col:-}。{n}あけましておめでとう!{n}今年もよろしくね!{p}
+EN: Hiii, you made it, {v1}{col:0}-chan{col:-}. Happy New Year! Here's to another year!{p}
+
+## MGC01 g1 s0035
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}吹奏楽部の練習に行こうかな。{p}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to brass band practice.{p}
+
+## MGC01 g1 s0036
+JP: {v1}{col:0}さん{col:-}、{n}あけましておめでとう。{n}今年もよろしくね……。{n}さぁ特別練習、がんばりましょう……。{p}
+EN: {v1}{col:0}-san{col:-}, Happy New Year. I look forward to this year with you too... Now, let's do our best at special practice...{p}
+
+## MGC01 g1 s0042
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}演劇部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to drama club practice.{p}{end}
+
+## MGC01 g1 s0043
+JP: やぁ、{v1}{col:0}さん{col:-}。{n}あけましておめでとう。{n}今年もよろしくね。{p}
+EN: Hi, {v1}{col:0}-san{col:-}. Happy New Year. Here's to another year.{p}
+
+## MGC01 g1 s0049
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}化学部の練習に行こうかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Time to head to chemistry club practice.{p}{end}
+
+## MGC01 g1 s0056
+JP: さてと、新年早々面倒だけど、{n}今日は特別練習の日ね。{n}委員長と遊んでこようかな。{p}{end}
+EN: It's a pain right after New Year's, but today's special practice day. Guess I'll go hang out with the Chairperson.{p}{end}
+
+## MGC01 g1 s0057
+JP: はーい、{v1}{col:0}さん{col:-}。{n}あけましておめでとう。{n}今年もよろしくね。{p}{end}
+EN: Hi, {v1}{col:0}-san{col:-}. Happy New Year. Here's to another year.{p}{end}
+

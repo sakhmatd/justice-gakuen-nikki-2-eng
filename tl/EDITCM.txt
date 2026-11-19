@@ -1,0 +1,633 @@
+# EDIT command-list cards (DAT2/EDITCM.BIZ, 32 entries), built by tools/build_editcm.py.
+# cmNN = archive entry NN-1 = EDIT style NN. Entries 1-24 derive from the
+# first game's EDITCM01-24 (same numbering); rows that match the first
+# game's card pixel for pixel carry its EN (topic editchar). An empty value
+# means the row changed or is new: the card stays JP until all its rows
+# have EN. Notes (.ann) must be checked for rows marked "cmd changed".
+# ID: EN text. '|' forces a line break; otherwise the builder fits one line
+# and falls back to two lines when the row has room.
+# cmNN.sK = special move row K (必殺技 cell, top to bottom),
+# cmNN.bK = Burning Vigor Attack row K (完全燃焼アタック cell).
+# cmNN.sK.ann / .bK.ann = red text notes in the command column of that row,
+# left to right, separated by '|': 空中で = Air, ため = hold, 連打 = mash,
+# 連続入力可 = repeatable, 後 = '>' (fighting-game notation for "then"; the
+# gap is one glyph wide). The 空中可 badge is not listed (always ann.badge).
+# Names: official Western (Rival Schools) names from moves.pdf, matched
+# by character and command (work/re/moves/mapping.org); EDIT variants
+# reuse the official base name. "?" = no official match.
+
+# Left column headings (same on every card)
+head.special: Special|Moves
+head.bva: Burning|Vigor|Attack
+head.easy: Easy|Command
+# 愛と友情のツープラトン; official EN term "Team Up Technique"
+head.teamup: Team Up|Technique
+# 空中可 (red badge), 弱 / 強 (team-up buttons)
+ann.badge: AIR
+tu.light: L
+tu.heavy: H
+
+# EDITCM.BIZ entry 0 (style 1)
+# EDITCM01
+# 正波拳 (Hideo, PDF)
+cm01.s1: Seihaken
+# 幻影キック (Kyosuke, PDF)
+cm01.s2: Shadow Cut Kick
+# 咲桜拳 (Sakura, PDF)
+cm01.s3: Shouou-Ken
+# 島津流正波拳 (Hideo, PDF)
+cm01.b1: Shimazu Seihaken
+# ダブル幻影キック (Kyosuke, PDF)
+cm01.b2: Double Shadow Cut Kick
+# 乱れ桜 (Sakura, PDF)
+cm01.b3: Midare-Zakura
+
+# EDITCM.BIZ entry 1 (style 2)
+# 実直拳 (Hideo, PDF)
+cm02.s1: Jicchokuken
+# ジャンピングサーブ (Natsu, PDF)
+cm02.s2: Jumping Serve
+# 雷鋭蹴 (Hideo, PDF)
+cm02.s3: Raieishuu
+cm02.s3.ann: Air
+# 大嵐 (Gan, PDF, likely)
+cm02.s4: Thunder Clap
+# 島津流真実直拳 (Hideo, PDF)
+cm02.b1: Shimazu Jicchokuken
+# ファイヤーアタック (Natsu, PDF)
+cm02.b2: Blazing Spike
+cm02.b2.ann: Air
+# スーパータッチダウン (Roy, PDF)
+cm02.b3: Super Touchdown
+
+# EDITCM.BIZ entry 2 (style 3)
+# 裏斬り (Edge, PDF)
+cm03.s1: Reversing Blade Strike
+# スライディングキック (Roberto, PDF)
+cm03.s2: Sliding Kick
+# 旋蹴舞 (Akira, PDF)
+cm03.s3: Dancing Cyclone Kick
+# 分身魔球 (Shoma, PDF)
+cm03.b1: Hundred Balls
+# 空中分身魔球 (EDIT variant of Hundred Balls)
+cm03.b2: Air Hundred Balls
+cm03.b2.ann: Air
+# 春一番 (Sakura, PDF)
+cm03.b3: Haruichiban
+
+# EDITCM.BIZ entry 3 (style 4)
+# EDITCM04
+# 旋風脚 (EDIT variant, romanised as Fire Senpuu-Kyaku)
+cm04.s1: Senpuu-Kyaku
+# 剛速球 (Shoma; first game 超剛速球 = Fast Ball)
+cm04.s2: Fast Ball
+# 出席確認 (Kyoko, PDF)
+cm04.s3: Shussekikakunin
+# 春一番
+cm04.b1: Haruichiban
+# 爆裂Vゴール (Roberto, PDF)
+cm04.b2: Victory Goal
+# 分身魔球
+cm04.b3: Hundred Balls
+
+# EDITCM.BIZ entry 4 (style 5)
+# EDITCM05
+# グルービーパンチ
+cm05.s1: Groovy Punch
+cm05.s1.ann: hold
+# command column changed from the first game; notes checked
+# 昇陽拳 (Hinata, PDF)
+# from the first game cm05.s3
+cm05.s2: Shouyouken
+# command column changed from the first game; notes checked
+# 裏裡門 (Akira, PDF)
+# from the first game cm05.s2
+cm05.s3: Gate Elbow
+# 石砕牙 (Raizo, PDF)
+cm05.s4: Sekisaiga
+# command column changed from the first game; notes checked
+# グルービースペシャル (no official match, literal)
+cm05.b1: Groovy Special
+# 千本スパイク (Natsu, PDF)
+# from the first game cm05.b1
+cm05.b2: Thousand Spikes
+# command column changed from the first game; notes checked
+# 真空天仰波動拳 (Sakura, PDF)
+# from the first game cm05.b2
+cm05.b3: Shinkuu Tengyou-Hadoken
+# command column changed from the first game; notes checked
+
+# EDITCM.BIZ entry 5 (style 6)
+# EDITCM06
+# 豪快リード (Shoma, PDF)
+cm06.s1: Baseline Shuffle
+# 殺人スライディング (Shoma, PDF)
+cm06.s2: Homicide Slide
+# スライディングレシーブ
+cm06.s3: Sliding Receive
+# 六腑突き (Raizo, PDF)
+cm06.s4: Roppu-Zuki
+# 連脚弾 (Hinata, PDF)
+cm06.s5: Renkyakuden
+cm06.s5.ann: Air
+# スーパー側転 (no official match, literal)
+cm06.b1: Super Cartwheel
+# 忌野流六腑突き (Raizo, PDF)
+# from the first game cm06.b1
+cm06.b2: Imawano Roppu-Zuki
+cm06.b2.ann: hold
+# command column changed from the first game; notes checked
+# 気功塊 (Akira, PDF)
+# from the first game cm06.b2
+cm06.b3: Skull Aura
+# command column changed from the first game; notes checked
+
+# EDITCM.BIZ entry 6 (style 7)
+# EDITCM07
+# ゴッドアッパー (Boman, PDF)
+cm07.s1: Great Upper
+cm07.s1.ann: repeatable
+# ゴッドストレート (Boman, PDF)
+cm07.s2: Haymaker Straight
+# 大嵐 (Gan, PDF, likely)
+cm07.s3: Thunder Clap
+# ガッツアッパー (glossary)
+cm07.s4: Guts Upper
+# スクリューパイルドライバー (EDIT only)
+cm07.s5: Screw Piledriver
+# 噴火山 (Gan, PDF, likely)
+cm07.b1: Concrete Smash
+# Wスクリューパイルドライバー (EDIT only)
+cm07.b2: Double Screw Piledriver
+
+# EDITCM.BIZ entry 7 (style 8)
+# 人工呼吸 (no official match, literal)
+cm08.s1: Mouth-to-Mouth
+# 触診 (Kyoko, PDF)
+cm08.s2: Shokushin
+cm08.s2.ann: >|mash
+# command column changed from the first game; notes checked
+# 伸身 (Kyoko, PDF, likely)
+cm08.s3: Pop Quiz
+# 雷神アッパー (Kyosuke, PDF)
+cm08.s4: Lightning Upper
+# 春一番
+cm08.b1: Haruichiban
+# スーパー雷神アッパー (EDIT variant of Lightning Upper)
+cm08.b2: Super Lightning Upper
+# 死の介護 (Kyoko, PDF)
+cm08.b3: Final Prescription
+
+# EDITCM.BIZ entry 8 (style 9)
+# 飛び込み (no official match, literal; Nagare's dive?)
+cm09.s1: Dive
+# 空中飛び込み (EDIT variant, literal)
+cm09.s2: Air Dive
+cm09.s2.ann: Air
+# ゴッドラリアット (Boman, PDF)
+cm09.s3: Great Lariat
+cm09.s3.ann: Air
+# 春風脚 (Sakura, PDF)
+cm09.s4: Shunpuu-Kyaku
+# 超飛び込み (no official match, literal)
+cm09.b1: Super Dive
+# 真空蒼空波動拳 (EDIT variant, Sakura romanisation)
+cm09.b2: Shinkuu Soukuu-Hadoken
+cm09.b2.ann: Air
+# ヘブンズクロス (Boman, PDF)
+cm09.b3: Great Cross
+
+# EDITCM.BIZ entry 9 (style 10)
+# EDITCM10
+# 回診 (Kyoko, PDF)
+cm10.s1: Kaishin
+# 回転レシーブ
+cm10.s2: Rolling Receive
+# 幻影キック
+cm10.s3: Shadow Cut Kick
+# ファイヤー旋風脚 (Hinata, PDF)
+cm10.b1: Fire Senpuu-Kyaku
+# 空中ファイヤー旋風脚 (EDIT variant)
+cm10.b2: Air Fire Senpuu-Kyaku
+cm10.b2.ann: Air
+# ワンダフルキック
+cm10.b3: Wonderful Kick
+
+# EDITCM.BIZ entry 10 (style 11)
+# 号外! (no official match; newspaper "extra")
+cm11.s1: Extra! Extra!
+# シャイニングセーブ
+cm11.s2: Shining Save
+# command column changed from the first game; notes checked
+# 岩石落とし (Gan, PDF, likely: command = Cannon Ball)
+cm11.s3: Cannon Ball
+cm11.s3.ann: Air
+# 空中気功塊 (Skull Aura in the air)
+cm11.b1: Air Skull Aura
+cm11.b1.ann: Air
+# 破の連舞 (Akira, PDF)
+cm11.b2: Reflex Barrage
+# 島津流真実直拳
+cm11.b3: Shimazu Jicchokuken
+
+# EDITCM.BIZ entry 11 (style 12)
+# EDITCM12
+# スタンプキック (EDIT only)
+cm12.s1: Stamp Kick
+cm12.s1.ann: Air
+# エキサイティングキック
+cm12.s2: Exciting Kick
+# ライジングキック
+cm12.s3: Rising Kick
+# 雷鋭蹴
+cm12.s4: Raieishuu
+cm12.s4.ann: Air
+# 空中気功塊
+cm12.b1: Air Skull Aura
+cm12.b1.ann: Air
+# 島津流雷鋭蹴 (EDIT variant)
+cm12.b2: Shimazu Raieishuu
+cm12.b2.ann: Air
+
+# EDITCM.BIZ entry 12 (style 13)
+# EDITCM13
+# 鉄砲突き (Gan, PDF)
+cm13.s1: Gun Stabbing
+# ゴッドラリアット
+cm13.s2: Great Lariat
+cm13.s2.ann: Air
+# 咲桜拳
+cm13.s3: Shouou-Ken
+# 乱れ鉄砲突き (Gan, PDF)
+cm13.b1: Super Gun Stabbing
+# ヘブンズクロス
+cm13.b2: Great Cross
+
+# EDITCM.BIZ entry 13 (style 14)
+# 片翼の構 (Kyoko, PDF)
+cm14.s1: One Wing Stance
+# 昇天切開 (Kyoko, PDF, likely)
+cm14.s2: Knee Check
+# 炎舞脚 (Hinata, PDF)
+cm14.s3: Enbukyaku
+# 気合弾 (Batsu, PDF)
+cm14.s4: Guts Bullet
+# 天獄への階段 (Kyoko, PDF)
+cm14.b1: Class Curve Kicks
+# 全開気合弾 (Batsu, PDF)
+cm14.b2: Super Guts Bullet
+
+# EDITCM.BIZ entry 14 (style 15)
+# 無双突き (Daigo, PDF: QCF+P, mash as in the MGK10 quiz)
+cm15.s1: Phoenix Fist
+cm15.s1.ann: mash
+# 柏手破り (Gan, PDF)
+cm15.s2: Clapping Hand Destruction
+# シャイニングセーブ (Roberto, PDF)
+cm15.s3: Shining Save
+# 無双正拳突き (Daigo, PDF: QCF QCF+P)
+cm15.b1: Phoenix Fury
+# 島津流正波拳 (Hideo, PDF)
+cm15.b2: Shimazu Seihaken
+
+# EDITCM.BIZ entry 15 (style 16)
+# 無双蹴り (Daigo, PDF: QCF+K)
+cm16.s1: Phoenix Kick
+# 三日月キック (Batsu, PDF)
+cm16.s2: Crescent Star Kick
+# command column changed from the first game; notes checked
+# ライジングキック
+cm16.s3: Rising Kick
+# 爆裂Vゴール
+cm16.b1: Victory Goal
+# 春一番
+cm16.b2: Haruichiban
+
+# EDITCM.BIZ entry 16 (style 17)
+# EDITCM17
+# ダイナマイトストレート
+cm17.s1: Dynamite Straight
+# ツイスターアッパー
+cm17.s2: Twister Upper
+# クロスカッター
+cm17.s3: Cross Cutter
+# 真円脚 (Hideo, PDF)
+cm17.s4: Shinenkyaku
+# トリプルツイスター
+cm17.b1: Triple Twister
+# 拡散クロスカッター (Kyosuke, PDF)
+cm17.b2: Super Cross Cutter
+
+# EDITCM.BIZ entry 17 (style 18)
+# 鉄砲突き (Gan, PDF)
+cm18.s1: Gun Stabbing
+# 片翼の構 (Kyoko, PDF)
+cm18.s2: One Wing Stance
+# ビューティフルスピン (Tiffany, PDF)
+cm18.s3: Beautiful Spin
+# 乱れ鉄砲突き (Gan, PDF)
+cm18.b1: Super Gun Stabbing
+# 天獄への階段 (Kyoko, PDF)
+cm18.b2: Class Curve Kicks
+# ワンダフルキック (Tiffany, PDF)
+cm18.b3: Wonderful Kick
+
+# EDITCM.BIZ entry 18 (style 19)
+# EDITCM19
+# ゴッドラッシュ (Boman, PDF)
+cm19.s1: Great Rush
+# ジャンピングサーブ
+cm19.s2: Jumping Serve
+# グルービーナックル
+cm19.s3: Groovy Knuckle
+# 千本スパイク
+cm19.b1: Thousand Spikes
+# ファイヤーアタック
+cm19.b2: Blazing Spike
+cm19.b2.ann: Air
+# 噴火山 (Gan, PDF, likely)
+cm19.b3: Concrete Smash
+
+# EDITCM.BIZ entry 19 (style 20)
+# クロスカウンター (Hayato, glossary)
+cm20.s1: Counter Thrust
+# 流星キック (Batsu, PDF)
+cm20.s2: Shooting Star Kick
+cm20.s2.ann: Air
+# command column changed from the first game; notes checked
+# 空中気合弾 (EDIT variant)
+cm20.s3: Air Guts Bullet
+cm20.s3.ann: Air
+# ライジングキック
+cm20.s4: Rising Kick
+# 空中ライジングキック (as the first game cm20.s5)
+cm20.s5: Air Rising Kick
+cm20.s5.ann: Air
+# 全開流星キック (EDIT variant, 全開 = Super as in Super Guts Bullet)
+cm20.b1: Super Shooting Star Kick
+cm20.b1.ann: Air
+# command column changed from the first game; notes checked
+# 熱血クロスカウンター (Hayato, glossary)
+cm20.b2: Super Counter Thrust
+# 空中全開気合弾 (EDIT variant)
+cm20.b3: Air Super Guts Bullet
+cm20.b3.ann: Air
+
+# EDITCM.BIZ entry 20 (style 21)
+# EDITCM21
+# 波動拳
+cm21.s1: Hadoken
+# ゴッドラリアット
+cm21.s2: Great Lariat
+cm21.s2.ann: Air
+# 春風脚
+cm21.s3: Shunpuu-Kyaku
+# 空中春風脚 (EDIT variant)
+cm21.s4: Air Shunpuu-Kyaku
+cm21.s4.ann: Air
+# 真空波動拳
+cm21.b1: Shinkuu-Hadoken
+# ヘブンズクロス
+cm21.b2: Great Cross
+# ファイヤー旋風脚
+cm21.b3: Fire Senpuu-Kyaku
+
+# EDITCM.BIZ entry 21 (style 22)
+# EDITCM22
+# 幻影キック
+cm22.s1: Shadow Cut Kick
+# 幻影ウエーブ (Kyosuke, PDF)
+cm22.s2: Shadow Wave
+cm22.s2.ann: Air
+# 連撃拳 (Hinata, PDF)
+cm22.s3: Rengekiken
+cm22.s3.ann: mash
+# 出席確認
+cm22.s4: Shussekikakunin
+# ダブル幻影キック
+cm22.b1: Double Shadow Cut Kick
+# 空中ダブル幻影キック (EDIT variant)
+cm22.b2: Air Double Shadow Cut Kick
+cm22.b2.ann: Air
+# ファイヤー連撃拳 (EDIT variant)
+cm22.b3: Fire Rengekiken
+
+# EDITCM.BIZ entry 22 (style 23)
+# EDITCM23
+# タッチダウンウエーブ
+cm23.s1: Touchdown Wave
+# 裏裡門
+cm23.s2: Gate Elbow
+# ガッツアッパー
+cm23.s3: Guts Upper
+# 炎舞脚
+cm23.s4: Enbukyaku
+# スーパータッチダウン
+cm23.b1: Super Touchdown
+# 気功塊
+cm23.b2: Skull Aura
+# 空中気功塊
+cm23.b3: Air Skull Aura
+cm23.b3.ann: Air
+# ブローラッシュ ? (maybe Boman Best Rush, but the command uses K)
+cm23.b4: Blow Rush
+
+# EDITCM.BIZ entry 23 (style 24)
+# EDITCM24
+# ロングシュート (Roberto, PDF)
+cm24.s1: Long Shot
+# バイシクルキック
+cm24.s2: Bicycle Kick
+cm24.s2.ann: Air
+# エキサイティングキック
+cm24.s3: Exciting Kick
+# ライジングキック
+cm24.s4: Rising Kick
+# 爆裂Vゴール
+cm24.b1: Victory Goal
+# スーパーエキサイティングキック (EDIT variant)
+cm24.b2: Super Exciting Kick
+
+# EDITCM.BIZ entry 24 (style 25), new in this game
+# 大嵐 (Gan, PDF, likely)
+cm25.s1: Thunder Clap
+# 人工呼吸 (no official match, literal)
+cm25.s2: Mouth-to-Mouth
+# スクリューパイルドライバー (EDIT only)
+cm25.s3: Screw Piledriver
+# Wスクリューパイルドライバー (EDIT only)
+cm25.b1: Double Screw Piledriver
+# 無双正拳突き (Daigo, PDF)
+cm25.b2: Phoenix Fury
+# トリプルスクリューパイルドライバー (EDIT only, literal)
+cm25.b3: Triple Screw Piledriver
+
+# EDITCM.BIZ entry 25 (style 26), new in this game
+# 波動拳 (Sakura, PDF)
+cm26.s1: Hadoken
+# 幻影キック (Kyosuke, PDF)
+cm26.s2: Shadow Cut Kick
+# スクリューパイルドライバー (EDIT only)
+cm26.s3: Screw Piledriver
+# 雷神アッパー (Kyosuke, PDF)
+cm26.s4: Lightning Upper
+# 真空波動拳 (Sakura, PDF)
+cm26.b1: Shinkuu-Hadoken
+# Wスクリューパイルドライバー (EDIT only)
+cm26.b2: Double Screw Piledriver
+# ダブル幻影キック (Kyosuke, PDF)
+cm26.b3: Double Shadow Cut Kick
+# スーパー雷神アッパー (EDIT variant of Lightning Upper)
+cm26.b4: Super Lightning Upper
+
+# EDITCM.BIZ entry 26 (style 27), new in this game
+# 側転 (no official match, literal)
+cm27.s1: Cartwheel
+# 気功塊 (Daigo/Akira, PDF; Daigo's is AIR QCF+P)
+cm27.s2: Skull Aura
+cm27.s2.ann: Air
+# 雷神アッパー (Kyosuke, PDF)
+cm27.s3: Lightning Upper
+# ショックウエーブ (no official match, literal)
+cm27.s4: Shock Wave
+# スーパー側転 (no official match, literal)
+cm27.b1: Super Cartwheel
+# スーパー雷神アッパー (EDIT variant of Lightning Upper)
+cm27.b2: Super Lightning Upper
+# スーパーショックウエーブ (no official match, literal)
+cm27.b3: Super Shock Wave
+# 硬気功塊 (Daigo, PDF, likely: AIR QCF QCF+P)
+cm27.b4: Air Rebel Aura
+cm27.b4.ann: Air
+
+# EDITCM.BIZ entry 27 (style 28), new in this game
+# ロングシュート (Roberto, PDF)
+cm28.s1: Long Shot
+# 人工呼吸 (no official match, literal)
+cm28.s2: Mouth-to-Mouth
+# クロスカウンター (Hayato, glossary)
+cm28.s3: Counter Thrust
+# 号外! (no official match; newspaper "extra")
+cm28.s4: Extra! Extra!
+# 爆裂Vゴール (Roberto, PDF)
+cm28.b1: Victory Goal
+# 熱血クロスカウンター (Hayato, glossary)
+cm28.b2: Super Counter Thrust
+# 個人メドレー (Nagare, glossary, literal)
+cm28.b3: Individual Medley
+
+# EDITCM.BIZ entry 28 (style 29), new in this game
+# ヘブンズクロス (Boman, PDF)
+cm29.s1: Great Cross
+# ファイヤーアタック (Natsu, PDF)
+cm29.s2: Blazing Spike
+cm29.s2.ann: Air
+# 死の介護 (Kyoko, PDF)
+cm29.s3: Final Prescription
+# 島津流正波拳 (Hideo, PDF)
+cm29.b1: Shimazu Seihaken
+# 乱れ桜 (Sakura, PDF)
+cm29.b2: Midare-Zakura
+# 超バタ足 (no official match, literal; Nagare?)
+cm29.b3: Super Flutter Kick
+# ファイヤー旋風脚 (Hinata, PDF)
+cm29.b4: Fire Senpuu-Kyaku
+
+# EDITCM.BIZ entry 29 (style 30), new in this game
+# トリプルツイスター (Roy, PDF)
+cm30.s1: Triple Twister
+# 超バタ足 (no official match, literal)
+cm30.s2: Super Flutter Kick
+# 忌野流六腑突き (Raizo, PDF)
+cm30.s3: Imawano Roppu-Zuki
+cm30.s3.ann: hold
+# 全開気合弾 (Batsu, PDF)
+cm30.b1: Super Guts Bullet
+# 島津流真実直拳 (Hideo, PDF)
+cm30.b2: Shimazu Jicchokuken
+# ダブル幻影キック (Kyosuke, PDF)
+cm30.b3: Double Shadow Cut Kick
+# 噴火山 (Gan, PDF, likely)
+cm30.b4: Concrete Smash
+
+# EDITCM.BIZ entry 30 (style 31), new in this game
+# 硬気功塊 (Daigo, PDF, likely; as cm27.b4)
+cm31.s1: Air Rebel Aura
+cm31.s1.ann: Air
+# 乱れ鉄砲突き (Gan, PDF)
+cm31.s2: Super Gun Stabbing
+# 全開流星キック (EDIT variant)
+cm31.s3: Super Shooting Star Kick
+cm31.s3.ann: Air
+# 春一番 (Sakura, PDF)
+cm31.b1: Haruichiban
+# 爆裂Vゴール (Roberto, PDF)
+cm31.b2: Victory Goal
+# 個人メドレー (Nagare, glossary, literal)
+cm31.b3: Individual Medley
+# スーパータッチダウン (Roy, PDF)
+cm31.b4: Super Touchdown
+
+# EDITCM.BIZ entry 31 (style 32), new in this game
+# クロスカウンター (Hayato, glossary)
+cm32.s1: Counter Thrust
+# 背中語り (no official match, literal: "let your back do the talking")
+cm32.s2: Back Talk
+# 気合キック (Hayato, PDF, likely: DP+K = Devastation Kick)
+cm32.s3: Devastation Kick
+# 熱血クロスカウンター (Hayato, glossary)
+cm32.b1: Super Counter Thrust
+# 男の背中 (no official match, literal)
+cm32.b2: A Man's Back
+# 熱血気合キック (EDIT variant, 熱血 = Super as in Super Counter Thrust)
+cm32.b3: Super Devastation Kick
+
+# Team-Up name sheet (TIM at 0x13000, identical in every entry).
+# tuNN = KANRI record NN (file 0x1038 + 20*NN). Names as in tl/TEAMUP.txt
+# (glossary); four differ from the first game's EDITCM sheet.
+# W気合弾
+tu00: Double Guts Bullet
+# ラストシンフォニー
+tu01: Last Symphony
+# ガッツ百倍
+tu02: Guts & Power
+# ラブ&ピース
+tu03: Love & Peace
+# ファイト百倍
+tu04: Praise & Spirit
+# 究極の矯正術 (first game: Final Correction)
+tu05: Rest & Relax
+# トラップWシュート
+tu06: Double Shot
+# 血"獄
+tu07: Bloody Nightmare
+# Wライジングトルネード
+tu08: Double Rising Tornado
+# 連撃連舞 (first game: Barrage Dance)
+tu09: Gang Buster
+# Wパワーバスター
+tu10: Double Power Buster
+# 活火山
+tu11: Active Volcano
+# 島津流真正波拳
+tu12: Shin Seihaken
+# 男の中の男 (first game: Man Among Men)
+tu13: Super Parry
+# クロスファイヤーキック
+tu14: Crossfire Kick
+# 春獄殺
+tu15: Shungokusatsu
+# Wスカイアタック
+tu16: Final Spike
+# 人間大砲
+tu17: Ningen-Taihou
+# ダイブ&プレス
+tu18: Bridge Drop
+# 協奏連撃蹴 (first game: Concerto Combo Kick)
+tu19: Neo Synchronous Attack
+# 究極の愛の波動
+tu20: Heart Attack
+# シンクロナイズドアタック
+tu21: Synchronized Attack
+# いただきスクープ (not on the year-end select; provisional, no official name found)
+tu22: Scoop Grab

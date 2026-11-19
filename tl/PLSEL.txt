@@ -1,0 +1,46 @@
+# Festival Sprint/Dance popups, built by tools/build_plsel.py.
+# PLAYER SELECT popup (MINITTL9/A/B/C TIM 3). One line per character, in
+# the order of the MGAME06 0x2b0 entries. Names as in tl/glossary.org,
+# without honorifics (the JP shows bare names).
+name_kyosuke: Kyosuke
+name_batsu: Batsu
+name_hinata: Hinata
+name_shoma: Shoma
+name_natsu: Natsu
+name_roberto: Roberto
+name_roy: Roy
+name_tiffany: Tiffany
+name_boman: Boman
+name_edge: Edge
+name_akira_k: Akira
+name_gan: Gan
+name_hideo: Hideo
+name_kyoko: Kyoko
+name_raizo: Raizo
+name_hyo: Hyo
+name_akira_h: Akira
+name_sakura: Sakura
+name_daigo: Daigo
+name_hayato: Hayato
+name_ran: Ran
+name_nagare: Nagare
+# generic student: school + sex, drawn as two pieces on one line
+school_taiyo: Taiyo High
+school_gorin: Gorin High
+school_pacific: Pacific High
+school_gedo: Gedo High
+school_justice: Justice High
+sex_m: Male
+sex_f: Female
+# fixed pieces (JP プレイヤー, パートナー, 決定)
+player: Player
+partner: Partner
+ok: OK
+# Sprint opponent list (label atlas, MINITTL0-C TIM 0) and its icons
+opp_hyo: Hyo
+opp_shoma: Shoma
+opp_batsu: Batsu
+opp_boman: Boman
+opp_gan: Gan
+fast: FAST
+slow: SLOW
